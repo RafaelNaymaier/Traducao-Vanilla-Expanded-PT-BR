@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Tradução Vanilla Expanded (PT-BR)</name>
+  <author>Rafael Naymaier</author>
+  <supportedVersions>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <packageId>RimworldMods.TraducaoVanillaExpanded.PTBR</packageId>
+  <description>Tradução completa e consolidada para Português do Brasil (PT-BR) de todos os mods da série Vanilla Expanded (VE).</description>
+  
+  <content type="Language" />
+  
+  <modDependencies>
+    <li>
+      <packageId>OskarPotocki.VanillaExpanded.Core</packageId>
+      <displayName>Vanilla Expanded Framework</displayName>
+    </li>
+  </modDependencies>
+  
+  <loadAfter>
+    <li>OskarPotocki.VanillaExpanded.Core</li>
+    <li>Ludeon.RimWorld</li>
+  </loadAfter>
+</ModMetaData>
