@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VEF_RangedCooldownFactor.label>fator de recarga à distância</VEF_RangedCooldownFactor.label>
+  <VEF_RangedCooldownFactor.description>O tempo de recarga das armas de longo alcance do usuário é multiplicado por este valor.</VEF_RangedCooldownFactor.description>
+
+  <VEF_VerbRangeFactor.label>fator de alcance de arma</VEF_VerbRangeFactor.label>
+  <VEF_VerbRangeFactor.labelForFullStatList>fator de alcance de arma (peões)</VEF_VerbRangeFactor.labelForFullStatList>
+  <VEF_VerbRangeFactor.description>O alcance das armas é multiplicado por este valor.</VEF_VerbRangeFactor.description>
+
+  <VEF_EnergyShieldEnergyMaxOffset.label>deslocamento máximo de energia do escudo</VEF_EnergyShieldEnergyMaxOffset.label>
+  <VEF_EnergyShieldEnergyMaxOffset.description>O valor adicionado à energia máxima deste escudo.</VEF_EnergyShieldEnergyMaxOffset.description>
+
+  <VEF_EnergyShieldRechargeRateOffset.label>deslocamento da taxa de recarga do escudo</VEF_EnergyShieldRechargeRateOffset.label>
+  <VEF_EnergyShieldRechargeRateOffset.description>O valor adicionado à taxa de recarga deste escudo.</VEF_EnergyShieldRechargeRateOffset.description>
+
+  <VEF_ResearchSpeedFactor.label>fator de velocidade de pesquisa</VEF_ResearchSpeedFactor.label>
+  <VEF_ResearchSpeedFactor.description>A velocidade de pesquisa é multiplicada por este valor.</VEF_ResearchSpeedFactor.description>
+
+  <VEF_RangedAccuracyFactor.label>fator de precisão à distância</VEF_RangedAccuracyFactor.label>
+  <VEF_RangedAccuracyFactor.description>A precisão ao usar armas de longo alcance é multiplicada por este valor.</VEF_RangedAccuracyFactor.description>
+
+  <VEF_BuildingLearningRateOffset.label>taxa de aprendizado</VEF_BuildingLearningRateOffset.label>
+  <VEF_BuildingLearningRateOffset.description>Um multiplicador sobre a rapidez com que as crianças aprendem durante as aulas assistidas por esta estrutura.</VEF_BuildingLearningRateOffset.description>
+
+  <VEF_RangedDodgeChance.label>chance de desvio à distância</VEF_RangedDodgeChance.label>
+  <VEF_RangedDodgeChance.description>Chance de desviar de um ataque à distância que de outra forma teria atingido.</VEF_RangedDodgeChance.description>
+
+</LanguageData>
