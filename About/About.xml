@@ -14,9 +14,15 @@
       <displayName>Vanilla Expanded Framework</displayName>
       <steamWorkshopUrl>2023513437</steamWorkshopUrl>
     </li>
+    <li>
+      <packageId>vanillaracesexpanded.sanguophage</packageId>
+      <displayName>Vanilla Races Expanded - Sanguophage</displayName>
+      <steamWorkshopUrl>2963116383</steamWorkshopUrl>
+    </li>
   </modDependencies>
   <loadAfter>
     <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
     <li>Ludeon.RimWorld</li>
+    <li>vanillaracesexpanded.sanguophage</li>
   </loadAfter>
 </ModMetaData>
