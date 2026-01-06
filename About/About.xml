@@ -7,16 +7,14 @@
   </supportedVersions>
   <packageId>RimworldMods.TraducaoVanillaExpanded.PTBR</packageId>
   <description>Tradução completa e consolidada para Português do Brasil (PT-BR) de todos os mods da série Vanilla Expanded (VE).</description>
-  
-  <content type="Language" />
-  
+
   <modDependencies>
     <li>
       <packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
       <displayName>Vanilla Expanded Framework</displayName>
+      <steamWorkshopUrl>2023513437</steamWorkshopUrl>
     </li>
   </modDependencies>
-  
   <loadAfter>
     <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
     <li>Ludeon.RimWorld</li>

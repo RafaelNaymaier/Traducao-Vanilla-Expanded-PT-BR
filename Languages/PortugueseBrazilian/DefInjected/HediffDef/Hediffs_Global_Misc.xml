@@ -4,7 +4,6 @@
   <VEF_PermanentBurn.label>queimadura permanente</VEF_PermanentBurn.label>
   <VEF_PermanentBurn.description>Uma cicatriz de queimadura permanente que não pode ser tratada.</VEF_PermanentBurn.description>
   <VEF_PermanentBurn.labelNoun>uma queimadura permanente</VEF_PermanentBurn.labelNoun>
-  <VEF_PermanentBurn.permanentLabel>queimadura permanente</VEF_PermanentBurn.permanentLabel>
   <VEF_PermanentBurn.injuryProps.destroyedLabel>Queimado</VEF_PermanentBurn.injuryProps.destroyedLabel>
   <VEF_PermanentBurn.injuryProps.destroyedOutLabel>Queimado (externo)</VEF_PermanentBurn.injuryProps.destroyedOutLabel>
 
@@ -58,6 +57,5 @@
 
   <VEF_ControlledInvisibility.label>invisibilidade</VEF_ControlledInvisibility.label>
   <VEF_ControlledInvisibility.description>Encoberto em um véu de invisibilidade controlada.</VEF_ControlledInvisibility.description>
-  <VEF_ControlledInvisibility.comps.1.showRemainingTime>Mostrar tempo restante</VEF_ControlledInvisibility.comps.1.showRemainingTime>
   
 </LanguageData>
