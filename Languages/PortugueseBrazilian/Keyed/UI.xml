@@ -13,23 +13,8 @@
 	<VEF.HiringDesc>Você pode contratar {0} por qualquer período de tempo. Você só pode ter um contrato ativo por vez, e não pode misturar facções de onde contrata.\r\nSe {0} contratados morrerem em serviço, você terá um aumento adicional de 5% no preço do contrato por pirata morto em todos os contratos futuros por um ano inteiro.</VEF.HiringDesc>
 	<VEF.LongTerm>Contratos de longo prazo são significativamente mais caros</VEF.LongTerm>
 	<VEF.ContractInfo>Ver contrato com {0}</VEF.ContractInfo>
-	<VEF.PawnsList>Contratados:</VEF.PawnsList>
-	<VEF.Duration>Duração: {0} dias</VEF.Duration>
-	<VEF.ExpiresIn>Expira em: {0}</VEF.ExpiresIn>
-	<VEF.EndContract>Encerrar Contrato</VEF.EndContract>
-	<VEF.NoContract>Nenhum contrato ativo</VEF.NoContract>
-	<VEF.ContractTitle>Contrato com {0}</VEF.ContractTitle>
-	<VEF.ContractEndDesc>O contrato com {0} terminou. Eles pegaram suas coisas e foram embora.</VEF.ContractEndDesc>
-	<VEF.ContractEndTitle>Contrato Terminado</VEF.ContractEndTitle>
-	<VEF.AvailableContracts>Contratos disponíveis: {0}</VEF.AvailableContracts>
-	<VEF.MechsSection>Mecanoides</VEF.MechsSection>
-	<VEF.DoorLockDefault>Padrão</VEF.DoorLockDefault>
-	<VEF.DoorLockEveryone>Todos</VEF.DoorLockEveryone>
-	<VEF.DoorLockOnlyColonistsAndAnimals>Apenas colonos e animais</VEF.DoorLockOnlyColonistsAndAnimals>
-	<VEF.DoorLockOnlyColonistsAndAnimalsAndFriendlies>Apenas colonos, animais e amigáveis</VEF.DoorLockOnlyColonistsAndAnimalsAndFriendlies>
-	<VEF.DoorLockOnlyDrafted>Apenas mobilizados</VEF.DoorLockOnlyDrafted>
-	<VEF.DoorLockState>Política de bloqueio de porta atual "{0}"</VEF.DoorLockState>
-	<VEF.DoorLockStateDesc>Clique para mudar a política de bloqueio de porta atual.</VEF.DoorLockStateDesc>
+	<VEF.DoorLockState>Bloqueio de porta atual:</VEF.DoorLockState>
+	<VEF.DoorLockStateDesc>Altere o estado de bloqueio de porta atual.</VEF.DoorLockStateDesc>
 	<VEF.DoorLockStatePowerOff>Energia desligada. Impossível mudar a política de bloqueio de porta.</VEF.DoorLockStatePowerOff>
 	<VEF.DraftHuntLabel>Caçar</VEF.DraftHuntLabel>
 	<VEF.HuntDescription>Enquanto isso estiver ligado, os personagens se moverão automaticamente para engajar alvos próximos.\r\n\r\nVocê pode clicar com o botão direito neste botão para alternar o tiro automático para TODAS as habilidades no colono selecionado.</VEF.HuntDescription>
@@ -37,4 +22,23 @@
 	<VEF.QuestChainPart>Parte {0} de {1}</VEF.QuestChainPart>
 	<VEF.QuestChainFinished>Cadeia de quests concluída</VEF.QuestChainFinished>
 	<VEF.ShowAllAbilities>Mostrar todas as habilidades</VEF.ShowAllAbilities>
+	<VEF.Spent>Prata gasta:</VEF.Spent>
+	<VEF.TimeLeft>Tempo restante:</VEF.TimeLeft>
+	<VEF.CancelContract>Cancelar Contrato</VEF.CancelContract>
+	<VEF.NoRefund>O cancelamento do seu contrato não reembolsará a prata que você gastou nele.</VEF.NoRefund>
+	<VEF.Customize>Personalizar {0}</VEF.Customize>
+	<VEF.CustomizationTitle>Personalização {0}</VEF.CustomizationTitle>
+	<VEF.Name>Nome</VEF.Name>
+	<VEF.Cancel>Cancelar</VEF.Cancel>
+	<VEF.CommandAttackMovingBaseDesc>Atacar esta {0}.</VEF.CommandAttackMovingBaseDesc>
+	<VEF.AttackGizmoLabel>Atacar</VEF.AttackGizmoLabel>
+	<VEF.PawnsList>Contratados:</VEF.PawnsList>
+	<VEF.ContractTitle>Contrato com {0}</VEF.ContractTitle>
+	<VEF.AvailableContracts>Contratos disponíveis: {0}</VEF.AvailableContracts>
+	<VEF.MechsSection>Mecanoides</VEF.MechsSection>
+	<VEF.DoorLockDefault>Padrão</VEF.DoorLockDefault>
+	<VEF.DoorLockEveryone>Todos</VEF.DoorLockEveryone>
+	<VEF.DoorLockOnlyColonistsAndAnimals>Apenas colonos e animais</VEF.DoorLockOnlyColonistsAndAnimals>
+	<VEF.DoorLockOnlyColonistsAndAnimalsAndFriendlies>Apenas colonos, animais e aliados</VEF.DoorLockOnlyColonistsAndAnimalsAndFriendlies>
+	<VEF.DoorLockOnlyDrafted>Apenas recrutados</VEF.DoorLockOnlyDrafted>
 </LanguageData>

@@ -19,10 +19,12 @@
     <VEF.DisableModSourceReport>Desativar relatórios de origem do mod</VEF.DisableModSourceReport>
 
     <VEF.Shields.Search>Pesquisar: </VEF.Shields.Search>
-    <VEF.Shields.ResetModSettingsToDefault>Redefinir as configurações do mod para o padrão</VEF.Shields.ResetModSettingsToDefault>
-    <VEF.Shields.ExplanationTitle>Defina se as armas podem ou não ser usadas com escudos.</VEF.Shields.ExplanationTitle>
+    <VEF.Shields.OnlyShowEquipped>Mostrar apenas escudos equipados</VEF.Shields.OnlyShowEquipped>
+    <VEF.Shields.OnlyShowEquippedDesc>Apenas mostra escudos que um peão possui atualmente. Caso contrário, todos os escudos que o peão pode equipar são exibidos.</VEF.Shields.OnlyShowEquippedDesc>
     <VEF.Shields.ShowMeleeWeapons>Mostrar armas de combate corpo a corpo</VEF.Shields.ShowMeleeWeapons>
     <VEF.Shields.ShowRangeWeapons>Mostrar armas de longo alcance</VEF.Shields.ShowRangeWeapons>
+    <VEF.Shields.ResetModSettingsToDefault>Restaurar configurações do mod para o padrão</VEF.Shields.ResetModSettingsToDefault>
+    <VEF.Shields.ExplanationTitle>Definir armas para serem utilizáveis ou não utilizáveis com escudos.</VEF.Shields.ExplanationTitle>
 	
 	<VEF_DisableTextureCaching>Desativar Cache de Texturas</VEF_DisableTextureCaching>
 	<VEF_EnablePipeSystemNoStorageAlert>Ativar alerta de ausência de armazenamento no Sistema de Tubos</VEF_EnablePipeSystemNoStorageAlert>
@@ -34,8 +36,12 @@
 	<VEF_Never>Nunca</VEF_Never>
 	<VEF_HomeArea>Área Inicial</VEF_HomeArea>
 	<VEF_Always>Sempre</VEF_Always>
+    
+    <VEF_HomeAreaDesc>Minérios minerados por peões são apenas desautorizados se minerados na área demarcada como 'Casa'.</VEF_HomeAreaDesc>
+    <VEF_AlwaysDesc>Minérios minerados por peões são sempre desautorizados.</VEF_AlwaysDesc>
+	
 	<VEF_PipeSystemSettings>Configurações do Sistema de Tubos:</VEF_PipeSystemSettings>
 	<VEF_DisableTextureVariations>Desativar Variações de Textura</VEF_DisableTextureVariations>
 	<VEF_DisableBuildingDamageFromWeather>Desativar dano a edifícios por clima</VEF_DisableBuildingDamageFromWeather>
-	<VEF_DisablePlantDamageFromWeather>Desativar dano a plantas por clima</VEF_DisablePlantDamageFromWeather>
+	
 </LanguageData>
