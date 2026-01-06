@@ -7,11 +7,11 @@
   <VEF_PermanentBurn.injuryProps.destroyedLabel>Queimado</VEF_PermanentBurn.injuryProps.destroyedLabel>
   <VEF_PermanentBurn.injuryProps.destroyedOutLabel>Queimado (externo)</VEF_PermanentBurn.injuryProps.destroyedOutLabel>
 
-  <VEF_AcidBuildup.label>queimadura ácida</VEF_AcidBuildup.label>
+  <VEF_AcidBuildup.label>acúmulo de ácido</VEF_AcidBuildup.label>
   <VEF_AcidBuildup.description>Um respingo de ácido que continua a causar feridas de queimadura por um bom tempo após o ataque inicial.</VEF_AcidBuildup.description>
-  <VEF_AcidBuildup.stages.0.label>menor, recebendo queimaduras</VEF_AcidBuildup.stages.0.label>
-  <VEF_AcidBuildup.stages.1.label>moderada, recebendo queimaduras</VEF_AcidBuildup.stages.1.label>
-  <VEF_AcidBuildup.stages.2.label>grave, recebendo queimaduras</VEF_AcidBuildup.stages.2.label>
+  <VEF_AcidBuildup.stages.0.label>menor</VEF_AcidBuildup.stages.0.label>
+  <VEF_AcidBuildup.stages.1.label>moderada</VEF_AcidBuildup.stages.1.label>
+  <VEF_AcidBuildup.stages.2.label>grave</VEF_AcidBuildup.stages.2.label>
 
   <VEF_AcidBurn.label>queimadura ácida</VEF_AcidBurn.label>
   <VEF_AcidBurn.labelNoun>uma queimadura ácida</VEF_AcidBurn.labelNoun>
@@ -23,7 +23,7 @@
   <VEF_AcidBurn.injuryProps.destroyedLabel>Corroído</VEF_AcidBurn.injuryProps.destroyedLabel>
   <VEF_AcidBurn.injuryProps.destroyedOutLabel>Corroído</VEF_AcidBurn.injuryProps.destroyedOutLabel>
 
-  <VEF_LightSustenance.label>nível de luz solar</VEF_LightSustenance.label>
+  <VEF_LightSustenance.label>sustento de luz solar</VEF_LightSustenance.label>
   <VEF_LightSustenance.description>Esta criatura se alimenta da luz solar. Níveis inadequados de luz a matarão.</VEF_LightSustenance.description>
   <VEF_LightSustenance.stages.0.label>luz adequada</VEF_LightSustenance.stages.0.label>
   <VEF_LightSustenance.stages.1.label>níveis de luz fracos</VEF_LightSustenance.stages.1.label>
@@ -32,9 +32,7 @@
   <VEF_LightSustenance.stages.4.label>falta extrema de sustento</VEF_LightSustenance.stages.4.label>
 
   <VEF_ToxicBuildup.label>acúmulo de toxinas</VEF_ToxicBuildup.label>
-  <VEF_ToxicBuildup.description>Toxinas na corrente sanguínea. Isso pode vir de várias fontes, incluindo toxinas ambientais, mordidas venenosas ou armas envenenadas.
-\nEm doses elevadas, o acúmulo de toxinas é letal. Mesmo em doses baixas, pode gerar cânceres.
-\nAo contrário do acúmulo de toxinas do jogo base, criaturas que morrem com este dano tóxico podem ser comidas.</VEF_ToxicBuildup.description>
+  <VEF_ToxicBuildup.description>Toxinas na corrente sanguínea. Isso pode vir de várias fontes, incluindo toxinas ambientais, mordidas venenosas ou armas envenenadas.\n\nEm doses elevadas, o acúmulo de toxinas é letal. Mesmo em doses baixas, pode gerar cânceres.\n\nAo contrário do acúmulo de toxinas do jogo base, criaturas que morrem com este dano tóxico podem ser comidas.</VEF_ToxicBuildup.description>
   <VEF_ToxicBuildup.stages.0.label>inicial</VEF_ToxicBuildup.stages.0.label>
   <VEF_ToxicBuildup.stages.1.label>inicial</VEF_ToxicBuildup.stages.1.label>
   <VEF_ToxicBuildup.stages.2.label>menor</VEF_ToxicBuildup.stages.2.label>
@@ -52,7 +50,7 @@
 
   <VEF_Kamikaze.label>detonação súbita</VEF_Kamikaze.label>
   <VEF_Kamikaze.description>Bum.</VEF_Kamikaze.description>
-  <VEF_Kamikaze.stages.0.label>inicial-escondido</VEF_Kamikaze.stages.0.label>
+  <VEF_Kamikaze.stages.0.label>instável</VEF_Kamikaze.stages.0.label>
   <VEF_Kamikaze.stages.1.label>crítica</VEF_Kamikaze.stages.1.label>
 
   <VEF_ControlledInvisibility.label>invisibilidade</VEF_ControlledInvisibility.label>

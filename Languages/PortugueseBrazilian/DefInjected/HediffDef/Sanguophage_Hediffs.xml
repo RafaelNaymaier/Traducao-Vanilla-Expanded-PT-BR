@@ -13,20 +13,21 @@
   <VRE_ConsumedSanguophageHemogen.label>hemogênio sanguófago consumido</VRE_ConsumedSanguophageHemogen.label>
   <VRE_ConsumedSanguophageHemogen.description>Hemogênio consumido de um sanguófago, dando uma rápida explosão de energia e saúde, mas terá um pequeno custo.</VRE_ConsumedSanguophageHemogen.description>
 
-  <VRE_FilterInfection_Hediff.label>combatendo infeção</VRE_FilterInfection_Hediff.label>
-  <VRE_FilterInfection_Hediff.description>O sistema imunitário do peão foi reforçado e está a combater ativamente a infeção.</VRE_FilterInfection_Hediff.description>
-
-  <VRE_ReanimationSickness.label>doença de reanimação</VRE_ReanimationSickness.label>
-  <VRE_ReanimationSickness.description>O colono acabou de ser trazido de volta à vida após a morte, e os arquites ainda não estabilizaram totalmente o corpo do colono. Estarão fracos e doentes por algum tempo.</VRE_ReanimationSickness.description>
-
-  <VRE_Ecstasy_Hediff.label>êxtase</VRE_Ecstasy_Hediff.label>
-  <VRE_Ecstasy_Hediff.description>O colono está atualmente em estado de êxtase devido à habilidade do sanguófago.</VRE_Ecstasy_Hediff.description>
-
-  <VRE_TalonsHediff.label>garras</VRE_TalonsHediff.label>
-  <VRE_TalonsHediff.description>Este colono tem garras, o que reduz a manipulação, mas aumenta o ataque corpo a corpo.</VRE_TalonsHediff.description>
-
-  <VRE_DraincasketSickness.label>doença da caixão de drenagem</VRE_DraincasketSickness.label>
+  <VRE_DraincasketSickness.label>doença do caixão de drenagem</VRE_DraincasketSickness.label>
   <VRE_DraincasketSickness.description>Consequências do uso de um caixão de drenagem. Os sintomas da doença do caixão de drenagem geralmente incluem dor localizada, inchaço e vermelhidão no local de conexão dos tubos do caixão. As vítimas podem sentir fadiga crescente, fraqueza e uma sensação geral de mal-estar.</VRE_DraincasketSickness.description>
   <VRE_DraincasketSickness.descriptionShort>Consequências do uso de um caixão de drenagem. As vítimas podem sentir fadiga crescente, fraqueza e uma sensação geral de mal-estar.</VRE_DraincasketSickness.descriptionShort>
+  <VRE_DraincasketSickness.stages.0.label>ligeira</VRE_DraincasketSickness.stages.0.label>
+  <VRE_DraincasketSickness.stages.1.label>moderada</VRE_DraincasketSickness.stages.1.label>
+  <VRE_DraincasketSickness.stages.2.label>grave</VRE_DraincasketSickness.stages.2.label>
+
+  <VRE_InfectionFilter.label>filtro de infeção</VRE_InfectionFilter.label>
+  <VRE_InfectionFilter.description>Esta pessoa foi tratada para infecções por um sanguófago. A infecção já não será um problema por um tempo, pois o tratamento está em curso.</VRE_InfectionFilter.description>
+  <VRE_InfectionFilter.stages.0.label>ativo</VRE_InfectionFilter.stages.0.label>
+  
+  <VRE_UVBlindness.label>cegueira UV</VRE_UVBlindness.label>
+  <VRE_UVBlindness.description>Esta pessoa está quase completamente cega por ter estado sob a luz solar intensa por muito tempo.</VRE_UVBlindness.description>
+
+  <VRE_UVBurn.label>queimadura UV</VRE_UVBurn.label>
+  <VRE_UVBurn.description>Queimaduras de sol devido à sensibilidade aos raios UV, causando dor e choque.</VRE_UVBurn.description>
 
 </LanguageData>
