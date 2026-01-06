@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<VEF.Factions.Contraband_Booze_GiftWarning>Presentear com {ILLEGALTHING_label} é contra a lei de {FACTION_name}. Isso pode ou não afetar suas relações com eles no futuro</VEF.Factions.Contraband_Booze_GiftWarning>
+	<VEF.Factions.Contraband_Booze_GiftIllegalWarning>Presentear {ILLEGALTHING_label} a {ILLEGALFACTION_name} é contra a lei de {FACTION_name}. Isso pode ou não afetar suas relações com eles no futuro</VEF.Factions.Contraband_Booze_GiftIllegalWarning>
+
+	<VEF.Factions.Contraband_Booze_SellWarning>Vender {ILLEGALTHING_label} é contra a lei de {FACTION_name}. Isso pode ou não afetar suas relações com eles no futuro</VEF.Factions.Contraband_Booze_SellWarning>
+	<VEF.Factions.Contraband_Booze_SellIllegalWarning>Vender {ILLEGALTHING_label} a {ILLEGALFACTION_name} é contra a lei de {FACTION_name}. Isso pode ou não afetar suas relações com eles no futuro</VEF.Factions.Contraband_Booze_SellIllegalWarning>
+
+	<VEF.Factions.Contraband_Booze_LetterLabel>{FACTION_name} irritada(o)</VEF.Factions.Contraband_Booze_LetterLabel>
+	<VEF.Factions.Contraband_Booze_LetterDescGift>{FACTION_name} descobriu que você tem presenteado com {ILLEGALTHING_label} pelas costas. Eles consideram isso contra a lei, e suas relações se degradaram</VEF.Factions.Contraband_Booze_LetterDescGift>
+	<VEF.Factions.Contraband_Booze_LetterDescSold>{FACTION_name} descobriu que você tem vendido {ILLEGALTHING_label} pelas costas. Eles consideram isso contra a lei, e suas relações se degradaram</VEF.Factions.Contraband_Booze_LetterDescSold>
+	
+	<VEF.Factions.Contraband_Booze_LetterDescIllegalGift>{FACTION_name} descobriu que você tem presenteado {ILLEGALTHING_label} a {ILLEGALFACTION_name} pelas costas. Eles consideram isso contra a lei, e suas relações se degradaram</VEF.Factions.Contraband_Booze_LetterDescIllegalGift>
+	<VEF.Factions.Contraband_Booze_LetterDescIllegalSold>{FACTION_name} descobriu que você tem vendido {ILLEGALTHING_label} a {ILLEGALFACTION_name} pelas costas. Eles consideram isso contra a lei, e suas relações se degradaram</VEF.Factions.Contraband_Booze_LetterDescIllegalSold>
+	
+	<VEF.Factions.Contraband_Booze_RelationInfo>A Boa Vontade com {FACTION_name} agora é {1}. (Alterada por {2})</VEF.Factions.Contraband_Booze_RelationInfo>
+	
+	<VEF.Factions.FactionDef_Description_Contraband>Detalhes de comércio</VEF.Factions.FactionDef_Description_Contraband>
+	<VEF.Factions.FactionDef_Description_Positives>Boa vontade positiva por negociar {0}</VEF.Factions.FactionDef_Description_Positives>
+	<VEF.Factions.FactionDef_Description_Negatives>Boa vontade negativa por negociar {0}</VEF.Factions.FactionDef_Description_Negatives>
+</LanguageData>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<VEF.Hire>Contratar {0}</VEF.Hire>
+	<VEF.HireDesc>Contrate alguns {0} para ajudar na colônia, por exemplo, com a defesa.</VEF.HireDesc>
+	<VEF.AvailableSilver>Prata disponível: {0}</VEF.AvailableSilver>
+	<VEF.Value>Valor</VEF.Value>
+	<VEF.ChooseNumberOfUnits>Quantas unidades você deseja contratar?</VEF.ChooseNumberOfUnits>
+	<VEF.Breakdown>Detalhes</VEF.Breakdown>
+	<VEF.DayAmount>Quantidade de Dias</VEF.DayAmount>
+	<VEF.Cost>Custo da contratação</VEF.Cost>
+	<VEF.RiskMult>Multiplicador de Risco</VEF.RiskMult>
+	<VEF.TotalPrice>Preço Total</VEF.TotalPrice>
+	<VEF.HiringDesc>Você pode contratar {0} por qualquer período de tempo. Você só pode ter um contrato ativo por vez, e não pode misturar facções de onde contrata.\r\nSe {0} contratados morrerem em serviço, você terá um aumento adicional de 5% no preço do contrato por pirata morto em todos os contratos futuros por um ano inteiro.</VEF.HiringDesc>
+	<VEF.LongTerm>Contratos de longo prazo são significativamente mais caros</VEF.LongTerm>
+	<VEF.ContractInfo>Ver contrato com {0}</VEF.ContractInfo>
+	<VEF.PawnsList>Contratados:</VEF.PawnsList>
+	<VEF.Duration>Duração: {0} dias</VEF.Duration>
+	<VEF.ExpiresIn>Expira em: {0}</VEF.ExpiresIn>
+	<VEF.EndContract>Encerrar Contrato</VEF.EndContract>
+	<VEF.NoContract>Nenhum contrato ativo</VEF.NoContract>
+	<VEF.ContractTitle>Contrato com {0}</VEF.ContractTitle>
+	<VEF.ContractEndDesc>O contrato com {0} terminou. Eles pegaram suas coisas e foram embora.</VEF.ContractEndDesc>
+	<VEF.ContractEndTitle>Contrato Terminado</VEF.ContractEndTitle>
+	<VEF.AvailableContracts>Contratos disponíveis: {0}</VEF.AvailableContracts>
+	<VEF.MechsSection>Mecanoides</VEF.MechsSection>
+	<VEF.DoorLockDefault>Padrão</VEF.DoorLockDefault>
+	<VEF.DoorLockEveryone>Todos</VEF.DoorLockEveryone>
+	<VEF.DoorLockOnlyColonistsAndAnimals>Apenas colonos e animais</VEF.DoorLockOnlyColonistsAndAnimals>
+	<VEF.DoorLockOnlyColonistsAndAnimalsAndFriendlies>Apenas colonos, animais e amigáveis</VEF.DoorLockOnlyColonistsAndAnimalsAndFriendlies>
+	<VEF.DoorLockOnlyDrafted>Apenas mobilizados</VEF.DoorLockOnlyDrafted>
+	<VEF.DoorLockState>Política de bloqueio de porta atual "{0}"</VEF.DoorLockState>
+	<VEF.DoorLockStateDesc>Clique para mudar a política de bloqueio de porta atual.</VEF.DoorLockStateDesc>
+	<VEF.DoorLockStatePowerOff>Energia desligada. Impossível mudar a política de bloqueio de porta.</VEF.DoorLockStatePowerOff>
+	<VEF.DraftHuntLabel>Caçar</VEF.DraftHuntLabel>
+	<VEF.HuntDescription>Enquanto isso estiver ligado, os personagens se moverão automaticamente para engajar alvos próximos.\r\n\r\nVocê pode clicar com o botão direito neste botão para alternar o tiro automático para TODAS as habilidades no colono selecionado.</VEF.HuntDescription>
+	<VEF.QuestChainTooltip>Esta quest faz parte de uma cadeia de quests. Concluí-la pode desencadear quests de continuação.\r\n\r\n{0}\r\n\r\n{1}</VEF.QuestChainTooltip>
+	<VEF.QuestChainPart>Parte {0} de {1}</VEF.QuestChainPart>
+	<VEF.QuestChainFinished>Cadeia de quests concluída</VEF.QuestChainFinished>
+	<VEF.ShowAllAbilities>Mostrar todas as habilidades</VEF.ShowAllAbilities>
+</LanguageData>

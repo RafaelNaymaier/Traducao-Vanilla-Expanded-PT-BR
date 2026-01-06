@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+	<NocturnalAnimals.BodyClock>Relógio biológico</NocturnalAnimals.BodyClock>
+	<NocturnalAnimals.BodyClock_Description>Determina quando o animal dorme e quando está acordado.\n\nAnimais diurnos dormem durante a noite e ficam acordados durante o dia, enquanto animais noturnos dormem durante o dia e ficam acordados durante a noite. Animais crepusculares são ativos principalmente ao anoitecer.</NocturnalAnimals.BodyClock_Description>
+
+	<NocturnalAnimals.BodyClock_Diurnal>Diurno</NocturnalAnimals.BodyClock_Diurnal>
+	<NocturnalAnimals.BodyClock_Nocturnal>Noturno</NocturnalAnimals.BodyClock_Nocturnal>
+	<NocturnalAnimals.BodyClock_Crepuscular>Crepuscular</NocturnalAnimals.BodyClock_Crepuscular>
+
+
+	<VEF_AsexualHatched>{0} reproduziu-se assexuadamente.</VEF_AsexualHatched>
+	<VEF_AsexualCloning>{0} clonou-se.</VEF_AsexualCloning>
+	<VEF_AsexualHatchedEgg>{0} esporulou.</VEF_AsexualHatchedEgg>
+	<VEF_NotTameable>Esta criatura não é domesticável</VEF_NotTameable>
+	<VEF_TimeToMetamorphosis>Tempo para a metamorfose: {0}</VEF_TimeToMetamorphosis>
+	
+	<VEF_WarningEggExplodes>Atenção, este ovo explode ao chocar!</VEF_WarningEggExplodes>
+	
+	<VEF_TimeToDie>O animal expira em: {0}</VEF_TimeToDie>
+	
+	<VEF_DisableAnimal>Desabilitar {0}</VEF_DisableAnimal>
+	
+	<VEF_StomachContents>{0} criaturas engolidas inteiras. </VEF_StomachContents>
+	<VEF_DigestionTime>Será consumido em {0}</VEF_DigestionTime>
+	
+	<VEF_TerrainsNeedsDiggable>O terreno precisa ser escavável para fazer isto</VEF_TerrainsNeedsDiggable>
+	
+	<VEF_WhileCaravaning>Enquanto em caravana, produz {0} {1} a cada: </VEF_WhileCaravaning>
+	
+	<VCE_AffectsAllAnimalMods>Estas opções de comportamento animal afetarão todos os mods de animais que compartilham código do Vanilla Expanded Framework</VCE_AffectsAllAnimalMods>
+	<VCE_CorpseDecayingEffectOption>Permitir mecânicas de decomposição de cadáveres (por exemplo, o efeito da lesma Helixien)</VCE_CorpseDecayingEffectOption>
+	<VCE_DigWhenHungryOption>Permitir mecânicas de escavação quando faminto (por exemplo, Frostmites cavando cadáveres)</VCE_DigWhenHungryOption>
+	<VCE_DigPeriodicallyOption>Permitir animais cavando periodicamente em busca de coisas</VCE_DigPeriodicallyOption>
+	<VCE_AnimalParticlesOption>Permitir partículas animais (gás e sujeira)</VCE_AnimalParticlesOption>
+	<VCE_AsexualReproductionOption>Permitir reprodução assexuada</VCE_AsexualReproductionOption>
+	<VFE_AsexualReproductionDisabled>Reprodução assexuada desabilitada via opções de mod</VFE_AsexualReproductionDisabled>
+	<VCE_BlinkMechanicsOption>Permitir mecânicas de "teletransporte" (por exemplo, Skiphounds)</VCE_BlinkMechanicsOption>
+	<VCE_BuildPeriodicallyOption>Permitir animais construindo coisas (por exemplo, castores construindo barragens)</VCE_BuildPeriodicallyOption>	
+	<VCE_ChargeBatteriesOption>Permitir animais recarregando baterias próximas ou reabastecendo</VCE_ChargeBatteriesOption>
+	<VCE_ExplodingEggsOption>Permitir ovos de animais que explodem (como os de dragões)</VCE_ExplodingEggsOption>
+	<VCE_HoveringOption>Permitir animais "flutuando", ignorando custos de movimento do terreno e caminhando sobre a água</VCE_HoveringOption>
+	<VCE_GraphicChangingOption>Permitir animais mudando gráficos (por exemplo, Camelo Camaleão)</VCE_GraphicChangingOption>
+	<VCE_EffecterOption>Permitir animais causando hediffs, estados mentais ou pensamentos</VCE_EffecterOption>
+	<VCE_RegenerationOption>Permitir regeneração de saúde (ativa e passiva)</VCE_RegenerationOption>
+	<VCE_ResurrectionOption>Permitir que animais se auto-ressuscitem (por exemplo, Coruja Gato Fênix)</VCE_ResurrectionOption>
+	<VCE_UntameableOption>Permitir que alguns animais sejam indomáveis</VCE_UntameableOption>
+	<VEF_AnimalsSearch>Pesquisar:</VEF_AnimalsSearch>
+	
+	<VEF_BillRequiresMass>Requer massa total de {0} Kg</VEF_BillRequiresMass>
+    
+
+</LanguageData>

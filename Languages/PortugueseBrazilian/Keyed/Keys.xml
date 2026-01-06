@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<VanillaFactionsExpanded.EquipShield>Equipar {0} como escudo</VanillaFactionsExpanded.EquipShield>
+	<VanillaFactionsExpanded.EquipWarningShieldUnusable>(inutilizável com {0})</VanillaFactionsExpanded.EquipWarningShieldUnusable>
+	<VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>({0} ficará inutilizável)</VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>
+
+	<VanillaFactionsExpanded.Protects>Protege</VanillaFactionsExpanded.Protects>
+	<VanillaFactionsExpanded.Protects_Desc>Quais partes do corpo o escudo protege.</VanillaFactionsExpanded.Protects_Desc>
+	
+	<VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>Modificadores de relação de facção</VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>
+	<VanillaFactionsExpanded.NumberRange>{0} a {1}</VanillaFactionsExpanded.NumberRange>
+	<VanillaFactionsExpanded.AllFactions>Todas as facções</VanillaFactionsExpanded.AllFactions>
+	<VanillaFactionsExpanded.AllFactionsIncludingHidden>Todas as facções, incluindo as ocultas</VanillaFactionsExpanded.AllFactionsIncludingHidden>
+	<VanillaFactionsExpanded.AlwaysHostile>Sempre hostil</VanillaFactionsExpanded.AlwaysHostile>
+	<VanillaFactionsExpanded.AffectHiddenFactions>Afetar ocultas</VanillaFactionsExpanded.AffectHiddenFactions>
+	<VanillaFactionsExpanded.StartingGoodwill>Inicial</VanillaFactionsExpanded.StartingGoodwill>
+	<VanillaFactionsExpanded.NaturalGoodwill>Natural</VanillaFactionsExpanded.NaturalGoodwill>
+
+	<VanillaFactionsExpanded.UsableWithShield>Utilizável com escudos</VanillaFactionsExpanded.UsableWithShield>
+	<VanillaFactionsExpanded.UsableWithShield_Desc>Se esta arma pode ou não ser usada caso o personagem também esteja equipado com um escudo.</VanillaFactionsExpanded.UsableWithShield_Desc>
+	<VEF.Weapons.Stat_Thing_MaterialPerCharge>Munição por carga</VEF.Weapons.Stat_Thing_MaterialPerCharge>
+	<VEF.Weapons.Stat_Thing_MaterialPerCharge_Value>{0} {1} por carga (total de {2} cargas)</VEF.Weapons.Stat_Thing_MaterialPerCharge_Value>
+    <VEF.Weapons.Stat_Thing_MaterialPerCharge_Desc>A quantidade de {0} por carga que esta habilidade precisa para ser recarregada.</VEF.Weapons.Stat_Thing_MaterialPerCharge_Desc>
+
+	<VanillaFactionsExpanded.FactionTitle>Nova facção: {FactionName}</VanillaFactionsExpanded.FactionTitle>
+	<VanillaFactionsExpanded.ModInfo>Esta facção é adicionada por {ModName} e não está atualmente presente no seu jogo.</VanillaFactionsExpanded.ModInfo>
+	<VanillaFactionsExpanded.AnUnknownMod>um mod desconhecido</VanillaFactionsExpanded.AnUnknownMod>
+	<VanillaFactionsExpanded.HiddenFactionInfo>Esta é uma facção oculta e não aparecerá na sua lista de facções.</VanillaFactionsExpanded.HiddenFactionInfo>
+	<VanillaFactionsExpanded.RequiredFactionInfo>Está marcada como obrigatória por {ModName}.</VanillaFactionsExpanded.RequiredFactionInfo>
+	<VanillaFactionsExpanded.NonSpawningFactionInfo>Esta facção está marcada como não geradora e você provavelmente deve apenas ignorá-la.</VanillaFactionsExpanded.NonSpawningFactionInfo>
+	<VanillaFactionsExpanded.FactionSelectOption>Por favor, selecione como proceder:</VanillaFactionsExpanded.FactionSelectOption>
+	<VanillaFactionsExpanded.FactionButtonAdd>Adicionar a facção</VanillaFactionsExpanded.FactionButtonAdd>
+	<VanillaFactionsExpanded.FactionButtonAddFull>Adicionar a facção com assentamentos</VanillaFactionsExpanded.FactionButtonAddFull>
+	<VanillaFactionsExpanded.FactionButtonSkip>Não fazer nada</VanillaFactionsExpanded.FactionButtonSkip>
+	<VanillaFactionsExpanded.FactionButtonIgnore>Não perguntar mais sobre esta facção</VanillaFactionsExpanded.FactionButtonIgnore>
+	<VanillaFactionsExpanded.FactionMessageFailed>Falha ao adicionar a facção.</VanillaFactionsExpanded.FactionMessageFailed>
+	<VanillaFactionsExpanded.FactionMessageFailedFull>Falha ao criar uma facção com assentamentos.</VanillaFactionsExpanded.FactionMessageFailedFull>
+	<VanillaFactionsExpanded.FactionMessageSuccessFull>{FactionName} adicionada(o) com {Amount} assentamentos.</VanillaFactionsExpanded.FactionMessageSuccessFull>
+	<VanillaFactionsExpanded.FactionMessageSuccess>{FactionName} adicionada(o).</VanillaFactionsExpanded.FactionMessageSuccess>
+	<VanillaFactionsExpanded.FactionDiscoveryRequired>Está marcada como obrigatória, e você deve adicioná-la ao jogo.</VanillaFactionsExpanded.FactionDiscoveryRequired>
+	<VanillaFactionsExpanded.FactionFailedMessage>Falha ao gerar esta facção. Recomenda-se tentar novamente, mas agora você pode pular a adição desta facção. Pular pode causar problemas.</VanillaFactionsExpanded.FactionFailedMessage>
+	<VanillaFactionsExpanded.FactionRequired>{FACTION} não pode ser desabilitada{REQUIRED_multiple ? , você precisa de pelo menos {REQUIRED} facções desse tipo. : .}</VanillaFactionsExpanded.FactionRequired>
+	<VanillaFactionsExpanded.FactionRecommended>{REQUIRED_multiple ? Recomenda-se ter pelo menos {REQUIRED} facções do tipo {FACTION}, mas atualmente há apenas {COUNT}. : Recomenda-se habilitar {FACTION}.}</VanillaFactionsExpanded.FactionRecommended>
+
+	<VanillaFactionsExpanded.FactionSettlementsToSpawn>Assentamentos a serem gerados (o recomendado é {0}): {1}</VanillaFactionsExpanded.FactionSettlementsToSpawn>
+	<VanillaFactionsExpanded.FactionMinDistance>A distância mínima das bases do jogador (a recomendada é {0}): {1}</VanillaFactionsExpanded.FactionMinDistance>
+	<VanillaFactionsExpanded.FactionButtonSpawn>Gerar</VanillaFactionsExpanded.FactionButtonSpawn>
+	<VanillaFactionsExpanded.FactionButtonCancel>Cancelar</VanillaFactionsExpanded.FactionButtonCancel>
+
+	<VSE.Reinforcements>Reforços</VSE.Reinforcements>
+	<VSE.ReinforcementsDesc>Vendo que suas forças sofreram perdas, {FACTION_name} decidiu reforçar sua força de ataque</VSE.ReinforcementsDesc>
+	<VSE.CostGoodwill>custo: {0} boa vontade</VSE.CostGoodwill>
+
+	<VWEL_ToggleHotshotLabel>Aquecimento da arma</VWEL_ToggleHotshotLabel>
+	<VWEL_ToggleHotshotDesc>Tiros disparados quando parado aquecem a arma, permitindo maior velocidade de disparo. O superaquecimento pode levar à detonação.</VWEL_ToggleHotshotDesc>
+
+	<VFE_DeepDrillNo>A perfuração profunda não pode ser usada com {0}.</VFE_DeepDrillNo>
+	
+    <VEF.TeleportTo>Teletransportar para {0}</VEF.TeleportTo>
+</LanguageData>

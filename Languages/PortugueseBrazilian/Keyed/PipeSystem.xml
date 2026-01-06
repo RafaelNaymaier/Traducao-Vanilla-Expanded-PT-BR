@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <PipeSystem_Consumption>{0} consumo</PipeSystem_Consumption>
+  <PipeSystem_ConsumptionExplained>A quantidade por dia de {0} que este edifício irá consumir da rede de {1}.</PipeSystem_ConsumptionExplained>
+
+  <PipeSystem_IdleConsumption>{0} consumo ocioso</PipeSystem_IdleConsumption>
+  <PipeSystem_IdleConsumptionExplained>A quantidade de {0} que este edifício irá consumir da rede de {1} quando ocioso.</PipeSystem_IdleConsumptionExplained>
+
+  <PipeSystem_Production>{0} produção</PipeSystem_Production>
+  <PipeSystem_ProductionExplained>A quantidade por dia de {0} que este edifício irá produzir para a rede de {1}.</PipeSystem_ProductionExplained>
+
+  <PipeSystem_DeconstructLabel>Desconstruir tubos de {0}</PipeSystem_DeconstructLabel>
+  <PipeSystem_DeconstructDesc>Apenas desconstruir tubos parte da rede de {0}.</PipeSystem_DeconstructDesc>
+
+  <PipeSystem_ResourceOutput>Saída de {0}:</PipeSystem_ResourceOutput>
+  <PipeSystem_ResourceNeeded>{0} necessários:</PipeSystem_ResourceNeeded>
+
+  <PipeSystem_ResourceStored>{0} armazenado:</PipeSystem_ResourceStored>
+
+  <PipeSystem_NotConnected>Não conectado a {0}.</PipeSystem_NotConnected>
+  <PipeSystem_ExcessStored>{0} excesso líquido/armazenado na rede: {1} {3}/d / {2} {3}</PipeSystem_ExcessStored>
+  <PipeSystem_Stored>Total de {0} armazenado na rede: {1} {2}</PipeSystem_Stored>
+
+  <PipeSystem_PipeSize>Tamanho máximo do tubo: {0} {1}/d</PipeSystem_PipeSize>
+  <PipeSystem_TankSize>Tamanho máximo do tanque: {0} {1}</PipeSystem_TankSize>
+  <PipeSystem_MaxProduction>Produção máxima de {0} por dia: {1} {2}</PipeSystem_MaxProduction>
+  <PipeSystem_MaxConsumption>Consumo máximo de {0} por dia: {1} {2}</PipeSystem_MaxConsumption>
+  
+  <PipeSystem_PipeSystem>Sistema de tubos</PipeSystem_PipeSystem>
+  <PipeSystem_PipeSystemDesc>O sistema de tubos que se conecta a todos os outros sistemas de tubos para {0} para uma rede integrada.</PipeSystem_PipeSystemDesc>
+
+  <PipeSystem_Process>Processo</PipeSystem_Process>
+  <PipeSystem_Input>Entrada</PipeSystem_Input>
+  <PipeSystem_Output>Saída</PipeSystem_Output>
+  
+  <PipeSystem_Progress>Progresso: {0}</PipeSystem_Progress>
+  <PipeSystem_NoProcessAvailable>Nenhum processo disponível</PipeSystem_NoProcessAvailable>
+  <PipeSystem_Product>Produto</PipeSystem_Product>
+  <PipeSystem_ProgressInInfobox>{0}: {1}</PipeSystem_ProgressInInfobox>
+  <PipeSystem_MissingInputIngredients>Entradas em falta: {0}</PipeSystem_MissingInputIngredients>
+  
+  <PipeSystem_CopyProcesses>Copiar processos</PipeSystem_CopyProcesses>
+  <PipeSystem_PasteProcesses>Colar processos</PipeSystem_PasteProcesses>
+  <PipeSystem_PasteAllRecipes>Colar todos os processos</PipeSystem_PasteAllRecipes>
+  <PipeSystem_PasteAllRecipes_Desc>Colar todos os processos copiados neste processador. Você pode selecionar múltiplos e os processos serão colados em todos eles.</PipeSystem_PasteAllRecipes_Desc>
+  
+  <PipeSystem_ExtractAtCurrentQuality>Extrair na qualidade atual</PipeSystem_ExtractAtCurrentQuality>
+  <PipeSystem_ExtractAtCurrentQuality_Desc>Extrair o produto na qualidade atual.</PipeSystem_ExtractAtCurrentQuality_Desc>
+  
+   <PipeSystem_QualitySelector>Selecione a qualidade na qual este processo irá parar</PipeSystem_QualitySelector>
+   <PipeSystem_ProcessNeedsAwfulAtLeast>O processo precisa avançar pelo menos até o tempo de qualidade Péssima, que é {0}</PipeSystem_ProcessNeedsAwfulAtLeast>
+   <PipeSystem_CurrentQuality>Qualidade atual: {0}</PipeSystem_CurrentQuality>
+   <PipeSystem_CurrentNotReachedAwful>O processo ainda não atingiu a qualidade Péssima</PipeSystem_CurrentNotReachedAwful>
+   <PipeSystem_ExtractingAtCurrent>Extraindo produto na qualidade atual</PipeSystem_ExtractingAtCurrent>
+   <PipeSystem_ExtractionQuality>Qualidade de extração: {0}</PipeSystem_ExtractionQuality>
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<VFE_ChunkToMine>Perfurar para {0}</VFE_ChunkToMine>
+<VFE_ChunkRandomMine>Perfurar para Blocos Aleatórios</VFE_ChunkRandomMine>
+<VFE_ChooseMine>Escolher tipo de bloco para perfurar</VFE_ChooseMine>
+<VFE_ChooseMineDesc>Escolher tipo de bloco para perfurar. Você pode escolher qualquer um dos tipos de rocha do mapa, ou aleatório</VFE_ChooseMineDesc>
+<VFE_RandomRock>Bloco aleatório</VFE_RandomRock>
+<VFE_PleaseSelectOutput>Selecionar saída da máquina</VFE_PleaseSelectOutput>
+<VFE_NeedsWater>Esta construção deve ser colocada na água</VFE_NeedsWater>
+<VFE_NeedsSand>Esta construção deve ser colocada na areia</VFE_NeedsSand>
+
+<VFE_ChangeGraphic>Gráfico Aleatório</VFE_ChangeGraphic>
+<VFE_ChangeGraphicDesc>Mudar o Gráfico desta construção aleatoriamente entre os disponíveis</VFE_ChangeGraphicDesc>
+
+<VFE_ChooseGraphic>Escolher Gráfico</VFE_ChooseGraphic>
+<VFE_ChooseGraphicDesc>Escolher o Gráfico desta construção através de um menu com todas as opções disponíveis</VFE_ChooseGraphicDesc>
+
+<VFE_NoGraphics>Esta construção não tem gráficos aleatórios extras para escolher. Algum modder adicionou a classe comp à construção sem gráficos alternativos, o que é estranho</VFE_NoGraphics>
+
+<VFE_HideRandomizeButton>Esconder os botões "Gráfico Aleatório" e "Escolher Gráfico"</VFE_HideRandomizeButton>
+<VFE_RandomBuildingsDontStartRandom>Fazer com que construções de gráficos aleatórios NÃO comecem aleatórias</VFE_RandomBuildingsDontStartRandom>
+
+<VFE.SwitchLightColor>Trocar cor da luz</VFE.SwitchLightColor>
+<VFE.SwitchLightColorDesc>Mudar a cor da luz atual.</VFE.SwitchLightColorDesc>
+<VFE.ChangeColorTo>Mudar cor para {0}</VFE.ChangeColorTo>
+</LanguageData>

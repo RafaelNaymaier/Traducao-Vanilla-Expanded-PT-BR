@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<VCE_AllowConditions>Permitir condições crônicas de saúde na comida (Diabetes, Colesterol e Pressão Alta)</VCE_AllowConditions>
+	<VCE_MustBeInstalled>Vanilla Cooking Expanded deve estar instalado para que estas opções tenham algum efeito</VCE_MustBeInstalled>
+	<VCE_Pollinated>Apiário encontrado por perto</VCE_Pollinated>
+	<VCE_NotPollinated>Nenhum apiário encontrado num raio de 6 células (calculado na semeadura)</VCE_NotPollinated>
+	<VCE_NotInEquator>Não está em região equatorial (neste planeta, abaixo de {0} de latitude). Crescendo normalmente.</VCE_NotInEquator>
+	<VCE_InEquator>Em região equatorial, crescendo 30% mais rápido.</VCE_InEquator>
+	<VCE_NeedsShade>Esta planta precisa crescer na sombra: fora, mas sob um telhado.</VCE_NeedsShade>
+	<VCE_StuntedGrowthFertility>Crescimento reduzido devido a terreno não rochoso</VCE_StuntedGrowthFertility>
+	<VCE_StoppedGrowthFertility>Crescimento impossível devido a terreno muito fértil</VCE_StoppedGrowthFertility>
+	<VCE_WaterNearby>Um corpo d'água próximo está impedindo o crescimento desta planta</VCE_WaterNearby>
+	<VCE_NoWaterNearby>A falta de um corpo d'água próximo está impedindo o crescimento desta planta</VCE_NoWaterNearby>
+	<VCE_NoSeaTilesNearby>Muito longe do mar, sem bônus extra de crescimento</VCE_NoSeaTilesNearby>
+</LanguageData>

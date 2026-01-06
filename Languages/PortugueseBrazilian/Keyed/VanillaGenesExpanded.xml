@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+	<VGE_StatsReport_Over40>acima de 40ºC</VGE_StatsReport_Over40>	
+	<VGE_StatsReport_Below0>abaixo de 0ºC</VGE_StatsReport_Below0>
+	<VGE_StatsReport_Armoured>blindado(a)</VGE_StatsReport_Armoured>
+	<VGE_StatsReport_NoSunlight>sem luz solar</VGE_StatsReport_NoSunlight>
+	<VGE_StatsReport_Water>na água</VGE_StatsReport_Water>
+	<VGE_StatsReport_NotWater>em terra firme</VGE_StatsReport_NotWater>
+	<VGE_StatsReport_Outside>ao ar livre</VGE_StatsReport_Outside>
+	<VGE_StatsReport_Inside>em ambientes fechados</VGE_StatsReport_Inside>
+	<VGE_StatsReport_InLight>acima de 50% iluminado</VGE_StatsReport_InLight>
+	<VGE_StatsReport_InDarkness>abaixo de 50% iluminado</VGE_StatsReport_InDarkness>
+	<VGE_StatsReport_InPain>com dor</VGE_StatsReport_InPain>
+	<VGE_StatsReport_InPollution>em terreno poluído</VGE_StatsReport_InPollution>
+	<VGE_StatsReport_ColonyMap>no mapa da colônia</VGE_StatsReport_ColonyMap>
+	<VGE_StatsReport_OutsideColonyMap>fora do mapa da colônia</VGE_StatsReport_OutsideColonyMap>
+	<VGE_StatsReport_AnyLightSensitivity>sensibilidade à luz</VGE_StatsReport_AnyLightSensitivity>
+	<VGE_StatsReport_InVacuum>no vácuo</VGE_StatsReport_InVacuum>
+	<VGE_StatsReport_InSpace>no Espaço</VGE_StatsReport_InSpace>
+	<VGE_StatsReport_InPlanet>no planeta</VGE_StatsReport_InPlanet>
+	
+	<VGE_EggPregnancy>Os ovos de {0} foram fertilizados! O processo de postura continuará até que um ovo fértil seja posto.</VGE_EggPregnancy>
+	<VGE_EggPregnancyLabel>{0} fertilizado(a)!</VGE_EggPregnancyLabel>
+	
+	<VGE_EggLaid>{0} pôs um ovo fertilizado.</VGE_EggLaid>
+	<VGE_EggLaidLabel>Ovo fertilizado posto</VGE_EggLaidLabel>
+</LanguageData>

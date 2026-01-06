@@ -3,7 +3,6 @@
   <name>Tradução Vanilla Expanded (PT-BR)</name>
   <author>Rafael Naymaier</author>
   <supportedVersions>
-    <li>1.5</li>
     <li>1.6</li>
   </supportedVersions>
   <packageId>RimworldMods.TraducaoVanillaExpanded.PTBR</packageId>
@@ -13,13 +12,13 @@
   
   <modDependencies>
     <li>
-      <packageId>OskarPotocki.VanillaExpanded.Core</packageId>
+      <packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
       <displayName>Vanilla Expanded Framework</displayName>
     </li>
   </modDependencies>
   
   <loadAfter>
-    <li>OskarPotocki.VanillaExpanded.Core</li>
+    <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
     <li>Ludeon.RimWorld</li>
   </loadAfter>
 </ModMetaData>

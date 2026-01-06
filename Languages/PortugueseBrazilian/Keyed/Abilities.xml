@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<VFEA.AbilityDisableReasonCooldown>{0} está em recarga por {1}</VFEA.AbilityDisableReasonCooldown>
+	<VFEA.AbilityDisableReasonGeneral>{0} não atende aos requisitos</VFEA.AbilityDisableReasonGeneral>
+
+	<VFEA.AbilityStatsPower>Poder</VFEA.AbilityStatsPower>
+	<VFEA.AbilityStatsDuration>Duração</VFEA.AbilityStatsDuration>
+	
+	<VFEA.TargetMustBeHostile>O alvo deve ser hostil</VFEA.TargetMustBeHostile>
+
+	<VFEA.MinRadius>Raio mínimo</VFEA.MinRadius>
+
+	<VFEA.RClickToAuto>Clique com o botão direito para habilitar o uso automático.</VFEA.RClickToAuto>
+	<VFEA.RClickToNoAuto>Clique com o botão direito para desabilitar o uso automático.</VFEA.RClickToNoAuto>
+	
+	<VEF_DisableCorpseDecaying>Desabilitar a decomposição de cadáveres</VEF_DisableCorpseDecaying>
+	<VEF_DisableCorpseDecayingDesc>Desabilita a habilidade constante de decomposição de cadáveres deste animal.</VEF_DisableCorpseDecayingDesc>
+	<VEF_EnableCorpseDecaying>Habilitar a decomposição de cadáveres</VEF_EnableCorpseDecaying>
+	<VEF_EnableCorpseDecayingDesc>Habilita a habilidade constante de decomposição de cadáveres deste animal.</VEF_EnableCorpseDecayingDesc>
+	
+	<VEF_DisableDigging>Desabilitar a escavação por comida</VEF_DisableDigging>
+	<VEF_DisableDiggingDesc>Desabilita a habilidade de escavar o terreno em busca de comida deste animal.</VEF_DisableDiggingDesc>
+	<VEF_EnableDigging>Habilitar a escavação por comida</VEF_EnableDigging>
+	<VEF_EnableDiggingDesc>Habilita a habilidade de escavar o terreno em busca de comida deste animal.</VEF_EnableDiggingDesc>
+	
+	<VEF_DisableGas>Desabilitar a produção de gás</VEF_DisableGas>
+	<VEF_DisableGasDesc>Desabilita a habilidade de produzir gás deste animal.</VEF_DisableGasDesc>
+	<VEF_EnableGas>Habilitar a produção de gás</VEF_EnableGas>
+	<VEF_EnableGasDesc>Habilita a habilidade de produzir gás deste animal.</VEF_EnableGasDesc>
+</LanguageData>

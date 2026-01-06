@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <VEF_GeneralTitle>Geral</VEF_GeneralTitle>
+    <CSGTitle>Geração de estruturas personalizadas:</CSGTitle>
+    <CSGLog>Ativar log de depuração de geração de estrutura: </CSGLog>
+
+    <VEF_TPTitle>Patches alternáveis</VEF_TPTitle>
+    <NeedRestart>Todas as configurações precisam de uma reinicialização para serem aplicadas</NeedRestart>
+    <XPatchFound>{0} patches encontrados</XPatchFound>
+
+    <VEF.WeatherDamages>Danos climáticos</VEF.WeatherDamages>
+    <VEF.EnableWeatherDamage>{0}</VEF.EnableWeatherDamage>
+    <FDTitle>Descoberta de Facção</FDTitle>
+    <NeedToBeInGame>Você precisa primeiro carregar um save</NeedToBeInGame>
+    <AskForPopUp>Adicionar facção(ões)</AskForPopUp>
+    <AskForPopUpExplained>Clique para ser perguntado sobre cada facção se você deseja que ela seja adicionada ao seu jogo</AskForPopUpExplained>
+    <CanAddXFaction>{0} facção(ões) podem ser adicionadas ao seu save atual</CanAddXFaction>
+
+    <VEF.DisableModSourceReport>Desativar relatórios de origem do mod</VEF.DisableModSourceReport>
+
+    <VEF.Shields.Search>Pesquisar: </VEF.Shields.Search>
+    <VEF.Shields.ResetModSettingsToDefault>Redefinir as configurações do mod para o padrão</VEF.Shields.ResetModSettingsToDefault>
+    <VEF.Shields.ExplanationTitle>Defina se as armas podem ou não ser usadas com escudos.</VEF.Shields.ExplanationTitle>
+    <VEF.Shields.ShowMeleeWeapons>Mostrar armas de combate corpo a corpo</VEF.Shields.ShowMeleeWeapons>
+    <VEF.Shields.ShowRangeWeapons>Mostrar armas de longo alcance</VEF.Shields.ShowRangeWeapons>
+	
+	<VEF_DisableTextureCaching>Desativar Cache de Texturas</VEF_DisableTextureCaching>
+	<VEF_EnablePipeSystemNoStorageAlert>Ativar alerta de ausência de armazenamento no Sistema de Tubos</VEF_EnablePipeSystemNoStorageAlert>
+	<VEF_FactionDiscovery>Descoberta de Facção</VEF_FactionDiscovery>
+	<VEF_CustomStructureGeneration>Geração de Estrutura Personalizada:</VEF_CustomStructureGeneration>
+	<VEF_TextureVariations>Variações de Textura:</VEF_TextureVariations>
+	<VEF_VerboseLogging>Registro detalhado (Verbose logging)</VEF_VerboseLogging>
+	<VEF_UnforbidMinedOres>Permitir minérios extraídos</VEF_UnforbidMinedOres>
+	<VEF_Never>Nunca</VEF_Never>
+	<VEF_HomeArea>Área Inicial</VEF_HomeArea>
+	<VEF_Always>Sempre</VEF_Always>
+	<VEF_PipeSystemSettings>Configurações do Sistema de Tubos:</VEF_PipeSystemSettings>
+	<VEF_DisableTextureVariations>Desativar Variações de Textura</VEF_DisableTextureVariations>
+	<VEF_DisableBuildingDamageFromWeather>Desativar dano a edifícios por clima</VEF_DisableBuildingDamageFromWeather>
+	<VEF_DisablePlantDamageFromWeather>Desativar dano a plantas por clima</VEF_DisablePlantDamageFromWeather>
+</LanguageData>

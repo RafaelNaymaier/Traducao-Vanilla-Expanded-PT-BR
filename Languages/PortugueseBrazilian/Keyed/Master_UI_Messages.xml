@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FailedToBoardGravship>{PAWN_nameDef} não pode embarcar em {1}</FailedToBoardGravship>
+  <FailedToLeaveGravship>{PAWN_nameDef} não pode sair de {1}</FailedToLeaveGravship>
+  <ViewRange>Alcance de visão</ViewRange>
+  <ViewRangeDesc>Visualizar o alcance atual da nave no mapa-múndi.</ViewRangeDesc>
+  
+  <VFEA.AbilityDisableReasonCooldown>{0} está em recarga por {1}</VFEA.AbilityDisableReasonCooldown>
+  <VFEA.AbilityDisableReasonGeneral>{0} não atende aos requisitos</VFEA.AbilityDisableReasonGeneral>
+  <VFEA.AbilityStatsPower>Poder</VFEA.AbilityStatsPower>
+  <VFEA.AbilityStatsDuration>Duração</VFEA.AbilityStatsDuration>
+  <VFEA.TargetMustBeHostile>O alvo deve ser hostil</VFEA.TargetMustBeHostile>
+  <VFEA.MinRadius>Raio mínimo</VFEA.MinRadius>
+  <VFEA.RClickToAuto>Clique com o botão direito para ativar o autocast.</VFEA.RClickToAuto>
+  <VFEA.RClickToNoAuto>Clique com o botão direito para desativar o autocast.</VFEA.RClickToNoAuto>
+  
+  <VEF_DisableCorpseDecaying>Desativar decomposição de cadáver</VEF_DisableCorpseDecaying>
+  <VEF_DisableCorpseDecayingDesc>Desativa a habilidade constante de decomposição de corpos deste animal.</VEF_DisableCorpseDecayingDesc>
+  <VEF_EnableCorpseDecaying>Ativar decomposição de cadáver</VEF_EnableCorpseDecaying>
+  <VEF_EnableCorpseDecayingDesc>Ativa a habilidade constante de decomposição de corpos deste animal.</VEF_EnableCorpseDecayingDesc>
+  <VEF_DisableDigging>Desativar escavação por comida</VEF_DisableDigging>
+  <VEF_DisableDiggingDesc>Desativa a habilidade deste animal de escavar o terreno em busca de comida.</VEF_DisableDiggingDesc>
+  <VEF_EnableDigging>Ativar escavação por comida</VEF_EnableDigging>
+  <VEF_EnableDiggingDesc>Ativa a habilidade deste animal de escavar o terreno em busca de comida.</VEF_EnableDiggingDesc>
+  <VEF_DisableGas>Desativar produção de gás</VEF_DisableGas>
+  <VEF_DisableGasDesc>Desativa a habilidade deste animal de produzir gás.</VEF_DisableGasDesc>
+  <VEF_EnableGas>Ativar produção de gás</VEF_EnableGas>
+  <VEF_EnableGasDesc>Ativa a habilidade deste animal de produzir gás.</VEF_EnableGasDesc>
+  
+  <NocturnalAnimals.BodyClock>Relógio biológico</NocturnalAnimals.BodyClock>
+  <NocturnalAnimals.BodyClock_Description>Determina quando o animal dorme e quando está acordado.\n\nAnimais diurnos dormem durante a noite e estão acordados durante o dia, enquanto animais noturnos dormem durante o dia e estão acordados durante a noite. Animais crepusculares são principalmente ativos durante o anoitecer.</NocturnalAnimals.BodyClock_Description>
+  <NocturnalAnimals.BodyClock_Diurnal>Diurno</NocturnalAnimals.BodyClock_Diurnal>
+  <NocturnalAnimals.BodyClock_Nocturnal>Noturno</NocturnalAnimals.BodyClock_Nocturnal>
+  <NocturnalAnimals.BodyClock_Crepuscular>Crepuscular</NocturnalAnimals.BodyClock_Crepuscular>
+  <VEF_AsexualHatched>{0} reproduziu-se assexuadamente.</VEF_AsexualHatched>
+  <VEF_AsexualCloning>{0} clonou-se.</VEF_AsexualCloning>
+  <VEF_AsexualHatchedEgg>{0} esporulou.</VEF_AsexualHatchedEgg>
+  <VEF_NotTameable>Esta criatura não é domesticável</VEF_NotTameable>
+  <VEF_TimeToMetamorphosis>Tempo para metamorfose: {0}</VEF_TimeToMetamorphosis>
+  <VEF_WarningEggExplodes>Atenção, este ovo explode ao chocar!</VEF_WarningEggExplodes>
+  <VEF_TimeToDie>O animal expira em: {0}</VEF_TimeToDie>
+  <VEF_DisableAnimal>Desativar {0}</VEF_DisableAnimal>
+  <VEF_StomachContents>{0} criaturas engolidas vivas.</VEF_StomachContents>
+  <VEF_DigestionTime>Será consumido em {0}</VEF_DigestionTime>
+  <VEF_TerrainsNeedsDiggable>O terreno precisa de ser escavável para fazer isto</VEF_TerrainsNeedsDiggable>
+  <VEF_WhileCaravaning>Enquanto estiver em caravana, produz {0} {1} a cada: </VEF_WhileCaravaning>
+  <VCE_AffectsAllAnimalMods>Estas opções de comportamento animal afetarão todos os mods de animais que partilham código do Vanilla Expanded Framework</VCE_AffectsAllAnimalMods>
+  <VCE_CorpseDecayingEffectOption>Permitir mecânicas de decomposição de corpos (ex: efeito do Helixien Slug)</VCE_CorpseDecayingEffectOption>
+  <VCE_DigWhenHungryOption>Permitir mecânicas de escavar quando estiver com fome (ex: Frostmites escavando corpos)</VCE_DigWhenHungryOption>
+  <VCE_DigPeriodicallyOption>Permitir que animais cavem itens periodicamente</VCE_DigPeriodicallyOption>
+  <VCE_AnimalParticlesOption>Permitir partículas de animais (gás e sujidade)</VCE_AnimalParticlesOption>
+  <VCE_AsexualReproductionOption>Permitir reprodução assexuada</VCE_AsexualReproductionOption>
+  <VFE_AsexualReproductionDisabled>Reprodução assexuada desativada através das opções do mod</VFE_AsexualReproductionDisabled>
+  <VCE_BlinkMechanicsOption>Permitir mecânicas de "salto" (ex: Skiphounds)</VCE_BlinkMechanicsOption>
+  <VCE_BuildPeriodicallyOption>Permitir que animais construam coisas (ex: castores construindo barragens)</VCE_BuildPeriodicallyOption>
+  <VCE_ChargeBatteriesOption>Permitir que animais recarreguem baterias próximas ou reabasteçam</VCE_ChargeBatteriesOption>
+  <VCE_ExplodingEggsOption>Permitir ovos de animais que explodem (como os de dragões)</VCE_ExplodingEggsOption>
+  <VCE_HoveringOption>Permitir que animais "pairam", ignorando custos de movimento em terreno e caminhada sobre a água</VCE_HoveringOption>
+  <VCE_GraphicChangingOption>Permitir que animais mudem de aparência (ex: Chameleon Yak)</VCE_GraphicChangingOption>
+  <VCE_EffecterOption>Permitir que animais causem hediffs, estados mentais ou pensamentos</VCE_EffecterOption>
+  <VCE_RegenerationOption>Permitir regeneração de saúde (ativa e passiva)</VCE_RegenerationOption>
+  <VCE_ResurrectionOption>Permitir que animais se autorressuscitem (ex: Phoenix Owlcat)</VCE_ResurrectionOption>
+  <VCE_UntameableOption>Permitir que alguns animais não sejam domesticáveis</VCE_UntameableOption>
+  <VEF_AnimalsSearch>Pesquisar:</VEF_AnimalsSearch>
+  <VEF_BillRequiresMass>Requer {0} Kg de massa total</VEF_BillRequiresMass>
+  <VEF.Factions.Contraband_Booze_GiftWarning>Presentear {ILLEGALTHING_label} é contra a lei de {FACTION_name}. Isto pode ou não afetar as suas relações com eles no futuro</VEF.Factions.Contraband_Booze_GiftWarning>
+  <VEF.Factions.Contraband_Booze_GiftIllegalWarning>Presentear {ILLEGALTHING_label} a {ILLEGALFACTION_name} é contra a lei de {FACTION_name}. Isto pode ou não afetar as suas relações com eles no futuro</VEF.Factions.Contraband_Booze_GiftIllegalWarning>
+  <VEF.Factions.Contraband_Booze_SellWarning>Vender {ILLEGALTHING_label} é contra a lei de {FACTION_name}. Isto pode ou não afetar as suas relações com eles no futuro</VEF.Factions.Contraband_Booze_SellWarning>
+  <VEF.Factions.Contraband_Booze_SellIllegalWarning>Vender {ILLEGALTHING_label} a {ILLEGALFACTION_name} é contra a lei de {FACTION_name}. Isto pode ou não afetar as suas relações com eles no futuro</VEF.Factions.Contraband_Booze_SellIllegalWarning>
+  <VEF.Factions.Contraband_Booze_LetterLabel>{FACTION_name} enfurecida</VEF.Factions.Contraband_Booze_LetterLabel>
+  <VEF.Factions.Contraband_Booze_LetterDescGift>{FACTION_name} descobriu que tem presenteado {ILLEGALTHING_label} nas costas deles. Consideram isto contra a lei, e as suas relações degradaram-se</VEF.Factions.Contraband_Booze_LetterDescGift>
+  <VEF.Factions.Contraband_Booze_LetterDescSold>{FACTION_name} descobriu que tem vendido {ILLEGALTHING_label} nas costas deles. Consideram isto contra a lei, e as suas relações degradaram-se</VEF.Factions.Contraband_Booze_LetterDescSold>
+  <VEF.Factions.Contraband_Booze_LetterDescIllegalGift>{FACTION_name} descobriu que tem presenteado {ILLEGALTHING_label} a {ILLEGALFACTION_name} nas costas deles. Consideram isto contra a lei, e as suas relações degradaram-se</VEF.Factions.Contraband_Booze_LetterDescIllegalGift>
+  <VEF.Factions.Contraband_Booze_LetterDescIllegalSold>{FACTION_name} descobriu que tem vendido {ILLEGALTHING_label} a {ILLEGALFACTION_name} nas costas deles. Consideram isto contra a lei, e as suas relações degradaram-se</VEF.Factions.Contraband_Booze_LetterDescIllegalSold>
+  <VEF.Factions.Contraband_Booze_RelationInfo>Afinidade com {FACTION_name} é agora {1}. (Alterado por {2})</VEF.Factions.Contraband_Booze_RelationInfo>
+  <VEF.Factions.FactionDef_Description_Contraband>Detalhes de troca</VEF.Factions.FactionDef_Description_Contraband>
+  <VEF.Factions.FactionDef_Description_Positives>Afinidade positiva por trocar {0}</VEF.Factions.FactionDef_Description_Positives>
+  <VEF.Factions.FactionDef_Description_Negatives>Afinidade negativa por trocar {0}</VEF.Factions.FactionDef_Description_Negatives>
+  <VWE.CannotEquipHeavy>A arma requer armadura motorizada</VWE.CannotEquipHeavy>
+  <IP_InsertFirstItemDesc>Inserir</IP_InsertFirstItemDesc>
+  <IP_InsertSecondItemDesc>Inserir</IP_InsertSecondItemDesc>
+  <IP_InsertThirdItemDesc>Inserir</IP_InsertThirdItemDesc>
+  <IP_InsertFourthItemDesc>Inserir</IP_InsertFourthItemDesc>
+  <IP_InsertVariable>Inserir {0}</IP_InsertVariable>
+  <IP_Output>Saída {0}</IP_Output>
+  <IP_OutputVariable>Saída {0} de {1}</IP_OutputVariable>
+  <IP_OutputDesc>O processador irá produzir {0}. Precisa de ser alimentado com {1}</IP_OutputDesc>
+  <IP_InsertVariableSecond>Inserir {0} no 2º slot</IP_InsertVariableSecond>
+  <IP_InsertVariableThird>Inserir {0} no 3º slot</IP_InsertVariableThird>
+  <IP_CantFindThing>Nenhum item desse tipo ({0}) encontrado neste mapa</IP_CantFindThing>
+  <IP_BringIngredients>Trazer Ingredientes</IP_BringIngredients>
+  <IP_BringIngredientsDesc>Trazer ingredientes para iniciar o processo</IP_BringIngredientsDesc>
+  <IP_CancelIngredients>Cancelar o Transporte de Ingredientes</IP_CancelIngredients>
+  <IP_CancelIngredientsDesc>Cancelar o Transporte de Ingredientes para este edifício</IP_CancelIngredientsDesc>	
+  <IP_NoIngredientFound>Nenhum ingrediente encontrado no mapa</IP_NoIngredientFound>
+  <IP_ProductWaiting>A aguardar recolha</IP_ProductWaiting>
+  <IP_OutsideLightRange>O processo nesta máquina está a ser interrompido devido a um nível de luz inadequado e será estragado em breve</IP_OutsideLightRange>
+  <IP_SpoiledDueToLight>O produto nesta máquina estragou-se devido a um nível de luz inadequado</IP_SpoiledDueToLight>
+  <IP_ItRains>O processo nesta máquina está a ser interrompido devido ao mau tempo e será estragado em breve</IP_ItRains>
+  <IP_SpoiledDueToRain>O produto nesta máquina estragou-se devido ao mau tempo</IP_SpoiledDueToRain>
+  <IP_WrongTemp>O processo nesta máquina está a ser interrompido devido a uma temperatura inadequada e será estragado em breve</IP_WrongTemp>
+  <IP_SpoiledDueToWrongTemp>O produto estragou-se devido a uma temperatura inadequada. Precisa de estar entre {0} e {1} ºC</IP_SpoiledDueToWrongTemp>
+  <IP_TempRangeInThisMachine>O processo atual necessita de uma temperatura entre {0} e {1} ºC</IP_TempRangeInThisMachine>
+  <IP_TogglePause>Pausar / Recomeçar</IP_TogglePause>
+  <IP_TogglePauseDesc>Pausar / Recomeçar o processamento desta máquina</IP_TogglePauseDesc>
+  <IP_ResetFullAuto>Reiniciar Máquina</IP_ResetFullAuto>
+  <IP_ResetFullAutoDesc>Reinicia a máquina totalmente e fá-la parar. Atenção, irá destruir o processo e os itens de entrada</IP_ResetFullAutoDesc>
+  <IP_OverThreshold>{0} no output. (acima de {1})</IP_OverThreshold>
+  <IP_UnderThreshold>{0} no output. (abaixo de {1})</IP_UnderThreshold>
+  <IP_NoThreshold>Sem limite no output.</IP_NoThreshold>
+  <IP_Count>Contagem:</IP_Count>
+  <IP_NoCount>Sem contagem</IP_NoCount>
+  <IP_InputAmount>Quantidade de input: {0}</IP_InputAmount>
+  <IP_OutputAmount>Quantidade de output: {0}</IP_OutputAmount>
+  <IP_NoOutputAmount>Sem quantidade de output</IP_NoOutputAmount>
+  <IP_Speed>Velocidade: {0}</IP_Speed>
+  <IP_Speed_Tooltip>A velocidade de processamento é determinada pela temperatura, nível de luz e chuva.</IP_Speed_Tooltip>
+  <IP_ProcessTime>Tempo de processamento: {0}</IP_ProcessTime>
+  <IP_Input>{0} ({1})</IP_Input>
+  <IP_Input_Tooltip>{0} ({1}) no input</IP_Input_Tooltip>
+  <IP_Output_Tooltip>{0} ({1}) no output</IP_Output_Tooltip>
+  <IP_Output_NextItem>{0} ({1} unidades)</IP_Output_NextItem>
+  <IP_Output_NextItem_Tooltip>{0} ({1} unidades) no próximo output</IP_Output_NextItem_Tooltip>
+  <IP_Output_NextItem_NoAmount>{0} (sem output)</IP_Output_NextItem_NoAmount>
+  <VEF.QuestChainTooltip>Esta missão faz parte de uma cadeia de missões. Completá-la pode ativar missões de continuação.\n\n{0}\n\n{1}</VEF.QuestChainTooltip>
+  <VGE_EggHatchedLabel>{0} chocado!</VGE_EggHatchedLabel>
+  <VGE_Male_Egg>Machos não põem ovos</VGE_Male_Egg>
+  <VGE_PregnancyFactor>Gene fator de gravidez: {0} velocidade de gestação</VGE_PregnancyFactor>
+  <VGE_ForGenderOnly>Gene apenas para {0}.</VGE_ForGenderOnly>
+  
+  <VME_MessageNeedsThePairedMeme>{0} precisa que um dos seguintes memes também seja escolhido para funcionar: {1}</VME_MessageNeedsThePairedMeme>
+</LanguageData>
