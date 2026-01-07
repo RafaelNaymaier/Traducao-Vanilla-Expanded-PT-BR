@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRESaurids_FactionGreetingHostile>{0} grita algo que apenas saurídeos conseguiriam entender no microfone e desconecta.</VRESaurids_FactionGreetingHostile>
+  <VRESaurids_FactionGreetingHostileAppreciative>Sibilando e gritando com raiva, {0} exige que você faça um gesto de união, como trazer presentes a um dos assentamentos de {0_possessive} ou libertar os prisioneiros de {0_possessive} ilesos. Até então, {0_pronoun} não está disposto a conversar.\n\nSibilando um insulto, {0_pronoun} desconecta.</VRESaurids_FactionGreetingHostileAppreciative>
+  <VRESaurids_FactionGreetingWary>{0} sibila uma saudação e pergunta qual assunto você precisa resolver.</VRESaurids_FactionGreetingWary>
+  <VRESaurids_FactionGreetingWarm>Latindo entusiasticamente, {0} saúda {NEGOTIATOR_labelShort} e pergunta o que {LEADER_pronoun} pode fazer para ajudá-lo.</VRESaurids_FactionGreetingWarm>
+  <VRESaurids_MilitaryAidSent>{0} concorda em enviar combatentes saurídeos para ajudá-lo.</VRESaurids_MilitaryAidSent>
+
+  <VRESaurids.EggLaidLabel>{0} pôs um ovo!</VRESaurids.EggLaidLabel>
+  <VRESaurids.EggLaidDesc>{0} pôs um ovo por ser ovíparo. Certifique-se de manter o ovo em um ambiente seguro, sob cobertura (telhado) e entre $0\,^\circ\text{C}$ - $50\,^\circ\text{C}$. Após algum tempo, o ovo chocará e se tornará um filhote. {0} será incapaz de pôr outro ovo até que seu corpo se recupere deste processo.</VRESaurids.EggLaidDesc>
+  <VRESaurids.EggHatchedLabel>O ovo de {0} chocou!</VRESaurids.EggHatchedLabel>
+  <VRESaurids.EggHatchedDesc>O ovo de {0} chocou com sucesso, adicionando um novo bebê à colônia! Lembre-se de cuidar dele e garantir que ele cresça saudável.</VRESaurids.EggHatchedDesc>
+  <VRESaurids.CannotOviparous>ovíparo</VRESaurids.CannotOviparous>
+  <VRESaurids.ColdBloodedDanger>Perigo de Sangue Frio!</VRESaurids.ColdBloodedDanger>
+  <VRESaurids.ColdBloodedDangerExplanation>Colonos de sangue frio sucumbirão a temperaturas extremas muito mais fácil e rapidamente do que outros, e estão atualmente em risco.</VRESaurids.ColdBloodedDangerExplanation>
+
+</LanguageData>

@@ -19,10 +19,16 @@
       <displayName>Vanilla Races Expanded - Sanguophage</displayName>
       <steamWorkshopUrl>2963116383</steamWorkshopUrl>
     </li>
+    <li>
+      <packageId>vanillaracesexpanded.saurid</packageId>
+      <displayName>Vanilla Races Expanded - Saurid</displayName>
+      <steamWorkshopUrl>2557467268</steamWorkshopUrl>
+    </li>
   </modDependencies>
+  
   <loadAfter>
     <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
-    <li>Ludeon.RimWorld</li>
     <li>vanillaracesexpanded.sanguophage</li>
+    <li>vanillaracesexpanded.saurid</li>
   </loadAfter>
 </ModMetaData>
