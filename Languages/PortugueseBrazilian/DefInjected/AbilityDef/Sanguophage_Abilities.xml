@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VRE_AnimalFeed.label>alimentação em animal</VRE_AnimalFeed.label>
-  <VRE_AnimalFeed.description>Morde o animal alvo e extrai hemogênio diretamente do seu sangue. O animal perderá sangue e ficará horrorizado com a interação, o que pode resultar num ataque. Um coagulante de ação rápida sela a ferida para prevenir sangramento.\n\nSó pode alvejar animais.</VRE_AnimalFeed.description>
+	<VRE_AnimalFeed.label>Alimentação em Animal</VRE_AnimalFeed.label>
+	<VRE_AnimalFeed.description>Morde o animal alvo e extrai hemogênio diretamente do seu sangue. O animal perderá sangue e ficará apavorado com a interação, o que pode resultar em um ataque. Um coagulante de ação rápida sela a ferida para prevenir o sangramento.\n\nSó pode alvejar animais.</VRE_AnimalFeed.description>
 
-  <VRE_CorpseFeed.label>alimentação em cadáver</VRE_CorpseFeed.label>
-  <VRE_CorpseFeed.description>Morde o cadáver alvo e extrai hemogênio diretamente do seu sangue. O cadáver perderá qualquer sangue restante.\n\nSó pode alvejar cadáveres humanos.</VRE_CorpseFeed.description>
+	<VRE_CorpseFeed.label>Alimentação em Cadáver</VRE_CorpseFeed.label>
+	<VRE_CorpseFeed.description>Morde o cadáver alvo e extrai hemogênio diretamente do seu sangue. O cadáver perderá qualquer sangue restante.\n\nSó pode alvejar cadáveres de colonos.</VRE_CorpseFeed.description>
 
-  <VRE_SanguoFeed.label>alimentação sanguófaga</VRE_SanguoFeed.label>
-  <VRE_SanguoFeed.description>Morde o alvo e extrai hemogênio diretamente do seu sangue. O alvo perderá sangue e será insultado pela interação, mas não será prejudicado de outra forma. Um coagulante de ação rápida sela a ferida para prevenir sangramento.\n\nSó pode alvejar humanos hemogênicos.</VRE_SanguoFeed.description>
+	<VRE_SanguoFeed.label>Alimentação Sanguófaga</VRE_SanguoFeed.label>
+	<VRE_SanguoFeed.description>Morde o alvo e extrai hemogênio diretamente do seu sangue. O alvo perderá sangue e será humilhado pela interação, mas não será prejudicado de outra forma. Um coagulante de ação rápida sela a ferida para prevenir o sangramento.\n\nSó pode alvejar colonos hemogênicos.</VRE_SanguoFeed.description>
 
-  <VRE_Ecstasy.label>êxtase</VRE_Ecstasy.label>
-  <VRE_Ecstasy.description>Concede ao alvo uma sensação de êxtase extremo por uma curta duração, o que faz com que se apaixone perdidamente pelo conjurador.</VRE_Ecstasy.description>
+	<VRE_Ecstasy.label>Êxtase</VRE_Ecstasy.label>
+	<VRE_Ecstasy.description>Concede ao alvo uma sensação de êxtase extremo por um curto período, o que faz com que desenvolva uma paixão intensa pelo conjurador.</VRE_Ecstasy.description>
 
-  <VRE_HeartCrush.label>esmagar coração</VRE_HeartCrush.label>
-  <VRE_HeartCrush.description>Arranca o coração de um inimigo próximo, matando-o instantaneamente e cobrindo a área de sangue. Só funcionará em criaturas com tamanho corporal de 2 ou inferior. Criaturas maiores ainda serão gravemente danificadas.</VRE_HeartCrush.description>
+	<VRE_HeartCrush.label>Esmagamento Cardíaco</VRE_HeartCrush.label>
+	<VRE_HeartCrush.description>Arranca o coração de um inimigo próximo, matando-o instantaneamente e cobrindo a área com sangue. Só funciona em criaturas com massa corporal de 2.0 ou inferior. Criaturas maiores ainda sofrerão danos severos.</VRE_HeartCrush.description>
 
-  <VRE_FilterInfection.label>filtrar infeção</VRE_FilterInfection.label>
-  <VRE_FilterInfection.description>Põe as mãos num alvo e ajuda-o a combater as suas infeções. Funciona em animais ou humanos.</VRE_FilterInfection.description>
+	<VRE_FilterInfection.label>Filtrar Infecção</VRE_FilterInfection.label>
+	<VRE_FilterInfection.description>Põe as mãos em um alvo e ajuda-o a combater suas infecções. Funciona em animais ou colonos.</VRE_FilterInfection.description>
 
-  <VRE_Hemosmosis.label>hemosmose</VRE_Hemosmosis.label>
-  <VRE_Hemosmosis.description>Absorve o sangue presente ao redor do sanguófago e o transforma em hemogênio.</VRE_Hemosmosis.description>
+	<VRE_Hemosmosis.label>Hemósmose</VRE_Hemosmosis.label>
+	<VRE_Hemosmosis.description>Absorve o sangue circundante e o transforma em hemogênio.</VRE_Hemosmosis.description>
 
-  <VRE_Resurrect.label>ressuscitar</VRE_Resurrect.label>
-  <VRE_Resurrect.description>Usa arquites na corrente sanguínea para infundir o corpo de um cadáver com nova vida, reparando estruturas celulares degeneradas e ativando funções vitais. Quanto mais velho e pior preservado for o cadáver, maior a probabilidade de voltar com perda de memória ou problemas de saúde. Esta habilidade parece esgotar os arquites de alguma forma, por isso só pode ser usada muito raramente.</VRE_Resurrect.description>
+	<VRE_Resurrect.label>Ressurreição</VRE_Resurrect.label>
+	<VRE_Resurrect.description>Usa **Arquitas** na corrente sanguínea para infundir o corpo de um cadáver com nova vida, reparando estruturas celulares degeneradas e ativando funções vitais. Quanto mais velho e pior preservado for o cadáver, maior a probabilidade de retornar com perda de memória ou problemas de saúde. Esta habilidade parece esgotar as **Arquitas** de alguma forma, por isso só pode ser usada muito raramente.</VRE_Resurrect.description>
 
-  <VRE_ToxicCloud.label>nuvem tóxica</VRE_ToxicCloud.label>
-  <VRE_ToxicCloud.description>Libera fumaça tóxica densa armazenada em reservatórios orgânicos nos pulmões. O gás é letal para quase todas as criaturas.</VRE_ToxicCloud.description>
+	<VRE_ToxicCloud.label>Nuvem Tóxica</VRE_ToxicCloud.label>
+	<VRE_ToxicCloud.description>Libera fumaça tóxica densa armazenada em reservatórios orgânicos nos pulmões. O gás é letal para quase todas as formas de vida orgânica.</VRE_ToxicCloud.description>
 
-  <VRE_ViscuousGoo.label>gosma viscosa</VRE_ViscuousGoo.label>
-  <VRE_ViscuousGoo.description>Ejeta um projétil que explode no impacto e cria uma grande quantidade de sujeira que desacelera muito as pessoas que tentam se mover através dela.</VRE_ViscuousGoo.description>
+	<VRE_ViscuousGoo.label>Gosma Viscosa</VRE_ViscuousGoo.label>
+	<VRE_ViscuousGoo.description>Ejeta um projétil que explode no impacto, criando uma grande quantidade de sujeira que desacelera severamente quem tenta se mover através dela.</VRE_ViscuousGoo.description>
 
 </LanguageData>

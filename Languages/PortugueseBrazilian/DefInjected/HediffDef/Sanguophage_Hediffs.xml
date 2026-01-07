@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VRE_Sensitivity_Dangerous_Hediff.label>sensibilidade UV perigosa</VRE_Sensitivity_Dangerous_Hediff.label>
-  <VRE_Sensitivity_Dangerous_Hediff.description>Esta é uma condição de saúde oculta que modifica a Visão do peão dependendo da luz solar.</VRE_Sensitivity_Dangerous_Hediff.description>
+	<VRE_Sensitivity_Dangerous_Hediff.label>Sensibilidade UV Perigosa</VRE_Sensitivity_Dangerous_Hediff.label>
+	<VRE_Sensitivity_Dangerous_Hediff.description>Esta é uma condição de saúde latente que modula a Visão do colono em reação à luz solar.</VRE_Sensitivity_Dangerous_Hediff.description>
 
-  <VRE_ConsumedAnimalHemogen.label>hemogênio animal consumido</VRE_ConsumedAnimalHemogen.label>
-  <VRE_ConsumedAnimalHemogen.description>Hemogênio consumido de um animal, dando uma rápida explosão de energia e saúde, mas terá um pequeno custo.</VRE_ConsumedAnimalHemogen.description>
+	<VRE_ConsumedAnimalHemogen.label>Hemogênio Animal Consumido</VRE_ConsumedAnimalHemogen.label>
+	<VRE_ConsumedAnimalHemogen.description>Hemogênio extraído de um animal, provendo uma rápida explosão de energia e vitalidade, mas com um custo secundário menor.</VRE_ConsumedAnimalHemogen.description>
 
-  <VRE_ConsumedCorpseHemogen.label>hemogênio de cadáver consumido</VRE_ConsumedCorpseHemogen.label>
-  <VRE_ConsumedCorpseHemogen.description>Hemogênio consumido de um cadáver, dando uma rápida explosão de energia e saúde, mas terá um pequeno custo.</VRE_ConsumedCorpseHemogen.description>
+	<VRE_ConsumedCorpseHemogen.label>Hemogênio de Cadáver Consumido</VRE_ConsumedCorpseHemogen.label>
+	<VRE_ConsumedCorpseHemogen.description>Hemogênio extraído de um cadáver, provendo uma rápida explosão de energia e vitalidade, mas com um custo secundário menor.</VRE_ConsumedCorpseHemogen.description>
 
-  <VRE_ConsumedSanguophageHemogen.label>hemogênio sanguófago consumido</VRE_ConsumedSanguophageHemogen.label>
-  <VRE_ConsumedSanguophageHemogen.description>Hemogênio consumido de um sanguófago, dando uma rápida explosão de energia e saúde, mas terá um pequeno custo.</VRE_ConsumedSanguophageHemogen.description>
+	<VRE_ConsumedSanguophageHemogen.label>Hemogênio Sanguófago Consumido</VRE_ConsumedSanguophageHemogen.label>
+	<VRE_ConsumedSanguophageHemogen.description>Hemogênio extraído de um sanguófago, provendo uma rápida explosão de energia e vitalidade, mas com um custo secundário menor.</VRE_ConsumedSanguophageHemogen.description>
 
-  <VRE_DraincasketSickness.label>doença do caixão de drenagem</VRE_DraincasketSickness.label>
-  <VRE_DraincasketSickness.description>Consequências do uso de um caixão de drenagem. Os sintomas da doença do caixão de drenagem geralmente incluem dor localizada, inchaço e vermelhidão no local de conexão dos tubos do caixão. As vítimas podem sentir fadiga crescente, fraqueza e uma sensação geral de mal-estar.</VRE_DraincasketSickness.description>
-  <VRE_DraincasketSickness.descriptionShort>Consequências do uso de um caixão de drenagem. As vítimas podem sentir fadiga crescente, fraqueza e uma sensação geral de mal-estar.</VRE_DraincasketSickness.descriptionShort>
-  <VRE_DraincasketSickness.stages.0.label>ligeira</VRE_DraincasketSickness.stages.0.label>
+	<VRE_DraincasketSickness.label>Mal do Caixão de Drenagem</VRE_DraincasketSickness.label>
+	<VRE_DraincasketSickness.description>Consequências do uso de um caixão de drenagem. Os sintomas do mal do caixão de drenagem geralmente incluem dor localizada, inchaço e vermelhidão no ponto de conexão dos tubos. As vítimas podem sentir fadiga crescente, fraqueza e uma sensação geral de mal-estar.</VRE_DraincasketSickness.description>
+	<VRE_DraincasketSickness.descriptionShort>Consequências do uso de um caixão de drenagem. As vítimas podem sentir fadiga crescente, fraqueza e uma sensação geral de mal-estar.</VRE_DraincasketSickness.descriptionShort>
+	<VRE_DraincasketSickness.stages.0.label>ligeira</VRE_DraincasketSickness.stages.0.label>
 
-  <VacskinGland.label>Glândula Vacskin</VacskinGland.label>
-  <VacskinGland.description>Uma glândula vacskin instalada. Libera uma substância cerosa que forma uma barreira isolante na pele, prevenindo queimaduras a vácuo, mas restringindo o movimento. A glândula também regula os níveis de oxigênio no sangue, permitindo maior sobrevivência no vácuo espacial.</VacskinGland.description>
-  <VacskinGland.labelNoun>uma glândula vacskin</VacskinGland.labelNoun>
+	<VacskinGland.label>Glândula Vacskin</VacskinGland.label>
+	<VacskinGland.description>Uma glândula Vacskin implantada. Libera uma substância cerosa que forma uma barreira isolante na pele, prevenindo queimaduras por vácuo, mas restringindo a mobilidade. A glândula também regula os níveis de oxigênio no sangue, permitindo maior sobrevivência no vácuo espacial.</VacskinGland.description>
+	<VacskinGland.labelNoun>uma glândula vacskin</VacskinGland.labelNoun>
 
-  <VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>queimadura permanente</VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>
-  <VEF_PermanentBurn.labelNounPretty>{0} no(a) {1}</VEF_PermanentBurn.labelNounPretty>
-  <VEF_AcidBurn.labelNounPretty>{0} no(a) {1}</VEF_AcidBurn.labelNounPretty>
+	<VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>queimadura permanente</VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+	<VEF_PermanentBurn.labelNounPretty>{0} na {1}</VEF_PermanentBurn.labelNounPretty>
+	<VEF_AcidBurn.labelNounPretty>{0} na {1}</VEF_AcidBurn.labelNounPretty>
 
-  <VRE_SharpTalons.label>garras afiadas</VRE_SharpTalons.label>
-  <VRE_SharpTalons.description>Garras afiadas que podem ser usadas em combate corpo a corpo.</VRE_SharpTalons.description>
-  <VRE_SharpTalons.comps.HediffComp_VerbGiver.tools.talons.label>garras</VRE_SharpTalons.comps.HediffComp_VerbGiver.tools.talons.label>
-  
-  <VRE_SolidifiedHemogen.extraTooltip>Dura até o próximo repouso da morte.</VRE_SolidifiedHemogen.extraTooltip>
-  <VRE_HemogenAmplifiedWeak.extraTooltip>Dura até o próximo repouso da morte.</VRE_HemogenAmplifiedWeak.extraTooltip>
+	<VRE_SharpTalons.label>Garras Afiadas</VRE_SharpTalons.label>
+	<VRE_SharpTalons.description>Garras afiadas que podem ser utilizadas em combate corpo a corpo.</VRE_SharpTalons.description>
+	<VRE_SharpTalons.comps.HediffComp_VerbGiver.tools.talons.label>garras</VRE_SharpTalons.comps.HediffComp_VerbGiver.tools.talons.label>
+	
+	<VRE_SolidifiedHemogen.extraTooltip>Perdura até o próximo Descanso Mortal.</VRE_SolidifiedHemogen.extraTooltip>
+	<VRE_HemogenAmplifiedWeak.extraTooltip>Perdura até o próximo Descanso Mortal.</VRE_HemogenAmplifiedWeak.extraTooltip>
 
 </LanguageData>

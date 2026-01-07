@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <VFEMechForceRecharge>Forçar Recarga</VFEMechForceRecharge>
-  <VFEMechForceRechargeDesc>Ordenar que a máquina associada retorne a esta plataforma para recarga, independentemente do seu nível de bateria atual.</VFEMechForceRechargeDesc>
-  <VFEMechAttachTurret>Anexar Torreta</VFEMechAttachTurret>
-  <VFEMechAttachTurretDesc>Construir uma torreta no topo desta plataforma móvel. Isso exigirá que um colono entregue recursos iguais ao custo normal de construção daquela torreta.</VFEMechAttachTurretDesc>
-  <VFEMechMachineDied>Máquina destruída</VFEMechMachineDied>
-  <VFEMechMachineDiedDesc>Uma das suas máquinas foi destruída! Você pode desmantelar seus restos em uma mesa de usinagem. Para construir uma substituição, um dos seus colonos precisará entregar as seguintes peças à sua plataforma:\n\n{0}</VFEMechMachineDiedDesc>
-  <VFEMechNoResources>Recursos insuficientes</VFEMechNoResources>
-  <VFEMechNoTurret>Nenhuma torreta móvel ativa</VFEMechNoTurret>
-  <VFEMechReconstruct>Necessário para reconstruir a máquina:</VFEMechReconstruct>
-  <VFEMechTurretResources>Necessário para construir a torreta:</VFEMechTurretResources>
-  <VFEMechLowerRange>Reduzir alcance</VFEMechLowerRange>
-  <VFEMechLowerRangeDesc>Reduzir o número de blocos que esta máquina percorrerá.</VFEMechLowerRangeDesc>
-  <VFEMechRaiseRange>Aumentar alcance</VFEMechRaiseRange>
-  <VFEMechRaiseRangeDesc>Aumentar o número de blocos que esta máquina percorrerá.</VFEMechRaiseRangeDesc>
-  <VFEMechStopMachine>Parar máquina</VFEMechStopMachine>
-  <VFEMechStopMachineDesc>Parar o progresso desta máquina e forçá-la a retornar à base.</VFEMechStopMachineDesc>
-  <VFEMechStartMachine>Iniciar máquina</VFEMechStartMachine>
-  <VFEMechStartMachineDesc>Iniciar esta máquina.</VFEMechStartMachineDesc>
-  <VFEMechMachineHitObstacle>A máquina encontrou um obstáculo!</VFEMechMachineHitObstacle>
-  <VFEMechSetArea>Definir área</VFEMechSetArea>
-  <VFEMechSetAreaDesc>Definir a área permitida para todas as máquinas associadas a esta plataforma.</VFEMechSetAreaDesc>
-  <VFEMRideableMachineTip>Este dróide é pilotável. Pessoas em uma caravana pilotarão os animais/dróides mais rápidos disponíveis, melhorando a velocidade da caravana como um todo.</VFEMRideableMachineTip>
+	<VFEMechForceRecharge>Forçar Recarga</VFEMechForceRecharge>
+	<VFEMechForceRechargeDesc>Ordenar que a máquina associada retorne a esta plataforma para recarga, independentemente do seu nível de bateria atual.</VFEMechForceRechargeDesc>
+	<VFEMechAttachTurret>Anexar Torreta</VFEMechAttachTurret>
+	<VFEMechAttachTurretDesc>Construir uma torreta no topo desta plataforma móvel. Isso exigirá que um colono entregue recursos iguais ao custo normal de construção daquela torreta.</VFEMechAttachTurretDesc>
+	<VFEMechMachineDied>Máquina destruída</VFEMechMachineDied>
+	<VFEMechMachineDiedDesc>Uma das suas máquinas foi destruída! Você pode desmantelar seus restos em uma mesa de usinagem. Para construir uma substituição, um dos seus colonos precisará entregar as seguintes peças à sua plataforma:\n\n{0}</VFEMechMachineDiedDesc>
+	<VFEMechNoResources>Recursos insuficientes</VFEMechNoResources>
+	<VFEMechNoTurret>Nenhuma torreta móvel ativa</VFEMechNoTurret>
+	<VFEMechReconstruct>Necessário para reconstruir a máquina:</VFEMechReconstruct>
+	<VFEMechTurretResources>Necessário para construir a torreta:</VFEMechTurretResources>
+	<VFEMechLowerRange>Reduzir alcance</VFEMechLowerRange>
+	<VFEMechLowerRangeDesc>Reduzir o número de blocos que esta máquina percorrerá.</VFEMechLowerRangeDesc>
+	<VFEMechRaiseRange>Aumentar alcance</VFEMechRaiseRange>
+	<VFEMechRaiseRangeDesc>Aumentar o número de blocos que esta máquina percorrerá.</VFEMechRaiseRangeDesc>
+	<VFEMechStopMachine>Parar máquina</VFEMechStopMachine>
+	<VFEMechStopMachineDesc>Parar o progresso desta máquina e forçá-la a retornar à base.</VFEMechStopMachineDesc>
+	<VFEMechStartMachine>Iniciar máquina</VFEMechStartMachine>
+	<VFEMechStartMachineDesc>Iniciar esta máquina.</VFEMechStartMachineDesc>
+	<VFEMechMachineHitObstacle>A máquina encontrou um obstáculo!</VFEMechMachineHitObstacle>
+	<VFEMechSetArea>Definir área</VFEMechSetArea>
+	<VFEMechSetAreaDesc>Definir a área permitida para todas as máquinas associadas a esta plataforma.</VFEMechSetAreaDesc>
+	<VFEMRideableMachineTip>Este dróide é pilotável. Pessoas em uma caravana pilotarão os animais/dróides mais rápidos disponíveis, melhorando a velocidade da caravana como um todo.</VFEMRideableMachineTip>
 	<VFEM.CaravanMachineRanOutPower>{MACHINE_nameDef} ficou sem energia e foi deixada(o) para trás.</VFEM.CaravanMachineRanOutPower>
-  <VFEM.DroneGainsName>O nome do dróide agora é {0}.</VFEM.DroneGainsName>
+	<VFEM.DroneGainsName>O nome do dróide agora é {0}.</VFEM.DroneGainsName>
 </LanguageData>

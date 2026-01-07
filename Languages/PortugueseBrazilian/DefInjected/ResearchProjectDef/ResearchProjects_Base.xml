@@ -1,79 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MultiAnalyzer.generalRules.rulesStrings>
-    <li>subject_story->automatizou um laboratório de pesquisa</li>
-    <li>subject_story->desvendou os segredos trans-espectrais do universo</li>
-    <li>subject_story->ajudou a identificar novos isótopos estáveis</li>
-    <li>subject_gerund->construindo multianalisadores</li>
-  </MultiAnalyzer.generalRules.rulesStrings>
+	<MultiAnalyzer.generalRules.rulesStrings>
+		<li>subject>multianálise</subject>
+		<li>subject_story>automatizou um laboratório de pesquisa</subject_story>
+		<li>subject_story>desvendou os segredos transespectrais do universo</subject_story>
+		<li>subject_story>ajudou a identificar novos isótopos estáveis</subject_story>
+		<li>subject_gerund>construindo multianalisadores</subject_gerund>
+	</MultiAnalyzer.generalRules.rulesStrings>
 
-  <VitalsMonitor.generalRules.rulesStrings>
-    <li>subject->monitoramento de sinais vitais</li>
-    <li>subject_story->trabalhou em um hospital lotado e jurou lutar por mudanças</li>
-    <li>subject_story->tratou um sobrevivente de mundo de vidro até que ele se recuperasse</li>
-    <li>subject_story->monitorou a ala de isolamento remotamente, enviando mecanoides para tratamentos</li>
-    <li>subject_gerund->monitorando sinais vitais</li>
-    <li>subject_gerund->construindo monitores de sinais vitais</li>
-  </VitalsMonitor.generalRules.rulesStrings>
+	<VitalsMonitor.generalRules.rulesStrings>
+		<li>subject>monitoramento de sinais vitais</subject>
+		<li>subject_story>trabalhou em um hospital superlotado e jurou lutar por mudanças</subject_story>
+		<li>subject_story>tratou um sobrevivente de mundo de vidro até que ele se recuperasse</subject_story>
+		<li>subject_story>monitorou a ala de isolamento remotamente, enviando mecanoides para tratamentos</subject_story>
+		<li>subject_gerund>monitorando sinais vitais</subject_gerund>
+		<li>subject_gerund>construindo monitores de sinais vitais</subject_gerund>
+	</VitalsMonitor.generalRules.rulesStrings>
 
-  <Fabrication.generalRules.rulesStrings>
-    <li>subject->bancadas de fabricação de alta tecnologia</li>
-    <li>subject_story->passou muitos anos fabricando componentes avançados, para fazer bancadas de fabricação para fazer componentes ainda mais avançados</li>
-    <li>subject_story->trocou tudo para construir uma única bancada de fabricação</li>
-    <li>subject_story->construiu maravilhas tecnológicas que os aldeões selvagens adoravam como mágica</li>
-    <li>subject_gerund->construindo projetos de alta tecnologia</li>
-    <li>subject_gerund->construindo estações de fabricação de alta tecnologia</li>
-  </Fabrication.generalRules.rulesStrings>
+	<Fabrication.generalRules.rulesStrings>
+		<li>subject>bancadas de fabricação de alta tecnologia</subject>
+		<li>subject_story>passou muitos anos fabricando componentes avançados, para fazer bancadas de fabricação para fazer componentes ainda mais avançados</subject_story>
+		<li>subject_story>trocou tudo para construir uma única bancada de fabricação</subject_story>
+		<li>subject_story>construiu maravilhas tecnológicas que os aldeões selvagens adoravam como mágica</subject_story>
+		<li>subject_gerund>construindo projetos de alta tecnologia</subject_gerund>
+		<li>subject_gerund>construindo estações de fabricação de alta tecnologia</subject_gerund>
+	</Fabrication.generalRules.rulesStrings>
 
-  <AdvancedFabrication.generalRules.rulesStrings>
-    <li>subject->fabricação de componentes avançados</li>
-    <li>subject_story->trocou componentes avançados com habitantes desesperados do rimworld</li>
-    <li>subject_story->aprendeu os segredos da fabricação de componentes avançados e morreu sem revelá-los</li>
-    <li>subject_story->se recusou a arcar com o custo extremo da fabricação de componentes avançados e escolheu um estilo de vida mais simples</li>
-    <li>subject_gerund->fabricando componentes avançados</li>
-  </AdvancedFabrication.generalRules.rulesStrings>
+	<AdvancedFabrication.generalRules.rulesStrings>
+		<li>subject>fabricação de componentes avançados</subject>
+		<li>subject_story>trocou componentes avançados com habitantes desesperados do RimWorld</subject_story>
+		<li>subject_story>aprendeu os segredos da fabricação de componentes avançados e morreu sem revelá-los</subject_story>
+		<li>subject_story>se recusou a arcar com o custo extremo da fabricação de componentes avançados e escolheu um estilo de vida mais simples</subject_story>
+		<li>subject_gerund>fabricando componentes avançados</subject_gerund>
+	</AdvancedFabrication.generalRules.rulesStrings>
 
-  <Cryptosleep.generalRules.rulesStrings>
-    <li>subject->criptosono</li>
-    <li>subject_story->pretendia testar um protótipo de caixão de criptosono e acordou uma geração depois, sozinho</li>
-    <li>subject_story->condenou o pior criminoso do sistema a criptosono indefinido em vez de morte</li>
-    <li>subject_story->usou uma cápsula de criptosono para suspender pacientes terminais, para que pudessem ver seus filhos depois de crescidos</li>
-    <li>subject_gerund->construindo caixões de criptosono</li>
-    <li>subject_gerund->induzindo criptosono</li>
-  </Cryptosleep.generalRules.rulesStrings>
+	<Cryptosleep.generalRules.rulesStrings>
+		<li>subject>criptosono</subject>
+		<li>subject_story>pretendia testar um protótipo de caixão de criptosono e acordou uma geração depois, sozinho</subject_story>
+		<li>subject_story>condenou o pior criminoso do sistema a criptosono indefinido em vez de morte</subject_story>
+		<li>subject_story>usou uma cápsula de criptosono para suspender pacientes terminais, para que pudessem ver seus filhos depois de crescidos</subject_story>
+		<li>subject_gerund>construindo caixões de criptosono</subject_gerund>
+		<li>subject_gerund>induzindo criptosono</subject_gerund>
+	</Cryptosleep.generalRules.rulesStrings>
 
-  <ReconArmor.generalRules.rulesStrings>
-    <li>subject->armadura de reconhecimento</li>
-    <li>subject_story->liderou os batedores rebeldes contra as forças Imperiais, até ser capturado</li>
-    <li>subject_story->criou uma armadura potente leve e resistente o suficiente para que os usuários de martelo se aproximassem do inimigo</li>
-    <li>subject_story->projetou a armadura de reconhecimento mais para caçadores do que para soldados. Vendeu bem, independentemente disso</li>
-    <li>subject_gerund->criando armadura de reconhecimento</li>
-    <li>subject_gerund->reduzindo peso da armadura</li>
-  </ReconArmor.generalRules.rulesStrings>
+	<ReconArmor.generalRules.rulesStrings>
+		<li>subject>armadura de reconhecimento</subject>
+		<li>subject_story>liderou os batedores rebeldes contra as forças Imperiais, até ser capturado</subject_story>
+		<li>subject_story>criou uma armadura potente leve e resistente o suficiente para que os usuários de martelo se aproximassem do inimigo</subject_story>
+		<li>subject_story>projetou a armadura de reconhecimento mais para caçadores do que para soldados. Vendeu bem, independentemente disso</subject_story>
+		<li>subject_gerund>criando armadura de reconhecimento</subject_gerund>
+		<li>subject_gerund>reduzindo o peso da armadura</subject_gerund>
+	</ReconArmor.generalRules.rulesStrings>
 
-  <PoweredArmor.generalRules.rulesStrings>
-    <li>subject->armadura de fuzileiro</li>
-    <li>subject_story->foi empregado pelas tropas de choque para manter suas armaduras</li>
-    <li>subject_story->testou a armadura caminhando, desarmado, por uma aldeia selvagem hostil sem receber um arranhão</li>
-    <li>subject_story->projetou a armadura como proteção contra o clima hostil do planeta, mas ela funcionou bem contra os piratas também</li>
-    <li>subject_gerund->construindo armadura de tropa de choque</li>
-    <li>subject_gerund->construindo armadura de fuzileiro</li>
-    <li>subject_gerund->construindo armadura avançada de uso geral</li>
-  </PoweredArmor.generalRules.rulesStrings>
+	<PoweredArmor.generalRules.rulesStrings>
+		<li>subject>armadura de fuzileiro</subject>
+		<li>subject_story>foi empregado pelas tropas de choque para manter suas armaduras</subject_story>
+		<li>subject_story>testou a armadura caminhando, desarmado, por uma aldeia selvagem hostil sem receber um arranhão</subject_story>
+		<li>subject_story>projetou a armadura como proteção contra o clima hostil do planeta, mas ela funcionou bem contra os piratas também</subject_story>
+		<li>subject_gerund>construindo armadura de tropa de choque</subject_gerund>
+		<li>subject_gerund>construindo armadura de fuzileiro</subject_gerund>
+		<li>subject_gerund>construindo armadura avançada de uso geral</subject_gerund>
+	</PoweredArmor.generalRules.rulesStrings>
 
-  <ChargedShot.generalRules.rulesStrings>
-    <li>subject->munição de pulso</li>
-    <li>subject_story->estudou monotrilhos de mundo de brilho e modificou a tecnologia para armas</li>
-    <li>subject_story->matou um rastreador mecânico usando um lança-cargas para atacá-lo de longe</li>
-    <li>subject_story->aprendeu a imbuir munição de rifle com carga retida, aumentando drasticamente sua letalidade</li>
-    <li>subject_gerund->construindo munição de pulso</li>
-    <li>subject_gerund->utilizando munição de pulso</li>
-  </ChargedShot.generalRules.rulesStrings>
+	<ChargedShot.generalRules.rulesStrings>
+		<li>subject>munição de pulso</subject>
+		<li>subject_story>estudou monotrilhos de mundo brilhante e modificou a tecnologia para armas</subject_story>
+		<li>subject_story>matou um rastreador mecânico usando um lança-cargas para atacá-lo de longe</subject_story>
+		<li>subject_story>aprendeu a imbuir munição de rifle com carga retida, aumentando drasticamente sua letalidade</subject_story>
+		<li>subject_gerund>construindo munição de pulso</subject_gerund>
+		<li>subject_gerund>utilizando munição de pulso</subject_gerund>
+	</ChargedShot.generalRules.rulesStrings>
 
-  <Bionics.generalRules.rulesStrings>
-    <li>subject->próteses biônicas</li>
-    <li>subject_story->trabalhou principalmente com soldados desfigurados, criando elementos faciais biônicos sob medida para que pudessem retornar aos seus entes queridos</li>
-  </Bionics.generalRules.rulesStrings>
+	<Bionics.generalRules.rulesStrings>
+		<li>subject>próteses biônicas</subject>
+		<li>subject_story>trabalhou principalmente com soldados desfigurados, criando elementos faciais biônicos sob medida para que pudessem retornar aos seus entes queridos</subject_story>
+		<li>subject_gerund>construindo próteses biônicas</subject_gerund>
+		<li>subject_gerund>utilizando partes do corpo biônicas</subject_gerund>
+	</Bionics.generalRules.rulesStrings>
 
 </LanguageData>

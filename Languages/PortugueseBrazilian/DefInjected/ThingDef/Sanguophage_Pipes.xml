@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VRE_HemogenPipe.label>tubo de hemogênio</VRE_HemogenPipe.label>
-  <VRE_HemogenPipe.description>Um tubo para transportar hemogênio entre tubos na rede. Deve ser colocado no chão para funcionar.</VRE_HemogenPipe.description>
+	<VRE_HemogenPipe.label>tubo de hemogênio</VRE_HemogenPipe.label>
+	<VRE_HemogenPipe.description>Um tubo para transportar hemogênio na rede. Deve ser colocado no chão para funcionar.</VRE_HemogenPipe.description>
 
-  <VRE_UndergroundHemogenPipe.label>tubo de hemogênio subterrâneo</VRE_UndergroundHemogenPipe.label>
-  <VRE_UndergroundHemogenPipe.description>Uma linha subterrânea para transportar hemogênio entre tubos na rede.</VRE_UndergroundHemogenPipe.description>
+	<VRE_UndergroundHemogenPipe.label>tubo de hemogênio subterrâneo</VRE_UndergroundHemogenPipe.label>
+	<VRE_UndergroundHemogenPipe.description>Uma linha subterrânea para transportar hemogênio na rede.</VRE_UndergroundHemogenPipe.description>
 
-  <VRE_Draincasket.label>caixão de drenagem</VRE_Draincasket.label>
-  <VRE_Draincasket.description>um caixão especial que pode hospedar um colono para o descanso mortal. colonos não sanguófagos aprisionados neste caixão serão drenados de hemogênio continuamente, fornecendo o recurso para a Rede de Hemogênio. O uso prolongado causa a "doença do caixão de drenagem".</VRE_Draincasket.description>
+	<VRE_Draincasket.label>caixão de drenagem</VRE_Draincasket.label>
+	<VRE_Draincasket.description>Um caixão especial que pode hospedar um colono para o descanso mortal. Colonos não sanguófagos aprisionados neste caixão serão drenados de hemogênio continuamente, fornecendo o recurso para a Rede de Hemogênio. O uso prolongado causa a "doença do caixão de drenagem".</VRE_Draincasket.description>
 
 </LanguageData>

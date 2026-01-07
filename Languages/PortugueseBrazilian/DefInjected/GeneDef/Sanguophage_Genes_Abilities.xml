@@ -1,32 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VRE_Ecstasy.label>êxtase</VRE_Ecstasy.label>
-  <VRE_Ecstasy.labelShortAdj>extasiador</VRE_Ecstasy.labelShortAdj>
-  <VRE_Ecstasy.description>Portadores deste gene podem conectar-se psiquicamente com o alvo brevemente, concedendo-lhe uma sensação de êxtase e fazendo com que se apaixone pelo conjurador.</VRE_Ecstasy.description>
+  <VRE_Ecstasy.label>Êxtase</VRE_Ecstasy.label>
+  <VRE_Ecstasy.description>Concede ao alvo uma sensação de êxtase extremo por um curto período, o que faz com que desenvolva uma paixão intensa pelo conjurador.</VRE_Ecstasy.description>
 
-  <VRE_HeartCrush.label>esmagar coração</VRE_HeartCrush.label>
-  <VRE_HeartCrush.labelShortAdj>esmagador de corações</VRE_HeartCrush.labelShortAdj>
-  <VRE_HeartCrush.description>Portadores deste gene podem arrancar o coração de um inimigo em corpo a corpo, matando-o instantaneamente e cobrindo a área de sangue. Funciona apenas em criaturas de tamanho corporal 2 ou inferior. Criaturas maiores ainda sofrerão danos graves.</VRE_HeartCrush.description>
+  <VRE_HeartCrush.label>Esmagamento Cardíaco</VRE_HeartCrush.label>
+  <VRE_HeartCrush.description>Arranca o coração de um inimigo próximo, matando-o instantaneamente e cobrindo a área com sangue. Só funciona em criaturas com massa corporal de 2.0 ou inferior. Criaturas maiores ainda sofrerão danos severos.</VRE_HeartCrush.description>
 
-  <VRE_FilterInfection.label>filtrar infecção</VRE_FilterInfection.label>
-  <VRE_FilterInfection.labelShortAdj>filtrador de infecções</VRE_FilterInfection.labelShortAdj>
-  <VRE_FilterInfection.description>Portadores deste gene podem usar o seu hemogênio para impulsionar a recuperação de um alvo contra infecções, funcionando tanto em animais como em humanos.</VRE_FilterInfection.description>
+  <VRE_FilterInfection.label>Filtrar Infecção</VRE_FilterInfection.label>
+  <VRE_FilterInfection.description>Põe as mãos em um alvo e ajuda-o a combater suas infecções. Funciona em animais ou colonos.</VRE_FilterInfection.description>
 
-  <VRE_Hemosmosis.label>hemosmose</VRE_Hemosmosis.label>
-  <VRE_Hemosmosis.labelShortAdj>hemosmótico</VRE_Hemosmosis.labelShortAdj>
-  <VRE_Hemosmosis.description>Portadores deste gene podem absorver sangue da área ao redor para transformá-la em hemogênio utilizável.</VRE_Hemosmosis.description>
+  <VRE_Hemosmosis.label>Hemósmose</VRE_Hemosmosis.label>
+  <VRE_Hemosmosis.description>Absorve o sangue circundante e o transforma em hemogênio.</VRE_Hemosmosis.description>
 
-  <VRE_ToxicCloud.label>nuvem tóxica</VRE_ToxicCloud.label>
-  <VRE_ToxicCloud.labelShortAdj>névoa tóxica</VRE_ToxicCloud.labelShortAdj>
-  <VRE_ToxicCloud.description>Libera fumaça tóxica densa armazenada em reservatórios orgânicos nos pulmões. O gás é letal para quase todas as criaturas.</VRE_ToxicCloud.description>
+  <VRE_Resurrect.label>Ressurreição</VRE_Resurrect.label>
+  <VRE_Resurrect.description>Usa **Arquitas** na corrente sanguínea para infundir o corpo de um cadáver com nova vida, reparando estruturas celulares degeneradas e ativando funções vitais. Quanto mais velho e pior preservado for o cadáver, maior a probabilidade de retornar com perda de memória ou problemas de saúde. Esta habilidade parece esgotar as **Arquitas** de alguma forma, por isso só pode ser usada muito raramente.</VRE_Resurrect.description>
 
-  <VRE_ViscuousGoo.label>gosma viscosa</VRE_ViscuousGoo.label>
-  <VRE_ViscuousGoo.labelShortAdj>gomador</VRE_ViscuousGoo.labelShortAdj>
-  <VRE_ViscuousGoo.description>Portadores deste gene podem ejetar um projétil que explode no impacto e cria uma grande quantidade de sujidade que desacelera muito as pessoas que tentam mover-se através dela.</VRE_ViscuousGoo.description>
+  <VRE_ToxicCloud.label>Nuvem Tóxica</VRE_ToxicCloud.label>
+  <VRE_ToxicCloud.description>Libera fumaça tóxica densa armazenada em reservatórios orgânicos nos pulmões. O gás é letal para quase todas as formas de vida orgânica.</VRE_ToxicCloud.description>
 
-  <VRE_Resurrect.label>ressuscitar</VRE_Resurrect.label>
-  <VRE_Resurrect.labelShortAdj>ressuscitador</VRE_Resurrect.labelShortAdj>
-  <VRE_Resurrect.description>Portadores têm uma reserva de arquites ressuscitadores únicos que podem infundir um cadáver, reconstruir tecido degenerado e iniciar processos vitais. Isso traz o morto de volta à vida, embora possivelmente com problemas de saúde. Só pode ser feito muito raramente e tem um alto custo de hemogênio.</VRE_Resurrect.description>
+  <VRE_ViscuousGoo.label>Gosma Viscosa</VRE_ViscuousGoo.label>
+  <VRE_ViscuousGoo.description>Ejeta um projétil que explode no impacto, criando uma grande quantidade de sujeira que desacelera severamente quem tenta se mover através dela.</VRE_ViscuousGoo.description>
 
 </LanguageData>

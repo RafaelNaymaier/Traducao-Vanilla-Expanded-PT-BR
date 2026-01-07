@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VEF_SecondaryAcidBurn.label>queimadura ácida</VEF_SecondaryAcidBurn.label>
-  <VEF_SecondaryAcidBurn.deathMessage>{0} foi corroído até a morte.</VEF_SecondaryAcidBurn.deathMessage>
+	<VEF_SecondaryAcidBurn.label>Queimadura Ácida</VEF_SecondaryAcidBurn.label>
+	<VEF_SecondaryAcidBurn.deathMessage>{0} foi corroído até a morte.</VEF_SecondaryAcidBurn.deathMessage>
 
-  <VEF_PermanentBurn.label>queimadura permanente</VEF_PermanentBurn.label>
-  <VEF_PermanentBurn.deathMessage>{0} foi morto por queimadura.</VEF_PermanentBurn.deathMessage>
+	<VEF_PermanentBurn.label>Queimadura Permanente</VEF_PermanentBurn.label>
+	<VEF_PermanentBurn.deathMessage>{0} morreu devido a queimaduras.</VEF_PermanentBurn.deathMessage>
 
 </LanguageData>

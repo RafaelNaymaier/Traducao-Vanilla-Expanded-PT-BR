@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VRE_Hemohunter.label>hemocaçador</VRE_Hemohunter.label>
-  <VRE_Hemohunter.beginLetter>{0} tornou-se um hemocaçador! \n\n[PAWN_pronoun] irá drenar o hemogênio de qualquer um que [PAWN_pronoun] veja, até que seu hemogênio atinja um nível seguro.</VRE_Hemohunter.beginLetter>
-  <VRE_Hemohunter.recoveryMessage>O estado de hemocaçador de {0} chegou ao fim.</VRE_Hemohunter.recoveryMessage>
-  <VRE_Hemohunter.baseInspectLine>Estado mental: hemocaçador</VRE_Hemohunter.baseInspectLine>
-  
+	<VRE_Hemohunter.label>Predador de Hemogênio</VRE_Hemohunter.label>
+	<VRE_Hemohunter.beginLetter>{0} tornou-se um Predador de Hemogênio! \n\n[PAWN_pronoun] irá drenar o hemogênio de qualquer um que [PAWN_pronoun] encontrar, até que seu nível de hemogênio atinja um patamar seguro.</VRE_Hemohunter.beginLetter>
+	<VRE_Hemohunter.recoveryMessage>O estado de Predador de Hemogênio de {0} chegou ao fim.</VRE_Hemohunter.recoveryMessage>
+	<VRE_Hemohunter.baseInspectLine>Estado mental: Predador de Hemogênio</VRE_Hemohunter.baseInspectLine>
+	
 </LanguageData>

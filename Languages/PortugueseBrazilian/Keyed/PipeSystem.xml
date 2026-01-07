@@ -1,156 +1,156 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <PipeSystem_Consumption>{0} consumo</PipeSystem_Consumption>
-  <PipeSystem_ConsumptionExplained>A quantidade por dia de {0} que este edifício irá consumir da rede de {1}.</PipeSystem_ConsumptionExplained>
+	<PipeSystem_Consumption>{0} consumo</PipeSystem_Consumption>
+	<PipeSystem_ConsumptionExplained>A quantidade por dia de {0} que este edifício irá consumir da rede de {1}.</PipeSystem_ConsumptionExplained>
 
-  <PipeSystem_IdleConsumption>{0} consumo ocioso</PipeSystem_IdleConsumption>
-  <PipeSystem_IdleConsumptionExplained>A quantidade de {0} que este edifício irá consumir da rede de {1} quando ocioso.</PipeSystem_IdleConsumptionExplained>
+	<PipeSystem_IdleConsumption>{0} consumo ocioso</PipeSystem_IdleConsumption>
+	<PipeSystem_IdleConsumptionExplained>A quantidade de {0} que este edifício irá consumir da rede de {1} quando ocioso.</PipeSystem_IdleConsumptionExplained>
 
-  <PipeSystem_Production>{0} produção</PipeSystem_Production>
-  <PipeSystem_ProductionExplained>A quantidade por dia de {0} que este edifício irá produzir para a rede de {1}.</PipeSystem_ProductionExplained>
+	<PipeSystem_Production>{0} produção</PipeSystem_Production>
+	<PipeSystem_ProductionExplained>A quantidade por dia de {0} que este edifício irá produzir para a rede de {1}.</PipeSystem_ProductionExplained>
 
-  <PipeSystem_DeconstructLabel>Desconstruir tubos de {0}</PipeSystem_DeconstructLabel>
-  <PipeSystem_DeconstructDesc>Apenas desconstruir tubos parte da rede de {0}.</PipeSystem_DeconstructDesc>
+	<PipeSystem_DeconstructLabel>Desconstruir tubos de {0}</PipeSystem_DeconstructLabel>
+	<PipeSystem_DeconstructDesc>Apenas desconstruir tubos parte da rede de {0}.</PipeSystem_DeconstructDesc>
 
-  <PipeSystem_ResourceOutput>Saída de {0}:</PipeSystem_ResourceOutput>
-  <PipeSystem_ResourceNeeded>{0} necessários:</PipeSystem_ResourceNeeded>
+	<PipeSystem_ResourceOutput>Saída de {0}:</PipeSystem_ResourceOutput>
+	<PipeSystem_ResourceNeeded>{0} necessários:</PipeSystem_ResourceNeeded>
 
-  <PipeSystem_ResourceStored>{0} armazenado:</PipeSystem_ResourceStored>
+	<PipeSystem_ResourceStored>{0} armazenado:</PipeSystem_ResourceStored>
 
-  <PipeSystem_NotConnected>Não conectado a {0}.</PipeSystem_NotConnected>
-  <PipeSystem_ExcessStored>{0} excesso líquido/armazenado na rede: {1} {3}/d / {2} {3}</PipeSystem_ExcessStored>
-  <PipeSystem_Stored>Total de {0} armazenado na rede: {1} {2}</PipeSystem_Stored>
+	<PipeSystem_NotConnected>Não conectado a {0}.</PipeSystem_NotConnected>
+	<PipeSystem_ExcessStored>{0} excesso líquido/armazenado na rede: {1} {3}/d / {2} {3}</PipeSystem_ExcessStored>
+	<PipeSystem_Stored>Total de {0} armazenado na rede: {1} {2}</PipeSystem_Stored>
 
-  <PipeSystem_PipeSize>Tamanho máximo do tubo: {0} {1}/d</PipeSystem_PipeSize>
-  <PipeSystem_TankSize>Tamanho máximo do tanque: {0} {1}</PipeSystem_TankSize>
-  <PipeSystem_MaxProduction>Produção máxima de {0} por dia: {1} {2}</PipeSystem_MaxProduction>
-  <PipeSystem_MaxConsumption>Consumo máximo de {0} por dia: {1} {2}</PipeSystem_MaxConsumption>
-  
-  <PipeSystem_PipeSystem>Sistema de tubos</PipeSystem_PipeSystem>
-  <PipeSystem_PipeSystemDesc>O sistema de tubos que se conecta a todos os outros sistemas de tubos para {0} para uma rede integrada.</PipeSystem_PipeSystemDesc>
+	<PipeSystem_PipeSize>Tamanho máximo do tubo: {0} {1}/d</PipeSystem_PipeSize>
+	<PipeSystem_TankSize>Tamanho máximo do tanque: {0} {1}</PipeSystem_TankSize>
+	<PipeSystem_MaxProduction>Produção máxima de {0} por dia: {1} {2}</PipeSystem_MaxProduction>
+	<PipeSystem_MaxConsumption>Consumo máximo de {0} por dia: {1} {2}</PipeSystem_MaxConsumption>
+	
+	<PipeSystem_PipeSystem>Sistema de tubos</PipeSystem_PipeSystem>
+	<PipeSystem_PipeSystemDesc>O sistema de tubos que se conecta a todos os outros sistemas de tubos para {0} para uma rede integrada.</PipeSystem_PipeSystemDesc>
 
-  <PipeSystem_Process>Processo</PipeSystem_Process>
-  <PipeSystem_Input>Entrada</PipeSystem_Input>
-  <PipeSystem_Output>Saída</PipeSystem_Output>
-  
-  <PipeSystem_Progress>Progresso: {0}</PipeSystem_Progress>
-  <PipeSystem_NoProcessAvailable>Nenhum processo disponível</PipeSystem_NoProcessAvailable>
-  <PipeSystem_Product>Produto</PipeSystem_Product>
-  <PipeSystem_ProgressInInfobox>{0}: {1}</PipeSystem_ProgressInInfobox>
-  <PipeSystem_MissingInputIngredients>Entradas em falta: {0}</PipeSystem_MissingInputIngredients>
-  
-  <PipeSystem_CopyProcesses>Copiar processos</PipeSystem_CopyProcesses>
-  <PipeSystem_PasteProcesses>Colar processos</PipeSystem_PasteProcesses>
-  <PipeSystem_PasteAllRecipes>Colar todos os processos</PipeSystem_PasteAllRecipes>
-  <PipeSystem_PasteAllRecipes_Desc>Colar todos os processos copiados neste processador. Você pode selecionar múltiplos e os processos serão colados em todos eles.</PipeSystem_PasteAllRecipes_Desc>
-  
-  <PipeSystem_ExtractAtCurrentQuality>Extrair na qualidade atual</PipeSystem_ExtractAtCurrentQuality>
-  <PipeSystem_ExtractAtCurrentQuality_Desc>Extrair o produto na qualidade atual.</PipeSystem_ExtractAtCurrentQuality_Desc>
-  
-  <PipeSystem_QualitySelector>Selecione a qualidade na qual este processo irá parar</PipeSystem_QualitySelector>
-  <PipeSystem_ProcessNeedsAwfulAtLeast>O processo precisa avançar pelo menos até o tempo de qualidade Péssima, que é {0}</PipeSystem_ProcessNeedsAwfulAtLeast>
-  <PipeSystem_CurrentQuality>Qualidade atual: {0}</PipeSystem_CurrentQuality>
-  <PipeSystem_CurrentNotReachedAwful>O processo ainda não atingiu a qualidade Péssima</PipeSystem_CurrentNotReachedAwful>
-  <PipeSystem_ExtractingAtCurrent>Extraindo produto na qualidade atual</PipeSystem_ExtractingAtCurrent>
-  <PipeSystem_ExtractionQuality>Qualidade de extração: {0}</PipeSystem_ExtractionQuality>
+	<PipeSystem_Process>Processo</PipeSystem_Process>
+	<PipeSystem_Input>Entrada</PipeSystem_Input>
+	<PipeSystem_Output>Saída</PipeSystem_Output>
+	
+	<PipeSystem_Progress>Progresso: {0}</PipeSystem_Progress>
+	<PipeSystem_NoProcessAvailable>Nenhum processo disponível</PipeSystem_NoProcessAvailable>
+	<PipeSystem_Product>Produto</PipeSystem_Product>
+	<PipeSystem_ProgressInInfobox>{0}: {1}</PipeSystem_ProgressInInfobox>
+	<PipeSystem_MissingInputIngredients>Entradas em falta: {0}</PipeSystem_MissingInputIngredients>
+	
+	<PipeSystem_CopyProcesses>Copiar processos</PipeSystem_CopyProcesses>
+	<PipeSystem_PasteProcesses>Colar processos</PipeSystem_PasteProcesses>
+	<PipeSystem_PasteAllRecipes>Colar todos os processos</PipeSystem_PasteAllRecipes>
+	<PipeSystem_PasteAllRecipes_Desc>Colar todos os processos copiados neste processador. Você pode selecionar múltiplos e os processos serão colados em todos eles.</PipeSystem_PasteAllRecipes_Desc>
+	
+	<PipeSystem_ExtractAtCurrentQuality>Extrair na qualidade atual</PipeSystem_ExtractAtCurrentQuality>
+	<PipeSystem_ExtractAtCurrentQuality_Desc>Extrair o produto na qualidade atual.</PipeSystem_ExtractAtCurrentQuality_Desc>
+	
+	<PipeSystem_QualitySelector>Selecione a qualidade na qual este processo irá parar</PipeSystem_QualitySelector>
+	<PipeSystem_ProcessNeedsAwfulAtLeast>O processo precisa avançar pelo menos até o tempo de qualidade Péssima, que é {0}</PipeSystem_ProcessNeedsAwfulAtLeast>
+	<PipeSystem_CurrentQuality>Qualidade atual: {0}</PipeSystem_CurrentQuality>
+	<PipeSystem_CurrentNotReachedAwful>O processo ainda não atingiu a qualidade Péssima</PipeSystem_CurrentNotReachedAwful>
+	<PipeSystem_ExtractingAtCurrent>Extraindo produto na qualidade atual</PipeSystem_ExtractingAtCurrent>
+	<PipeSystem_ExtractionQuality>Qualidade de extração: {0}</PipeSystem_ExtractionQuality>
 
-  <PipeSystem_ValveClosed>Válvula fechada.</PipeSystem_ValveClosed>
-  <PipeSystem_ValveOpened>Válvula aberta.</PipeSystem_ValveOpened>
-  <PipeSystem_AugmentStack>+1</PipeSystem_AugmentStack>
-  <PipeSystem_AugmentStackDesc>Aumenta o tamanho máximo de pilha de saída em 1.</PipeSystem_AugmentStackDesc>
-  <PipeSystem_AugmentStackB>+10</PipeSystem_AugmentStackB>
-  <PipeSystem_AugmentStackDescB>Aumenta o tamanho máximo de pilha de saída em 10.</PipeSystem_AugmentStackDescB>
-  <PipeSystem_DecreaseStack>-1</PipeSystem_DecreaseStack>
-  <PipeSystem_DecreaseStackDesc>Diminuir o tamanho máximo da pilha de saída em 1.</PipeSystem_DecreaseStackDesc>
-  <PipeSystem_DecreaseStackB>-10</PipeSystem_DecreaseStackB>
-  <PipeSystem_DecreaseStackDescB>Diminuir o tamanho máximo da pilha de saída em 10.</PipeSystem_DecreaseStackDescB>
-  <PipeSystem_AmountOut>Quantidade máxima armazenada aqui: {0}</PipeSystem_AmountOut>
-  <PipeSystem_ProcessorBuffer>Buffer: {0}</PipeSystem_ProcessorBuffer>
-  <PipeSystem_Producing>A produzir {0} {1}. Progresso do ciclo: {2}.</PipeSystem_Producing>
-  <PipeSystem_Produce>Produzir {0} {1} a partir de {2} {3}.</PipeSystem_Produce>
-  <PipeSystem_ChooseResult>Escolher resultado</PipeSystem_ChooseResult>
-  <PipeSystem_ChooseResultDesc>Escolher resultado do processador.</PipeSystem_ChooseResultDesc>
-  <PipeSystem_ProduceLabel>Produzir {0} {1} usando:</PipeSystem_ProduceLabel>
-  <PipeSystem_TransferContent>Transferir conteúdo de armazenamento</PipeSystem_TransferContent>
-  <PipeSystem_TransferContentDesc>Transferir conteúdo de armazenamento para outros armazenamentos disponíveis.</PipeSystem_TransferContentDesc>
-  <PipeSystem_MarkedToTransferContent>A transferir conteúdo para outros armazenamentos disponíveis...</PipeSystem_MarkedToTransferContent>
-  <PipeSystem_IncreaseProduction>+1</PipeSystem_IncreaseProduction>
-  <PipeSystem_IncreaseProductionDesc>Aumentar o valor de produção de {0} em 1.</PipeSystem_IncreaseProductionDesc>
-  <PipeSystem_DecreaseProduction>-1</PipeSystem_DecreaseProduction>
-  <PipeSystem_DecreaseProductionDesc>Diminuir o valor de produção de {0} em 1.</PipeSystem_DecreaseProductionDesc>
-  <PipeSystem_IncreaseConsumption>+1</PipeSystem_IncreaseConsumption>
-  <PipeSystem_IncreaseConsumptionDesc>Aumentar o valor de consumo de {0} em 1.</PipeSystem_IncreaseConsumptionDesc>
-  <PipeSystem_DecreaseConsumption>-1</PipeSystem_DecreaseConsumption>
-  <PipeSystem_DecreaseConsumptionDesc>Diminuir o valor de consumo de {0} em 1.</PipeSystem_DecreaseConsumptionDesc>
-  <PipeSystem_SwitchMode>Mudar Modo</PipeSystem_SwitchMode>
-  <PipeSystem_SwitchModeDesc>Mudar o modo de produção/consumo desta máquina.</PipeSystem_SwitchModeDesc>
-  <PipeSystem_SwitchModeOff>Desligado</PipeSystem_SwitchModeOff>
+	<PipeSystem_ValveClosed>Válvula fechada.</PipeSystem_ValveClosed>
+	<PipeSystem_ValveOpened>Válvula aberta.</PipeSystem_ValveOpened>
+	<PipeSystem_AugmentStack>+1</PipeSystem_AugmentStack>
+	<PipeSystem_AugmentStackDesc>Aumenta o tamanho máximo de pilha de saída em 1.</PipeSystem_AugmentStackDesc>
+	<PipeSystem_AugmentStackB>+10</PipeSystem_AugmentStackB>
+	<PipeSystem_AugmentStackDescB>Aumenta o tamanho máximo de pilha de saída em 10.</PipeSystem_AugmentStackDescB>
+	<PipeSystem_DecreaseStack>-1</PipeSystem_DecreaseStack>
+	<PipeSystem_DecreaseStackDesc>Diminuir o tamanho máximo da pilha de saída em 1.</PipeSystem_DecreaseStackDesc>
+	<PipeSystem_DecreaseStackB>-10</PipeSystem_DecreaseStackB>
+	<PipeSystem_DecreaseStackDescB>Diminuir o tamanho máximo da pilha de saída em 10.</PipeSystem_DecreaseStackDescB>
+	<PipeSystem_AmountOut>Quantidade máxima armazenada aqui: {0}</PipeSystem_AmountOut>
+	<PipeSystem_ProcessorBuffer>Buffer: {0}</PipeSystem_ProcessorBuffer>
+	<PipeSystem_Producing>A produzir {0} {1}. Progresso do ciclo: {2}.</PipeSystem_Producing>
+	<PipeSystem_Produce>Produzir {0} {1} a partir de {2} {3}.</PipeSystem_Produce>
+	<PipeSystem_ChooseResult>Escolher resultado</PipeSystem_ChooseResult>
+	<PipeSystem_ChooseResultDesc>Escolher resultado do processador.</PipeSystem_ChooseResultDesc>
+	<PipeSystem_ProduceLabel>Produzir {0} {1} usando:</PipeSystem_ProduceLabel>
+	<PipeSystem_TransferContent>Transferir conteúdo de armazenamento</PipeSystem_TransferContent>
+	<PipeSystem_TransferContentDesc>Transferir conteúdo de armazenamento para outros armazenamentos disponíveis.</PipeSystem_TransferContentDesc>
+	<PipeSystem_MarkedToTransferContent>A transferir conteúdo para outros armazenamentos disponíveis...</PipeSystem_MarkedToTransferContent>
+	<PipeSystem_IncreaseProduction>+1</PipeSystem_IncreaseProduction>
+	<PipeSystem_IncreaseProductionDesc>Aumentar o valor de produção de {0} em 1.</PipeSystem_IncreaseProductionDesc>
+	<PipeSystem_DecreaseProduction>-1</PipeSystem_DecreaseProduction>
+	<PipeSystem_DecreaseProductionDesc>Diminuir o valor de produção de {0} em 1.</PipeSystem_DecreaseProductionDesc>
+	<PipeSystem_IncreaseConsumption>+1</PipeSystem_IncreaseConsumption>
+	<PipeSystem_IncreaseConsumptionDesc>Aumentar o valor de consumo de {0} em 1.</PipeSystem_IncreaseConsumptionDesc>
+	<PipeSystem_DecreaseConsumption>-1</PipeSystem_DecreaseConsumption>
+	<PipeSystem_DecreaseConsumptionDesc>Diminuir o valor de consumo de {0} em 1.</PipeSystem_DecreaseConsumptionDesc>
+	<PipeSystem_SwitchMode>Mudar Modo</PipeSystem_SwitchMode>
+	<PipeSystem_SwitchModeDesc>Mudar o modo de produção/consumo desta máquina.</PipeSystem_SwitchModeDesc>
+	<PipeSystem_SwitchModeOff>Desligado</PipeSystem_SwitchModeOff>
 
-  <PipeSystem_TotalStorage>Armazenamento total: {0} {1}</PipeSystem_TotalStorage>
-  <PipeSystem_CurrentStored>Armazenamento atual: {0} {1}</PipeSystem_CurrentStored>
-  <PipeSystem_PercentStored>Percentual armazenado: {0}</PipeSystem_PercentStored>
-  <PipeSystem_AveragePerDay>Média por dia: {0}</PipeSystem_AveragePerDay>
-  <PipeSystem_NetPerDay>Líquido por dia: {0}</PipeSystem_NetPerDay>
-  <PipeSystem_NoStorage>Sem armazenamento para {0} nesta rede.</PipeSystem_NoStorage>
-  <PipeSystem_NetworkEmpty>Rede de {0} vazia.</PipeSystem_NetworkEmpty>
-  <PipeSystem_NetworkName>Rede de {0}</PipeSystem_NetworkName>
-  <PipeSystem_NetworkFull>Rede de {0} cheia.</PipeSystem_NetworkFull>
-  <PipeSystem_ItemContainerDesc>Item para esta máquina: {0}</PipeSystem_ItemContainerDesc>
+	<PipeSystem_TotalStorage>Armazenamento total: {0} {1}</PipeSystem_TotalStorage>
+	<PipeSystem_CurrentStored>Armazenamento atual: {0} {1}</PipeSystem_CurrentStored>
+	<PipeSystem_PercentStored>Percentual armazenado: {0}</PipeSystem_PercentStored>
+	<PipeSystem_AveragePerDay>Média por dia: {0}</PipeSystem_AveragePerDay>
+	<PipeSystem_NetPerDay>Líquido por dia: {0}</PipeSystem_NetPerDay>
+	<PipeSystem_NoStorage>Sem armazenamento para {0} nesta rede.</PipeSystem_NoStorage>
+	<PipeSystem_NetworkEmpty>Rede de {0} vazia.</PipeSystem_NetworkEmpty>
+	<PipeSystem_NetworkName>Rede de {0}</PipeSystem_NetworkName>
+	<PipeSystem_NetworkFull>Rede de {0} cheia.</PipeSystem_NetworkFull>
+	<PipeSystem_ItemContainerDesc>Item para esta máquina: {0}</PipeSystem_ItemContainerDesc>
 
-  <PipeSystem_NothingToRefill>Nada para reabastecer {0}</PipeSystem_NothingToRefill>
-  <PipeSystem_AllowManualRefill>Permitir reabastecimento manual</PipeSystem_AllowManualRefill>
-  <PipeSystem_AllowManualRefillDesc>Permitir que colonos reabasteçam o armazenamento diretamente</PipeSystem_AllowManualRefillDesc>
-  <PipeSystem_CantExtract>Não é possível extrair: Tanques cheios</PipeSystem_CantExtract>
-  <PipeSystem_ExtractAnyway>Extrair mesmo assim</PipeSystem_ExtractAnyway>
-  <PipeSystem_CantExtractStorageFull>Não é possível extrair: Armazenamento cheio</PipeSystem_CantExtractStorageFull>
-  <PipeSystem_AmountToExtract>Quantidade a extrair: {0}</PipeSystem_AmountToExtract>
-  <PipeSystem_AmountToExtractDesc>Selecionar quantidade a extrair</PipeSystem_AmountToExtractDesc>
-  <PipeSystem_MinQuality>Qualidade mínima: {0}</PipeSystem_MinQuality>
-  <PipeSystem_MaxQuality>Qualidade máxima: {0}</PipeSystem_MaxQuality>
-  <PipeSystem_CantPlaceHere>{0} só pode ser colocado no depósito de {1}. Use o scanner de penetração terrestre para encontrar os depósitos.</PipeSystem_CantPlaceHere>
-  <PipeSystem_ResourceLeft>Quantidade restante no depósito: {0}.</PipeSystem_ResourceLeft>
-  <PipeSystem_NoStorageInNet>Nenhum armazenamento conectado</PipeSystem_NoStorageInNet>
-  <PipeSystem_NoStorageInNetDesc>Este edifício não está conectado a um armazenamento de {0}. Conecte-o a um tanque ou armazém para funcionar.</PipeSystem_NoStorageInNetDesc>
-  <PipeSystem_NetworkInfo>Informações da Rede</PipeSystem_NetworkInfo>
-  <PipeSystem_NetworkInfoDesc>Visualizar informações da rede</PipeSystem_NetworkInfoDesc>
-  <PipeSystem_ExtractAnywayDesc>Extrair o produto sem que os tanques estejam cheios.</PipeSystem_ExtractAnywayDesc>
-  <PipeSystem_EmptyButton>Esvaziar agora</PipeSystem_EmptyButton>
-  <PipeSystem_EmptyButtonDesc>Esvaziar este armazenamento agora.</PipeSystem_EmptyButtonDesc>
-  <PipeSystem_RefillNow>Reabastecer agora</PipeSystem_RefillNow>
-  <PipeSystem_RefillNowDesc>Forçar o reabastecimento imediato do armazenamento (se o reabastecimento manual for permitido).</PipeSystem_RefillNowDesc>
-  <PipeSystem_StorageContentRotted>{0} apodreceu devido à falta de energia.</PipeSystem_StorageContentRotted>
-  <PipeSystem_ContentWillRot>O conteúdo irá apodrecer em {0} devido à falta de energia.</PipeSystem_ContentWillRot>
-  <PipeSystem_NothingToPickUp>Nada para pegar</PipeSystem_NothingToPickUp>
-  <PipeSystem_MakeProcess>Criar {0}</PipeSystem_MakeProcess>
-  <PipeSystem_MakeProcessDesc>Criar {0}</PipeSystem_MakeProcessDesc>
-  <PipeSystem_CannotPlaceOnSteamVent>Não pode ser colocado em exaustor de vapor.</PipeSystem_CannotPlaceOnSteamVent>
-  <PipeSystem_CannotPlaceOnFumarole>Não pode ser colocado em fumarola.</PipeSystem_CannotPlaceOnFumarole>
-  <PipeSystem_CannotPlaceOnGeyser>Não pode ser colocado em géiser.</PipeSystem_CannotPlaceOnGeyser>
-  <PipeSystem_CantPlaceUnderRoof>Não pode ser colocado sob telhado.</PipeSystem_CantPlaceUnderRoof>
-  <PipeSystem_NotAllowedToExtract>Não permitido extrair.</PipeSystem_NotAllowedToExtract>
-  <PipeSystem_SelectExtractionAmount>Selecionar quantidade de extração.</PipeSystem_SelectExtractionAmount>
-  <PipeSystem_CannotSelectExtractionAmount>Não é possível selecionar quantidade de extração.</PipeSystem_CannotSelectExtractionAmount>
-  <PipeSystem_ExtractNow>Extrair agora</PipeSystem_ExtractNow>
-  <PipeSystem_OutputToNet>{0} para rede</PipeSystem_OutputToNet>
-  <PipeSystem_OrNet>ou rede de {0}</PipeSystem_OrNet>
-  <PipeSystem_XFromNet>{0} da rede</PipeSystem_XFromNet>
-  <PipeSystem_Processes>Processos</PipeSystem_Processes>
-  <PipeSystem_AddProcess>Adicionar processo</PipeSystem_AddProcess>
-  <PipeSystem_RemoveProcess>Remover processo</PipeSystem_RemoveProcess>
-  <PipeSystem_DoUntilX>Fazer até que {0}</PipeSystem_DoUntilX>
-  <PipeSystem_DoUntilXDesc>A máquina irá parar de produzir quando houver {0} {1} na rede.</PipeSystem_DoUntilXDesc>
-  <PipeSystem_DoUntilXStored>Fazer até {0} armazenado</PipeSystem_DoUntilXStored>
-  <PipeSystem_DoUntilXStoredDesc>A máquina irá parar de produzir quando houver {0} {1} armazenado nesta máquina.</PipeSystem_DoUntilXStoredDesc>
-  <PipeSystem_AmountCurrentlyStored>Quantidade armazenada atualmente: {0}</PipeSystem_AmountCurrentlyStored>
-  <PipeSystem_MinAmountToStart>Começar processo quando houver no mínimo {0} {1} na rede.</PipeSystem_MinAmountToStart>
-  <PipeSystem_MinAmountToStartDesc>A máquina começará o processo quando houver no mínimo {0} {1} na rede.</PipeSystem_MinAmountToStartDesc>
-  <PipeSystem_NoResourcesFound>Nenhum recurso encontrado.</PipeSystem_NoResourcesFound>
-  <PipeSystem_NoResourcesFoundDesc>Nenhum recurso encontrado na rede que corresponda aos requisitos deste processo.</PipeSystem_NoResourcesFoundDesc>
-  <PipeSystem_NotConnectedToAnyPipe>Não conectado a nenhum tubo.</PipeSystem_NotConnectedToAnyPipe>
-  <PipeSystem_NotConnectedToAnyPipeDesc>Este edifício não está conectado a nenhum tubo. Coloque-o perto de um tubo para conectá-lo à rede.</PipeSystem_NotConnectedToAnyPipeDesc>
-  <PipeSystem_NotEnoughResources>Recursos insuficientes na rede.</PipeSystem_NotEnoughResources>
-  <PipeSystem_CancelCurrentProcess>Cancelar processo atual</PipeSystem_CancelCurrentProcess>
-  <PipeSystem_OutputOnGround>Pode emitir no chão</PipeSystem_OutputOnGround>
-  <PipeSystem_NoProcess>Nenhum processo atual</PipeSystem_NoProcess>
+	<PipeSystem_NothingToRefill>Nada para reabastecer {0}</PipeSystem_NothingToRefill>
+	<PipeSystem_AllowManualRefill>Permitir reabastecimento manual</PipeSystem_AllowManualRefill>
+	<PipeSystem_AllowManualRefillDesc>Permitir que colonos reabasteçam o armazenamento diretamente</PipeSystem_AllowManualRefillDesc>
+	<PipeSystem_CantExtract>Não é possível extrair: Tanques cheios</PipeSystem_CantExtract>
+	<PipeSystem_ExtractAnyway>Extrair mesmo assim</PipeSystem_ExtractAnyway>
+	<PipeSystem_CantExtractStorageFull>Não é possível extrair: Armazenamento cheio</PipeSystem_CantExtractStorageFull>
+	<PipeSystem_AmountToExtract>Quantidade a extrair: {0}</PipeSystem_AmountToExtract>
+	<PipeSystem_AmountToExtractDesc>Selecionar quantidade a extrair</PipeSystem_AmountToExtractDesc>
+	<PipeSystem_MinQuality>Qualidade mínima: {0}</PipeSystem_MinQuality>
+	<PipeSystem_MaxQuality>Qualidade máxima: {0}</PipeSystem_MaxQuality>
+	<PipeSystem_CantPlaceHere>{0} só pode ser colocado no depósito de {1}. Use o scanner de penetração terrestre para encontrar os depósitos.</PipeSystem_CantPlaceHere>
+	<PipeSystem_ResourceLeft>Quantidade restante no depósito: {0}.</PipeSystem_ResourceLeft>
+	<PipeSystem_NoStorageInNet>Nenhum armazenamento conectado</PipeSystem_NoStorageInNet>
+	<PipeSystem_NoStorageInNetDesc>Este edifício não está conectado a um armazenamento de {0}. Conecte-o a um tanque ou armazém para funcionar.</PipeSystem_NoStorageInNetDesc>
+	<PipeSystem_NetworkInfo>Informações da Rede</PipeSystem_NetworkInfo>
+	<PipeSystem_NetworkInfoDesc>Visualizar informações da rede</PipeSystem_NetworkInfoDesc>
+	<PipeSystem_ExtractAnywayDesc>Extrair o produto sem que os tanques estejam cheios.</PipeSystem_ExtractAnywayDesc>
+	<PipeSystem_EmptyButton>Esvaziar agora</PipeSystem_EmptyButton>
+	<PipeSystem_EmptyButtonDesc>Esvaziar este armazenamento agora.</PipeSystem_EmptyButtonDesc>
+	<PipeSystem_RefillNow>Reabastecer agora</PipeSystem_RefillNow>
+	<PipeSystem_RefillNowDesc>Forçar o reabastecimento imediato do armazenamento (se o reabastecimento manual for permitido).</PipeSystem_RefillNowDesc>
+	<PipeSystem_StorageContentRotted>{0} apodreceu devido à falta de energia.</PipeSystem_StorageContentRotted>
+	<PipeSystem_ContentWillRot>O conteúdo irá apodrecer em {0} devido à falta de energia.</PipeSystem_ContentWillRot>
+	<PipeSystem_NothingToPickUp>Nada para pegar</PipeSystem_NothingToPickUp>
+	<PipeSystem_MakeProcess>Criar {0}</PipeSystem_MakeProcess>
+	<PipeSystem_MakeProcessDesc>Criar {0}</PipeSystem_MakeProcessDesc>
+	<PipeSystem_CannotPlaceOnSteamVent>Não pode ser colocado em exaustor de vapor.</PipeSystem_CannotPlaceOnSteamVent>
+	<PipeSystem_CannotPlaceOnFumarole>Não pode ser colocado em fumarola.</PipeSystem_CannotPlaceOnFumarole>
+	<PipeSystem_CannotPlaceOnGeyser>Não pode ser colocado em géiser.</PipeSystem_CannotPlaceOnGeyser>
+	<PipeSystem_CantPlaceUnderRoof>Não pode ser colocado sob telhado.</PipeSystem_CantPlaceUnderRoof>
+	<PipeSystem_NotAllowedToExtract>Não permitido extrair.</PipeSystem_NotAllowedToExtract>
+	<PipeSystem_SelectExtractionAmount>Selecionar quantidade de extração.</PipeSystem_SelectExtractionAmount>
+	<PipeSystem_CannotSelectExtractionAmount>Não é possível selecionar quantidade de extração.</PipeSystem_CannotSelectExtractionAmount>
+	<PipeSystem_ExtractNow>Extrair agora</PipeSystem_ExtractNow>
+	<PipeSystem_OutputToNet>{0} para rede</PipeSystem_OutputToNet>
+	<PipeSystem_OrNet>ou rede de {0}</PipeSystem_OrNet>
+	<PipeSystem_XFromNet>{0} da rede</PipeSystem_XFromNet>
+	<PipeSystem_Processes>Processos</PipeSystem_Processes>
+	<PipeSystem_AddProcess>Adicionar processo</PipeSystem_AddProcess>
+	<PipeSystem_RemoveProcess>Remover processo</PipeSystem_RemoveProcess>
+	<PipeSystem_DoUntilX>Fazer até que {0}</PipeSystem_DoUntilX>
+	<PipeSystem_DoUntilXDesc>A máquina irá parar de produzir quando houver {0} {1} na rede.</PipeSystem_DoUntilXDesc>
+	<PipeSystem_DoUntilXStored>Fazer até {0} armazenado</PipeSystem_DoUntilXStored>
+	<PipeSystem_DoUntilXStoredDesc>A máquina irá parar de produzir quando houver {0} {1} armazenado nesta máquina.</PipeSystem_DoUntilXStoredDesc>
+	<PipeSystem_AmountCurrentlyStored>Quantidade armazenada atualmente: {0}</PipeSystem_AmountCurrentlyStored>
+	<PipeSystem_MinAmountToStart>Começar processo quando houver no mínimo {0} {1} na rede.</PipeSystem_MinAmountToStart>
+	<PipeSystem_MinAmountToStartDesc>A máquina começará o processo quando houver no mínimo {0} {1} na rede.</PipeSystem_MinAmountToStartDesc>
+	<PipeSystem_NoResourcesFound>Nenhum recurso encontrado.</PipeSystem_NoResourcesFound>
+	<PipeSystem_NoResourcesFoundDesc>Nenhum recurso encontrado na rede que corresponda aos requisitos deste processo.</PipeSystem_NoResourcesFoundDesc>
+	<PipeSystem_NotConnectedToAnyPipe>Não conectado a nenhum tubo.</PipeSystem_NotConnectedToAnyPipe>
+	<PipeSystem_NotConnectedToAnyPipeDesc>Este edifício não está conectado a nenhum tubo. Coloque-o perto de um tubo para conectá-lo à rede.</PipeSystem_NotConnectedToAnyPipeDesc>
+	<PipeSystem_NotEnoughResources>Recursos insuficientes na rede.</PipeSystem_NotEnoughResources>
+	<PipeSystem_CancelCurrentProcess>Cancelar processo atual</PipeSystem_CancelCurrentProcess>
+	<PipeSystem_OutputOnGround>Pode emitir no chão</PipeSystem_OutputOnGround>
+	<PipeSystem_NoProcess>Nenhum processo atual</PipeSystem_NoProcess>
 
 </LanguageData>

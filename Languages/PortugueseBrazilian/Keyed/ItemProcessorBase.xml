@@ -11,11 +11,12 @@
 	<IP_OutputDesc>O Processador emitirá {0}. Ele precisa ser alimentado com {1}</IP_OutputDesc>
 	<IP_InsertVariableSecond>Inserir {0} no 2º slot</IP_InsertVariableSecond>
 	<IP_InsertVariableThird>Inserir {0} no 3º slot</IP_InsertVariableThird>
+	<IP_InsertVariableFourth>Inserir {0} no 4º slot</IP_InsertVariableFourth>
 	<IP_CantFindThing>Nenhum item desse tipo ({0}) encontrado neste mapa</IP_CantFindThing>
 	<IP_BringIngredients>Trazer Ingredientes</IP_BringIngredients>
 	<IP_BringIngredientsDesc>Trazer ingredientes para iniciar o processo</IP_BringIngredientsDesc>
 	<IP_CancelIngredients>Cancelar Trazer Ingredientes</IP_CancelIngredients>
-	<IP_CancelIngredientsDesc>Cancelar o ato de Trazer Ingredientes para esta construção</IP_CancelIngredientsDesc>	
+	<IP_CancelIngredientsDesc>Cancelar o ato de Trazer Ingredientes para esta construção</IP_CancelIngredientsDesc> 
 	<IP_NoIngredientFound>Nenhum ingrediente encontrado no mapa</IP_NoIngredientFound>
 	<IP_ChooseIngredient>Escolher Ingrediente</IP_ChooseIngredient>
 	<IP_ChooseOutput>Escolher Saída</IP_ChooseOutput>

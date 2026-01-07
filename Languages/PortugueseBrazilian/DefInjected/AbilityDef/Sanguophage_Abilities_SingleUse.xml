@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VRE_Coagulate_SingleUse.label>coagular</VRE_Coagulate_SingleUse.label>
-  <VRE_Coagulate_SingleUse.description>Usa glândulas especiais nos pulsos para tratar rapidamente os ferimentos de alguém.</VRE_Coagulate_SingleUse.description>
+	<VRE_Coagulate_SingleUse.label>Coagulação</VRE_Coagulate_SingleUse.label>
+	<VRE_Coagulate_SingleUse.description>Usa glândulas especiais nos pulsos para tratar rapidamente os ferimentos de um alvo.</VRE_Coagulate_SingleUse.description>
 
-  <VRE_PiercingSpine_SingleUse.label>espinha perfurante</VRE_PiercingSpine_SingleUse.label>
-  <VRE_PiercingSpine_SingleUse.description>Usa uma reação química hemogênica para lançar uma espinha óssea no alvo. A espinha sai pela pele a partir de uma abertura entre as clavículas. Dado o método de lançamento, é surpreendentemente fácil de mirar.</VRE_PiercingSpine_SingleUse.description>
+	<VRE_PiercingSpine_SingleUse.label>Espinhos Perfurantes</VRE_PiercingSpine_SingleUse.label>
+	<VRE_PiercingSpine_SingleUse.description>Usa uma reação química hemogênica para lançar um espinho ósseo contra o alvo. O espinho emerge da pele através de uma abertura entre as clavículas. Dada a velocidade do lançamento, é surpreendentemente fácil de mirar.</VRE_PiercingSpine_SingleUse.description>
 
-  <VRE_AcidSpray_SingleUse.label>spray ácido</VRE_AcidSpray_SingleUse.label>
-  <VRE_AcidSpray_SingleUse.description>Pulveriza uma substância ácida pegajosa das glândulas no pescoço, através da boca e sobre toda a área alvo. O ácido irá aderir aos alvos e queimá-los.</VRE_AcidSpray_SingleUse.description>
+	<VRE_AcidSpray_SingleUse.label>Spray Ácido</VRE_AcidSpray_SingleUse.label>
+	<VRE_AcidSpray_SingleUse.description>Pulveriza uma substância ácida e pegajosa das glândulas no pescoço, através da boca, sobre toda a área alvo. O ácido adere aos alvos e os queima.</VRE_AcidSpray_SingleUse.description>
 
-  <VRE_ToxicCloud_SingleUse.label>nuvem tóxica</VRE_ToxicCloud_SingleUse.label>
-  <VRE_ToxicCloud_SingleUse.description>Libera fumaça tóxica densa armazenada em reservatórios orgânicos nos pulmões. O gás é letal para quase todas as criaturas.</VRE_ToxicCloud_SingleUse.description>
+	<VRE_ToxicCloud_SingleUse.label>Nuvem Tóxica</VRE_ToxicCloud_SingleUse.label>
+	<VRE_ToxicCloud_SingleUse.description>Libera fumaça tóxica densa armazenada em reservatórios orgânicos nos pulmões. O gás é letal para quase todas as formas de vida orgânica.</VRE_ToxicCloud_SingleUse.description>
 
-  <VRE_FilterInfection_SingleUse.label>filtrar infeção</VRE_FilterInfection_SingleUse.label>
-  <VRE_FilterInfection_SingleUse.description>Põe as mãos num alvo e ajuda-o a combater as suas infeções. Funciona em animais ou humanos.</VRE_FilterInfection_SingleUse.description>
+	<VRE_FilterInfection_SingleUse.label>Filtrar Infecção</VRE_FilterInfection_SingleUse.label>
+	<VRE_FilterInfection_SingleUse.description>Põe as mãos em um alvo e ajuda-o a combater suas infecções. Funciona em animais ou colonos.</VRE_FilterInfection_SingleUse.description>
 
-  <VRE_Ecstasy_SingleUse.label>êxtase</VRE_Ecstasy_SingleUse.label>
-  <VRE_Ecstasy_SingleUse.description>Concede ao alvo uma sensação de êxtase extremo por uma curta duração, o que faz com que se apaixone perdidamente pelo conjurador.</VRE_Ecstasy_SingleUse.description>
+	<VRE_Ecstasy_SingleUse.label>Êxtase</VRE_Ecstasy_SingleUse.label>
+	<VRE_Ecstasy_SingleUse.description>Concede ao alvo uma sensação de êxtase extremo por um curto período, o que faz com que desenvolva uma paixão intensa pelo conjurador.</VRE_Ecstasy_SingleUse.description>
 
-  <VRE_Hemosmosis_SingleUse.label>hemosmose</VRE_Hemosmosis_SingleUse.label>
-  <VRE_Hemosmosis_SingleUse.description>Absorve o sangue presente ao redor do sanguófago e o transforma em hemogênio.</VRE_Hemosmosis_SingleUse.description>
+	<VRE_Hemosmosis_SingleUse.label>Hemósmose</VRE_Hemosmosis_SingleUse.label>
+	<VRE_Hemosmosis_SingleUse.description>Absorve o sangue circundante e o transforma em hemogênio.</VRE_Hemosmosis_SingleUse.description>
 
-  <VRE_ViscuousGoo_SingleUse.label>gosma viscosa</VRE_ViscuousGoo_SingleUse.label>
-  <VRE_ViscuousGoo_SingleUse.description>Ejeta um projétil que explode no impacto e cria uma grande quantidade de sujeira que desacelera muito as pessoas que tentam se mover através dela.</VRE_ViscuousGoo_SingleUse.description>
+	<VRE_ViscuousGoo_SingleUse.label>Gosma Viscosa</VRE_ViscuousGoo_SingleUse.label>
+	<VRE_ViscuousGoo_SingleUse.description>Ejeta um projétil que explode no impacto, criando uma grande quantidade de sujeira que desacelera severamente quem tenta se mover através dela.</VRE_ViscuousGoo_SingleUse.description>
 
-  <VRE_HeartCrush_SingleUse.label>esmagar coração</VRE_HeartCrush_SingleUse.label>
-  <VRE_HeartCrush_SingleUse.description>Arranca o coração de um inimigo próximo, matando-o instantaneamente e cobrindo a área de sangue. Só funcionará em criaturas com tamanho corporal de 2 ou inferior. Criaturas maiores ainda serão gravemente danificadas.</VRE_HeartCrush_SingleUse.description>
+	<VRE_HeartCrush_SingleUse.label>Esmagamento Cardíaco</VRE_HeartCrush_SingleUse.label>
+	<VRE_HeartCrush_SingleUse.description>Arranca o coração de um inimigo próximo, matando-o instantaneamente e cobrindo a área com sangue. Só funciona em criaturas com massa corporal de 2.0 ou inferior. Criaturas maiores ainda sofrerão danos severos.</VRE_HeartCrush_SingleUse.description>
 
 </LanguageData>

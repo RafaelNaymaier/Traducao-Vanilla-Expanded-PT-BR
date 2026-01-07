@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VRE_HemogenPipe.label>tubo de hemogênio</VRE_HemogenPipe.label>
-  <VRE_HemogenPipe.description>Um tubo usado para transportar hemogênio entre as estruturas da rede. Deve ser colocado no chão para funcionar.</VRE_HemogenPipe.description>
+	<VRE_HemogenPipe.label>tubo de hemogênio</VRE_HemogenPipe.label>
+	<VRE_HemogenPipe.description>Um tubo usado para transportar hemogênio entre as estruturas da rede. Deve ser colocado no chão para funcionar.</VRE_HemogenPipe.description>
 
-  <VRE_UndergroundHemogenPipe.label>tubo de hemogênio subterrâneo</VRE_UndergroundHemogenPipe.label>
-  <VRE_UndergroundHemogenPipe.description>Tubos de aço ocultos projetados para transportar hemogênio entre as estruturas da rede.</VRE_UndergroundHemogenPipe.description>
+	<VRE_UndergroundHemogenPipe.label>tubo de hemogênio subterrâneo</VRE_UndergroundHemogenPipe.label>
+	<VRE_UndergroundHemogenPipe.description>Tubos de aço ocultos projetados para transportar hemogênio entre as estruturas da rede.</VRE_UndergroundHemogenPipe.description>
 
-  <VRE_HemogenValve.label>válvula de hemogênio</VRE_HemogenValve.label>
-  <VRE_HemogenValve.description>Alterna o fluxo de hemogênio ligado/desligado.</VRE_HemogenValve.description>
+	<VRE_HemogenValve.label>válvula de hemogênio</VRE_HemogenValve.label>
+	<VRE_HemogenValve.description>Alterna o fluxo de hemogênio ligado/desligado.</VRE_HemogenValve.description>
 
-  <VRE_HemogenVat.label>tanque de hemogênio</VRE_HemogenVat.label>
-  <VRE_HemogenVat.description>Um tanque industrial de armazenamento de líquidos destinado a armazenar hemogênio entregue via rede de tubos de hemogênio.</VRE_HemogenVat.description>
-  
-  <VRE_HemogenTap.label>torneira de hemogênio</VRE_HemogenTap.label>
-  <VRE_HemogenTap.description>Uma bacia de armazenamento tipo funil destinada a dispensar hemogênio para uso posterior.</VRE_HemogenTap.description>
+	<VRE_HemogenVat.label>tanque de hemogênio</VRE_HemogenVat.label>
+	<VRE_HemogenVat.description>Um tanque industrial de armazenamento de líquidos destinado a armazenar hemogênio entregue via rede de tubos de hemogênio.</VRE_HemogenVat.description>
+	
+	<VRE_HemogenTap.label>torneira de hemogênio</VRE_HemogenTap.label>
+	<VRE_HemogenTap.description>Uma bacia de armazenamento tipo funil destinada a dispensar hemogênio para uso posterior.</VRE_HemogenTap.description>
 
-  <VRE_HemogenDrain.label>dreno de hemogênio</VRE_HemogenDrain.label>
-  <VRE_HemogenDrain.description>Uma bacia de armazenamento tipo funil destinada a inserir hemogênio na rede, preenchendo os tanques conectados.</VRE_HemogenDrain.description>
-  
-  <VRE_Draincasket.label>caixão de drenagem</VRE_Draincasket.label>
-  <VRE_Draincasket.description>Uma engenhoca sinistra projetada para extrair hemogênio de um indivíduo que não é Sanguófago enquanto o mantém em Descanso Mortal. Produz pacotes de hemogênio por dia, desde que o Colono tenha comida e o caixão esteja conectada à rede.</VRE_Draincasket.description>
+	<VRE_HemogenDrain.label>dreno de hemogênio</VRE_HemogenDrain.label>
+	<VRE_HemogenDrain.description>Uma bacia de armazenamento tipo funil destinada a inserir hemogênio na rede, preenchendo os tanques conectados.</VRE_HemogenDrain.description>
+	
+	<VRE_Draincasket.label>caixão de drenagem</VRE_Draincasket.label>
+	<VRE_Draincasket.description>Uma engenhoca sinistra projetada para extrair hemogênio de um indivíduo que não é Sanguófago enquanto o mantém em Descanso Mortal. Produz pacotes de hemogênio por dia, desde que o Colono tenha comida e o caixão esteja conectado à rede.</VRE_Draincasket.description>
 
 </LanguageData>

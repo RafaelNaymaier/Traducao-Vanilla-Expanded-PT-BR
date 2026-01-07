@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <VRE_Animal>Animal</VRE_Animal>
-    <VRE_Corpse>Cadáver</VRE_Corpse>
-    <VRE_Sanguophage>Sanguófago</VRE_Sanguophage>
-    
-    <VRE_ExtractHemogenAnimal>Extrair hemogênio (animal) de {0}</VRE_ExtractHemogenAnimal>
-    <VRE_ExtractHemogenCorpse>Extrair hemogênio (cadáver) de {0}</VRE_ExtractHemogenCorpse>
-    <VRE_ExtractHemogenSanguophage>Extrair hemogênio (sanguófago) de {0}</VRE_ExtractHemogenSanguophage>
-    
-    <VRE_MessageCantUseOnNonSanguophage>A habilidade sanguofeed só pode ser usada em pessoas hemogênicas</VRE_MessageCantUseOnNonSanguophage>
-    <VRE_MessageCantUseOnDrainedSanguophage>A habilidade sanguofeed não pode ser usada em sanguófagos completamente drenados de hemogênio</VRE_MessageCantUseOnDrainedSanguophage>
-    
-    <VRE_NoHeart>Só pode ser usado em alvos com coração</VRE_NoHeart>
-    
-    <VRE_HemogenValve>Alterna fluxo de hemogênio ligado/desligado.</VRE_HemogenValve>
-    <VRE_HemogenValveDesc>Alterna fluxo de hemogênio ligado/desligado. Um peão virá abrir/fechar a válvula.</VRE_HemogenValveDesc>
-    
-    <VRE_Ability>Habilidade: {0}</VRE_Ability>
-    <VRE_DefaultAbility>Escolher habilidade</VRE_DefaultAbility>
-    
-    <VRE_CarryToDraincasket>Levar {0} para caixão de drenagem</VRE_CarryToDraincasket>
-    <VRE_EnterDraincasket>Entrar no caixão de drenagem</VRE_EnterDraincasket>
-    
-    <VRE_CommandDraincasketEject>Ejetar ocupante</VRE_CommandDraincasketEject>
-    <VRE_CommandDraincasketEjectDesc>Ejetar ocupante deste caixão de drenagem. Isso interromperá a extração de hemogênio e deixará o ocupante tonto devido à perda de sangue.</VRE_CommandDraincasketEjectDesc>
-    <VRE_CommandDraincasketEjectFailEmpty>Não é possível ejetar ocupante, pois o caixão de drenagem está vazio</VRE_CommandDraincasketEjectFailEmpty>
-    
-    <VRE_DraincasketAmount>Produção de hemogênio do caixão de drenagem (por dia)</VRE_DraincasketAmount>
-    <VRE_DraincasketAmountTooltip>Define a quantidade de pacotes de hemogênio que os caixões de drenagem produzirão por dia. Por padrão, são 2 pacotes de hemogênio por dia.</VRE_DraincasketAmountTooltip>
-    
-    <VRE_Reset>Redefinir</VRE_Reset>
-    
-    <VRE_NoAnomalies>Não pode ser usado em Revenants ou Nocioesferas</VRE_NoAnomalies>
-    
-    <VRE_DraincasketAmountFromMetabolism>Produção diária de hemogênio: {0} pacotes</VRE_DraincasketAmountFromMetabolism>
-    <VRE_DraincasketOccupantDying>Ocupante morrendo de fome em {0}</VRE_DraincasketOccupantDying>
-    <VRE_DraincasketInVacuum_OccupantDying>Ocupante morrendo por exposição ao vácuo</VRE_DraincasketInVacuum_OccupantDying>
+	<VRE_Animal>Animal</VRE_Animal>
+	<VRE_Corpse>Cadáver</VRE_Corpse>
+	<VRE_Sanguophage>Sanguófago</VRE_Sanguophage>
+	
+	<VRE_ExtractHemogenAnimal>Extrair hemogênio (animal) de {0}</VRE_ExtractHemogenAnimal>
+	<VRE_ExtractHemogenCorpse>Extrair hemogênio (cadáver) de {0}</VRE_ExtractHemogenCorpse>
+	<VRE_ExtractHemogenSanguophage>Extrair hemogênio (sanguófago) de {0}</VRE_ExtractHemogenSanguophage>
+	
+	<VRE_MessageCantUseOnNonSanguophage>A habilidade sanguofeed só pode ser usada em pessoas hemogênicas</VRE_MessageCantUseOnNonSanguophage>
+	<VRE_MessageCantUseOnDrainedSanguophage>A habilidade sanguofeed não pode ser usada em sanguófagos completamente drenados de hemogênio</VRE_MessageCantUseOnDrainedSanguophage>
+	
+	<VRE_NoHeart>Só pode ser usado em alvos com coração</VRE_NoHeart>
+	
+	<VRE_HemogenValve>Alterna fluxo de hemogênio ligado/desligado.</VRE_HemogenValve>
+	<VRE_HemogenValveDesc>Alterna fluxo de hemogênio ligado/desligado. Um peão virá abrir/fechar a válvula.</VRE_HemogenValveDesc>
+	
+	<VRE_Ability>Habilidade: {0}</VRE_Ability>
+	<VRE_DefaultAbility>Escolher habilidade</VRE_DefaultAbility>
+	
+	<VRE_CarryToDraincasket>Levar {0} para caixão de drenagem</VRE_CarryToDraincasket>
+	<VRE_EnterDraincasket>Entrar no caixão de drenagem</VRE_EnterDraincasket>
+	
+	<VRE_CommandDraincasketEject>Ejetar ocupante</VRE_CommandDraincasketEject>
+	<VRE_CommandDraincasketEjectDesc>Ejetar ocupante deste caixão de drenagem. Isso interromperá a extração de hemogênio e deixará o ocupante tonto devido à perda de sangue.</VRE_CommandDraincasketEjectDesc>
+	<VRE_CommandDraincasketEjectFailEmpty>Não é possível ejetar ocupante, pois o caixão de drenagem está vazio</VRE_CommandDraincasketEjectFailEmpty>
+	
+	<VRE_DraincasketAmount>Produção de hemogênio do caixão de drenagem (por dia)</VRE_DraincasketAmount>
+	<VRE_DraincasketAmountTooltip>Define a quantidade de pacotes de hemogênio que os caixões de drenagem produzirão por dia. Por padrão, são 2 pacotes de hemogênio por dia.</VRE_DraincasketAmountTooltip>
+	
+	<VRE_Reset>Redefinir</VRE_Reset>
+	
+	<VRE_NoAnomalies>Não pode ser usado em Revenants ou Nocioesferas</VRE_NoAnomalies>
+	
+	<VRE_DraincasketAmountFromMetabolism>Produção diária de hemogênio: {0} pacotes</VRE_DraincasketAmountFromMetabolism>
+	<VRE_DraincasketOccupantDying>Ocupante morrendo de fome em {0}</VRE_DraincasketOccupantDying>
+	<VRE_DraincasketInVacuum_OccupantDying>Ocupante morrendo por exposição ao vácuo</VRE_DraincasketInVacuum_OccupantDying>
 
 </LanguageData>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
-  <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
-  <li>betrayalOfferRewardLetterLabel->Recompensa pela traição: [factionOpponent_nameDef]</li>
-  <li>betrayalOfferRewardLetterText->[factionOpponent_nameDef] prometeu-lhe uma recompensa se matasse [asker_nameDef] [otherMembers]. [factionOpponent_pronoun] soube que isso foi feito e está a enviar-lhe o seguinte via cápsula de transporte (valor total de [betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
-  <li>refugeesLabel(lodgerCount==1)->Refugiado</li>
-  <li>refugeesLabel(lodgerCount>=2)->Refugiados</li>
-  <li>refugee_group(lodgerCount==1)->o refugiado</li>
-  <li>refugee_group(lodgerCount>=2)->os refugiados</li>
-  <li>refugees_plural(lodgerCount==1)->ele</li>
-  <li>refugees_plural(lodgerCount>=2)->eles</li>
-  <li>refugees_their(lodgerCount==1)->dele</li>
-  <li>refugees_their(lodgerCount>=2)->deles</li>
+	<li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
+	<li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
+	<li>betrayalOfferRewardLetterLabel>Recompensa pela Traição: [factionOpponent_nameDef]</betrayalOfferRewardLetterLabel>
+	<li>betrayalOfferRewardLetterText>[factionOpponent_nameDef] prometeu-lhe uma recompensa se você matasse [asker_nameDef] [otherMembers]. [factionOpponent_pronoun] soube que isso foi feito e está enviando o seguinte via cápsula de aterrissagem (valor total [betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
+	<li>refugeesLabel(lodgerCount==1)->Refugiado(a)</li>
+	<li>refugeesLabel(lodgerCount>=2)->Refugiados(as)</li>
+	<li>refugee_group(lodgerCount==1)->o(a) refugiado(a)</li>
+	<li>refugee_group(lodgerCount>=2)->os(as) refugiados(as)</li>
+	<li>refugees_plural(lodgerCount==1)->ele(a)</li>
+	<li>refugees_plural(lodgerCount>=2)->eles(as)</li>
+	<li>refugees_their(lodgerCount==1)->dele(a)</li>
+	<li>refugees_their(lodgerCount>=2)->deles(as)</li>
 </LanguageData>

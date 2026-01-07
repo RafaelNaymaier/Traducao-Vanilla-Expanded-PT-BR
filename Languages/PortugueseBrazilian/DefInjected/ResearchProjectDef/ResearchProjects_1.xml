@@ -1,179 +1,179 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PsychoidBrewing.generalRules.rulesStrings>
-    <li>subject->psicoide</li>
-    <li>subject_story->juntou-se a uma comuna psicoide de vida curta em um mundo de culto</li>
-    <li>subject_story->experimentou com psicoide para ajudar soldados traumatizados</li>
-    <li>subject_story->legalizou o psicoide para produção em massa em vários mundos centrais, quando [ANYPAWN_pronoun] teve o poder de fazê-lo</li>
-    <li>subject_gerund->fabricando psicoide</li>
-  </PsychoidBrewing.generalRules.rulesStrings>
+	<PsychoidBrewing.generalRules.rulesStrings>
+		<li>subject>psicoide</subject>
+		<li>subject_story>juntou-se a uma comuna psicoide de vida curta em um mundo cultista</subject_story>
+		<li>subject_story>experimentou o psicoide para ajudar soldados traumatizados</subject_story>
+		<li>subject_story>legalizou o psicoide para produção em massa em vários mundos centrais, quando [ANYPAWN_pronoun] teve o poder de fazê-lo</subject_story>
+		<li>subject_gerund>fabricando psicoide</subject_gerund>
+	</PsychoidBrewing.generalRules.rulesStrings>
 
-  <TreeSowing.generalRules.rulesStrings>
-    <li>subject->semeadura de árvores</li>
-    <li>subject_story->propagou árvores por um planetoide há muito morto, tentando trazer a vida de volta</li>
-    <li>subject_story->publicou um artigo sobre a manutenção de ecossistemas naturais</li>
-    <li>subject_story->trabalhou em um viveiro de árvores em um mundo animal</li>
-    <li>subject_gerund->semeando árvores</li>
-  </TreeSowing.generalRules.rulesStrings>
+	<TreeSowing.generalRules.rulesStrings>
+		<li>subject>semeadura de árvores</subject>
+		<li>subject_story>propagou árvores por um planetoide há muito morto, tentando trazer a vida de volta</subject_story>
+		<li>subject_story>publicou um artigo sobre a manutenção de ecossistemas naturais</subject_story>
+		<li>subject_story>trabalhou em um viveiro de árvores em um mundo tribal</subject_story>
+		<li>subject_gerund>semeando árvores</subject_gerund>
+	</TreeSowing.generalRules.rulesStrings>
 
-  <Brewing.generalRules.rulesStrings>
-    <li>subject->fabricação de cerveja</li>
-    <li>subject_story->preparou uma cerveja stout única que se tornou famosa em todo o sistema</li>
-    <li>subject_story->aposentou-se para administrar um bar em um mundo animal</li>
-    <li>subject_story->especializou-se em técnicas de fermentação com controle climático</li>
-    <li>subject_gerund->construindo cervejarias</li>
-    <li>subject_gerund->fabricando cerveja</li>
-  </Brewing.generalRules.rulesStrings>
+	<Brewing.generalRules.rulesStrings>
+		<li>subject>fabricação de cerveja</subject>
+		<li>subject_story>preparou uma cerveja stout única que se tornou famosa em todo o sistema</subject_story>
+		<li>subject_story>aposentou-se para administrar um bar em um mundo tribal</subject_story>
+		<li>subject_story>especializou-se em técnicas de fermentação com controle climático</subject_story>
+		<li>subject_gerund>construindo cervejarias</subject_gerund>
+		<li>subject_gerund>fabricando cerveja</subject_gerund>
+	</Brewing.generalRules.rulesStrings>
 
-  <ComplexFurniture.generalRules.rulesStrings>
-    <li>subject->marcenaria</li>
-    <li>subject_story->estudou entalhe em madeira com um mestre carpinteiro</li>
-    <li>subject_story->construiu uma cidade de cabanas de toras sozinho</li>
-    <li>subject_story->estabeleceu uma fábrica, vendendo móveis de alta qualidade para comerciantes que passavam</li>
-    <li>subject_gerund->construindo móveis complexos</li>
-  </ComplexFurniture.generalRules.rulesStrings>
+	<ComplexFurniture.generalRules.rulesStrings>
+		<li>subject>marcenaria</subject>
+		<li>subject_story>estudou entalhe em madeira com um mestre carpinteiro</subject_story>
+		<li>subject_story>construiu uma cidade de cabanas de toras sozinho</subject_story>
+		<li>subject_story>estabeleceu uma fábrica, vendendo móveis de alta qualidade para comerciantes que passavam</subject_story>
+		<li>subject_gerund>construindo móveis complexos</subject_gerund>
+	</ComplexFurniture.generalRules.rulesStrings>
 
-  <PassiveCooler.generalRules.rulesStrings>
-    <li>subject->evaporação</li>
-    <li>subject->resfriadores passivos</li>
-    <li>subject_story->mudou-se para um mundo tropical escaldante e desenvolveu técnicas únicas para se manter fresco</li>
-    <li>subject_story->pesquisou técnicas primitivas para resfriar áreas no conforto das bibliotecas de um mundo central</li>
-    <li>subject_story->notou, nas margens de um planeta oceânico, que era mais fresco onde o spray do mar se acumulava</li>
-    <li>subject_gerund->construindo resfriadores passivos</li>
-  </PassiveCooler.generalRules.rulesStrings>
+	<PassiveCooler.generalRules.rulesStrings>
+		<li>subject>evaporação</subject>
+		<li>subject>resfriadores passivos</subject>
+		<li>subject_story>mudou-se para um mundo tropical escaldante e desenvolveu técnicas únicas para se manter fresco</subject_story>
+		<li>subject_story>pesquisou técnicas primitivas para resfriar áreas no conforto das bibliotecas de um mundo central</subject_story>
+		<li>subject_story>notou, nas margens de um planeta oceânico, que era mais fresco onde o *spray* do mar se acumulava</subject_story>
+		<li>subject_gerund>construindo resfriadores passivos</subject_gerund>
+	</PassiveCooler.generalRules.rulesStrings>
 
-  <Stonecutting.generalRules.rulesStrings>
-    <li>subject->alvenaria</li>
-    <li>subject_story->foi o primeiro em uma linha de designers de templos, todos compartilhando o mesmo nome</li>
-    <li>subject_story->desenvolveu técnicas únicas para cortar a rocha mais dura com ferramentas básicas</li>
-    <li>subject_story->ladrilhou a totalidade do palácio do vice-rei em um mundo medieval</li>
-    <li>subject_gerund->corte de pedra</li>
-    <li>subject_gerund->cortando pedras</li>
-  </Stonecutting.generalRules.rulesStrings>
+	<Stonecutting.generalRules.rulesStrings>
+		<li>subject>alvenaria</subject>
+		<li>subject_story>foi o primeiro em uma linha de *designers* de templos, todos compartilhando o mesmo nome</subject_story>
+		<li>subject_story>desenvolveu técnicas únicas para cortar a rocha mais dura com ferramentas básicas</subject_story>
+		<li>subject_story>ladrilhou a totalidade do palácio do vice-rei em um mundo medieval</subject_story>
+		<li>subject_gerund>corte de pedra</subject_gerund>
+		<li>subject_gerund>cortando pedras</subject_gerund>
+	</Stonecutting.generalRules.rulesStrings>
 
-  <ComplexClothing.generalRules.rulesStrings>
-    <li>subject->alfaiataria complexa</li>
-    <li>subject_story->fez roupas resistentes para habitantes de mundos urbanos</li>
-    <li>subject_story->relaxava costurando e contando histórias para as crianças da aldeia</li>
-    <li>subject_story->aprendeu a criar roupas para serem usadas nas grandes apresentações de [ANYPAWN_possessive] trupe</li>
-    <li>subject_gerund->confeccionando roupas complexas</li>
-  </ComplexClothing.generalRules.rulesStrings>
+	<ComplexClothing.generalRules.rulesStrings>
+		<li>subject>alfaiataria complexa</subject>
+		<li>subject_story>fez roupas resistentes para habitantes de mundos urbanos</subject_story>
+		<li>subject_story>relaxava costurando e contando histórias para as crianças da aldeia</subject_story>
+		<li>subject_story>aprendeu a criar roupas para serem usadas nas grandes apresentações da trupe de [ANYPAWN_possessive]</subject_story>
+		<li>subject_gerund>confeccionando roupas complexas</subject_gerund>
+	</ComplexClothing.generalRules.rulesStrings>
 
-  <DrugProduction.generalRules.rulesStrings>
-    <li>subject->produção de drogas</li>
-    <li>subject->síntese de drogas</li>
-    <li>subject_story->trabalhou em um laboratório de asteroides na borda do espaço populado</li>
-    <li>subject_story->aprendeu a criar drogas a partir de produtos químicos reciclados, levando a muitos anos passados na prisão</li>
-    <li>subject_story->trabalhou como químico, mas caiu no comércio de drogas ilegais paralelamente</li>
-    <li>subject_gerund->construindo laboratórios de drogas</li>
-    <li>subject_gerund->produzindo drogas</li>
-  </DrugProduction.generalRules.rulesStrings>
+	<DrugProduction.generalRules.rulesStrings>
+		<li>subject>produção de drogas</subject>
+		<li>subject>síntese de drogas</subject>
+		<li>subject_story>trabalhou em um laboratório de asteroide na borda do espaço populado</subject_story>
+		<li>subject_story>aprendeu a criar drogas a partir de produtos químicos reciclados, levando a muitos anos passados na prisão</subject_story>
+		<li>subject_story>trabalhou como químico, mas caiu no comércio de drogas ilegais paralelamente</subject_story>
+		<li>subject_gerund>construindo laboratórios de drogas</subject_gerund>
+		<li>subject_gerund>produzindo drogas</subject_gerund>
+	</DrugProduction.generalRules.rulesStrings>
 
-  <Cocoa.generalRules.rulesStrings>
-    <li>subject->cacau</li>
-    <li>subject->chocolate</li>
-    <li>subject_story->tornou-se obcecado por chocolate e teve que ser contido</li>
-    <li>subject_story->estudou o processo de fermentação do cacau para uma tese</li>
-    <li>subject_story->montou a melhor loja de chocolate do setor</li>
-    <li>subject_gerund->produzindo chocolate</li>
-    <li>subject_gerund->cultivando cacau</li>
-  </Cocoa.generalRules.rulesStrings>
+	<Cocoa.generalRules.rulesStrings>
+		<li>subject>cacau</subject>
+		<li>subject>chocolate</subject>
+		<li>subject_story>tornou-se obcecado por chocolate e teve que ser contido</subject_story>
+		<li>subject_story>estudou o processo de fermentação do cacau para uma tese</subject_story>
+		<li>subject_story>montou a melhor loja de chocolate do setor</subject_story>
+		<li>subject_gerund>produzindo chocolate</subject_gerund>
+		<li>subject_gerund>cultivando cacau</subject_gerund>
+	</Cocoa.generalRules.rulesStrings>
 
-  <Devilstrand.generalRules.rulesStrings>
-    <li>subject->cultivo de fio-do-diabo</li>
-    <li>subject_story->usou fio-do-diabo como um aceiro natural</li>
-    <li>subject_story->estabeleceu as técnicas para cultivar fio-do-diabo facilmente</li>
-    <li>subject_story->tornou-se obcecado por cogumelos e autoproclamou-se Princesa de [ANYPAWN_possessive] reino</li>
-    <li>subject_gerund->cultivando fio-do-diabo</li>
-  </Devilstrand.generalRules.rulesStrings>
+	<Devilstrand.generalRules.rulesStrings>
+		<li>subject>cultivo de Fio-do-diabo</subject>
+		<li>subject_story>usou Fio-do-diabo como um aceiro natural</subject_story>
+		<li>subject_story>estabeleceu as técnicas para cultivar Fio-do-diabo facilmente</subject_story>
+		<li>subject_story>tornou-se obcecado por cogumelos e autoproclamou-se Princesa de seu reino</subject_story>
+		<li>subject_gerund>cultivando Fio-do-diabo</subject_gerund>
+	</Devilstrand.generalRules.rulesStrings>
 
-  <CarpetMaking.generalRules.rulesStrings>
-    <li>subject->fabricação de tapetes</li>
-    <li>subject_story->aprendeu a tecer tapetes de cabelo, para um Imperador distante</li>
-    <li>subject_story->deixou para trás uma coleção incomparável de tapetes e tapeçarias</li>
-    <li>subject_story->estabeleceu-se em uma lua medieval, onde a arte de tecer tapetes era verdadeiramente apreciada</li>
-    <li>subject_gerund->tecendo tapetes</li>
-  </CarpetMaking.generalRules.rulesStrings>
+	<CarpetMaking.generalRules.rulesStrings>
+		<li>subject>fabricação de tapetes</subject>
+		<li>subject_story>aprendeu a tecer tapetes de cabelo, para um Imperador distante</subject_story>
+		<li>subject_story>deixou para trás uma coleção incomparável de tapetes e tapeçarias</subject_story>
+		<li>subject_story>estabeleceu-se em uma lua medieval, onde a arte de tecer tapetes era verdadeiramente apreciada</subject_story>
+		<li>subject_gerund>tecendo tapetes</subject_gerund>
+	</CarpetMaking.generalRules.rulesStrings>
 
-  <Pemmican.generalRules.rulesStrings>
-    <li>subject->produção de pemmican</li>
-    <li>subject_story->dominou a produção de pemmican durante uma longa peregrinação ao Pináculo do planeta</li>
-    <li>subject_story->sobreviveu apenas com pemmican quando um navio de passageiros caiu em um mundo de vidro</li>
-    <li>subject_story->ensinou a produção de pemmican a tribos selvagens</li>
-    <li>subject_gerund->fazendo pemmican</li>
-  </Pemmican.generalRules.rulesStrings>
+	<Pemmican.generalRules.rulesStrings>
+		<li>subject>produção de pemmican</subject>
+		<li>subject_story>dominou a produção de pemmican durante uma longa peregrinação ao Pináculo do planeta</subject_story>
+		<li>subject_story>sobreviveu apenas com pemmican quando um navio de passageiros caiu em um mundo de vidro</subject_story>
+		<li>subject_story>ensinou a produção de pemmican a tribos selvagens</subject_story>
+		<li>subject_gerund>fazendo pemmican</subject_gerund>
+	</Pemmican.generalRules.rulesStrings>
 
-  <Smithing.generalRules.rulesStrings>
-    <li>subject->ferraria</li>
-    <li>subject_story->estabeleceu-se em um povoado medieval e dominou a criação de metal simples</li>
-    <li>subject_story->construiu ferrarias de mundo de brilho para as guildas de encenação do Renascimento</li>
-    <li>subject_gerund->forjando</li>
-  </Smithing.generalRules.rulesStrings>
+	<Smithing.generalRules.rulesStrings>
+		<li>subject>ferraria</subject>
+		<li>subject_story>estabeleceu-se em um povoado medieval e dominou a criação de metal simples</subject_story>
+		<li>subject_story>construiu ferrarias de mundo brilhante para as guildas de encenação do Renascimento</subject_story>
+		<li>subject_gerund>forjando</subject_gerund>
+	</Smithing.generalRules.rulesStrings>
 
-  <RecurveBow.generalRules.rulesStrings>
-    <li>subject->arcarias</li>
-    <li>subject->criação de arcos</li>
-    <li>subject_story->perseguiu um boomalope raivoso por quatro dias antes de matá-lo com uma única flecha</li>
-    <li>subject_story->estabeleceu-se perto de uma floresta de teixo para garantir os materiais perfeitos para arcos</li>
-    <li>subject_story->criou os filhos da colônia como caçadores-coletores, sendo cada um um mestre arqueiro</li>
-    <li>subject_gerund->criando arcos</li>
-  </RecurveBow.generalRules.rulesStrings>
+	<RecurveBow.generalRules.rulesStrings>
+		<li>subject>arcarias</subject>
+		<li>subject>criação de arcos</subject>
+		<li>subject_story>perseguiu um boomalope raivoso por quatro dias antes de matá-lo com uma única flecha</subject_story>
+		<li>subject_story>estabeleceu-se perto de uma floresta de teixo para garantir os materiais perfeitos para arcos</subject_story>
+		<li>subject_story>criou os filhos da colônia como caçadores-coletores, sendo cada um um mestre arqueiro</subject_story>
+		<li>subject_gerund>criando arcos</subject_gerund>
+	</RecurveBow.generalRules.rulesStrings>
 
-  <PsychiteRefining.generalRules.rulesStrings>
-    <li>subject->produção de psicita</li>
-    <li>subject_story->usou o emprego universitário de [ANYPAWN_possessive] como cobertura para o tráfico de drogas de [ANYPAWN_possessive]</li>
-    <li>subject_story->iniciou uma comuna onde flocos de baixa dose eram misturados na comida</li>
-    <li>subject_story->fez campanha pela legalização do yayo em um mundo urbano próximo</li>
-    <li>subject_gerund->refinando psicita</li>
-  </PsychiteRefining.generalRules.rulesStrings>
+	<PsychiteRefining.generalRules.rulesStrings>
+		<li>subject>produção de psicita</subject>
+		<li>subject_story>usou o emprego universitário de [ANYPAWN_possessive] como cobertura para o tráfico de drogas</subject_story>
+		<li>subject_story>iniciou uma comuna onde flocos de baixa dose eram misturados na comida</subject_story>
+		<li>subject_story>fez campanha pela legalização do *yayo* em um mundo urbano próximo</subject_story>
+		<li>subject_gerund>refinando psicita</subject_gerund>
+	</PsychiteRefining.generalRules.rulesStrings>
 
-  <WakeUpProduction.generalRules.rulesStrings>
-    <li>subject->produção de acorda-rápido</li>
-    <li>subject_story->tentou superar o vício em cafeína tomando acorda-rápido</li>
-    <li>subject_story->tratou narcolépticos e sonâmbulos com doses de acorda-rápido cuidadosamente cronometradas</li>
-    <li>subject_story->mudou todos para o lado escuro de um asteroide e usou acorda-rápido para manter seus biorritmos</li>
-    <li>subject_gerund->sintetizando acorda-rápido</li>
-  </WakeUpProduction.generalRules.rulesStrings>
+	<WakeUpProduction.generalRules.rulesStrings>
+		<li>subject>produção de acorda-rápido</subject>
+		<li>subject_story>tentou superar o vício em cafeína tomando acorda-rápido</subject_story>
+		<li>subject_story>tratou narcolépticos e sonâmbulos com doses de acorda-rápido cuidadosamente cronometradas</subject_story>
+		<li>subject_story>mudou todos para o lado escuro de um asteroide e usou acorda-rápido para manter seus biorritmos</subject_story>
+		<li>subject_gerund>sintetizando acorda-rápido</subject_gerund>
+	</WakeUpProduction.generalRules.rulesStrings>
 
-  <GoJuiceProduction.generalRules.rulesStrings>
-    <li>subject->produção de suco-vai</li>
-    <li>subject_story->foi expulso por tomar suco-vai durante partidas de esportes em equipe</li>
-    <li>subject_story->descobriu que o suco-vai aumentava massivamente a produtividade em minas e madeireiras</li>
-    <li>subject_story->nunca ia a uma missão sem suco-vai ou juggernaut no bolso</li>
-    <li>subject_gerund->sintetizando suco-vai</li>
-  </GoJuiceProduction.generalRules.rulesStrings>
+	<GoJuiceProduction.generalRules.rulesStrings>
+		<li>subject>produção de suco-vai</subject>
+		<li>subject_story>foi expulso por tomar suco-vai durante partidas de esportes em equipe</subject_story>
+		<li>subject_story>descobriu que o suco-vai aumentava massivamente a produtividade em minas e madeireiras</subject_story>
+		<li>subject_story>nunca ia a uma missão sem suco-vai ou *juggernaut* no bolso</subject_story>
+		<li>subject_gerund>sintetizando suco-vai</subject_gerund>
+	</GoJuiceProduction.generalRules.rulesStrings>
 
-  <PenoxycylineProduction.generalRules.rulesStrings>
-    <li>subject->produção de penoxicilina</li>
-    <li>subject_story->deu palestras para os Planetas Unidos sobre medicina preventiva</li>
-    <li>subject_story->foi expulso de Dawn Falls como um charlatão, por vender um remédio que "não faz nada"</li>
-    <li>subject_story->evitou que um surto de malária se espalhasse com dosagem cuidadosa de penoxicilina</li>
-    <li>subject_gerund->sintetizando penoxicilina</li>
-  </PenoxycylineProduction.generalRules.rulesStrings>
+	<PenoxycylineProduction.generalRules.rulesStrings>
+		<li>subject>produção de penoxicilina</subject>
+		<li>subject_story>deu palestras para os Planetas Unidos sobre medicina preventiva</subject_story>
+		<li>subject_story>foi expulso de Dawn Falls como um charlatão, por vender um remédio que "não faz nada"</subject_story>
+		<li>subject_story>evitou que um surto de malária se espalhasse com dosagem cuidadosa de penoxicilina</subject_story>
+		<li>subject_gerund>sintetizando penoxicilina</subject_gerund>
+	</PenoxycylineProduction.generalRules.rulesStrings>
 
-  <LongBlades.generalRules.rulesStrings>
-    <li>subject->armamento medieval</li>
-    <li>subject_story->cavalgou com a Quinta Cavalaria Ligeira do Betaduke enquanto eles conquistavam o setor</li>
-    <li>subject_story->foi escravizado como ferreiro sob a arena em um planeta da idade do ferro</li>
-    <li>subject_story->treinou os hoplitas em um mundo de guerra para usar o alcance de suas armas</li>
-    <li>subject_gerund->forjando armas medievais</li>
-  </LongBlades.generalRules.rulesStrings>
+	<LongBlades.generalRules.rulesStrings>
+		<li>subject>armamento medieval</subject>
+		<li>subject_story>cavalgou com a Quinta Cavalaria Ligeira do Betaduke enquanto conquistavam o setor</subject_story>
+		<li>subject_story>foi escravizado como ferreiro sob a arena em um planeta da Idade do Ferro</subject_story>
+		<li>subject_story>treinou os hoplitas em um mundo de guerra para usar o alcance de suas armas</subject_story>
+		<li>subject_gerund>forjando armas medievais</subject_gerund>
+	</LongBlades.generalRules.rulesStrings>
 
-  <PlateArmor.generalRules.rulesStrings>
-    <li>subject->armadura de placas</li>
-    <li>subject_story->criou armadura a partir de sucata, quando as autoridades cercaram o barraco de [ANYPAWN_possessive] família</li>
-    <li>subject_story->ficou conhecido como o Ferreiro Verde, quando o musgo cresceu na armadura de madeira</li>
-    <li>subject_story->iniciou o primeiro coletivo de trabalhadores de armaduras em um mundo urbano</li>
-    <li>subject_gerund->forjando armadura de placas</li>
-  </PlateArmor.generalRules.rulesStrings>
+	<PlateArmor.generalRules.rulesStrings>
+		<li>subject>armadura de placas</subject>
+		<li>subject_story>criou armadura a partir de sucata, quando as autoridades cercaram o barraco da família de [ANYPAWN_possessive]</subject_story>
+		<li>subject_story>ficou conhecido como o Ferreiro Verde, quando o musgo cresceu na armadura de madeira</subject_story>
+		<li>subject_story>iniciou o primeiro coletivo de trabalhadores de armaduras em um mundo urbano</subject_story>
+		<li>subject_gerund>forjando armadura de placas</subject_gerund>
+	</PlateArmor.generalRules.rulesStrings>
 
-  <Greatbow.generalRules.rulesStrings>
-    <li>subject->arcos longos</li>
-    <li>subject_story->atirou uma flecha bem no capacete de ferro de um rei feudal</li>
-    <li>subject_story->caçou búfalos para a pele deles em um mundo selvagem</li>
-    <li>subject_story->viveu sozinho na floresta verde, uma saraivada de flechas saudando quem se aproximasse a menos de uma milha de sua borda</li>
-    <li>subject_gerund->criando arcos longos</li>
-  </Greatbow.generalRules.rulesStrings>
+	<Greatbow.generalRules.rulesStrings>
+		<li>subject>arcos longos</subject>
+		<li>subject_story>atirou uma flecha bem no capacete de ferro de um rei feudal</subject_story>
+		<li>subject_story>caçou búfalos para a pele deles em um mundo selvagem</subject_story>
+		<li>subject_story>viveu sozinho na floresta verde, uma saraivada de flechas saudando quem se aproximasse a menos de uma milha de sua borda</subject_story>
+		<li>subject_gerund>criando arcos longos</subject_gerund>
+	</Greatbow.generalRules.rulesStrings>
 
 </LanguageData>

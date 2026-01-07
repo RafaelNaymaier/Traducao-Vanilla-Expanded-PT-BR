@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <NobleApparel.generalRules.rulesStrings>
-    <li>subject->vestuário formal</li>
-    <li>subject->vestuário nobre</li>
-    <li>subject_story->criou espartilhos formais para formaturas de estudantes de mundo urbano</li>
-    <li>subject_story->foi empregado por uma casa nobre para moldar suas cartolas</li>
-    <li>subject_story->inventou um novo estilo de boina que foi a sensação por toda uma estação</li>
-    <li>subject_gerund->alfaiataria para a nobreza</li>
-    <li>subject_gerund->criando vestuário nobre</li>
-  </NobleApparel.generalRules.rulesStrings>
+	<NobleApparel.generalRules.rulesStrings>
+		<li>subject>vestuário formal</subject>
+		<li>subject>vestuário nobre</subject>
+		<li>subject_story>criou espartilhos formais para formaturas de estudantes de mundo urbano</subject_story>
+		<li>subject_story>foi empregado por uma casa nobre para moldar suas cartolas</subject_story>
+		<li>subject_story>inventou um novo estilo de boina que foi a sensação por toda uma estação</subject_story>
+		<li>subject_gerund>alfaiataria para a nobreza</subject_gerund>
+		<li>subject_gerund>criando vestuário nobre</subject_gerund>
+	</NobleApparel.generalRules.rulesStrings>
 
-  <RoyalApparel.generalRules.rulesStrings>
-    <li>subject->vestuário real</li>
-    <li>subject_story->trabalhou por um ano inteiro para criar vestes reais para uma coroação</li>
-    <li>subject_story->estudou os requisitos heráldicos de diferentes grupos nobres para garantir que quaisquer trajes fossem apropriados</li>
-    <li>subject_story->foi elevado à nobreza Imperial e encomendou suas próprias vestes e coroa</li>
-    <li>subject_gerund->alfaiataria para monarcas</li>
-    <li>subject_gerund->criando vestuário real</li>
-  </RoyalApparel.generalRules.rulesStrings>
+	<RoyalApparel.generalRules.rulesStrings>
+		<li>subject>vestuário real</subject>
+		<li>subject_story>trabalhou por um ano inteiro para criar vestes reais para uma coroação</subject_story>
+		<li>subject_story>estudou os requisitos heráldicos de diferentes grupos nobres para garantir que quaisquer trajes fossem apropriados</subject_story>
+		<li>subject_story>foi elevado à nobreza Imperial e encomendou suas próprias vestes e coroa</subject_story>
+		<li>subject_gerund>alfaiataria para monarcas</subject_gerund>
+		<li>subject_gerund>criando vestuário real</subject_gerund>
+	</RoyalApparel.generalRules.rulesStrings>
 
-  <CataphractArmor.generalRules.rulesStrings>
-    <li>subject->armadura cataphracta</li>
-    <li>subject_story->desenvolveu pela primeira vez [ANYPAWN_possessive] armadura equivalente a cataphracta como um método de explorar vulcões ativos</li>
-    <li>subject_story->foi contratado para produzir conjuntos personalizados de armadura cataphracta para grupos de abordagem Imperial</li>
-    <li>subject_story->lutou com os rebeldes e estudou a armadura de um cataphracta capturado</li>
-    <li>subject_gerund->criando armadura cataphracta</li>
-  </CataphractArmor.generalRules.rulesStrings>
+	<CataphractArmor.generalRules.rulesStrings>
+		<li>subject>armadura cataphracta</subject>
+		<li>subject_story>desenvolveu pela primeira vez sua armadura equivalente a cataphracta como um método de explorar vulcões ativos</subject_story>
+		<li>subject_story>foi contratado para produzir conjuntos personalizados de armadura cataphracta para grupos de assalto Imperial</subject_story>
+		<li>subject_story>lutou com os rebeldes e estudou a armadura de um cataphracta capturado</subject_story>
+		<li>subject_gerund>criando armadura cataphracta</subject_gerund>
+	</CataphractArmor.generalRules.rulesStrings>
 
-  <JumpPack.generalRules.rulesStrings>
-    <li>subject->mochilas a jato</li>
-    <li>subject->voo de curta distância</li>
-    <li>subject_story->operou um parque de diversões focado em experiências extremas, incluindo carícias em ratos-bomba e cursos de mochila a jato</li>
-    <li>subject_story->organizou passeios de montanhismo em planetas de baixa gravidade, onde mochilas a jato e máscaras de oxigênio eram obrigatórias</li>
-    <li>subject_story->contornou as defesas de torretas do treinamento de oficiais com um assalto de mochila a jato</li>
-    <li>subject_gerund->realizando assaltos aéreos</li>
-    <li>subject_gerund->criando mochilas a jato</li>
-  </JumpPack.generalRules.rulesStrings>
+	<JumpPack.generalRules.rulesStrings>
+		<li>subject>mochilas a jato</subject>
+		<li>subject>voo de curta distância</subject>
+		<li>subject_story>operou um parque de diversões focado em experiências extremas, incluindo carícias em ratos-bomba e cursos de mochila a jato</subject_story>
+		<li>subject_story>organizou passeios de montanhismo em planetas de baixa gravidade, onde mochilas a jato e máscaras de oxigênio eram obrigatórias</subject_story>
+		<li>subject_story>contornou as defesas de torretas do treinamento de oficiais com um assalto de mochila a jato</subject_story>
+		<li>subject_gerund>realizando assaltos aéreos</subject_gerund>
+		<li>subject_gerund>criando mochilas a jato</subject_gerund>
+	</JumpPack.generalRules.rulesStrings>
 
-  <Gunlink.generalRules.rulesStrings>
-    <li>subject->aprimoramento de precisão</li>
-    <li>subject_story->converteu um implante ocular de mundo de brilho em um computador de mira mais genérico</li>
-    <li>subject_story->estava feliz com o desempenho dos links de arma da fábrica, embora o aumento da taxa de morte devido à perda de capacete fosse preocupante</li>
-    <li>subject_story->comprou links de arma em massa para os franco-atiradores no exército, proibindo-os para soldados de linha de frente</li>
-    <li>subject_gerund->aprimorando precisão com links de arma</li>
-  </Gunlink.generalRules.rulesStrings>
+	<Gunlink.generalRules.rulesStrings>
+		<li>subject>aprimoramento de precisão</subject>
+		<li>subject_story>converteu um implante ocular de mundo brilhante em um computador de mira mais genérico</subject_story>
+		<li>subject_story>estava feliz com o desempenho dos links de arma da fábrica, embora o aumento da taxa de morte devido à perda de capacete fosse preocupante</subject_story>
+		<li>subject_story>comprou links de arma em massa para os franco-atiradores no exército, proibindo-os para soldados de linha de frente</subject_story>
+		<li>subject_gerund>aprimorando precisão com links de arma</subject_gerund>
+	</Gunlink.generalRules.rulesStrings>
 
 </LanguageData>

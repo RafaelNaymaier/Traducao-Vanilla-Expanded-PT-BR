@@ -1,104 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ShipBasics.generalRules.rulesStrings>
-    <li>subject->engenharia estrutural de nave estelar</li>
-    <li>subject_story->recrutou engenheiros de naves estelares para uma frota de mundo de brilho</li>
-    <li>subject_story->foi designer estrutural em um distrito arranha-céu de mundo urbano</li>
-    <li>subject_story->colheu destroços de naves no cinturão de detritos de um mundo morto</li>
-    <li>subject_gerund->construindo estruturas de nave estelar</li>
-  </ShipBasics.generalRules.rulesStrings>
+	<ShipBasics.generalRules.rulesStrings>
+		<li>subject>engenharia estrutural de nave estelar</subject>
+		<li>subject_story>recrutou engenheiros de naves estelares para uma frota de mundo brilhante</subject_story>
+		<li>subject_story>foi designer estrutural em um distrito arranha-céu de mundo urbano</subject_story>
+		<li>subject_story>colheu destroços de naves no cinturão de detritos de um mundo morto</subject_story>
+		<li>subject_gerund>construindo estruturas de nave estelar</subject_gerund>
+	</ShipBasics.generalRules.rulesStrings>
 
-  <ShipCryptosleep.generalRules.rulesStrings>
-    <li>subject->caixões de criptosono de grau de nave estelar</li>
-    <li>subject_story->substituiu os caixões de criptosono defeituosos na CMC Celeste, para que a antiga nave de geração pudesse ser usada novamente</li>
-    <li>subject_story->foi ejetado acidentalmente no espaço profundo, sobrevivendo em um caixão auto-projetado por dois meses</li>
-    <li>subject_story->deu palestras sobre as diferenças entre equipamentos de grau planetário e de nave estelar</li>
-    <li>subject_gerund->construindo caixões de criptosono reforçados</li>
-  </ShipCryptosleep.generalRules.rulesStrings>
+	<ShipCryptosleep.generalRules.rulesStrings>
+		<li>subject>caixões de Criptosono de grau de nave estelar</subject>
+		<li>subject_story>substituiu os caixões de criptosono defeituosos na CMC Celeste, para que a antiga nave de geração pudesse ser usada novamente</subject_story>
+		<li>subject_story>foi ejetado acidentalmente no espaço profundo, sobrevivendo em um caixão auto-projetado por dois meses</subject_story>
+		<li>subject_story>deu palestras sobre as diferenças entre equipamentos de grau planetário e de nave estelar</subject_story>
+		<li>subject_gerund>construindo caixões de criptosono reforçados</subject_gerund>
+	</ShipCryptosleep.generalRules.rulesStrings>
 
-  <ShipReactor.generalRules.rulesStrings>
-    <li>subject->reator nuclear de nave estelar</li>
-    <li>subject_story->construiu um novo reator para uma nave-colônia, mas nunca viveu para vê-lo decolar</li>
-    <li>subject_story->defendeu a nave enquanto o reator ligava, contra invasores desesperados para deixar o planeta</li>
-    <li>subject_story->usou um reator de nave estelar como energia de backup para um banco genético enterrado sob a calota polar do planeta</li>
-    <li>subject_gerund->construindo reatores de nave estelar</li>
-  </ShipReactor.generalRules.rulesStrings>
+	<ShipReactor.generalRules.rulesStrings>
+		<li>subject>reator nuclear de nave estelar</subject>
+		<li>subject_story>construiu um novo reator para uma nave-colônia, mas nunca viveu para vê-lo decolar</subject_story>
+		<li>subject_story>defendeu a nave enquanto o reator ligava, contra invasores desesperados para deixar o planeta</subject_story>
+		<li>subject_story>usou um reator de nave estelar como energia de backup para um banco genético enterrado sob a calota polar do planeta</subject_story>
+		<li>subject_gerund>construindo reatores de nave estelar</subject_gerund>
+	</ShipReactor.generalRules.rulesStrings>
 
-  <ShipEngine.generalRules.rulesStrings>
-    <li>subject->teoria Johnson-Tanaka</li>
-    <li>subject->transferência de momento exótico</li>
-    <li>subject_story->deu palestras na universidade sobre Johnson, Tanaka e efeitos de escala quântica</li>
-    <li>subject_story->construiu um motor Johnson-Tanaka a partir de princípios básicos para uma tese</li>
-    <li>subject_story->fez a manutenção de um motor Johnson-Tanaka por duas décadas, enquanto a nave viajava entre as estrelas</li>
-    <li>subject_gerund->construindo motores de nave estelar</li>
-  </ShipEngine.generalRules.rulesStrings>
+	<ShipEngine.generalRules.rulesStrings>
+		<li>subject>teoria Johnson-Tanaka</subject>
+		<li>subject>transferência de momento exótico</subject>
+		<li>subject_story>deu palestras na universidade sobre Johnson, Tanaka e efeitos de escala quântica</subject_story>
+		<li>subject_story>construiu um motor Johnson-Tanaka a partir de princípios básicos para uma tese</subject_story>
+		<li>subject_story>fez a manutenção de um motor Johnson-Tanaka por duas décadas, enquanto a nave viajava entre as estrelas</subject_story>
+		<li>subject_gerund>construindo motores de nave estelar</subject_gerund>
+	</ShipEngine.generalRules.rulesStrings>
 
-  <ShipComputerCore.generalRules.rulesStrings>
-    <li>subject->incentivo de núcleo de persona</li>
-    <li>subject->manutenção da sanidade da IA de nave estelar</li>
-    <li>subject_story->recuperou o controle do núcleo de uma nave aberrante com recondicionamento cuidadoso</li>
-    <li>subject_story->configurou simulações de gerenciamento de colônia para ocupar o núcleo da nave durante os muitos anos de viagem interestelar</li>
-    <li>subject_story->fez companhia ao núcleo de uma nave durante uma viagem interestelar 'curta', aprendendo muito sobre núcleos no processo</li>
-    <li>subject_gerund->incentivando núcleos de persona</li>
-    <li>subject_gerund->mantendo a sanidade da IA de nave estelar</li>
-    <li>subject_gerund->construindo sistemas de sinal de recompensa</li>
-  </ShipComputerCore.generalRules.rulesStrings>
+	<ShipComputerCore.generalRules.rulesStrings>
+		<li>subject>incentivo de núcleo de persona</subject>
+		<li>subject>manutenção da sanidade da IA de nave estelar</subject>
+		<li>subject_story>recuperou o controle do núcleo de uma nave aberrante com recondicionamento cuidadoso</subject_story>
+		<li>subject_story>configurou simulações de gerenciamento de colônia para ocupar o núcleo da nave durante os muitos anos de viagem interestelar</subject_story>
+		<li>subject_story>fez companhia ao núcleo de uma nave durante uma viagem interestelar 'curta', aprendendo muito sobre núcleos no processo</subject_story>
+		<li>subject_gerund>incentivando núcleos de persona</subject_gerund>
+		<li>subject_gerund>mantendo a sanidade da IA de nave estelar</subject_gerund>
+		<li>subject_gerund>construindo sistemas de sinal de recompensa</subject_gerund>
+	</ShipComputerCore.generalRules.rulesStrings>
 
-  <ShipSensorCluster.generalRules.rulesStrings>
-    <li>subject->navegação interestelar</li>
-    <li>subject_story->usou sensores protótipos de nave estelar para detectar um asteroide com potencial de extinção e evacuar o planeta</li>
-    <li>subject_story->foi empregado como navegador e cozinheiro em um iate estelar de Mundo de Brilho</li>
-    <li>subject_story->refinou o design de sensores de longo alcance, melhorando sua utilidade</li>
-    <li>subject_gerund->navegando no espaço interestelar</li>
-    <li>subject_gerund->construindo sensores de nave estelar</li>
-  </ShipSensorCluster.generalRules.rulesStrings>
+	<ShipSensorCluster.generalRules.rulesStrings>
+		<li>subject>navegação interestelar</subject>
+		<li>subject_story>usou sensores protótipos de nave estelar para detectar um asteroide com potencial de extinção e evacuar o planeta</subject_story>
+		<li>subject_story>foi empregado como navegador e cozinheiro em um iate estelar de Mundo Brilhante</subject_story>
+		<li>subject_story>refinou o design de sensores de longo alcance, melhorando sua utilidade</subject_story>
+		<li>subject_gerund>navegando no espaço interestelar</subject_gerund>
+		<li>subject_gerund>construindo sensores de nave estelar</subject_gerund>
+	</ShipSensorCluster.generalRules.rulesStrings>
 
-  <li>subject->engenharia estrutural de nave estelar</li>
-  <li>subject_story->recrutou engenheiros de naves estelares para uma frota de mundo de brilho (glitterworld)</li>
-  <li>subject_story->foi um projetista estrutural num distrito de arranha-céus de mundo urbano (urbworld)</li>
-  <li>subject_story->recolheu destroços de naves no cinturão de detritos de um mundo morto (deadworld)</li>
-  <li>subject_gerund->construindo estruturas de nave estelar</li>
+	<ShipReactorAdvanced.generalRules.rulesStrings>
+		<li>subject>reator nuclear de nave estelar</subject>
+		<li>subject_story>foi o único sobrevivente do desastre do reator Fénix</subject_story>
+		<li>subject_story>reparou um reator de naufrágio e navegou a nave através do cosmos</subject_story>
+		<li>subject_story>teve que lutar em duelos por peças cruciais para o reator de sua nave</subject_story>
+		<li>subject_gerund>construindo reatores de nave estelar</subject_gerund>
+	</ShipReactorAdvanced.generalRules.rulesStrings>
 
-  <li>subject->cápsulas de criossono de grau de nave estelar</li>
-  <li>subject_story->substituiu as cápsulas de criossono falhadas no CMC Celeste, para que a antiga nave de geração pudesse ser usada novamente</li>
-  <li>subject_story->foi acidentalmente ejetado no espaço profundo, sobrevivendo numa cápsula auto-projetada por dois meses</li>
-  <li>subject_story->fez palestras sobre as diferenças entre equipamentos de grau planetário e de nave estelar</li>
-  <li>subject_gerund->construindo cápsulas de criossono reforçadas</li>
+	<ShipEngineAdvanced.generalRules.rulesStrings>
+		<li>subject>motor iónico de nave estelar</subject>
+		<li>subject_story>construiu o primeiro motor com propulsão iónica de sucesso, mas a sua patente foi roubada</subject_story>
+		<li>subject_story>trocou motores estragados com habitantes de RimWorld desesperados</subject_story>
+		<li>subject_story>construiu os motores iónicos mais potentes do setor</subject_story>
+		<li>subject_gerund>construindo motores de nave estelar</subject_gerund>
+	</ShipEngineAdvanced.generalRules.rulesStrings>
 
-  <li>subject->reator nuclear de nave estelar</li>
-
-  <?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <li>subject->engenharia estrutural de nave estelar</li>
-  <li>subject_story->recrutou engenheiros de naves estelares para uma frota de mundo de brilho (glitterworld)</li>
-  <li>subject_story->foi um projetista estrutural num distrito de arranha-céus de mundo urbano (urbworld)</li>
-  <li>subject_story->recolheu destroços de naves no cinturão de detritos de um mundo morto (deadworld)</li>
-  <li>subject_gerund->construindo estruturas de nave estelar</li>
-
-  <li>subject->cápsulas de criossono de grau de nave estelar</li>
-  <li>subject_story->substituiu as cápsulas de criossono falhadas no CMC Celeste, para que a antiga nave de geração pudesse ser usada novamente</li>
-  <li>subject_story->foi acidentalmente ejetado no espaço profundo, sobrevivendo numa cápsula auto-projetada por dois meses</li>
-  <li>subject_story->fez palestras sobre as diferenças entre equipamentos de grau planetário e de nave estelar</li>
-  <li>subject_gerund->construindo cápsulas de criossono reforçadas</li>
-
-  <li>subject->reator nuclear de nave estelar</li>
-  <li>subject_story->foi o único sobrevivente do desastre do reator Fénix</li>
-  <li>subject_story->reparou um reator de naufrágio e navegou a nave através do cosmos</li>
-  <li>subject_story->teve que lutar em duelos por peças cruciais para o reator de sua nave</li>
-  <li>subject_gerund->construindo reatores de nave estelar</li>
-
-  <li>subject->motor iónico de nave estelar</li>
-  <li>subject_story->construiu o primeiro motor com propulsão iónica de sucesso, mas a sua patente foi roubada</li>
-  <li>subject_story->trocou motores estragados com habitantes de RimWorld desesperados</li>
-  <li>subject_story->construiu os motores iónicos mais potentes do setor</li>
-  <li>subject_gerund->construindo motores de nave estelar</li>
-
-  <li>subject->núcleo de computador de nave estelar</li>
-  <li>subject_story->criou uma nova IA de nave, que era uma amante ciumenta</li>
-  <li>subject_story->construiu a IA da nave para ter o intelecto de uma criança, mas que poderia realizar cálculos de voo complexos</li>
-  <li>subject_story->lutou com uma IA que tentou assumir o controlo de toda a nave</li>
-  <li>subject_gerund->construindo núcleos de computador de nave estelar</li>
-</LanguageData>
+	<ShipComputerCoreAdvanced.generalRules.rulesStrings>
+		<li>subject>núcleo de computador de nave estelar</subject>
+		<li>subject_story>criou uma nova IA de nave, que era uma amante ciumenta</subject_story>
+		<li>subject_story>construiu a IA da nave para ter o intelecto de uma criança, mas que poderia realizar cálculos de voo complexos</subject_story>
+		<li>subject_story>lutou com uma IA que tentou assumir o controlo de toda a nave</subject_story>
+		<li>subject_gerund>construindo núcleos de computador de nave estelar</subject_gerund>
+	</ShipComputerCoreAdvanced.generalRules.rulesStrings>
 
 </LanguageData>

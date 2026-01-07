@@ -20,7 +20,7 @@
 	<VanillaFactionsExpanded.UsableWithShield_Desc>Se esta arma pode ou não ser usada caso o personagem também esteja equipado com um escudo.</VanillaFactionsExpanded.UsableWithShield_Desc>
 	<VEF.Weapons.Stat_Thing_MaterialPerCharge>Munição por carga</VEF.Weapons.Stat_Thing_MaterialPerCharge>
 	<VEF.Weapons.Stat_Thing_MaterialPerCharge_Value>{0} {1} por carga (total de {2} cargas)</VEF.Weapons.Stat_Thing_MaterialPerCharge_Value>
-    <VEF.Weapons.Stat_Thing_MaterialPerCharge_Desc>A quantidade de {0} por carga que esta habilidade precisa para ser recarregada.</VEF.Weapons.Stat_Thing_MaterialPerCharge_Desc>
+	<VEF.Weapons.Stat_Thing_MaterialPerCharge_Desc>A quantidade de {0} por carga que esta habilidade precisa para ser recarregada.</VEF.Weapons.Stat_Thing_MaterialPerCharge_Desc>
 
 	<VanillaFactionsExpanded.FactionTitle>Nova facção: {FactionName}</VanillaFactionsExpanded.FactionTitle>
 	<VanillaFactionsExpanded.ModInfo>Esta facção é adicionada por {ModName} e não está atualmente presente no seu jogo.</VanillaFactionsExpanded.ModInfo>
@@ -56,6 +56,6 @@
 
 	<VFE_DeepDrillNo>A perfuração profunda não pode ser usada com {0}.</VFE_DeepDrillNo>
 	
-    <VEF.TeleportTo>Teletransportar para {0}</VEF.TeleportTo>
+	<VEF.TeleportTo>Teletransportar para {0}</VEF.TeleportTo>
 	<VEF_NeverDesc>Nunca desautorizar minérios minerados (é assim que o jogo base funciona para colonos não-humanos, como animais e mechs)</VEF_NeverDesc>
 </LanguageData>

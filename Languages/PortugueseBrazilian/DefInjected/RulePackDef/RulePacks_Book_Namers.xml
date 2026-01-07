@@ -1,388 +1,526 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <li>book_name->[subject] e o [topic]</li>
-  <li>book_name->[subject] e a [topic]</li>
-  <li>book_name->[subject] e os [topic]</li>
-  <li>book_name->[subject] e as [topic]</li>
-  <li>book_name->O [adj] [topic]</li>
-  <li>book_name->A [adj] [topic]</li>
-  <li>book_name->Os [adj] [topic]</li>
-  <li>book_name->As [adj] [topic]</li>
-  <li>book_name->[topic] de [PersonName]</li>
-  <li>book_name->O [topic] de [PersonName]</li>
-  <li>book_name->A [topic] de [PersonName]</li>
-  <li>book_name->[subject] e [subject]</li>
-  <li>book_name->[topic] no [place]</li>
-  <li>book_name->[topic] em [place]</li>
-  <li>book_name->[topic] sobre [topic]</li>
-  <li>subject->A Mente</li>
-  <li>subject->O Corpo</li>
-  <li>subject->A Alma</li>
-  <li>subject->A Filosofia</li>
-  <li>subject->O Pensamento</li>
-  <li>subject->A Crença</li>
-  <li>topic->O Indivíduo</li>
-  <li>topic->O Estado</li>
-  <li>topic->A Lei</li>
-  <li>topic->A Virtude</li>
-  <li>topic->A Moralidade</li>
-  <li>topic->A Política</li>
-  <li>topic->Os [PersonJob]</li>
-  <li>topic->Os [Concept]</li>
-  <li>adj->Secreto</li>
-  <li>adj->Perdido</li>
-  <li>adj->Desconhecido</li>
-  <li>adj->Antigo</li>
-  <li>adj->Novo</li>
-  <li>adj->Verdadeiro</li>
-  <li>adj->Belo</li>
 
-  <li>book_name->[subject] e o [topic]</li>
-  <li>book_name->[subject] e a [topic]</li>
-  <li>book_name->[subject] e os [topic]</li>
-  <li>book_name->[subject] e as [topic]</li>
-  <li>book_name->O [adj] [topic]</li>
-  <li>book_name->A [adj] [topic]</li>
-  <li>book_name->Os [adj] [topic]</li>
-  <li>book_name->As [adj] [topic]</li>
-  <li>book_name->[topic] de [PersonName]</li>
-  <li>book_name->O [topic] de [PersonName]</li>
-  <li>book_name->A [topic] de [PersonName]</li>
-  <li>book_name->[subject] e [subject]</li>
-  <li>book_name->[topic] no [place]</li>
-  <li>book_name->[topic] em [place]</li>
-  <li>book_name->[topic] sobre [topic]</li>
-  <li>subject->A Pintura</li>
-  <li>subject->A Escultura</li>
-  <li>subject->A Música</li>
-  <li>subject->A Arquitetura</li>
-  <li>subject->O Estilo</li>
-  <li>subject->A Expressão</li>
-  <li>topic->O [Artform]</li>
-  <li>topic->O Belo</li>
-  <li>topic->A Verdade</li>
-  <li>topic->A Cor</li>
-  <li>topic->A Forma</li>
-  <li>topic->Os Desenhos</li>
-  <li>adj->Secreto</li>
-  <li>adj->Perdido</li>
-  <li>adj->Desconhecido</li>
-  <li>adj->Antigo</li>
-  <li>adj->Novo</li>
-  <li>adj->Verdadeiro</li>
-  <li>adj->Belo</li>
+	<li>desc->Uma investigação de [topic]. [body].</li>
+	<li>desc->Uma peça seminal sobre [topic]. [body].</li>
+	<li>desc->Uma análise detalhada de [topic]. [body].</li>
+	<li>desc->Um ensaio sobre [topic]. [body].</li>
+	<li>desc->Um trabalho dedicado ao estudo de [topic]. [body].</li>
+	
+	<li>body->O trabalho é conhecido pela sua clareza e argumentação persuasiva</li>
+	<li>body->Alguns críticos referem que o seu [style] é um pouco [adj], mas o conteúdo é inegável</li>
+	<li>body->Apesar de muito criticado pela comunidade académica, vendeu bem ao público em geral</li>
+	<li>body->Tornou-se um texto de referência em muitos cursos universitários</li>
+	<li>body->O [style] do autor é tão [adj] quanto o tópico que está a abordar</li>
+	<li>body->O autor [wrote] este livro depois de ser exilado de [place]</li>
+	<li>body->O autor [wrote] este livro para se opor à [movement]</li>
+	<li>body->A natureza [adj] e [adj] da sua prosa [made] o livro um dos mais populares da [era]</li>
+	<li>body->Contém alguns dos raciocínios mais [adj] sobre [topic] jamais reunidos</li>
+	
+	<li>topic->teoria sociológica</li>
+	<li>topic->estrutura da sociedade</li>
+	<li>topic->a relação do poder com [topic_sub]</li>
+	<li>topic->o papel do governo [government]</li>
+	<li>topic->o conceito de liberdade</li>
+	<li>topic->as raízes da tirania</li>
+	<li>topic->o que define a civilização</li>
+	<li>topic->o legado de [historical_person]</li>
+	<li>topic->o efeito de [effect] sobre a humanidade</li>
+	
+	<li>topic_sub->o indivíduo</li>
+	<li>topic_sub->o grupo</li>
+	<li>topic_sub->o estado</li>
+	<li>topic_sub->o [person_of_power]</li>
+	
+	<li>government->autocrático</li>
+	<li>government->democrático</li>
+	<li>government->libertário</li>
+	<li>government->militar</li>
+	
+	<li>effect->mudança climática</li>
+	<li>effect->engenharia genética</li>
+	<li>effect->inteligência artificial</li>
+	<li>effect->superpopulação</li>
+	
+	<li>style->estilo</li>
+	<li>style->prosa</li>
+	<li>style->tom</li>
+	
+	<li>adj->seco</li>
+	<li>adj->pesado</li>
+	<li>adj->desinteressante</li>
+	<li>adj->eloquente</li>
+	<li>adj->perspicaz</li>
+	<li>adj->incisivo</li>
+	<li>adj->meticuloso</li>
+	
+	<li>wrote->escreveu</li>
+	<li>wrote->compôs</li>
+	<li>wrote->rabiscou</li>
+	
+	<li>made->fez</li>
+	<li>made->tornou</li>
+	
+	<li>movement->Igreja de [Color]</li>
+	<li>movement->A Grande Revolução</li>
+	<li>movement->A Sociedade [Adjective]</li>
+	<li>movement->O Conflito Interplanetário</li>
+	
+	<li>era->Era da Iluminação</li>
+	<li>era->Idade dos Impérios</li>
+	<li>era->Era dos Dados</li>
+	<li>era->Idade das Trevas</li>
 
-  <li>book_name->[PersonName] e o [topic]</li>
-  <li>book_name->[PersonName] e a [topic]</li>
-  <li>book_name->[PersonName] e os [topic]</li>
-  <li>book_name->[PersonName] e as [topic]</li>
-  <li>book_name->O [adj] [topic] de [PersonName]</li>
-  <li>book_name->A [adj] [topic] de [PersonName]</li>
-  <li>book_name->[topic] de [PersonName]</li>
-  <li>book_name->A Ascensão e Queda de [PersonName]</li>
-  <li>book_name->O Diário de [PersonName]</li>
-  <li>book_name->[PersonName], O [PersonJob]</li>
-  <li>book_name->[PersonName], O [adj] [PersonJob]</li>
-  <li>topic->A História</li>
-  <li>topic->A Lenda</li>
-  <li>topic->O Legado</li>
-  <li>topic->O Conflito</li>
-  <li>topic->A Morte</li>
-  <li>topic->A Vida</li>
-  <li>topic->Os Anos</li>
-  <li>adj->Secreto</li>
-  <li>adj->Perdido</li>
-  <li>adj->Desconhecido</li>
-  <li>adj->Antigo</li>
-  <li>adj->Novo</li>
-  <li>adj->Verdadeiro</li>
-  <li>adj->Belo</li>
+	<li>desc->Uma coletânea de ensaios sobre [topic]. [body].</li>
+	<li>desc->Uma exploração abrangente do [topic]. [body].</li>
+	<li>desc->Uma história da [art_style]. [body].</li>
+	<li>desc->Uma biografia do famoso [artist] [artist_name]. [body].</li>
+	<li>desc->Um volume lindamente ilustrado que demonstra [demonstrates]. [body].</li>
+	
+	<li>body->As imagens estão lindamente gravadas, embora em preto e branco</li>
+	<li>body->O autor era conhecido por defender o [art_style] sobre o [art_style]</li>
+	<li>body->O livro foi proibido em vários mundos-colmeia por ser "obsceno"</li>
+	<li>body->Inclui o famoso ensaio [essay_name]</li>
+	<li>body->O livro está bem usado, e as notas nas margens mostram que o proprietário original [notes_about]</li>
+	<li>body->Apesar de a capa estar em mau estado, as páginas interiores são imaculadas</li>
+	<li>body->As ilustrações neste volume são extraordinariamente detalhadas</li>
+	
+	<li>topic->a relação entre a arte e a ciência</li>
+	<li>topic->o uso da cor na arte medieval</li>
+	<li>topic->o papel da beleza na [era]</li>
+	<li>topic->o desenvolvimento da arquitetura colonial</li>
+	<li>topic->o uso da paisagem no [art_style]</li>
+	
+	<li>demonstrates->como a arte pode ser usada como propaganda política</li>
+	<li>demonstrates->o poder emocional da arte tridimensional</li>
+	<li>demonstrates->a importância da simetria na escultura</li>
+	<li>demonstrates->o fracasso da arte em cativar o público</li>
+	
+	<li>art_style->impressionismo</li>
+	<li>art_style->cubismo</li>
+	<li>art_style->realismo</li>
+	<li>art_style->arte de instalação</li>
+	<li>art_style->arquitetura</li>
+	
+	<li>artist->pintor</li>
+	<li>artist->escultor</li>
+	<li>artist->poeta</li>
+	<li>artist->músico</li>
+	
+	<li>essay_name->A Natureza [Adjective] da [Concept]</li>
+	<li>essay_name->O Papel do [Concept] no [Artform]</li>
+	<li>essay_name->Arte ou [Concept]?</li>
+	
+	<li>Concept->beleza</li>
+	<li>Concept->verdade</li>
+	<li>Concept->obscenidade</li>
+	<li>Concept->ciência</li>
+	
+	<li>Artform->Escultura</li>
+	<li>Artform->Arquitetura</li>
+	<li>Artform->Pintura</li>
+	
+	<li>notes_about->não estava totalmente de acordo com a premissa central do autor</li>
+	<li>notes_about->era um estudante de arte sério, concentrando-se nos detalhes de [art_style]</li>
+	<li>notes_about->deve ter sido um censor, julgando o livro como "inadequado para jovens"</li>
+	
+	<li>artist_name->[PersonName] [surname]</li>
 
-  <li>book_name->[subject] e o [topic]</li>
-  <li>book_name->[subject] e a [topic]</li>
-  <li>book_name->[subject] e os [topic]</li>
-  <li>book_name->[subject] e as [topic]</li>
-  <li>book_name->O [adj] [topic]</li>
-  <li>book_name->A [adj] [topic]</li>
-  <li>book_name->Os [adj] [topic]</li>
-  <li>book_name->As [adj] [topic]</li>
-  <li>book_name->[topic] de [PersonName]</li>
-  <li>book_name->O [topic] de [PersonName]</li>
-  <li>book_name->A [topic] de [PersonName]</li>
-  <li>book_name->[subject] e [subject]</li>
-  <li>book_name->[topic] no [place]</li>
-  <li>book_name->[topic] em [place]</li>
-  <li>book_name->[topic] sobre [topic]</li>
-  <li>subject->A Cozinha</li>
-  <li>subject->O Alimento</li>
-  <li>subject->O Chef</li>
-  <li>subject->A Sobrevivência</li>
-  <li>subject->A Doçaria</li>
-  <li>topic->O Jantar</li>
-  <li>topic->O Pão</li>
-  <li>topic->O Ensopado</li>
-  <li>topic->A Carne</li>
-  <li>topic->O Vegetal</li>
-  <li>topic->O Doce</li>
-  <li>topic->Os [Animal]</li>
-  <li>topic->Os [Meal]</li>
-  <li>adj->Secreto</li>
-  <li>adj->Perdido</li>
-  <li>adj->Desconhecido</li>
-  <li>adj->Antigo</li>
-  <li>adj->Novo</li>
-  <li>adj->Verdadeiro</li>
-  <li>adj->Belo</li>
+	<li>desc->Uma biografia detalhada do famoso [title] [person]. [body].</li>
+	<li>desc->Uma biografia não autorizada do famoso [title] [person]. [body].</li>
+	<li>desc->O diário pessoal de [title] [person]. [body].</li>
+	<li>desc->A história de vida do grande [title] [person]. [body].</li>
+	
+	<li>body->Escrito em [writing_year], quando [person] estava no auge da sua carreira</li>
+	<li>body->O livro é [adj] mas honesto sobre os aspetos menos admiráveis da vida do [title]</li>
+	<li>body->O [person] mais tarde processou o autor por difamação, mas sem sucesso</li>
+	<li>body->Contém o famoso capítulo em que o [title] [chapter_about]</li>
+	<li>body->O autor foi forçado a [action] e a publicar o livro de forma anónima</li>
+	<li>body->Esta cópia contém algumas notas nas margens que [reveal] sobre [person]</li>
+	<li>body->[PersonName] [surname] afirmou que o livro era uma "invenção maliciosa, sem uma única palavra de verdade"</li>
+	
+	<li>title->general</li>
+	<li>title->governador</li>
+	<li>title->cientista</li>
+	<li>title->escritor</li>
+	
+	<li>person->[PersonName] [surname]</li>
+	
+	<li>writing_year->2413</li>
+	<li>writing_year->2501</li>
+	<li>writing_year->2622</li>
+	<li>writing_year->2700</li>
+	
+	<li>adj->lisonjeiro</li>
+	<li>adj->cruel</li>
+	<li>adj->perspicaz</li>
+	<li>adj->completo</li>
+	
+	<li>chapter_about->abandonou o seu primeiro filho</li>
+	<li>chapter_about->cometeu fraude com os seus impostos</li>
+	<li>chapter_about->usou a sua posição para seduzir [PersonName] [surname]</li>
+	<li>chapter_about->teve um colapso e [PersonName] [surname] teve que assumir o controlo</li>
+	
+	<li>action->fugir para o espaço profundo</li>
+	<li>action->viver disfarçado</li>
+	<li>action->alterar o seu rosto</li>
+	
+	<li>reveal->revelam que o autor [author_reveal]</li>
+	<li>reveal->indicam que [PersonName] [surname] foi o primeiro proprietário</li>
+	
+	<li>author_reveal->odiava o seu assunto</li>
+	<li>author_reveal->era o irmão do seu assunto</li>
+	<li>author_reveal->era o seu sujeito, escrevendo sob um pseudónimo</li>
 
-  <li>book_name->[subject] e o [topic]</li>
-  <li>book_name->[subject] e a [topic]</li>
-  <li>book_name->[subject] e os [topic]</li>
-  <li>book_name->[subject] e as [topic]</li>
-  <li>book_name->O [adj] [topic]</li>
-  <li>book_name->A [adj] [topic]</li>
-  <li>book_name->Os [adj] [topic]</li>
-  <li>book_name->As [adj] [topic]</li>
-  <li>book_name->[topic] de [PersonName]</li>
-  <li>book_name->O [topic] de [PersonName]</li>
-  <li>book_name->A [topic] de [PersonName]</li>
-  <li>book_name->[subject] e [subject]</li>
-  <li>book_name->[topic] no [place]</li>
-  <li>book_name->[topic] em [place]</li>
-  <li>book_name->[topic] sobre [topic]</li>
-  <li>subject->O Herói</li>
-  <li>subject->A Princesa</li>
-  <li>subject->O Ladrão</li>
-  <li>subject->O Soldado</li>
-  <li>subject->O Planeta</li>
-  <li>subject->A Arma</li>
-  <li>topic->O Desespero</li>
-  <li>topic->A Esperança</li>
-  <li>topic->A Guerra</li>
-  <li>topic->A Morte</li>
-  <li>topic->O Amor</li>
-  <li>topic->Os [Concept]</li>
-  <li>topic->Os [Animal]</li>
-  <li>adj->Secreto</li>
-  <li>adj->Perdido</li>
-  <li>adj->Desconhecido</li>
-  <li>adj->Antigo</li>
-  <li>adj->Novo</li>
-  <li>adj->Verdadeiro</li>
-  <li>adj->Belo</li>
+	<li>desc->Um livro de receitas do famoso [chef] [chef_name]. [body].</li>
+	<li>desc->Uma coleção de receitas de [world_type] para [meal_type]. [body].</li>
+	<li>desc->Um guia de sobrevivência para [cookery_topic]. [body].</li>
+	
+	<li>body->Inclui um guia para fazer o famoso [meal] de [chef_name]</li>
+	<li>body->O livro é bem usado e com muitas manchas de gordura. O dono original tentou muitas das receitas</li>
+	<li>body->O livro foi proibido em [place] por usar ingredientes "imorais"</li>
+	<li>body->Apesar de ter sido publicado em [writing_year], as receitas ainda são populares hoje em dia</li>
+	<li>body->O autor foi forçado a fugir de [place] depois de ser acusado de [cookery_crime]</li>
+	<li>body->Contém um guia sobre como cultivar o seu próprio [cookery_ingredient]</li>
+	<li>body->Contém um guia sobre como [preserve] a sua comida no [condition]</li>
+	
+	<li>chef->chef</li>
+	<li>chef->cozinheiro</li>
+	<li>chef->gastrónomo</li>
+	
+	<li>chef_name->[PersonName] [surname]</li>
+	
+	<li>world_type->mundo brilhante</li>
+	<li>world_type->mundo urbano</li>
+	<li>world_type->mundo colonial</li>
+	<li>world_type->mundo selvagem</li>
+	
+	<li>meal_type->pequeno-almoço</li>
+	<li>meal_type->prato principal</li>
+	<li>meal_type->sobremesa</li>
+	<li>meal_type->petisco</li>
+	
+	<li>cookery_topic->cozinhar carne de [animal]</li>
+	<li>cookery_topic->alimentação durante o inverno em [biome]</li>
+	<li>cookery_topic->cozinhar sem [cookery_ingredient]</li>
+	
+	<li>cookery_ingredient->leite</li>
+	<li>cookery_ingredient->carne</li>
+	<li>cookery_ingredient->açúcar</li>
+	<li>cookery_ingredient->fruta</li>
+	<li>cookery_ingredient->cactáceas</li>
+	
+	<li>animal->rato grande</li>
+	<li>animal->rato de campo</li>
+	<li>animal->urso</li>
+	<li>animal->bicho-preguiça gigante</li>
+	
+	<li>biome->pântano</li>
+	<li>biome->tundra</li>
+	<li>biome->deserto</li>
+	<li>biome->floresta tropical</li>
+	
+	<li>meal->ensopado</li>
+	<li>meal->tarte</li>
+	<li>meal->pão</li>
+	<li>meal->caril</li>
+	
+	<li>preserve->secar</li>
+	<li>preserve->congelar</li>
+	<li>preserve->salgar</li>
+	
+	<li>condition->calor excessivo</li>
+	<li>condition->frio excessivo</li>
+	<li>condition->longo prazo</li>
+	
+	<li>cookery_crime->usar carne humana nas suas receitas</li>
+	<li>cookery_crime->envenenar um rei com [meal]</li>
+	<li>cookery_crime->cozinhar pratos excessivamente [adj_cookery]</li>
+	
+	<li>adj_cookery->picantes</li>
+	<li>adj_cookery->doces</li>
+	<li>adj_cookery->ácidos</li>
 
-  <li>book_name->[subject] e o [topic]</li>
-  <li>book_name->[subject] e a [topic]</li>
-  <li>book_name->[subject] e os [topic]</li>
-  <li>book_name->[subject] e as [topic]</li>
-  <li>book_name->O [adj] [topic]</li>
-  <li>book_name->A [adj] [topic]</li>
-  <li>book_name->Os [adj] [topic]</li>
-  <li>book_name->As [adj] [topic]</li>
-  <li>book_name->[topic] de [PersonName]</li>
-  <li>book_name->O [topic] de [PersonName]</li>
-  <li>book_name->A [topic] de [PersonName]</li>
-  <li>book_name->[subject] e [subject]</li>
-  <li>book_name->[topic] no [place]</li>
-  <li>book_name->[topic] em [place]</li>
-  <li>book_name->[topic] sobre [topic]</li>
-  <li>subject->O Passado</li>
-  <li>subject->O Futuro</li>
-  <li>subject->A História</li>
-  <li>subject->A Batalha</li>
-  <li>subject->A Queda</li>
-  <li>subject->A Ascensão</li>
-  <li>topic->O Império</li>
-  <li>topic->A Guerra</li>
-  <li>topic->A Paz</li>
-  <li>topic->A Nação</li>
-  <li>topic->O Planeta</li>
-  <li>topic->Os [PersonJob]</li>
-  <li>topic->Os [Concept]</li>
-  <li>adj->Secreto</li>
-  <li>adj->Perdido</li>
-  <li>adj->Desconhecido</li>
-  <li>adj->Antigo</li>
-  <li>adj->Novo</li>
-  <li>adj->Verdadeiro</li>
-  <li>adj->Belo</li>
+	<li>desc->Uma peça de ficção [genre] do aclamado autor [PersonName] [surname]. [body].</li>
+	<li>desc->O [novel_type] que abalou [place] aquando da sua publicação. [body].</li>
+	<li>desc->Uma peça de ficção que documenta os [adventures] de [PersonName] [surname]. [body].</li>
+	
+	<li>body->Os críticos [critic_reaction] do seu [adj] uso da linguagem</li>
+	<li>body->Apesar de ser tecnicamente ficção, é claramente sobre [historical_person]</li>
+	<li>body->O livro é um clássico de culto no seu mundo de origem e foi adaptado para [adaptation]</li>
+	<li>body->O livro foi proibido em vários [place_type] por ser [reason]</li>
+	<li>body->O autor foi forçado a [action] depois de ser criticado pela sua obra</li>
+	<li>body->É um livro [adj] com um final [ending]</li>
+	<li>body->O livro é o primeiro de uma série de [number] volumes</li>
+	
+	<li>genre->sci-fi</li>
+	<li>genre->fantasia</li>
+	<li>genre->romance</li>
+	<li>genre->aventura</li>
+	<li>genre->suspense</li>
+	
+	<li>novel_type->romance distópico</li>
+	<li>novel_type->saga de ficção científica</li>
+	<li>novel_type->novela militar</li>
+	<li>novel_type->romance de aventura</li>
+	
+	<li>adventures->viagens</li>
+	<li>adventures->crimes</li>
+	<li>adventures->conquistas românticas</li>
+	<li>adventures->fugas</li>
+	
+	<li>critic_reaction->gostaram</li>
+	<li>critic_reaction->criticaram</li>
+	<li>critic_reaction->elogiaram</li>
+	<li>critic_reaction->rejeitaram</li>
+	
+	<li>adj->elegante</li>
+	<li>adj->desajeitado</li>
+	<li>adj->brilhante</li>
+	<li>adj->tolo</li>
+	
+	<li>adaptation->holo-filme</li>
+	<li>adaptation->série de TV</li>
+	<li>adaptation->banda desenhada</li>
+	<li>adaptation->musical</li>
+	
+	<li>place_type->mundos brilhantes</li>
+	<li>place_type->mundos urbanos</li>
+	<li>place_type->postos avançados de RimWorld</li>
+	
+	<li>reason->subversivo</li>
+	<li>reason->violento</li>
+	<li>reason->pornografia</li>
+	<li>reason->desnecessariamente [adj]</li>
+	
+	<li>ending->surpreendente</li>
+	<li>ending->decepcionante</li>
+	<li>ending->alegre</li>
+	<li>ending->ambíguo</li>
+	
+	<li>number->três</li>
+	<li>number->quatro</li>
+	<li>number->cinco</li>
+	<li>number->seis</li>
 
-  <li>book_name->[subject] e o [topic]</li>
-  <li>book_name->[subject] e a [topic]</li>
-  <li>book_name->[subject] e os [topic]</li>
-  <li>book_name->[subject] e as [topic]</li>
-  <li>book_name->O [adj] [topic]</li>
-  <li>book_name->A [adj] [topic]</li>
-  <li>book_name->Os [adj] [topic]</li>
-  <li>book_name->As [adj] [topic]</li>
-  <li>book_name->[topic] de [PersonName]</li>
-  <li>book_name->O [topic] de [PersonName]</li>
-  <li>book_name->A [topic] de [PersonName]</li>
-  <li>book_name->[subject] e [subject]</li>
-  <li>book_name->[topic] no [place]</li>
-  <li>book_name->[topic] em [place]</li>
-  <li>book_name->[topic] sobre [topic]</li>
-  <li>subject->A Sobrevivência</li>
-  <li>subject->A Construção</li>
-  <li>subject->A Reparação</li>
-  <li>subject->A Criação</li>
-  <li>subject->A Agricultura</li>
-  <li>subject->A Caça</li>
-  <li>topic->O Deserto</li>
-  <li>topic->A Tundra</li>
-  <li>topic->O Pântano</li>
-  <li>topic->O Mecanoide</li>
-  <li>topic->A Arma</li>
-  <li>topic->Os [Animal]</li>
-  <li>topic->As [Weapon]</li>
-  <li>adj->Secreto</li>
-  <li>adj->Perdido</li>
-  <li>adj->Desconhecido</li>
-  <li>adj->Antigo</li>
-  <li>adj->Novo</li>
-  <li>adj->Verdadeiro</li>
-  <li>adj->Belo</li>
+	<li>desc->Uma história [adj] do [historical_event]. [body].</li>
+	<li>desc->Uma história [adj] da [place]. [body].</li>
+	<li>desc->Uma história em primeira mão da [historical_event]. [body].</li>
+	<li>desc->Uma coleção de ensaios de [historical_person] sobre [topic]. [body].</li>
+	
+	<li>body->O autor era conhecido por defender o [faction] sobre o [faction]</li>
+	<li>body->O livro é muito respeitado em círculos académicos, mas [adj] ao público em geral</li>
+	<li>body->O livro foi proibido em [place] por ser "subversivo"</li>
+	<li>body->Inclui o famoso ensaio [essay_name]</li>
+	<li>body->O livro foi escrito pelo autor depois de fugir da [historical_event]</li>
+	<li>body->O autor foi forçado a [action] e a publicar o livro de forma anónima</li>
+	<li>body->Contém o famoso capítulo em que o [historical_person] [chapter_about]</li>
+	
+	<li>adj->lisonjeira</li>
+	<li>adj->cruel</li>
+	<li>adj->perspicaz</li>
+	<li>adj->completa</li>
+	
+	<li>historical_event->Guerra Civil [Color]</li>
+	<li>historical_event->Batalha de [place]</li>
+	<li>historical_event->Ascensão do [historical_person]</li>
+	<li>historical_event->Queda do [place]</li>
+	
+	<li>faction->Rebeldes [Color]</li>
+	<li>faction->Império</li>
+	<li>faction->Colonos</li>
+	<li>faction->Tribos Ferais</li>
+	
+	<li>topic->o papel das mulheres na guerra</li>
+	<li>topic->a ascensão dos militares</li>
+	<li>topic->a economia de [place]</li>
+	<li>topic->o legado de [historical_person]</li>
+	
+	<li>chapter_about->abandonou o seu primeiro filho</li>
+	<li>chapter_about->cometeu fraude com os seus impostos</li>
+	<li>chapter_about->usou a sua posição para seduzir [PersonName] [surname]</li>
+	<li>chapter_about->teve um colapso e [PersonName] [surname] teve que assumir o controlo</li>
 
-  <li>book_name->[subject] e o [topic]</li>
-  <li>book_name->[subject] e a [topic]</li>
-  <li>book_name->[subject] e os [topic]</li>
-  <li>book_name->[subject] e as [topic]</li>
-  <li>book_name->O [adj] [topic]</li>
-  <li>book_name->A [adj] [topic]</li>
-  <li>book_name->Os [adj] [topic]</li>
-  <li>book_name->As [adj] [topic]</li>
-  <li>book_name->[topic] de [PersonName]</li>
-  <li>book_name->O [topic] de [PersonName]</li>
-  <li>book_name->A [topic] de [PersonName]</li>
-  <li>book_name->[subject] e [subject]</li>
-  <li>book_name->[topic] no [place]</li>
-  <li>book_name->[topic] em [place]</li>
-  <li>book_name->[topic] sobre [topic]</li>
-  <li>subject->A Guerra</li>
-  <li>subject->A Tática</li>
-  <li>subject->A Estratégia</li>
-  <li>subject->O Exército</li>
-  <li>subject->A Batalha</li>
-  <li>subject->O General</li>
-  <li>topic->A Infantaria</li>
-  <li>topic->A Artilharia</li>
-  <li>topic->O Flanco</li>
-  <li>topic->A Defesa</li>
-  <li>topic->O Assalto</li>
-  <li>topic->Os [Concept]</li>
-  <li>topic->As [Weapon]</li>
-  <li>adj->Secreto</li>
-  <li>adj->Perdido</li>
-  <li>adj->Desconhecido</li>
-  <li>adj->Antigo</li>
-  <li>adj->Novo</li>
-  <li>adj->Verdadeiro</li>
-  <li>adj->Belo</li>
+	<li>desc->Um guia prático e [adj] sobre [topic]. [body].</li>
+	<li>desc->Um manual [adj] para [topic]. [body].</li>
+	<li>desc->Um guia de sobrevivência para [topic]. [body].</li>
+	<li>desc->O guia de campo definitivo para [topic]. [body].</li>
+	
+	<li>body->O livro é [adj_binding] e a capa está manchada com [stain]</li>
+	<li>body->O autor era conhecido por defender o [adj] sobre o [adj]</li>
+	<li>body->O livro foi proibido em [place] por ser [reason]</li>
+	<li>body->Inclui o famoso [chapter] em que o autor [chapter_about]</li>
+	<li>body->O livro foi escrito pelo autor depois de [reason_for_writing]</li>
+	<li>body->O autor foi forçado a [action] e a publicar o livro de forma anónima</li>
+	<li>body->É um livro muito útil, e as notas nas margens indicam que o proprietário original o usou extensivamente</li>
+	
+	<li>topic->construção de assentamentos em [biome]</li>
+	<li>topic->criação de animais [animal]</li>
+	<li>topic->reparação de [broken_thing]</li>
+	<li>topic->fabricação de [weapon]</li>
+	
+	<li>adj->simples</li>
+	<li>adj->complexo</li>
+	<li>adj->intuitivo</li>
+	<li>adj->confuso</li>
+	
+	<li>adj_binding->robusto</li>
+	<li>adj_binding->fino</li>
+	
+	<li>stain->óleo</li>
+	<li>stain->sangue</li>
+	<li>stain->barro</li>
+	<li>stain->café</li>
+	
+	<li>broken_thing->mecanoides</li>
+	<li>broken_thing->máquinas de refrigeração</li>
+	<li>broken_thing->armadura motorizada</li>
+	
+	<li>weapon->pistola</li>
+	<li>weapon->rifle de precisão</li>
+	<li>weapon->faca</li>
+	
+	<li>chapter->capítulo</li>
+	<li>chapter->seção</li>
+	<li>chapter->diagrama</li>
+	
+	<li>chapter_about->demonstra como [PersonName] [surname] [failed]</li>
+	<li>chapter_about->explica em profundidade o processo de [Process]</li>
+	
+	<li>Process->purificar água</li>
+	<li>Process->gerar energia</li>
+	<li>Process->filtrar ar</li>
+	
+	<li>reason_for_writing->ser exilado de [place]</li>
+	<li>reason_for_writing->ser despedido do seu trabalho</li>
+	<li>reason_for_writing->sofrer um colapso emocional</li>
+	
+	<li>failed->falhou em [Task]</li>
+	<li>failed->teve sucesso em [Task]</li>
+	
+	<li>Task->construir um abrigo</li>
+	<li>Task->matar um [animal]</li>
+	<li>Task->reparar um [broken_thing]</li>
 
-  <li>book_name->[subject] e o [topic]</li>
-  <li>book_name->[subject] e a [topic]</li>
-  <li>book_name->[subject] e os [topic]</li>
-  <li>book_name->[subject] e as [topic]</li>
-  <li>book_name->O [adj] [topic]</li>
-  <li>book_name->A [adj] [topic]</li>
-  <li>book_name->Os [adj] [topic]</li>
-  <li>book_name->As [adj] [topic]</li>
-  <li>book_name->[topic] de [PersonName]</li>
-  <li>book_name->O [topic] de [PersonName]</li>
-  <li>book_name->A [topic] de [PersonName]</li>
-  <li>book_name->[subject] e [subject]</li>
-  <li>book_name->[topic] no [place]</li>
-  <li>book_name->[topic] em [place]</li>
-  <li>book_name->[topic] sobre [topic]</li>
-  <li>subject->O Herói</li>
-  <li>subject->A Princesa</li>
-  <li>subject->O Ladrão</li>
-  <li>subject->O Soldado</li>
-  <li>subject->O Planeta</li>
-  <li>subject->A Arma</li>
-  <li>topic->O Desespero</li>
-  <li>topic->A Esperança</li>
-  <li>topic->A Guerra</li>
-  <li>topic->A Morte</li>
-  <li>topic->O Amor</li>
-  <li>topic->Os [Concept]</li>
-  <li>topic->Os [Animal]</li>
-  <li>adj->Secreto</li>
-  <li>adj->Perdido</li>
-  <li>adj->Desconhecido</li>
-  <li>adj->Antigo</li>
-  <li>adj->Novo</li>
-  <li>adj->Verdadeiro</li>
-  <li>adj->Belo</li>
+	<li>desc->Um guia [adj] sobre a [warfare_topic]. [body].</li>
+	<li>desc->Uma história [adj] do [historical_event]. [body].</li>
+	<li>desc->A estratégia de batalha [adj] de [general_name]. [body].</li>
+	
+	<li>body->O autor era conhecido por defender a [warfare_strategy] sobre a [warfare_strategy]</li>
+	<li>body->O livro é muito respeitado em círculos militares, mas [adj_appeal] ao público em geral</li>
+	<li>body->O livro foi proibido em [place] por ser "subversivo"</li>
+	<li>body->Inclui o famoso ensaio [essay_name]</li>
+	<li>body->O livro foi escrito pelo autor depois de fugir da [historical_event]</li>
+	<li>body->O autor foi forçado a [action] e a publicar o livro de forma anónima</li>
+	<li>body->Contém o famoso capítulo em que o [general] [chapter_about]</li>
+	
+	<li>adj->lisonjeiro</li>
+	<li>adj->cruel</li>
+	<li>adj->perspicaz</li>
+	<li>adj->completo</li>
+	
+	<li>warfare_topic->guerra em [biome]</li>
+	<li>warfare_topic->guerra de assédio</li>
+	<li>warfare_topic->combate de infantaria</li>
+	<li>warfare_topic->guerra de guerrilha</li>
+	
+	<li>historical_event->Guerra Civil [Color]</li>
+	<li>historical_event->Batalha de [place]</li>
+	<li>historical_event->Ascensão do [general]</li>
+	<li>historical_event->Queda do [place]</li>
+	
+	<li>warfare_strategy->ataque frontal</li>
+	<li>warfare_strategy->manobra de flanco</li>
+	<li>warfare_strategy->guerra de atrito</li>
+	<li>warfare_strategy->guerra de cerco</li>
+	
+	<li>adj_appeal->desinteressante</li>
+	<li>adj_appeal->atraente</li>
+	<li>adj_appeal->chato</li>
+	
+	<li>general->general</li>
+	<li>general->marechal de campo</li>
+	<li>general->comandante</li>
+	
+	<li>general_name->[PersonName] [surname]</li>
+	
+	<li>chapter_about->abandonou o seu primeiro filho</li>
+	<li>chapter_about->cometeu fraude com os seus impostos</li>
+	<li>chapter_about->usou a sua posição para seduzir [PersonName] [surname]</li>
+	<li>chapter_about->teve um colapso e [PersonName] [surname] teve que assumir o controlo</li>
 
-  <li>book_name->[subject] e o [topic]</li>
-  <li>book_name->[subject] e a [topic]</li>
-  <li>book_name->[subject] e os [topic]</li>
-  <li>book_name->[subject] e as [topic]</li>
-  <li>book_name->O [adj] [topic]</li>
-  <li>book_name->A [adj] [topic]</li>
-  <li>book_name->Os [adj] [topic]</li>
-  <li>book_name->As [adj] [topic]</li>
-  <li>book_name->[topic] de [PersonName]</li>
-  <li>book_name->O [topic] de [PersonName]</li>
-  <li>book_name->A [topic] de [PersonName]</li>
-  <li>book_name->[subject] e [subject]</li>
-  <li>book_name->[topic] no [place]</li>
-  <li>book_name->[topic] em [place]</li>
-  <li>book_name->[topic] sobre [topic]</li>
-  <li>subject->O Coração</li>
-  <li>subject->A Alma</li>
-  <li>subject->A Lagrima</li>
-  <li>subject->A Canção</li>
-  <li>subject->O Poema</li>
-  <li>subject->O Pensamento</li>
-  <li>topic->O Amor</li>
-  <li>topic->A Tristeza</li>
-  <li>topic->A Perda</li>
-  <li>topic->A Esperança</li>
-  <li>topic->O Desejo</li>
-  <li>topic->Os [Concept]</li>
-  <li>topic->Os [Emotion]</li>
-  <li>adj->Secreto</li>
-  <li>adj->Perdido</li>
-  <li>adj->Desconhecido</li>
-  <li>adj->Antigo</li>
-  <li>adj->Novo</li>
-  <li>adj->Verdadeiro</li>
-  <li>adj->Belo</li>
+	<li>desc->Um [adj_novel] romance de [PersonName] [surname]. [body].</li>
+	<li>desc->O [novel_type] que abalou [place] aquando da sua publicação. [body].</li>
+	<li>desc->Uma peça de ficção que documenta os [adventures] de [PersonName] [surname]. [body].</li>
+	
+	<li>body->Os críticos [critic_reaction] do seu [adj] uso da linguagem</li>
+	<li>body->Apesar de ser tecnicamente ficção, é claramente sobre [historical_person]</li>
+	<li>body->O livro é um clássico de culto no seu mundo de origem e foi adaptado para [adaptation]</li>
+	<li>body->O livro foi proibido em vários [place_type] por ser [reason]</li>
+	<li>body->O autor foi forçado a [action] depois de ser criticado pela sua obra</li>
+	<li>body->É um livro [adj] com um final [ending]</li>
+	<li>body->O livro é o primeiro de uma série de [number] volumes</li>
+	
+	<li>adj_novel->elegante</li>
+	<li>adj_novel->desajeitado</li>
+	<li>adj_novel->brilhante</li>
+	<li>adj_novel->tolo</li>
 
-  <li>book_name->[subject] e o [topic]</li>
-  <li>book_name->[subject] e a [topic]</li>
-  <li>book_name->[subject] e os [topic]</li>
-  <li>book_name->[subject] e as [topic]</li>
-  <li>book_name->O [adj] [topic]</li>
-  <li>book_name->A [adj] [topic]</li>
-  <li>book_name->Os [adj] [topic]</li>
-  <li>book_name->As [adj] [topic]</li>
-  <li>book_name->[topic] de [PersonName]</li>
-  <li>book_name->O [topic] de [PersonName]</li>
-  <li>book_name->A [topic] de [PersonName]</li>
-  <li>book_name->[subject] e [subject]</li>
-  <li>book_name->[topic] no [place]</li>
-  <li>book_name->[topic] em [place]</li>
-  <li>book_name->[topic] sobre [topic]</li>
-  <li>subject->A Ciência</li>
-  <li>subject->A Matemática</li>
-  <li>subject->A Física</li>
-  <li>subject->A Química</li>
-  <li>subject->O Laboratório</li>
-  <li>subject->A Biologia</li>
-  <li>topic->O Universo</li>
-  <li>topic->O Tempo</li>
-  <li>topic->O Espaço</li>
-  <li>topic->A Energia</li>
-  <li>topic->O Mecanoide</li>
-  <li>topic->Os [Organism]</li>
-  <li>topic->Os [Concept]</li>
-  <li>adj->Secreto</li>
-  <li>adj->Perdido</li>
-  <li>adj->Desconhecido</li>
-  <li>adj->Antigo</li>
-  <li>adj->Novo</li>
-  <li>adj->Verdadeiro</li>
-  <li>adj->Belo</li>
-</LanguageData>
+	<li>desc->Uma coleção de poesia [adj] por [PersonName] [surname]. [body].</li>
+	<li>desc->Uma obra poética [adj] que abalou [place] aquando da sua publicação. [body].</li>
+	<li>desc->Os poemas de [PersonName] [surname], repletos de [emotion]. [body].</li>
+	
+	<li>body->Os críticos [critic_reaction] do seu [adj] uso da linguagem</li>
+	<li>body->O autor era conhecido por defender o [adj] sobre o [adj]</li>
+	<li>body->O livro é um clássico de culto no seu mundo de origem e foi adaptado para [adaptation]</li>
+	<li>body->O livro foi proibido em vários [place_type] por ser [reason]</li>
+	<li>body->O autor foi forçado a [action] depois de ser criticado pela sua obra</li>
+	<li>body->É um livro [adj] com um final [ending]</li>
+	
+	<li>adj->elegante</li>
+	<li>adj->desajeitado</li>
+	<li>adj->brilhante</li>
+	<li>adj->tolo</li>
+	
+	<li>emotion->melancolia</li>
+	<li>emotion->alegria</li>
+	<li>emotion->tristeza</li>
+	<li>emotion->amor</li>
+
+	<li>desc->Uma investigação de [topic]. [body].</li>
+	<li>desc->Uma peça seminal sobre [topic]. [body].</li>
+	<li>desc->Uma análise detalhada de [topic]. [body].</li>
+	<li>desc->Um ensaio sobre [topic]. [body].</li>
+	<li>desc->Um trabalho dedicado ao estudo de [topic]. [body].</li>
+	
+	<li>body->O trabalho é conhecido pela sua clareza e argumentação persuasiva</li>
+	<li>body->Alguns críticos referem que o seu [style] é um pouco [adj], mas o conteúdo é inegável</li>
+	<li>body->Apesar de muito criticado pela comunidade académica, vendeu bem ao público em geral</li>
+	<li>body->Tornou-se um texto de referência em muitos cursos universitários</li>
+	<li>body->O [style] do autor é tão [adj] quanto o tópico que está a abordar</li>
+	<li>body->O autor [wrote] este livro depois de ser exilado de [place]</li>
+	<li>body->O autor [wrote] este livro para se opor à [movement]</li>
+	<li>body->A natureza [adj] e [adj] da sua prosa [made] o livro um dos mais populares da [era]</li>
+	<li>body->Contém alguns dos raciocínios mais [adj] sobre [topic] jamais reunidos</li>
+	
+	<li>topic->teoria de mecânica</li>
+	<li>topic->estrutura do planeta</li>
+	<li>topic->a relação da matemática com [topic_sub]</li>
+	<li>topic->o papel de [organism] em [biome]</li>
+	<li>topic->o conceito de viagem FTL</li>
+	<li>topic->as raízes do vírus mecânico</li>
+	<li>topic->o que define a tecnologia de brilho</li>
+	<li>topic->o legado de [historical_person]</li>
+	<li>topic->o efeito de [effect] sobre o corpo humano</li>
+	
+	<li>topic_sub->o espaço</li>
+	<li>topic_sub->o tempo</li>
+	<li>topic_sub->a relatividade</li>
+	<li>topic_sub->o [person_of_power]</li>
+	
+	<li>organism->planta</li>
+	<li>organism->animal</li>
+	<li>organism->vírus</li>
+	<li>organism->fungo</li>
+	
+	</LanguageData>
