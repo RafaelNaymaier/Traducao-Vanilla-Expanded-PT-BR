@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Electricity.discoveredLetterText>Sua colônia aproveitou o poder que os forasteiros chamam de "eletricidade". Tem o potencial de transformar todos os aspectos do modo de vida de seu povo.
+
+Você desbloqueou a aba Energia no menu Arquiteto, onde pode construir geradores elétricos, condutores de energia e outros mecanismos para controlar essa nova força. A aba Energia também exibe a rede elétrica que conecta geradores e aparelhos elétricos.</Electricity.discoveredLetterText>
+  <Electricity.generalRules.rulesStrings>
+    <li>subject->eletricidade</li>
+    <li>subject_story->foi atingido por um raio e se determinou a aproveitá-lo</li>
+    <li>subject_story->criou o primeiro gerador e lâmpada em um mundo medieval</li>
+    <li>subject_story->foi executado em um mundo feudal pela blasfêmia de criar luz</li>
+    <li>subject_gerund->aproveitando a eletricidade</li>
+  </Electricity.generalRules.rulesStrings>
+
+  <Batteries.generalRules.rulesStrings>
+    <li>subject->baterias</li>
+    <li>subject_story->descobriu que um lago ácido nas margens de chumbo de um mundo da morte funcionava como uma bateria natural</li>
+    <li>subject_story->era responsável por manter o suporte de vida se a colônia perdesse energia</li>
+    <li>subject_story->trabalhou nos mundos de sucata, reparando máquinas e baterias</li>
+    <li>subject_gerund->construindo baterias</li>
+  </Batteries.generalRules.rulesStrings>
+
+  <BiofuelRefining.generalRules.rulesStrings>
+    <li>subject->biocombustível</li>
+    <li>subject_story->ficou preso quando uma nave de geração perdeu energia. [ANYPAWN_pronoun] usou o conhecimento de refinamento de [ANYPAWN_possessive] para transformar restos humanos em biocombustível e reiniciar os motores</li>
+    <li>subject_story->usou biorrefinarias automatizadas para iniciar o longo processo de terraformação em um mundo de gelo</li>
+    <li>subject_story->abriu uma destilaria para fazer moonshine, mas, percebendo que era intragável, vendeu como quimiocombustível em vez disso</li>
+    <li>subject_gerund->refinando biocombustível</li>
+  </BiofuelRefining.generalRules.rulesStrings>
+  <WatermillGenerator.generalRules.rulesStrings>
+    <li>subject->geradores de moinho d'água</li>
+    <li>subject_story->observou gravetos e folhas serem arrastados pela correnteza e imaginou o poder ali</li>
+    <li>subject_story->conectou cabos a um antigo moinho de farinha em um mundo feudal</li>
+    <li>subject_story->encalhou um barco a vapor de pás nas margens de um mundo em ruínas e o converteu em um moinho d'água</li>
+    <li>subject_gerund->construindo geradores de moinho d'água</li>
+  </WatermillGenerator.generalRules.rulesStrings>
+
+  <NutrientPaste.generalRules.rulesStrings>
+    <li>subject->pasta nutritiva</li>
+    <li>subject_story->trabalhou em uma cantina de fábrica e elaborou a pasta nutritiva como uma forma de evitar todo o trabalho</li>
+    <li>subject_story->perdeu o paladar de [ANYPAWN_possessive] olfato devido a uma doença, então elaborou uma pasta nutritiva barata e sem sabor</li>
+    <li>subject_story->defendeu a reciclagem de toda a matéria orgânica em pasta nutritiva, até mesmo cadáveres</li>
+    <li>subject_gerund->construindo dispensadores de pasta nutritiva</li>
+  </NutrientPaste.generalRules.rulesStrings>
+
+  <SolarPanels.generalRules.rulesStrings>
+    <li>subject->painéis solares</li>
+    <li>subject->energia solar</li>
+    <li>subject_story->estabeleceu uma fazenda solar de multi-espectro</li>
+    <li>subject_story->estudou maneiras de maximizar a porcentagem de energia solar capturada</li>
+    <li>subject_story->partiu em um "sundiver" para ver uma passagem de perto da fotosfera de uma estrela</li>
+    <li>subject_gerund->construindo painéis solares</li>
+  </SolarPanels.generalRules.rulesStrings>
+
+  <AirConditioning.generalRules.rulesStrings>
+    <li>subject->ar condicionado</li>
+    <li>subject_story->visitou a cidade mais quente do planeta</li>
+    <li>subject_story->trabalhou nas calotas de gelo, em um armazém interestelar mantido perto do zero absoluto</li>
+    <li>subject_story->aprendeu tudo sobre ar condicionado e freezers, depois voltou para casa</li>
+    <li>subject_gerund->construindo unidades de ar condicionado</li>
+  </AirConditioning.generalRules.rulesStrings>
+
+  <Autodoors.generalRules.rulesStrings>
+    <li>subject->portas automáticas</li>
+    <li>subject->portas automáticas</li>
+    <li>subject_story->foi recrutado por uma empresa de segurança robótica, abrindo a porta para uma carreira como testador de automação</li>
+    <li>subject_story->prototipou modelos únicos de portas automáticas</li>
+    <li>subject_story->trabalhou muito para garantir que as portas fizessem um 'chiado' satisfatório ao abrir ou fechar</li>
+    <li>subject_gerund->construindo portas automáticas</li>
+  </Autodoors.generalRules.rulesStrings>
+
+  <Hydroponics.generalRules.rulesStrings>
+    <li>subject->hidroponia</li>
+    <li>subject_story->juntou-se a uma tripulação de nave geracional como especialista em colheitas</li>
+    <li>subject_story->estabeleceu uma instalação hidropônica para alimentar os famintos</li>
+    <li>subject_story->viajou ensinando o cultivo artificial de plantas a novos colonos</li>
+    <li>subject_gerund->construindo hidroponia</li>
+    <li>subject_gerund->cultivando plantas em ambientes fechados</li>
+  </Hydroponics.generalRules.rulesStrings>
+
+  <TubeTelevision.generalRules.rulesStrings>
+    <li>subject->televisores de tubo</li>
+    <li>subject_story->projetou um televisor faux-retrô que podia captar sinais interestelares</li>
+    <li>subject_story->migrou para a radiodifusão, produzindo programas apenas para os arcaicos televisores de tubo</li>
+    <li>subject_story->garantiu que todos soubessem os perigos dos tubos de raios catódicos</li>
+    <li>subject_gerund->produzindo televisores de tubo</li>
+  </TubeTelevision.generalRules.rulesStrings>
+
+  <PackagedSurvivalMeal.generalRules.rulesStrings>
+    <li>subject->refeições de sobrevivência embaladas</li>
+    <li>subject->alimentos não perecíveis</li>
+    <li>subject_story->sabia, quando o desastre atingisse, que havia refeições embaladas suficientes para sobreviver até a chegada dos socorristas</li>
+    <li>subject_story->estabeleceu uma cozinha social, que doava refeições de sobrevivência para todas as embarcações de saída</li>
+    <li>subject_story->descobriu refeições de sobrevivência nas montanhas que tinham centenas de anos</li>
+    <li>subject_gerund->preparando refeições de sobrevivência</li>
+  </PackagedSurvivalMeal.generalRules.rulesStrings>
+
+  <Firefoam.generalRules.rulesStrings>
+    <li>subject->lançadores de espuma anti-fogo</li>
+    <li>subject->dispositivos de segurança contra incêndio</li>
+    <li>subject_story->liderou uma agência que promulgava a segurança contra incêndio para toda a população</li>
+    <li>subject_story->tornou-se bombeiro</li>
+    <li>subject_story->foi salvo pelos lançadores quando um incêndio de óleo saiu do controle</li>
+    <li>subject_gerund->construindo lançadores de espuma anti-fogo</li>
+    <li>subject_gerund->suprimindo incêndios com lançadores</li>
+  </Firefoam.generalRules.rulesStrings>
+
+  <IEDs.generalRules.rulesStrings>
+    <li>subject->armadilhas explosivas improvisadas</li>
+    <li>subject_story->desarmou os projéteis restantes da guerra, enviando-os para a nova linha de frente como minas</li>
+    <li>subject_story->ficou sob fogo de morteiro, sobrevivendo apenas ao criar armadilhas a partir dos muitos projéteis inimigos falhados</li>
+    <li>subject_story->defendeu os direitos de pequenos assentamentos, onde munições não detonadas eram um perigo constante</li>
+    <li>subject_gerund->criando armadilhas explosivas improvisadas</li>
+  </IEDs.generalRules.rulesStrings>
+
+  <GeothermalPower.generalRules.rulesStrings>
+    <li>subject->energia geotérmica</li>
+    <li>subject_story->estudou energia a vapor e estabeleceu usinas geotérmicas em toda a região</li>
+    <li>subject_story->aproveitou o poder de um vulcão adormecido para alimentar a rede local</li>
+    <li>subject_story->discutiu com a população local que queria preservar os gêiseres cênicos, em vez de usá-los para energia</li>
+    <li>subject_gerund->aproveitando energia geotérmica</li>
+    <li>subject_gerund->construindo usinas geotérmicas</li>
+  </GeothermalPower.generalRules.rulesStrings>
+
+  <SterileMaterials.generalRules.rulesStrings>
+    <li>subject->superfícies estéreis</li>
+    <li>subject_story->evitou muitas mortes insistindo na esterilização eficaz e consistente de todos os equipamentos</li>
+    <li>subject_story->iniciou uma cozinha de ração que, unicamente para o sistema, era conhecida por ser livre de intoxicação alimentar</li>
+    <li>subject_story->estabeleceu uma fábrica de azulejos decorativos, com uma linha lateral em equipamentos médicos e azulejos estéreis</li>
+    <li>subject_gerund->esterilizando superfícies</li>
+    <li>subject_gerund->construindo superfícies esterilizadas</li>
+  </SterileMaterials.generalRules.rulesStrings>
+
+  <ColoredLights.generalRules.rulesStrings>
+    <li>subject->iluminação avançada</li>
+    <li>subject_story->instalou holofotes em torno dos muitos perímetros de segurança do mundo-prisão</li>
+    <li>subject_story->garantiu que o lado escuro do planeta estivesse bem iluminado</li>
+    <li>subject_story->migrou para a realização de concertos para trovadores interestelares, especializando-se em controlar os enormes equipamentos de iluminação da nave</li>
+    <li>subject_gerund->construindo luzes avançadas</li>
+  </ColoredLights.generalRules.rulesStrings>
+
+  <Machining.generalRules.rulesStrings>
+    <li>subject->usinagem</li>
+    <li>subject_story->reuniu os restos de mecanoides mortos e os triturou para obter recursos</li>
+    <li>subject_story->construiu silenciosamente um arsenal de armas feitas por conta própria no porão de uma casa suburbana</li>
+    <li>subject_story->construiu mesas de usinagem para muitos armeiros, apesar de ser um pacifista</li>
+    <li>subject_gerund->construindo equipamento de usinagem</li>
+    <li>subject_gerund->usinando</li>
+  </Machining.generalRules.rulesStrings>
+
+  <SmokepopBelt.generalRules.rulesStrings>
+    <li>subject->cortina de fumaça</li>
+    <li>subject_story->trabalhou como transportador para bandas, usando 'smokepops' para efeitos especiais</li>
+    <li>subject_story->estabeleceu um perímetro defensivo de 'smokepop' em torno das cidades locais, para manter a vida selvagem afastada</li>
+    <li>subject_story->usou pacotes de 'smokepop' para treinar novos bombeiros, sem o perigo de fogo real</li>
+    <li>subject_gerund->construindo pacotes de 'smokepop'</li>
+    <li>subject_gerund->implantando cortinas de fumaça</li>
+  </SmokepopBelt.generalRules.rulesStrings>
+
+  <Prosthetics.generalRules.rulesStrings>
+    <li>subject->próteses</li>
+    <li>subject_story->teve um membro substituído por uma prótese, para mostrar como era fácil</li>
+    <li>subject_story->abriu uma clínica de próteses</li>
+    <li>subject_story->começou a criar membros falsos sob medida para os muitos veteranos de guerra na área</li>
+    <li>subject_gerund->criando próteses</li>
+  </Prosthetics.generalRules.rulesStrings>
+
+  <Gunsmithing.generalRules.rulesStrings>
+    <li>subject->armas de fogo simples</li>
+    <li>subject_story->construiu um revólver único de 12 tiros e venceu tiroteio após tiroteio</li>
+    <li>subject_story->especializou-se em armaria simples, fornecendo espingardas e rifles para caçadores</li>
+    <li>subject_story->estabeleceu-se como armeiro, alcançando fama em todo o setor</li>
+    <li>subject_gerund->armaria</li>
+    <li>subject_gerund->criando armas de fogo</li>
+  </Gunsmithing.generalRules.rulesStrings>
+
+  <FlakArmor.generalRules.rulesStrings>
+    <li>subject->armadura antiaérea</li>
+    <li>subject_story->forneceu armadura antiaérea para as milícias que administravam as cidades</li>
+    <li>subject_story->aprendeu a costurar placas de metal nas roupas, para proteger a família das gangues itinerantes</li>
+    <li>subject_story->sobreviveu a uma bala de rifle graças à placa de metal costurada no bolso do peito</li>
+    <li>subject_gerund->criando armadura antiaérea</li>
+  </FlakArmor.generalRules.rulesStrings>
+
+  <Mortars.generalRules.rulesStrings>
+    <li>subject->artilharia</li>
+    <li>subject->morteiros</li>
+    <li>subject_story->foi fundamental no cerco à estufa que derrubou o conselho da cidade</li>
+    <li>subject_story->desenvolveu um tubo de morteiro dobrável e leve para a polícia local</li>
+    <li>subject_story->demoliu os muitos edifícios abandonados à distância, com projéteis explosivos</li>
+    <li>subject_gerund->criando morteiros</li>
+    <li>subject_gerund->construindo artilharia simples</li>
+  </Mortars.generalRules.rulesStrings>
+
+  <BlowbackOperation.generalRules.rulesStrings>
+    <li>subject->pistolas</li>
+    <li>subject->armas de fogo 'blowback'</li>
+    <li>subject_story->utilizou pistolas-máquina no combate de trincheiras que dominou o planeta</li>
+    <li>subject_story->vendeu autopistolas de baixa potência para as forças de aplicação da lei nas orbitais</li>
+    <li>subject_story->criou armas operadas por 'blowback' para recrutas com miopia</li>
+    <li>subject_gerund->criando armas de fogo 'blowback'</li>
+  </BlowbackOperation.generalRules.rulesStrings>
+
+  <GasOperation.generalRules.rulesStrings>
+    <li>subject->armamento pesado</li>
+    <li>subject->armas de fogo de alta potência</li>
+    <li>subject_story->equipou os esquadrões de armas especiais da guarda do tirano com metralhadoras leves</li>
+    <li>subject_story->forneceu a vários exércitos planetários armas de fogo pesadas</li>
+    <li>subject_story->projetou novos tipos de armas de alta potência, ainda conhecidas hoje</li>
+    <li>subject_gerund->criando armas de fogo pesadas</li>
+  </GasOperation.generalRules.rulesStrings>
+
+  <GunTurrets.generalRules.rulesStrings>
+    <li>subject->torretas de tiro</li>
+  </GunTurrets.generalRules.rulesStrings>
+
+  <li>subject_story->trabalhou em rotinas de IA, para permitir que as torres de artilharia identifiquem amigos e inimigos</li>
+  <li>subject_story->projetou um coldre modular para torre de artilharia, capaz de receber qualquer tipo de arma</li>
+  <li>subject_story->desativou remotamente as torres do inimigo, antes de liderar o ataque</li>
+  <li>subject_gerund->construindo torres de artilharia automatizadas</li>
+
+  <li>subject->torres de espuma</li>
+  <li>subject->torres de supressão de incêndio</li>
+  <li>subject_story->redesenhou as torres de artilharia para apagar incêndios, e não para criá-los</li>
+  <li>subject_story->incorporou sensores de calor e ejetores de espuma em um chassi de torre padrão</li>
+  <li>subject_story->foi elogiado depois de instalar torres de espuma baratas em áreas públicas e salvar muitas vidas</li>
+  <li>subject_gerund->construindo torres de supressão de incêndio</li>
+  <li>subject_gerund->suprimindo incêndios com torres</li>
+
+</LanguageData>

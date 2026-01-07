@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Biosculpting.generalRules.rulesStrings>
+    <li>subject->bioescultura</li>
+    <li>subject_story->construiu cápsulas de bioescultor sob contrato para várias colônias</li>
+    <li>subject_story->estudou preceitos transumanistas, incluindo a necessidade de bioescultura</li>
+    <li>subject_story->pesquisou quais alterações biológicas poderiam ser feitas com segurança</li>
+    <li>subject_story->escapou de uma fazenda de suporte de mundo de brilho com estes planos</li>
+    <li>subject_story->foi recebido em uma colônia transumanista</li>
+    <li>subject_gerund->construindo cápsulas de bioescultor</li>
+    <li>subject_gerund->esculpindo a forma humana</li>
+  </Biosculpting.generalRules.rulesStrings>
+
+  <Bioregeneration.generalRules.rulesStrings>
+    <li>subject->biorregeneração</li>
+    <li>subject_story->estudou a regeneração de galhada de Boomalope em busca de paralelos com a regeneração humana</li>
+    <li>subject_story->emendou dados genéticos de salamandra no próprio corpo de [ANYPAWN_possessive]</li>
+    <li>subject_story->treinou em um hospital de Mundo de Brilho</li>
+    <li>subject_story->completou um curso por correspondência em estética de Mundo de Brilho</li>
+    <li>subject_gerund->regenerando a forma humana</li>
+    <li>subject_gerund->ativando a regeneração com bioescultores</li>
+  </Bioregeneration.generalRules.rulesStrings>
+
+  <NeuralSupercharger.generalRules.rulesStrings>
+    <li>subject->supercarregadores neurais</li>
+    <li>subject_story->implementou supercarregadores neurais no internato de [ANYPAWN_possessive]</li>
+    <li>subject_story->supercarregou os neurônios de clones de fazenda para acelerar massivamente seu desenvolvimento</li>
+    <li>subject_story->tentou banir o supercarregamento neural no curso universitário que [ANYPAWN_pronoun] lecionava</li>
+    <li>subject_story->juntou-se a uma seita transumanista onde o supercarregamento neural era obrigatório</li>
+    <li>subject_gerund->supercarregando o intelecto de um humano</li>
+  </NeuralSupercharger.generalRules.rulesStrings>
+  <NeuralSupercharger.generalRules.rulesStrings>
+    <li>subject_gerund->construindo supercarregadores neurais</li>
+  </NeuralSupercharger.generalRules.rulesStrings>
+
+  <ToxifierGenerator.generalRules.rulesStrings>
+    <li>subject->gerador de toxificador</li>
+    <li>subject_story->liderou uma equipe de limpeza em um planetoide tóxico</li>
+    <li>subject_story->aprendeu sobre toxificadores no profundo poço de um arranha-céu</li>
+    <li>subject_story->pesquisou fontes de energia baratas e sujas para uma corporação urbana</li>
+    <li>subject_gerund->construindo geradores de toxificador</li>
+  </ToxifierGenerator.generalRules.rulesStrings>
+
+  <Xenogermination.generalRules.rulesStrings>
+    <li>subject->xenogerminação</li>
+    <li>subject->implantação genética</li>
+    <li>subject_story->foi elevado por uma caridade de mundo de brilho que se concentrava em desfavorecidos geneticamente</li>
+    <li>subject_story->teve [ANYPAWN_possessive] genes roubados por um biólogo desonesto</li>
+    <li>subject_story->dirigiu uma clínica de transferência genética para a elite de mundo de brilho</li>
+    <li>subject_gerund->criando xenogermes</li>
+  </Xenogermination.generalRules.rulesStrings>
+
+  <GeneProcessor.generalRules.rulesStrings>
+    <li>subject->processadores de genes</li>
+    <li>subject_story->extraiu genes de Mundo de Brilho de um destroço à deriva</li>
+    <li>subject_story->processou uma vila inteira para criar um conjunto de genes superiores</li>
+    <li>subject_story->iniciou o lento processo de elevação implantando xenogermes em uma tribo primitiva</li>
+    <li>subject_gerund->construindo processadores de genes</li>
+    <li>subject_gerund->processando genes</li>
+  </GeneProcessor.generalRules.rulesStrings>
+
+  <Archogenetics.generalRules.rulesStrings>
+    <li>subject->arquigenética</li>
+    <li>subject_story->escavou genes de arquita da lua transcendente de Ix</li>
+    <li>subject_story->ganhou a vida como um bom comerciante de genes de arquita</li>
+    <li>subject_story->liderou uma expedição de pesquisa a um monólito antigo e voltou transformado</li>
+    <li>subject_gerund->montando genes de arquita</li>
+    <li>subject_gerund->criando genes aparentemente impossíveis</li>
+  </Archogenetics.generalRules.rulesStrings>
+
+  <Deathrest.generalRules.rulesStrings>
+    <li>subject->descanso da morte</li>
+    <li>subject_story->dissecou cadáveres de um templo de descanso da morte, finalmente entendendo como funcionava</li>
+    <li>subject_story->entrevistou uma celebridade que parecia nunca envelhecer, eventualmente aprendendo seus segredos</li>
+    <li>subject_story->tentou replicar a tecnologia e caiu em coma, apenas para acordar semanas depois</li>
+    <li>subject_gerund->construindo instalações de descanso da morte</li>
+    <li>subject_gerund->melhorando o descanso da morte</li>
+  </Deathrest.generalRules.rulesStrings>
+
+  <FertilityProcedures.generalRules.rulesStrings>
+    <li>subject->procedimentos de fertilidade</li>
+    <li>subject_story->ajudou famílias nos mundos centrais a realizarem o sonho da paternidade com embriões de proveta</li>
+    <li>subject_story->salvou o raro rato-boi-callopian da extinção com perigosas técnicas de fertilização manual</li>
+    <li>subject_story->resolveu a crise populacional em um mundo urbano com intervenções de fertilidade e cubas de crescimento</li>
+    <li>subject_gerund->alterando a fertilidade humana</li>
+    <li>subject_gerund->melhorando ou bloqueando a fertilidade humana</li>
+  </FertilityProcedures.generalRules.rulesStrings>
+
+  <ToxGas.generalRules.rulesStrings>
+    <li>subject->armamento a gás</li>
+    <li>subject->guerra química</li>
+    <li>subject_story->sonhou com uma arma para acabar com todas as guerras</li>
+    <li>subject_story->pulou as aulas de ética para praticar química extra</li>
+    <li>subject_story->pesquisou tecnologia de controle de nuvens para a tiranocracia de um mundo da morte</li>
+    <li>subject_gerund->criando armas de gás tóxico</li>
+  </ToxGas.generalRules.rulesStrings>
+
+  <ToxFiltration.generalRules.rulesStrings>
+    <li>subject->filtração de toxinas</li>
+    <li>subject->metabolização de toxinas</li>
+    <li>subject_story->ajudou sobreviventes de combate de mundo militar a respirar novamente</li>
+    <li>subject_story->pulou as aulas práticas de química para aulas extras de ética</li>
+    <li>subject_story->juntou-se a uma corporação de mineração como especialista em filtração</li>
+    <li>subject_gerund->metabolizando toxinas</li>
+    <li>subject_gerund->criando órgãos antitoxinas</li>
+  </ToxFiltration.generalRules.rulesStrings>
+
+  <GrowthVats.generalRules.rulesStrings>
+    <li>subject->gestação avançada</li>
+    <li>subject->úteros artificiais</li>
+    <li>subject_story->dirigiu uma instalação de clonagem para fornecer servos para os mundos centrais</li>
+    <li>subject_story->criou um novo exército para uma junta de mundo de guerra</li>
+    <li>subject_story->ajudou famílias de todas as origens a terem filhos</li>
+    <li>subject_gerund->gestando embriões em úteros artificiais</li>
+    <li>subject_gerund->acelerando o crescimento humano</li>
+    <li>subject_gerund->construindo cubas de crescimento</li>
+  </GrowthVats.generalRules.rulesStrings>
+
+</LanguageData>

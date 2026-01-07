@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <li>book_name->[subject] e o [topic]</li>
+  <li>book_name->[subject] e a [topic]</li>
+  <li>book_name->[subject] e os [topic]</li>
+  <li>book_name->[subject] e as [topic]</li>
+  <li>book_name->O [adj] [topic]</li>
+  <li>book_name->A [adj] [topic]</li>
+  <li>book_name->Os [adj] [topic]</li>
+  <li>book_name->As [adj] [topic]</li>
+  <li>book_name->[topic] de [PersonName]</li>
+  <li>book_name->O [topic] de [PersonName]</li>
+  <li>book_name->A [topic] de [PersonName]</li>
+  <li>book_name->[subject] e [subject]</li>
+  <li>book_name->[topic] no [place]</li>
+  <li>book_name->[topic] em [place]</li>
+  <li>book_name->[topic] sobre [topic]</li>
+  <li>subject->A Mente</li>
+  <li>subject->O Corpo</li>
+  <li>subject->A Alma</li>
+  <li>subject->A Filosofia</li>
+  <li>subject->O Pensamento</li>
+  <li>subject->A Crença</li>
+  <li>topic->O Indivíduo</li>
+  <li>topic->O Estado</li>
+  <li>topic->A Lei</li>
+  <li>topic->A Virtude</li>
+  <li>topic->A Moralidade</li>
+  <li>topic->A Política</li>
+  <li>topic->Os [PersonJob]</li>
+  <li>topic->Os [Concept]</li>
+  <li>adj->Secreto</li>
+  <li>adj->Perdido</li>
+  <li>adj->Desconhecido</li>
+  <li>adj->Antigo</li>
+  <li>adj->Novo</li>
+  <li>adj->Verdadeiro</li>
+  <li>adj->Belo</li>
+
+  <li>book_name->[subject] e o [topic]</li>
+  <li>book_name->[subject] e a [topic]</li>
+  <li>book_name->[subject] e os [topic]</li>
+  <li>book_name->[subject] e as [topic]</li>
+  <li>book_name->O [adj] [topic]</li>
+  <li>book_name->A [adj] [topic]</li>
+  <li>book_name->Os [adj] [topic]</li>
+  <li>book_name->As [adj] [topic]</li>
+  <li>book_name->[topic] de [PersonName]</li>
+  <li>book_name->O [topic] de [PersonName]</li>
+  <li>book_name->A [topic] de [PersonName]</li>
+  <li>book_name->[subject] e [subject]</li>
+  <li>book_name->[topic] no [place]</li>
+  <li>book_name->[topic] em [place]</li>
+  <li>book_name->[topic] sobre [topic]</li>
+  <li>subject->A Pintura</li>
+  <li>subject->A Escultura</li>
+  <li>subject->A Música</li>
+  <li>subject->A Arquitetura</li>
+  <li>subject->O Estilo</li>
+  <li>subject->A Expressão</li>
+  <li>topic->O [Artform]</li>
+  <li>topic->O Belo</li>
+  <li>topic->A Verdade</li>
+  <li>topic->A Cor</li>
+  <li>topic->A Forma</li>
+  <li>topic->Os Desenhos</li>
+  <li>adj->Secreto</li>
+  <li>adj->Perdido</li>
+  <li>adj->Desconhecido</li>
+  <li>adj->Antigo</li>
+  <li>adj->Novo</li>
+  <li>adj->Verdadeiro</li>
+  <li>adj->Belo</li>
+
+  <li>book_name->[PersonName] e o [topic]</li>
+  <li>book_name->[PersonName] e a [topic]</li>
+  <li>book_name->[PersonName] e os [topic]</li>
+  <li>book_name->[PersonName] e as [topic]</li>
+  <li>book_name->O [adj] [topic] de [PersonName]</li>
+  <li>book_name->A [adj] [topic] de [PersonName]</li>
+  <li>book_name->[topic] de [PersonName]</li>
+  <li>book_name->A Ascensão e Queda de [PersonName]</li>
+  <li>book_name->O Diário de [PersonName]</li>
+  <li>book_name->[PersonName], O [PersonJob]</li>
+  <li>book_name->[PersonName], O [adj] [PersonJob]</li>
+  <li>topic->A História</li>
+  <li>topic->A Lenda</li>
+  <li>topic->O Legado</li>
+  <li>topic->O Conflito</li>
+  <li>topic->A Morte</li>
+  <li>topic->A Vida</li>
+  <li>topic->Os Anos</li>
+  <li>adj->Secreto</li>
+  <li>adj->Perdido</li>
+  <li>adj->Desconhecido</li>
+  <li>adj->Antigo</li>
+  <li>adj->Novo</li>
+  <li>adj->Verdadeiro</li>
+  <li>adj->Belo</li>
+
+  <li>book_name->[subject] e o [topic]</li>
+  <li>book_name->[subject] e a [topic]</li>
+  <li>book_name->[subject] e os [topic]</li>
+  <li>book_name->[subject] e as [topic]</li>
+  <li>book_name->O [adj] [topic]</li>
+  <li>book_name->A [adj] [topic]</li>
+  <li>book_name->Os [adj] [topic]</li>
+  <li>book_name->As [adj] [topic]</li>
+  <li>book_name->[topic] de [PersonName]</li>
+  <li>book_name->O [topic] de [PersonName]</li>
+  <li>book_name->A [topic] de [PersonName]</li>
+  <li>book_name->[subject] e [subject]</li>
+  <li>book_name->[topic] no [place]</li>
+  <li>book_name->[topic] em [place]</li>
+  <li>book_name->[topic] sobre [topic]</li>
+  <li>subject->A Cozinha</li>
+  <li>subject->O Alimento</li>
+  <li>subject->O Chef</li>
+  <li>subject->A Sobrevivência</li>
+  <li>subject->A Doçaria</li>
+  <li>topic->O Jantar</li>
+  <li>topic->O Pão</li>
+  <li>topic->O Ensopado</li>
+  <li>topic->A Carne</li>
+  <li>topic->O Vegetal</li>
+  <li>topic->O Doce</li>
+  <li>topic->Os [Animal]</li>
+  <li>topic->Os [Meal]</li>
+  <li>adj->Secreto</li>
+  <li>adj->Perdido</li>
+  <li>adj->Desconhecido</li>
+  <li>adj->Antigo</li>
+  <li>adj->Novo</li>
+  <li>adj->Verdadeiro</li>
+  <li>adj->Belo</li>
+
+  <li>book_name->[subject] e o [topic]</li>
+  <li>book_name->[subject] e a [topic]</li>
+  <li>book_name->[subject] e os [topic]</li>
+  <li>book_name->[subject] e as [topic]</li>
+  <li>book_name->O [adj] [topic]</li>
+  <li>book_name->A [adj] [topic]</li>
+  <li>book_name->Os [adj] [topic]</li>
+  <li>book_name->As [adj] [topic]</li>
+  <li>book_name->[topic] de [PersonName]</li>
+  <li>book_name->O [topic] de [PersonName]</li>
+  <li>book_name->A [topic] de [PersonName]</li>
+  <li>book_name->[subject] e [subject]</li>
+  <li>book_name->[topic] no [place]</li>
+  <li>book_name->[topic] em [place]</li>
+  <li>book_name->[topic] sobre [topic]</li>
+  <li>subject->O Herói</li>
+  <li>subject->A Princesa</li>
+  <li>subject->O Ladrão</li>
+  <li>subject->O Soldado</li>
+  <li>subject->O Planeta</li>
+  <li>subject->A Arma</li>
+  <li>topic->O Desespero</li>
+  <li>topic->A Esperança</li>
+  <li>topic->A Guerra</li>
+  <li>topic->A Morte</li>
+  <li>topic->O Amor</li>
+  <li>topic->Os [Concept]</li>
+  <li>topic->Os [Animal]</li>
+  <li>adj->Secreto</li>
+  <li>adj->Perdido</li>
+  <li>adj->Desconhecido</li>
+  <li>adj->Antigo</li>
+  <li>adj->Novo</li>
+  <li>adj->Verdadeiro</li>
+  <li>adj->Belo</li>
+
+  <li>book_name->[subject] e o [topic]</li>
+  <li>book_name->[subject] e a [topic]</li>
+  <li>book_name->[subject] e os [topic]</li>
+  <li>book_name->[subject] e as [topic]</li>
+  <li>book_name->O [adj] [topic]</li>
+  <li>book_name->A [adj] [topic]</li>
+  <li>book_name->Os [adj] [topic]</li>
+  <li>book_name->As [adj] [topic]</li>
+  <li>book_name->[topic] de [PersonName]</li>
+  <li>book_name->O [topic] de [PersonName]</li>
+  <li>book_name->A [topic] de [PersonName]</li>
+  <li>book_name->[subject] e [subject]</li>
+  <li>book_name->[topic] no [place]</li>
+  <li>book_name->[topic] em [place]</li>
+  <li>book_name->[topic] sobre [topic]</li>
+  <li>subject->O Passado</li>
+  <li>subject->O Futuro</li>
+  <li>subject->A História</li>
+  <li>subject->A Batalha</li>
+  <li>subject->A Queda</li>
+  <li>subject->A Ascensão</li>
+  <li>topic->O Império</li>
+  <li>topic->A Guerra</li>
+  <li>topic->A Paz</li>
+  <li>topic->A Nação</li>
+  <li>topic->O Planeta</li>
+  <li>topic->Os [PersonJob]</li>
+  <li>topic->Os [Concept]</li>
+  <li>adj->Secreto</li>
+  <li>adj->Perdido</li>
+  <li>adj->Desconhecido</li>
+  <li>adj->Antigo</li>
+  <li>adj->Novo</li>
+  <li>adj->Verdadeiro</li>
+  <li>adj->Belo</li>
+
+  <li>book_name->[subject] e o [topic]</li>
+  <li>book_name->[subject] e a [topic]</li>
+  <li>book_name->[subject] e os [topic]</li>
+  <li>book_name->[subject] e as [topic]</li>
+  <li>book_name->O [adj] [topic]</li>
+  <li>book_name->A [adj] [topic]</li>
+  <li>book_name->Os [adj] [topic]</li>
+  <li>book_name->As [adj] [topic]</li>
+  <li>book_name->[topic] de [PersonName]</li>
+  <li>book_name->O [topic] de [PersonName]</li>
+  <li>book_name->A [topic] de [PersonName]</li>
+  <li>book_name->[subject] e [subject]</li>
+  <li>book_name->[topic] no [place]</li>
+  <li>book_name->[topic] em [place]</li>
+  <li>book_name->[topic] sobre [topic]</li>
+  <li>subject->A Sobrevivência</li>
+  <li>subject->A Construção</li>
+  <li>subject->A Reparação</li>
+  <li>subject->A Criação</li>
+  <li>subject->A Agricultura</li>
+  <li>subject->A Caça</li>
+  <li>topic->O Deserto</li>
+  <li>topic->A Tundra</li>
+  <li>topic->O Pântano</li>
+  <li>topic->O Mecanoide</li>
+  <li>topic->A Arma</li>
+  <li>topic->Os [Animal]</li>
+  <li>topic->As [Weapon]</li>
+  <li>adj->Secreto</li>
+  <li>adj->Perdido</li>
+  <li>adj->Desconhecido</li>
+  <li>adj->Antigo</li>
+  <li>adj->Novo</li>
+  <li>adj->Verdadeiro</li>
+  <li>adj->Belo</li>
+
+  <li>book_name->[subject] e o [topic]</li>
+  <li>book_name->[subject] e a [topic]</li>
+  <li>book_name->[subject] e os [topic]</li>
+  <li>book_name->[subject] e as [topic]</li>
+  <li>book_name->O [adj] [topic]</li>
+  <li>book_name->A [adj] [topic]</li>
+  <li>book_name->Os [adj] [topic]</li>
+  <li>book_name->As [adj] [topic]</li>
+  <li>book_name->[topic] de [PersonName]</li>
+  <li>book_name->O [topic] de [PersonName]</li>
+  <li>book_name->A [topic] de [PersonName]</li>
+  <li>book_name->[subject] e [subject]</li>
+  <li>book_name->[topic] no [place]</li>
+  <li>book_name->[topic] em [place]</li>
+  <li>book_name->[topic] sobre [topic]</li>
+  <li>subject->A Guerra</li>
+  <li>subject->A Tática</li>
+  <li>subject->A Estratégia</li>
+  <li>subject->O Exército</li>
+  <li>subject->A Batalha</li>
+  <li>subject->O General</li>
+  <li>topic->A Infantaria</li>
+  <li>topic->A Artilharia</li>
+  <li>topic->O Flanco</li>
+  <li>topic->A Defesa</li>
+  <li>topic->O Assalto</li>
+  <li>topic->Os [Concept]</li>
+  <li>topic->As [Weapon]</li>
+  <li>adj->Secreto</li>
+  <li>adj->Perdido</li>
+  <li>adj->Desconhecido</li>
+  <li>adj->Antigo</li>
+  <li>adj->Novo</li>
+  <li>adj->Verdadeiro</li>
+  <li>adj->Belo</li>
+
+  <li>book_name->[subject] e o [topic]</li>
+  <li>book_name->[subject] e a [topic]</li>
+  <li>book_name->[subject] e os [topic]</li>
+  <li>book_name->[subject] e as [topic]</li>
+  <li>book_name->O [adj] [topic]</li>
+  <li>book_name->A [adj] [topic]</li>
+  <li>book_name->Os [adj] [topic]</li>
+  <li>book_name->As [adj] [topic]</li>
+  <li>book_name->[topic] de [PersonName]</li>
+  <li>book_name->O [topic] de [PersonName]</li>
+  <li>book_name->A [topic] de [PersonName]</li>
+  <li>book_name->[subject] e [subject]</li>
+  <li>book_name->[topic] no [place]</li>
+  <li>book_name->[topic] em [place]</li>
+  <li>book_name->[topic] sobre [topic]</li>
+  <li>subject->O Herói</li>
+  <li>subject->A Princesa</li>
+  <li>subject->O Ladrão</li>
+  <li>subject->O Soldado</li>
+  <li>subject->O Planeta</li>
+  <li>subject->A Arma</li>
+  <li>topic->O Desespero</li>
+  <li>topic->A Esperança</li>
+  <li>topic->A Guerra</li>
+  <li>topic->A Morte</li>
+  <li>topic->O Amor</li>
+  <li>topic->Os [Concept]</li>
+  <li>topic->Os [Animal]</li>
+  <li>adj->Secreto</li>
+  <li>adj->Perdido</li>
+  <li>adj->Desconhecido</li>
+  <li>adj->Antigo</li>
+  <li>adj->Novo</li>
+  <li>adj->Verdadeiro</li>
+  <li>adj->Belo</li>
+
+  <li>book_name->[subject] e o [topic]</li>
+  <li>book_name->[subject] e a [topic]</li>
+  <li>book_name->[subject] e os [topic]</li>
+  <li>book_name->[subject] e as [topic]</li>
+  <li>book_name->O [adj] [topic]</li>
+  <li>book_name->A [adj] [topic]</li>
+  <li>book_name->Os [adj] [topic]</li>
+  <li>book_name->As [adj] [topic]</li>
+  <li>book_name->[topic] de [PersonName]</li>
+  <li>book_name->O [topic] de [PersonName]</li>
+  <li>book_name->A [topic] de [PersonName]</li>
+  <li>book_name->[subject] e [subject]</li>
+  <li>book_name->[topic] no [place]</li>
+  <li>book_name->[topic] em [place]</li>
+  <li>book_name->[topic] sobre [topic]</li>
+  <li>subject->O Coração</li>
+  <li>subject->A Alma</li>
+  <li>subject->A Lagrima</li>
+  <li>subject->A Canção</li>
+  <li>subject->O Poema</li>
+  <li>subject->O Pensamento</li>
+  <li>topic->O Amor</li>
+  <li>topic->A Tristeza</li>
+  <li>topic->A Perda</li>
+  <li>topic->A Esperança</li>
+  <li>topic->O Desejo</li>
+  <li>topic->Os [Concept]</li>
+  <li>topic->Os [Emotion]</li>
+  <li>adj->Secreto</li>
+  <li>adj->Perdido</li>
+  <li>adj->Desconhecido</li>
+  <li>adj->Antigo</li>
+  <li>adj->Novo</li>
+  <li>adj->Verdadeiro</li>
+  <li>adj->Belo</li>
+
+  <li>book_name->[subject] e o [topic]</li>
+  <li>book_name->[subject] e a [topic]</li>
+  <li>book_name->[subject] e os [topic]</li>
+  <li>book_name->[subject] e as [topic]</li>
+  <li>book_name->O [adj] [topic]</li>
+  <li>book_name->A [adj] [topic]</li>
+  <li>book_name->Os [adj] [topic]</li>
+  <li>book_name->As [adj] [topic]</li>
+  <li>book_name->[topic] de [PersonName]</li>
+  <li>book_name->O [topic] de [PersonName]</li>
+  <li>book_name->A [topic] de [PersonName]</li>
+  <li>book_name->[subject] e [subject]</li>
+  <li>book_name->[topic] no [place]</li>
+  <li>book_name->[topic] em [place]</li>
+  <li>book_name->[topic] sobre [topic]</li>
+  <li>subject->A Ciência</li>
+  <li>subject->A Matemática</li>
+  <li>subject->A Física</li>
+  <li>subject->A Química</li>
+  <li>subject->O Laboratório</li>
+  <li>subject->A Biologia</li>
+  <li>topic->O Universo</li>
+  <li>topic->O Tempo</li>
+  <li>topic->O Espaço</li>
+  <li>topic->A Energia</li>
+  <li>topic->O Mecanoide</li>
+  <li>topic->Os [Organism]</li>
+  <li>topic->Os [Concept]</li>
+  <li>adj->Secreto</li>
+  <li>adj->Perdido</li>
+  <li>adj->Desconhecido</li>
+  <li>adj->Antigo</li>
+  <li>adj->Novo</li>
+  <li>adj->Verdadeiro</li>
+  <li>adj->Belo</li>
+</LanguageData>
