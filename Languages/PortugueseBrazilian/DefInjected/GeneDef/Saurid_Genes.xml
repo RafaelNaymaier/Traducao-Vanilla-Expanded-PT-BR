@@ -8,10 +8,13 @@
   <VRESaurids_Oviparous.symbolPack.wholeNameSymbols.0.symbol>ovíparo</VRESaurids_Oviparous.symbolPack.wholeNameSymbols.0.symbol>
   <VRESaurids_Oviparous.symbolPack.wholeNameSymbols.1.symbol>ovicultor</VRESaurids_Oviparous.symbolPack.wholeNameSymbols.1.symbol>
   <VRESaurids_Oviparous.symbolPack.wholeNameSymbols.2.symbol>eclodidor</VRESaurids_Oviparous.symbolPack.wholeNameSymbols.2.symbol>
+  <VRESaurids_Oviparous.symbolPack.wholeNameSymbols.3.symbol>chocador</VRESaurids_Oviparous.symbolPack.wholeNameSymbols.3.symbol>
   <VRESaurids_Oviparous.symbolPack.prefixSymbols.0.symbol>ovo</VRESaurids_Oviparous.symbolPack.prefixSymbols.0.symbol>
   <VRESaurids_Oviparous.symbolPack.prefixSymbols.1.symbol>ova</VRESaurids_Oviparous.symbolPack.prefixSymbols.1.symbol>
+  <VRESaurids_Oviparous.symbolPack.prefixSymbols.2.symbol>ova</VRESaurids_Oviparous.symbolPack.prefixSymbols.2.symbol>
   <VRESaurids_Oviparous.symbolPack.suffixSymbols.0.symbol>víparo</VRESaurids_Oviparous.symbolPack.suffixSymbols.0.symbol>
-
+  <VRESaurids_Oviparous.symbolPack.suffixSymbols.1.symbol>paridade</VRESaurids_Oviparous.symbolPack.suffixSymbols.1.symbol>
+  
   <VRESaurids_ColdBlooded.label>Sangue-frio</VRESaurids_ColdBlooded.label>
   <VRESaurids_ColdBlooded.description>Os portadores deste gene precisam manter a temperatura corporal dentro de limites específicos. Exposição excessiva ao calor ou ao frio causa perda das funções motoras e, se prolongada, pode levar à morte.</VRESaurids_ColdBlooded.description>
   <VRESaurids_ColdBlooded.customEffectDescriptions.0>Sofre uma versão muito mais severa de hipotermia e hipertermia, na qual as Capacidades diminuem rapidamente até a morte.</VRESaurids_ColdBlooded.customEffectDescriptions.0>
@@ -22,5 +25,43 @@
   <VRESaurids_Pheromones.label>Feromônios</VRESaurids_Pheromones.label>
   <VRESaurids_Pheromones.description>Os portadores deste gene excretam feromônios especiais que atraem membros do mesmo xenótipo.</VRESaurids_Pheromones.description>
   <VRESaurids_Pheromones.customEffectDescriptions.0>Melhora as relações com Colonos do mesmo xenótipo.</VRESaurids_Pheromones.customEffectDescriptions.0>
+
+  <VRESaurids_FrilledEars.symbolPack.prefixSymbols.0.symbol>babado</VRESaurids_FrilledEars.symbolPack.prefixSymbols.0.symbol>
+  <VRESaurids_FrilledEars.symbolPack.prefixSymbols.1.symbol>iguana</VRESaurids_FrilledEars.symbolPack.prefixSymbols.1.symbol>
+  <VRESaurids_FrilledEars.symbolPack.prefixSymbols.2.symbol>lagarto</VRESaurids_FrilledEars.symbolPack.prefixSymbols.2.symbol>
+  <VRESaurids_FrilledEars.symbolPack.prefixSymbols.3.symbol>espinha</VRESaurids_FrilledEars.symbolPack.prefixSymbols.3.symbol>
+  <VRESaurids_FrilledEars.symbolPack.prefixSymbols.4.symbol>réptil</VRESaurids_FrilledEars.symbolPack.prefixSymbols.4.symbol>
+  <VRESaurids_FrilledEars.symbolPack.suffixSymbols.0.symbol>espeto</VRESaurids_FrilledEars.symbolPack.suffixSymbols.0.symbol>
+  <VRESaurids_FrilledEars.symbolPack.suffixSymbols.1.symbol>lança</VRESaurids_FrilledEars.symbolPack.suffixSymbols.1.symbol>
+  <VRESaurids_FrilledEars.symbolPack.suffixSymbols.2.symbol>babado</VRESaurids_FrilledEars.symbolPack.suffixSymbols.2.symbol>
+  <VRESaurids_FrilledEars.symbolPack.suffixSymbols.3.symbol>saúro</VRESaurids_FrilledEars.symbolPack.suffixSymbols.3.symbol>
+
+  <VRESaurids_CenterFrill.symbolPack.prefixSymbols.0.symbol>babado</VRESaurids_CenterFrill.symbolPack.prefixSymbols.0.symbol>
+  <VRESaurids_CenterFrill.symbolPack.prefixSymbols.1.symbol>iguana</VRESaurids_CenterFrill.symbolPack.prefixSymbols.1.symbol>
+  <VRESaurids_CenterFrill.symbolPack.prefixSymbols.2.symbol>lagarto</VRESaurids_CenterFrill.symbolPack.prefixSymbols.2.symbol>
+  <VRESaurids_CenterFrill.symbolPack.prefixSymbols.3.symbol>espinha</VRESaurids_CenterFrill.symbolPack.prefixSymbols.3.symbol>
+  <VRESaurids_CenterFrill.symbolPack.prefixSymbols.4.symbol>réptil</VRESaurids_CenterFrill.symbolPack.prefixSymbols.4.symbol>
+  <VRESaurids_CenterFrill.symbolPack.suffixSymbols.0.symbol>espeto</VRESaurids_CenterFrill.symbolPack.suffixSymbols.0.symbol>
+  <VRESaurids_CenterFrill.symbolPack.suffixSymbols.1.symbol>lança</VRESaurids_CenterFrill.symbolPack.suffixSymbols.1.symbol>
+  <VRESaurids_CenterFrill.symbolPack.suffixSymbols.2.symbol>babado</VRESaurids_CenterFrill.symbolPack.suffixSymbols.2.symbol>
+  <VRESaurids_CenterFrill.symbolPack.suffixSymbols.3.symbol>saúro</VRESaurids_CenterFrill.symbolPack.suffixSymbols.3.symbol>
+
+  <VRESaurids_SauridClaws.label>garras saurídias</VRESaurids_SauridClaws.label>
+  <VRESaurids_SauridClaws.description>Portadores deste gene têm mãos que se assemelham parcialmente a garras de dinossauro. Isso tem um leve impacto em sua capacidade de manipular objetos, mas lhes permite causar cortes profundos no combate corpo a corpo.</VRESaurids_SauridClaws.description>
+  <VRESaurids_SauridClaws.customEffectDescriptions.0>Causa cortes ao usar ataques desarmados.</VRESaurids_SauridClaws.customEffectDescriptions.0>
+  <VRESaurids_SauridClaws.symbolPack.prefixSymbols.0.symbol>saúrido</VRESaurids_SauridClaws.symbolPack.prefixSymbols.0.symbol>
+  <VRESaurids_SauridClaws.symbolPack.prefixSymbols.1.symbol>raptor</VRESaurids_SauridClaws.symbolPack.prefixSymbols.1.symbol>
+  <VRESaurids_SauridClaws.symbolPack.prefixSymbols.2.symbol>garra</VRESaurids_SauridClaws.symbolPack.prefixSymbols.2.symbol>
+  <VRESaurids_SauridClaws.symbolPack.prefixSymbols.3.symbol>predador</VRESaurids_SauridClaws.symbolPack.prefixSymbols.3.symbol>
+  <VRESaurids_SauridClaws.symbolPack.prefixSymbols.4.symbol>gancho</VRESaurids_SauridClaws.symbolPack.prefixSymbols.4.symbol>
+  <VRESaurids_SauridClaws.symbolPack.prefixSymbols.5.symbol>réptil</VRESaurids_SauridClaws.symbolPack.prefixSymbols.5.symbol>
+  <VRESaurids_SauridClaws.symbolPack.suffixSymbols.0.symbol>garra</VRESaurids_SauridClaws.symbolPack.suffixSymbols.0.symbol>
+  <VRESaurids_SauridClaws.symbolPack.suffixSymbols.1.symbol>afiado</VRESaurids_SauridClaws.symbolPack.suffixSymbols.1.symbol>
+  <VRESaurids_SauridClaws.symbolPack.suffixSymbols.2.symbol>gancho</VRESaurids_SauridClaws.symbolPack.suffixSymbols.2.symbol>
+  <VRESaurids_SauridClaws.symbolPack.suffixSymbols.3.symbol>predador</VRESaurids_SauridClaws.symbolPack.suffixSymbols.3.symbol>
+  <VRESaurids_SauridClaws.symbolPack.suffixSymbols.4.symbol>raptor</VRESaurids_SauridClaws.symbolPack.suffixSymbols.4.symbol>
+  <VRESaurids_SauridClaws.symbolPack.suffixSymbols.5.symbol>réptil</VRESaurids_SauridClaws.symbolPack.suffixSymbols.5.symbol>
+  <VRESaurids_SauridClaws.symbolPack.suffixSymbols.6.symbol>saúro</VRESaurids_SauridClaws.symbolPack.suffixSymbols.6.symbol>
+  <VRESaurids_SauridClaws.symbolPack.wholeNameSymbols.0.symbol>garras</VRESaurids_SauridClaws.symbolPack.wholeNameSymbols.0.symbol>
 
 </LanguageData>

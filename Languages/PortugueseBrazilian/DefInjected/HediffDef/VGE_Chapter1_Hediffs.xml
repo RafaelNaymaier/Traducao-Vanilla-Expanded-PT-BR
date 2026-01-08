@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <VEF_PermanentBurn.label>queimadura permanente</VEF_PermanentBurn.label>
+  <VEF_PermanentBurn.description>Uma cicatriz de queimadura permanente que não pode ser tratada.</VEF_PermanentBurn.description>
+  <VEF_PermanentBurn.injuryProps.destroyedLabel>Queimado(a)</VEF_PermanentBurn.injuryProps.destroyedLabel>
+  <VEF_PermanentBurn.injuryProps.destroyedOutLabel>Queimado(a)</VEF_PermanentBurn.injuryProps.destroyedOutLabel>
+  <VEF_PermanentBurn.labelNoun>uma queimadura permanente</VEF_PermanentBurn.labelNoun>
+
+  <VEF_AcidBuildup.label>queimadura ácida</VEF_AcidBuildup.label>
+  <VEF_AcidBuildup.description>Um respingo de ácido que continua a causar ferimentos de queimadura por um bom tempo após o ataque inicial.</VEF_AcidBuildup.description>
+  <VEF_AcidBuildup.stages.minor_receiving_burns.label>menor, recebendo queimaduras</VEF_AcidBuildup.stages.minor_receiving_burns.label>
+  <VEF_AcidBuildup.stages.moderate_receiving_burns.label>moderada, recebendo queimaduras</VEF_AcidBuildup.stages.moderate_receiving_burns.label>
+  <VEF_AcidBuildup.stages.serious_receiving_burns.label>séria, recebendo queimaduras</VEF_AcidBuildup.stages.serious_receiving_burns.label>
+
+  <VEF_AcidBurn.label>queimadura ácida</VEF_AcidBurn.label>
+  <VEF_AcidBurn.description>Uma queimadura causada por ácido.</VEF_AcidBurn.description>
+  <VEF_AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de queimadura ácida</VEF_AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <VEF_AcidBurn.labelNoun>uma queimadura ácida</VEF_AcidBurn.labelNoun>
+
+  <VEF_LightSustenance.label>nível de luz solar</VEF_LightSustenance.label>
+  <VEF_LightSustenance.description>Esta criatura se alimenta de luz solar. Níveis inadequados de luz a matarão.</VEF_LightSustenance.description>
+  <VEF_LightSustenance.stages.adequate_light.label>luz adequada</VEF_LightSustenance.stages.adequate_light.label>
+  <VEF_LightSustenance.stages.poor_light_levels.label>níveis de luz pobres</VEF_LightSustenance.stages.poor_light_levels.label>
+  <VEF_LightSustenance.stages.very_low_light_levels.label>níveis de luz muito baixos</VEF_LightSustenance.stages.very_low_light_levels.label>
+  <VEF_LightSustenance.stages.lack_of_sunlight.label>falta de luz solar</VEF_LightSustenance.stages.lack_of_sunlight.label>
+  <VEF_LightSustenance.stages.extreme_lack_of_sustenance.label>extrema falta de sustento</VEF_LightSustenance.stages.extreme_lack_of_sustenance.label>
+
+  <VEF_ToxicBuildup.label>acúmulo tóxico</VEF_ToxicBuildup.label>
+  <VEF_ToxicBuildup.description>Toxinas na corrente sanguínea. Isso pode vir de várias fontes, incluindo toxinas ambientais, mordidas venenosas ou armas envenenadas.\n\nEm doses altas, o acúmulo tóxico é letal. Mesmo em doses baixas, pode gerar cânceres.\n\nAo contrário do acúmulo tóxico do jogo base, criaturas que morrem com este dano tóxico podem ser comidas.</VEF_ToxicBuildup.description>
+  <VEF_ToxicBuildup.stages.initial-0.label>inicial</VEF_ToxicBuildup.stages.initial-0.label>
+  <VEF_ToxicBuildup.stages.initial-1.label>inicial</VEF_ToxicBuildup.stages.initial-1.label>
+  <VEF_ToxicBuildup.stages.minor.label>menor</VEF_ToxicBuildup.stages.minor.label>
+  <VEF_ToxicBuildup.stages.moderate.label>moderada</VEF_ToxicBuildup.stages.moderate.label>
+  <VEF_ToxicBuildup.stages.serious.label>séria</VEF_ToxicBuildup.stages.serious.label>
+  <VEF_ToxicBuildup.stages.extreme.label>extrema</VEF_ToxicBuildup.stages.extreme.label>
+
+  <VFEP_HypothermicSlowdown.label>desaceleração hipotérmica</VFEP_HypothermicSlowdown.label>
+  <VFEP_HypothermicSlowdown.description>Temperatura corporal central perigosamente baixa. A menos que seja reaquecida, a desaceleração hipotérmica piora e termina em morte. A recuperação é rápida assim que a vítima é reaquecida.</VFEP_HypothermicSlowdown.description>
+  <VFEP_HypothermicSlowdown.stages.minor-0.label>menor</VFEP_HypothermicSlowdown.stages.minor-0.label>
+  <VFEP_HypothermicSlowdown.stages.minor-1.label>menor</VFEP_HypothermicSlowdown.stages.minor-1.label>
+  <VFEP_HypothermicSlowdown.stages.moderate.label>moderada</VFEP_HypothermicSlowdown.stages.moderate.label>
+  <VFEP_HypothermicSlowdown.stages.serious.label>séria</VFEP_HypothermicSlowdown.stages.serious.label>
+  <VFEP_HypothermicSlowdown.stages.extreme.label>extrema</VFEP_HypothermicSlowdown.stages.extreme.label>
+
+  <VEF_Kamikaze.label>detonação súbita</VEF_Kamikaze.label>
+  <VEF_Kamikaze.description>Boom.</VEF_Kamikaze.description>
+  <VEF_Kamikaze.stages.initialhidden.label>inicial-oculta</VEF_Kamikaze.stages.initialhidden.label>
+  <VEF_Kamikaze.stages.critical.label>crítica</VEF_Kamikaze.stages.critical.label>
+
+  <VEF_ControlledInvisibility.label>invisibilidade</VEF_ControlledInvisibility.label>
+  <VEF_ControlledInvisibility.description>Encoberto por um véu de invisibilidade controlada.</VEF_ControlledInvisibility.description>
+
+  <VGE_EngineeringCommand.label>comando de engenharia</VGE_EngineeringCommand.label>
+  <VGE_EngineeringCommand.description>As velocidades de manutenção e construção da nave gravitacional são aumentadas graças a esta pessoa estar usando a habilidade de comando de engenharia.</VGE_EngineeringCommand.description>
+
+  <VGE_EngineeringCommandBuff.label>comando de engenharia</VGE_EngineeringCommandBuff.label>
+  <VGE_EngineeringCommandBuff.description>As velocidades de manutenção e construção da nave gravitacional desta pessoa são aumentadas graças a estar perto de alguém que está usando a habilidade de comando de engenharia.</VGE_EngineeringCommandBuff.description>
+
+</LanguageData>
