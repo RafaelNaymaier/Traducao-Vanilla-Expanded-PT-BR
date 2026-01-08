@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<VGE_GunnerSubpersonaCore.label>núcleo subpersona do artilheiro</VGE_GunnerSubpersonaCore.label>
+	<VGE_GunnerSubpersonaCore.description>Uma subpersona de baixo grau especializada em combate de nave gravitacional. Ela pode se ligar a uma única peça de artilharia da nave gravitacional e controlá-la da mesma forma que um tripulante operando um terminal de mira. Suas capacidades de combate superam até mesmo as do melhor artilheiro humano. Uma nave gravitacional pode suportar até dois núcleos subpersona do artilheiro.</VGE_GunnerSubpersonaCore.description>
+
+	<VGE_MaintenanceHub.label>centro de manutenção</VGE_MaintenanceHub.label>
+	<VGE_MaintenanceHub.description>Um sistema centralizado que otimiza e automatiza a manutenção de rotina em toda a nave gravitacional. Ele reduz passivamente a taxa de deterioração de manutenção de todas as máquinas conectadas. Requer energia para funcionar.</VGE_MaintenanceHub.description>
+
+	<VGE_CapacitorHarmonizer.label>harmonizador de capacitor</VGE_CapacitorHarmonizer.label>
+	<VGE_CapacitorHarmonizer.description>Um dispositivo especializado que equilibra e sincroniza o fluxo de energia entre capacitores próximos. Ele impulsiona passivamente sua eficiência de carga e descarga para o pico de desempenho. Requer energia para operar.</VGE_CapacitorHarmonizer.description>
+
+	<VGE_Gravlift.label>plataforma de lançamento gravitacional</VGE_Gravlift.label>
+	<VGE_Gravlift.description>Uma plataforma complexa de lançamento vertical e estabilização integrada à estrutura central da nave gravitacional. A plataforma de lançamento gravitacional fornece o imenso impulso necessário para a decolagem vertical de superfícies planetárias e estabiliza a inserção orbital, permitindo que a nave gravitacional permaneça suspensa no espaço. Ela também amortece muito o pouso forçado, reduzindo o dano sofrido e garantindo que a subestrutura não sofra danos críticos.</VGE_Gravlift.description>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	
+	<VGE_EngineeringConsole.label>console de engenharia</VGE_EngineeringConsole.label>
+	<VGE_EngineeringConsole.description>Uma interface usada para monitorar o status de manutenção de todos os componentes da nave de gravidade. Retira energia diretamente do motor de gravidade.\n\n&lt;color=#E5E54C&gt;Impacto na jogabilidade:&lt;/color&gt; Reduz a sensibilidade à manutenção de todas as estruturas da nave de gravidade nesta nave em 0.5.</VGE_EngineeringConsole.description>
+
+	<VGE_MaintenanceHub.label>centro de manutenção</VGE_MaintenanceHub.label>
+	<VGE_MaintenanceHub.description>Uma extensão do console de engenharia. Quando emparelhado com um console de engenharia, aumenta significativamente a velocidade na qual os componentes da nave de gravidade são mantidos.\n\n&lt;color=#E5E54C&gt;Impacto na jogabilidade:&lt;/color&gt; Aumenta a velocidade de manutenção de todas as estruturas da nave de gravidade nesta nave em 0.5.</VGE_MaintenanceHub.description>
+
+</LanguageData>

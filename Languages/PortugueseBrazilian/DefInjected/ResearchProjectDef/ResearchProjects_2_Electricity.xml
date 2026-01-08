@@ -24,7 +24,7 @@ Você desbloqueou a aba Energia no menu Arquiteto, onde pode construir geradores
 		<li>subject>biocombustível</subject>
 		<li>subject_story>ficou preso quando uma nave de geração perdeu energia. [ANYPAWN_pronoun] usou o conhecimento de refinamento de [ANYPAWN_possessive] para transformar restos humanos em biocombustível e reiniciar os motores</subject_story>
 		<li>subject_story>usou biorrefinarias automatizadas para iniciar o longo processo de terraformação em um mundo de gelo</subject_story>
-		<li>subject_story>abriu uma destilaria para fazer *moonshine*, mas, percebendo que era intragável, vendeu como quimiocombustível em vez disso</subject_story>
+		<li>subject_story>abriu uma destilaria para fazer moonshine, mas, percebendo que era intragável, vendeu como quimiocombustível em vez disso</subject_story>
 		<li>subject_gerund>refinando biocombustível</subject_gerund>
 	</BiofuelRefining.generalRules.rulesStrings>
 	<WatermillGenerator.generalRules.rulesStrings>
@@ -48,7 +48,7 @@ Você desbloqueou a aba Energia no menu Arquiteto, onde pode construir geradores
 		<li>subject>energia solar</subject>
 		<li>subject_story>estabeleceu uma fazenda solar de multiespectro</subject_story>
 		<li>subject_story>estudou maneiras de maximizar a porcentagem de energia solar capturada</subject_story>
-		<li>subject_story>partiu em um "*sundiver*" para ver de perto uma passagem da fotosfera de uma estrela</subject_story>
+		<li>subject_story>partiu em um "sundiver" para ver de perto uma passagem da fotosfera de uma estrela</subject_story>
 		<li>subject_gerund>construindo painéis solares</subject_gerund>
 	</SolarPanels.generalRules.rulesStrings>
 
@@ -56,7 +56,7 @@ Você desbloqueou a aba Energia no menu Arquiteto, onde pode construir geradores
 		<li>subject>ar condicionado</subject>
 		<li>subject_story>visitou a cidade mais quente do planeta</subject_story>
 		<li>subject_story>trabalhou nas calotas de gelo, em um armazém interestelar mantido perto do zero absoluto</subject_story>
-		<li>subject_story>aprendeu tudo sobre ar condicionado e *freezers*, depois voltou para casa</subject_story>
+		<li>subject_story>aprendeu tudo sobre ar condicionado e freezers, depois voltou para casa</subject_story>
 		<li>subject_gerund>construindo unidades de ar condicionado</subject_gerund>
 	</AirConditioning.generalRules.rulesStrings>
 
@@ -79,7 +79,7 @@ Você desbloqueou a aba Energia no menu Arquiteto, onde pode construir geradores
 
 	<TubeTelevision.generalRules.rulesStrings>
 		<li>subject>televisores de tubo</subject>
-		<li>subject_story>projetou um televisor *faux-retrô* que podia captar sinais interestelares</subject_story>
+		<li>subject_story>projetou um televisor faux-retrô que podia captar sinais interestelares</subject_story>
 		<li>subject_story>migrou para a radiodifusão, produzindo programas apenas para os arcaicos televisores de tubo</subject_story>
 		<li>subject_story>garantiu que todos soubessem os perigos dos tubos de raios catódicos</subject_story>
 		<li>subject_gerund>produzindo televisores de tubo</subject_gerund>
@@ -149,10 +149,10 @@ Você desbloqueou a aba Energia no menu Arquiteto, onde pode construir geradores
 
 	<SmokepopBelt.generalRules.rulesStrings>
 		<li>subject>cinto de fumaça</subject>
-		<li>subject_story>trabalhou como transportador para bandas, usando "*smokepops*" para efeitos especiais</subject_story>
-		<li>subject_story>estabeleceu um perímetro defensivo de "*smokepop*" em torno das cidades locais, para manter a vida selvagem afastada</subject_story>
-		<li>subject_story>usou pacotes de "*smokepop*" para treinar novos bombeiros, sem o perigo de fogo real</subject_story>
-		<li>subject_gerund>construindo pacotes de *smokepop*</subject_gerund>
+		<li>subject_story>trabalhou como transportador para bandas, usando "smokepops" para efeitos especiais</subject_story>
+		<li>subject_story>estabeleceu um perímetro defensivo de "smokepop" em torno das cidades locais, para manter a vida selvagem afastada</subject_story>
+		<li>subject_story>usou pacotes de "smokepop" para treinar novos bombeiros, sem o perigo de fogo real</subject_story>
+		<li>subject_gerund>construindo pacotes de smokepop</subject_gerund>
 		<li>subject_gerund>implantando cortinas de fumaça</subject_gerund>
 	</SmokepopBelt.generalRules.rulesStrings>
 
@@ -193,11 +193,11 @@ Você desbloqueou a aba Energia no menu Arquiteto, onde pode construir geradores
 
 	<BlowbackOperation.generalRules.rulesStrings>
 		<li>subject>pistolas</subject>
-		<li>subject>armas de fogo *blowback*</subject>
+		<li>subject>armas de fogo blowback</subject>
 		<li>subject_story>utilizou pistolas-máquina no combate de trincheiras que dominou o planeta</subject_story>
 		<li>subject_story>vendeu autopistolas de baixa potência para as forças de aplicação da lei nas orbitais</subject_story>
-		<li>subject_story>criou armas operadas por *blowback* para recrutas com miopia</subject_story>
-		<li>subject_gerund>criando armas de fogo *blowback*</subject_gerund>
+		<li>subject_story>criou armas operadas por blowback para recrutas com miopia</subject_story>
+		<li>subject_gerund>criando armas de fogo blowback</subject_gerund>
 	</BlowbackOperation.generalRules.rulesStrings>
 
 	<GasOperation.generalRules.rulesStrings>

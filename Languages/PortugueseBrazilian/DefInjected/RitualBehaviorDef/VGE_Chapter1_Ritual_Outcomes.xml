@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VGE_GravshipLaunchOutcomeEffect.description>Os fatores de qualidade determinam a duração do tempo de recarga do motor e a chance de um contratempo ao pousar.</VGE_GravshipLaunchOutcomeEffect.description>
+
+  <VGE_GravjumperLaunch.extraOutcomeDescriptions.0.description>Na qualidade atual, o saltador gravitacional não poderá ser lançado novamente por {0_time} após o pouso.</VGE_GravjumperLaunch.extraOutcomeDescriptions.0.description>
+  <VGE_GravjumperLaunch.extraOutcomeDescriptions.1.description>Além disso, há uma chance de {0_percentage} de ter um incidente menor ao pousar o saltador gravitacional.</VGE_GravjumperLaunch.extraOutcomeDescriptions.1.description>
+
+  <VGE_GravjumperLaunch.comps.0.label>Habilidade de pilotagem de {PAWN_labelShort}</VGE_GravjumperLaunch.comps.0.label>
+  <VGE_GravjumperLaunch.comps.0.labelAbstract>habilidade de pilotagem do piloto</VGE_GravjumperLaunch.comps.0.labelAbstract>
+  <VGE_GravjumperLaunch.comps.1.label>Habilidade de pilotagem de {PAWN_labelShort}</VGE_GravjumperLaunch.comps.1.label>
+  <VGE_GravjumperLaunch.comps.1.labelAbstract>habilidade de pilotagem do copiloto</VGE_GravjumperLaunch.comps.1.labelAbstract>
+  <VGE_GravjumperLaunch.comps.2.label>Manutenção média da gravinave</VGE_GravjumperLaunch.comps.2.label>
+  <VGE_GravjumperLaunch.comps.3.label>contagem da tripulação</VGE_GravjumperLaunch.comps.3.label>
+  <VGE_GravjumperLaunch.comps.4.label>propulsores pequenos</VGE_GravjumperLaunch.comps.4.label>
+  <VGE_GravjumperLaunch.comps.5.label>propulsores grandes</VGE_GravjumperLaunch.comps.5.label>
+  <VGE_GravjumperLaunch.comps.6.label>propulsores gigantes</VGE_GravjumperLaunch.comps.6.label>
+  <VGE_GravjumperLaunch.comps.7.label>núcleo de subpersona do piloto</VGE_GravjumperLaunch.comps.7.label>
+  <VGE_GravjumperLaunch.comps.8.label>console do copiloto tripulado</VGE_GravjumperLaunch.comps.8.label>
+
+  <VGE_GravhulkLaunch.extraOutcomeDescriptions.0.description>Na qualidade atual, o gravicolosso não poderá ser lançado novamente por {0_time} após o pouso.</VGE_GravhulkLaunch.extraOutcomeDescriptions.0.description>
+  <VGE_GravhulkLaunch.extraOutcomeDescriptions.1.description>Além disso, há uma chance de {0_percentage} de ter um incidente menor ao pousar o gravicolosso.</VGE_GravhulkLaunch.extraOutcomeDescriptions.1.description>
+  
+  <VGE_GravhulkLaunch.comps.0.label>Habilidade intelectual de {PAWN_labelShort}</VGE_GravhulkLaunch.comps.0.label>
+  <VGE_GravhulkLaunch.comps.0.labelAbstract>estatística intelectual do pesquisador de tecnologia gravitacional</VGE_GravhulkLaunch.comps.0.labelAbstract>
+  <VGE_GravhulkLaunch.comps.1.label>Habilidade intelectual de {PAWN_labelShort}</VGE_GravhulkLaunch.comps.1.label>
+  <VGE_GravhulkLaunch.comps.1.labelAbstract>estatística intelectual do engenheiro de tecnologia gravitacional</VGE_GravhulkLaunch.comps.1.labelAbstract>
+  <VGE_GravhulkLaunch.comps.2.label>Manutenção média da gravinave</VGE_GravhulkLaunch.comps.2.label>
+  <VGE_GravhulkLaunch.comps.3.label>contagem da tripulação</VGE_GravhulkLaunch.comps.3.label>
+  <VGE_GravhulkLaunch.comps.4.label>propulsores pequenos</VGE_GravhulkLaunch.comps.4.label>
+  <VGE_GravhulkLaunch.comps.5.label>propulsores grandes</VGE_GravhulkLaunch.comps.5.label>
+  <VGE_GravhulkLaunch.comps.6.label>propulsores gigantes</VGE_GravhulkLaunch.comps.6.label>
+  <VGE_GravhulkLaunch.comps.7.label>núcleo de subpersona do piloto</VGE_GravhulkLaunch.comps.7.label>
+
+</LanguageData>

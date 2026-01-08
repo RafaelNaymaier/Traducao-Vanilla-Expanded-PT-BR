@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VGE_NamerWorldObject_IceAsteroid.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->asteroide de gelo</li>
+    <li>terrain_word->rocha gelada</li>
+    <li>terrain_word->satélite congelado</li>
+    <li>terrain_word->planetoide frígido</li>
+    <li>terrain_word->lua gélida</li>
+  </VGE_NamerWorldObject_IceAsteroid.rulePack.rulesStrings>
+
+  <VGE_NamerWorldObject_AsteroidCluster.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->aglomerado de asteroides</li>
+    <li>terrain_word->aglomerado de rochas</li>
+    <li>terrain_word->satélites dispersos</li>
+    <li>terrain_word->planetoides dispersos</li>
+    <li>terrain_word->luas menores</li>
+  </VGE_NamerWorldObject_AsteroidCluster.rulePack.rulesStrings>
+
+  <VGE_NamerWorldObject_AsteroidField.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->campo de asteroides</li>
+    <li>terrain_word->campo de rochas</li>
+    <li>terrain_word->campo de satélites</li>
+    <li>terrain_word->campo de planetoides</li>
+    <li>terrain_word->campo de luas</li>
+  </VGE_NamerWorldObject_AsteroidField.rulePack.rulesStrings>
+
+  <VGE_NamerWorldObject_DerelictStation.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->estação abandonada</li>
+    <li>terrain_word->plataforma abandonada</li>
+    <li>terrain_word->estação em ruínas</li>
+    <li>terrain_word->plataforma em ruínas</li>
+    <li>terrain_word->estação ancestral</li>
+  </VGE_NamerWorldObject_DerelictStation.rulePack.rulesStrings>
+
+  <VGE_NamerWorldObject_ShatteredAsteroid.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->asteroide estilhaçado</li>
+    <li>terrain_word->rocha estilhaçada</li>
+    <li>terrain_word->satélite fraturado</li>
+    <li>terrain_word->planetoide fendido</li>
+    <li>terrain_word->lua rompida</li>
+  </VGE_NamerWorldObject_ShatteredAsteroid.rulePack.rulesStrings>
+
+  <VGE_NamerWorldObject_DenseAsteroid.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->asteroide denso</li>
+    <li>terrain_word->rocha densa</li>
+    <li>terrain_word->satélite denso</li>
+    <li>terrain_word->planetoide denso</li>
+    <li>terrain_word->lua densa</li>
+  </VGE_NamerWorldObject_DenseAsteroid.rulePack.rulesStrings>
+
+  <VGE_NamerWorldObject_SmallAsteroid.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->asteroide pequeno</li>
+    <li>terrain_word->rocha pequena</li>
+    <li>terrain_word->satélite pequeno</li>
+    <li>terrain_word->planetoide pequeno</li>
+    <li>terrain_word->lua pequena</li>
+  </VGE_NamerWorldObject_SmallAsteroid.rulePack.rulesStrings>
+
+</LanguageData>

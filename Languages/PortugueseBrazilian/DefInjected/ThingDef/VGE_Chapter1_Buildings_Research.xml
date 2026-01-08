@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VGE_GravtechConsole.label>console de tecnologia gravitacional</VGE_GravtechConsole.label>
+  <VGE_GravtechConsole.description>Uma interface usada para analisar dados gravitacionais (gravidata) coletados de lançamentos e viagens da nave de gravidade. Retira energia diretamente do Motor Gravitacional.</VGE_GravtechConsole.description>
+
+  <VGE_AdvancedGravtechConsole.label>console de tecnologia gravitacional avançada</VGE_AdvancedGravtechConsole.label>
+  <VGE_AdvancedGravtechConsole.description>Uma interface usada para analisar dados gravitacionais (gravidata) avançados. Requer uma grande quantidade de eletricidade e só pode ser usada com um Console de Tecnologia Gravitacional. Retira energia diretamente do Motor Gravitacional.</VGE_AdvancedGravtechConsole.description>
+
+  <VGE_GravdataCollector.label>coletor de dados gravitacionais</VGE_GravdataCollector.label>
+  <VGE_GravdataCollector.description>Um dispositivo usado para coleta de dados gravitacionais (gravidata) durante a viagem da nave de gravidade. Aumenta a quantidade de dados gravitacionais obtidos em cada lançamento.</VGE_GravdataCollector.description>
+
+</LanguageData>

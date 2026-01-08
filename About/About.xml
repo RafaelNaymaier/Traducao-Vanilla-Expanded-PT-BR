@@ -24,11 +24,16 @@
       <displayName>Vanilla Races Expanded - Saurid</displayName>
       <steamWorkshopUrl>2557467268</steamWorkshopUrl>
     </li>
+    <li>
+      <packageId>vanillaexpanded.gravship</packageId>
+      <displayName>Vanilla Gravship Expanded - Chapter 1</displayName>
+    </li>
   </modDependencies>
   
   <loadAfter>
     <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
     <li>vanillaracesexpanded.sanguophage</li>
     <li>vanillaracesexpanded.saurid</li>
+    <li>vanillaexpanded.gravship</li>
   </loadAfter>
 </ModMetaData>
