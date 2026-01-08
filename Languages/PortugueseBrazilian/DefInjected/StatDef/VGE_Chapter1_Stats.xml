@@ -4,9 +4,6 @@
   <VGE_AccuracyGlobal.label>precisão global</VGE_AccuracyGlobal.label>
   <VGE_AccuracyGlobal.description>Precisão ao disparar contra alvos no mapa-múndi. Multiplicada pela habilidade de mira de gravinave do operador.</VGE_AccuracyGlobal.description>
 
-  <VGE_SubstructureSupportMultiplier.label>multiplicador de suporte de subestrutura</VGE_SubstructureSupportMultiplier.label>
-  <VGE_SubstructureSupportMultiplier.description>Um multiplicador para a subestrutura máxima suportada pela gravinave.</VGE_SubstructureSupportMultiplier.description>
-
   <VGE_MaintenanceSensitivity.label>sensibilidade à manutenção</VGE_MaintenanceSensitivity.label>
   <VGE_MaintenanceSensitivity.description>Um fator da dificuldade de manter esta estrutura, bem como a velocidade com que sua manutenção se esgotará.</VGE_MaintenanceSensitivity.description>
 

@@ -1,32 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VGE_LandmarkSpotted.label>marco avistado</VGE_LandmarkSpotted.label>
-  <VGE_LandmarkSpotted.letterLabel>marco avistado</VGE_LandmarkSpotted.letterLabel>
-  <VGE_LandmarkSpotted.letterText>Ao aterrissar {GRAVSHIP}, sua tripulação notou um local incomum na área circundante. A curiosidade deles pode levar a descobertas valiosas. {LANDMARK} foi avistado por perto.</VGE_LandmarkSpotted.letterText>
-
-  <VGE_RichDepositDetected.label>depósito rico detectado</VGE_RichDepositDetected.label>
-  <VGE_RichDepositDetected.letterLabel>depósito rico detectado</VGE_RichDepositDetected.letterLabel>
-  <VGE_RichDepositDetected.letterText>Ao aterrissar {GRAVSHIP}, sensores automatizados detectaram fortes leituras de recursos raros e valiosos no subsolo.</VGE_RichDepositDetected.letterText>
-
-  <VGE_CaravanEncounter.label>encontro de caravana</VGE_CaravanEncounter.label>
-  <VGE_CaravanEncounter.letterLabel>encontro de caravana</VGE_CaravanEncounter.letterLabel>
-  <VGE_CaravanEncounter.letterText>Seu pouso bem-sucedido atraiu a atenção de uma caravana próxima. Eles podem ter alguns itens valiosos para negociar ou informações úteis.</VGE_CaravanEncounter.letterText>
-
-  <VGE_AstrofuelSavings.label>economia de astrocombustível</VGE_AstrofuelSavings.label>
-  <VGE_AstrofuelSavings.letterLabel>economia de astrocombustível</VGE_AstrofuelSavings.letterLabel>
-  <VGE_AstrofuelSavings.letterText>Um planejamento meticuloso e condições favoráveis significaram que {GRAVSHIP} consumiu significativamente menos astrocombustível do que o esperado para a viagem.</VGE_AstrofuelSavings.letterText>
-
-  <VGE_AsteroidDiscovery.label>descoberta de asteroide</VGE_AsteroidDiscovery.label>
-  <VGE_AsteroidDiscovery.letterLabel>descoberta de asteroide</VGE_AsteroidDiscovery.letterLabel>
-  <VGE_AsteroidDiscovery.letterText>Durante a viagem, os sensores de {GRAVSHIP} detectaram um asteroide à deriva rico em materiais valiosos.</VGE_AsteroidDiscovery.letterText>
-
-  <VGE_CrewEuphoria.label>euforia da tripulação</VGE_CrewEuphoria.label>
-  <VGE_CrewEuphoria.letterLabel>euforia da tripulação</VGE_CrewEuphoria.letterLabel>
-  <VGE_CrewEuphoria.letterText>O lançamento de {GRAVSHIP} foi tão suave que deixou a tripulação de alto astral. Risos e celebração ecoam pelos corredores da nave.</VGE_CrewEuphoria.letterText>
-
-  <VGE_GravframeHarmony.label>harmonia da estrutura gravitacional</VGE_GravframeHarmony.label>
-  <VGE_GravframeHarmony.letterLabel>harmonia da estrutura gravitacional</VGE_GravframeHarmony.letterLabel>
-  <VGE_GravframeHarmony.letterText>A estrutura gravitacional de {GRAVSHIP} experimentou estresse mínimo durante o lançamento. O alinhamento do campo gravitacional foi perfeito, não colocando nenhuma pressão extra nos componentes da nave.</VGE_GravframeHarmony.letterText>
-
 </LanguageData>

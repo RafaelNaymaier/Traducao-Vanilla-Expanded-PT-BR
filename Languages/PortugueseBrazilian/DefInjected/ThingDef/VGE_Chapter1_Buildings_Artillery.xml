@@ -1,12 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <VGE_RepeaterLaser.label>laser repetidor</VGE_RepeaterLaser.label>
-  <VGE_RepeaterLaser.description>Um laser de defesa pontual montado em gravinave que dispara automaticamente contra naves hostis. Sua natureza de curto alcance e disparo rápido o torna inadequado para bombardear alvos no mapa mundial.</VGE_RepeaterLaser.description>
+    <VGE_TargetingTerminal.label>terminal de mira</VGE_TargetingTerminal.label>
+    <VGE_TargetingTerminal.description>Uma estação de controle dedicada a operar uma única peça de artilharia da nave gravitacional. Requer um tripulante para mirar e disparar manualmente a arma. Tira energia diretamente do motor gravitacional.</VGE_TargetingTerminal.description>
 
-  <VGE_GravshipHowitzer.label>Obuseiro de gravinave</VGE_GravshipHowitzer.label>
-  <VGE_GravshipHowitzer.description>Um Obuseiro maciço montado em gravinave, capaz de disparar projéteis explosivos no mapa mundial. Diferente de outras armas de mapa mundial, ele só pode alvejar o mesmo planeta que a gravinave está orbitando. Os projéteis são lançados e aterrissam com a ajuda do campo de levitação do motor gravitacional, tornando os disparos notavelmente precisos e não suscetíveis à imprecisão de longo alcance. Seu tamanho e requisitos de energia exigem um motor grande e infraestrutura substancial de gravinave.</VGE_GravshipHowitzer.description>
+    <VGE_PointDefenseTurret.label>torre de defesa pontual</VGE_PointDefenseTurret.label>
+    <VGE_PointDefenseTurret.description>Uma torre defensiva especializada construída exclusivamente para naves gravitacionais. Intercepta projéteis explosivos e cápsulas de aterrissagem que se aproximam dentro de seu raio de proteção, mas não pode engajar alvos terrestres. A chance de interceptação é proporcional à velocidade do alvo.</VGE_PointDefenseTurret.description>
+    <VGE_PointDefenseTurret.comps.2.fuelLabel>Munição</VGE_PointDefenseTurret.comps.2.fuelLabel>
+    <VGE_PointDefenseTurret.comps.2.fuelGizmoLabel>Munição</VGE_PointDefenseTurret.comps.2.fuelGizmoLabel>
 
-  <VGE_Projectile_RepeaterLaser.label>disparo de laser repetidor</VGE_Projectile_RepeaterLaser.label>
+    <VGE_Gun_PointDefense.label>arma de defesa pontual</VGE_Gun_PointDefense.label>
+    <VGE_Gun_PointDefense.description>Uma arma de tiro rápido para aplicações de defesa pontual.</VGE_Gun_PointDefense.description>
+
+    <VGE_AmmoBox_GaussShell.label>caixa de munição de projétil gauss</VGE_AmmoBox_GaussShell.label>
+    <VGE_AmmoBox_GaussShell.description>Uma caixa de pequeno porte contendo grandes projéteis de urânio. Usada por diferentes torres de artilharia gauss para recarregar. Uma caixa é alimentada diretamente em uma artilharia da nave gravitacional adjacente quando precisa ser recarregada.</VGE_AmmoBox_GaussShell.description>
+
+    <VGE_GaussGun.label>canhão gauss</VGE_GaussGun.label>
+    <VGE_GaussGun.description>Um canhão eletromagnético pequeno, de cano único, que lança projéteis de urânio densos em velocidades extremas. Projetado tanto para bombardeios locais quanto para engajamentos de médio alcance, também pode mirar em outras naves gravitacionais em órbita. Requer um terminal de mira conectado com um operador para funcionar. Tira energia diretamente do motor gravitacional.</VGE_GaussGun.description>
+    <VGE_GaussGun.comps.1.fuelLabel>Projéteis de Urânio</VGE_GaussGun.comps.1.fuelLabel>
+    <VGE_GaussGun.comps.1.fuelGizmoLabel>Projéteis de Urânio</VGE_GaussGun.comps.1.fuelGizmoLabel>
+
+    <VGE_Gun_GaussGun.label>canhão gauss</VGE_Gun_GaussGun.label>
+    <VGE_Gun_GaussGun.description>Um canhão eletromagnético pequeno, de cano único.</VGE_Gun_GaussGun.description>
+
+    <VGE_Bullet_GaussGun.label>tiro de canhão gauss</VGE_Bullet_GaussGun.label>
+
+    <VGE_JavelinPod.label>módulo dardo</VGE_JavelinPod.label>
+    <VGE_JavelinPod.description>Uma plataforma de mísseis compacta de tubo múltiplo que lança uma salva de seis dardos guiados de astrocombustível. Destinado a ataques rápidos e fortes contra naves gravitacionais expostas e forças de superfície sem blindagem. Requer um terminal de mira conectado com um operador para funcionar. Tira energia diretamente do motor gravitacional.</VGE_JavelinPod.description>
+    <VGE_JavelinPod.comps.1.fuelLabel>Astrocombustível</VGE_JavelinPod.comps.1.fuelLabel>
+    <VGE_JavelinPod.comps.1.fuelGizmoLabel>Astrocombustível</VGE_JavelinPod.comps.1.fuelGizmoLabel>
+
+    <VGE_Gun_JavelinPod.label>arma de módulo dardo</VGE_Gun_JavelinPod.label>
+    <VGE_Gun_JavelinPod.description>Uma plataforma de mísseis compacta de tubo múltiplo.</VGE_Gun_JavelinPod.description>
+
+    <VGE_Mote_BeamRepeaterLaser.label>feixe de laser repetidor</VGE_Mote_BeamRepeaterLaser.label>
+
+    <VGE_MassDriver.label>acelerador de massa</VGE_MassDriver.label>
+    <VGE_MassDriver.description>Um canhão acelerador de massa de longo alcance montado na nave gravitacional. Dispara projéteis densos em velocidades incríveis, capazes de destruir até mesmo naves gravitacionais pesadamente blindadas. Embora preciso, seu ciclo de carregamento lento o torna ineficaz contra alvos menores ou mais rápidos.</VGE_MassDriver.description>
+    <VGE_MassDriver.comps.2.fuelLabel>Projéteis de Urânio</VGE_MassDriver.comps.2.fuelLabel>
+    <VGE_MassDriver.comps.2.fuelGizmoLabel>Projéteis de Urânio</VGE_MassDriver.comps.2.fuelGizmoLabel>
+
+    <VGE_Gun_MassDriver.label>acelerador de massa</VGE_Gun_MassDriver.label>
+    <VGE_Gun_MassDriver.description>Um canhão acelerador de massa montado na nave gravitacional.</VGE_Gun_MassDriver.description>
+
+    <VGE_Bullet_MassDriver.label>tiro de acelerador de massa</VGE_Bullet_MassDriver.label>
 
 </LanguageData>
