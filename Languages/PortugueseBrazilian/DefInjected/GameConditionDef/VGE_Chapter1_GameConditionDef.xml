@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <VGE_SpaceSolarFlare.label>erupção solar</VGE_SpaceSolarFlare.label>
+  <VGE_SpaceSolarFlare.description>Uma erupção solar começou.\n\nEmbora esta erupção solar não desative dispositivos eletrônicos, ela aquecerá rapidamente todas as superfícies expostas, potencialmente causando insolação e incêndios.\n\nDeve passar em cerca de um dia.</VGE_SpaceSolarFlare.description>
+  <VGE_SpaceSolarFlare.endMessage>A erupção solar está terminando.</VGE_SpaceSolarFlare.endMessage>
+  <VGE_SpaceSolarFlare.letterText>Uma erupção solar começou.\n\nEmbora esta erupção solar não desative dispositivos eletrônicos, ela aquecerá rapidamente todas as superfícies expostas, potencialmente causando insolação e incêndios.\n\nDeve passar em cerca de um dia.</VGE_SpaceSolarFlare.letterText>
+
+  <VGE_GravitationalAnomaly.label>anomalia gravitacional</VGE_GravitationalAnomaly.label>
+  <VGE_GravitationalAnomaly.description>Uma poderosa distorção de gravidade envolveu sua gravinave, impedindo qualquer tipo de lançamento até que ela diminua. A anomalia permanecerá pelas próximas horas.</VGE_GravitationalAnomaly.description>
+  <VGE_GravitationalAnomaly.endMessage>A anomalia gravitacional diminuiu.</VGE_GravitationalAnomaly.endMessage>
+  <VGE_GravitationalAnomaly.letterText>Uma poderosa distorção de gravidade envolveu sua gravinave, impedindo qualquer tipo de lançamento até que ela diminua. A anomalia permanecerá pelas próximas horas.</VGE_GravitationalAnomaly.letterText>
+
+  <VGE_DustCloud.label>nuvem de poeira</VGE_DustCloud.label>
+  <VGE_DustCloud.description>Uma nuvem de poeira espacial se instalou em sua gravinave. A visibilidade é reduzida e a poeira fina entope o maquinário, reduzindo ligeiramente a velocidade de trabalho.</VGE_DustCloud.description>
+  <VGE_DustCloud.endMessage>A nuvem de poeira começou a se dispersar.</VGE_DustCloud.endMessage>
+  <VGE_DustCloud.letterText>Uma nuvem de poeira espacial se instalou em sua gravinave. A visibilidade é reduzida e a poeira fina entope o maquinário, reduzindo ligeiramente a velocidade de trabalho.</VGE_DustCloud.letterText>
+
+  <VGE_ToxicDustCloud.label>nuvem de poeira tóxica</VGE_ToxicDustCloud.label>
+  <VGE_ToxicDustCloud.description>Uma nuvem à deriva de poeira cósmica altamente tóxica envolveu sua gravinave. Particulados microscópicos estão penetrando em todos os espaços expostos, corroendo superfícies e envenenando a tripulação. A nuvem de poeira persistirá apenas brevemente, mas seus efeitos são imediatos e perigosos.</VGE_ToxicDustCloud.description>
+  <VGE_ToxicDustCloud.endMessage>A nuvem de poeira tóxica começou a se dispersar.</VGE_ToxicDustCloud.endMessage>
+  <VGE_ToxicDustCloud.letterText>Uma nuvem à deriva de poeira cósmica altamente tóxica envolveu sua gravinave. Particulados microscópicos estão penetrando em todos os espaços expostos, corroendo superfícies e envenenando a tripulação. A nuvem de poeira persistirá apenas brevemente, mas seus efeitos são imediatos e perigosos.</VGE_ToxicDustCloud.letterText>
+
+
+  <VGE_Comet.label>cometa</VGE_Comet.label>
+  <VGE_Comet.description>Um cometa enorme está passando por perto, sua cauda brilhante iluminando o vazio ao redor de sua nave. O espetáculo inspira admiração entre a tripulação, elevando seus ânimos até que desapareça de vista.</VGE_Comet.description>
+  <VGE_Comet.endMessage>O cometa passou.</VGE_Comet.endMessage>
+  <VGE_Comet.letterText>Um cometa enorme está passando por perto, sua cauda brilhante iluminando o vazio ao redor de sua nave. O espetáculo inspira admiração entre a tripulação, elevando seus ânimos até que desapareça de vista.</VGE_Comet.letterText>
+
+  <VGE_MicrometeorStorm.label>tempestade de micrometeoros</VGE_MicrometeorStorm.label>
+  <VGE_MicrometeorStorm.description>Uma tempestade de micrometeoros está bombardeando a área com pequenos detritos de alta velocidade. Estruturas e pessoas expostas são lentamente danificadas pelo bombardeio constante.\n\nA tempestade deve durar cerca de um dia.</VGE_MicrometeorStorm.description>
+  <VGE_MicrometeorStorm.endMessage>A tempestade de micrometeoros terminou.</VGE_MicrometeorStorm.endMessage>
+  <VGE_MicrometeorStorm.letterText>Uma tempestade de micrometeoros está bombardeando a área com pequenos detritos de alta velocidade. Estruturas e pessoas expostas são lentamente danificadas pelo bombardeio constante.\n\nA tempestade deve durar cerca de um dia.</VGE_MicrometeorStorm.letterText>
+
+  <VGE_SpaceDebris.label>detritos espaciais</VGE_SpaceDebris.label>
+  <VGE_SpaceDebris.description>Uma nuvem à deriva de destroços antigos cruzou nossa rota de voo. Pedaços de metal e sucata passam pela nave. Alguns vão errar, outros podem não.\n\nOs detritos passarão por nós em cerca de 12 horas.</VGE_SpaceDebris.description>
+  <VGE_SpaceDebris.endMessage>Os detritos espaciais passaram.</VGE_SpaceDebris.endMessage>
+  <VGE_SpaceDebris.letterText>Uma nuvem à deriva de destroços antigos cruzou nossa rota de voo. Pedaços de metal e sucata passam pela nave. Alguns vão errar, outros podem não.\n\nOs detritos passarão por nós em cerca de 12 horas.</VGE_SpaceDebris.letterText>
+
+  <VGE_AsteroidShower.label>chuva de asteroides</VGE_AsteroidShower.label>
+  <VGE_AsteroidShower.description>Uma chuva de asteroides cruzou o setor de sua nave. Inúmeros fragmentos de vacstone riscam o vazio, alguns colidindo com o casco com força explosiva. A maioria se queimará ou errará o alvo, mas nem todos.</VGE_AsteroidShower.description>
+  <VGE_AsteroidShower.endMessage>A chuva de asteroides passou.</VGE_AsteroidShower.endMessage>
+  <VGE_AsteroidShower.letterText>Uma chuva de asteroides cruzou o setor de sua nave. Inúmeros fragmentos de vacstone riscam o vazio, alguns colidindo com o casco com força explosiva. A maioria se queimará ou errará o alvo, mas nem todos.</VGE_AsteroidShower.letterText>
+  
+</LanguageData>

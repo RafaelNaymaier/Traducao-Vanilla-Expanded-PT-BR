@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VGE_PilotCockpit.label>Cockpit do Piloto</VGE_PilotCockpit.label>
+  <VGE_PilotCockpit.description>Uma interface que permite lançar e pilotar um gravijumper. Consome energia diretamente do motor gravitacional.</VGE_PilotCockpit.description>
+
+  <VGE_CopilotConsole.label>Console do Copiloto</VGE_CopilotConsole.label>
+  <VGE_CopilotConsole.description>Um console que auxilia o piloto de um gravijumper. Consome energia diretamente do motor gravitacional.</VGE_CopilotConsole.description>
+
+  <VGE_PilotBridge.label>Ponte do Piloto</VGE_PilotBridge.label>
+  <VGE_PilotBridge.description>Uma interface que permite lançar e pilotar um gravihulk. Consome energia diretamente do motor gravitacional.</VGE_PilotBridge.description>
+
+  <VGE_FlightComputer.label>Computador de Voo</VGE_FlightComputer.label>
+  <VGE_FlightComputer.description>Um pequeno computador avançado que auxilia o piloto na navegação e manobra. Consome energia diretamente do motor gravitacional.</VGE_FlightComputer.description>
+
+  <VGE_GravtechConsole.label>Console de Tecnologia Gravitacional</VGE_GravtechConsole.label>
+  <VGE_GravtechConsole.description>Uma interface usada para analisar dados gravitacionais (gravidata) coletados de lançamentos e viagens da gravinave. Retira energia diretamente do Motor Gravitacional.</VGE_GravtechConsole.description>
+
+  <VGE_EngineeringConsole.label>Console de Engenharia</VGE_EngineeringConsole.label>
+  <VGE_EngineeringConsole.description>Uma interface usada para monitorar o estado de manutenção de todos os componentes da gravinave. Retira energia diretamente do motor gravitacional.\n\n&lt;color=#E5E54C&gt;Impacto na jogabilidade:&lt;/color&gt; Reduz a sensibilidade à manutenção de todas as estruturas da gravinave nesta nave em 0.5.</VGE_EngineeringConsole.description>
+  
+  <VGE_MaintenanceHub.label>Centro de Manutenção</VGE_MaintenanceHub.label>
+  <VGE_MaintenanceHub.description>Uma extensão do console de engenharia. Quando emparelhado com um console de engenharia, aumenta significativamente a velocidade na qual os componentes da gravinave são mantidos.\n\n&lt;color=#E5E54C&gt;Impacto na jogabilidade:&lt;/color&gt; Aumenta a velocidade de manutenção de todas as estruturas da gravinave nesta nave em 0.5.</VGE_MaintenanceHub.description>
+
+  <VGE_TargetingTerminal.label>Terminal de Mira</VGE_TargetingTerminal.label>
+  <VGE_TargetingTerminal.description>Uma estação de controle dedicada a operar uma única peça de artilharia da gravinave. Requer um tripulante para mirar e disparar manualmente a arma. Tira energia diretamente do motor gravitacional.</VGE_TargetingTerminal.description>
+
+  <VGE_PointDefenseTurret.label>Torre de Defesa Pontual</VGE_PointDefenseTurret.label>
+  <VGE_PointDefenseTurret.description>Uma torre defensiva especializada construída exclusivamente para gravinaves. Intercepta projéteis explosivos e cápsulas de aterrissagem que se aproximam dentro de seu raio de proteção, mas não pode engajar alvos terrestres. A chance de interceptação é proporcional à velocidade do alvo.</VGE_PointDefenseTurret.description>
+  <VGE_PointDefenseTurret.comps.2.fuelLabel>Munição</VGE_PointDefenseTurret.comps.2.fuelLabel>
+  <VGE_PointDefenseTurret.comps.2.fuelGizmoLabel>Munição</VGE_PointDefenseTurret.comps.2.fuelGizmoLabel>
+
+  <VGE_Gun_PointDefense.label>Arma de Defesa Pontual</VGE_Gun_PointDefense.label>
+  <VGE_Gun_PointDefense.description>Um canhão de defesa pontual de disparo rápido, destinado a abater pequenos objetos de entrada.</VGE_Gun_PointDefense.description>
+  
+  <VGE_JavelinPod.label>Módulo Dardo</VGE_JavelinPod.label>
+  <VGE_JavelinPod.description>Uma plataforma de mísseis de tubo múltiplo montada na gravinave. Dispara mísseis rápidos e fortes contra naves gravitacionais expostas e forças de superfície sem blindagem. Requer um terminal de mira conectado com um operador para funcionar. Tira energia diretamente do motor gravitacional.</VGE_JavelinPod.description>
+  <VGE_JavelinPod.comps.1.fuelLabel>Astrocombustível</VGE_JavelinPod.comps.1.fuelLabel>
+  <VGE_JavelinPod.comps.1.fuelGizmoLabel>Astrocombustível</VGE_JavelinPod.comps.1.fuelGizmoLabel>
+  
+  <VGE_Gun_JavelinPod.label>Arma de Módulo Dardo</VGE_Gun_JavelinPod.label>
+  <VGE_Gun_JavelinPod.description>Uma plataforma de mísseis compacta de tubo múltiplo.</VGE_Gun_JavelinPod.description>
+
+  <!-- <VGE_MassDriver.label>Acelerador de Massa</VGE_MassDriver.label>
+  <VGE_MassDriver.description>Um canhão acelerador de massa de longo alcance montado na gravinave. Dispara projéteis densos em velocidades incríveis, capazes de destruir até mesmo gravinaves pesadamente blindadas. Embora preciso, seu ciclo de carregamento lento o torna ineficaz contra alvos menores ou mais rápidos.</VGE_MassDriver.description>
+  <VGE_MassDriver.comps.1.fuelLabel>Munição</VGE_MassDriver.comps.1.fuelLabel>
+  <VGE_MassDriver.comps.1.fuelGizmoLabel>Munição</VGE_MassDriver.comps.1.fuelGizmoLabel>
+
+  <VGE_Gun_MassDriver.label>Canhão Acelerador de Massa</VGE_Gun_MassDriver.label>
+  <VGE_Gun_MassDriver.description>Um canhão acelerador de massa.</VGE_Gun_MassDriver.description> -->
+  
+  <VGE_GravjumperEngine.label>Motor Gravitacional de Salto</VGE_GravjumperEngine.label>
+  <VGE_GravjumperEngine.description>Um motor gravitecnológico compacto projetado para saltos de curto alcance dentro da atmosfera de um planeta. O motor gravitacional de salto cria uma breve distorção localizada no fluxo gravitacional, permitindo rápida elevação vertical, mas não produz impulso para frente. Ele não pode funcionar longe de um grande poço de gravidade como um planeta, sendo inútil para viagens interplanetárias.\n\nAo ser lançado, tudo na subestrutura que estiver conectado ao motor gravitacional será transportado para um novo mapa.\n\nFrequentemente usados por exploradores, batedores e contrabandistas, os motores gravitacionais de salto são valorizados por sua agilidade e requisitos mínimos de energia. Eles são mais simples de produzir do que os motores de gravinave completos, mas ainda dependem de materiais de alta qualidade e fabricação avançada.</VGE_GravjumperEngine.description>
+
+  <VGE_GravhulkEngine.label>Motor Gravitacional Colossal</VGE_GravhulkEngine.label>
+  <VGE_GravhulkEngine.description>Um motor gravitecnológico maciço projetado para elevação pesada e viagens orbitais de longa distância. Diferente do motor gravitacional de salto, o motor gravitacional colossal produz impulso para frente. Ele pode funcionar longe de um poço de gravidade, tornando-o adequado para viagens interplanetárias. No entanto, seu imenso tamanho requer infraestrutura, materiais e energia substanciais, e sua operação é mais lenta e menos ágil do que a do motor gravitacional de salto. É frequentemente usado para transporte pesado, transporte de massa ou grandes embarcações de combate.</VGE_GravhulkEngine.description>
+
+  <VGE_GravFieldAmplifier.label>Amplificador de Campo Gravitacional</VGE_GravFieldAmplifier.label>
+  <VGE_GravFieldAmplifier.description>Um dispositivo ultratecnológico avançado que aumenta dramaticamente o tamanho de uma gravinave. Ele expande a área na qual a subestrutura pode ser construída e aumenta a quantidade de subestrutura que uma gravinave pode suportar. Deve ser construído perto de um motor gravitacional. Uma gravinave pode suportar até quatro amplificadores de campo gravitacional.</VGE_GravFieldAmplifier.description>
+
+  <VGE_Gravlift.label>Plataforma de Lançamento Gravitacional</VGE_Gravlift.label>
+  <VGE_Gravlift.description>Uma plataforma complexa de lançamento vertical e estabilização integrada à estrutura central da gravinave. A plataforma de lançamento gravitacional fornece o imenso impulso necessário para a descolagem vertical de superfícies planetárias e estabiliza a inserção orbital, permitindo que a gravinave permaneça suspensa no espaço. Também amortece muito a aterragem forçada, reduzindo o dano sofrido e garantindo que a subestrutura não sofra danos críticos.</VGE_Gravlift.description>
+
+  <VGE_SmallHeatsink.label>Pequeno Dissipador de Calor</VGE_SmallHeatsink.label>
+  <VGE_SmallHeatsink.description>Um pequeno componente usado para dissipar passivamente o calor excessivo de um motor gravitacional. Não requer energia, mas é limitado pela saturação de calor e pela temperatura do ar circundante à gravinave. Deve ser construído próximo a um motor gravitacional.</VGE_SmallHeatsink.description>
+  
+  <VGE_LargeHeatsink.label>Grande Dissipador de Calor</VGE_LargeHeatsink.label>
+  <VGE_LargeHeatsink.description>Um componente poderoso usado para dissipar passivamente o calor excessivo de um motor gravitacional. Não requer energia, mas é limitado pela saturação de calor e pela temperatura do ar circundante à gravinave. Deve ser construído próximo a um motor gravitacional.</VGE_LargeHeatsink.description>
+  
+  <VGE_GravheatAbsorber.label>Absorvedor de Calor Gravtérmico</VGE_GravheatAbsorber.label>
+  <VGE_GravheatAbsorber.description>Um dispositivo de ultratecnologia usado para absorver e converter instantaneamente grandes quantidades de calor gravtérmico. Requer um longo tempo de arrefecimento após o uso e necessita de energia significativa do motor gravitacional. Deve ser construído próximo a um motor gravitacional.</VGE_GravheatAbsorber.description>
+
+  <VGE_GravcorePowerCoil.label>Bobina de Energia do Núcleo Gravitacional</VGE_GravcorePowerCoil.label>
+  <VGE_GravcorePowerCoil.description>Um reator gravitecnológico maciço que canaliza e amplifica a energia de ondas gravitacionais em imensa produção elétrica. As suas bobinas reforçadas podem lidar com fluxo extremo, tornando-o uma das fontes de energia mais potentes disponíveis para gravinaves. Células de energia adjacentes do núcleo gravitacional multiplicarão a produção de energia em 15% para cada célula de energia do núcleo gravitacional.</VGE_GravcorePowerCoil.description>
+
+  <VGE_CapacitorHarmonizer.label>Harmonizador de Capacitor</VGE_CapacitorHarmonizer.label>
+  <VGE_CapacitorHarmonizer.description>Um dispositivo especializado que equilibra e sincroniza o fluxo de energia entre capacitores próximos. Impulsiona passivamente a sua eficiência de carga e descarga para o pico de desempenho. Requer energia para operar.</VGE_CapacitorHarmonizer.description>
+
+  <VGE_VacCheckpoint.label>Posto de Checagem a Vácuo</VGE_VacCheckpoint.label>
+  <VGE_VacCheckpoint.description>Um posto de checagem de segurança que indica a entrada para um ambiente a vácuo. Colonos não o cruzarão sem a resistência a vácuo necessária.</VGE_VacCheckpoint.description>
+
+  <VGE_VacBarrierDouble.label>Barreira a Vácuo (2x1)</VGE_VacBarrierDouble.label>
+
+  <VGE_VacBarrierTriple.label>Barreira a Vácuo (3x1)</VGE_VacBarrierTriple.label>
+
+  <VGE_VacBarrierQuintuple.label>Barreira a Vácuo (5x1)</VGE_VacBarrierQuintuple.label>
+
+  <VGE_Agrocell.label>Agrocélula</VGE_Agrocell.label>
+  <VGE_Agrocell.description>Uma unidade de cultivo fechada e eficiente em termos de espaço, projetada para uso em gravinaves. Construída no piso para movimento desimpedido, possui lâmpadas solares integradas e um sistema de nutrientes que deve permanecer ligado, pois as plantas morrerão se a energia for cortada.</VGE_Agrocell.description>
+
+  <VGE_CompactStove.label>Fogão Compacto</VGE_CompactStove.label>
+  <VGE_CompactStove.description>Um fogão eficiente em termos de espaço e movido a energia gravitacional, projetado para uso a bordo de gravinaves. Apesar de sua estrutura menor, ele contém uma placa de cozimento de alta eficiência e uma superfície de preparo integrada, além de uma tábua de açougue. Ele consome energia diretamente do motor gravitacional.</VGE_CompactStove.description>
+
+  <VGE_GunnerSubpersonaCore.label>Núcleo Subpersona do Artilheiro</VGE_GunnerSubpersonaCore.label>
+  <VGE_GunnerSubpersonaCore.description>Uma subpersona de baixo grau especializada em combate de gravinave. Pode ligar-se a uma única peça de artilharia da gravinave e controlá-la da mesma forma que um tripulante operando um terminal de mira. As suas capacidades de combate superam até mesmo as do melhor artilheiro humano. Uma gravinave pode suportar até dois núcleos subpersona do artilheiro.</VGE_GunnerSubpersonaCore.description>
+  
+  <VGE_SealantGoop.label>Massa Selante</VGE_SealantGoop.label>
+  <VGE_SealantGoop.description>Um grumo de massa selante pegajosa e de endurecimento rápido. Usado para tapar rapidamente brechas no casco em um aperto.</VGE_SealantGoop.description>
+
+  <VGE_Compressed_Vacstone.label>Vacuíta Comprimida</VGE_Compressed_Vacstone.label>
+  <VGE_Compressed_Vacstone.description>Uma massa ultra-densa de rocha e poeira de asteroide, compactada ao longo de milénios num bloco quase indestrutível. Encontrada apenas no espaço profundo.</VGE_Compressed_Vacstone.description>
+  
+  <VGE_Compressed_Steel.label>Aço Comprimido</VGE_Compressed_Steel.label>
+  <VGE_Compressed_Steel.description>Massa estrutural antiga fundida num único depósito ultra-denso de vacuíta-aço. Encontrada apenas no espaço profundo.</VGE_Compressed_Steel.description>
+  
+  <VGE_Compressed_Silver.label>Minério de Prata Comprimida</VGE_Compressed_Silver.label>
+  <VGE_Compressed_Silver.description>Rocha contendo prata compactada sob pressão extrema numa jazida densa e uniforme. Encontrada apenas no espaço profundo.</VGE_Compressed_Silver.description>
+  
+  <VGE_Compressed_Gold.label>Minério de Ouro Comprimido</VGE_Compressed_Gold.label>
+  <VGE_Compressed_Gold.description>Estratos ricos em ouro esmagados e recristalizados numa jazida compacta e resiliente. Encontrada apenas no espaço profundo.</VGE_Compressed_Gold.description>
+  
+  <VGE_Compressed_Uranium.label>Minério de Urânio Comprimido</VGE_Compressed_Uranium.label>
+  <VGE_Compressed_Uranium.description>Rocha carregada de Urânio sinterizada num depósito quase monolítico, difícil de fraturar. Encontrada apenas no espaço profundo.</VGE_Compressed_Uranium.description>
+  
+  <VGE_Compressed_Plasteel.label>Plastiaço Comprimido</VGE_Compressed_Plasteel.label>
+  <VGE_Compressed_Plasteel.description>Conglomerado de Plastiaço ultra-denso formado no vácuo ao longo de gerações; brutalmente difícil de minerar. Encontrada apenas no espaço profundo.</VGE_Compressed_Plasteel.description>
+  
+  <VGE_Compressed_Jade.label>Jade Comprimida</VGE_Compressed_Jade.label>
+  <VGE_Compressed_Jade.description>Uma gema densa e rica em nefrita, esmagada em camadas de rocha dura. Encontrada apenas no espaço profundo.</VGE_Compressed_Jade.description>
+
+  <VQEA_DestroyedSmallOxygenTank.label>Tanque de Oxigênio Pequeno Destruído</VQEA_DestroyedSmallOxygenTank.label>
+  <VQEA_DestroyedSmallOxygenTank.description>Este tanque fornecia oxigênio à gravinave, mas agora está quebrado e inútil. Algum aço ainda pode ser recuperado dele.</VQEA_DestroyedSmallOxygenTank.description>
+
+  <VQEA_DestroyedLargeThruster.label>Propulsor Grande Destruído</VQEA_DestroyedLargeThruster.label>
+  <VQEA_DestroyedLargeThruster.description>Este poderoso propulsor impulsionava gravinaves pelo espaço, mas agora jaz quebrado. Mesmo em ruínas, ele contém alguma sucata útil.</VQEA_DestroyedLargeThruster.description>
+
+  <VQEA_DestroyedSmallHeatsink.label>Dissipador de Calor Pequeno Destruído</VQEA_DestroyedSmallHeatsink.label>
+  <VQEA_DestroyedSmallHeatsink.description>Este dissipador de calor resfriava os sistemas da gravinave, mas queimou. Algum aço ainda pode ser recuperado dos destroços.</VQEA_DestroyedSmallHeatsink.description>
+
+  <VGE_DamagedEscapePod.label>Cápsula de Fuga Danificada</VGE_DamagedEscapePod.label>
+  <VGE_DamagedEscapePod.description>Uma cápsula de fuga danificada que caiu. Pode ser hackeada para revelar o que está dentro.</VGE_DamagedEscapePod.description>
+  
+  <VGE_EscapePodSkyfaller.label>Cápsula de Fuga (chegando)</VGE_EscapePodSkyfaller.label>
+
+  <!-- Arquivos novos -->
+
+    <VGE_EngineeringCommand_Mote.label>Partícula</VGE_EngineeringCommand_Mote.label>
+  <VGE_EngineeringCommand_LinkLine.label>Partícula</VGE_EngineeringCommand_LinkLine.label>
+  <VGE_OxygenMote.label>Partícula</VGE_OxygenMote.label>
+  <VGE_Mote_BeamRepeaterLaser.label>Partícula</VGE_Mote_BeamRepeaterLaser.label>
+
+  <VGE_Apparel_Vacsuit_Prestige.label>traje de vácuo de prestígio</VGE_Apparel_Vacsuit_Prestige.label>
+  <VGE_Apparel_Vacsuit_Prestige.description>Um traje protetor que mantém o usuário seguro no vácuo do espaço. O traje restringe o movimento do usuário, reduzindo consideravelmente sua velocidade de movimento.\n\nCaros e bonitos, trajes de vácuo de prestígio como este são geralmente feitos para aqueles de alto status na marinha real. Fios de eltex embutidos também aumentam a sensibilidade psíquica do usuário.</VGE_Apparel_Vacsuit_Prestige.description>
+  <VGE_Apparel_VacsuitHelmet_Prestige.label>capacete de traje de vácuo de prestígio</VGE_Apparel_VacsuitHelmet_Prestige.label>
+  <VGE_Apparel_VacsuitHelmet_Prestige.description>Um capacete que recicla eficientemente o oxigênio do usuário, permitindo-lhe respirar no vácuo do espaço por horas seguidas. O processo não é perfeitamente eficiente, então o usuário deve retornar periodicamente a um ambiente pressurizado.\n\nCaro e bonito, um capacete de traje de vácuo de prestígio como este é geralmente feito para aqueles de alto status na marinha real. Fios de eltex embutidos também aumentam a sensibilidade psíquica do usuário.</VGE_Apparel_VacsuitHelmet_Prestige.description>
+  
+  <VGE_OperatorSubpersonaCore.label>subnúcleo de subpersona de operador</VGE_OperatorSubpersonaCore.label>
+  <VGE_OperatorSubpersonaCore.description>Um subnúcleo de alto grau especializado em combate de nave de gravidade. Ele pode se conectar a uma única peça de artilharia da nave e controlá-la da mesma forma que um membro da tripulação operando um terminal de mira. Suas capacidades de combate são abaixo da média, mas permite baterias de artilharia autônomas sem a necessidade de operadores humanos.</VGE_OperatorSubpersonaCore.description>
+  <VGE_Astronaut.label>astronauta</VGE_Astronaut.label>
+  <VGE_Astronaut.description>Um mecanóide de tamanho médio projetado para realizar tarefas de construção e combate a incêndios em órbita. Pode realizar ataques corpo a corpo contundentes, se necessário. Não é afetado pelas baixas velocidades de travessia espacial.</VGE_Astronaut.description>
+  <VGE_Astronaut.tools.torso.label>tronco</VGE_Astronaut.tools.torso.label>
+  
+  <VGE_AstrofuelPipe.label>tubo de astrocombustível</VGE_AstrofuelPipe.label>
+  <VGE_AstrofuelPipe.description>Um tubo grande para transportar astrocombustível de alto grau. Diferente de outros tubos, ele é grande, volumoso, serve como cobertura e não se pode ficar em cima dele. Tubos de astrocombustível não podem ser colocados em pontos de interação de bancadas e em portas.</VGE_AstrofuelPipe.description>
+  <VGE_HiddenAstrofuelPipe.label>tubo de astrocombustível oculto</VGE_HiddenAstrofuelPipe.label>
+  <VGE_HiddenAstrofuelPipe.description>Um tubo oculto e reforçado para movimentar oxigênio. Embora não seja visível, é muito mais caro de construir.</VGE_HiddenAstrofuelPipe.description>
+  <VGE_AstrofuelValve.label>válvula de astrocombustível</VGE_AstrofuelValve.label>
+  <VGE_AstrofuelValve.description>Alterna o fluxo de astrocombustível entre ligado e desligado.</VGE_AstrofuelValve.description>
+  <VGE_GiantAstrofuelTank.label>tanque de astrocombustível gigante</VGE_GiantAstrofuelTank.label>
+  <VGE_GiantAstrofuelTank.description>Um monumental tanque de armazenamento de astrocombustível que fornece combustível para os propulsores de uma nave de gravidade.</VGE_GiantAstrofuelTank.description>
+  <VGE_AstrofuelTap.label>torneira de astrocombustível</VGE_AstrofuelTap.label>
+  <VGE_AstrofuelTap.description>Um dispositivo de armazenamento tipo funil destinado a conter astrocombustível dispensado para uso posterior.</VGE_AstrofuelTap.description>
+  <VGE_AstrofuelDrain.label>dreno de astrocombustível</VGE_AstrofuelDrain.label>
+  <VGE_AstrofuelDrain.description>Uma estrutura de armazenamento tipo funil destinada a inserir astrocombustível na rede, enchendo os tanques conectados.</VGE_AstrofuelDrain.description>
+  <VGE_AstrofuelGenerator.label>gerador de astrocombustível</VGE_AstrofuelGenerator.label>
+  <VGE_AstrofuelGenerator.description>Produz energia consumindo astrocombustível. Muito mais eficiente que geradores de quimio-combustível.</VGE_AstrofuelGenerator.description>
+  <VGE_IndustrialAstrofuelGenerator.label>gerador de astrocombustível industrial</VGE_IndustrialAstrofuelGenerator.label>
+  <VGE_IndustrialAstrofuelGenerator.description>Produz uma grande quantidade de energia consumindo astrocombustível. Muito mais eficiente que geradores de quimio-combustível.</VGE_IndustrialAstrofuelGenerator.description>
+  <VGE_AstrofuelSynthesizer.label>sintetizador de astrocombustível</VGE_AstrofuelSynthesizer.label>
+  <VGE_AstrofuelSynthesizer.description>Uma estrutura especializada que refina quimio-combustível em astrocombustível de alto grau. Deve ser conectado à rede de tubos de astrocombustível e ligado a pelo menos um tanque de astrocombustível para operar. Uma vez conectado, ele converte automaticamente o quimio-combustível inserido em astrocombustível para uso em motores e sistemas.</VGE_AstrofuelSynthesizer.description>
+  <VGE_Astropurifier.label>astropurificador</VGE_Astropurifier.label>
+  <VGE_Astropurifier.description>Uma unidade de gravidade-tecnológica que aumenta a precisão e a estabilidade do refino de astrocombustível. Quando colocado ao lado de um sintetizador de astrocombustível, permite a conversão perfeita de 1:1 de quimio-combustível para astrocombustível, embora o processo leve o dobro do tempo.</VGE_Astropurifier.description>
+  
+  <VGE_GiantThruster.label>propulsor gigante</VGE_GiantThruster.label>
+  <VGE_GiantThruster.description>Um propulsor de astrocombustível massivo e reforçado, construído com ligas avançadas e revestimento de vacpedra ultradenso. Aumenta massivamente o alcance e o tamanho máximo da nave de gravidade. Os propulsores requerem uma área desobstruída, livre de grandes edifícios e da subestrutura da nave.\n\nRequer blocos de vacpedra, que podem ser obtidos de asteroides orbitais.\n\nUma nave de gravidade pode suportar até quatro propulsores gigantes.</VGE_GiantThruster.description>
+
+  <VGE_OxygenPipe.label>tubo de oxigênio</VGE_OxygenPipe.label>
+  <VGE_OxygenPipe.description>Um tubo reforçado para movimentar oxigênio. Pode ser colocado sob paredes e outras construções.</VGE_OxygenPipe.description>
+  <VGE_HiddenOxygenPipe.label>tubo de oxigênio oculto</VGE_HiddenOxygenPipe.label>
+  <VGE_HiddenOxygenPipe.description>Um tubo oculto e reforçado para movimentar oxigênio. Embora não seja visível, é muito mais caro de construir.</VGE_HiddenOxygenPipe.description>
+  <VGE_OxygenValve.label>válvula de oxigênio</VGE_OxygenValve.label>
+  <VGE_OxygenValve.description>Alterna o fluxo de oxigênio entre ligado e desligado.</VGE_OxygenValve.description>
+  <VGE_SmallOxygenTank.label>tanque de oxigênio pequeno</VGE_SmallOxygenTank.label>
+  <VGE_SmallOxygenTank.description>Um tanque de oxigênio que fornece oxigênio para bombas em toda a nave de gravidade.</VGE_SmallOxygenTank.description>
+  <VGE_LargeOxygenTank.label>tanque de oxigênio grande</VGE_LargeOxygenTank.label>
+  <VGE_LargeOxygenTank.description>Um tanque de oxigênio grande que fornece oxigênio para bombas em toda a nave de gravidade.</VGE_LargeOxygenTank.description>
+  <VGE_OxygenCanisterFiller.label>enchedor de recipiente de oxigênio</VGE_OxygenCanisterFiller.label>
+  <VGE_OxygenCanisterFiller.description>Um dispositivo de armazenamento tipo funil destinado a conter oxigênio dispensado em recipientes para uso posterior.</VGE_OxygenCanisterFiller.description>
+  <VGE_OxygenCanisterEmptier.label>esvaziador de recipiente de oxigênio</VGE_OxygenCanisterEmptier.label>
+  <VGE_OxygenCanisterEmptier.description>Uma estrutura de armazenamento tipo funil destinada a inserir oxigênio de recipientes na rede, enchendo os tanques conectados.</VGE_OxygenCanisterEmptier.description>
+  <VGE_OxygenHarvester.label>coletor de oxigênio</VGE_OxygenHarvester.label>
+  <VGE_OxygenHarvester.description>Um dispositivo que coleta oxigênio respirável da atmosfera circundante e o armazena na rede de oxigênio. Funciona apenas em superfícies planetárias com atmosfera e não operará no vácuo ou em ambientes com baixo teor de oxigênio.</VGE_OxygenHarvester.description>
+  <VGE_LifeSupportSystem.label>oxigenador de algas</VGE_LifeSupportSystem.label>
+  <VGE_LifeSupportSystem.description>Um dispositivo vital que processa oxialgas colhidas em oxigênio respirável. Converte biomassa em gás e a bombeia para a rede de oxigênio para fornecer a salas pressurizadas e equipamentos.</VGE_LifeSupportSystem.description>
+  <VGE_LifeSupportSystem.comps.CompRefuelable_IgnoreFlickableComp.fuelGizmoLabel>Oxialgas</VGE_LifeSupportSystem.comps.CompRefuelable_IgnoreFlickableComp.fuelGizmoLabel>
+  <VGE_LifeSupportSystem.comps.CompRefuelable_IgnoreFlickableComp.fuelLabel>Oxialgas</VGE_LifeSupportSystem.comps.CompRefuelable_IgnoreFlickableComp.fuelLabel>
+  <VGE_IndustrialOxygenPump.label>bomba de oxigênio industrial</VGE_IndustrialOxygenPump.label>
+  <VGE_IndustrialOxygenPump.description>Uma unidade poderosa que libera grandes quantidades de oxigênio no ambiente circundante, permitindo que áreas fechadas se repressurizem no espaço. Essencial para longas estadias em órbita.</VGE_IndustrialOxygenPump.description>
+  <VGE_OxygenReclaimer.label>recuperador de oxigênio</VGE_OxygenReclaimer.label>
+  <VGE_OxygenReclaimer.description>Uma unidade atmosférica autônoma que extrai vestígios de oxigênio dos gases circundantes. Produz oxigênio a uma taxa lenta e constante, mas não requer materiais de entrada. Precisa ser conectada a um tanque de oxigênio através de tubos de oxigênio para funcionar.</VGE_OxygenReclaimer.description>
+  
+  <VGE_Gun_PointDefense.verbs.Verb_Shoot.label>arma de defesa de ponto</VGE_Gun_PointDefense.verbs.Verb_Shoot.label>
+  <VGE_AmmoBox_GaussShell.label>caixa de munição de projétil gauss</VGE_AmmoBox_GaussShell.label>
+  <VGE_AmmoBox_GaussShell.description>Uma caixa de pequeno porte contendo grandes projéteis de urânio. Usada por diferentes torres de artilharia gauss para recarregar. Uma caixa é alimentada diretamente em uma peça de artilharia de nave de gravidade adjacente quando precisa ser recarregada.</VGE_AmmoBox_GaussShell.description>
+  <VGE_GaussGun.label>canhão gauss</VGE_GaussGun.label>
+  <VGE_GaussGun.description>Um pequeno canhão eletromagnético de cano único que lança projéteis densos de urânio em velocidades extremas. Projetado tanto para bombardeios locais quanto para engajamentos de médio alcance, também pode alvejar outras naves de gravidade em órbita. Requer um terminal de mira ligado com um operador para funcionar. Ele consome energia diretamente do motor de gravidade.</VGE_GaussGun.description>
+  <VGE_GaussGun.comps.CompRefuelable.fuelGizmoLabel>Projéteis de Urânio</VGE_GaussGun.comps.CompRefuelable.fuelGizmoLabel>
+  <VGE_GaussGun.comps.CompRefuelable.fuelLabel>Projéteis de Urânio</VGE_GaussGun.comps.CompRefuelable.fuelLabel>
+  <VGE_Gun_GaussGun.label>canhão gauss</VGE_Gun_GaussGun.label>
+  <VGE_Gun_GaussGun.description>Um pequeno canhão eletromagnético de cano único.</VGE_Gun_GaussGun.description>
+  <VGE_Gun_GaussGun.verbs.Verb_ShootWithSmoke.label>canhão gauss</VGE_Gun_GaussGun.verbs.Verb_ShootWithSmoke.label>
+  <VGE_Bullet_GaussGun.label>Disparo de canhão gauss</VGE_Bullet_GaussGun.label>
+  <VGE_JavelinPod.comps.CompRefuelable.outOfFuelMessage>Faltando foguetes</VGE_JavelinPod.comps.CompRefuelable.outOfFuelMessage>
+  <VGE_Gun_JavelinPod.verbs.Verb_ShootWithWorldTargeting.label>módulo de javali</VGE_Gun_JavelinPod.verbs.Verb_ShootWithWorldTargeting.label>
+  <VGE_Rocket_JavelinRocket.label>Foguete Javali</VGE_Rocket_JavelinRocket.label>
+  <VGE_AnticraftCaster.label>lançador antiaéreo</VGE_AnticraftCaster.label>
+  <VGE_AnticraftCaster.description>Uma arma de energia de médio porte montada em nave de gravidade que dispara rajadas curtas e afiadas de feixe de corte com precisão cirúrgica. Construído para abrir buracos em sistemas críticos, o lançador troca a supressão sustentada por ataques rápidos e precisos. Requer um terminal de mira ligado com um operador para funcionar. Consome muita energia para disparar.</VGE_AnticraftCaster.description>
+  <VGE_Gun_AnticraftCaster.label>lançador antiaéreo</VGE_Gun_AnticraftCaster.label>
+  <VGE_Gun_AnticraftCaster.description>Uma arma de energia de médio porte montada em nave de gravidade.</VGE_Gun_AnticraftCaster.description>
+  <VGE_Gun_AnticraftCaster.verbs.Verb_ShootWithWorldTargeting.label>lançador antiaéreo</VGE_Gun_AnticraftCaster.verbs.Verb_ShootWithWorldTargeting.label>
+  <VGE_Bullet_AnticraftCaster.label>feixe de lançador antiaéreo</VGE_Bullet_AnticraftCaster.label>
+
+  <VGE_CompactDrugLab.label>laboratório de drogas compacto</VGE_CompactDrugLab.label>
+  <VGE_CompactDrugLab.description>Um laboratório de drogas com eficiência espacial, alimentado pela nave de gravidade e projetado para uso a bordo. Apesar de seu quadro menor, está equipado com recipientes, aquecedores e dispositivos de medição para a produção de várias drogas. Ele consome energia diretamente do motor de gravidade.</VGE_CompactDrugLab.description>
+  <VGE_CompactMachiningTable.label>mesa de usinagem compacta</VGE_CompactMachiningTable.label>
+  <VGE_CompactMachiningTable.description>Uma mesa de usinagem com eficiência espacial, alimentada pela nave de gravidade e projetada para uso a bordo. Apesar de seu quadro menor, é ideal para montar máquinas como armas e munições, ou para desmontar mecanóides mortos. Ela consome energia diretamente do motor de gravidade.</VGE_CompactMachiningTable.description>
+  <VGE_CompactSmithy.label>ferraria compacta</VGE_CompactSmithy.label>
+
+  <VGE_CompactSmithy.description>Uma ferraria com eficiência espacial, alimentada pela nave de gravidade e projetada para uso a bordo. Apesar de seu quadro menor, pode ser usada para forjar armas e ferramentas não-mecânicas. Ela consome energia diretamente do motor de gravidade.</VGE_CompactSmithy.description>
+  <VGE_CompactTailor.label>bancada de alfaiate compacta</VGE_CompactTailor.label>
+  <VGE_CompactTailor.description>Uma bancada de alfaiate com eficiência espacial, alimentada pela nave de gravidade e projetada para uso a bordo. Apesar de seu quadro menor, esta bancada vem com uma máquina de costura para a confecção rápida de roupas. Ela consome energia diretamente do motor de gravidade.</VGE_CompactTailor.description>
+  <VGE_CompactRefinery.label>refinaria de biocombustível compacta</VGE_CompactRefinery.label>
+  <VGE_CompactRefinery.description>Uma refinaria de biocombustível com eficiência espacial, alimentada pela nave de gravidade e projetada para uso a bordo. Apesar de seu quadro menor, ela refina matéria biológica como madeira ou matéria vegetal em quimio-combustível. Ela consome energia diretamente do motor de gravidade.</VGE_CompactRefinery.description>
+  <VGE_CompactFabBench.label>bancada de fabricação compacta</VGE_CompactFabBench.label>
+  <VGE_CompactFabBench.description>Uma bancada de fabricação com eficiência espacial, alimentada pela nave de gravidade e projetada para uso a bordo. Apesar de seu quadro menor, está equipada com ferramentas avançadas para produzir maravilhas tecnológicas a partir de materiais mais simples. Ela consome energia diretamente do motor de gravidade.</VGE_CompactFabBench.description>
+  
+  <VQEA_DestroyedSmallAstrofuelTank.label>tanque de astrocombustível pequeno destruído</VQEA_DestroyedSmallAstrofuelTank.label>
+  <VQEA_DestroyedSmallAstrofuelTank.description>Este tanque já armazenou astrocombustível para propulsores, mas foi destruído. Sua estrutura ainda contém materiais recuperáveis.</VQEA_DestroyedSmallAstrofuelTank.description>
+  <VQEA_DestroyedGravExtender.label>extensor de campo de gravidade destruído</VQEA_DestroyedGravExtender.label>
+  <VQEA_DestroyedGravExtender.description>Este dispositivo já expandiu a área de construção de uma nave de gravidade, mas agora está em pedaços. Algumas peças valiosas ainda podem ser recuperadas.</VQEA_DestroyedGravExtender.description>
+  <VQEA_DestroyedSmallThruster.label>propulsor pequeno destruído</VQEA_DestroyedSmallThruster.label>
+  <VQEA_DestroyedSmallThruster.description>Este propulsor já alimentou a nave de gravidade, mas agora está arruinado além do uso. Pedaços de metal e componentes ainda podem ser coletados.</VQEA_DestroyedSmallThruster.description>
+
+  <VGE_DamagedEscapePod.comps.CompHackableEscapePod.hackedInspectString>Abrindo...</VGE_DamagedEscapePod.comps.CompHackableEscapePod.hackedInspectString>
+  <VGE_DamagedEscapePod.comps.CompHackableEscapePod.hackedMessage>{HACKER_labelShort} terminou a invasão de {SUBJECT_labelNoParenthesisDef}.</VGE_DamagedEscapePod.comps.CompHackableEscapePod.hackedMessage>
+  <VGE_DamagedEscapePod.comps.CompHackableEscapePod.notHackedInspectString>Invadir para abrir.</VGE_DamagedEscapePod.comps.CompHackableEscapePod.notHackedInspectString>
+  
+  <VGE_MinifiedGravjumperEngine.label>motor Gravsaltador miniaturizado</VGE_MinifiedGravjumperEngine.label>
+  <VGE_MinifiedGravhulkEngine.label>motor Gravcasco miniaturizado</VGE_MinifiedGravhulkEngine.label>
+
+  <VGE_CrewBunkBed.label>beliche da tripulação</VGE_CrewBunkBed.label>
+  <VGE_CrewBunkBed.description>Uma cama compacta de dois andares projetada para uso em naves de gravidade. Maximiza o espaço limitado, permitindo que dois tripulantes descansem na pegada de uma única cama.</VGE_CrewBunkBed.description>
+  <VGE_MedbayBed.label>cama de enfermaria</VGE_MedbayBed.label>
+  <VGE_MedbayBed.description>Uma cama especializada de nave de gravidade equipada com um monitor de sinais vitais integrado. Projetada para enfermarias, ela melhora os resultados médicos em comparação com camas normais. Ela consome energia diretamente do motor de gravidade.</VGE_MedbayBed.description>
+  <VGE_CrewLockers.label>armários da tripulação</VGE_CrewLockers.label>
+  <VGE_CrewLockers.description>Um conjunto de armários compactos projetados para os alojamentos da tripulação da nave de gravidade. Oferece um pequeno bônus de conforto a todos os beliches próximos. Colocar mais de um armário perto da mesma cama não tem efeito.</VGE_CrewLockers.description>
+  <VGE_GravshipShelf.label>prateleira da nave de gravidade</VGE_GravshipShelf.label>
+  <VGE_GravshipShelf.description>Uma prateleira de armazenamento reforçada projetada para uso a bordo de naves de gravidade. Os itens armazenados nela não afetarão a beleza do cômodo e não se deteriorarão, mesmo que estejam ao ar livre.</VGE_GravshipShelf.description>
+
+  <VGE_WallFirefoamPopper.label>lançador de espuma de incêndio de parede</VGE_WallFirefoamPopper.label>
+  <VGE_WallFirefoamPopper.description>Uma variante montada na parede do lançador de espuma de incêndio. Ao detectar fogo, ele explode e pulveriza espuma retardante de fogo em uma área circular ao seu redor. Também pode ser acionado manualmente.</VGE_WallFirefoamPopper.description>
+  <VGE_WallFirefoamPopper.comps.CompUsable.useLabel>Acionar {0_label}</VGE_WallFirefoamPopper.comps.CompUsable.useLabel>
+  <VGE_CommsTerminal.label>terminal de comunicação</VGE_CommsTerminal.label>
+  <VGE_CommsTerminal.description>Uma versão compacta de um console de comunicação que permite contato por rádio com outras facções e comerciantes orbitais. Ele consome energia diretamente do motor de gravidade.</VGE_CommsTerminal.description>
+  <VGE_CommsTerminal.comps.CompUsable.useLabel>Invocar ameaça diabólica</VGE_CommsTerminal.comps.CompUsable.useLabel>
+  <VGE_WallOrbitalTradeBeacon.label>baliza de comércio orbital de parede</VGE_WallOrbitalTradeBeacon.label>
+  <VGE_WallOrbitalTradeBeacon.description>Uma versão montada na parede de uma baliza de comércio orbital, necessária para o comércio orbital. Você só pode vender mercadorias a comerciantes orbitais se elas estiverem perto de uma baliza de comércio orbital. Pode ser colocada em ambientes internos.</VGE_WallOrbitalTradeBeacon.description>
+  <VGE_FauxPlant.label>planta falsa</VGE_FauxPlant.label>
+  <VGE_FauxPlant.description>Uma planta artificial em um vaso de metal resistente. Não requer luz, água ou ar, tornando-a perfeita para adicionar beleza até mesmo aos ambientes mais inóspitos da nave de gravidade.</VGE_FauxPlant.description>
+  <VGE_SealantPopper.label>lançador de selante</VGE_SealantPopper.label>
+  <VGE_SealantPopper.description>Quando detecta níveis de vácuo acima de 25%, este dispositivo de segurança explode e libera uma gosma selante de rápida expansão. A substância solidifica-se rapidamente, vedando buracos e falhas para restaurar a pressão no cômodo. Também pode ser acionado manualmente.</VGE_SealantPopper.description>
+  <VGE_SealantPopper.comps.CompUsable.useLabel>Acionar {0_label}</VGE_SealantPopper.comps.CompUsable.useLabel>
+
+  <VGE_Gun_MassDriver.verbs.Verb_ShootWithSmoke.label>disparador de massa</VGE_Gun_MassDriver.verbs.Verb_ShootWithSmoke.label>
+  <VGE_Bullet_MassDriver.label>tiro de disparador de massa</VGE_Bullet_MassDriver.label>
+  <VGE_HeavyChargeAnnihilator.label>aniquilador de carga pesada</VGE_HeavyChargeAnnihilator.label>
+  <VGE_HeavyChargeAnnihilator.description>Uma arma de carga pulsada pesada, projetada para fogo de supressão sustentado na defesa de plataformas orbitais mecanóides. Seus capacitores e sistemas de resfriamento aprimorados permitem que ela libere rajadas mais longas e devastadoras do que os blasters de carga padrão, saturando áreas inteiras com tiros surpreendentemente precisos.</VGE_HeavyChargeAnnihilator.description>
+  <VGE_Gun_HeavyChargeAnnihilator.label>aniquilador de carga pesada</VGE_Gun_HeavyChargeAnnihilator.label>
+  <VGE_Gun_HeavyChargeAnnihilator.description>Uma arma de carga pulsada pesada para defesa mecanóide.</VGE_Gun_HeavyChargeAnnihilator.description>
+  <VGE_Gun_HeavyChargeAnnihilator.verbs.Verb_Shoot.label>aniquilador de carga pesada</VGE_Gun_HeavyChargeAnnihilator.verbs.Verb_Shoot.label>
+
+  <VGE_MechanoidGravEngine.label>motor de gravidade mecanóide</VGE_MechanoidGravEngine.label>
+  <VGE_MechanoidGravEngine.description>O coração frio e artificial de uma plataforma orbital mecanóide. Diferente dos motores de gravidade construídos por humanos, estes são construídos pelo próprio núcleo mecanóide, otimizados para eficiência implacável e operação incessante. Eles geram imensos campos de sustentação e estabilização que permitem que plataformas inteiras permaneçam suspensas em órbita, formando a espinha dorsal da dominação mecanóide no espaço. Embora em grande parte incompatíveis com sistemas humanos e inutilizáveis para a construção de naves de gravidade, eles podem ser destruídos para render um núcleo de gravidade, um prêmio raro e valioso para qualquer um que ouse desafiá-los.</VGE_MechanoidGravEngine.description>
+  <VGE_LargeMechanoidThruster.label>propulsor mecanóide grande</VGE_LargeMechanoidThruster.label>
+  <VGE_LargeMechanoidThruster.description>Um propulsor de astrocombustível massivo construído pelo núcleo mecanóide para impulsionar suas plataformas orbitais. Sua construção espelha o design humano, mas é reforçada com precisão e eficiência mecânica, forrada com espessas placas de vacpedra que resistem a calor e estresse extremos. Estes propulsores permitem que plataformas mecanóides manobrem e mantenham posição em órbita. Embora inutilizável para naves de gravidade humanas, destruí-lo renderá um pequeno suprimento de preciosos blocos de vacpedra.</VGE_LargeMechanoidThruster.description>
+  <VGE_MechanoidResourceProcessor.label>processador de recursos</VGE_MechanoidResourceProcessor.label>
+  <VGE_MechanoidResourceProcessor.description>Uma estrutura construída por máquina que sustenta plataformas mecanóides, quebrando detritos cósmicos e destroços em recursos utilizáveis. Opera em intervalos regulares, produzindo constantemente metais e combustíveis necessários para manter seus redutos orbitais supridos.</VGE_MechanoidResourceProcessor.description>
+  <VGE_MechanoidPodLauncher.label>lançador de cápsulas mecanóide</VGE_MechanoidPodLauncher.label>
+  <VGE_MechanoidPodLauncher.description>Uma baía de lançamento mecanizada que periodicamente dispara cápsulas de aterragem (drop pods) recheadas de mecanóides. Estas cápsulas atingem alvos distantes ou naves próximas, permitindo que a plataforma projete suas forças muito além de seu casco.</VGE_MechanoidPodLauncher.description>
+  <VGE_MechanoidTempShield.label>escudo temporário mecanóide</VGE_MechanoidTempShield.label>
+  <VGE_MechanoidTempShield.description>Uma unidade de defesa compacta que projeta um escudo localizado ao seu redor. A barreira ativa apenas por um curto período antes de colapsar, após o qual o dispositivo deve esfriar antes de poder se implantar novamente.</VGE_MechanoidTempShield.description>
+  <VGE_MechanoidAstrofuelNode.label>nó de astrocombustível</VGE_MechanoidAstrofuelNode.label>
+  <VGE_MechanoidAstrofuelNode.description>Um reservatório de combustível compacto integrado em plataformas mecanóides. Armazena astrocombustível refinado para seus sistemas, mas quando danificado é altamente instável e propenso a explosões violentas.</VGE_MechanoidAstrofuelNode.description>
+
+  <VGE_GravshipCapacitor.label>capacitor da nave de gravidade</VGE_GravshipCapacitor.label>
+  <VGE_GravshipCapacitor.description>Armazena grandes quantidades de eletricidade para uso posterior. Construídos na subestrutura da nave de gravidade, os capacitores da nave de gravidade não obstruem o movimento.</VGE_GravshipCapacitor.description>
+  <VGE_SolarPanelling.label>painel solar</VGE_SolarPanelling.label>
+  <VGE_SolarPanelling.description>Produz eletricidade a partir da luz solar. Não funciona no escuro ou sob luz artificial. Não obstrui o movimento nem fornece cobertura, mas só pode ser construído na subestrutura da nave de gravidade.</VGE_SolarPanelling.description>
+  <VGE_GravshipBlackBox.label>caixa preta da nave de gravidade</VGE_GravshipBlackBox.label>
+  <VGE_GravshipBlackBox.description>Um gravador avançado indestrutível integrado nos sistemas da nave de gravidade. Aumenta muito o rendimento de dados de gravidade, captura qualquer excesso que normalmente seria desperdiçado e permite que os dados de gravidade armazenados sejam convertidos diretamente em pontos de pesquisa. Uma nave de gravidade pode suportar apenas uma caixa preta.</VGE_GravshipBlackBox.description>
+
+  <VGE_VacBarrierDouble.description>Uma barreira ultrassônica que evita a despressurização no espaço. O campo comprime as moléculas de ar perto do limite, impedindo que os gases escapem enquanto permite que as pessoas viajem livremente através dele. Uma barreira de vácuo não fará nada para impedir intrusos.\n\nDeve ser energizada para evitar a despressurização.</VGE_VacBarrierDouble.description>
+  <VGE_VacBarrierTriple.description>Uma barreira ultrassônica que evita a despressurização no espaço. O campo comprime as moléculas de ar perto do limite, impedindo que os gases escapem enquanto permite que as pessoas viajem livremente através dele. Uma barreira de vácuo não fará nada para impedir intrusos.\n\nDeve ser energizada para evitar a despressurização.</VGE_VacBarrierTriple.description>
+  <VGE_VacBarrierQuintuple.description>Uma barreira ultrassônica que evita a despressurização no espaço. O campo comprime as moléculas de ar perto do limite, impedindo que os gases escapem enquanto permite que as pessoas viajem livremente através dele. Uma barreira de vácuo não fará nada para impedir intrusos.\n\nDeve ser energizada para evitar a despressurização.</VGE_VacBarrierQuintuple.description>
+
+  <VGE_OxygenCanister.label>recipiente de oxigênio</VGE_OxygenCanister.label>
+  <VGE_OxygenCanister.description>Um gás que sustenta a vida. Usado para pressurizar cômodos, fornecer ar respirável ou abastecer equipamentos especializados e kits de sobrevivência. Volátil quando danificado.</VGE_OxygenCanister.description>
+  <VGE_Astrofuel.label>astrocombustível</VGE_Astrofuel.label>
+  <VGE_Astrofuel.description>Um combustível sintético de alta energia. Usado para abastecer propulsores e boosters de naves de gravidade, ou para gerar eletricidade em sistemas especializados. Extremamente combustível, queima violentamente mesmo em ambientes com pouco oxigênio.</VGE_Astrofuel.description>
+  <VGE_Oxyalgae.label>oxialgas</VGE_Oxyalgae.label>
+  <VGE_Oxyalgae.description>Uma densa camada de algas aquáticas colhidas, cultivadas para uso em sistemas de suporte de vida. As oxialgas fornecem geração constante de oxigênio, mas estragam rapidamente se não forem processadas.</VGE_Oxyalgae.description>
+
+  <VGE_Apparel_OxygenPack.label>pacote de oxigênio</VGE_Apparel_OxygenPack.label>
+  <VGE_Apparel_OxygenPack.description>Um pacote utilitário contendo um grande suprimento de oxigênio comprimido. Quando usado com vestimenta selada a vácuo, fornece imunidade total ao vácuo, fornecendo ar respirável. O pacote só consome oxigênio enquanto está no vácuo e deve ser recarregado periodicamente. Também reduz drasticamente a exposição à poluição pelos pulmões.</VGE_Apparel_OxygenPack.description>
+  <VGE_Apparel_OxygenPack.comps.CompApparelOxygenProvider.chargeNoun>oxigênio u³</VGE_Apparel_OxygenPack.comps.CompApparelOxygenProvider.chargeNoun>
+
+  <VGE_Filth_Astrofuel.label>poça de astrocombustível</VGE_Filth_Astrofuel.label>
+  <VGE_Filth_Astrofuel.description>Uma poça de astrocombustível inflamável.</VGE_Filth_Astrofuel.description>
+  <VGE_Filth_DamagedSubstructure.label>detritos de subestrutura danificada</VGE_Filth_DamagedSubstructure.label>
+  <VGE_Filth_DamagedSubstructure.description>Detritos da subestrutura danificada da nave de gravidade.</VGE_Filth_DamagedSubstructure.description>
+  <VGE_GaussSmoke.label>Partícula</VGE_GaussSmoke.label>
+  <VGE_SmallDebris.label>detritos pequenos</VGE_SmallDebris.label>
+  <VGE_MediumDebris.label>detritos médios</VGE_MediumDebris.label>
+  <VGE_LargeDebris.label>detritos grandes</VGE_LargeDebris.label>
+  <VGE_SmallAsteroid_Projectile.label>asteroide pequeno</VGE_SmallAsteroid_Projectile.label>
+  <VGE_MediumAsteroid.label>asteroide médio</VGE_MediumAsteroid.label>
+  <VGE_LargeAsteroid.label>asteroide grande</VGE_LargeAsteroid.label>
+  <VGE_Astrofire.label>astrofogo</VGE_Astrofire.label>
+  <VGE_AstrofireSpark.label>faísca de astrofogo</VGE_AstrofireSpark.label>
+  <VGE_LandingStructure.label>estrutura de pouso</VGE_LandingStructure.label>
+
+  <VGE_OxyalgaePlant.label>planta de oxialgas</VGE_OxyalgaePlant.label>
+  <VGE_OxyalgaePlant.description>Uma planta aquática de crescimento rápido cultivada em hidroponia e usada para gerar oxigênio quando convertida em oxigenador de algas. Apodrece rapidamente quando colhida, tornando o processamento imediato essencial.</VGE_OxyalgaePlant.description>
+  <VGE_Astropede.label>astrópede</VGE_Astropede.label>
+  <VGE_Astropede.description>Mecanóides pesadamente blindados adaptados para a guerra em gravidade zero. Astrópedes flutuam silenciosamente pelo espaço usando estabilizadores gravitacionais, liberando barragens cinéticas explosivas de suas lanças de massa miniaturizadas. Seu perfil flutuante os torna ideais para assaltos a bordo de naves e violações de estações, embora sua lenta velocidade de movimento os deixe vulneráveis a fogo concentrado.</VGE_Astropede.description>
+  <VGE_Astropede.tools.head.label>cabeça</VGE_Astropede.tools.head.label>
+  <VGE_Hunter.label>caçador</VGE_Hunter.label>
+  <VGE_Hunter.description>Um mecanóide de combate rápido, do tamanho humano, projetado para a guerra em gravidade zero. Ele flutua sem esforço pelo espaço, aproximando-se do alvo antes de liberar salvas devastadoras do lançador de javalis duplos. Embora os mísseis atinjam com precisão letal, seu curto alcance força os caçadores a uma proximidade perigosa com o inimigo.</VGE_Hunter.description>
+  <VGE_Hunter.tools.head.label>cabeça</VGE_Hunter.tools.head.label>
+
+  <VGE_MassLance.label>lança de massa</VGE_MassLance.label>
+  <VGE_MassLance.description>Uma artilharia de disparador de massa portátil montada em mecanóide. Dispara projéteis densos em velocidades incríveis, capazes de destruir até mesmo naves de gravidade fortemente blindadas.</VGE_MassLance.description>
+  <VGE_MassLance.tools.barrel.label>cano</VGE_MassLance.tools.barrel.label>
+  <VGE_MassLance.verbs.Verb_Shoot.label>lança de massa</VGE_MassLance.verbs.Verb_Shoot.label>
+  <VGE_RocketswarmPod.label>módulo de enxame de foguetes</VGE_RocketswarmPod.label>
+  <VGE_RocketswarmPod.description>Um lançador de enxame de foguetes duplo, miniaturizado e montado em mecanóide. É muito eficaz contra grandes grupos de combatentes mais fracos, mas menos eficaz contra pequenos números de alvos blindados.</VGE_RocketswarmPod.description>
+  <VGE_RocketswarmPod.tools.barrel.label>cano</VGE_RocketswarmPod.tools.barrel.label>
+  <VGE_RocketswarmPod.verbs.Verb_Shoot.label>módulo de enxame de foguetes</VGE_RocketswarmPod.verbs.Verb_Shoot.label>
+
+</LanguageData>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_Ecstasy.label>Êxtase</VRE_Ecstasy.label>
+  <VRE_Ecstasy.description>Concede ao alvo uma sensação de êxtase extremo por um curto período, o que faz com que desenvolva uma paixão intensa pelo conjurador.</VRE_Ecstasy.description>
+  <VRE_Ecstasy.labelShortAdj>extasiador</VRE_Ecstasy.labelShortAdj>
+  <VRE_Ecstasy.symbolPack.prefixSymbols.0.symbol>êxta</VRE_Ecstasy.symbolPack.prefixSymbols.0.symbol>
+  <VRE_Ecstasy.symbolPack.prefixSymbols.1.symbol>sedu</VRE_Ecstasy.symbolPack.prefixSymbols.1.symbol>
+  <VRE_Ecstasy.symbolPack.prefixSymbols.2.symbol>sexy</VRE_Ecstasy.symbolPack.prefixSymbols.2.symbol>
+  <VRE_Ecstasy.symbolPack.suffixSymbols.0.symbol>sedutor</VRE_Ecstasy.symbolPack.suffixSymbols.0.symbol>
+  <VRE_Ecstasy.symbolPack.suffixSymbols.1.symbol>extasiador</VRE_Ecstasy.symbolPack.suffixSymbols.1.symbol>
+  <VRE_Ecstasy.symbolPack.suffixSymbols.2.symbol>prazer</VRE_Ecstasy.symbolPack.suffixSymbols.2.symbol>
+
+  <VRE_HeartCrush.label>Esmagar Coração</VRE_HeartCrush.label>
+  <VRE_HeartCrush.description>Arranca o coração de um inimigo próximo, matando-o instantaneamente e cobrindo a área com sangue. Só funciona em criaturas com massa corporal de 2.0 ou inferior. Criaturas maiores ainda sofrerão danos severos.</VRE_HeartCrush.description>
+  <VRE_HeartCrush.customEffectDescriptions.0>Funciona apenas em criaturas com tamanho corporal de 2.0 ou inferior. Criaturas maiores ainda sofrerão danos severos.</VRE_HeartCrush.customEffectDescriptions.0>
+  <VRE_HeartCrush.labelShortAdj>esmagador</VRE_HeartCrush.labelShortAdj>
+  <VRE_HeartCrush.symbolPack.prefixSymbols.0.symbol>coração</VRE_HeartCrush.symbolPack.prefixSymbols.0.symbol>
+  <VRE_HeartCrush.symbolPack.prefixSymbols.1.symbol>esmagador</VRE_HeartCrush.symbolPack.prefixSymbols.1.symbol>
+  <VRE_HeartCrush.symbolPack.suffixSymbols.0.symbol>cardíaco</VRE_HeartCrush.symbolPack.suffixSymbols.0.symbol>
+  <VRE_HeartCrush.symbolPack.suffixSymbols.1.symbol>esmagador</VRE_HeartCrush.symbolPack.suffixSymbols.1.symbol>
+
+  <VRE_FilterInfection.label>Filtrar Infecção</VRE_FilterInfection.label>
+  <VRE_FilterInfection.description>Põe as mãos em um alvo e ajuda-o a combater suas infecções. Funciona em animais ou colonos.</VRE_FilterInfection.description>
+  <VRE_FilterInfection.labelShortAdj>filtrador</VRE_FilterInfection.labelShortAdj>
+  <VRE_FilterInfection.symbolPack.prefixSymbols.0.symbol>limpo</VRE_FilterInfection.symbolPack.prefixSymbols.0.symbol>
+  <VRE_FilterInfection.symbolPack.prefixSymbols.1.symbol>estéril</VRE_FilterInfection.symbolPack.prefixSymbols.1.symbol>
+  <VRE_FilterInfection.symbolPack.prefixSymbols.2.symbol>diálise</VRE_FilterInfection.symbolPack.prefixSymbols.2.symbol>
+  <VRE_FilterInfection.symbolPack.suffixSymbols.0.symbol>limpador</VRE_FilterInfection.symbolPack.suffixSymbols.0.symbol>
+  <VRE_FilterInfection.symbolPack.suffixSymbols.1.symbol>purificador</VRE_FilterInfection.symbolPack.suffixSymbols.1.symbol>
+
+  <VRE_Hemosmosis.label>Hemósmose</VRE_Hemosmosis.label>
+  <VRE_Hemosmosis.description>Absorve o sangue circundante e o transforma em hemogênio.</VRE_Hemosmosis.description>
+  <VRE_Hemosmosis.labelShortAdj>osmótico</VRE_Hemosmosis.labelShortAdj>
+  <VRE_Hemosmosis.symbolPack.prefixSymbols.0.symbol>hemo</VRE_Hemosmosis.symbolPack.prefixSymbols.0.symbol>
+  <VRE_Hemosmosis.symbolPack.suffixSymbols.0.symbol>osmose</VRE_Hemosmosis.symbolPack.suffixSymbols.0.symbol>
+  <VRE_Hemosmosis.symbolPack.suffixSymbols.1.symbol>hemo</VRE_Hemosmosis.symbolPack.suffixSymbols.1.symbol>
+  <VRE_Hemosmosis.symbolPack.suffixSymbols.2.symbol>circulante</VRE_Hemosmosis.symbolPack.suffixSymbols.2.symbol>
+
+  <VRE_Resurrect.label>Ressurreição</VRE_Resurrect.label>
+  <VRE_Resurrect.description>Usa Arquitas na corrente sanguínea para infundir o corpo de um cadáver com nova vida, reparando estruturas celulares degeneradas e ativando funções vitais. Quanto mais velho e pior preservado for o cadáver, maior a probabilidade de retornar com perda de memória ou problemas de saúde. Esta habilidade parece esgotar as Arquitas de alguma forma, por isso só pode ser usada muito raramente.</VRE_Resurrect.description>
+  <VRE_Resurrect.labelShortAdj>ressurgente</VRE_Resurrect.labelShortAdj>
+  <VRE_Resurrect.symbolPack.prefixSymbols.0.symbol>ressuscita</VRE_Resurrect.symbolPack.prefixSymbols.0.symbol>
+  <VRE_ToxicCloud.label>Nuvem Tóxica</VRE_ToxicCloud.label>
+  <VRE_ToxicCloud.description>Libera fumaça tóxica densa armazenada em reservatórios orgânicos nos pulmões. O gás é letal para quase todas as formas de vida orgânica.</VRE_ToxicCloud.description>
+  <VRE_ToxicCloud.labelShortAdj>tóxico</VRE_ToxicCloud.labelShortAdj>
+  <VRE_ToxicCloud.symbolPack.prefixSymbols.0.symbol>nuvem</VRE_ToxicCloud.symbolPack.prefixSymbols.0.symbol>
+  <VRE_ToxicCloud.symbolPack.prefixSymbols.1.symbol>veneno</VRE_ToxicCloud.symbolPack.prefixSymbols.1.symbol>
+  <VRE_ToxicCloud.symbolPack.suffixSymbols.0.symbol>tóxico</VRE_ToxicCloud.symbolPack.suffixSymbols.0.symbol>
+  <VRE_ToxicCloud.symbolPack.suffixSymbols.1.symbol>venenoso</VRE_ToxicCloud.symbolPack.suffixSymbols.1.symbol>
+
+  <VRE_ViscuousGoo.label>Gosma Viscosa</VRE_ViscuousGoo.label>
+  <VRE_ViscuousGoo.description>Ejeta um projétil que explode no impacto, criando uma grande quantidade de sujeira que desacelera severamente quem tenta se mover através dela.</VRE_ViscuousGoo.description>
+  <VRE_ViscuousGoo.labelShortAdj>viscoso</VRE_ViscuousGoo.labelShortAdj>
+  <VRE_ViscuousGoo.symbolPack.prefixSymbols.0.symbol>gosm</VRE_ViscuousGoo.symbolPack.prefixSymbols.0.symbol>
+  <VRE_ViscuousGoo.symbolPack.prefixSymbols.1.symbol>grud</VRE_ViscuousGoo.symbolPack.prefixSymbols.1.symbol>
+  <VRE_ViscuousGoo.symbolPack.suffixSymbols.0.symbol>viscoso</VRE_ViscuousGoo.symbolPack.suffixSymbols.0.symbol>
+  <VRE_SanguineHair.label>Cabelo Sanguíneo</VRE_SanguineHair.label>
+  <VRE_SanguineHair.description>Os portadores deste gene apresentam o cabelo naturalmente estilizado em padrões ancestrais dos Sanguófagos.</VRE_SanguineHair.description>
+  <VRE_SanguineHair.labelShortAdj>sanguíneo</VRE_SanguineHair.labelShortAdj>
+  
+  <VRE_BatEars.label>Orelhas de Morcego</VRE_BatEars.label>
+  <VRE_BatEars.description>O portador deste gene manifesta orelhas que se assemelham às de um morcego.</VRE_BatEars.description>
+  <VRE_BatEars.labelShortAdj>de morcego</VRE_BatEars.labelShortAdj>
+  <VRE_BatEars.symbolPack.prefixSymbols.0.symbol>morcego</VRE_BatEars.symbolPack.prefixSymbols.0.symbol>
+
+  <VRE_UpperBatEars.label>Orelhas Pontudas</VRE_UpperBatEars.label>
+  <VRE_UpperBatEars.description>O portador deste gene manifesta orelhas pontudas que se assemelham às de um morcego.</VRE_UpperBatEars.description>
+  <VRE_UpperBatEars.labelShortAdj>pontudo</VRE_UpperBatEars.labelShortAdj>
+  <VRE_UpperBatEars.symbolPack.prefixSymbols.0.symbol>pontudo</VRE_UpperBatEars.symbolPack.prefixSymbols.0.symbol>
+
+  <VRE_Talons.label>Garras</VRE_Talons.label>
+  <VRE_Talons.description>O portador deste gene manifesta mãos parcialmente transformadas em garras. Isso reduz sua capacidade de manipulação, mas permite realizar ataques especiais em combate corpo a corpo.</VRE_Talons.description>
+  <VRE_Talons.labelShortAdj>garra</VRE_Talons.labelShortAdj>
+  <VRE_Talons.symbolPack.prefixSymbols.0.symbol>garra</VRE_Talons.symbolPack.prefixSymbols.0.symbol>
+  <VRE_Talons.symbolPack.suffixSymbols.0.symbol>garras</VRE_Talons.symbolPack.suffixSymbols.0.symbol>
+
+  <VRE_LowHemogenDrain.label>Drenagem Baixa de Hemogênio</VRE_LowHemogenDrain.label>
+  <VRE_LowHemogenDrain.description>O portador perde 4 unidades adicionais de hemogênio por dia devido à entropia biológica.</VRE_LowHemogenDrain.description>
+  <VRE_LowHemogenDrain.labelShortAdj>drenador</VRE_LowHemogenDrain.labelShortAdj>
+  <VRE_LowHemogenDrain.resourceLabel>hemogênio</VRE_LowHemogenDrain.resourceLabel>
+
+  <VRE_ExtremeHemogenDrain.label>Drenagem Extrema de Hemogênio</VRE_ExtremeHemogenDrain.label>
+  <VRE_ExtremeHemogenDrain.description>O portador perde 12 unidades adicionais de hemogênio por dia devido à entropia biológica.</VRE_ExtremeHemogenDrain.description>
+  <VRE_ExtremeHemogenDrain.labelShortAdj>extremamente drenador</VRE_ExtremeHemogenDrain.labelShortAdj>
+  <VRE_ExtremeHemogenDrain.resourceLabel>hemogênio</VRE_ExtremeHemogenDrain.resourceLabel>
+  
+  <VRE_BatNose.label>Nariz de Morcego</VRE_BatNose.label>
+  <VRE_BatNose.description>O portador deste gene manifesta um nariz em forma de folha, semelhante ao de um morcego.</VRE_BatNose.description>
+  <VRE_BatNose.labelShortAdj>nariz de morcego</VRE_BatNose.labelShortAdj>
+  <VRE_BatNose.symbolPack.prefixSymbols.0.symbol>nariz</VRE_BatNose.symbolPack.prefixSymbols.0.symbol>
+
+  <VRE_AnimalFeeder.label>Alimentação Animal</VRE_AnimalFeeder.label>
+  <VRE_AnimalFeeder.description>O portador deste gene manifesta pequenas presas retráteis e um órgão no palato que é capaz de extrair hemogênio de sangue fresco e quente. Permite morder qualquer animal, drenar seu sangue e obter hemogênio diretamente. Isso pode, por vezes, provocar um ataque do animal contra o portador do gene.</VRE_AnimalFeeder.description>
+  <VRE_AnimalFeeder.labelShortAdj>animal</VRE_AnimalFeeder.labelShortAdj>
+  <VRE_AnimalFeeder.symbolPack.prefixSymbols.0.symbol>animal</VRE_AnimalFeeder.symbolPack.prefixSymbols.0.symbol>
+  <VRE_AnimalFeeder.symbolPack.prefixSymbols.1.symbol>fera</VRE_AnimalFeeder.symbolPack.prefixSymbols.1.symbol>
+  <VRE_AnimalFeeder.symbolPack.suffixSymbols.0.symbol>fera</VRE_AnimalFeeder.symbolPack.suffixSymbols.0.symbol>
+
+  <VRE_CorpseFeeder.label>Alimentação em Cadáveres</VRE_CorpseFeeder.label>
+  <VRE_CorpseFeeder.description>O portador deste gene manifesta pequenas presas retráteis e um órgão no palato que é capaz de extrair hemogênio diretamente de cadáveres de colonos. Isso só funciona com sangue fresco. Se o cadáver estiver muito deteriorado, não haverá ganho de hemogênio.</VRE_CorpseFeeder.description>
+  <VRE_CorpseFeeder.labelShortAdj>cadáver</VRE_CorpseFeeder.labelShortAdj>
+  <VRE_CorpseFeeder.symbolPack.prefixSymbols.0.symbol>cadáver</VRE_CorpseFeeder.symbolPack.prefixSymbols.0.symbol>
+  <VRE_CorpseFeeder.symbolPack.prefixSymbols.1.symbol>morte</VRE_CorpseFeeder.symbolPack.prefixSymbols.1.symbol>
+  <VRE_CorpseFeeder.symbolPack.suffixSymbols.0.symbol>necro</VRE_CorpseFeeder.symbolPack.suffixSymbols.0.symbol>
+  <VRE_CorpseFeeder.symbolPack.suffixSymbols.1.symbol>morto</VRE_CorpseFeeder.symbolPack.suffixSymbols.1.symbol>
+
+  <VRE_SanguoFeeder.label>Alimentação Sanguófaga</VRE_SanguoFeeder.label>
+  <VRE_SanguoFeeder.description>O portador deste gene manifesta pequenas presas retráteis e um órgão no palato que é capaz de extrair hemogênio do sangue fresco e quente de outros sanguófagos. Permite morder um sanguófago que não resista, drenar seu sangue e obter hemogênio diretamente.</VRE_SanguoFeeder.description>
+  <VRE_SanguoFeeder.labelShortAdj>sanguófago</VRE_SanguoFeeder.labelShortAdj>
+  <VRE_SanguoFeeder.symbolPack.prefixSymbols.0.symbol>sanguófago</VRE_SanguoFeeder.symbolPack.prefixSymbols.0.symbol>
+  <VRE_SanguoFeeder.symbolPack.prefixSymbols.1.symbol>sangu</VRE_SanguoFeeder.symbolPack.prefixSymbols.1.symbol>
+  <VRE_SanguoFeeder.symbolPack.suffixSymbols.0.symbol>sanguófago</VRE_SanguoFeeder.symbolPack.suffixSymbols.0.symbol>
+
+  <VRE_Sensitivity_Dangerous.label>Hipersensibilidade à UV</VRE_Sensitivity_Dangerous.label>
+  <VRE_Sensitivity_Dangerous.description>O portador é muito mais sensível à radiação UV do que a média. Embora a luz solar ainda não o queime imediatamente, o debuff de exposição é muito mais severo. Ficar na luz solar por muito tempo irá causar dor, vômitos e tonturas.</VRE_Sensitivity_Dangerous.description>
+  <VRE_Sensitivity_Dangerous.customEffectDescriptions.0>Capacidade de visão limitada a 50% durante as horas de luz solar</VRE_Sensitivity_Dangerous.customEffectDescriptions.0>
+  <VRE_Sensitivity_Dangerous.labelShortAdj>Hipersensível à UV</VRE_Sensitivity_Dangerous.labelShortAdj>
+  <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.0.symbol>escuridão</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.0.symbol>
+  <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.1.symbol>túnel</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.1.symbol>
+  <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.2.symbol>sub</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.2.symbol>
+  <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.3.symbol>caverna</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.3.symbol>
+  <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.4.symbol>cripta</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.4.symbol>
+  <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.5.symbol>escasso</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.5.symbol>
+  <VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.6.symbol>noite</VRE_Sensitivity_Dangerous.symbolPack.prefixSymbols.6.symbol>
+
+  <VRE_HeartCrush.symbolPack.prefixSymbols.2.symbol>ruína</VRE_HeartCrush.symbolPack.prefixSymbols.2.symbol>
+  
+  <VRE_Resurrect.symbolPack.wholeNameSymbols.0.symbol>ressuscitador</VRE_Resurrect.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <VRE_Talons.symbolPack.prefixSymbols.1.symbol>garra</VRE_Talons.symbolPack.prefixSymbols.1.symbol>
+  <VRE_Talons.symbolPack.prefixSymbols.2.symbol>unha</VRE_Talons.symbolPack.prefixSymbols.2.symbol>
+  <VRE_Talons.symbolPack.prefixSymbols.3.symbol>predador</VRE_Talons.symbolPack.prefixSymbols.3.symbol>
+  <VRE_Talons.symbolPack.prefixSymbols.4.symbol>gancho</VRE_Talons.symbolPack.prefixSymbols.4.symbol>
+  <VRE_Talons.symbolPack.suffixSymbols.1.symbol>afiado</VRE_Talons.symbolPack.suffixSymbols.1.symbol>
+  <VRE_Talons.symbolPack.suffixSymbols.2.symbol>unha</VRE_Talons.symbolPack.suffixSymbols.2.symbol>
+  <VRE_Talons.symbolPack.suffixSymbols.3.symbol>predador</VRE_Talons.symbolPack.suffixSymbols.3.symbol>
+  <VRE_Talons.symbolPack.wholeNameSymbols.0.symbol>garras</VRE_Talons.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <VRE_AnimalFeeder.symbolPack.wholeNameSymbols.0.symbol>alimentadoranimal</VRE_AnimalFeeder.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <VRE_CorpseFeeder.symbolPack.wholeNameSymbols.0.symbol>alimentadordecadáveres</VRE_CorpseFeeder.symbolPack.wholeNameSymbols.0.symbol>
+  
+</LanguageData>

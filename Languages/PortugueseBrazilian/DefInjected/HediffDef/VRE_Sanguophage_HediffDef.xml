@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRE_Sensitivity_Dangerous_Hediff.label>Sensibilidade UV Perigosa</VRE_Sensitivity_Dangerous_Hediff.label>
+  <VRE_Sensitivity_Dangerous_Hediff.description>Esta é uma condição de saúde latente que modula a visão do Colono em reação à luz solar.</VRE_Sensitivity_Dangerous_Hediff.description>
+
+  <VRE_ConsumedAnimalHemogen.label>Hemogênio Animal Consumido</VRE_ConsumedAnimalHemogen.label>
+  <VRE_ConsumedAnimalHemogen.description>Hemogênio extraído de um animal, provendo uma rápida explosão de energia e vitalidade, mas com um custo secundário menor.</VRE_ConsumedAnimalHemogen.description>
+
+  <VRE_ConsumedCorpseHemogen.label>Hemogênio de Cadáver Consumido</VRE_ConsumedCorpseHemogen.label>
+  <VRE_ConsumedCorpseHemogen.description>Hemogênio extraído de um cadáver, provendo uma rápida explosão de energia e vitalidade, mas com um custo secundário menor.</VRE_ConsumedCorpseHemogen.description>
+
+  <VRE_ConsumedSanguophageHemogen.label>Hemogênio Sanguófago Consumido</VRE_ConsumedSanguophageHemogen.label>
+  <VRE_ConsumedSanguophageHemogen.description>Hemogênio extraído de um sanguófago, provendo uma rápida explosão de energia e vitalidade, mas com um custo secundário menor.</VRE_ConsumedSanguophageHemogen.description>
+
+  <VRE_DraincasketSickness.label>Doença de Drenagem no Esquife</VRE_DraincasketSickness.label>
+  <VRE_DraincasketSickness.description>Doença causada pela drenagem de sangue em um esquife de drenagem, afetando o humor, mas apenas ligeiramente.</VRE_DraincasketSickness.description>
+  <VRE_DraincasketSickness.descriptionShort>Afeta ligeiramente o humor devido à drenagem de sangue.</VRE_DraincasketSickness.descriptionShort>
+  <VRE_DraincasketSickness.stages.0.label>ligeira</VRE_DraincasketSickness.stages.0.label>
+
+  <VacskinGland.label>Glândula Vacskin</VacskinGland.label>
+  <VacskinGland.description>Uma glândula Vacskin implantada. Libera uma substância cerosa que forma uma barreira isolante na pele, prevenindo queimaduras por vácuo, mas restringindo a mobilidade. A glândula também regula os níveis de oxigênio no sangue, permitindo maior sobrevivência no vácuo espacial.</VacskinGland.description>
+  <VacskinGland.labelNoun>uma glândula vacskin</VacskinGland.labelNoun>
+
+  <VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>queimadura permanente</VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <VEF_PermanentBurn.labelNounPretty>{0} na {1}</VEF_PermanentBurn.labelNounPretty>
+  <VEF_AcidBurn.labelNounPretty>{0} na {1}</VEF_AcidBurn.labelNounPretty>
+
+  <VRE_SharpTalons.label>Garras Afiadas</VRE_SharpTalons.label>
+  <VRE_SharpTalons.description>Garras afiadas que podem ser utilizadas em combate corpo a corpo.</VRE_SharpTalons.description>
+  
+  <VRE_SolidifiedHemogen.label>Hemogênio Solidificado</VRE_SolidifiedHemogen.label>
+  <VRE_SolidifiedHemogen.description>A eficácia da armadura é aprimorada, pois este Colono utilizou um solidificador de hemogênio durante o Descanso Mortal. Este efeito perdura até o próximo Descanso Mortal.</VRE_SolidifiedHemogen.description>
+
+  <VRE_HemogenAmplifiedWeak.label>Hemogênio Amplificado, Menor</VRE_HemogenAmplifiedWeak.label>
+  <VRE_HemogenAmplifiedWeak.description>Todos os ganhos de hemogênio são multiplicados, pois este Colono utilizou um amplificador de hemogênio menor durante o Descanso Mortal. Este efeito perdura até o próximo Descanso Mortal.</VRE_HemogenAmplifiedWeak.description>
+
+    <VRE_SharpTalons.comps.HediffComp_VerbGiver.tools.talons.label>garras</VRE_SharpTalons.comps.HediffComp_VerbGiver.tools.talons.label>
+  
+  <VRE_SolidifiedHemogen.extraTooltip>Dura até o próximo descanso mortal.</VRE_SolidifiedHemogen.extraTooltip>
+
+  <VRE_HemogenAmplifiedWeak.extraTooltip>Dura até o próximo descanso mortal.</VRE_HemogenAmplifiedWeak.extraTooltip>
+
+</LanguageData>
