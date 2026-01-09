@@ -9,5 +9,12 @@
     <VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>
     <VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>
     <VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>
+    <VRE_HemogenPack_Animal.label>pacote de Hemogênio (animal)</VRE_HemogenPack_Animal.label>
+    <VRE_HemogenPack_Animal.description>Hemogênio animal. Aumenta a regeneração e as capacidades de
+        combate do usuário, mas diminui drasticamente a capacidade de comunicação com os outros.</VRE_HemogenPack_Animal.description>
 
+    <Corpse_VRE_HemogenPack.label>pacote de hemogênio (cadáver)</Corpse_VRE_HemogenPack.label>
+    <Corpse_VRE_HemogenPack.description>Hemogênio contaminado e em decomposição de um cadáver. Enfraquece grandemente o portador deste tipo de hemogen, mas aumenta significativamente a filtração sanguínea.</Corpse_VRE_HemogenPack.description>
+        raquece grandemente o portador deste tipo de Hemogênio, mas aumenta significativamente a
+        filtração sanguínea.</Corpse_VRE_HemogenPack.description>
 </LanguageData>
