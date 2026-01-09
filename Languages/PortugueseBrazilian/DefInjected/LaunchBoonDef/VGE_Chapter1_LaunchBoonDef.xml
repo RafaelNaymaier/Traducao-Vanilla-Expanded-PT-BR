@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <VGE_LandmarkSpotted.label>marco avistado</VGE_LandmarkSpotted.label>
+    <VGE_LandmarkSpotted.letterLabel>marco avistado</VGE_LandmarkSpotted.letterLabel>
+    <VGE_LandmarkSpotted.letterText>Ao pousar {GRAVSHIP}, sua tripulação notou um local incomum na área circundante. A curiosidade deles pode levar a descobertas valiosas. {LANDMARK} foi avistado nas proximidades.</VGE_LandmarkSpotted.letterText>
+
+    <VGE_RichDepositDetected.label>depósito rico detectado</VGE_RichDepositDetected.label>
+    <VGE_RichDepositDetected.letterLabel>depósito rico detectado</VGE_RichDepositDetected.letterLabel>
+    <VGE_RichDepositDetected.letterText>Ao pousar {GRAVSHIP}, sensores automáticos captaram fortes leituras de recursos raros e valiosos nas profundezas da superfície.</VGE_RichDepositDetected.letterText>
+
+    <VGE_CaravanEncounter.label>encontro com caravana</VGE_CaravanEncounter.label>
+    <VGE_CaravanEncounter.letterLabel>encontro com caravana</VGE_CaravanEncounter.letterLabel>
+    <VGE_CaravanEncounter.letterText>Ao pousar {GRAVSHIP}, uma caravana viajante próxima notou a nave e se aproximou por curiosidade. Eles estão procurando negociar.</VGE_CaravanEncounter.letterText>
+
+    <VGE_PerfectTrajectory.label>trajetória perfeita</VGE_PerfectTrajectory.label>
+    <VGE_PerfectTrajectory.letterLabel>trajetória perfeita</VGE_PerfectTrajectory.letterLabel>
+    <VGE_PerfectTrajectory.letterText>Durante o lançamento de {GRAVSHIP}, {PILOT} executou um cálculo de trajetória de voo impecável, garantindo que a nave não desperdiçasse movimento em sua jornada. A manobra precisa reduziu drasticamente o uso de combustível.</VGE_PerfectTrajectory.letterText>
+
+    <VGE_AsteroidDiscovery.label>descoberta de asteroide</VGE_AsteroidDiscovery.label>
+    <VGE_AsteroidDiscovery.letterLabel>descoberta de asteroide</VGE_AsteroidDiscovery.letterLabel>
+    <VGE_AsteroidDiscovery.letterText>Durante a viagem, os sensores de {GRAVSHIP} captaram um asteroide à deriva rico em materiais valiosos.</VGE_AsteroidDiscovery.letterText>
+
+    <VGE_CrewEuphoria.label>euforia da tripulação</VGE_CrewEuphoria.label>
+    <VGE_CrewEuphoria.letterLabel>euforia da tripulação</VGE_CrewEuphoria.letterLabel>
+    <VGE_CrewEuphoria.letterText>O lançamento de {GRAVSHIP} foi tão suave que deixou a tripulação empolgada. Risos e celebração ecoam pelos corredores da nave.</VGE_CrewEuphoria.letterText>
+
+    <VGE_GravframeHarmony.label>harmonia da estrutura de gravidade</VGE_GravframeHarmony.label>
+    <VGE_GravframeHarmony.letterLabel>harmonia da estrutura de gravidade</VGE_GravframeHarmony.letterLabel>
+    <VGE_GravframeHarmony.letterText>A estrutura de {GRAVSHIP} sofreu estresse mínimo durante o lançamento. O alinhamento do campo de gravidade foi perfeito, não colocando nenhuma tensão extra nos componentes da nave.</VGE_GravframeHarmony.letterText>
+
+</LanguageData>

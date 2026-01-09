@@ -12,4 +12,31 @@
   <VGE_GravshipGenerationSite.label>local de geração de nave gravitacional</VGE_GravshipGenerationSite.label>
   <VGE_GravshipGenerationSite.description>Um local temporário usado para gerar texturas de nave gravitacional.</VGE_GravshipGenerationSite.description>
 
+  <VGE_AsteroidField.label>campo de asteroides</VGE_AsteroidField.label>
+  <VGE_AsteroidField.description>Um aglomerado denso de incontáveis pequenos asteroides de vacuíta e fragmentos de rocha, à deriva lentamente juntos em uma órbita solta. Embora seja muito pequeno para abrigar grandes operações de mineração, o campo representa um desafio notável à navegação.\n\nEste local pode ser alcançado usando cápsulas de transporte, naves de transporte ou uma gravinave.</VGE_AsteroidField.description>
+
+  <VGE_PorousAsteroid.label>asteroide poroso</VGE_PorousAsteroid.label>
+  <VGE_PorousAsteroid.description>Um asteroide de vacuíta crivado de incontáveis cavidades e câmaras ocas, formadas por eras de impactos e erosão. Sua estrutura em forma de favo de mel o torna frágil e instável, com muitos de seus túneis desmoronando uns sobre os outros com o tempo.\n\nEste local pode ser alcançado usando cápsulas de transporte, naves de transporte ou uma gravinave.</VGE_PorousAsteroid.description>
+
+  <VGE_GiantAsteroid.label>asteroide gigante</VGE_GiantAsteroid.label>
+  <VGE_GiantAsteroid.description>Um asteroide massivo de vacuíta, muito maior do que os fragmentos típicos encontrados em órbita. Seu enorme volume o torna um ponto de referência no espaço, dominando seus arredores com sua presença.\n\nEste local pode ser alcançado usando cápsulas de transporte, naves de transporte ou uma gravinave.</VGE_GiantAsteroid.description>
+
+  <VGE_ShatteredAsteroid.label>asteroide despedaçado</VGE_ShatteredAsteroid.label>
+  <VGE_ShatteredAsteroid.description>Um asteroide de vacuíta quebrado por um impacto massivo. Seus pedaços permanecem frouxamente ligados, formando uma forma irregular e desigual com grandes lacunas entre seus fragmentos.\n\nEste local pode ser alcançado usando cápsulas de transporte, naves de transporte ou uma gravinave.</VGE_ShatteredAsteroid.description>
+
+  <VGE_DenseAsteroid.label>asteroide denso</VGE_DenseAsteroid.label>
+  <VGE_DenseAsteroid.description>Um asteroide de vacuíta tão densamente compactado e sólido que deixa pouca superfície utilizável. Sua densidade pura torna difícil encontrar zonas de pouso seguras ou práticas.\n\nEste local pode ser alcançado usando cápsulas de transporte, naves de transporte ou uma gravinave.</VGE_DenseAsteroid.description>
+
+  <VGE_SmallAsteroid.label>asteroide pequeno</VGE_SmallAsteroid.label>
+  <VGE_SmallAsteroid.description>Um asteroide de vacuíta muito pequeno à deriva em órbita. Asteroides desse tamanho são frequentemente instáveis e acabam caindo como meteoros, atingindo as superfícies abaixo.\n\nEste local pode ser alcançado usando cápsulas de transporte, naves de transporte ou uma gravinave.</VGE_SmallAsteroid.description>
+
+  <VGE_AsteroidWithRuins.label>asteroide com ruínas</VGE_AsteroidWithRuins.label>
+  <VGE_AsteroidWithRuins.description>Um asteroide de vacuíta com os restos estilhaçados de uma antiga estação orbital agarrados à sua superfície. Vigas retorcidas, módulos quebrados e detritos à deriva sugerem uma estrutura há muito abandonada. A maior parte da estação desabou no próprio asteroide, deixando apenas fragmentos espalhados por seu exterior.\n\nEste local pode ser alcançado usando cápsulas de transporte, naves de transporte ou uma gravinave.</VGE_AsteroidWithRuins.description>
+
+  <VGE_DerelictStation.label>estação abandonada</VGE_DerelictStation.label>
+  <VGE_DerelictStation.description>Uma estação orbital abandonada, há muito esquecida e despojada de qualquer coisa valiosa. Apenas sua estrutura esquelética flutua silenciosamente pelo espaço, um lembrete do que já foi.\n\nEste local pode ser alcançado usando cápsulas de transporte, naves de transporte ou uma gravinave.</VGE_DerelictStation.description>
+
+  <VGE_CoreAsteroidMiningSite.label>asteroide de núcleo sólido</VGE_CoreAsteroidMiningSite.label>
+  <VGE_CoreAsteroidMiningSite.description>Um asteroide de vacuíta com um núcleo de minerais valiosos excepcionalmente sólido. Normalmente encontrado longe da órbita planetária, este se deslocou para uma trajetória mais baixa, tornando-o uma rara oportunidade de mineração.\n\nA vacuíta é densamente compactada, e a mineração levará mais tempo do que o normal. Não há sinais de vida detectados.\n\nEste local pode ser alcançado usando cápsulas de transporte, naves de transporte ou uma gravinave.</VGE_CoreAsteroidMiningSite.description>
+
 </LanguageData>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VEF_EnergyShieldEnergyMaxFactor.label>fator de energia máxima do escudo</VEF_EnergyShieldEnergyMaxFactor.label>
+<VEF_EnergyShieldEnergyMaxFactor.description>Fator da energia máxima do escudo que o usuário pode aumentar através de vários meios.</VEF_EnergyShieldEnergyMaxFactor.description>
+
+<VEF_EnergyShieldRadiusApparel.label>raio do escudo</VEF_EnergyShieldRadiusApparel.label>
+<VEF_EnergyShieldRadiusApparel.description>A área coberta quando o escudo de energia está ativo.</VEF_EnergyShieldRadiusApparel.description>
+<VEF_EnergyShieldRadiusApparel.formatString>{0} c</VEF_EnergyShieldRadiusApparel.formatString>
+
+<VEF_EnergyShieldEnergyMaxBuilding.label>energia máxima do escudo</VEF_EnergyShieldEnergyMaxBuilding.label>
+<VEF_EnergyShieldEnergyMaxBuilding.description>A energia máxima que o escudo pode ter. Mais energia permite que o escudo absorva mais dano.</VEF_EnergyShieldEnergyMaxBuilding.description>
+<VEF_EnergyShieldEnergyMaxBuilding.formatString>{0}00</VEF_EnergyShieldEnergyMaxBuilding.formatString>
+
+<VEF_EnergyShieldRechargeRateBuilding.label>taxa de recarga do escudo</VEF_EnergyShieldRechargeRateBuilding.label>
+<VEF_EnergyShieldRechargeRateBuilding.description>A taxa na qual o escudo recarrega energia por segundo, contanto que não esteja quebrado.</VEF_EnergyShieldRechargeRateBuilding.description>
+<VEF_EnergyShieldRechargeRateBuilding.formatString>{0}/s</VEF_EnergyShieldRechargeRateBuilding.formatString>
+
+<VEF_EnergyShieldRadiusBuilding.label>raio do escudo</VEF_EnergyShieldRadiusBuilding.label>
+<VEF_EnergyShieldRadiusBuilding.description>O raio da proteção do escudo de energia.</VEF_EnergyShieldRadiusBuilding.description>
+<VEF_EnergyShieldRadiusBuilding.formatString>{0} c</VEF_EnergyShieldRadiusBuilding.formatString>
+
+<VEF_MeleeAttackDamageFactor.label>fator de dano de ataque corpo a corpo</VEF_MeleeAttackDamageFactor.label>
+<VEF_MeleeAttackDamageFactor.description>Um multiplicador no dano de ataque corpo a corpo.</VEF_MeleeAttackDamageFactor.description>
+
+<VEF_RangeAttackDamageFactor.label>fator de dano de ataque à distância</VEF_RangeAttackDamageFactor.label>
+<VEF_RangeAttackDamageFactor.description>Um multiplicador no dano de ataque à distância.</VEF_RangeAttackDamageFactor.description>
+
+<VEF_FoodCapacityMultiplier.label>multiplicador de capacidade de comida corporal</VEF_FoodCapacityMultiplier.label>
+<VEF_FoodCapacityMultiplier.description>Aumenta o tamanho da barra de fome do peão. Isso não afeta a taxa de fome.</VEF_FoodCapacityMultiplier.description>
+
+<VEF_GrowthPointMultiplier.label>multiplicador de ponto de crescimento</VEF_GrowthPointMultiplier.label>
+<VEF_GrowthPointMultiplier.description>Aumenta a quantidade de pontos de crescimento acumulados por crianças ao aprender.</VEF_GrowthPointMultiplier.description>
+
+<VEF_BodySize_Offset.label>deslocamento de tamanho corporal</VEF_BodySize_Offset.label>
+<VEF_BodySize_Offset.description>Aumenta o tamanho do peão em relação ao seu tamanho atual.</VEF_BodySize_Offset.description>
+
+<VEF_BodySize_Multiplier.label>multiplicador de tamanho corporal</VEF_BodySize_Multiplier.label>
+<VEF_BodySize_Multiplier.description>Aumenta o tamanho do peão por um múltiplo do seu tamanho atual.</VEF_BodySize_Multiplier.description>
+
+<VEF_CosmeticBodySize_Offset.label>deslocamento de tamanho corporal cosmético</VEF_CosmeticBodySize_Offset.label>
+<VEF_CosmeticBodySize_Offset.description>Aumenta o tamanho do peão em relação ao seu tamanho atual.</VEF_CosmeticBodySize_Offset.description>
+
+<VEF_CosmeticBodySize_Multiplier.label>multiplicador de tamanho corporal cosmético</VEF_CosmeticBodySize_Multiplier.label>
+<VEF_CosmeticBodySize_Multiplier.description>Aumenta o tamanho do peão por um múltiplo do seu tamanho atual.</VEF_CosmeticBodySize_Multiplier.description>
+
+<VEF_HeadSize_Cosmetic.label>multiplicador de tamanho da cabeça</VEF_HeadSize_Cosmetic.label>
+
+<VEF_PawnRenderPosOffset.label>deslocamento de renderização do peão</VEF_PawnRenderPosOffset.label>
+<VEF_PawnRenderPosOffset.description>Modifica a posição de renderização do peão no eixo y.</VEF_PawnRenderPosOffset.description>
+
+<VEF_MassCarryCapacity.label>capacidade de carga de massa</VEF_MassCarryCapacity.label>
+<VEF_MassCarryCapacity.description>Capacidade total de transporte de massa do peão em caravanas.</VEF_MassCarryCapacity.description>
+<VEF_MassCarryCapacity.formatString>{0} kg</VEF_MassCarryCapacity.formatString>
+<VEF_MassCarryCapacity.formatStringUnfinalized>{0} kg</VEF_MassCarryCapacity.formatStringUnfinalized>
+
+<VEF_MTBLovinFactor.label>Fator de Tempo Médio Entre Aconchegos (MTB)</VEF_MTBLovinFactor.label>
+<VEF_MTBLovinFactor.description>Um fator do tempo médio entre (MTB) esta pessoa procurar por aconchegos.</VEF_MTBLovinFactor.description>
+
+<VEF_MeleeWeaponRange.label>alcance de arma corpo a corpo</VEF_MeleeWeaponRange.label>
+<VEF_MeleeWeaponRange.description>O alcance desta arma corpo a corpo.</VEF_MeleeWeaponRange.description>
+
+<VEF_PositiveThoughtDurationFactor.label>fator de duração de pensamento - positivo</VEF_PositiveThoughtDurationFactor.label>
+<VEF_PositiveThoughtDurationFactor.description>A duração de pensamentos positivos é multiplicada por este valor.</VEF_PositiveThoughtDurationFactor.description>
+
+<VEF_NeutralThoughtDurationFactor.label>fator de duração de pensamento - neutro</VEF_NeutralThoughtDurationFactor.label>
+<VEF_NeutralThoughtDurationFactor.description>A duração de pensamentos neutros é multiplicada por este valor.</VEF_NeutralThoughtDurationFactor.description>
+
+<VEF_NegativeThoughtDurationFactor.label>fator de duração de pensamento - negativo</VEF_NegativeThoughtDurationFactor.label>
+<VEF_NegativeThoughtDurationFactor.description>A duração de pensamentos negativos é multiplicada por este valor.</VEF_NegativeThoughtDurationFactor.description>
+
+</LanguageData>

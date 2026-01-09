@@ -10,4 +10,13 @@
   <VGE_FakeTerrain.label>terreno falso</VGE_FakeTerrain.label>
   <VGE_FakeTerrain.description>Terreno de espaço vazio usado apenas para fins internos.</VGE_FakeTerrain.description>
 
+  <VGE_AsteroidIce.label>gelo de asteroide</VGE_AsteroidIce.label>
+
+  <VGE_GravshipSubscaffold.label>sub-andaime de gravinave</VGE_GravshipSubscaffold.label>
+  <VGE_GravshipSubscaffold.description>Uma camada de andaime construída para suportar a estrutura das gravinaves. Embora faça parte da estrutura da gravinave, não pode suportar construções e retarda o movimento significativamente. Não conta para o limite de subestrutura da gravinave, tornando-o ideal para passarelas, caminhos de acesso ou áreas de preparação para expansão.</VGE_GravshipSubscaffold.description>
+
+  <VGE_AncientOrbitalPlatform.label>plataforma orbital ancestral</VGE_AncientOrbitalPlatform.label>
+
+  <VGE_Compressed_Vacstone_Floor.label>vacuíta comprimida</VGE_Compressed_Vacstone_Floor.label>
+
 </LanguageData>
