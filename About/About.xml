@@ -6,7 +6,7 @@
     <li>1.6</li>
   </supportedVersions>
   <packageId>RimworldMods.TraducaoVanillaExpanded.PTBR</packageId>
-  <description>Tradução completa e consolidada para Português do Brasil (PT-BR) de todos os mods da série Vanilla Expanded (VE).</description>
+  <description>Tradução (PT-BR) em progresso cujo objetivo será traduzir todos os mods da série Vanilla expanded.</description>
 
   <modDependencies>
     <li>
@@ -27,6 +27,7 @@
     <li>
       <packageId>vanillaexpanded.gravship</packageId>
       <displayName>Vanilla Gravship Expanded - Chapter 1</displayName>
+      <steamWorkshopUrl>3609835606</steamWorkshopUrl>
     </li>
   </modDependencies>
   
