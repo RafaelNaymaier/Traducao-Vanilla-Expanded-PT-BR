@@ -43,11 +43,11 @@ Para instalar manualmente a tradução:
 
 ---
 
-## 📢 Planos Futuros
+## 📥 Instalação via Workshop
 
-Quando a tradução atingir um padrão de qualidade aceitável e a grande maioria dos *mods* do *core* do Vanilla Expanded estiver traduzida, o projeto será postado na **Steam Workshop** para facilitar a instalação.
+Para a maneira mais fácil de instalar a tradução, inscreva-se no item da Steam Workshop:
 
----
+🔗 [Steam Workshop::Tradução Vanilla Expanded (PT-BR)](https://steamcommunity.com/sharedfiles/filedetails/?id=3643091941)
 
 ## 🤝 Contribuições
 
