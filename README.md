@@ -35,9 +35,9 @@ Qualquer feedback sobre a qualidade da tradução, termos que pareçam estranhos
 
 Para instalar manualmente a tradução:
 
-1.  Baixe o arquivo ZIP deste repositório (ou clone-o).
+1.  Baixe a versão mais recente do mod em "**`releases`**"
 2.  Extraia o conteúdo.
-3.  Copie a pasta resultante **`Traducao-Vanilla-Expanded-PT-BR-Github`** para o diretório de *mods* do RimWorld:
+3.  Copie a pasta resultante **`Traducao-Vanilla-Expanded-PT-BR-`** para o diretório de *mods* do RimWorld:
 
     > `...\Steam\steamapps\common\RimWorld\Mods\`
 
