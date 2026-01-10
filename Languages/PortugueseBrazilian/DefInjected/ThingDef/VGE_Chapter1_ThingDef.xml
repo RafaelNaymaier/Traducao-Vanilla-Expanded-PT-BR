@@ -155,13 +155,13 @@
   <VGE_AstrofuelDrain.label>dreno de astrocombustível</VGE_AstrofuelDrain.label>
   <VGE_AstrofuelDrain.description>Uma estrutura de armazenamento tipo funil destinada a inserir astrocombustível na rede, enchendo os tanques conectados.</VGE_AstrofuelDrain.description>
   <VGE_AstrofuelGenerator.label>gerador de astrocombustível</VGE_AstrofuelGenerator.label>
-  <VGE_AstrofuelGenerator.description>Produz energia consumindo astrocombustível. Muito mais eficiente que geradores de quimio-combustível.</VGE_AstrofuelGenerator.description>
+  <VGE_AstrofuelGenerator.description>Produz energia consumindo astrocombustível. Muito mais eficiente que geradores de combustivel químico.</VGE_AstrofuelGenerator.description>
   <VGE_IndustrialAstrofuelGenerator.label>gerador de astrocombustível industrial</VGE_IndustrialAstrofuelGenerator.label>
-  <VGE_IndustrialAstrofuelGenerator.description>Produz uma grande quantidade de energia consumindo astrocombustível. Muito mais eficiente que geradores de quimio-combustível.</VGE_IndustrialAstrofuelGenerator.description>
+  <VGE_IndustrialAstrofuelGenerator.description>Produz uma grande quantidade de energia consumindo astrocombustível. Muito mais eficiente que geradores de combustivel químico.</VGE_IndustrialAstrofuelGenerator.description>
   <VGE_AstrofuelSynthesizer.label>sintetizador de astrocombustível</VGE_AstrofuelSynthesizer.label>
-  <VGE_AstrofuelSynthesizer.description>Uma estrutura especializada que refina quimio-combustível em astrocombustível de alto grau. Deve ser conectado à rede de tubos de astrocombustível e ligado a pelo menos um tanque de astrocombustível para operar. Uma vez conectado, ele converte automaticamente o quimio-combustível inserido em astrocombustível para uso em motores e sistemas.</VGE_AstrofuelSynthesizer.description>
+  <VGE_AstrofuelSynthesizer.description>Uma estrutura especializada que refina combustivel químico em astrocombustível de alto grau. Deve ser conectado à rede de tubos de astrocombustível e ligado a pelo menos um tanque de astrocombustível para operar. Uma vez conectado, ele converte automaticamente o combustivel químico inserido em astrocombustível para uso em motores e sistemas.</VGE_AstrofuelSynthesizer.description>
   <VGE_Astropurifier.label>astropurificador</VGE_Astropurifier.label>
-  <VGE_Astropurifier.description>Uma unidade de gravidade-tecnológica que aumenta a precisão e a estabilidade do refino de astrocombustível. Quando colocado ao lado de um sintetizador de astrocombustível, permite a conversão perfeita de 1:1 de quimio-combustível para astrocombustível, embora o processo leve o dobro do tempo.</VGE_Astropurifier.description>
+  <VGE_Astropurifier.description>Uma unidade de gravidade-tecnológica que aumenta a precisão e a estabilidade do refino de astrocombustível. Quando colocado ao lado de um sintetizador de astrocombustível, permite a conversão perfeita de 1:1 de combustivel químico para astrocombustível, embora o processo leve o dobro do tempo.</VGE_Astropurifier.description>
   
   <VGE_GiantThruster.label>propulsor gigante</VGE_GiantThruster.label>
   <VGE_GiantThruster.description>Um propulsor de astrocombustível massivo e reforçado, construído com ligas avançadas e revestimento de vacuíta ultradenso. Aumenta massivamente o alcance e o tamanho máximo da gravinave. Os propulsores requerem uma área desobstruída, livre de grandes edifícios e da subestrutura da nave.\n\nRequer blocos de vacuíta, que podem ser obtidos de asteroides orbitais.\n\nUma gravinave pode suportar até quatro propulsores gigantes.</VGE_GiantThruster.description>
@@ -222,7 +222,7 @@
   <VGE_CompactTailor.label>bancada de alfaiate compacta</VGE_CompactTailor.label>
   <VGE_CompactTailor.description>Uma bancada de alfaiate com eficiência espacial, alimentada pela gravinave e projetada para uso a bordo. Apesar de seu quadro menor, esta bancada vem com uma máquina de costura para a confecção rápida de roupas. Ela consome energia diretamente do motor de gravidade.</VGE_CompactTailor.description>
   <VGE_CompactRefinery.label>refinaria de biocombustível compacta</VGE_CompactRefinery.label>
-  <VGE_CompactRefinery.description>Uma refinaria de biocombustível com eficiência espacial, alimentada pela gravinave e projetada para uso a bordo. Apesar de seu quadro menor, ela refina matéria biológica como madeira ou matéria vegetal em quimio-combustível. Ela consome energia diretamente do motor de gravidade.</VGE_CompactRefinery.description>
+  <VGE_CompactRefinery.description>Uma refinaria de biocombustível com eficiência espacial, alimentada pela gravinave e projetada para uso a bordo. Apesar de seu quadro menor, ela refina matéria biológica como madeira ou matéria vegetal em combustivel químico. Ela consome energia diretamente do motor de gravidade.</VGE_CompactRefinery.description>
   <VGE_CompactFabBench.label>bancada de fabricação compacta</VGE_CompactFabBench.label>
   <VGE_CompactFabBench.description>Uma bancada de fabricação com eficiência espacial, alimentada pela gravinave e projetada para uso a bordo. Apesar de seu quadro menor, está equipada com ferramentas avançadas para produzir maravilhas tecnológicas a partir de materiais mais simples. Ela consome energia diretamente do motor de gravidade.</VGE_CompactFabBench.description>
   
