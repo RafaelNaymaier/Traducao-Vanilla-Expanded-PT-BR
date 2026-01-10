@@ -1,4 +1,4 @@
-#Tradução Brasileira (PT-BR) para Mods Vanilla Expanded
+# Tradução Brasileira (PT-BR) para Mods Vanilla Expanded
 
 Olá! Bem-vindo ao meu projeto de tradução para a comunidade de RimWorld.
 
