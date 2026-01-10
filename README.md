@@ -1,4 +1,4 @@
-# 🇧🇷 Tradução Brasileira (PT-BR) para Mods Vanilla Expanded
+#Tradução Brasileira (PT-BR) para Mods Vanilla Expanded
 
 Olá! Bem-vindo ao meu projeto de tradução para a comunidade de RimWorld.
 
@@ -35,9 +35,9 @@ Qualquer feedback sobre a qualidade da tradução, termos que pareçam estranhos
 
 Para instalar manualmente a tradução:
 
-1.  Baixe a versão mais recente do mod em "**`releases`**"
+1.  Baixe a versão mais recente do mod em [🔗 Releases](https://github.com/RafaelNaymaier/Traducao-Vanilla-Expanded-PT-BR/releases/latest)
 2.  Extraia o conteúdo.
-3.  Copie a pasta resultante **`Traducao-Vanilla-Expanded-PT-BR-`** para o diretório de *mods* do RimWorld:
+3.  Copie a pasta resultante **`Tradução Vanilla Expanded PT-BR`** para o diretório de *mods* do RimWorld:
 
     > `...\Steam\steamapps\common\RimWorld\Mods\`
 
