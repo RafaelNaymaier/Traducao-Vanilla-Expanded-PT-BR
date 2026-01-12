@@ -3,35 +3,28 @@
 
     <VRE_PsychofluidWell.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_PsychofluidWell.comps.CompRefuelable.fuelLabel>
     
-    <VRE_Draincasket.comps.CompDraincasket.fuelGizmoLabel>
-    Nutrição</VRE_Draincasket.comps.CompDraincasket.fuelGizmoLabel>
-    <VRE_Draincasket.comps.CompDraincasket.fuelLabel>
-    Nutrição</VRE_Draincasket.comps.CompDraincasket.fuelLabel>
+    <VRE_Draincasket.comps.CompDraincasket.fuelGizmoLabel>Nutrição</VRE_Draincasket.comps.CompDraincasket.fuelGizmoLabel>
+    <VRE_Draincasket.comps.CompDraincasket.fuelLabel>Nutrição</VRE_Draincasket.comps.CompDraincasket.fuelLabel>
     
-    <VRE_InvocationMatrix.comps.CompRefuelable.fuelLabel>
-    Hemogênio</VRE_InvocationMatrix.comps.CompRefuelable.fuelLabel>
+    <VRE_InvocationMatrix.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_InvocationMatrix.comps.CompRefuelable.fuelLabel>
     
-    <VRE_HemodynamicAccelerator.comps.CompRefuelable.fuelLabel>
-    Hemogênio</VRE_HemodynamicAccelerator.comps.CompRefuelable.fuelLabel>
+    <VRE_HemodynamicAccelerator.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_HemodynamicAccelerator.comps.CompRefuelable.fuelLabel>
     
-    <VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>
-    Hemogênio</VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>
+    <VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>
     
-    <VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>
-    Hemogênio</VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>
+    <VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>
     
-    <VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>
-    Hemogênio</VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>
+    <VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>
     
-    <VRE_HemogenPack_Animal.label>pacote
-    de Hemogênio (animal)</VRE_HemogenPack_Animal.label>
-    <VRE_HemogenPack_Animal.description>Hemogênio
-    animal. Aumenta a regeneração e as capacidades de
-        combate do usuário, mas diminui drasticamente a capacidade de comunicação com os outros.</VRE_HemogenPack_Animal.description>
+    <VRE_HemogenPack_Animal.label>pacote de hemogênio (animal)</VRE_HemogenPack_Animal.label>
+    <VRE_HemogenPack_Animal.description>Hemogênio animal. Aumenta a regeneração e as capacidades de combate do usuário, mas diminui drasticamente a capacidade de comunicação com os outros.</VRE_HemogenPack_Animal.description>
 
-    <Corpse_VRE_HemogenPack.label>pacote
-    de hemogênio (cadáver)</Corpse_VRE_HemogenPack.label>
-    <Corpse_VRE_HemogenPack.description>Hemogênio
-    contaminado e em decomposição de um cadáver. Enfraquece grandemente o portador deste tipo de
-    hemogen, mas aumenta significativamente a filtração sanguínea.</Corpse_VRE_HemogenPack.description>
+    <!-- ID abaixo está com uma nota de erro, tive que fazer uma substituição forçada. -->
+    
+    <!-- <VRE_HemogenPack_Corpse.label>pacote de Hemogênio (cadáver)</VRE_HemogenPack_Corpse.label>
+    <VRE_HemogenPack_Corpse.description>Hemogênio contaminado e em decomposição, retirado de um cadáver. Enfraquece drasticamente o portador deste tipo de hemogênio, mas aumenta significativamente a filtração de sangue.</VRE_HemogenPack_Corpse.description> -->
+    
+    <VRE_HemogenPack_Sanguophage.label>pacote de hemogênio (sanguófago)</VRE_HemogenPack_Sanguophage.label>
+    <VRE_HemogenPack_Sanguophage.description>Hemogênio puro e espesso de outro sugador de sangue. O mais raro de todos os hemogênios, oferece ao portador um poderoso impulso em todas as capacidades.</VRE_HemogenPack_Sanguophage.description>
+    
 </LanguageData>

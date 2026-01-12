@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <VGE_TargetingTerminalCanOnlyLinkWithGravshipArtillery>O terminal de mira só pode ser ligado à artilharia da nave gravitacional.</VGE_TargetingTerminalCanOnlyLinkWithGravshipArtillery>
+    <VGE_TargetingTerminalCanOnlyLinkWithGravshipArtillery>O terminal de mira só pode ser ligado à artilharia da gravinave.</VGE_TargetingTerminalCanOnlyLinkWithGravshipArtillery>
     <VGE_NeedsLinkedTargetingTerminal>Necessita de um terminal de mira ligado.</VGE_NeedsLinkedTargetingTerminal>
     <VGE_LinkWithTerminal>Ligar a um terminal</VGE_LinkWithTerminal>
-    <VGE_LinkWithTerminalDesc>Selecionar um terminal de mira para ligar. Um terminal de mira é necessário para operar a artilharia da nave gravitacional.</VGE_LinkWithTerminalDesc>
+    <VGE_LinkWithTerminalDesc>Selecionar um terminal de mira para ligar. Um terminal de mira é necessário para operar a artilharia da gravinave.</VGE_LinkWithTerminalDesc>
     <VGE_UnlinkWithTerminal>Desligar do terminal</VGE_UnlinkWithTerminal>
     <VGE_UnlinkWithTerminalDesc>Quebrar a ligação atual a um terminal de mira, permitindo ligar a um diferente.</VGE_UnlinkWithTerminalDesc>
     <VGE_SelectLinkedTerminal>Selecionar terminal ligado</VGE_SelectLinkedTerminal>
     <VGE_SelectLinkedTerminalDesc>Mostrar o terminal de mira ligado.</VGE_SelectLinkedTerminalDesc>
     <VGE_SetWorldTarget>Definir alvo no mapa-múndi</VGE_SetWorldTarget>
-    <VGE_SetWorldTargetDesc>Definir o alvo no mapa-múndi para a artilharia da nave gravitacional disparar. Tiros disparados sobre o mapa-múndi são menos precisos. Só pode disparar em locais revelados.</VGE_SetWorldTargetDesc>
+    <VGE_SetWorldTargetDesc>Definir o alvo no mapa-múndi para a artilharia da gravinave disparar. Tiros disparados sobre o mapa-múndi são menos precisos. Só pode disparar em locais revelados.</VGE_SetWorldTargetDesc>
     <VGE_NeedsMannedTargetingTerminal>Necessita de um terminal de mira tripulado.</VGE_NeedsMannedTargetingTerminal>
     <VGE_LinkWithTurret>Ligar a uma torre</VGE_LinkWithTurret>
     <VGE_LinkWithTurretDesc>Selecionar uma torre para ligar. Este terminal de mira será usado para operar essa torre.</VGE_LinkWithTurretDesc>
@@ -18,15 +18,15 @@
     <VGE_UnlinkWithTurretDesc>Quebrar a ligação atual a uma torre, permitindo ligar a uma torre diferente.</VGE_UnlinkWithTurretDesc>
     <VGE_SelectLinkedTurret>Selecionar torre ligada</VGE_SelectLinkedTurret>
     <VGE_SelectLinkedTurretDesc>Mostrar a torre ligada.</VGE_SelectLinkedTurretDesc>
-    <VGE_GravshipArtilleryNeedsVisibleMap>A artilharia da nave gravitacional precisa alvejar um mapa visível e explorado.</VGE_GravshipArtilleryNeedsVisibleMap>
+    <VGE_GravshipArtilleryNeedsVisibleMap>A artilharia da gravinave precisa alvejar um mapa visível e explorado.</VGE_GravshipArtilleryNeedsVisibleMap>
     <VGE_GravshipArtilleryOutOfRange>O alvo está fora de alcance.</VGE_GravshipArtilleryOutOfRange>
     <VGE_GravshipArtilleryInvalidFiringMode>A artilharia não pode disparar nesta direção.</VGE_GravshipArtilleryInvalidFiringMode>
     <VGE_GravshipArtilleryInvalidGroundToSpace>A artilharia não pode disparar do planeta para o espaço.</VGE_GravshipArtilleryInvalidGroundToSpace>
     <VGE_GravshipArtilleryInvalidSpaceToSpace>A artilharia não pode disparar do espaço para o espaço.</VGE_GravshipArtilleryInvalidSpaceToSpace>
     <VGE_GravshipArtilleryInvalidSpaceToGround>A artilharia não pode disparar do espaço para o solo.</VGE_GravshipArtilleryInvalidSpaceToGround>
     <VGE_GravshipArtilleryInvalidGroundToGround>A artilharia não pode disparar do solo para o solo</VGE_GravshipArtilleryInvalidGroundToGround>
-    <VGE_ConfirmCrashLanding>Aterrissar neste local será considerado um impacto. Quaisquer estruturas destacadas por baixo da nave gravitacional danificarão as estruturas correspondentes na nave.\n\nA subestrutura também pode ser danificada e precisará ser substituída antes do próximo lançamento.\n\nAlguns objetos indestrutíveis por baixo podem destruir completamente a subestrutura e quaisquer objetos nela.\n\nConsidere escolher outra zona de aterrissagem.</VGE_ConfirmCrashLanding>
-    <VGE_CrashLandingWarning>A aterrissagem neste local será considerada um impacto e danificará a nave gravitacional.</VGE_CrashLandingWarning>
+    <VGE_ConfirmCrashLanding>Aterrissar neste local será considerado um impacto. Quaisquer estruturas destacadas por baixo da gravinave danificarão as estruturas correspondentes na nave.\n\nA subestrutura também pode ser danificada e precisará ser substituída antes do próximo lançamento.\n\nAlguns objetos indestrutíveis por baixo podem destruir completamente a subestrutura e quaisquer objetos nela.\n\nConsidere escolher outra zona de aterrissagem.</VGE_ConfirmCrashLanding>
+    <VGE_CrashLandingWarning>A aterrissagem neste local será considerada um impacto e danificará a gravinave.</VGE_CrashLandingWarning>
     <VGE_CannotLandIndestructibleObstacles>Não é possível aterrissar aqui devido a obstáculos indestrutíveis presentes. Escolha outro local de aterrissagem.</VGE_CannotLandIndestructibleObstacles>
 
     <VGE_VacCheckpoint_SetVacuumResistance>Definir resistência a vácuo desejada</VGE_VacCheckpoint_SetVacuumResistance>
@@ -52,7 +52,7 @@
     <VGE_RefillCannotCarryEnough>Não pode carregar {AMMO_label} suficiente para reabastecer 1 carga.</VGE_RefillCannotCarryEnough>
 
     <VGE_Alert_LowOxygen>Baixo nível de oxigênio</VGE_Alert_LowOxygen>
-    <VGE_Alert_LowOxygenExplanation>Você está perigosamente com baixo nível de oxigênio.\n\n    Oxigênio em armazenamento: {0}u³\n    Colonos e prisioneiros a respirar oxigênio: {1}\n\nQuando o oxigênio acabar, a nave gravitacional começará a encher-se de vácuo.</VGE_Alert_LowOxygenExplanation>
+    <VGE_Alert_LowOxygenExplanation>Você está perigosamente com baixo nível de oxigênio.\n\n    Oxigênio em armazenamento: {0}u³\n    Colonos e prisioneiros a respirar oxigênio: {1}\n\nQuando o oxigênio acabar, a gravinave começará a encher-se de vácuo.</VGE_Alert_LowOxygenExplanation>
 
     <VGE_ResistantToVacuumExposure>resistente ao vácuo</VGE_ResistantToVacuumExposure>
     <VGE_TimeUntilVacuumExposureDeath>morte por exposição ao vácuo em {0}</VGE_TimeUntilVacuumExposureDeath>
@@ -65,18 +65,18 @@
     <VGE_GravheatAbsorberCoolingDown>Absorvedor de calor gravitacional está a arrefecer. Disponível em: {0}</VGE_GravheatAbsorberCoolingDown>
     <VGE_LaunchGravAnchorCooldownInfo>No entanto, a aterrissagem num local que contenha uma âncora gravitacional removerá completamente o tempo de recarga de lançamento.</VGE_LaunchGravAnchorCooldownInfo>
     <VGE_LaunchHeatsinkCooldownInfo>Os dissipadores de calor reduzirão o tempo de recarga de lançamento em {0}.</VGE_LaunchHeatsinkCooldownInfo>
-    <VGE_LaunchFuelAndHeatUnitsInfo>Este lançamento usará {0} de astrocombustível e gerará cerca de {0} unidades de calor, elevando a temperatura em toda a nave gravitacional.</VGE_LaunchFuelAndHeatUnitsInfo>
+    <VGE_LaunchFuelAndHeatUnitsInfo>Este lançamento usará {0} de astrocombustível e gerará cerca de {0} unidades de calor, elevando a temperatura em toda a gravinave.</VGE_LaunchFuelAndHeatUnitsInfo>
 
     <VGE_DesignatorRemoveSubstructure>Remover subestrutura</VGE_DesignatorRemoveSubstructure>
-    <VGE_DesignatorRemoveSubstructureDesc>Remover subestrutura da nave gravitacional.</VGE_DesignatorRemoveSubstructureDesc>
+    <VGE_DesignatorRemoveSubstructureDesc>Remover subestrutura da gravinave.</VGE_DesignatorRemoveSubstructureDesc>
 
-    <VGE_MapDecisionText>A sua nave gravitacional foi lançada. Agora pode decidir se quer manter o mapa anterior ou descartá-lo.
+    <VGE_MapDecisionText>A sua gravinave foi lançada. Agora pode decidir se quer manter o mapa anterior ou descartá-lo.
 
 Se o mantiver, ele continuará presente como um mapa de colónia até o abandonar.
 
 Se o descartar, ele pode ser substituído por um assentamento abandonado, devolvido ao seu dono original, transformado novamente num local especial/de missão, ou destruído.
 Por favor, note que manter vários mapas abertos pode afetar o seu desempenho.</VGE_MapDecisionText>
-    <VGE_MapDecisionSettleText>A sua nave gravitacional foi lançada. Agora pode decidir se quer assentar o mapa anterior.
+    <VGE_MapDecisionSettleText>A sua gravinave foi lançada. Agora pode decidir se quer assentar o mapa anterior.
 
 Se o assentar, ele continuará presente como um mapa de colónia até o abandonar.
 
@@ -97,8 +97,8 @@ Por favor, note que manter vários mapas abertos pode afetar o seu desempenho.</
     <VGE_InstallSingleGravEngineInstallBlueprintOnly>Não pode instalar {0} se houver outro projeto de motor gravitacional nas proximidades.</VGE_InstallSingleGravEngineInstallBlueprintOnly>
     <VGE_GravEngineDisabled>Motor gravitacional desativado:</VGE_GravEngineDisabled>
     <VGE_MultipleGravEnginesPresent>múltiplos motores gravitacionais presentes</VGE_MultipleGravEnginesPresent>
-    <VGE_GravshipCurrentlyActive>outra nave gravitacional está atualmente ativa</VGE_GravshipCurrentlyActive>
-    <VGE_GravshipLaunchCurrentlyActive>outra nave gravitacional está atualmente a preparar-se para lançar</VGE_GravshipLaunchCurrentlyActive>
+    <VGE_GravshipCurrentlyActive>outra gravinave está atualmente ativa</VGE_GravshipCurrentlyActive>
+    <VGE_GravshipLaunchCurrentlyActive>outra gravinave está atualmente a preparar-se para lançar</VGE_GravshipLaunchCurrentlyActive>
 
     <VGE_OrbitObjectsMultiplier>Multiplicador de objetos orbitais</VGE_OrbitObjectsMultiplier>
     <VGE_OrbitObjectsMultiplierDesc>Por predefinição, o jogo tentará manter 3, 8, 12 ou 20 locais em órbita (dependendo da cobertura do globo do planeta). Com este deslizador, pode aplicar um multiplicador a este número, tornando as órbitas do seu planeta super esparsas ou muito desordenadas!</VGE_OrbitObjectsMultiplierDesc>
@@ -107,21 +107,21 @@ Por favor, note que manter vários mapas abertos pode afetar o seu desempenho.</
 
     <VGE_SoildIceAsteroid>Gelo sólido com vestígios de {RESOURCE_label}</VGE_SoildIceAsteroid>
 
-    <VGE_CannotLaunchGravAnomaly>Não é possível lançar a nave gravitacional devido a uma anomalia gravitacional</VGE_CannotLaunchGravAnomaly>
+    <VGE_CannotLaunchGravAnomaly>Não é possível lançar a gravinave devido a uma anomalia gravitacional</VGE_CannotLaunchGravAnomaly>
 
     <VGE_Maintenance>Manutenção de peça: {0}</VGE_Maintenance>
     <VGE_Maintain>Manter peça</VGE_Maintain>
-    <VGE_Alert_LowMaintenance>Manutenção da nave gravitacional baixa</VGE_Alert_LowMaintenance>
-    <VGE_Alert_LowMaintenance_Desc>Alguns componentes da nave gravitacional têm baixa manutenção. Isso pode resultar em resultados negativos de lançamento e avarias eventuais. Considere designar um colono para os manter. Componentes da nave gravitacional com baixa manutenção:\n\n {0}</VGE_Alert_LowMaintenance_Desc>
+    <VGE_Alert_LowMaintenance>Manutenção da gravinave baixa</VGE_Alert_LowMaintenance>
+    <VGE_Alert_LowMaintenance_Desc>Alguns componentes da gravinave têm baixa manutenção. Isso pode resultar em resultados negativos de lançamento e avarias eventuais. Considere designar um colono para os manter. Componentes da gravinave com baixa manutenção:\n\n {0}</VGE_Alert_LowMaintenance_Desc>
     <VGE_StatsReport_GravEngineGlobalMaintenanceSensitivity>Sensibilidade de manutenção global</VGE_StatsReport_GravEngineGlobalMaintenanceSensitivity>
 
     <VGE_SetDesiredMaintenance>Definir manutenção desejada</VGE_SetDesiredMaintenance>
-    <VGE_SetDesiredMaintenanceDesc>Definir a manutenção desejada para todos os componentes da nave gravitacional nesta nave. Colonos designados para construção manterão as estruturas se caírem abaixo do nível definido.</VGE_SetDesiredMaintenanceDesc>
+    <VGE_SetDesiredMaintenanceDesc>Definir a manutenção desejada para todos os componentes da gravinave nesta nave. Colonos designados para construção manterão as estruturas se caírem abaixo do nível definido.</VGE_SetDesiredMaintenanceDesc>
 
     <VGE_GravdataYieldInfo>Rendimento de dados gravitacionais estimado: {0}</VGE_GravdataYieldInfo>
     <VGE_NoGravtechProjectSelected>Nenhum projeto de pesquisa de gravitech selecionado. O lançamento não renderá dados gravitacionais.</VGE_NoGravtechProjectSelected>
     <VGE_LaunchBoonChanceInfo>Com as previsões atuais, há uma {0}% de chance de ocorrer um benefício positivo.</VGE_LaunchBoonChanceInfo>
-    <VGE_LaunchBoonOutcomeChanceLetterExtra>Com base no lançamento da nave gravitacional, houve uma {0_percentage} de chance de um resultado positivo.</VGE_LaunchBoonOutcomeChanceLetterExtra>
+    <VGE_LaunchBoonOutcomeChanceLetterExtra>Com base no lançamento da gravinave, houve uma {0_percentage} de chance de um resultado positivo.</VGE_LaunchBoonOutcomeChanceLetterExtra>
     <VGE_GravdataStored>Dados gravitacionais armazenados: {0}</VGE_GravdataStored>
     <VGE_GravdataStoredInfo>Os dados gravitacionais armazenados serão aplicados automaticamente ao projeto de pesquisa de gravitech selecionado na próxima aterrissagem.</VGE_GravdataStoredInfo>
     <VGE_ConvertGravdata>Converter dados gravitacionais</VGE_ConvertGravdata>
@@ -132,7 +132,7 @@ Por favor, note que manter vários mapas abertos pode afetar o seu desempenho.</
     <VGE_EscapePodCrashDesc>Uma cápsula de fuga danificada caiu no mapa. Pode ser forçada a abrir para revelar o que está dentro.</VGE_EscapePodCrashDesc>
 
     <VGE_LaunchToOrbit>Lançar para a órbita</VGE_LaunchToOrbit>
-    <VGE_LaunchToOrbitDesc>Lançar a nave gravitacional diretamente para cima e estabilizá-la em órbita. Isto ainda é considerado uma viagem de nave gravitacional e o motor gravitacional entrará em recarga, potencialmente deixando-o preso em órbita.</VGE_LaunchToOrbitDesc>
+    <VGE_LaunchToOrbitDesc>Lançar a gravinave diretamente para cima e estabilizá-la em órbita. Isto ainda é considerado uma viagem de gravinave e o motor gravitacional entrará em recarga, potencialmente deixando-o preso em órbita.</VGE_LaunchToOrbitDesc>
     <VGE_CantLaunchAlreadyInOrbit>Não é possível usar: já está em órbita.</VGE_CantLaunchAlreadyInOrbit>
 
     <VGE_MechanoidPodGestation>A gestação da cápsula {0} completa-se em: {1}.</VGE_MechanoidPodGestation>
@@ -155,7 +155,7 @@ Por favor, note que manter vários mapas abertos pode afetar o seu desempenho.</
     <VGE_ColorPickerValueTooltip>Escolha uma cor definindo o brilho da cor.\n\nBrilho refere-se ao "valor" do modelo de cores HSV - matiz, saturação e valor/brilho.</VGE_ColorPickerValueTooltip>
     <VGE_MustBePlacedInRangeOfGravSource>Deve ser colocado no alcance de um motor gravitacional ou amplificador de campo gravitacional.</VGE_MustBePlacedInRangeOfGravSource>
 
-    <GravEngineInspectedLetterContents>Entre os restos da nave gravitacional acidentada, um motor gravjumper ainda intacto zune com energia. É possível reparar a subestrutura, mas vários componentes da nave gravitacional estão além da salvação. O motor empurra contra a gravidade, levitando a nave e permitindo viagens de longa distância. Ao viajar, poderá desbloquear a tecnologia que lhe dará a oportunidade de reconstruir estes sistemas e mais. Lance uma nave gravitacional ao reduzi-la, consertando subestrutura danificada e substituindo propulsores danificados e tanques de astrocombustível. Refine mais astrocombustível na refinaria de biocombustível e selecione um projeto de pesquisa de gravitech para progredir à medida que viaja e exerce pressão sobre o motor gravitacional. O lançamento de uma nave gravitacional dará a opção de abandonar o seu mapa atual.\n\n  - Projeto de pesquisa concluído: gravitech básica\n  - Pavimento desbloqueado: Subestrutura da nave gravitacional\n  - Parede desbloqueada: Casco da nave gravitacional\n  - Estruturas desbloqueadas: Cockpit do piloto, motor gravjumper, propulsor pequeno, pequeno tanque de astrocombustível, tubo de astrocombustível, válvula de astrocombustível, torneira de astrocombustível, dreno de astrocombustível, extensor de campo gravitacional\n  - Receita desbloqueada: Fazer astrocombustível a partir de combustivel químico</GravEngineInspectedLetterContents>
+    <GravEngineInspectedLetterContents>Entre os restos da gravinave acidentada, um motor gravjumper ainda intacto zune com energia. É possível reparar a subestrutura, mas vários componentes da gravinave estão além da salvação. O motor empurra contra a gravidade, levitando a nave e permitindo viagens de longa distância. Ao viajar, poderá desbloquear a tecnologia que lhe dará a oportunidade de reconstruir estes sistemas e mais. Lance uma gravinave ao reduzi-la, consertando subestrutura danificada e substituindo propulsores danificados e tanques de astrocombustível. Refine mais astrocombustível na refinaria de biocombustível e selecione um projeto de pesquisa de gravitech para progredir à medida que viaja e exerce pressão sobre o motor gravitacional. O lançamento de uma gravinave dará a opção de abandonar o seu mapa atual.\n\n  - Projeto de pesquisa concluído: gravitech básica\n  - Pavimento desbloqueado: Subestrutura da gravinave\n  - Parede desbloqueada: Casco da gravinave\n  - Estruturas desbloqueadas: Cockpit do piloto, motor gravjumper, propulsor pequeno, pequeno tanque de astrocombustível, tubo de astrocombustível, válvula de astrocombustível, torneira de astrocombustível, dreno de astrocombustível, extensor de campo gravitacional\n  - Receita desbloqueada: Fazer astrocombustível a partir de combustivel químico</GravEngineInspectedLetterContents>
 
     <VGE_AgrocellSunLampEnable>Ligar lâmpada solar</VGE_AgrocellSunLampEnable>
     <VGE_AgrocellSunLampDisable>Desligar lâmpada solar</VGE_AgrocellSunLampDisable>
@@ -173,7 +173,7 @@ Por favor, note que manter vários mapas abertos pode afetar o seu desempenho.</
     <VGE_LetterTextMechanoidThreat>O processo de escaneamento da colmeia mecanoide está perto de determinar a sua localização. Quando localizar a sua {GRAVSHIP}, enviará uma força mecanoide massiva para o matar.\n\nReúna os seus suprimentos, depois fuja do mapa selecionando a {CONSOLE} e escolhendo lançar.</VGE_LetterTextMechanoidThreat>
 
     <VGE_Gravjumper>gravjumper</VGE_Gravjumper>
-    <VGE_Gravship>nave gravitacional</VGE_Gravship>
+    <VGE_Gravship>gravinave</VGE_Gravship>
     <VGE_Gravhulk>gravhulk</VGE_Gravhulk>
 
 </LanguageData>

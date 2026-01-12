@@ -14,7 +14,7 @@
   <VGE_FlightComputer.description>Um pequeno computador avançado que auxilia o piloto na navegação e manobra. Consome energia diretamente do motor gravitacional.</VGE_FlightComputer.description>
 
   <VGE_GravtechConsole.label>Console de Gravitech</VGE_GravtechConsole.label>
-  <VGE_GravtechConsole.description>Uma interface usada para analisar dados gravitacionais (gravidata) coletados de lançamentos e viagens da gravinave. Retira energia diretamente do Motor Gravitacional.</VGE_GravtechConsole.description>
+  <VGE_GravtechConsole.description>Uma interface usada para analisar dados de pesquisa gravitacionais coletados de lançamentos e viagens da gravinave. Retira energia diretamente do Motor Gravitacional.</VGE_GravtechConsole.description>
 
   <VGE_EngineeringConsole.label>Console de Engenharia</VGE_EngineeringConsole.label>
   <VGE_EngineeringConsole.description>Uma interface usada para monitorar o estado de manutenção de todos os componentes da gravinave. Retira energia diretamente do motor gravitacional.\n\n&lt;color=#E5E54C&gt;Impacto na jogabilidade:&lt;/color&gt; Reduz a sensibilidade à manutenção de todas as estruturas da gravinave nesta nave em 0.5.</VGE_EngineeringConsole.description>
@@ -25,19 +25,23 @@
   <VGE_TargetingTerminal.label>Terminal de Mira</VGE_TargetingTerminal.label>
   <VGE_TargetingTerminal.description>Uma estação de controle dedicada a operar uma única peça de artilharia da gravinave. Requer um tripulante para mirar e disparar manualmente a arma. Tira energia diretamente do motor gravitacional.</VGE_TargetingTerminal.description>
 
+
   <VGE_PointDefenseTurret.label>Torre de Defesa Pontual</VGE_PointDefenseTurret.label>
+
   <VGE_PointDefenseTurret.description>Uma torre defensiva especializada construída exclusivamente para gravinaves. Intercepta projéteis explosivos e cápsulas de aterrissagem que se aproximam dentro de seu raio de proteção, mas não pode engajar alvos terrestres. A chance de interceptação é proporcional à velocidade do alvo.</VGE_PointDefenseTurret.description>
-  <VGE_PointDefenseTurret.comps.2.fuelLabel>Munição</VGE_PointDefenseTurret.comps.2.fuelLabel>
-  <VGE_PointDefenseTurret.comps.2.fuelGizmoLabel>Munição</VGE_PointDefenseTurret.comps.2.fuelGizmoLabel>
+
+  <VGE_PointDefenseTurret.comps.CompRefuelable.fuelGizmoLabel>Munição</VGE_PointDefenseTurret.comps.CompRefuelable.fuelGizmoLabel>
+
+  <VGE_PointDefenseTurret.comps.CompRefuelable.fuelLabel>Munição</VGE_PointDefenseTurret.comps.CompRefuelable.fuelLabel>
 
   <VGE_Gun_PointDefense.label>Arma de Defesa Pontual</VGE_Gun_PointDefense.label>
   <VGE_Gun_PointDefense.description>Um canhão de defesa pontual de disparo rápido, destinado a abater pequenos objetos de entrada.</VGE_Gun_PointDefense.description>
   
   <VGE_JavelinPod.label>Módulo Dardo</VGE_JavelinPod.label>
   <VGE_JavelinPod.description>Uma plataforma de mísseis de tubo múltiplo montada na gravinave. Dispara mísseis rápidos e fortes contra naves gravitacionais expostas e forças de superfície sem blindagem. Requer um terminal de mira conectado com um operador para funcionar. Tira energia diretamente do motor gravitacional.</VGE_JavelinPod.description>
-  <VGE_JavelinPod.comps.1.fuelLabel>Astrocombustível</VGE_JavelinPod.comps.1.fuelLabel>
-  <VGE_JavelinPod.comps.1.fuelGizmoLabel>Astrocombustível</VGE_JavelinPod.comps.1.fuelGizmoLabel>
-  
+  <VGE_JavelinPod.comps.CompRefuelable.fuelLabel>Astrocombustível</VGE_JavelinPod.comps.CompRefuelable.fuelLabel>
+  <VGE_JavelinPod.comps.CompRefuelable.fuelGizmoLabel>Astrocombustível</VGE_JavelinPod.comps.CompRefuelable.fuelGizmoLabel>
+
   <VGE_Gun_JavelinPod.label>Arma de Módulo Dardo</VGE_Gun_JavelinPod.label>
   <VGE_Gun_JavelinPod.description>Uma plataforma de mísseis compacta de tubo múltiplo.</VGE_Gun_JavelinPod.description>
 
@@ -289,7 +293,7 @@
   <VGE_SolarPanelling.label>painel solar</VGE_SolarPanelling.label>
   <VGE_SolarPanelling.description>Produz eletricidade a partir da luz solar. Não funciona no escuro ou sob luz artificial. Não obstrui o movimento nem fornece cobertura, mas só pode ser construído na subestrutura da gravinave.</VGE_SolarPanelling.description>
   <VGE_GravshipBlackBox.label>caixa preta da gravinave</VGE_GravshipBlackBox.label>
-  <VGE_GravshipBlackBox.description>Um gravador avançado indestrutível integrado nos sistemas da gravinave. Aumenta muito o rendimento de dados de gravidade, captura qualquer excesso que normalmente seria desperdiçado e permite que os dados de gravidade armazenados sejam convertidos diretamente em pontos de pesquisa. Uma gravinave pode suportar apenas uma caixa preta.</VGE_GravshipBlackBox.description>
+  <VGE_GravshipBlackBox.description>Um gravador avançado indestrutível integrado nos sistemas da gravinave. Aumenta muito o rendimento de dados de pesquisa gravitacionais, captura qualquer excesso que normalmente seria desperdiçado e permite que os dados de pesquisa gravitacionais sejam convertidos diretamente em pontos de pesquisa. Uma gravinave pode suportar apenas uma caixa preta.</VGE_GravshipBlackBox.description>
 
   <VGE_VacBarrierDouble.description>Uma barreira ultrassônica que evita a despressurização no espaço. O campo comprime as moléculas de ar perto do limite, impedindo que os gases escapem enquanto permite que as pessoas viajem livremente através dele. Uma barreira de vácuo não fará nada para impedir intrusos.\n\nDeve ser energizada para evitar a despressurização.</VGE_VacBarrierDouble.description>
   <VGE_VacBarrierTriple.description>Uma barreira ultrassônica que evita a despressurização no espaço. O campo comprime as moléculas de ar perto do limite, impedindo que os gases escapem enquanto permite que as pessoas viajem livremente através dele. Uma barreira de vácuo não fará nada para impedir intrusos.\n\nDeve ser energizada para evitar a despressurização.</VGE_VacBarrierTriple.description>
