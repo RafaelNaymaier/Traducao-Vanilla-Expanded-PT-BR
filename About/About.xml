@@ -3,38 +3,31 @@
   <name>Tradução Vanilla Expanded (PT-BR)</name>
   <author>Rafael Naymaier</author>
   <supportedVersions>
+    <li>1.4</li>
+    <li>1.5</li>
     <li>1.6</li>
   </supportedVersions>
   <packageId>GitHubVersion.TraducaoVanillaExpanded.PTBR</packageId>
-  <description>Tradução (PT-BR) em progresso. O objetivo será traduzir todos os mods da série Vanilla Expanded.</description>
+  <description>Tradução para Português Brasileiro da série Vanilla Expanded. Em constante atualização para abranger todo o conteúdo disponível.</description>
 
   <modDependencies>
     <li>
-      <packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
-      <displayName>Vanilla Expanded Framework</displayName>
-      <steamWorkshopUrl>2023513437</steamWorkshopUrl>
-    </li>
-    <li>
-      <packageId>vanillaracesexpanded.sanguophage</packageId>
-      <displayName>Vanilla Races Expanded - Sanguophage</displayName>
-      <steamWorkshopUrl>2963116383</steamWorkshopUrl>
-    </li>
-    <li>
-      <packageId>vanillaracesexpanded.saurid</packageId>
-      <displayName>Vanilla Races Expanded - Saurid</displayName>
-      <steamWorkshopUrl>2557467268</steamWorkshopUrl>
-    </li>
-    <li>
-      <packageId>vanillaexpanded.gravship</packageId>
-      <displayName>Vanilla Gravship Expanded - Chapter 1</displayName>
-      <steamWorkshopUrl>3609835606</steamWorkshopUrl>
+      <packageId>Ludeon.RimWorld</packageId>
+      <displayName>RimWorld</displayName>
     </li>
   </modDependencies>
   
   <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>Ludeon.RimWorld.Royalty</li>
+    <li>Ludeon.RimWorld.Biotech</li>
+    <li>Ludeon.RimWorld.Ideology</li>
+    <li>Ludeon.RimWorld.Anomaly</li>
+    
     <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
     <li>vanillaracesexpanded.sanguophage</li>
     <li>vanillaracesexpanded.saurid</li>
     <li>vanillaexpanded.gravship</li>
+    <li>vanillaracesexpanded.archon</li>
   </loadAfter>
 </ModMetaData>
