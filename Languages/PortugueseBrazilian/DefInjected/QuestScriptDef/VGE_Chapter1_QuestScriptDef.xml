@@ -115,4 +115,14 @@
 
   <VGE_OpportunitySite_SolidCoreAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Você
     descobriu</VGE_OpportunitySite_SolidCoreAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+
+    <VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionRules.rulesStrings>
+        <li>questDescription-> [discoveryMethod] a localização de um asteroide de núcleo sólido orbitando o planeta. Sua casca é de "vacstone" denso, mas dentro reside um núcleo de [resource] esperando para ser minerado.\n\nAsteroides como este geralmente permanecem no espaço profundo, mas este flutuou para a órbita baixa. É apenas uma questão de tempo até que outra pessoa o reivindique.\n\nVocê pode alcançar o asteroide com cápsulas de transporte, naves (shuttles) ou uma gravinave. Equipe seus colonos com vestimentas orbitais suficientes antes de partir.</li>
+    </VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionRules.rulesStrings>
+    
+    <VGE_OpportunitySite_SolidCoreAsteroid.questNameRules.rulesStrings>
+        <li>questName->Asteroide de [resource] Sólido</li>
+    </VGE_OpportunitySite_SolidCoreAsteroid.questNameRules.rulesStrings>
+    
+    <VGE_OpportunitySite_SolidCoreAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Você descobriu</VGE_OpportunitySite_SolidCoreAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
 </LanguageData>
