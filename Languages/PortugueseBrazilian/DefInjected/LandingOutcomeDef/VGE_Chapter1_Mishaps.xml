@@ -1,35 +1,66 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <VGE_AstrofuelPipeRupture.label>Ruptura do tubo de astrocombustível</VGE_AstrofuelPipeRupture.label>
   <VGE_AstrofuelPipeRupture.letterLabel>Ruptura do tubo de astrocombustível</VGE_AstrofuelPipeRupture.letterLabel>
   <VGE_AstrofuelPipeRupture.letterText>Durante o pouso de {GRAVSHIP}, uma linha de combustível danificada pulverizou astrocombustível na sala. Uma faísca perdida o incendiou em um súbito astro-fogo.</VGE_AstrofuelPipeRupture.letterText>
   
-  <VGE_CriticalHeatSpike.letterLabel>Pico de Calor Crítico</VGE_CriticalHeatSpike.letterLabel>
-
+  <VGE_CriticalHeatSpike.label>Pico de calor crítico</VGE_CriticalHeatSpike.label>
+  <VGE_CriticalHeatSpike.letterLabel>Pico de calor crítico</VGE_CriticalHeatSpike.letterLabel>
   <VGE_CriticalHeatSpike.letterText>Ao trazer {GRAVSHIP} para baixo, o sistema de controle de calor do motor gravitacional falhou, fazendo com que o calor estrutural aumentasse muito além dos limites de segurança.</VGE_CriticalHeatSpike.letterText>
   
-  <VGE_GravdataCorruption.letterLabel>Corrupção de Dados Gravitacionais</VGE_GravdataCorruption.letterLabel>
-
-  <VGE_GravdataCorruption.letterText>Um pico eletromagnético inesperado durante a aterrissagem corrompeu todos os dados gravitacionais coletados nesta viagem.</VGE_GravdataCorruption.letterText>
+  <VGE_GravdataCorruption.label>Corrupção de gravidados</VGE_GravdataCorruption.label>
+  <VGE_GravdataCorruption.letterLabel>Corrupção de gravidados</VGE_GravdataCorruption.letterLabel>
+  <VGE_GravdataCorruption.letterText>Um pico eletromagnético inesperado durante a aterrissagem corrompeu todos os gravidados coletados nesta viagem.</VGE_GravdataCorruption.letterText>
   
-  <VGE_GravTurbulence.letterLabel>Turbulência Gravitacional</VGE_GravTurbulence.letterLabel>
-
+  <VGE_GravTurbulence.label>Turbulência gravitacional</VGE_GravTurbulence.label>
+  <VGE_GravTurbulence.letterLabel>Turbulência gravitacional</VGE_GravTurbulence.letterLabel>
   <VGE_GravTurbulence.letterText>A turbulência gravitacional atingiu a gravinave, danificando os controles do piloto. O piloto principal perdeu o controle sobre o pouso, causando danos graves à nave.</VGE_GravTurbulence.letterText>
 
-  <VGE_OxygenLeak.letterLabel>Vazamento de Oxigênio</VGE_OxygenLeak.letterLabel>
-
+  <VGE_OxygenLeak.label>Vazamento de oxigênio</VGE_OxygenLeak.label>
+  <VGE_OxygenLeak.letterLabel>Vazamento de oxigênio</VGE_OxygenLeak.letterLabel>
   <VGE_OxygenLeak.letterText>Ao aterrissar {GRAVSHIP}, uma pequena violação se abriu em um dos tanques de oxigênio, esvaziando todo o suprimento do tanque. Até que o vazamento seja reparado, o tanque de oxigênio não funcionará.</VGE_OxygenLeak.letterText>
 
-  <VGE_UnwantedAttention.letterLabel>Atenção Indesejada</VGE_UnwantedAttention.letterLabel>
-
+  <VGE_UnwantedAttention.label>Atenção indesejada</VGE_UnwantedAttention.label>
+  <VGE_UnwantedAttention.letterLabel>Atenção indesejada</VGE_UnwantedAttention.letterLabel>
   <VGE_UnwantedAttention.letterText>O pouso de {GRAVSHIP} atraiu atenção. Um grupo de saqueadores ou caçadores agressivos se dirigiu para a sua área.</VGE_UnwantedAttention.letterText>
   
-  <VGE_VacBarrierFlicker.letterLabel>Oscilação da Barreira de Vácuo</VGE_VacBarrierFlicker.letterLabel>
-
+  <VGE_VacBarrierFlicker.label>Oscilação da barreira de vácuo</VGE_VacBarrierFlicker.label>
+  <VGE_VacBarrierFlicker.letterLabel>Oscilação da barreira de vácuo</VGE_VacBarrierFlicker.letterLabel>
   <VGE_VacBarrierFlicker.letterText>Ao aterrissar {GRAVSHIP}, uma flutuação de energia causou a falha de uma das barreiras de vácuo, despressurizando uma pequena seção da nave. Será necessário repará-la para que funcione novamente.</VGE_VacBarrierFlicker.letterText>
   
-  <VGE_VerminInfestation.letterLabel>Infestação de Vermes</VGE_VerminInfestation.letterLabel>
-
+  <VGE_VerminInfestation.label>Infestação de vermes</VGE_VerminInfestation.label>
+  <VGE_VerminInfestation.letterLabel>Infestação de vermes</VGE_VerminInfestation.letterLabel>
   <VGE_VerminInfestation.letterText>Logo após {GRAVSHIP} tocar o solo, enxames de ratos caçadores de homens saíram dos eixos de ventilação pela nave. Ninguém sabe como eles entraram.</VGE_VerminInfestation.letterText>
+  
+  <!-- testando -->
+
+  <!-- <VGE_AsteroidDiscovery.label>Descoberta de asteroide</VGE_AsteroidDiscovery.label>
+  <VGE_AsteroidDiscovery.letterLabel>Descoberta de asteroide</VGE_AsteroidDiscovery.letterLabel>
+  <VGE_AsteroidDiscovery.letterText>Enquanto viajava, os sensores de {GRAVSHIP} detectaram um asteroide à deriva rico em materiais valiosos.</VGE_AsteroidDiscovery.letterText>
+ 
+  <VGE_CaravanEncounter.label>Encontro com caravana</VGE_CaravanEncounter.label>
+  <VGE_CaravanEncounter.letterLabel>Encontro com caravana</VGE_CaravanEncounter.letterLabel>
+  <VGE_CaravanEncounter.letterText>Ao pousar {GRAVSHIP}, uma caravana viajante próxima notou a nave e se aproximou por curiosidade. Eles estão procurando por comércio.</VGE_CaravanEncounter.letterText>
+ 
+  <VGE_CrewEuphoria.label>Euforia da tripulação</VGE_CrewEuphoria.label>
+  <VGE_CrewEuphoria.letterLabel>Euforia da tripulação</VGE_CrewEuphoria.letterLabel>
+  <VGE_CrewEuphoria.letterText>O lançamento de {GRAVSHIP} foi tão tranquilo que deixou a tripulação empolgada. Risos e celebração ecoam pelos corredores da nave.</VGE_CrewEuphoria.letterText>
+ 
+  <VGE_GravframeHarmony.label>Harmonia da graviframe</VGE_GravframeHarmony.label>
+  <VGE_GravframeHarmony.letterLabel>Harmonia da graviframe</VGE_GravframeHarmony.letterLabel>
+  <VGE_GravframeHarmony.letterText>A estrutura de {GRAVSHIP} sofreu estresse mínimo durante o lançamento. O alinhamento do campo gravitacional foi perfeito, não colocando nenhuma tensão extra nos componentes da nave.</VGE_GravframeHarmony.letterText>
+ 
+  <VGE_LandmarkSpotted.label>Marco avistado</VGE_LandmarkSpotted.label>
+  <VGE_LandmarkSpotted.letterLabel>Marco avistado</VGE_LandmarkSpotted.letterLabel>
+  <VGE_LandmarkSpotted.letterText>Ao pousar {GRAVSHIP}, sua tripulação notou um local incomum na área circundante. A curiosidade deles pode levar a descobertas valiosas. {LANDMARK} foi avistado nas proximidades.</VGE_LandmarkSpotted.letterText>
+ 
+  <VGE_PerfectTrajectory.label>Trajetória perfeita</VGE_PerfectTrajectory.label>
+  <VGE_PerfectTrajectory.letterLabel>Trajetória perfeita</VGE_PerfectTrajectory.letterLabel>
+  <VGE_PerfectTrajectory.letterText>Durante o lançamento de {GRAVSHIP}, {PILOT} executou um cálculo de trajetória de voo impecável, garantindo que a nave não desperdiçasse movimento em sua jornada. A manobra precisa reduziu drasticamente o uso de combustível.</VGE_PerfectTrajectory.letterText>
+ 
+  <VGE_RichDepositDetected.label>Depósito rico detectado</VGE_RichDepositDetected.label>
+  <VGE_RichDepositDetected.letterLabel>Depósito rico detectado</VGE_RichDepositDetected.letterLabel>
+  <VGE_RichDepositDetected.letterText>Ao pousar {GRAVSHIP}, sensores automatizados detectaram fortes leituras de recursos raros e valiosos nas profundezas da superfície.</VGE_RichDepositDetected.letterText> -->
   
 </LanguageData>

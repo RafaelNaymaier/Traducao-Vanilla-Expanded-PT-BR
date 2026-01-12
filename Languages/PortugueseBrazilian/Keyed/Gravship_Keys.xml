@@ -118,16 +118,16 @@ Por favor, note que manter vários mapas abertos pode afetar o seu desempenho.</
     <VGE_SetDesiredMaintenance>Definir manutenção desejada</VGE_SetDesiredMaintenance>
     <VGE_SetDesiredMaintenanceDesc>Definir a manutenção desejada para todos os componentes da gravinave nesta nave. Colonos designados para construção manterão as estruturas se caírem abaixo do nível definido.</VGE_SetDesiredMaintenanceDesc>
 
-    <VGE_GravdataYieldInfo>Rendimento de dados gravitacionais estimado: {0}</VGE_GravdataYieldInfo>
-    <VGE_NoGravtechProjectSelected>Nenhum projeto de pesquisa de gravitech selecionado. O lançamento não renderá dados gravitacionais.</VGE_NoGravtechProjectSelected>
+    <VGE_GravdataYieldInfo>Rendimento de gravidados estimado: {0}</VGE_GravdataYieldInfo>
+    <VGE_NoGravtechProjectSelected>Nenhum projeto de pesquisa de gravitech selecionado. O lançamento não renderá gravidados.</VGE_NoGravtechProjectSelected>
     <VGE_LaunchBoonChanceInfo>Com as previsões atuais, há uma {0}% de chance de ocorrer um benefício positivo.</VGE_LaunchBoonChanceInfo>
     <VGE_LaunchBoonOutcomeChanceLetterExtra>Com base no lançamento da gravinave, houve uma {0_percentage} de chance de um resultado positivo.</VGE_LaunchBoonOutcomeChanceLetterExtra>
-    <VGE_GravdataStored>Dados gravitacionais armazenados: {0}</VGE_GravdataStored>
-    <VGE_GravdataStoredInfo>Os dados gravitacionais armazenados serão aplicados automaticamente ao projeto de pesquisa de gravitech selecionado na próxima aterrissagem.</VGE_GravdataStoredInfo>
-    <VGE_ConvertGravdata>Converter dados gravitacionais</VGE_ConvertGravdata>
-    <VGE_ConvertGravdataDesc>Converter dados gravitacionais armazenados em pontos para o projeto de pesquisa não-gravitech escolhido. A taxa de conversão é um para um.</VGE_ConvertGravdataDesc>
+    <VGE_GravdataStored>gravidados armazenados: {0}</VGE_GravdataStored>
+    <VGE_GravdataStoredInfo>Os gravidados armazenados serão aplicados automaticamente ao projeto de pesquisa de gravitech selecionado na próxima aterrissagem.</VGE_GravdataStoredInfo>
+    <VGE_ConvertGravdata>Converter gravidados</VGE_ConvertGravdata>
+    <VGE_ConvertGravdataDesc>Converter gravidados armazenados em pontos para o projeto de pesquisa não-gravitech escolhido. A taxa de conversão é um para um.</VGE_ConvertGravdataDesc>
     <VGE_NoNonGravtechProjectSelected>Nenhum projeto de pesquisa não-gravitech selecionado.</VGE_NoNonGravtechProjectSelected>
-    <VGE_ConvertedGravdataToResearch>Convertido {0} dados gravitacionais em pontos de pesquisa para {1}.</VGE_ConvertedGravdataToResearch>
+    <VGE_ConvertedGravdataToResearch>Convertido {0} gravidados em pontos de pesquisa para {1}.</VGE_ConvertedGravdataToResearch>
     <VGE_EscapePodCrash>Impacto de cápsula de fuga</VGE_EscapePodCrash>
     <VGE_EscapePodCrashDesc>Uma cápsula de fuga danificada caiu no mapa. Pode ser forçada a abrir para revelar o que está dentro.</VGE_EscapePodCrashDesc>
 
@@ -168,7 +168,7 @@ Por favor, note que manter vários mapas abertos pode afetar o seu desempenho.</
 
     <VGE_PilotGravjumper>Lançar gravjumper</VGE_PilotGravjumper>
     <VGE_PilotGravhulk>Lançar gravhulk</VGE_PilotGravhulk>
-    <VGE_GravtechNeedsGravdata>{0} precisa de dados gravitacionais para ser concluído. Obtenha dados gravitacionais viajando com a sua nave.</VGE_GravtechNeedsGravdata>
+    <VGE_GravtechNeedsGravdata>{0} precisa de gravidados para ser concluído. Obtenha gravidados viajando com a sua nave.</VGE_GravtechNeedsGravdata>
 
     <VGE_LetterTextMechanoidThreat>O processo de escaneamento da colmeia mecanoide está perto de determinar a sua localização. Quando localizar a sua {GRAVSHIP}, enviará uma força mecanoide massiva para o matar.\n\nReúna os seus suprimentos, depois fuja do mapa selecionando a {CONSOLE} e escolhendo lançar.</VGE_LetterTextMechanoidThreat>
 
