@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VRE_BugBlood.label>sangue de inseto</VRE_BugBlood.label>
+  <VRE_BugBlood.description>Os portadores deste gene possuem sangue de cor esverdeada, assim como os insetos.</VRE_BugBlood.description>
+  <VRE_BugBlood.symbolPack.wholeNameSymbols.0.symbol>sangue-verde</VRE_BugBlood.symbolPack.wholeNameSymbols.0.symbol>
+
+  <VRE_InsectSkin.label>pele de inseto</VRE_InsectSkin.label>
+  <VRE_InsectSkin.description>Os portadores deste gene possuem uma carapaça levemente mais grossa como pele. As placas de quitina são capazes de desviar ataques cortantes, mas são bastante frágeis e não oferecem tanta defesa contra traumas contundentes.</VRE_InsectSkin.description>
+  <VRE_InsectSkin.labelShortAdj>pele de inseto</VRE_InsectSkin.labelShortAdj>
+
+  <VRE_InsectAntennae.label>antenas de inseto</VRE_InsectAntennae.label>
+  <VRE_InsectAntennae.description>Os portadores deste gene desenvolvem pequenas antenas no topo da cabeça. Estas antenas não possuem nenhuma função conhecida e pode-se assumir com segurança que são apenas cosméticas.</VRE_InsectAntennae.description>
+
+  <VRE_AntimicrobialPeptides.label>peptídeos antimicrobianos</VRE_AntimicrobialPeptides.label>
+  <VRE_AntimicrobialPeptides.description>Os portadores deste gene regeneram seus tecidos a uma taxa muito mais rápida do que o normal e são muito mais capazes de combater quaisquer infecções e doenças.</VRE_AntimicrobialPeptides.description>
+  <VRE_AntimicrobialPeptides.labelShortAdj>regenerativo</VRE_AntimicrobialPeptides.labelShortAdj>
+  <VRE_AntimicrobialPeptides.symbolPack.prefixSymbols.0.symbol>regen</VRE_AntimicrobialPeptides.symbolPack.prefixSymbols.0.symbol>
+  
+  <VRE_CompoundEyes.label>olhos compostos</VRE_CompoundEyes.label>
+  <VRE_CompoundEyes.description>Os portadores deste gene possuem inúmeras unidades de fotorrecepção independentes, permitindo-lhes ver em muitas direções, notar movimentos muito rápidos e reconhecer detalhes de longe. Sua visão e alcance de tiro efetivo são bastante aumentados.</VRE_CompoundEyes.description>
+  <VRE_CompoundEyes.symbolPack.prefixSymbols.0.symbol>composto</VRE_CompoundEyes.symbolPack.prefixSymbols.0.symbol>
+  <VRE_CompoundEyes.symbolPack.suffixSymbols.0.symbol>observador</VRE_CompoundEyes.symbolPack.suffixSymbols.0.symbol>
+  <VRE_CompoundEyes.symbolPack.suffixSymbols.1.symbol>olhador</VRE_CompoundEyes.symbolPack.suffixSymbols.1.symbol>
+  <VRE_CompoundEyes.symbolPack.wholeNameSymbols.0.symbol>multi-olhos</VRE_CompoundEyes.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <VRE_CuticleShell.label>concha de cutícula</VRE_CuticleShell.label>
+  <VRE_CuticleShell.description>Os portadores deste gene desenvolvem um exoesqueleto de cutícula fina que os protege de quaisquer patógenos. Isso lhes confere imunidade a doenças comuns, como malária ou gripe. Não faz nada para prevenir a infecção em si (apenas os efeitos dela).</VRE_CuticleShell.description>
+  <VRE_CuticleShell.labelShortAdj>imune</VRE_CuticleShell.labelShortAdj>
+  <VRE_CuticleShell.symbolPack.prefixSymbols.0.symbol>imuno</VRE_CuticleShell.symbolPack.prefixSymbols.0.symbol>
+  
+  <VRE_DetoxifierTubules.label>túbulos detoxificadores</VRE_DetoxifierTubules.label>
+  <VRE_DetoxifierTubules.description>Os portadores deste gene têm seus túbulos de Malpighi em estado de sobrecarga, sendo capazes de suportar quantidades extremas de toxicidade sem quaisquer efeitos nocivos.</VRE_DetoxifierTubules.description>
+  <VRE_DetoxifierTubules.customEffectDescriptions.0>Imunidade a gás tóxico</VRE_DetoxifierTubules.customEffectDescriptions.0>
+  
+  <VRE_HardenedChitin.label>quitina endurecida</VRE_HardenedChitin.label>
+  <VRE_HardenedChitin.description>Os portadores deste gene possuem um exoesqueleto composto de quitina espessa e endurecida, sendo muito mais resistentes a danos e efeitos de abalo. Isso ocorre ao custo de uma leve redução na velocidade devido ao peso da carapaça.</VRE_HardenedChitin.description>
+  
+  <VRE_Heatshock.label>choque térmico</VRE_Heatshock.label>
+  <VRE_Heatshock.description>Os portadores deste gene produzem um tipo especial de proteínas de choque térmico quando estão com calor, permitindo-lhes sobreviver até mesmo às temperaturas mais extremas, mas fazendo com que consumam muito mais nutrição.</VRE_Heatshock.description>
+  
+  <VRE_HighGreyMatter.label>alta massa cinzenta</VRE_HighGreyMatter.label>
+  <VRE_HighGreyMatter.description>Os portadores deste gene são capazes de absorver novas informações a uma taxa incrível, analisando suas experiências e aprendendo com elas com facilidade. Eles são incrivelmente bons em aprender novas habilidades e conhecimentos.</VRE_HighGreyMatter.description>
+  
+  <VRE_Hiveglands.label>glândulas de colmeia</VRE_Hiveglands.label>
+  <VRE_Hiveglands.description>Os portadores deste gene possuem glândulas especiais que lhes permitem aumentar significativamente a velocidade de construção. No entanto, eles geram sujeira toda vez que constroem algo.</VRE_Hiveglands.description>
+  <VRE_Hiveglands.symbolPack.prefixSymbols.0.symbol>construto</VRE_Hiveglands.symbolPack.prefixSymbols.0.symbol>
+  <VRE_Hiveglands.symbolPack.prefixSymbols.1.symbol>arquiteto</VRE_Hiveglands.symbolPack.prefixSymbols.1.symbol>
+  <VRE_Hiveglands.symbolPack.suffixSymbols.0.symbol>teto</VRE_Hiveglands.symbolPack.suffixSymbols.0.symbol>
+  <VRE_Hiveglands.symbolPack.suffixSymbols.1.symbol>obra</VRE_Hiveglands.symbolPack.suffixSymbols.1.symbol>
+  <VRE_Hiveglands.symbolPack.wholeNameSymbols.0.symbol>arquiteto</VRE_Hiveglands.symbolPack.wholeNameSymbols.0.symbol>
+  <VRE_Hiveglands.symbolPack.wholeNameSymbols.1.symbol>construtóide</VRE_Hiveglands.symbolPack.wholeNameSymbols.1.symbol>
+  
+  <VRE_HypothermicSlowdown.label>lentidão hipotérmica</VRE_HypothermicSlowdown.label>
+  <VRE_HypothermicSlowdown.description>Os portadores deste gene não sofrem de hipotermia. Em vez disso, eles entram em lentidão hipotérmica — um estado biológico especial que lhes permite sobreviver ao frio extremo. Em vez de tentar manter o calor, a química corporal do portador se adapta para evitar o congelamento interno, apesar da temperatura muito baixa. As funções corporais desaceleram e as capacidades são reduzidas, mas o frio não causa danos permanentes.</VRE_HypothermicSlowdown.description>
+  
+  <VRE_InsectMandibles.label>mandíbulas de inseto</VRE_InsectMandibles.label>
+  <VRE_InsectMandibles.description>Os portadores deste gene possuem mandíbulas de inseto muito fortes, permitindo-lhes consumir alimentos significativamente mais rápido. Eles também poderão usar estas mandíbulas em combate se estiverem desarmados.</VRE_InsectMandibles.description>
+  <VRE_InsectMandibles.symbolPack.prefixSymbols.0.symbol>mandibulado</VRE_InsectMandibles.symbolPack.prefixSymbols.0.symbol>
+  <VRE_InsectMandibles.symbolPack.suffixSymbols.0.symbol>inseto</VRE_InsectMandibles.symbolPack.suffixSymbols.0.symbol>
+  <VRE_InsectMandibles.symbolPack.suffixSymbols.1.symbol>mandíbula</VRE_InsectMandibles.symbolPack.suffixSymbols.1.symbol>
+  
+  <VRE_InsectWings.label>asas de inseto</VRE_InsectWings.label>
+  <VRE_InsectWings.description>Os portadores deste gene desenvolvem grandes asas semelhantes às de insetos na parte de trás do tronco, permitindo-lhes mover-se mais rápido, planar por terrenos difíceis com facilidade e, de tempos em tempos, saltar alto no ar.</VRE_InsectWings.description>
+  <VRE_InsectWings.symbolPack.prefixSymbols.0.symbol>voo</VRE_InsectWings.symbolPack.prefixSymbols.0.symbol>
+  <VRE_InsectWings.symbolPack.prefixSymbols.1.symbol>salto</VRE_InsectWings.symbolPack.prefixSymbols.1.symbol>
+  <VRE_InsectWings.symbolPack.suffixSymbols.0.symbol>corredor</VRE_InsectWings.symbolPack.suffixSymbols.0.symbol>
+  <VRE_InsectWings.symbolPack.suffixSymbols.1.symbol>saltador</VRE_InsectWings.symbolPack.suffixSymbols.1.symbol>
+  <VRE_InsectWings.symbolPack.suffixSymbols.2.symbol>voador</VRE_InsectWings.symbolPack.suffixSymbols.2.symbol>
+  <VRE_InsectWings.symbolPack.suffixSymbols.3.symbol>voo</VRE_InsectWings.symbolPack.suffixSymbols.3.symbol>
+  
+  <VRE_JellySacks.label>sacos de geleia</VRE_JellySacks.label>
+  <VRE_JellySacks.description>Os portadores deste gene possuem grandes sacos de geleia presentes no abdome inferior, permitindo-lhes produzir periodicamente a valiosa geleia de inseto.</VRE_JellySacks.description>
+  <VRE_JellySacks.customEffectDescriptions.0>Produz 6 unidades de geleia de inseto por dia</VRE_JellySacks.customEffectDescriptions.0>
+  <VRE_JellySacks.symbolPack.prefixSymbols.0.symbol>mel</VRE_JellySacks.symbolPack.prefixSymbols.0.symbol>
+  <VRE_JellySacks.symbolPack.prefixSymbols.1.symbol>geleia</VRE_JellySacks.symbolPack.prefixSymbols.1.symbol>
+  
+  <VRE_MegaspiderHorns.label>chifres de mega-aranha</VRE_MegaspiderHorns.label>
+  <VRE_MegaspiderHorns.description>Os portadores deste gene desenvolvem dois chifres fortes na testa, semelhantes aos encontrados em mega-aranhas bioengenheiradas. Estes chifres podem ser usados para dilacerar inimigos em combate se estiverem desarmados, mas também aumentam levemente a velocidade de mineração.</VRE_MegaspiderHorns.description>
+  <VRE_MegaspiderHorns.symbolPack.prefixSymbols.0.symbol>chifrudo</VRE_MegaspiderHorns.symbolPack.prefixSymbols.0.symbol>
+  <VRE_MegaspiderHorns.symbolPack.suffixSymbols.0.symbol>inseto</VRE_MegaspiderHorns.symbolPack.suffixSymbols.0.symbol>
+  <VRE_MegaspiderHorns.symbolPack.suffixSymbols.1.symbol>chifre</VRE_MegaspiderHorns.symbolPack.suffixSymbols.1.symbol>
+  
+  <VRE_Parthenogenesis.label>partenogênese</VRE_Parthenogenesis.label>
+  <VRE_Parthenogenesis.description>Os portadores deste gene podem se auto-impregnar, criando descendentes sem a necessidade de um segundo progenitor. Órgãos reprodutivos especializados geram um feto internamente, que é armazenado em uma estrutura semelhante a um ovipositor até estar pronto para o nascimento. Isso permite que os portadores propaguem sua espécie rapidamente de forma autônoma.</VRE_Parthenogenesis.description>
+  <VRE_Parthenogenesis.customEffectDescriptions.0>Não pode engravidar através de intercurso.</VRE_Parthenogenesis.customEffectDescriptions.0>
+  <VRE_Parthenogenesis.symbolPack.prefixSymbols.0.symbol>repro</VRE_Parthenogenesis.symbolPack.prefixSymbols.0.symbol>
+  
+  <VRE_RipperBlades.label>lâminas-rasgadoras</VRE_RipperBlades.label>
+  <VRE_RipperBlades.description>Os portadores deste gene possuem lâminas-rasgadoras longas e mortais no lugar das mãos. Embora as lâminas reduzam drasticamente a velocidade de trabalho, elas podem ser usadas em combate corpo a corpo e são capazes de rasgar ao meio até mesmo inimigos blindados.</VRE_RipperBlades.description>
+  <VRE_RipperBlades.labelShortAdj>lâmina-rasgadora</VRE_RipperBlades.labelShortAdj>
+  <VRE_RipperBlades.symbolPack.prefixSymbols.0.symbol>rasgador</VRE_RipperBlades.symbolPack.prefixSymbols.0.symbol>
+  
+  <VRE_RobustMidgut.label>intestino médio robusto</VRE_RobustMidgut.label>
+  <VRE_RobustMidgut.description>Os portadores deste gene desenvolvem um intestino médio com múltiplas dobras, permitindo-lhes digerir alimentos crus de forma mais eficiente do que humanos comuns. Em geral, eles obtêm a mesma nutrição de alimentos crus que obteriam se estivessem cozidos. Eles também não se importam nem um pouco com o gosto de comida crua. Previne intoxicação alimentar.</VRE_RobustMidgut.description>
+  
+  <VRE_SensitiveBrainGoop.label>gosma cerebral sensível</VRE_SensitiveBrainGoop.label>
+  <VRE_SensitiveBrainGoop.description>Os portadores deste gene possuem uma substância volátil que envolve o cérebro, aumentando consideravelmente sua sensibilidade psíquica.</VRE_SensitiveBrainGoop.description>
+  
+  <VRE_Serotonin.label>serotonina</VRE_Serotonin.label>
+  <VRE_Serotonin.description>Os portadores deste gene produzem grandes quantidades de serotonina, mantendo-os em um estado contínuo de felicidade extrema, ao mesmo tempo que afeta sua consciência. A presença deste neurotransmissor também os tornará mais agressivos.</VRE_Serotonin.description>
+  
+  <VRE_SlowedLifeCycle.label>ciclo de vida lento</VRE_SlowedLifeCycle.label>
+  <VRE_SlowedLifeCycle.description>Os portadores deste gene não passam pela senescência da forma normal. Eles nunca contraem doenças crônicas relacionadas à idade, como câncer, problemas nas costas, cataratas ou demência, e envelhecem muito mais devagar.</VRE_SlowedLifeCycle.description>
+  
+  <VRE_SpawningSack.label>saco de procriação</VRE_SpawningSack.label>
+  <VRE_SpawningSack.description>Os portadores deste gene possuem grandes sacos de geleia real presentes no abdome inferior. Isso aumenta sua fertilidade e permite que progridam rapidamente em sua gravidez e, no caso de gravidezes de "chestburst" (rompimento do peito), permite que o portador carregue sua própria prole dentro de si sem o risco de morte ao dar à luz.</VRE_SpawningSack.description>
+  <VRE_SpawningSack.customEffectDescriptions.0>Invalida gravidez de chestburst fatal.</VRE_SpawningSack.customEffectDescriptions.0>
+  <VRE_SpawningSack.customEffectDescriptions.1>25% de aumento na velocidade de gravidez.</VRE_SpawningSack.customEffectDescriptions.1>
+  <VRE_SpawningSack.symbolPack.prefixSymbols.0.symbol>prole</VRE_SpawningSack.symbolPack.prefixSymbols.0.symbol>
+  <VRE_SpawningSack.symbolPack.prefixSymbols.1.symbol>ninhada</VRE_SpawningSack.symbolPack.prefixSymbols.1.symbol>
+  
+  <VRE_SpelopedeHorn.label>chifre de spelopede</VRE_SpelopedeHorn.label>
+  <VRE_SpelopedeHorn.description>Os portadores deste gene desenvolvem um chifre único e grosso no meio do osso da cabeça, semelhante aos encontrados em spelopedes bioengenheirados. Ao contrário dos chifres de mega-aranha, o chifre de spelopede não pode ser usado em combate, mas aumenta grandemente a velocidade de mineração.</VRE_SpelopedeHorn.description>
+  <VRE_SpelopedeHorn.labelShortAdj>chifrudo</VRE_SpelopedeHorn.labelShortAdj>
+  <VRE_SpelopedeHorn.symbolPack.prefixSymbols.0.symbol>inseto</VRE_SpelopedeHorn.symbolPack.prefixSymbols.0.symbol>
+  <VRE_SpelopedeHorn.symbolPack.prefixSymbols.1.symbol>chifre</VRE_SpelopedeHorn.symbolPack.prefixSymbols.1.symbol>
+  
+  <VRE_VocalGlands.label>glândulas vocais</VRE_VocalGlands.label>
+  <VRE_VocalGlands.description>Os portadores deste gene possuem um órgão vocal especial que pode emular a voz humana perfeitamente e emitir um tom melódico que, para a maioria das pessoas, pode ser descrito como belo.</VRE_VocalGlands.description>
+  <VRE_VocalGlands.symbolPack.prefixSymbols.0.symbol>vocal</VRE_VocalGlands.symbolPack.prefixSymbols.0.symbol>
+  <VRE_VocalGlands.symbolPack.prefixSymbols.1.symbol>fala</VRE_VocalGlands.symbolPack.prefixSymbols.1.symbol>
+  <VRE_VocalGlands.symbolPack.suffixSymbols.0.symbol>orador</VRE_VocalGlands.symbolPack.suffixSymbols.0.symbol>
+  <VRE_VocalGlands.symbolPack.wholeNameSymbols.0.symbol>vocalista</VRE_VocalGlands.symbolPack.wholeNameSymbols.0.symbol>
+
+  <VRE_ChelisInsectoidSkin_Cosmetic.label>pele de linhagem Chelis</VRE_ChelisInsectoidSkin_Cosmetic.label>
+  <VRE_ChelisInsectoidSkin_Cosmetic.description>Os portadores deste gene produzem um pigmento semelhante ao dos insectóides da linhagem Chelis.</VRE_ChelisInsectoidSkin_Cosmetic.description>
+  <VRE_ChelisInsectoidSkin_Cosmetic.labelShortAdj>insectóide</VRE_ChelisInsectoidSkin_Cosmetic.labelShortAdj>
+  
+  <VRE_CompoundEyes_Cosmetic.label>olhos compostos, cosmético</VRE_CompoundEyes_Cosmetic.label>
+  <VRE_CompoundEyes_Cosmetic.description>Os portadores deste gene possuem inúmeras unidades de fotorrecepção independentes, permitindo-lhes ver em muitas direções, notar movimentos muito rápidos e reconhecer detalhes de longe.</VRE_CompoundEyes_Cosmetic.description>
+  
+  <VRE_Eyes_Gray_Cosmetic.label>olhos cinzas, cosmético</VRE_Eyes_Gray_Cosmetic.label>
+  <VRE_Eyes_Gray_Cosmetic.description>Os portadores deste gene possuem olhos de um tom cinza-claro pálido.</VRE_Eyes_Gray_Cosmetic.description>
+  
+  <VRE_Eyes_Red_Cosmetic.label>olhos vermelhos, cosmético</VRE_Eyes_Red_Cosmetic.label>
+  <VRE_Eyes_Red_Cosmetic.description>Os portadores deste gene possuem olhos com pigmentação vermelha profunda.</VRE_Eyes_Red_Cosmetic.description>
+  
+  <VRE_Headbone_CenterHorn_Cosmetic.label>chifre central, cosmético</VRE_Headbone_CenterHorn_Cosmetic.label>
+  <VRE_Headbone_CenterHorn_Cosmetic.description>Os portadores deste gene desenvolvem um único chifre projetando-se do centro da testa.</VRE_Headbone_CenterHorn_Cosmetic.description>
+  
+  <VRE_Headbone_MiniHorns_Cosmetic.label>mini chifres, cosmético</VRE_Headbone_MiniHorns_Cosmetic.label>
+  <VRE_Headbone_MiniHorns_Cosmetic.description>Os portadores deste gene desenvolvem dois pequenos chifres projetando-se da testa.</VRE_Headbone_MiniHorns_Cosmetic.description>
+  
+  <VRE_InsectAntennae_Cosmetic.label>antenas de inseto, cosmético</VRE_InsectAntennae_Cosmetic.label>
+  <VRE_InsectAntennae_Cosmetic.description>Os portadores deste gene desenvolvem pequenas antenas no topo da cabeça. Estas antenas não possuem nenhuma função conhecida e pode-se assumir com segurança que são apenas cosméticas.</VRE_InsectAntennae_Cosmetic.description>
+  
+  <VRE_InsectMandibles_Cosmetic.label>mandíbulas de inseto, cosmético</VRE_InsectMandibles_Cosmetic.label>
+  <VRE_InsectMandibles_Cosmetic.description>Os portadores deste gene possuem mandíbulas muito fortes semelhantes às de insetos.</VRE_InsectMandibles_Cosmetic.description>
+  
+  <VRE_InsectWings_Cosmetic.label>asas de inseto, cosmético</VRE_InsectWings_Cosmetic.label>
+  <VRE_InsectWings_Cosmetic.description>Os portadores deste gene desenvolvem grandes asas semelhantes às de insetos na parte de trás do tronco.</VRE_InsectWings_Cosmetic.description>
+  
+  <VRE_JellySacks_Cosmetic.label>sacos de geleia, cosmético</VRE_JellySacks_Cosmetic.label>
+  <VRE_JellySacks_Cosmetic.description>Os portadores deste gene possuem grandes sacos de geleia presentes no abdome inferior.</VRE_JellySacks_Cosmetic.description>
+  
+  <VRE_KemiaInsectoidSkin_Cosmetic.label>pele de linhagem Kemia</VRE_KemiaInsectoidSkin_Cosmetic.label>
+  <VRE_KemiaInsectoidSkin_Cosmetic.description>Os portadores deste gene produzem um pigmento semelhante ao dos insectóides da linhagem Kemia.</VRE_KemiaInsectoidSkin_Cosmetic.description>
+  <VRE_KemiaInsectoidSkin_Cosmetic.labelShortAdj>insectóide</VRE_KemiaInsectoidSkin_Cosmetic.labelShortAdj>
+  
+  <VRE_MegascarabInsectoidSkin_Cosmetic.label>pele de mega-escaravelho</VRE_MegascarabInsectoidSkin_Cosmetic.label>
+  <VRE_MegascarabInsectoidSkin_Cosmetic.description>Os portadores deste gene produzem um pigmento semelhante ao dos mega-escaravelhos.</VRE_MegascarabInsectoidSkin_Cosmetic.description>
+  <VRE_MegascarabInsectoidSkin_Cosmetic.labelShortAdj>insectóide</VRE_MegascarabInsectoidSkin_Cosmetic.labelShortAdj>
+  
+  <VRE_MegaspiderHorns_Cosmetic.label>chifres de mega-aranha, cosmético</VRE_MegaspiderHorns_Cosmetic.label>
+  <VRE_MegaspiderHorns_Cosmetic.description>Os portadores deste gene desenvolvem dois chifres fortes na testa, semelhantes aos encontrados em mega-aranhas bioengenheiradas.</VRE_MegaspiderHorns_Cosmetic.description>
+  
+  <VRE_MegaspiderInsectoidSkin_Cosmetic.label>pele de mega-aranha</VRE_MegaspiderInsectoidSkin_Cosmetic.label>
+  <VRE_MegaspiderInsectoidSkin_Cosmetic.description>Os portadores deste gene produzem um pigmento semelhante ao das mega-aranhas.</VRE_MegaspiderInsectoidSkin_Cosmetic.description>
+  <VRE_MegaspiderInsectoidSkin_Cosmetic.labelShortAdj>insectóide</VRE_MegaspiderInsectoidSkin_Cosmetic.labelShortAdj>
+  
+  <VRE_NuchadusInsectoidSkin_Cosmetic.label>pele de linhagem Nuchadus</VRE_NuchadusInsectoidSkin_Cosmetic.label>
+  <VRE_NuchadusInsectoidSkin_Cosmetic.description>Os portadores deste gene produzem um pigmento semelhante ao dos insectóides da linhagem Nuchadus.</VRE_NuchadusInsectoidSkin_Cosmetic.description>
+  <VRE_NuchadusInsectoidSkin_Cosmetic.labelShortAdj>insectóide</VRE_NuchadusInsectoidSkin_Cosmetic.labelShortAdj>
+  
+  <VRE_OcelliEyes_Cosmetic.label>olhos ocelos, cosmético</VRE_OcelliEyes_Cosmetic.label>
+  <VRE_OcelliEyes_Cosmetic.description>Os portadores deste gene possuem um arranjo óptico composto por uma única lente e sem uma retina elaborada.</VRE_OcelliEyes_Cosmetic.description>
+  
+  <VRE_SpawningSack_Cosmetic.label>saco de procriação, cosmético</VRE_SpawningSack_Cosmetic.label>
+  <VRE_SpawningSack_Cosmetic.description>Os portadores deste gene possuem grandes sacos de geleia real presentes no abdome inferior.</VRE_SpawningSack_Cosmetic.description>
+  
+  <VRE_SpelopedeHorn_Cosmetic.label>chifre de spelopede, cosmético</VRE_SpelopedeHorn_Cosmetic.label>
+  <VRE_SpelopedeHorn_Cosmetic.description>Os portadores deste gene desenvolvem um chifre único e grosso no meio do osso da cabeça, semelhante aos encontrados em spelopedes bioengenheirados.</VRE_SpelopedeHorn_Cosmetic.description>
+  
+  <VRE_SpelopedeInsectoidSkin_Cosmetic.label>pele de spelopede</VRE_SpelopedeInsectoidSkin_Cosmetic.label>
+  <VRE_SpelopedeInsectoidSkin_Cosmetic.description>Os portadores deste gene produzem um pigmento semelhante ao dos spelopedes.</VRE_SpelopedeInsectoidSkin_Cosmetic.description>
+  <VRE_SpelopedeInsectoidSkin_Cosmetic.labelShortAdj>insectóide</VRE_SpelopedeInsectoidSkin_Cosmetic.labelShortAdj>
+  
+  <VRE_VatGrownInsectoidSkin_Cosmetic.label>pele de insectóide de laboratório</VRE_VatGrownInsectoidSkin_Cosmetic.label>
+  <VRE_VatGrownInsectoidSkin_Cosmetic.description>Os portadores deste gene produzem um pigmento semelhante ao dos insectóides cultivados em tanques de laboratório.</VRE_VatGrownInsectoidSkin_Cosmetic.description>
+  <VRE_VatGrownInsectoidSkin_Cosmetic.labelShortAdj>insectóide</VRE_VatGrownInsectoidSkin_Cosmetic.labelShortAdj>
+  
+  <VRE_XanidesInsectoidSkin_Cosmetic.label>pele de linhagem Xanides</VRE_XanidesInsectoidSkin_Cosmetic.label>
+  <VRE_XanidesInsectoidSkin_Cosmetic.description>Os portadores deste gene produzem um pigmento semelhante ao dos insectóides da linhagem Xanides.</VRE_XanidesInsectoidSkin_Cosmetic.description>
+  <VRE_XanidesInsectoidSkin_Cosmetic.labelShortAdj>insectóide</VRE_XanidesInsectoidSkin_Cosmetic.labelShortAdj>
+
+  <VRE_GenelineEvolution.label>evolução de linhagem</VRE_GenelineEvolution.label>
+  <VRE_GenelineEvolution.description>Os portadores deste gene são capazes de adaptar sua linhagem genética à vontade. Eles podem formar castas diferentes e obter inúmeras novas evoluções e degradações exclusivas de sua linhagem.</VRE_GenelineEvolution.description>
+
+  <VRE_InsectFlesh.label>carne de inseto</VRE_InsectFlesh.label>
+  <VRE_InsectFlesh.description>Os portadores deste gene possuem tecido de inseto como carne. O consumo de carne de inseto por eles é classificado como canibalismo. Quando esquartejados, eles produzirão carne de inseto em vez de carne humana.\n\nSe o mod VFE - Insectoids 2 estiver presente, este gene anulará a penalidade de movimento sobre a Gosma (Creep).</VRE_InsectFlesh.description>
+
+  <VRE_InsectPheromones.label>feromônios de inseto</VRE_InsectPheromones.label>
+  <VRE_InsectPheromones.description>Os portadores deste gene emitem feromônios especiais, permitindo que coexistam com insectóides selvagens. Eles não serão atacados por insectóides, a menos que sejam provocados.</VRE_InsectPheromones.description>
+
+  <VRE_AcidBlood.label>sangue ácido</VRE_AcidBlood.label>
+  <VRE_AcidBlood.description>Os portadores deste gene possuem uma toxina altamente concentrada em seu sangue. Ao sangrar, eles emitem grandes quantidades de gás tóxico e, após a morte, seus equipamentos serão destruídos pelo ácido.</VRE_AcidBlood.description>
+  
+  <VRE_Dormant.label>dormente</VRE_Dormant.label>
+  <VRE_Dormant.description>Os portadores deste gene têm atividade e agressividade reduzidas e passam a maior parte do tempo em estado de dormência. O metabolismo de tal indivíduo também é reduzido, permitindo que consumam menos nutrição para se manterem vivos.</VRE_Dormant.description>
+  
+  <VRE_Heatstress.label>estresse térmico</VRE_Heatstress.label>
+  <VRE_Heatstress.description>Os portadores deste gene sofrem estresse térmico quando as temperaturas excedem a faixa ideal para seus processos fisiológicos. Isso pode levar a danos celulares, incluindo a desnaturação de proteínas, danos por queimadura e um medo severo de fogo. Eles perderão a consciência quando expostos ao calor extremo, mesmo que por um curto período.</VRE_Heatstress.description>
+  
+  <VRE_HypothermicHibernation.label>hibernação hipotérmica</VRE_HypothermicHibernation.label>
+  <VRE_HypothermicHibernation.description>Os portadores deste gene entram em hibernação se suas temperaturas caírem abaixo de um certo ponto por muito tempo. Eles perderão rapidamente suas funções corporais e cairão em um sono profundo, o que previne qualquer tipo de dano por geladura (frostbite), mas também os torna incapazes de realizar qualquer ação.</VRE_HypothermicHibernation.description>
+  
+  <VRE_Immunodeficiency.label>imunodeficiência</VRE_Immunodeficiency.label>
+  <VRE_Immunodeficiency.description>Os portadores deste gene regeneram seus tecidos com metade da velocidade normal e são muito mais propensos a morrer de infecções devido à baixa imunidade.</VRE_Immunodeficiency.description>
+  <VRE_Immunodeficiency.labelShortAdj>fraco</VRE_Immunodeficiency.labelShortAdj>
+  <VRE_Immunodeficiency.symbolPack.prefixSymbols.0.symbol>frágil</VRE_Immunodeficiency.symbolPack.prefixSymbols.0.symbol>
+  
+  <VRE_InefficientMidgut.label>intestino médio ineficiente</VRE_InefficientMidgut.label>
+  <VRE_InefficientMidgut.description>Os portadores deste gene possuem um ácido muito ineficiente em seu intestino médio, tornando mais difícil a absorção de nutrientes. Eles sentirão fome significativamente mais rápido, mas serão capazes de consumir mais.</VRE_InefficientMidgut.description>
+  
+  <VRE_InflexibleJoints.label>articulações inflexíveis</VRE_InflexibleJoints.label>
+  <VRE_InflexibleJoints.description>Os portadores deste gene possuem articulações endurecidas e menos flexíveis, tornando muito mais difícil se mover e ainda mais difícil navegar em terrenos acidentados.</VRE_InflexibleJoints.description>
+  <VRE_InflexibleJoints.symbolPack.prefixSymbols.0.symbol>lento</VRE_InflexibleJoints.symbolPack.prefixSymbols.0.symbol>
+  <VRE_InflexibleJoints.symbolPack.prefixSymbols.1.symbol>lesma</VRE_InflexibleJoints.symbolPack.prefixSymbols.1.symbol>
+  <VRE_InflexibleJoints.symbolPack.prefixSymbols.2.symbol>leto</VRE_InflexibleJoints.symbolPack.prefixSymbols.2.symbol>
+  <VRE_InflexibleJoints.symbolPack.prefixSymbols.3.symbol>inflexi</VRE_InflexibleJoints.symbolPack.prefixSymbols.3.symbol>
+  <VRE_InflexibleJoints.symbolPack.suffixSymbols.0.symbol>rastejante</VRE_InflexibleJoints.symbolPack.suffixSymbols.0.symbol>
+  <VRE_InflexibleJoints.symbolPack.suffixSymbols.1.symbol>lerdo</VRE_InflexibleJoints.symbolPack.suffixSymbols.1.symbol>
+  <VRE_InflexibleJoints.symbolPack.suffixSymbols.2.symbol>viscoso</VRE_InflexibleJoints.symbolPack.suffixSymbols.2.symbol>
+  
+  <VRE_LowGreyMatter.label>baixa massa cinzenta</VRE_LowGreyMatter.label>
+  <VRE_LowGreyMatter.description>Os portadores deste gene são incapazes de processar novas informações e incapazes de avaliar suas decisões e aprender com elas. Eles são incrivelmente lentos em aprender novas habilidades e conhecimentos, e têm uma sensibilidade psíquica grandemente reduzida.</VRE_LowGreyMatter.description>
+  <VRE_LowGreyMatter.symbolPack.prefixSymbols.0.symbol>bruto</VRE_LowGreyMatter.symbolPack.prefixSymbols.0.symbol>
+  <VRE_LowGreyMatter.symbolPack.prefixSymbols.1.symbol>grunhido</VRE_LowGreyMatter.symbolPack.prefixSymbols.1.symbol>
+  <VRE_LowGreyMatter.symbolPack.prefixSymbols.2.symbol>estúpido</VRE_LowGreyMatter.symbolPack.prefixSymbols.2.symbol>
+  <VRE_LowGreyMatter.symbolPack.prefixSymbols.3.symbol>maçante</VRE_LowGreyMatter.symbolPack.prefixSymbols.3.symbol>
+  <VRE_LowGreyMatter.symbolPack.prefixSymbols.4.symbol>burro</VRE_LowGreyMatter.symbolPack.prefixSymbols.4.symbol>
+  
+  <VRE_LowOctopamine.label>baixa octopamina</VRE_LowOctopamine.label>
+  <VRE_LowOctopamine.description>Os portadores deste gene produzem muito pouca octopamina, causando diminuição do estado de alerta e reduzindo seu nível de atividade. A falta deste neurotransmissor também os tornará muito mais deprimidos.</VRE_LowOctopamine.description>
+  
+  <VRE_OcelliEyes.label>olhos ocelos</VRE_OcelliEyes.label>
+  <VRE_OcelliEyes.description>Os portadores deste gene possuem um arranjo óptico composto por uma única lente e sem uma retina elaborada, tornando-os quase cegos.</VRE_OcelliEyes.description>
+  <VRE_OcelliEyes.symbolPack.prefixSymbols.0.symbol>cego</VRE_OcelliEyes.symbolPack.prefixSymbols.0.symbol>
+  <VRE_OcelliEyes.symbolPack.prefixSymbols.1.symbol>ocelo</VRE_OcelliEyes.symbolPack.prefixSymbols.1.symbol>
+  <VRE_OcelliEyes.symbolPack.suffixSymbols.0.symbol>cego</VRE_OcelliEyes.symbolPack.suffixSymbols.0.symbol>
+  <VRE_OcelliEyes.symbolPack.wholeNameSymbols.0.symbol>cego</VRE_OcelliEyes.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <VRE_PollutionDependency.label>dependência de poluição</VRE_PollutionDependency.label>
+  <VRE_PollutionDependency.description>Os portadores deste gene precisam ser afetados pela poluição regularmente para sobreviver. Após 5 dias sem poluição, os portadores sofrerão de deficiência de poluição. Após 30 dias, eles entrarão em coma. Após 60 dias, eles morrerão.</VRE_PollutionDependency.description>
+  
+  <VRE_PorousSkin.label>pele porosa</VRE_PorousSkin.label>
+  <VRE_PorousSkin.description>Os portadores deste gene possuem poros ocos na pele, tornando sua aparência extremamente desagradável.</VRE_PorousSkin.description>
+  
+  <VRE_ProteinDenaturation.label>desnaturação proteica</VRE_ProteinDenaturation.label>
+  <VRE_ProteinDenaturation.description>Os portadores deste gene têm processos celulares interrompidos causados por proteínas desnaturadas que reagem perigosamente à radiação UV. Eles são intensamente sensíveis à luz solar e possuem quitina muito seca, suscetível ao fogo.</VRE_ProteinDenaturation.description>
+  <VRE_ProteinDenaturation.symbolPack.prefixSymbols.0.symbol>seco</VRE_ProteinDenaturation.symbolPack.prefixSymbols.0.symbol>
+  
+  <VRE_RapidLifeCycle.label>ciclo de vida rápido</VRE_RapidLifeCycle.label>
+  <VRE_RapidLifeCycle.description>Os portadores deste gene possuem um ciclo de vida curto e sofrerão doenças relacionadas à idade mais cedo do que outros. Quanto mais velhos ficarem, mais rapidamente envelhecerão.</VRE_RapidLifeCycle.description>
+  
+  <VRE_Stenothermic.label>estenotérmico</VRE_Stenothermic.label>
+  <VRE_Stenothermic.description>Os portadores deste gene podem tolerar apenas uma faixa de temperatura muito estreita.</VRE_Stenothermic.description>
+  
+  <VRE_VestigialTubules.label>túbulos vestigiais</VRE_VestigialTubules.label>
+  <VRE_VestigialTubules.description>Os portadores deste gene carecem de qualquer capacidade de filtrar toxinas, pois seus túbulos tornaram-se inúteis. Eles são muito mais propensos a morrer devido a qualquer tipo de toxicidade em seu ambiente.</VRE_VestigialTubules.description>
+  
+  <VRE_VocalChitters.label>estalidos vocais</VRE_VocalChitters.label>
+  <VRE_VocalChitters.description>Os portadores deste gene tiveram suas cordas vocais transformadas em pequenas aberturas nos ossos, resultando na incapacidade de falar, a menos que alguém entenda o assobio alto que agora podem produzir.</VRE_VocalChitters.description>
+  <VRE_VocalChitters.symbolPack.prefixSymbols.0.symbol>quieto</VRE_VocalChitters.symbolPack.prefixSymbols.0.symbol>
+  <VRE_VocalChitters.symbolPack.prefixSymbols.1.symbol>mudo</VRE_VocalChitters.symbolPack.prefixSymbols.1.symbol>
+  <VRE_VocalChitters.symbolPack.suffixSymbols.0.symbol>mudo</VRE_VocalChitters.symbolPack.suffixSymbols.0.symbol>
+  <VRE_VocalChitters.symbolPack.wholeNameSymbols.0.symbol>estalido</VRE_VocalChitters.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <VRE_WeakenedChitin.label>quitina enfraquecida</VRE_WeakenedChitin.label>
+  <VRE_WeakenedChitin.description>Os portadores deste gene possuem um exoesqueleto composto de quitina fina, porosa e quebradiça, sendo propensos a danos. O peso leve de sua carapaça, entretanto, permite uma velocidade de movimento ligeiramente mais rápida.</VRE_WeakenedChitin.description>
+
+  <VRE_InsectJellyDependency.label>dependência de geleia de inseto</VRE_InsectJellyDependency.label>
+  <VRE_InsectJellyDependency.description>Os portadores deste gene precisam ingerir geleia de inseto regularmente para sobreviver. Após 5 dias sem geleia de inseto, os portadores sofrerão de deficiência de geleia de inseto. Após 30 dias, eles entrarão em coma. Após 60 dias, eles morrerão.</VRE_InsectJellyDependency.description>
+  <VRE_InsectJellyDependency.customEffectDescriptions.0>Concede imunidade à chance de intoxicação alimentar ao consumir geleia de inseto diretamente.</VRE_InsectJellyDependency.customEffectDescriptions.0>
+  <VRE_InsectJellyDependency.resourceDescription>Uma necessidade de {PAWN_nameDef} de consumir geleia de inseto</VRE_InsectJellyDependency.resourceDescription>
+  <VRE_InsectJellyDependency.resourceLabel>geleia de inseto</VRE_InsectJellyDependency.resourceLabel>
+
+  <VRE_ChestburstPregnancy.label>gravidez de rompimento torácico</VRE_ChestburstPregnancy.label>
+  <VRE_ChestburstPregnancy.description>Os portadores deste gene não carregam seu próprio feto. Em vez disso, o feto precisa ser implantado em outro indivíduo ou animal, seja ele voluntário ou não. Assim que o feto amadurece, ele irromperá da caixa torácica da vítima, matando o hospedeiro.</VRE_ChestburstPregnancy.description>
+  <VRE_ChestburstPregnancy.customEffectDescriptions.0>O colono precisa engravidar de maneira convencional antes de poder prosseguir com a gravidez de rompimento torácico.</VRE_ChestburstPregnancy.customEffectDescriptions.0>
+
+  <VRE_MegascarabInsectoidSkin.label>pele de mega-escaravelho</VRE_MegascarabInsectoidSkin.label>
+  <VRE_MegascarabInsectoidSkin.description>Os portadores deste gene produzem um pigmento semelhante ao dos mega-escaravelhos.</VRE_MegascarabInsectoidSkin.description>
+  <VRE_MegascarabInsectoidSkin.labelShortAdj>insectóide</VRE_MegascarabInsectoidSkin.labelShortAdj>
+  
+  <VRE_MegaspiderInsectoidSkin.label>pele de mega-aranha</VRE_MegaspiderInsectoidSkin.label>
+  <VRE_MegaspiderInsectoidSkin.description>Os portadores deste gene produzem um pigmento semelhante ao das mega-aranhas.</VRE_MegaspiderInsectoidSkin.description>
+  <VRE_MegaspiderInsectoidSkin.labelShortAdj>insectóide</VRE_MegaspiderInsectoidSkin.labelShortAdj>
+  
+  <VRE_SpelopedeInsectoidSkin.label>pele de spelopede</VRE_SpelopedeInsectoidSkin.label>
+  <VRE_SpelopedeInsectoidSkin.description>Os portadores deste gene produzem um pigmento semelhante ao dos spelopedes.</VRE_SpelopedeInsectoidSkin.description>
+  <VRE_SpelopedeInsectoidSkin.labelShortAdj>insectóide</VRE_SpelopedeInsectoidSkin.labelShortAdj>
+  
+  <VRE_VatGrownInsectoidSkin.label>pele de insectóide de laboratório</VRE_VatGrownInsectoidSkin.label>
+  <VRE_VatGrownInsectoidSkin.description>Os portadores deste gene produzem um pigmento semelhante ao dos insectóides cultivados em tanques de laboratório.</VRE_VatGrownInsectoidSkin.description>
+  <VRE_VatGrownInsectoidSkin.labelShortAdj>insectóide</VRE_VatGrownInsectoidSkin.labelShortAdj>
+
+
+</LanguageData>

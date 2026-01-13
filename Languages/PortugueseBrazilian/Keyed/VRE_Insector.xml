@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VRE_ManageGenelines>Gerenciar linhagens genéticas</VRE_ManageGenelines>
+  <VRE_ManageGenelinesDesc>Altere a linhagem genética atualmente selecionada ou crie novas linhagens genéticas.</VRE_ManageGenelinesDesc>
+  <VRE_EditGeneline>Editar</VRE_EditGeneline>
+  <VRE_GenelineName>Linhagem genética {0}</VRE_GenelineName>
+  <VRE_DeleteThisGeneline>Excluir esta linhagem genética. Removê-la fará com que todos os insectores com esta linhagem entrem imediatamente no estágio de metápode e se tornem insectores básicos.</VRE_DeleteThisGeneline>
+  <VRE_CreateGeneline>Criar uma nova linhagem genética</VRE_CreateGeneline>
+  <VRE_CreateGenelineExplanation>Você pode editar linhagens genéticas existentes ou criar uma totalmente nova. Lembre-se de que alterar uma linhagem genética exigirá que seus insectores entrem em um estágio de metápode que durará 24 horas.</VRE_CreateGenelineExplanation>
+  <VRE_GenelineNameCannotBeEmpty>O nome da linhagem genética não pode estar vazio.</VRE_GenelineNameCannotBeEmpty>
+  <VRE_MessageConflictingGenesPresent>Não é possível salvar a linhagem genética com múltiplos genes conflitantes.</VRE_MessageConflictingGenesPresent>
+  <VRE_Evolutions>Evoluções</VRE_Evolutions>
+  <VRE_EvolutionsDesc>Evoluções</VRE_EvolutionsDesc>
+  <VRE_Degrades>Degradações</VRE_Degrades>
+  <VRE_DegradesDesc>Genes que reduzem a complexidade ou impõem penalidades para equilibrar as evoluções.</VRE_DegradesDesc>
+  <VRE_SaveGeneline>Salvar linhagem genética</VRE_SaveGeneline>
+  <VRE_NeedEqualAmount>Precisa de uma quantidade igual de evoluções e degradações.</VRE_NeedEqualAmount>
+  <VRE_ChangingGenelineExplanation>Alterar os genes de uma linhagem genética fará com que todos os insectores que fazem parte dessa linhagem entrem no estágio de metápode. O estágio de metápode durará 24 horas, durante as quais os insectores estarão indisponíveis.</VRE_ChangingGenelineExplanation>
+  <VRE_CannotSave>Não é possível salvar: {0}</VRE_CannotSave>
+  <VRE_ChangeTo>Mudar para: {0}</VRE_ChangeTo>
+  <VRE_DeleteGenelineConfirmation>Você está prestes a remover uma linhagem genética que está sendo usada por alguns de seus colonos. Removê-la resultará nesses insectores entrando imediatamente no estágio de metápode e tornando-se insectores básicos.\n\nColonos insectores que serão afetados:\n\n{0}</VRE_DeleteGenelineConfirmation>
+  <VRE_Genelines>Linhagens Genéticas</VRE_Genelines>
+  <VRE_GenelinesDesc>Gerencie as linhagens e especializações genéticas da colmeia.</VRE_GenelinesDesc>
+  <VRE_MetapodTimer>Tempo até {PAWN_nameDef} emergir: {1}\nInsira geleia de inseto no metápode para acelerar o processo significativamente.</VRE_MetapodTimer>
+  <VRE_MetapodSicknessCannotChangeGeneline>Não é possível mudar as linhagens genéticas devido ao enjoo de metápode.</VRE_MetapodSicknessCannotChangeGeneline>
+  <VRE_ChestburstPregnancyReady>Gravidez de rompimento torácico</VRE_ChestburstPregnancyReady>
+  <VRE_ChestburstPregnancyReadyDesc>Quando um colono com o gene de gravidez de rompimento torácico engravida, ele precisa designar outro indivíduo (disposto ou não) para implantar o feto. Assim que o feto amadurecer, ele romperá a caixa torácica da vítima, matando o hospedeiro. Se isso não for feito antes do início do segundo trimestre (6 dias), a gravidez será interrompida.</VRE_ChestburstPregnancyReadyDesc>
+  <VRE_ChestburstImplantationNeeded>Implantação de rompimento torácico necessária</VRE_ChestburstImplantationNeeded>
+  <VRE_ChestburstImplantationNeededDesc>Quando um colono com o gene de gravidez de rompimento torácico engravida, ele precisa designar outro indivíduo (disposto ou não) para implantar o feto. Assim que o feto amadurecer, ele romperá a caixa torácica da vítima, matando o hospedeiro. Se isso não for feito antes do início do segundo trimestre (6 dias), a gravidez será interrompida. Estes colonos precisam implantar um feto:\n\n{0}</VRE_ChestburstImplantationNeededDesc>
+  <VRE_InjectChestburstFetus>Injetar feto de rompimento torácico</VRE_InjectChestburstFetus>
+  <VRE_InjectChestburstFetusDesc>Injeta o feto na vítima, que romperá o peito dela quando amadurecer, matando o hospedeiro.</VRE_InjectChestburstFetusDesc>
+  <VRE_NeedsHumanoidOrAnimal>Precisa ser injetado em um alvo humanoide ou animal adulto com tamanho corporal maior que 1.</VRE_NeedsHumanoidOrAnimal>
+  <VRE_CantImplantOnGhoul>Não pode ser injetado em ghouls.</VRE_CantImplantOnGhoul>
+  <VRE_CantImplantOnShambler>Não pode ser injetado em carniçais.</VRE_CantImplantOnShambler>
+  <VRE_ChestburstBirthLabel>Nascimento por rompimento torácico</VRE_ChestburstBirthLabel>
+  <VRE_ChestburstBirth>Um recém-nascido, {0}, eclodiu de um hospedeiro, matando-o no processo.</VRE_ChestburstBirth>
+  <VRE_ChestburstBirthHiddenLabel>Nascimento por rompimento torácico!</VRE_ChestburstBirthHiddenLabel>
+  <VRE_ChestburstBirthHidden>{0} estava carregando uma gravidez de rompimento torácico sem saber! Um Insector recém-nascido, {1}, eclodiu do hospedeiro, matando-o no processo!</VRE_ChestburstBirthHidden>
+  <VRE_SelfImpregnate>Autoimpregnação</VRE_SelfImpregnate>
+  <VRE_SelfImpregnateDesc>Indivíduo fêmea se autoimpregna, criando um feto que é uma cópia perfeita do progenitor.</VRE_SelfImpregnateDesc>
+  <VRE_PawnIsMale>Disponível apenas para fêmeas.</VRE_PawnIsMale>
+  <VRE_OnlyOnSelf>A partenogênese só pode ser direcionada a si mesmo.</VRE_OnlyOnSelf>
+  <VRE_AlreadyPregnant>O indivíduo já está grávido.</VRE_AlreadyPregnant>
+  <VRE_GotPregnant>{0} se autoimpregnou!</VRE_GotPregnant>
+  <VRE_PawnIsTooYoung>{0} é jovem demais!</VRE_PawnIsTooYoung>
+  <VRE_TempSterile>{0} ainda está sofrendo de fadiga de implantação.</VRE_TempSterile>
+  <VRE_SwarmSynapseOffset>Gene de sinapse de enxame</VRE_SwarmSynapseOffset>
+  <VRE_IngestPherocore>Consumir {0} para desbloquear uma nova mutação / evolução.</VRE_IngestPherocore>
+  <VRE_PherocoreConsumed>Consumir {0} desbloqueou o {1} {2} para todos os portadores do gene de evolução de linhagem genética.</VRE_PherocoreConsumed>
+  <VRE_NoUnlockableGenes>Não há mais genes que possam ser desbloqueados com o {0}.</VRE_NoUnlockableGenes>
+
+</LanguageData>
