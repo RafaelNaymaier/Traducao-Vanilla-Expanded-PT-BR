@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VRE_ProgressiveAttunementOffset>Gene de sintonia progressiva</VRE_ProgressiveAttunementOffset>
+  
+  <VRE_SaplingBirthReady>Muda de criança</VRE_SaplingBirthReady>
+  
+  <VRE_SaplingBirthReadyDesc>Quando uma colona com o gene de nascimento por muda engravida, ela precisa designar um local para plantar sua prole. Se isso não for feito antes do início do segundo trimestre (6 dias), a gravidez será interrompida.</VRE_SaplingBirthReadyDesc>
+  
+  <VRE_PlantSaplingchild>Plantar muda de criança</VRE_PlantSaplingchild>
+  
+  <VRE_PlantSaplingchildDesc>Planta uma muda de criança. Se isso não for feito antes do início do segundo trimestre (6 dias de gravidez), será considerado um aborto espontâneo. A muda de criança precisará ser protegida.</VRE_PlantSaplingchildDesc>
+  
+  <VRE_SaplingNeedsSoil>A muda de criança precisa ser plantada em solo</VRE_SaplingNeedsSoil>
+  
+  <VRE_SaplingchildNeedsToBePlanted>A muda de criança precisa ser plantada</VRE_SaplingchildNeedsToBePlanted>
+  
+  <VRE_SaplingchildNeedsToBePlantedDesc>Quando uma colona com o gene de nascimento por muda engravida, ela precisa designar um local para plantar sua prole. Se isso não for feito antes do início do segundo trimestre (6 dias), a gravidez será interrompida. Estas colonas precisam plantar suas mudas de criança:\n\n{0}</VRE_SaplingchildNeedsToBePlantedDesc>
+  
+  <VRE_MotherXenotype>Xenotipo da mãe: {0}</VRE_MotherXenotype>
+  
+  <VRE_DestroyedByTemp> foi destruída pela temperatura</VRE_DestroyedByTemp>
+  
+  <VRE_SaplingHatched>{0} eclodiu de uma muda!</VRE_SaplingHatched>
+  
+  <VRE_SaplingHatchedLabel>{0} eclodiu!</VRE_SaplingHatchedLabel>
+  
+  <VRE_TimeToHatch>Tempo até o nascimento: {0}</VRE_TimeToHatch>
+  
+  <VRE_UnlockedByGeneAnima>Desbloqueado via gene de Afinidade Anima</VRE_UnlockedByGeneAnima>
+  
+  <VRE_UnlockedByGeneGau>Desbloqueado via gene de Afinidade Gauranlen</VRE_UnlockedByGeneGau>
+  
+  <VRE_CanOnlyBeUsedOnAnimaTree>Esta habilidade precisa ser usada em uma árvore anima</VRE_CanOnlyBeUsedOnAnimaTree>
+  
+  <VRE_CanOnlyBePlantedOnFertile>Esta habilidade precisa ser usada em terreno com fertilidade de pelo menos 0,05</VRE_CanOnlyBePlantedOnFertile>
+  
+  <VRE_TwoPreviousDryadsMustBeDead>Um máximo de duas dríades por colono com afinidade Gauranlen podem estar vivas ao mesmo tempo</VRE_TwoPreviousDryadsMustBeDead>
+  
+  <VRE_RitualPredictedOutcomeDescAffinityGeneCount>Gene de Afinidade Anima</VRE_RitualPredictedOutcomeDescAffinityGeneCount>
+  
+  <VRE_RitualPredictedOutcomeDescAffinityGeneCountGau>Gene de Afinidade Gauranlen</VRE_RitualPredictedOutcomeDescAffinityGeneCountGau>
+
+</LanguageData>

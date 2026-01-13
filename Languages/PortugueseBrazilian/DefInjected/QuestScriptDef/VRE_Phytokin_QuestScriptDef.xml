@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VRE_Intro_Phytokin.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull], uma poderosa Phytokin, está chamando por perto. Ela foi expulsa de [enemyFaction_name] por lhes dar conselhos errados e agora está sendo caçada por um grupo de busca. O grupo de busca de [enemyFaction_pawnsPlural] é composto por: \n\n[raid/raidPawnKinds]\n\n[asker_nameFull] quer que você a mantenha segura em [map_definite]. Se você aceitar, ela chegará imediatamente, mas será seguida pelo grupo de busca que você precisará derrotar.\n\nOs Phytokins são humanoides de base vegetal com ênfase em simetria e simbiose. Sua habilidade de subsistir apenas de luz solar e a afinidade com toda e qualquer forma de vida vegetal os tornam especialmente adequados para ajudar colônias recém-estabelecidas ou fazendas industriais de baixo desempenho.</li>
+  </VRE_Intro_Phytokin.questDescriptionRules.rulesStrings>
+  
+  <VRE_Intro_Phytokin.questNameRules.rulesStrings>
+    <li>questName->[adjAny] Phytokin</li>
+    <li>adjAny->A caçada</li>
+    <li>adjAny->A fugitiva</li>
+    <li>adjAny->A solitária</li>
+    <li>adjAny->A emboscada</li>
+  </VRE_Intro_Phytokin.questNameRules.rulesStrings>
+  
+  <VRE_Intro_Phytokin.root.nodes.PawnsArrive.customLetterText.slateRef>{BASETEXT}\n\nPorque você aceitou [asker_nameDef], o bando de piratas que a persegue chegará em breve.</VRE_Intro_Phytokin.root.nodes.PawnsArrive.customLetterText.slateRef>
+  
+  <VRE_Intro_Phytokin.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>{BASELABEL}: Piratas perseguidores</VRE_Intro_Phytokin.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>
+  
+  <VRE_Intro_Phytokin.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>{BASETEXT}\n\nEstes são os piratas que estavam caçando [../asker_nameFull].\n               </VRE_Intro_Phytokin.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>
+  
+</LanguageData>

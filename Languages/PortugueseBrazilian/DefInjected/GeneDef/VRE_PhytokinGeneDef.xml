@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VRE_GauranlenAffinity.label>afinidade gauranlena</VRE_GauranlenAffinity.label>
+  <VRE_GauranlenAffinity.description>Portadores deste gene possuem uma conexão especial com a árvore gauranlena, permitindo que atuem como um amplificador para as propriedades especiais da árvore. Eles podem podar a árvore rapidamente e aumentar a chance de sucesso de quaisquer rituais relacionados a ela. Mais importante ainda, os portadores deste gene atuam como uma extensão do ecossistema gauranleno, podendo gerar e comandar duas dríades onde quer que vão.</VRE_GauranlenAffinity.description>
+  <VRE_GauranlenAffinity.customEffectDescriptions.0>Garante o foco de Meditação Natural ao peão.</VRE_GauranlenAffinity.customEffectDescriptions.0>
+  <VRE_GauranlenAffinity.customEffectDescriptions.1>Colonos com este gene incluídos no ritual de conexão com a árvore gauranlena aumentam seu sucesso em 10% cada, acumulando até 5 vezes.</VRE_GauranlenAffinity.customEffectDescriptions.1>
+  <VRE_GauranlenAffinity.symbolPack.prefixSymbols.0.symbol>gau</VRE_GauranlenAffinity.symbolPack.prefixSymbols.0.symbol>
+  <VRE_GauranlenAffinity.symbolPack.prefixSymbols.1.symbol>gauran</VRE_GauranlenAffinity.symbolPack.prefixSymbols.1.symbol>
+
+  <VRE_AnimaAffinity.label>afinidade anima</VRE_AnimaAffinity.label>
+  <VRE_AnimaAffinity.description>Portadores deste gene possuem uma conexão especial com a árvore anima, permitindo que atuem como um amplificador para as propriedades especiais da árvore. Eles podem encorajar as árvores anima a cantar, proporcionando um calmante psíquico a todos em um grande raio, além de ajudar na conexão e meditação com ela.</VRE_AnimaAffinity.description>
+  <VRE_AnimaAffinity.customEffectDescriptions.0>Garante o foco de Meditação Natural ao peão.</VRE_AnimaAffinity.customEffectDescriptions.0>
+  <VRE_AnimaAffinity.customEffectDescriptions.1>Colonos com este gene incluídos no ritual de ligação com a árvore anima aumentam seu sucesso em 10% cada, acumulando até 5 vezes.</VRE_AnimaAffinity.customEffectDescriptions.1>
+  <VRE_AnimaAffinity.symbolPack.prefixSymbols.0.symbol>anima</VRE_AnimaAffinity.symbolPack.prefixSymbols.0.symbol>
+  <VRE_AnimaAffinity.symbolPack.prefixSymbols.1.symbol>anim</VRE_AnimaAffinity.symbolPack.prefixSymbols.1.symbol>
+
+  <VRE_Photosynthesis.label>fotossíntese</VRE_Photosynthesis.label>
+  <VRE_Photosynthesis.description>Portadores deste gene são capazes de converter energia luminosa em energia química devido à composição genética especial de sua pele. Eles não sentem fome se estiverem expostos à luz solar.</VRE_Photosynthesis.description>
+  <VRE_Photosynthesis.symbolPack.prefixSymbols.0.symbol>foto</VRE_Photosynthesis.symbolPack.prefixSymbols.0.symbol>
+  <VRE_Photosynthesis.symbolPack.suffixSymbols.0.symbol>síntese</VRE_Photosynthesis.symbolPack.suffixSymbols.0.symbol>
+  <VRE_Photosynthesis.symbolPack.suffixSymbols.1.symbol>planta</VRE_Photosynthesis.symbolPack.suffixSymbols.1.symbol>
+  
+  <VRE_PoluxAffinity.label>afinidade polux</VRE_PoluxAffinity.label>
+  <VRE_PoluxAffinity.description>Portadores deste gene possuem uma conexão especial com a árvore polux, permitindo que atuem como um amplificador para as propriedades especiais da árvore. Uma vez por ano, eles podem plantar um arbusto polux que crescerá progressivamente, e sua própria presença fortalecerá o efeito de bombeamento de poluição do arbusto. Eles também podem consumir pacotes de resíduos tóxicos e ficarão infelizes se não houver lixo para ser consumido. Consumir pacotes de resíduos tóxicos não satisfaz a fome deles.</VRE_PoluxAffinity.description>
+  <VRE_PoluxAffinity.customEffectDescriptions.0>Todos os arbustos polux no mapa têm seu raio aumentado em +2 para cada colono com o gene de afinidade Polux presente no mapa.</VRE_PoluxAffinity.customEffectDescriptions.0>
+  <VRE_PoluxAffinity.resourceDescription>Uma necessidade de {PAWN_nameDef} de consumir pacotes de resíduos tóxicos</VRE_PoluxAffinity.resourceDescription>
+  <VRE_PoluxAffinity.resourceLabel>pacotes de resíduos tóxicos</VRE_PoluxAffinity.resourceLabel>
+  <VRE_PoluxAffinity.symbolPack.prefixSymbols.0.symbol>polu</VRE_PoluxAffinity.symbolPack.prefixSymbols.0.symbol>
+  <VRE_PoluxAffinity.symbolPack.prefixSymbols.1.symbol>polux</VRE_PoluxAffinity.symbolPack.prefixSymbols.1.symbol>
+  
+  <VRE_SaplingBirth.label>nascimento por muda</VRE_SaplingBirth.label>
+  <VRE_SaplingBirth.description>Portadores deste gene desenvolvem seu bebê fora do útero, na forma de uma planta-criança. Quando a planta está totalmente crescida, a criança pode ser extraída dela.</VRE_SaplingBirth.description>
+  <VRE_SaplingBirth.customEffectDescriptions.0>Planta uma muda de criança em vez de passar pela gravidez e parto normal.</VRE_SaplingBirth.customEffectDescriptions.0>
+  <VRE_SaplingBirth.customEffectDescriptions.1>Plantar uma muda de criança torna o colono temporariamente infértil.</VRE_SaplingBirth.customEffectDescriptions.1>
+  <VRE_SaplingBirth.symbolPack.prefixSymbols.0.symbol>muda</VRE_SaplingBirth.symbolPack.prefixSymbols.0.symbol>
+  <VRE_SaplingBirth.symbolPack.prefixSymbols.1.symbol>prole</VRE_SaplingBirth.symbolPack.prefixSymbols.1.symbol>
+  <VRE_SaplingBirth.symbolPack.prefixSymbols.2.symbol>semente</VRE_SaplingBirth.symbolPack.prefixSymbols.2.symbol>
+
+  <VRE_SapBlood.label>sangue de seiva</VRE_SapBlood.label>
+  <VRE_SapBlood.description>Portadores deste gene possuem um sangue alaranjado, espesso e pegajoso que retarda drasticamente o tempo de sangramento, porém também impacta sua capacidade de realizar trabalhos.</VRE_SapBlood.description>
+
+  <VRE_BarkSkin.label>pele de casca</VRE_BarkSkin.label>
+  <VRE_BarkSkin.description>Portadores deste gene possuem a pele semelhante à casca de uma árvore. Isso permite que resistam a traumas contundentes que normalmente deixariam as pessoas inconscientes.</VRE_BarkSkin.description>
+  <VRE_BarkSkin.labelShortAdj>pele de casca</VRE_BarkSkin.labelShortAdj>
+
+  <VRE_FoliageHair.label>cabelo de folhagem</VRE_FoliageHair.label>
+  <VRE_FoliageHair.description>Portadores deste gene possuem cabelos folhosos com aparência natural.</VRE_FoliageHair.description>
+  <VRE_FoliageHair.symbolPack.prefixSymbols.0.symbol>folha</VRE_FoliageHair.symbolPack.prefixSymbols.0.symbol>
+  <VRE_FoliageHair.symbolPack.suffixSymbols.0.symbol>flor</VRE_FoliageHair.symbolPack.suffixSymbols.0.symbol>
+  <VRE_FoliageHair.symbolPack.suffixSymbols.1.symbol>planta</VRE_FoliageHair.symbolPack.suffixSymbols.1.symbol>
+  
+  <VRE_HairColor_Anima.label>cabelo anima</VRE_HairColor_Anima.label>
+  <VRE_HairColor_Anima.description>Portadores deste gene possuem uma cor de cabelo específica. Com múltiplos genes de cor de cabelo, um é selecionado aleatoriamente.</VRE_HairColor_Anima.description>
+  
+  <VRE_HairColor_Gauranlen.label>cabelo gauranleno</VRE_HairColor_Gauranlen.label>
+  <VRE_HairColor_Gauranlen.description>Portadores deste gene possuem uma cor de cabelo específica. Com múltiplos genes de cor de cabelo, um é selecionado aleatoriamente.</VRE_HairColor_Gauranlen.description>
+  
+  <VRE_HairColor_Pollux.label>cabelo polux</VRE_HairColor_Pollux.label>
+  <VRE_HairColor_Pollux.description>Portadores deste gene possuem uma cor de cabelo específica. Com múltiplos genes de cor de cabelo, um é selecionado aleatoriamente.</VRE_HairColor_Pollux.description>
+
+  <VRE_Female.label>apenas fêmeas</VRE_Female.label>
+  <VRE_Female.description>Portadores deste gene têm a garantia de nascerem do sexo feminino.</VRE_Female.description>
+  <VRE_Female.labelShortAdj>feminino</VRE_Female.labelShortAdj>
+
+  <VRE_GreenThumb.label>dedo verde</VRE_GreenThumb.label>
+  <VRE_GreenThumb.description>Portadores deste gene ficam muito felizes ao participar do plantio de plantas.</VRE_GreenThumb.description>
+  <VRE_GreenThumb.customEffectDescriptions.0>Bônus de +1 no humor ao semear uma planta. Acumula até 20 vezes.</VRE_GreenThumb.customEffectDescriptions.0>
+  <VRE_GreenThumb.labelShortAdj>jardinagem</VRE_GreenThumb.labelShortAdj>
+  <VRE_GreenThumb.symbolPack.prefixSymbols.0.symbol>verde</VRE_GreenThumb.symbolPack.prefixSymbols.0.symbol>
+
+  <VRE_ProgressiveAttunement.label>conexão progressiva</VRE_ProgressiveAttunement.label>
+  <VRE_ProgressiveAttunement.description>Portadores deste gene tornam-se mais conectados psiquicamente à medida que envelhecem, aumentando grandemente sua sensibilidade psíquica.</VRE_ProgressiveAttunement.description>
+  <VRE_ProgressiveAttunement.labelShortAdj>psíquico</VRE_ProgressiveAttunement.labelShortAdj>
+  <VRE_ProgressiveAttunement.symbolPack.prefixSymbols.0.symbol>psíquico</VRE_ProgressiveAttunement.symbolPack.prefixSymbols.0.symbol>
+  <VRE_ProgressiveAttunement.symbolPack.prefixSymbols.1.symbol>psi</VRE_ProgressiveAttunement.symbolPack.prefixSymbols.1.symbol>
+  
+</LanguageData>
