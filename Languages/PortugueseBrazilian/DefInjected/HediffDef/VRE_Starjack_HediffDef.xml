@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VREStarjack_CryostasisHediff.label>criostase</VREStarjack_CryostasisHediff.label>
+  
+  <VREStarjack_CryostasisHediff.description>Esta pessoa não sofre hipotermia fatal. Em vez disso, seu corpo desacelera gradualmente até entrar em um estado de dormência quando exposto ao frio extremo, podendo despertar com segurança assim que for reaquecida.</VREStarjack_CryostasisHediff.description>
+  
+  <VREStarjack_CryostasisHediff.stages.shivering.label>estremecendo</VREStarjack_CryostasisHediff.stages.shivering.label>
+  
+  <VREStarjack_CryostasisHediff.stages.initial.label>inicial</VREStarjack_CryostasisHediff.stages.initial.label>
+  
+  <VREStarjack_CryostasisHediff.stages.drowsy.label>sonolento</VREStarjack_CryostasisHediff.stages.drowsy.label>
+  
+  <VREStarjack_CryostasisHediff.stages.sleep.label>dormindo</VREStarjack_CryostasisHediff.stages.sleep.label>
+  
+  <VREStarjack_CryostasisHediff.stages.deep_sleep.label>sono profundo</VREStarjack_CryostasisHediff.stages.deep_sleep.label>
+
+  <VREStarjack_Hyperoxia.label>hiperóxia</VREStarjack_Hyperoxia.label>
+  <VREStarjack_Hyperoxia.description>Esta criatura está sofrendo de toxicidade por oxigênio causada pela exposição a uma atmosfera respirável. Seus pulmões não toleram esta quantidade de oxigênio. Ela morrerá em breve, a menos que seja levada para um ambiente de vácuo ou com baixo teor de oxigênio.</VREStarjack_Hyperoxia.description>
+  <VREStarjack_Hyperoxia.stages.initial-0.label>inicial</VREStarjack_Hyperoxia.stages.initial-0.label>
+  <VREStarjack_Hyperoxia.stages.initial-1.label>inicial</VREStarjack_Hyperoxia.stages.initial-1.label>
+  <VREStarjack_Hyperoxia.stages.mild.label>leve</VREStarjack_Hyperoxia.stages.mild.label>
+  <VREStarjack_Hyperoxia.stages.moderate.label>moderada</VREStarjack_Hyperoxia.stages.moderate.label>
+  <VREStarjack_Hyperoxia.stages.extreme.label>extrema</VREStarjack_Hyperoxia.stages.extreme.label>
+  
+  <VREStarjack_OxygenSensitivity_Extreme.label>intolerância total ao oxigênio</VREStarjack_OxygenSensitivity_Extreme.label>
+  <VREStarjack_OxygenSensitivity_Extreme.description>Esta pessoa não consegue sobreviver em ambientes ricos em oxigênio. A exposição a atmosferas respiráveis causa falência pulmonar rápida e eventual morte. Apenas o vácuo do espaço ou ambientes de gravinaves com baixo teor de oxigênio podem sustentá-la.</VREStarjack_OxygenSensitivity_Extreme.description>
+  
+  <VREStarjack_OxygenSensitivity_Intense.label>sensibilidade severa ao oxigênio</VREStarjack_OxygenSensitivity_Intense.label>
+  <VREStarjack_OxygenSensitivity_Intense.description>Esta pessoa sofre desconforto severo e redução das funções corporais em ambientes oxigenados. A exposição ao ar respirável causa dor, fraqueza e respiração ofegante, dificultando a sobrevivência planetária.</VREStarjack_OxygenSensitivity_Intense.description>
+  
+  <VREStarjack_OxygenSensitivity_Mild.label>sensibilidade leve ao oxigênio</VREStarjack_OxygenSensitivity_Mild.label>
+  <VREStarjack_OxygenSensitivity_Mild.description>Esta pessoa é levemente avessa a ambientes ricos em oxigênio. Em atmosferas respiráveis, ela experimenta um leve estresse respiratório e neurológico, acompanhado por um desconforto sutil a cada respiração.</VREStarjack_OxygenSensitivity_Mild.description>
+
+  
+</LanguageData>

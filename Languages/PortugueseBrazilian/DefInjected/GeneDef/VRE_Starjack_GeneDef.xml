@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VREStarjack_SpacejumpLegs.label>cauda propulsora espacial</VREStarjack_SpacejumpLegs.label>
+  
+  <VREStarjack_SpacejumpLegs.description>Os portadores deste gene possuem uma cauda muscular especializada que atua como um órgão de propulsão, permitindo que se lancem por grandes distâncias no vácuo do espaço. Esta habilidade não funciona dentro de atmosferas.</VREStarjack_SpacejumpLegs.description>
+  
+  <VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.0.symbol>salto</VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.0.symbol>
+  <VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.1.symbol>pulo</VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.1.symbol>
+  <VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.2.symbol>impulso</VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.2.symbol>
+  <VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.3.symbol>longo</VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.3.symbol>
+  <VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.4.symbol>voo</VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.4.symbol>
+  <VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.5.symbol>salto</VREStarjack_SpacejumpLegs.symbolPack.prefixSymbols.5.symbol>
+  
+  <VREStarjack_SpacejumpLegs.symbolPack.wholeNameSymbols.0.symbol>saltador</VREStarjack_SpacejumpLegs.symbolPack.wholeNameSymbols.0.symbol>
+  <VREStarjack_SpacejumpLegs.symbolPack.wholeNameSymbols.1.symbol>pulador</VREStarjack_SpacejumpLegs.symbolPack.wholeNameSymbols.1.symbol>
+  <VREStarjack_SpacejumpLegs.symbolPack.wholeNameSymbols.2.symbol>quicador</VREStarjack_SpacejumpLegs.symbolPack.wholeNameSymbols.2.symbol>
+
+  <VREStarjack_Cryostasis.label>criostase biológica</VREStarjack_Cryostasis.label>
+  <VREStarjack_Cryostasis.description>Os portadores deste gene não sofrem de hipotermia fatal. Em vez disso, seus corpos desaceleram gradualmente e entram em um estado de dormência quando expostos ao frio extremo, podendo despertar com segurança assim que reaquecidos.</VREStarjack_Cryostasis.description>
+  
+  <VREStarjack_OxygenSensitivity_Extreme.label>intolerância total ao oxigênio</VREStarjack_OxygenSensitivity_Extreme.label>
+  <VREStarjack_OxygenSensitivity_Extreme.description>Os portadores deste gene não conseguem sobreviver em ambientes ricos em oxigênio. A exposição a atmosferas respiráveis causa falência pulmonar rápida e morte eventual. Apenas o vácuo do espaço ou ambientes de gravinaves com baixo teor de oxigênio podem sustentá-los.</VREStarjack_OxygenSensitivity_Extreme.description>
+  <VREStarjack_OxygenSensitivity_Extreme.customEffectDescriptions.0>O uso de qualquer vestimenta ou combinação de roupas que forneça pelo menos <color=#E5E54C>80%</color> de resistência ao vácuo mitigará os efeitos negativos deste gene.</VREStarjack_OxygenSensitivity_Extreme.customEffectDescriptions.0>
+  
+  <VREStarjack_OxygenSensitivity_Intense.label>sensibilidade severa ao oxigênio</VREStarjack_OxygenSensitivity_Intense.label>
+  <VREStarjack_OxygenSensitivity_Intense.description>Os portadores deste gene sofrem desconforto severo e redução das funções corporais em ambientes oxigenados. A exposição ao ar respirável causa dor, fraqueza e respiração ofegante, dificultando a sobrevivência planetária.</VREStarjack_OxygenSensitivity_Intense.description>
+  <VREStarjack_OxygenSensitivity_Intense.customEffectDescriptions.0>O uso de qualquer vestimenta ou combinação de roupas que forneça pelo menos <color=#E5E54C>80%</color> de resistência ao vácuo mitigará os efeitos negativos deste gene.</VREStarjack_OxygenSensitivity_Intense.customEffectDescriptions.0>
+  
+  <VREStarjack_OxygenSensitivity_Mild.label>sensibilidade leve ao oxigênio</VREStarjack_OxygenSensitivity_Mild.label>
+  <VREStarjack_OxygenSensitivity_Mild.description>Os portadores deste gene são levemente avessos a ambientes ricos em oxigênio. Em atmosferas respiráveis, eles experimentam um leve estresse respiratório e neurológico, acompanhado por um desconforto sutil a cada respiração.</VREStarjack_OxygenSensitivity_Mild.description>
+  <VREStarjack_OxygenSensitivity_Mild.customEffectDescriptions.0>O uso de qualquer vestimenta ou combinação de roupas que forneça pelo menos <color=#E5E54C>80%</color> de resistência ao vácuo mitigará os efeitos negativos deste gene.</VREStarjack_OxygenSensitivity_Mild.customEffectDescriptions.0>
+  
+  <VREStarjack_VacuumEfficiency.label>eficiência no vácuo</VREStarjack_VacuumEfficiency.label>
+  <VREStarjack_VacuumEfficiency.description>Os portadores deste gene prosperam no espaço. Seus corpos são altamente adaptados a condições de atmosfera zero, permitindo um trabalho mais rápido e eficiente fora de ambientes planetários. No entanto, eles funcionam mal em superfícies terrestres.</VREStarjack_VacuumEfficiency.description>
+  <VREStarjack_VacuumEfficiency.labelShortAdj>eficiente no vácuo</VREStarjack_VacuumEfficiency.labelShortAdj>
+  
+  <VREStarjack_VacuumResistance_Total.label>imunidade ao vácuo</VREStarjack_VacuumResistance_Total.label>
+  <VREStarjack_VacuumResistance_Total.description>Os portadores deste gene possuem sistemas circulatórios e respiratórios mais resistentes, reduzindo a taxa na qual a hipóxia se acumula no vácuo do espaço.</VREStarjack_VacuumResistance_Total.description>
+  <VREStarjack_VacuumResistance_Total.labelShortAdj>imune ao vácuo</VREStarjack_VacuumResistance_Total.labelShortAdj>
+
+  <VREStarjack_GravshipAffinity.label>afinidade com gravinaves</VREStarjack_GravshipAffinity.label>
+  
+  <VREStarjack_GravshipAffinity.description>Os portadores deste gene são naturalmente adequados para a vida a bordo de gravinaves. Sua composição genética melhora sua coordenação, percepção e aptidão técnica em ambientes de gravidade zero, tornando-os pilotos e tripulantes excepcionais.</VREStarjack_GravshipAffinity.description>
+
+  <VREStarjack_Gene_Randomizer.label>randomizador</VREStarjack_Gene_Randomizer.label>
+  
+  <VREStarjack_Gene_Randomizer.description>Assim que um colono recebe este gene, ele se transformará em 2 astrogenes aleatórios.</VREStarjack_Gene_Randomizer.description>
+  
+</LanguageData>

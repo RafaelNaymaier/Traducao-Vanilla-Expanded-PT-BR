@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_SpacejumpLegs"]/label</xpath>
+    <value><label>cauda propulsora espacial</label></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_SpacejumpLegs"]/description</xpath>
+    <value><description>Os portadores deste gene possuem uma cauda muscular especializada que atua como um órgão de propulsão, permitindo que se lancem por grandes distâncias no vácuo do espaço. Esta habilidade não funciona dentro de atmosferas.</description></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_Cryostasis"]/label</xpath>
+    <value><label>criostase biológica</label></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_Cryostasis"]/description</xpath>
+    <value><description>Os portadores deste gene são imunes à hipotermia fatal. Em vez de morrerem, seus corpos entram em um estado de dormência profunda quando expostos ao frio extremo, permitindo que despertem sem sequelas assim que forem reaquecidos.</description></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_GravshipAffinity"]/label</xpath>
+    <value><label>afinidade com gravinaves</label></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_GravshipAffinity"]/description</xpath>
+    <value><description>Os portadores deste gene são naturalmente adaptados à vida a bordo de gravinaves. Sua composição genética aprimora a coordenação, a percepção e a aptidão técnica em ambientes de gravidade zero, tornando-os pilotos e tripulantes excepcionais.</description></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_VacuumEfficiency"]/label</xpath>
+    <value><label>adaptação ao vácuo</label></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_VacuumEfficiency"]/description</xpath>
+    <value><description>Totalmente adaptados à ausência de atmosfera, estes indivíduos trabalham com velocidade e precisão superiores no espaço, mas tornam-se lentos e ineficientes em superfícies planetárias.</description></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_VacuumResistance_Total"]/label</xpath>
+    <value><label>imunidade ao vácuo</label></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_VacuumResistance_Total"]/description</xpath>
+    <value><description>Sistemas circulatórios e respiratórios reforçados impedem que a hipóxia se acumule rapidamente, permitindo a sobrevivência prolongada no vácuo espacial.</description></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_OxygenSensitivity_Extreme"]/label</xpath>
+    <value><label>intolerância total ao oxigênio</label></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_OxygenSensitivity_Extreme"]/description</xpath>
+    <value><description>Estes indivíduos não sobrevivem em ambientes ricos em oxigênio. A exposição a atmosferas respiráveis causa falência pulmonar imediata e morte eventual.</description></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_OxygenSensitivity_Intense"]/label</xpath>
+    <value><label>sensibilidade severa ao oxigênio</label></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_OxygenSensitivity_Intense"]/description</xpath>
+    <value><description>Ambientes oxigenados causam dor intensa e debilitação física. O ar respirável provoca falta de ar e fraqueza extrema, dificultando a sobrevivência planetária.</description></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_OxygenSensitivity_Mild"]/label</xpath>
+    <value><label>sensibilidade leve ao oxigênio</label></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_OxygenSensitivity_Mild"]/description</xpath>
+    <value><description>Estes portadores sentem um leve desconforto em atmosferas ricas em oxigênio, manifestado como fadiga respiratória e cansaço mental persistente.</description></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_Gene_Randomizer"]/label</xpath>
+    <value><label>aleatorizador gênico</label></value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_Gene_Randomizer"]/description</xpath>
+    <value><description>Assim que um indivíduo recebe este gene, ele se transforma em 2 astrogenes aleatórios.</description></value>
+  </Operation>
+
+  <!-- Tentativa de injetar em symbol (pode ser causa de problema no futuro) -->
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_SpacejumpLegs"]/symbolPack/prefixSymbols/li[1]/symbol</xpath>
+    <value><symbol>salto</symbol></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_SpacejumpLegs"]/symbolPack/prefixSymbols/li[2]/symbol</xpath>
+    <value><symbol>pulo</symbol></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_SpacejumpLegs"]/symbolPack/prefixSymbols/li[3]/symbol</xpath>
+    <value><symbol>impulso</symbol></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_SpacejumpLegs"]/symbolPack/prefixSymbols/li[4]/symbol</xpath>
+    <value><symbol>longo</symbol></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_SpacejumpLegs"]/symbolPack/prefixSymbols/li[5]/symbol</xpath>
+    <value><symbol>voo</symbol></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_SpacejumpLegs"]/symbolPack/prefixSymbols/li[6]/symbol</xpath>
+    <value><symbol>pulinho</symbol></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_SpacejumpLegs"]/symbolPack/wholeNameSymbols/li[1]/symbol</xpath>
+    <value><symbol>saltador</symbol></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_SpacejumpLegs"]/symbolPack/wholeNameSymbols/li[2]/symbol</xpath>
+    <value><symbol>pulador</symbol></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="VREStarjack_SpacejumpLegs"]/symbolPack/wholeNameSymbols/li[3]/symbol</xpath>
+    <value><symbol>quicador</symbol></value>
+  </Operation>
+
+</Patch>

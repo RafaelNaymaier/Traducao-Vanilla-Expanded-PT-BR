@@ -27,30 +27,30 @@
 <VEF_RangeAttackDamageFactor.description>Um multiplicador no dano de ataque à distância.</VEF_RangeAttackDamageFactor.description>
 
 <VEF_FoodCapacityMultiplier.label>multiplicador de capacidade de comida corporal</VEF_FoodCapacityMultiplier.label>
-<VEF_FoodCapacityMultiplier.description>Aumenta o tamanho da barra de fome do peão. Isso não afeta a taxa de fome.</VEF_FoodCapacityMultiplier.description>
+<VEF_FoodCapacityMultiplier.description>Aumenta o tamanho da barra de fome do colono. Isso não afeta a taxa de fome.</VEF_FoodCapacityMultiplier.description>
 
 <VEF_GrowthPointMultiplier.label>multiplicador de ponto de crescimento</VEF_GrowthPointMultiplier.label>
 <VEF_GrowthPointMultiplier.description>Aumenta a quantidade de pontos de crescimento acumulados por crianças ao aprender.</VEF_GrowthPointMultiplier.description>
 
 <VEF_BodySize_Offset.label>deslocamento de tamanho corporal</VEF_BodySize_Offset.label>
-<VEF_BodySize_Offset.description>Aumenta o tamanho do peão em relação ao seu tamanho atual.</VEF_BodySize_Offset.description>
+<VEF_BodySize_Offset.description>Aumenta o tamanho do colono em relação ao seu tamanho atual.</VEF_BodySize_Offset.description>
 
 <VEF_BodySize_Multiplier.label>multiplicador de tamanho corporal</VEF_BodySize_Multiplier.label>
-<VEF_BodySize_Multiplier.description>Aumenta o tamanho do peão por um múltiplo do seu tamanho atual.</VEF_BodySize_Multiplier.description>
+<VEF_BodySize_Multiplier.description>Aumenta o tamanho do colono por um múltiplo do seu tamanho atual.</VEF_BodySize_Multiplier.description>
 
 <VEF_CosmeticBodySize_Offset.label>deslocamento de tamanho corporal cosmético</VEF_CosmeticBodySize_Offset.label>
-<VEF_CosmeticBodySize_Offset.description>Aumenta o tamanho do peão em relação ao seu tamanho atual.</VEF_CosmeticBodySize_Offset.description>
+<VEF_CosmeticBodySize_Offset.description>Aumenta o tamanho do colono em relação ao seu tamanho atual.</VEF_CosmeticBodySize_Offset.description>
 
 <VEF_CosmeticBodySize_Multiplier.label>multiplicador de tamanho corporal cosmético</VEF_CosmeticBodySize_Multiplier.label>
-<VEF_CosmeticBodySize_Multiplier.description>Aumenta o tamanho do peão por um múltiplo do seu tamanho atual.</VEF_CosmeticBodySize_Multiplier.description>
+<VEF_CosmeticBodySize_Multiplier.description>Aumenta o tamanho do colono por um múltiplo do seu tamanho atual.</VEF_CosmeticBodySize_Multiplier.description>
 
 <VEF_HeadSize_Cosmetic.label>multiplicador de tamanho da cabeça</VEF_HeadSize_Cosmetic.label>
 
-<VEF_PawnRenderPosOffset.label>deslocamento de renderização do peão</VEF_PawnRenderPosOffset.label>
-<VEF_PawnRenderPosOffset.description>Modifica a posição de renderização do peão no eixo y.</VEF_PawnRenderPosOffset.description>
+<VEF_PawnRenderPosOffset.label>deslocamento de renderização do colono</VEF_PawnRenderPosOffset.label>
+<VEF_PawnRenderPosOffset.description>Modifica a posição de renderização do colono no eixo y.</VEF_PawnRenderPosOffset.description>
 
 <VEF_MassCarryCapacity.label>capacidade de carga de massa</VEF_MassCarryCapacity.label>
-<VEF_MassCarryCapacity.description>Capacidade total de transporte de massa do peão em caravanas.</VEF_MassCarryCapacity.description>
+<VEF_MassCarryCapacity.description>Capacidade total de transporte de massa do colono em caravanas.</VEF_MassCarryCapacity.description>
 <VEF_MassCarryCapacity.formatString>{0} kg</VEF_MassCarryCapacity.formatString>
 <VEF_MassCarryCapacity.formatStringUnfinalized>{0} kg</VEF_MassCarryCapacity.formatStringUnfinalized>
 
