@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VRE_FastAging.label>envelhecimento rápido</VRE_FastAging.label>
+  <VRE_FastAging.description>Os portadores deste gene possuem uma mutação artificial em seu material genético, fazendo com que envelheçam duas vezes mais rápido que um humano padrão.</VRE_FastAging.description>
+  
+  <VRE_RapidAging.label>envelhecimento acelerado</VRE_RapidAging.label>
+  <VRE_RapidAging.description>Os portadores deste gene possuem uma mutação artificial em seu material genético, fazendo com que envelheçam quatro vezes mais rápido que um humano padrão.</VRE_RapidAging.description>
+  
+  <VRE_SlowAging.label>envelhecimento lento</VRE_SlowAging.label>
+  <VRE_SlowAging.description>Os portadores deste gene possuem uma mutação artificial em seu material genético, fazendo com que envelheçam muito mais lentamente que um humano padrão.</VRE_SlowAging.description>
+
+  <VRE_AuburnSkin.label>pele castanho-avermelhada</VRE_AuburnSkin.label>
+  <VRE_AuburnSkin.description>Os portadores deste gene têm uma pele lamacenta de cor marrom-avermelhada escura.</VRE_AuburnSkin.description>
+  <VRE_AuburnSkin.labelShortAdj>lamacento</VRE_AuburnSkin.labelShortAdj>
+  <VRE_AuburnSkin.symbolPack.prefixSymbols.0.symbol>castanho</VRE_AuburnSkin.symbolPack.prefixSymbols.0.symbol>
+  <VRE_AuburnSkin.symbolPack.prefixSymbols.1.symbol>cobre queimado</VRE_AuburnSkin.symbolPack.prefixSymbols.1.symbol>
+  <VRE_AuburnSkin.symbolPack.prefixSymbols.2.symbol>marrom escuro</VRE_AuburnSkin.symbolPack.prefixSymbols.2.symbol>
+  
+  <VRE_ChocolateSkin.label>pele chocolate</VRE_ChocolateSkin.label>
+  <VRE_ChocolateSkin.description>Os portadores deste gene têm uma pele lamacenta de cor marrom claro.</VRE_ChocolateSkin.description>
+  <VRE_ChocolateSkin.labelShortAdj>lamacento</VRE_ChocolateSkin.labelShortAdj>
+  <VRE_ChocolateSkin.symbolPack.prefixSymbols.0.symbol>lamacento</VRE_ChocolateSkin.symbolPack.prefixSymbols.0.symbol>
+  <VRE_ChocolateSkin.symbolPack.prefixSymbols.1.symbol>chocolate</VRE_ChocolateSkin.symbolPack.prefixSymbols.1.symbol>
+  <VRE_ChocolateSkin.symbolPack.prefixSymbols.2.symbol>marrom</VRE_ChocolateSkin.symbolPack.prefixSymbols.2.symbol>
+  
+  <VRE_CurledTail.label>cauda enrolada</VRE_CurledTail.label>
+  <VRE_CurledTail.description>Os portadores deste gene desenvolvem uma cauda curta e enrolada que não serve para nenhum propósito.</VRE_CurledTail.description>
+  
+  <VRE_HazelnutSkin.label>pele avelã</VRE_HazelnutSkin.label>
+  <VRE_HazelnutSkin.description>Os portadores deste gene têm uma pele bronzeada clara, semelhante à cor de uma avelã.</VRE_HazelnutSkin.description>
+  <VRE_HazelnutSkin.labelShortAdj>lamacento</VRE_HazelnutSkin.labelShortAdj>
+  <VRE_HazelnutSkin.symbolPack.prefixSymbols.0.symbol>creme escuro</VRE_HazelnutSkin.symbolPack.prefixSymbols.0.symbol>
+  <VRE_HazelnutSkin.symbolPack.prefixSymbols.1.symbol>bronzeado</VRE_HazelnutSkin.symbolPack.prefixSymbols.1.symbol>
+  <VRE_HazelnutSkin.symbolPack.prefixSymbols.2.symbol>amêndoa</VRE_HazelnutSkin.symbolPack.prefixSymbols.2.symbol>
+  <VRE_HazelnutSkin.symbolPack.prefixSymbols.3.symbol>avelã</VRE_HazelnutSkin.symbolPack.prefixSymbols.3.symbol>
+  
+  <VRE_MouthTusks.label>presas bucais</VRE_MouthTusks.label>
+  <VRE_MouthTusks.description>Os portadores deste gene desenvolvem duas pequenas presas que se projetam da mandíbula.</VRE_MouthTusks.description>
+  <VRE_MouthTusks.symbolPack.prefixSymbols.0.symbol>presa</VRE_MouthTusks.symbolPack.prefixSymbols.0.symbol>
+  <VRE_MouthTusks.symbolPack.prefixSymbols.1.symbol>presado</VRE_MouthTusks.symbolPack.prefixSymbols.1.symbol>
+
+  <VRE_ExtraMeat.label>carne extra</VRE_ExtraMeat.label>
+  <VRE_ExtraMeat.description>Os portadores deste gene possuem tecido adiposo e muscular muito mais densos, resultando em um maior rendimento de carne ao serem esquartejados.</VRE_ExtraMeat.description>
+  
+  <VRE_LowMeat.label>pouca carne</VRE_LowMeat.label>
+  <VRE_LowMeat.description>Os portadores deste gene possuem tecido adiposo e muscular muito finos, resultando em um rendimento de carne muito menor ao serem esquartejados.</VRE_LowMeat.description>
+  
+  <VRE_OrganRegeneration.label>regeneração de órgãos</VRE_OrganRegeneration.label>
+  <VRE_OrganRegeneration.description>Os portadores deste gene possuem fatores regenerativos aprimorados em seu DNA, permitindo que regenerem lentamente órgãos que podem estar até completamente ausentes. O processo é lento e priorizará a cura de órgãos existentes, porém danificados.</VRE_OrganRegeneration.description>
+  <VRE_OrganRegeneration.customEffectDescriptions.0>Uma ferida de órgão aleatória tem sua gravidade reduzida em 1 a cada 6-15 dias. Se o órgão tiver sido destruído, ele será restaurado com 1 ponto de vida.</VRE_OrganRegeneration.customEffectDescriptions.0>
+  <VRE_OrganRegeneration.customEffectDescriptions.1>Isso afetará danos ao cérebro, estômago, rins, pulmões, fígado e coração.</VRE_OrganRegeneration.customEffectDescriptions.1>
+
+  <VRE_Gluttonous.label>glutão</VRE_Gluttonous.label>
+  <VRE_Gluttonous.description>Os portadores deste gene possuem estômagos elásticos e sem fundo, sendo capazes de consumir o dobro de comida.\n\nEles ficarão cada vez mais infelizes se estiverem com fome, e a maioria de seus colapsos mentais serão farras alimentares.</VRE_Gluttonous.description>
+
+  <VRE_PigSkin.label>pele de porco</VRE_PigSkin.label>
+  <VRE_PigSkin.description>Os portadores deste gene rendem pele de porco ao serem esquartejados. O uso de roupas de pele de porco por eles é classificado como o uso de roupas de couro humano.</VRE_PigSkin.description>
+
+  <VRE_PorkFlesh.label>carne suína</VRE_PorkFlesh.label>
+  <VRE_PorkFlesh.description>Os portadores deste gene possuem vestígios de carne de porco em sua carne. O consumo de carne suína por eles é classificado como canibalismo. Quando esquartejados, eles renderão carne de porco em vez de carne humana.</VRE_PorkFlesh.description>
+
+  <VRE_Brave.label>corajoso</VRE_Brave.label>
+  <VRE_Brave.description>Os portadores deste gene são muito mais resilientes ao estresse e exibem comportamentos tipicamente classificados como corajosos.</VRE_Brave.description>
+  
+  <VRE_Coward.label>covarde</VRE_Coward.label>
+  <VRE_Coward.description>Os portadores deste gene são muito mais propensos a responder a situações de tensão acovardando-se, escondendo-se ou até entrando em estado catatônico.</VRE_Coward.description>
+
+  <VRE_EverGrowing.label>crescimento contínuo</VRE_EverGrowing.label>
+  <VRE_EverGrowing.description>Os portadores deste gene não param de crescer até atingirem a idade biológica de 60 anos. Eles continuarão aumentando de tamanho, alcançando proporções gigantescas.\n\nÀ medida que crescem, eles se tornarão mais lentos, mas também imunes a atordoamento por dano (stagger). Com o aumento de tamanho, sua reserva de saúde também aumentará.</VRE_EverGrowing.description>
+  
+</LanguageData>
