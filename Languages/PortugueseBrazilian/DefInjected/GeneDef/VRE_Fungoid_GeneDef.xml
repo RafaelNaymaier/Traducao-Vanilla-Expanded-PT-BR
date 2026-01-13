@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VRE_GeneInfector.label>infector genético</VRE_GeneInfector.label>
+  <VRE_GeneInfector.description>Os portadores deste gene implantam uma cópia de seu xenogerme em outra pessoa através de ataques com suas garras ou dentes. Isso, por sua vez, desencadeia uma infecção progressiva na vítima que, se não for tratada, aplicará o xenogerme do portador nela.</VRE_GeneInfector.description>
+  <VRE_GeneInfector.customEffectDescriptions.0>Não afetará ninguém que já possua este gene.</VRE_GeneInfector.customEffectDescriptions.0>
+  <VRE_GeneInfector.customEffectDescriptions.1>O infector genético transmitirá apenas xenogenes. Endogenes não serão transmitidos.</VRE_GeneInfector.customEffectDescriptions.1>
+  
+  <VRE_MindCoalescence.label>coalescência mental</VRE_MindCoalescence.label>
+  <VRE_MindCoalescence.description>Os portadores deste gene possuem uma conexão psíquica com outros portadores, permitindo-lhes compartilhar algumas de suas emoções. Uma parte da felicidade média é compartilhada com indivíduos de mente coalescente. Devido a isso, todos eles também compartilham estados mentais e sofrem com eles ao mesmo tempo.</VRE_MindCoalescence.description>
+  <VRE_MindCoalescence.customEffectDescriptions.0>Este efeito é atualizado duas vezes por dia no jogo para evitar lentidão (lag).</VRE_MindCoalescence.customEffectDescriptions.0>
+  <VRE_MindCoalescence.labelShortAdj>coalescente</VRE_MindCoalescence.labelShortAdj>
+
+  <VRE_Repulsive.label>repulsivo</VRE_Repulsive.label>
+  <VRE_Repulsive.description>Os portadores deste gene possuem uma aparência retorcida, antinatural e aterrorizante. Eles mal se assemelham a seres humanos. Qualquer interação social com eles pode deixar as pessoas enjoadas.</VRE_Repulsive.description>
+  <VRE_Repulsive.customEffectDescriptions.0>20% das interações com o portador deste gene farão a outra pessoa vomitar incontrolavelmente.</VRE_Repulsive.customEffectDescriptions.0>
+
+  <VRE_RotBlood.label>sangue pútrido</VRE_RotBlood.label>
+  <VRE_RotBlood.description>Os portadores deste gene sangram um fluido pútrido e fedorento.</VRE_RotBlood.description>
+  <VRE_RotBlood.symbolPack.prefixSymbols.0.symbol>pútrido</VRE_RotBlood.symbolPack.prefixSymbols.0.symbol>
+  <VRE_RotBlood.symbolPack.prefixSymbols.1.symbol>fedorento</VRE_RotBlood.symbolPack.prefixSymbols.1.symbol>
+  <VRE_RotBlood.symbolPack.wholeNameSymbols.0.symbol>sangue-podre</VRE_RotBlood.symbolPack.wholeNameSymbols.0.symbol>
+
+  <VRE_FungalCrest.label>crista fúngica</VRE_FungalCrest.label>
+  <VRE_FungalCrest.description>Os portadores deste gene desenvolvem uma crista fúngica grande e colorida que se projeta do topo da cabeça.</VRE_FungalCrest.description>
+  
+  <VRE_Fungoid_Hair_DarkTan.label>cabelo bronzeado escuro</VRE_Fungoid_Hair_DarkTan.label>
+  <VRE_Fungoid_Hair_DarkTan.description>Os portadores deste gene têm uma cor de cabelo específica. Com múltiplos genes de cor de cabelo, um é selecionado aleatoriamente.</VRE_Fungoid_Hair_DarkTan.description>
+  
+  <VRE_Fungoid_Hair_MistyMoss.label>cabelo musgo enevoado</VRE_Fungoid_Hair_MistyMoss.label>
+  <VRE_Fungoid_Hair_MistyMoss.description>Os portadores deste gene têm uma cor de cabelo específica. Com múltiplos genes de cor de cabelo, um é selecionado aleatoriamente.</VRE_Fungoid_Hair_MistyMoss.description>
+  
+  <VRE_Fungoid_Hair_RoseTaupe.label>cabelo rosa taupe</VRE_Fungoid_Hair_RoseTaupe.label>
+  <VRE_Fungoid_Hair_RoseTaupe.description>Os portadores deste gene têm uma cor de cabelo específica. Com múltiplos genes de cor de cabelo, um é selecionado aleatoriamente.</VRE_Fungoid_Hair_RoseTaupe.description>
+  
+  <VRE_Fungoid_Hair_Salmon.label>cabelo salmão</VRE_Fungoid_Hair_Salmon.label>
+  <VRE_Fungoid_Hair_Salmon.description>Os portadores deste gene têm uma cor de cabelo específica. Com múltiplos genes de cor de cabelo, um é selecionado aleatoriamente.</VRE_Fungoid_Hair_Salmon.description>
+  
+  <VRE_Fungoid_Hair_SwampGreen.label>cabelo verde pântano</VRE_Fungoid_Hair_SwampGreen.label>
+  <VRE_Fungoid_Hair_SwampGreen.description>Os portadores deste gene têm uma cor de cabelo específica. Com múltiplos genes de cor de cabelo, um é selecionado aleatoriamente.</VRE_Fungoid_Hair_SwampGreen.description>
+  
+  <VRE_Fungoid_Hair_Tumbleweed.label>cabelo palha seca</VRE_Fungoid_Hair_Tumbleweed.label>
+  <VRE_Fungoid_Hair_Tumbleweed.description>Os portadores deste gene têm uma cor de cabelo específica. Com múltiplos genes de cor de cabelo, um é selecionado aleatoriamente.</VRE_Fungoid_Hair_Tumbleweed.description>
+  
+  <VRE_Fungoid_Hair_Wenge.label>cabelo wengué</VRE_Fungoid_Hair_Wenge.label>
+  <VRE_Fungoid_Hair_Wenge.description>Os portadores deste gene têm uma cor de cabelo específica. Com múltiplos genes de cor de cabelo, um é selecionado aleatoriamente.</VRE_Fungoid_Hair_Wenge.description>
+  
+  <VRE_HairMushroom.label>cabelo fúngico</VRE_HairMushroom.label>
+  <VRE_HairMushroom.description>Os portadores deste gene têm uma cor de cabelo específica. Com múltiplos genes de cor de cabelo, um é selecionado aleatoriamente.</VRE_HairMushroom.description>
+
+  <VRE_FungalArmor.label>armadura fúngica</VRE_FungalArmor.label>
+  <VRE_FungalArmor.description>Os portadores deste gene possuem uma trama fúngica em sua pele, diminuindo drasticamente o dano recebido. Os efeitos aumentam em severidade com o tempo.</VRE_FungalArmor.description>
+  
+  <VRE_FungalRegeneration.label>regeneração fúngica</VRE_FungalRegeneration.label>
+  <VRE_FungalRegeneration.description>Os portadores deste gene são capazes de realizar uma regeneração fúngica. Os efeitos aumentam em severidade com o tempo.</VRE_FungalRegeneration.description>
+
+  <VRE_PartialAntirotLungs.label>pulmões antipodridão parciais</VRE_PartialAntirotLungs.label>
+  <VRE_PartialAntirotLungs.description>Os portadores deste gene acumulam exposição ao fedor de apodrecimento mais lentamente.</VRE_PartialAntirotLungs.description>
+  
+  <VRE_TotalAntirotLungs.label>pulmões antipodridão totais</VRE_TotalAntirotLungs.label>
+  <VRE_TotalAntirotLungs.description>Os portadores deste gene são imunes à exposição ao fedor de apodrecimento.</VRE_TotalAntirotLungs.description>
+
+  <VRE_FungalFlesh.label>carne fúngica</VRE_FungalFlesh.label>
+  <VRE_FungalFlesh.description>Os portadores deste gene possuem matéria fúngica em sua carne. O consumo de qualquer tipo de fungo por eles é classificado como canibalismo.</VRE_FungalFlesh.description>
+  <VRE_FungalFlesh.labelShortAdj>fúngico</VRE_FungalFlesh.labelShortAdj>
+  
+  <VRE_Telepathy.label>telepatia</VRE_Telepathy.label>
+  <VRE_Telepathy.description>Os portadores deste gene podem se comunicar com outros portadores através de telepatia psíquica. A proximidade física não é necessária para interações sociais.</VRE_Telepathy.description>
+  <VRE_Telepathy.labelShortAdj>telepata</VRE_Telepathy.labelShortAdj>
+  
+  <VRE_ExtremeSkillLoss.label>perda extrema de perícia</VRE_ExtremeSkillLoss.label>
+  <VRE_ExtremeSkillLoss.description>Os portadores deste gene esquecem perícias duas vezes mais rápido.</VRE_ExtremeSkillLoss.description>
+  
+  <VRE_MinorSkillLoss.label>perda leve de perícia</VRE_MinorSkillLoss.label>
+  <VRE_MinorSkillLoss.description>Os portadores deste gene esquecem perícias com metade da velocidade normal.</VRE_MinorSkillLoss.description>
+  
+  <VRE_NoSkillLoss.label>sem perda de perícia</VRE_NoSkillLoss.label>
+  <VRE_NoSkillLoss.description>Os portadores deste gene não sofrem com o esquecimento de perícias.</VRE_NoSkillLoss.description>
+  
+  <VRE_NoStudy.label>incapaz de estudar</VRE_NoStudy.label>
+  <VRE_NoStudy.description>Os portadores deste gene são incapazes de aprender novas perícias.</VRE_NoStudy.description>
+  
+  <VRE_SevereSkillLoss.label>perda severa de perícia</VRE_SevereSkillLoss.label>
+  <VRE_SevereSkillLoss.description>Os portadores deste gene esquecem perícias 50% mais rápido.</VRE_SevereSkillLoss.description>
+  
+  <VRE_SkillDegradation.label>degradação de perícia</VRE_SkillDegradation.label>
+  <VRE_SkillDegradation.description>Os portadores deste gene sofrem com o esquecimento de perícias independentemente do seu nível atual de habilidade.</VRE_SkillDegradation.description>
+
+  <VRE_DeadVoice.label>voz morta</VRE_DeadVoice.label>
+  <VRE_DeadVoice.description>Os portadores deste gene possuem uma voz rouca e doentia.</VRE_DeadVoice.description>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VRE_InfectionLabel>Infecção genética ({0}), {1}</VRE_InfectionLabel>
+  <VRE_InfectionDescription>Infecção causada pelo contato com um {0}. Ao atingir 100%, o colono se transformará em um {0}.</VRE_InfectionDescription>
+  <VRE_InfectedLabel>Infectado geneticamente ({0} dias)</VRE_InfectedLabel>
+  <VRE_InfectionChance>Chance de infecção genética</VRE_InfectionChance>
+  <VRE_InfectionChanceDesc>A chance da infecção genética contagiar o alvo. Por padrão, é 20%. Tenha em mente que isso se aplica apenas a ataques com garras e dentes; se a pessoa com o gene infector estiver portando armas brancas, as chances de infecção serão reduzidas.</VRE_InfectionChanceDesc>
+  <VRE_Reset>Redefinir</VRE_Reset>
+  <VRE_FungoidApocalypse>Apocalipse Fungoide</VRE_FungoidApocalypse>
+  <VRE_FungoidApocalypseDesc>Com esta opção ativada, TODAS as invasões humanoides que chegarem serão de fungoides!</VRE_FungoidApocalypseDesc>
+  <VRE_TextMote_RepulsiveColonist>Colono repulsivo!</VRE_TextMote_RepulsiveColonist>
+
+</LanguageData>
