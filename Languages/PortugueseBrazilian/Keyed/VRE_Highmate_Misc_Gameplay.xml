@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VRE_EnableCatHighmates>Habilitar "genes de gato" em Alto companheiros (requer reiniciar o jogo)</VRE_EnableCatHighmates>
+  <VRE_EnableCatHighmatesDescription>Desativar esta opção fará com que novos Alto companheiros criados apareçam sem os genes de Orelhas felinas e Cauda felina. Tenha em mente que isso não terá efeito em Alto companheiros já existentes. Requer recarregar o jogo.</VRE_EnableCatHighmatesDescription>
+  
+  <VRE_NotEnoughLovin>Exige fazer amor</VRE_NotEnoughLovin>
+  
+  <VRE_LovinNeed>Necessidade de fazer amor</VRE_LovinNeed>
+  <VRE_LovinNeedDesc>Estas pessoas estão com a necessidade de fazer amor muito baixa (menos de 50%). Se atingirem 0% em aproximadamente 15 dias, elas tentarão abandonar a colônia:\n\n{0}</VRE_LovinNeedDesc>
+  
+  <VRE_MessageCantUseLovinOnOtherFactions>Esta habilidade não pode ser usada em membros de outras facções</VRE_MessageCantUseLovinOnOtherFactions>
+  <VRE_MessageCantUseLovinOnResistingPersons>Esta habilidade não pode ser usada em inimigos</VRE_MessageCantUseLovinOnResistingPersons>
+  
+  <VRE_CantUseLovinLowOpinion>{0} não pode iniciar o ato de fazer amor com {1} pois {1} tem uma opinião muito baixa de {0} (Opinião de {0}: {2})</VRE_CantUseLovinLowOpinion>
+  
+  <VRE_TooYoungForLovin>{0} não pode iniciar o ato de fazer amor com {1} pois {1} é jovem demais.</VRE_TooYoungForLovin>
+  <VRE_TooYoungForLovinCaster>{0} não pode iniciar o ato de fazer amor com {1} pois {0} é jovem demais.</VRE_TooYoungForLovinCaster>
+  
+  <VRE_CantUseLovinWithTraitAsexual>{0} não pode iniciar o ato de fazer amor com {1} pois {1} é Assexual.</VRE_CantUseLovinWithTraitAsexual>
+  <VRE_CantUseLovinWithTraitPrude>{0} não pode iniciar o ato de fazer amor com {1} pois {1} é Pudico(a).</VRE_CantUseLovinWithTraitPrude>
+  
+  <VRE_RelationshipWillBreak>{0} iniciará o ato de fazer amor com {1}, apesar de estar em um relacionamento com {2}. Isso resultará em uma separação.</VRE_RelationshipWillBreak>
+  <VRE_RelationshipWillBreakTarget>{0} iniciará o ato de fazer amor com {1}, apesar do alvo, {1}, estar em um relacionamento com {2}. Isso resultará em uma separação.</VRE_RelationshipWillBreakTarget>
+  
+  <VRE_CantUseOnFamily>{0} não pode iniciar o ato de fazer amor com {1}, pois são parentes de sangue.</VRE_CantUseOnFamily>
+  
+  <VRE_PsychicConceptionDesc>Concepção psíquica (gravidez garantida)</VRE_PsychicConceptionDesc>
+  <VRE_LovinForPleasureDesc>Fazer amor por prazer (chance de gravidez x0%)</VRE_LovinForPleasureDesc>
+  <VRE_NoPsychicConceptionDesc>Sem concepção psíquica</VRE_NoPsychicConceptionDesc>
+  <VRE_NoLovinForPleasureDesc>Fazer amor normal</VRE_NoLovinForPleasureDesc>
+  
+  <VRE_AwardedHighmate>Alto companheiro Concedido</VRE_AwardedHighmate>
+  <VRE_AwardedHighmateDesc>Devido ao recém-adquirido título de Barão, o Império concedeu a {0} a presença de um Alto companheiro, que se juntará imediatamente à colônia.\n\nCompanheiros e concubinas projetados com a habilidade única de criar um vínculo psíquico com um parceiro, os Alto companheiros são empáticos, belos, alegres e talentosos em assuntos sociais. Eles também são ineptos em tarefas manuais, fisicamente fracos e mentalmente incapazes de violência.</VRE_AwardedHighmateDesc>
+
+</LanguageData>

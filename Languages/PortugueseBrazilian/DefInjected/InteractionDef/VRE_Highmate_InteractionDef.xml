@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VRE_FlirtingAttempt.label>palavras paqueradoras</VRE_FlirtingAttempt.label>
+  <VRE_FlirtingAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] [wootactic].</li>
+    <li>wooed->tentou paquerar</li>
+    <li>wooed->paquerou</li>
+    <li>wooed->tentou atrair</li>
+    <li>wooed->tentou cortejar</li>
+    <li>wooed->cortejou</li>
+    <li>wooed->insistiu com</li>
+    <li>wooed->encantou</li>
+    <li>wooed->galanteou</li>
+    <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</li>
+    <li>wootactic->contando uma história sobre [TalkTopicAny]</li>
+    <li>wootactic->contando um conto sobre [TalkTopicAny]</li>
+    <li>wootactic->fazendo piada sobre [TalkTopicAny]</li>
+    <li>wootactic->fazendo uma observação sobre [TalkTopicAny]</li>
+    <li>wootactic(p=2)->[boasting] seu próprio [PersonalCharacteristic]</li>
+    <li>wootactic->comparando [RECIPIENT_objective] a um(a) [romantic_noun] [romantic_adj]</li>
+    <li>wootactic->descrevendo [RECIPIENT_objective] como um(a) [romantic_noun] [romantic_adj]</li>
+    <li>boasting->vangloriando-se de</li>
+    <li>boasting->mencionando</li>
+    <li>boasting->insinuando coisas boas sobre</li>
+    <li>boasting->exagerando sobre</li>
+    <li>boasting->falando sobre</li>
+    <li>boasting->chamando a atenção para</li>
+    <li>complimenting(p=3)->elogiando</li>
+    <li>complimenting->elogiando sutilmente</li>
+    <li>complimenting->enaltecendo</li>
+    <li>complimenting->encomiando</li>
+    <li>complimenting->dizendo coisas boas sobre</li>
+    <li>complimenting(p=2)->brincando com</li>
+    <li>complimenting->cutucando jocosamente</li>
+    <li>complimenting->fazendo um meio-elogio brincalhão em</li>
+    <li>complimenting->questionando maliciosamente</li>
+    <li>complimenting->tirando sarro alegremente de</li>
+    <li>romantic_adj->belo(a)</li>
+    <li>romantic_adj->radiante</li>
+    <li>romantic_adj->cintilante</li>
+    <li>romantic_adj->celestial</li>
+    <li>romantic_adj->dourado(a)</li>
+    <li>romantic_adj->brilhante</li>
+    <li>romantic_adj->deslumbrante</li>
+    <li>romantic_adj->encantador(a)</li>
+    <li>romantic_adj->radiante</li>
+    <li>romantic_adj->delicado(a)</li>
+    <li>romantic_adj->fino(a)</li>
+    <li>romantic_adj->magnífico(a)</li>
+    <li>romantic_adj->adorável</li>
+    <li>romantic_adj->maravilhoso(a)</li>
+    <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
+    <li>romantic_noun->flor</li>
+    <li>romantic_noun->primavera</li>
+    <li>romantic_noun->rio</li>
+    <li>romantic_noun->estrela</li>
+    <li>romantic_noun->lua</li>
+    <li>romantic_noun->sol</li>
+    <li>romantic_noun->casa</li>
+    <li>romantic_noun->aurora</li>
+    <li>romantic_noun->árvore de [TreeType]</li>
+    <li>romantic_noun(p=2)->[TerrainFeature]</li>
+    <li>romantic_noun(p=2)->[NaturalObject]</li>
+  </VRE_FlirtingAttempt.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

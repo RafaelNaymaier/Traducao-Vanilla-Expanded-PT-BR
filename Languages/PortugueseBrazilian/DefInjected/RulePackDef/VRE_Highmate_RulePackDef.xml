@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] agradeceu a [INITIATOR_nameDef].</li>
+    <li>sent->[RECIPIENT_nameDef] riu brincando com [INITIATOR_nameDef].</li>
+    <li>sent->[RECIPIENT_nameDef] ficou excitado(a) e agradeceu a [INITIATOR_nameDef] pelo elogio.</li>
+  </VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings>
+  
+  <VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] ignorou o elogio.</li>
+    <li>sent->[RECIPIENT_nameDef] ignorou o flerte.</li>
+    <li>sent->[RECIPIENT_nameDef] deu as costas para [INITIATOR_nameDef].</li>
+    <li>sent->[RECIPIENT_nameDef] virou-se para o outro lado.</li>
+    <li>sent->[RECIPIENT_nameDef] deu uma resposta mínima.</li>
+    <li>sent->[RECIPIENT_nameDef] não respondeu.</li>
+    <li>sent->[RECIPIENT_nameDef] deu uma bronca em [INITIATOR_nameDef].</li>
+  </VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings>
+  
+</LanguageData>

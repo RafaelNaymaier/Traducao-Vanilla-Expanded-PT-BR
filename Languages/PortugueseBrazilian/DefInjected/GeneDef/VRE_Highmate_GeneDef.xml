@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VRE_FelineEars.label>orelhas felinas</VRE_FelineEars.label>
+  <VRE_FelineEars.description>Os portadores deste gene terão orelhas felinas macias e peludas.</VRE_FelineEars.description>
+  
+  <VRE_FelineTail.label>cauda felina</VRE_FelineTail.label>
+  <VRE_FelineTail.description>Os portadores deste gene desenvolvem uma cauda peluda que não possui outro propósito além do decorativo.</VRE_FelineTail.description>
+  
+  <VRE_HighmateHair.label>cabelo deslumbrante</VRE_HighmateHair.label>
+  <VRE_HighmateHair.description>Os portadores deste gene têm a garantia de usar penteados específicos de Alto companheiro.</VRE_HighmateHair.description>
+  
+  <VRE_PerfectBody.label>corpo perfeito</VRE_PerfectBody.label>
+  <VRE_PerfectBody.description>Os portadores deste gene possuem corpos perfeitos, sem qualquer falha. Seus corpos são simétricos, com pele macia que parece seda ao toque. Pessoas que tiverem intimidade com portadores deste gene não ficarão satisfeitas ao fazer amor com qualquer pessoa que não possua um corpo perfeito.</VRE_PerfectBody.description>
+  <VRE_PerfectBody.labelShortAdj>perfeito</VRE_PerfectBody.labelShortAdj>
+
+  <VRE_DominantGenome.label>genoma dominante</VRE_DominantGenome.label>
+  <VRE_DominantGenome.description>Os portadores deste gene passam inerentemente todas as suas características para a prole, pois este gene sobrepõe as contribuições genéticas do outro progenitor durante a reprodução. Se ambos os parceiros possuírem o gene de genoma dominante, os genes transmitidos serão aleatórios.</VRE_DominantGenome.description>
+  
+  <VRE_RecessiveGenome.label>genoma recessivo</VRE_RecessiveGenome.label>
+  <VRE_RecessiveGenome.description>Os portadores deste gene possuem uma composição genética única que recua durante a reprodução, resultando em nenhuma de suas características sendo passada para a prole. Se ambos os parceiros possuírem o gene de genoma recessivo, os genes transmitidos serão aleatórios.</VRE_RecessiveGenome.description>
+
+  <VRE_Libido_VeryHigh.label>libido muito alta</VRE_Libido_VeryHigh.label>
+  <VRE_Libido_VeryHigh.description>Os portadores deste gene estão sempre muito dispostos a fazer amor com seu parceiro, ou com qualquer outra pessoa, nesse caso. Eles podem iniciar o ato em qualquer lugar e a qualquer momento.</VRE_Libido_VeryHigh.description>
+  <VRE_Libido_VeryHigh.customEffectDescriptions.0>Aumenta dramaticamente a chance de fazer amor.</VRE_Libido_VeryHigh.customEffectDescriptions.0>
+  <VRE_Libido_VeryHigh.customEffectDescriptions.1>Esta habilidade pode causar separações, a menos que a ideologia possua o preceito "Fazer amor: Livre e aprovado".</VRE_Libido_VeryHigh.customEffectDescriptions.1>
+  
+  <VRE_LovinDependency.label>dependência de fazer amor</VRE_LovinDependency.label>
+  <VRE_LovinDependency.description>Os portadores deste gene precisam fazer amor regularmente para sobreviver. Após 5 dias sem a prática, os portadores sofrerão de deficiência de fazer amor. Após 30 dias, eles podem abandonar a colônia.</VRE_LovinDependency.description>
+
+  <VRE_Distressed.label>angustiado</VRE_Distressed.label>
+  <VRE_Distressed.description>Os portadores deste gene levam muito mais tempo para processar memórias difíceis e angustiantes. Pensamentos negativos relacionados ao sofrimento humano e animal durarão o dobro do tempo.</VRE_Distressed.description>
+  
+  <VRE_Flirty.label>paquerador</VRE_Flirty.label>
+  <VRE_Flirty.description>Os portadores deste gene recebem estimulação emocional através de flertes brincalhões. Eles oferecerão palavras gentis e paqueradoras para alegrar o humor daqueles ao seu redor. Isso ajuda a desenvolver laços mais fortes na comunidade, mas pode levar a romances e até separações.</VRE_Flirty.description>
+
+  <VRE_Harmless.label>inofensivo</VRE_Harmless.label>
+  <VRE_Harmless.description>Os portadores deste gene não são considerados uma ameaça por outros e não serão atacados, a menos que estejam segurando uma arma ou tenham sido convocados recentemente. Os portadores deste gene ainda podem ser atingidos por fogo amigo e balas perdidas, e ainda serão atacados por animais caçadores de homens.</VRE_Harmless.description>
+  
+</LanguageData>
