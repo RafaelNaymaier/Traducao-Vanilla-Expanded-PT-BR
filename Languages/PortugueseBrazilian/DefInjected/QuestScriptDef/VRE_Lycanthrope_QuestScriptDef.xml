@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VRE_WolfmenTransport.questContentRules.rulesStrings>
+    <li>wolfmanShuttleCrashedLetterLabel->Transporte acidentado</li>
+    <li>wolfmanShuttleCrashedLetterText->Um transporte contendo um líder lobisomem e [WolfmenCount] refugiados lobisomens caiu nas proximidades. Eles sairão dos destroços e se prepararão para prosseguir viagem.</li>
+    <li>reinforcementsArrivedLetterLabel->Reforços de lobisomens</li>
+    <li>reinforcementsArrivedLetterText->Lobisomens estão chegando em cápsulas de transporte para reforçar os refugiados da queda.</li>
+    <li>letterLabelBeggarsBetrayed->Refugiados traídos</li>
+    <li>letterTextBeggarsBetrayed->Os refugiados lobisomens sentiram-se traídos por suas ações e tentarão se defender.</li>
+  </VRE_WolfmenTransport.questContentRules.rulesStrings>
+
+  <VRE_WolfmenTransport.questDescriptionRules.rulesStrings>
+    <li>questDescription->Você interceptou um sinal de socorro! Um transporte carregando um grupo de refugiados lobisomens está com dificuldades para se manter no ar. O líder deles, junto com outros [WolfmenCount] refugiados, implora permissão para realizar um pouso forçado perto de [map_definite]. \n\nAssim que a nave cair, os lobisomens tentarão se reagrupar e seguir viagem. Eles oferecem transformar um de seus colonos em um lobisomem caso você permita o pouso nas proximidades. Você também pode aproveitar esta oportunidade para lutar ou prendê-los. Se conseguir capturar qualquer um deles, poderá forçá-los a implantar o xenogerme de lobisomem em um de seus colonos.\n\n[wolfmenInfo]</li>
+    <li>wolfmenInfo->(*Gray)Sobre os lobisomens: Os lobisomens se propagaram sem impedimentos por todo o espaço colonizado para reivindicar territórios e estabelecer alcateias ou clãs maiores. Sua forma de homem-lobo possui habilidades noturnas reduzidas, sacrificando muitas vantagens pela capacidade de compartilhar seu xenogerme com outros. Sua forma licantropa, por outro lado, possui vantagens noturnas, eficácia aprimorada em combate corpo a corpo, velocidade e regeneração sobrenaturais, e um uivo revigorante que impede a fala, tornando-se mais forte conforme mais membros da alcateia se juntam.(/Gray)</li>
+  </VRE_WolfmenTransport.questDescriptionRules.rulesStrings>
+
+  <VRE_WolfmenTransport.questNameRules.rulesStrings>
+    <li>questName->[shipNoun] [shipAdjective]</li>
+    <li>shipAdjective->dos Lobisomens</li>
+    <li>shipAdjective->do Lobo</li>
+    <li>shipAdjective->Licantropo</li>
+    <li>shipAdjective->Lupina</li>
+    <li>shipAdjective->Noturna</li>
+    <li>shipAdjective->Uivante</li>
+    <li>shipAdjective->Peluda</li>
+    <li>shipAdjective->Canina</li>
+    <li>shipNoun->Nave</li>
+    <li>shipNoun->Transporte</li>
+    <li>shipNoun->Embarcação</li>
+    <li>shipNoun->Destroços</li>
+    <li>shipNoun->Queda</li>
+    <li>shipNoun->Fuselagem</li>
+  </VRE_WolfmenTransport.questNameRules.rulesStrings>
+  
+</LanguageData>

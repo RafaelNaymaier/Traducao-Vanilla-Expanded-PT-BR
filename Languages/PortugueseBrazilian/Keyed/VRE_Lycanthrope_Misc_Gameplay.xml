@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <VRE_DisablePhotophobiaMessage>Desativar avisos de fotofobia</VRE_DisablePhotophobiaMessage>
+  <VRE_DisablePhotophobiaMessage_Description>Por padrão, sempre que um colono com o gene de fotofobia fugir da luz, o jogo gerará uma notificação. Isso pode ser excessivo caso muitos peões fujam com frequência, então você pode desativar o aviso aqui. Note que os peões continuarão fugindo; você apenas não será notificado.</VRE_DisablePhotophobiaMessage_Description>
+  <VRE_OnlyOnDaytime>Esta missão só pode ser aceita durante o dia</VRE_OnlyOnDaytime>
+  <VRE_MessagePawnHasNoGermline>{0_labelShort} não possui endogenes disponíveis para implante.</VRE_MessagePawnHasNoGermline>
+  <VRE_WarningPawnWillDieFromReimplanting>Aviso: Os genes de {PAWN_nameDef} ainda estão se regenerando. Se {PAWN_pronoun} implantar sua linhagem germinativa antes que a regeneração termine, {PAWN_pronoun} morrerá.\n\nTem certeza de que deseja continuar?</VRE_WarningPawnWillDieFromReimplanting>
+  <VRE_LetterTextGenesImplanted>{CASTER_nameDef} implantou uma cópia de sua linhagem germinativa em {TARGET_nameDef}, transmitindo todos os seus endogenes para {TARGET_objective}.\n\n{TARGET_nameDef} entrará em um coma de endogerminação por {COMADURATION} enquanto seu corpo se adapta às mudanças.\n\n{CASTER_nameDef} sofrerá um choque por perda de genes pelas próximas {SHOCKDURATION}. Seus genes também precisarão de tempo para se regenerar. Se {CASTER_nameDef} realizar um novo implante antes que seus genes tenham se recuperado, {CASTER_pronoun} morrerá.</VRE_LetterTextGenesImplanted>
+  <VRE_ForceGermlineImplantation>Forçar implante de linhagem germinativa</VRE_ForceGermlineImplantation>
+  <VRE_ForceGermlineImplantationDesc>Força esta pessoa a implantar sua linhagem germinativa em outro indivíduo através de um órgão injetor especial. Se os genes desta pessoa ainda estiverem se regenerando, ela morrerá no processo.\n\nAo ser implantada, a linhagem germinativa substituirá os endogenes do alvo. Xenogenes não serão afetados.</VRE_ForceGermlineImplantationDesc>
+  <VRE_MessageAbsorbingGermlineWillAngerFaction>Absorver a linhagem germinativa de {PAWN_nameDef} enfurecerá a facção {0}.</VRE_MessageAbsorbingGermlineWillAngerFaction>
+  <VRE_EndogeneLossShockPresent>{PAWN_nameDef} sofre de choque por perda de endogenes</VRE_EndogeneLossShockPresent>
+  <VRE_MessageTargetMustBeDownedToForceReimplant>{PAWN_nameDef} deve estar incapacitado(a) antes que você possa forçar o implante de sua linhagem germinativa.</VRE_MessageTargetMustBeDownedToForceReimplant>
+</LanguageData>

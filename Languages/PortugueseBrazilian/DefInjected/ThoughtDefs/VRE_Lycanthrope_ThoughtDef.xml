@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VRE_IntenseLightSensitivity.stages.light_sensitivity.label>sensibilidade intensa à luz</VRE_IntenseLightSensitivity.stages.light_sensitivity.label>
+  <VRE_IntenseLightSensitivity.stages.light_sensitivity.description>Há luz demais aqui, isso dói!</VRE_IntenseLightSensitivity.stages.light_sensitivity.description>
+  
+  <VRE_LightSensitivity.stages.light_sensitivity.label>sensibilidade à luz</VRE_LightSensitivity.stages.light_sensitivity.label>
+  <VRE_LightSensitivity.stages.light_sensitivity.description>A luz é desagradável e fere meus olhos.</VRE_LightSensitivity.stages.light_sensitivity.description>
+  
+  <VRE_Photophobia.stages.afraid_of_light.label>medo da luz</VRE_Photophobia.stages.afraid_of_light.label>
+  <VRE_Photophobia.stages.afraid_of_light.description>A luz me deixa tão nervoso. É como se ela me queimasse com sua intensidade!</VRE_Photophobia.stages.afraid_of_light.description>
+
+  <KilledPackMember.stages.killed_pack_member.label>matou membro da alcateia</KilledPackMember.stages.killed_pack_member.label>
+  
+  <LostPackMember.stages.pack_member_lost.label>membro da alcateia {0} perdido</LostPackMember.stages.pack_member_lost.label>
+  <LostPackMember.stages.pack_member_lost.description>Perdemos um membro valioso da alcateia. Será que eles conseguem sobreviver sem o seu grupo?</LostPackMember.stages.pack_member_lost.description>
+  
+  <PackMemberDied.stages.pack_member_died.label>membro da alcateia {0} morreu</PackMemberDied.stages.pack_member_died.label>
+  <PackMemberDied.stages.pack_member_died.description>Um membro da minha alcateia morreu. A alcateia está mais fraca.</PackMemberDied.stages.pack_member_died.description>
+  
+  <SoldPackMember.stages.pack_member_sold.label>membro da alcateia {0} vendido</SoldPackMember.stages.pack_member_sold.label>
+  <SoldPackMember.stages.pack_member_sold.description>Acabamos de vender um membro da alcateia. Podemos realmente nos considerar uma alcateia?</SoldPackMember.stages.pack_member_sold.description>
+  <SoldPackMember.stages.pack_member_sold.labelSocial>vendeu membro da alcateia</SoldPackMember.stages.pack_member_sold.labelSocial>
+  
+  <VRE_PackMentality.stages.pack_mentality.label>mentalidade de alcateia</VRE_PackMentality.stages.pack_mentality.label>
+  <VRE_PackMentality.stages.pack_mentality.description>Nossa alcateia está ficando mais forte. Quanto maior a alcateia, mais confortáveis nos sentimos.</VRE_PackMentality.stages.pack_mentality.description>
+  
+</LanguageData>

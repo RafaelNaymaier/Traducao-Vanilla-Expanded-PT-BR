@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VRE_GermlineReimplanter.label>reimplantador germinativo</VRE_GermlineReimplanter.label>
+  <VRE_GermlineReimplanter.description>Portadores deste gene podem implantar uma cópia de sua linhagem germinativa em outra pessoa através de um órgão injetor. Seu próprio material genético crescerá novamente de forma muito lenta. Se realizarem o implante enquanto seus genes ainda estiverem se regenerando, eles morrerão. Xenogenes não serão afetados.</VRE_GermlineReimplanter.description>
+  <VRE_GermlineReimplanter.labelShortAdj>reimplantador</VRE_GermlineReimplanter.labelShortAdj>
+  
+  <VRE_WarHowl.label>uivo de guerra</VRE_WarHowl.label>
+  <VRE_WarHowl.description>Portadores deste gene podem realizar um uivo de guerra feroz, usando um brado poderoso e uma conexão psíquica para convocar seus aliados a lutarem de forma mais agressiva.</VRE_WarHowl.description>
+  <VRE_WarHowl.customEffectDescriptions.0>Os efeitos do uivo de guerra acumulam até 10 vezes.</VRE_WarHowl.customEffectDescriptions.0>
+
+  <VRE_ChestFur.label>pelagem no peito</VRE_ChestFur.label>
+  <VRE_ChestFur.description>Portadores deste gene desenvolvem uma pelagem espessa em seus peitos.</VRE_ChestFur.description>
+
+  <VRE_SpeechInability.label>incapacidade de fala</VRE_SpeechInability.label>
+  <VRE_SpeechInability.description>Portadores deste gene perderam a capacidade de compreender e participar do ato de falar.</VRE_SpeechInability.description>
+
+  <VRE_CanineEars.label>orelhas caninas</VRE_CanineEars.label>
+  <VRE_CanineEars.description>Portadores deste gene desenvolvem orelhas semelhantes às de um lobo.</VRE_CanineEars.description>
+  
+  <VRE_CanineNose.label>nariz canino</VRE_CanineNose.label>
+  <VRE_CanineNose.description>Portadores deste gene possuem narizes semelhantes aos de um lobo.</VRE_CanineNose.description>
+  
+  <VRE_CanineTail.label>cauda de lobo</VRE_CanineTail.label>
+  <VRE_CanineTail.description>Portadores deste gene desenvolvem uma cauda de lobo que os ajuda levemente na movimentação.</VRE_CanineTail.description>
+  
+  <VRE_OnlySideburns.label>apenas costeletas</VRE_OnlySideburns.label>
+  <VRE_OnlySideburns.description>Portadores do sexo masculino deste gene apresentam um crescimento rápido de barba nas laterais do rosto.</VRE_OnlySideburns.description>
+
+  <VRE_SuperiorDarkVision.label>visão noturna superior</VRE_SuperiorDarkVision.label>
+  <VRE_SuperiorDarkVision.description>Portadores deste gene enxergam muito melhor em pouca luz do que em áreas bem iluminadas, e não são afetados por penalidades de humor relacionadas à escuridão. Eles possuem uma camada reflexiva atrás da retina que amplifica sua capacidade de ver no escuro.</VRE_SuperiorDarkVision.description>
+  <VRE_SuperiorDarkVision.symbolPack.prefixSymbols.0.symbol>escuro</VRE_SuperiorDarkVision.symbolPack.prefixSymbols.0.symbol>
+  <VRE_SuperiorDarkVision.symbolPack.prefixSymbols.1.symbol>noite</VRE_SuperiorDarkVision.symbolPack.prefixSymbols.1.symbol>
+  <VRE_SuperiorDarkVision.symbolPack.prefixSymbols.2.symbol>tenue</VRE_SuperiorDarkVision.symbolPack.prefixSymbols.2.symbol>
+  <VRE_SuperiorDarkVision.symbolPack.prefixSymbols.3.symbol>sombrio</VRE_SuperiorDarkVision.symbolPack.prefixSymbols.3.symbol>
+  <VRE_SuperiorDarkVision.symbolPack.prefixSymbols.4.symbol>turvo</VRE_SuperiorDarkVision.symbolPack.prefixSymbols.4.symbol>
+  <VRE_SuperiorDarkVision.symbolPack.prefixSymbols.5.symbol>profundo</VRE_SuperiorDarkVision.symbolPack.prefixSymbols.5.symbol>
+  <VRE_SuperiorDarkVision.symbolPack.prefixSymbols.6.symbol>umbra</VRE_SuperiorDarkVision.symbolPack.prefixSymbols.6.symbol>
+  <VRE_SuperiorDarkVision.symbolPack.suffixSymbols.0.symbol>sombra</VRE_SuperiorDarkVision.symbolPack.suffixSymbols.0.symbol>
+
+  <VRE_IntenseLightSensitivity.label>sensibilidade intensa à luz</VRE_IntenseLightSensitivity.label>
+  <VRE_IntenseLightSensitivity.description>Portadores deste gene possuem compostos biológicos em seus olhos que reagem perigosamente a fótons de luz. Eles são intensamente sensíveis a quaisquer fontes de luz.</VRE_IntenseLightSensitivity.description>
+  
+  <VRE_LightSensitivity.label>sensibilidade à luz</VRE_LightSensitivity.label>
+  <VRE_LightSensitivity.description>Portadores deste gene possuem compostos biológicos em seus olhos que reagem de forma dolorosa a fótons de luz. Eles são anormalmente sensíveis a quaisquer fontes de luz.</VRE_LightSensitivity.description>
+
+  <VRE_DodgeDisabled.label>esquiva desativada</VRE_DodgeDisabled.label>
+  <VRE_DodgeDisabled.description>Portadores deste gene são incapazes de se esquivar de ataques. A falta de percepção de combate faz com que sejam atingidos por cada golpe — mesmo aqueles que normalmente errariam.</VRE_DodgeDisabled.description>
+  
+  <VRE_ImprovedDodge.label>esquiva aprimorada</VRE_ImprovedDodge.label>
+  <VRE_ImprovedDodge.description>Portadores deste gene podem se esquivar de ataques com mais facilidade. Com uma percepção extra-capacitada, eles antecipam os ataques antes que aconteçam.</VRE_ImprovedDodge.description>
+  
+  <VRE_SuperiorDodge.label>esquiva superior</VRE_SuperiorDodge.label>
+  <VRE_SuperiorDodge.description>Portadores deste gene podem se esquivar de ataques com muita facilidade. Com uma percepção extra-capacitada, eles antecipam os ataques antes que aconteçam.</VRE_SuperiorDodge.description>
+
+  <VRE_Photophobia.label>fotofobia</VRE_Photophobia.label>
+  <VRE_Photophobia.description>Portadores deste gene possuem um medo intenso de luz. Quando qualquer fonte de luz está próxima, há uma chance de que sofram um colapso mental a qualquer momento.</VRE_Photophobia.description>
+
+  <VRE_PackMentality.label>mentalidade de alcateia</VRE_PackMentality.label>
+  <VRE_PackMentality.description>Portadores deste gene são capazes de formar comunidades muito unidas e tornam-se mais felizes quanto mais forte for a sua comunidade.</VRE_PackMentality.description>
+
+  <VRE_Territorial.label>territorialista</VRE_Territorial.label>
+  <VRE_Territorial.description>Portadores deste gene são extremamente territorialistas e se sentirão mais calmos em suas próprias terras, ao mesmo tempo em que ficarão cada vez mais inquietos ao saírem delas.</VRE_Territorial.description>
+
+  <VRE_Morphs_AdulthoodMorphing.label>morfose da vida adulta</VRE_Morphs_AdulthoodMorphing.label>
+  <VRE_Morphs_AdulthoodMorphing.description>Portadores deste gene passam por um processo de morfose ao atingirem a idade adulta. Ele não pode ser interrompido ou evitado. Eles nunca retornarão à forma original.</VRE_Morphs_AdulthoodMorphing.description>
+  
+  <VRE_Morphs_DamageMorphing.label>morfose por dano</VRE_Morphs_DamageMorphing.label>
+  <VRE_Morphs_DamageMorphing.description>Portadores deste gene passam por um processo de morfose quando gravemente feridos, e só retornarão à forma original quando estiverem quase totalmente regenerados.</VRE_Morphs_DamageMorphing.description>
+  
+  <VRE_Morphs_NocturnalMorphing.label>morfose noturna</VRE_Morphs_NocturnalMorphing.label>
+  <VRE_Morphs_NocturnalMorphing.description>Portadores deste gene passam por um processo de morfose todas as noites. Ele não pode ser interrompido ou evitado. Eles só retornarão à forma original ao amanhecer.</VRE_Morphs_NocturnalMorphing.description>
+  
+  <VRE_Morphs_RandomMorphing.label>morfose aleatória</VRE_Morphs_RandomMorphing.label>
+  <VRE_Morphs_RandomMorphing.description>Portadores deste gene passam por um processo de morfose aparentemente de forma aleatória. Ninguém sabe qual é a condição para a mudança, ou se ela pode ser controlada de alguma forma. A morfose ocorrerá em intervalos de tempo aleatórios.</VRE_Morphs_RandomMorphing.description>
+  
+  <VRE_Morphs_SeasonalMorphing.label>morfose sazonal</VRE_Morphs_SeasonalMorphing.label>
+  <VRE_Morphs_SeasonalMorphing.description>Portadores deste gene passam por um processo de morfose no dia 1º de Setembro e retornam à forma original no dia 1º de Abrimaio.</VRE_Morphs_SeasonalMorphing.description>
+
+  <VRE_Nocturnal.label>noturno</VRE_Nocturnal.label>
+  <VRE_Nocturnal.description>Portadores deste gene preferem trabalhar à noite. Eles ficam mais felizes se estiverem acordados durante a noite e infelizes se estiverem acordados durante o dia.</VRE_Nocturnal.description>
+
+  <VRE_MoveSpeed_ExtremelyQuick.label>corredor extremamente rápido</VRE_MoveSpeed_ExtremelyQuick.label>
+  <VRE_MoveSpeed_ExtremelyQuick.description>Portadores deste gene possuem um tipo especial de célula estimuladora de músculos que lhes permite mover-se em velocidades sobre-humanas.</VRE_MoveSpeed_ExtremelyQuick.description>
+  <VRE_MoveSpeed_ExtremelyQuick.customEffectDescriptions.0>O colono ignorará os custos de movimento do terreno</VRE_MoveSpeed_ExtremelyQuick.customEffectDescriptions.0>
+  <VRE_MoveSpeed_ExtremelyQuick.labelShortAdj>superveloz</VRE_MoveSpeed_ExtremelyQuick.labelShortAdj>
+  <VRE_MoveSpeed_ExtremelyQuick.symbolPack.prefixSymbols.0.symbol>veloz</VRE_MoveSpeed_ExtremelyQuick.symbolPack.prefixSymbols.0.symbol>
+  <VRE_MoveSpeed_ExtremelyQuick.symbolPack.prefixSymbols.1.symbol>rapido</VRE_MoveSpeed_ExtremelyQuick.symbolPack.prefixSymbols.1.symbol>
+  <VRE_MoveSpeed_ExtremelyQuick.symbolPack.prefixSymbols.2.symbol>ligeiro</VRE_MoveSpeed_ExtremelyQuick.symbolPack.prefixSymbols.2.symbol>
+  <VRE_MoveSpeed_ExtremelyQuick.symbolPack.prefixSymbols.3.symbol>agi</VRE_MoveSpeed_ExtremelyQuick.symbolPack.prefixSymbols.3.symbol>
+  <VRE_MoveSpeed_ExtremelyQuick.symbolPack.prefixSymbols.4.symbol>agil</VRE_MoveSpeed_ExtremelyQuick.symbolPack.prefixSymbols.4.symbol>
+  <VRE_MoveSpeed_ExtremelyQuick.symbolPack.prefixSymbols.5.symbol>celere</VRE_MoveSpeed_ExtremelyQuick.symbolPack.prefixSymbols.5.symbol>
+  <VRE_MoveSpeed_ExtremelyQuick.symbolPack.prefixSymbols.6.symbol>lampejo</VRE_MoveSpeed_ExtremelyQuick.symbolPack.prefixSymbols.6.symbol>
+  <VRE_MoveSpeed_ExtremelyQuick.symbolPack.suffixSymbols.0.symbol>raio</VRE_MoveSpeed_ExtremelyQuick.symbolPack.suffixSymbols.0.symbol>
+  <VRE_MoveSpeed_ExtremelyQuick.symbolPack.suffixSymbols.1.symbol>corredor</VRE_MoveSpeed_ExtremelyQuick.symbolPack.suffixSymbols.1.symbol>
+  <VRE_MoveSpeed_ExtremelyQuick.symbolPack.suffixSymbols.2.symbol>velocista</VRE_MoveSpeed_ExtremelyQuick.symbolPack.suffixSymbols.2.symbol>
+  <VRE_MoveSpeed_ExtremelyQuick.symbolPack.wholeNameSymbols.0.symbol>ligeirinho</VRE_MoveSpeed_ExtremelyQuick.symbolPack.wholeNameSymbols.0.symbol>
+  
+</LanguageData>
