@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Bed_CryptoBed.label>suspensor de criptosono</Bed_CryptoBed.label>
+  <Bed_CryptoBed.description>Um leito médico que utiliza criptosono parcial para retardar a degradação de ferimentos e ajudar o corpo a cicatrizar, embora apresente os mesmos efeitos colaterais do criptosono, ainda que com menor gravidade.</Bed_CryptoBed.description>
+  
+  <Bed_OperatingTable.label>mesa de operação</Bed_OperatingTable.label>
+  <Bed_OperatingTable.description>Uma mesa rústica repleta de instrumentos que supostamente facilitam a cirurgia, embora a limpeza da mesa seja questionável. Melhora ligeiramente os resultados médicos em comparação com camas normais.</Bed_OperatingTable.description>
+
+  <Facility_IVDrip.label>suporte de soro intravenoso</Facility_IVDrip.label>
+  <Facility_IVDrip.description>Um suporte de soro intravenoso para repor rapidamente fluidos perdidos em um paciente, auxiliando o sistema imunológico e a recuperação de perda de sangue quando colocado diretamente adjacente a uma cama hospitalar ou mesa cirúrgica. Funciona apenas para camas hospitalares ou mesas cirúrgicas - camas normais não se beneficiarão. Conectar mais de um suporte à mesma cama não terá efeito.</Facility_IVDrip.description>
+  
+  <Facility_ResearchCounter.label>balcão de pesquisa</Facility_ResearchCounter.label>
+  <Facility_ResearchCounter.description>Uma superfície esterilizada na altura da cintura para realizar pesquisas sensíveis. Oferece um pequeno bônus às bancadas de pesquisa próximas, além de ajudar a manter a área limpa. Acumula até 20 vezes.</Facility_ResearchCounter.description>
+  
+  <Facility_VitalsCentre.label>central de sinais vitais</Facility_VitalsCentre.label>
+  <Facility_VitalsCentre.description>Uma grande central para monitorar os sinais vitais de vários pacientes ao mesmo tempo, aumentando a qualidade do tratamento médico, a chance de sucesso cirúrgico e a velocidade de ganho de imunidade quando colocada nas proximidades de uma cama hospitalar ou mesa cirúrgica. Funciona apenas para camas hospitalares ou mesas cirúrgicas - camas normais não se beneficiarão.</Facility_VitalsCentre.description>
+
+  <VFEM_Wall_Sterile.label>parede estéril</VFEM_Wall_Sterile.label>
+  <VFEM_Wall_Sterile.description>Uma parede intransponível capaz de sustentar um telhado. Equipada com propriedades especiais que aumentam a limpeza para criar um ambiente estéril.</VFEM_Wall_Sterile.description>
+  
+</LanguageData>
