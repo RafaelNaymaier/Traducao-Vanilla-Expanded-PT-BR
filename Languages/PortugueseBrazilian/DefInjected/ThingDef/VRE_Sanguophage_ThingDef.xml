@@ -1,30 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <VRE_PsychofluidWell.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_PsychofluidWell.comps.CompRefuelable.fuelLabel>
-    
-    <VRE_Draincasket.comps.CompDraincasket.fuelGizmoLabel>Nutrição</VRE_Draincasket.comps.CompDraincasket.fuelGizmoLabel>
-    <VRE_Draincasket.comps.CompDraincasket.fuelLabel>Nutrição</VRE_Draincasket.comps.CompDraincasket.fuelLabel>
-    
-    <VRE_InvocationMatrix.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_InvocationMatrix.comps.CompRefuelable.fuelLabel>
-    
-    <VRE_HemodynamicAccelerator.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_HemodynamicAccelerator.comps.CompRefuelable.fuelLabel>
-    
-    <VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>
-    
-    <VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>
-    
-    <VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>
-    
     <VRE_HemogenPack_Animal.label>pacote de hemogênio (animal)</VRE_HemogenPack_Animal.label>
     <VRE_HemogenPack_Animal.description>Hemogênio animal. Aumenta a regeneração e as capacidades de combate do usuário, mas diminui drasticamente a capacidade de comunicação com os outros.</VRE_HemogenPack_Animal.description>
-
-    <!-- ID abaixo está com uma nota de erro, tive que fazer uma substituição forçada. -->
-    
-    <!-- <VRE_HemogenPack_Corpse.label>pacote de Hemogênio (cadáver)</VRE_HemogenPack_Corpse.label>
-    <VRE_HemogenPack_Corpse.description>Hemogênio contaminado e em decomposição, retirado de um cadáver. Enfraquece drasticamente o portador deste tipo de hemogênio, mas aumenta significativamente a filtração de sangue.</VRE_HemogenPack_Corpse.description> -->
     
     <VRE_HemogenPack_Sanguophage.label>pacote de hemogênio (sanguófago)</VRE_HemogenPack_Sanguophage.label>
     <VRE_HemogenPack_Sanguophage.description>Hemogênio puro e espesso de outro sugador de sangue. O mais raro de todos os hemogênios, oferece ao portador um poderoso impulso em todas as capacidades.</VRE_HemogenPack_Sanguophage.description>
+
+    <VRE_Proj_Goo.label>gosma</VRE_Proj_Goo.label>
+    <VRE_FilthGoo.label>gosma viscosa</VRE_FilthGoo.label>
+
+    <VRE_HemogenPipe.label>tubo de hemogênio</VRE_HemogenPipe.label>
+    <VRE_HemogenPipe.description>Um tubo usado para transportar hemogênio entre torneiras, drenos, tanques e estruturas alimentadas por hemogênio.</VRE_HemogenPipe.description>
+
+    <VRE_UndergroundHemogenPipe.label>tubo de hemogênio oculto</VRE_UndergroundHemogenPipe.label>
+    <VRE_UndergroundHemogenPipe.description>Tubos de aço ocultos projetados para transportar hemogênio entre torneiras, drenos, tanques e estruturas alimentadas por hemogênio.</VRE_UndergroundHemogenPipe.description>
+
+    <VRE_HemogenValve.label>válvula de hemogênio</VRE_HemogenValve.label>
+    <VRE_HemogenValve.description>Alterna o fluxo de hemogênio ligado/desligado.</VRE_HemogenValve.description>
+
+    <VRE_HemogenVat.label>tanque de hemogênio</VRE_HemogenVat.label>
+    <VRE_HemogenVat.description>Um tanque industrial de armazenamento de líquidos destinado a armazenar hemogênio entregue via rede de tubos de hemogênio. Tanques podem ser designados para serem drenados para hemogênio utilizável conforme necessário.</VRE_HemogenVat.description>
     
+    <VRE_HemogenTap.label>torneira de hemogênio</VRE_HemogenTap.label>
+    <VRE_HemogenTap.description>Uma bacia de armazenamento tipo funil destinada a dispensar hemogênio para uso posterior.</VRE_HemogenTap.description>
+
+    <VRE_HemogenDrain.label>dreno de hemogênio</VRE_HemogenDrain.label>
+    <VRE_HemogenDrain.description>Uma bacia de armazenamento tipo funil destinada a inserir hemogênio na rede, enchendo tanques conectados.</VRE_HemogenDrain.description>
+
+    <VRE_Draincasket.label>caixão de drenagem</VRE_Draincasket.label>
+    <VRE_Draincasket.description>Uma engenhoca sinistra projetada para extrair hemogênio de um indivíduo enquanto mantém sua força vital no mínimo essencial. Este caixão sombrio e ameaçador abriga seu ocupante em um estado crepuscular de existência com seu corpo lentamente drenado de precioso hemogênio. Preso ao caixão de drenagem, a sobrevivência do ocupante depende de ser alimentado regularmente, pois ele ainda pode morrer de fome.\n\nProduz pacotes de hemogênio por dia enquanto o ocupante tiver comida e o caixão esteja conectado a uma rede de hemogênio. A quantidade de pacotes de hemogênio depende da taxa de fome do ocupante — alguém com pior eficiência metabólica produzirá mais pacotes de hemogênio enquanto usa proporcionalmente mais nutrição para fazê-lo. Se privado de comida, o caixão eventualmente matará seu ocupante.</VRE_Draincasket.description>
+    <VRE_Draincasket.comps.CompDraincasket.fuelGizmoLabel>Nutrição</VRE_Draincasket.comps.CompDraincasket.fuelGizmoLabel>
+    <VRE_Draincasket.comps.CompDraincasket.fuelLabel>Nutrição</VRE_Draincasket.comps.CompDraincasket.fuelLabel>
+
+    <VRE_InvocationMatrix.label>matriz de invocação</VRE_InvocationMatrix.label>
+    <VRE_InvocationMatrix.description>Um dispositivo sofisticado que infunde habilidades raras e potentes de sanguófago em pessoas em descanso mortal, aproveitando a própria essência de sua natureza vampírica. Empregando um complexo sistema de condutos sanguíneos e ressonadores de essência, a matriz se conecta ao caixão de descanso mortal e canaliza a força vital de seu ocupante para desbloquear o potencial oculto dentro de sua linhagem sanguínea. Enquanto a pessoa dorme em seu estado de descanso mortal, a Matriz de Invocação concede a ela um poder único selecionado. Este edifício requer um suprimento constante de hemogênio para operar.</VRE_InvocationMatrix.description>
+    <VRE_InvocationMatrix.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_InvocationMatrix.comps.CompRefuelable.fuelLabel>
+
+    <VRE_HemodynamicAccelerator.label>acelerador hemodinâmico</VRE_HemodynamicAccelerator.label>
+    <VRE_HemodynamicAccelerator.description>Um dispositivo avançado projetado para acelerar o processo de Descanso Mortal ao custo do consumo de sangue. Exige um suprimento contínuo de hemogênio para alimentar sua poderosa operação.</VRE_HemodynamicAccelerator.description>
+    <VRE_HemodynamicAccelerator.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_HemodynamicAccelerator.comps.CompRefuelable.fuelLabel>
+
+    <VRE_HemogenSolidifier.label>solidificador de hemogênio</VRE_HemogenSolidifier.label>
+    <VRE_HemogenSolidifier.description>Um edifício exclusivo de descanso mortal que solidifica o hemogênio quando este passa pelo sistema. Isso permite que a pessoa em descanso mortal receba um impulso temporário na armadura assim que acordar. Este edifício requer um suprimento constante de hemogênio para operar.</VRE_HemogenSolidifier.description>
+    <VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_HemogenSolidifier.comps.CompRefuelable.fuelLabel>
+
+    <VRE_SmallHemogenAmplifier.label>pequeno amplificador de hemogênio</VRE_SmallHemogenAmplifier.label>
+    <VRE_SmallHemogenAmplifier.description>Uma pequena bomba de sangue em escala pessoal que é conectada a um caixão de descanso mortal. Ela força o hemogênio no corpo da pessoa em descanso mortal a se mover em um padrão específico, acelerando o processo natural de regeneração de hemogênio. Como efeito colateral, ela também força mais sangue da pessoa a fluir através do resto dos edifícios de descanso mortal, aumentando a potência de seus efeitos. Requer uma pequena quantidade de hemogênio para operar.</VRE_SmallHemogenAmplifier.description>
+    <VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_SmallHemogenAmplifier.comps.CompRefuelable.fuelLabel>
+
+    <VRE_SmallHemopump.label>pequena hemobomba</VRE_SmallHemopump.label>
+    <VRE_SmallHemopump.description>Esta pequena bomba de refino de sangue aumenta a quantidade de hemogênio que uma pessoa em Descanso Mortal pode armazenar em seu corpo. Requer hemogênio para operar.</VRE_SmallHemopump.description>
+    <VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_SmallHemopump.comps.CompRefuelable.fuelLabel>
+
+    <VRE_PsychofluidWell.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_PsychofluidWell.comps.CompRefuelable.fuelLabel>
+
 </LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VREA_Quest_AndroidJoins.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull], um androide desperto, está ligando das proximidades. [asker_pronoun] está sendo caçado por [enemyFaction_name]. Quando um androide vivencia um trauma emocional ou felicidade intensa, ele pode desenvolver senciência e personalidade. Apesar de serem sintéticos, androides despertos exibem comportamento humano e possuem sub-rotinas adaptáveis. Seus corpos artificiais concedem imunidade a doenças, mas eles exigem conforto e espaço pessoal. Eles se entregam a buscas humanas e se esforçam para se misturar à sociedade. Muitas sociedades não concordam com isso e preferem androides como servos, não iguais. O grupo de busca de [enemyFaction_pawnsPlural] é composto por: \n\n[raid/raidPawnKinds]\n\n[asker_nameFull] quer que você forneça abrigo em [map_definite]. Se aceitar, [asker_pronoun] chegará imediatamente, mas será seguido pelo grupo de busca que você precisará derrotar.\n\nAndroides são construtos sintéticos feitos pelo homem, com corpos de metal e neutroamina correndo em suas veias. Operados por um subnúcleo de persona, os androides são capazes de todos os mesmos tipos de trabalho que os humanos, sem as desvantagens normalmente associadas à vida orgânica.</li>
+  </VREA_Quest_AndroidJoins.questDescriptionRules.rulesStrings>
+
+  <VREA_Quest_AndroidJoins.questNameRules.rulesStrings>
+    <li>questName->o Androide [adjAny]</li>
+    <li>adjAny->Caçado</li>
+    <li>adjAny->Fugitivo</li>
+    <li>adjAny->Perseguido</li>
+    <li>adjAny->Emboscado</li>
+  </VREA_Quest_AndroidJoins.questNameRules.rulesStrings>
+
+  <VREA_Quest_AndroidJoins.root.nodes.PawnsArrive.customLetterText.slateRef>{BASETEXT}\n\nComo você aceitou [asker_nameDef], o bando de piratas perseguindo [asker_objective] chegará em breve.</VREA_Quest_AndroidJoins.root.nodes.PawnsArrive.customLetterText.slateRef>
+
+  <VREA_Quest_AndroidJoins.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>{BASELABEL}: Inimigos em perseguição</VREA_Quest_AndroidJoins.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>
+
+  <VREA_Quest_AndroidJoins.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>{BASETEXT}\n\nEstes são os inimigos que estavam caçando [../asker_nameFull].\n                </VREA_Quest_AndroidJoins.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>
+  
+</LanguageData>

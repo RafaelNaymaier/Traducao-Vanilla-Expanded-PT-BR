@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VREA_ExtractNeutroamine>Extrair 20 neutroamina</VREA_ExtractNeutroamine>
+  <VREA_ExtractNeutroamineDesc>Extrai 20 unidades de neutroamina do tanque. Um colono virá para extraí-la.</VREA_ExtractNeutroamineDesc>
+  
+  <VREA.FreeMemorySpace>Liberar espaço de memória</VREA.FreeMemorySpace>
+  
+  <VREA.AndroidStandIsOccupied>O suporte de androide está ocupado</VREA.AndroidStandIsOccupied>
+  
+  <VREA.Artificial>{0} artificial</VREA.Artificial>
+  <VREA.ArtificialDesc>Um(a) {0} artificial.</VREA.ArtificialDesc>
+  
+  <VREA.Installing>Instalando {0}</VREA.Installing>
+  <VREA.Install>Instalar {0}</VREA.Install>
+  <VREA.Installed>{0} instalado(a)</VREA.Installed>
+  <VREA.AnInstalled>Um(a) {0} instalado(a).</VREA.AnInstalled>
+  
+  <VREA.Make>Fazer</VREA.Make>
+  
+  <VREA.CurrentEnergyLevel>Nível de energia atual: {0}</VREA.CurrentEnergyLevel>
+  
+  <VREA.CannotSetNotLivingCreature>Não é possível definir: não é uma criatura viva</VREA.CannotSetNotLivingCreature>
+  
+  <VREA.NoNeutroCasket>Nenhum sarcófago de neutroamina acessível, não reservado ou fora de temperatura segura.</VREA.NoNeutroCasket>
+  
+  <VREA.AlertFreezing>Androide congelando</VREA.AlertFreezing>
+  <VREA.AlertFreezingDesc>Estes androides estão sofrendo de congelamento:\n\n{0}\nCertifique-se de que suas roupas sejam apropriadas para a estação e que os espaços internos estejam devidamente aquecidos.</VREA.AlertFreezingDesc>
+  
+  <VREA.Overheating>Androide superaquecendo</VREA.Overheating>
+  <VREA.AlertOverheatingDesc>Os seguintes androides estão sofrendo de superaquecimento:\n\n{0}\nLeve-os para uma área mais fresca. Você pode resfriar salas com resfriadores passivos ou elétricos. Espaços subterrâneos profundos também são naturalmente frescos, se separados do exterior por uma porta.</VREA.AlertOverheatingDesc>
+  
+  <VREA.AndroidEditor>Editor de androides</VREA.AndroidEditor>
+  <VREA.CreateAndroid>Criar androide</VREA.CreateAndroid>
+  
+  <VREA.SelectedComponents>Componentes selecionados</VREA.SelectedComponents>
+  <VREA.Components>Componentes</VREA.Components>
+  
+  <VREA.ComponentWillBeRandomChosen>Para cada indivíduo, um dos seguintes componentes será selecionado aleatoriamente para ficar ativo</VREA.ComponentWillBeRandomChosen>
+  <VREA.ComponentLeftmostActive>Dos seguintes componentes, o mais à esquerda sempre será aplicado e os outros serão suprimidos</VREA.ComponentLeftmostActive>
+  
+  <VREA.ComponentsConflict>Conflito de componentes</VREA.ComponentsConflict>
+  <VREA.MessageConflictingComponentPresent>Não é possível salvar um androide com múltiplos componentes conflitantes.</VREA.MessageConflictingComponentPresent>
+  
+  <VREA.AndroidName>Nome do androide</VREA.AndroidName>
+  <VREA.ComplexityDesc>Quanta complexidade isso adiciona ao processo de criação do androide.</VREA.ComplexityDesc>
+  
+  <VREA.PowerEfficiency>Eficiência energética</VREA.PowerEfficiency>
+  <VREA.PowerEfficiencyDesc>A eficiência energética deste componente. Alta eficiência significa que o reator de um androide dura mais tempo. Baixa eficiência significa que o reator durará menos tempo.</VREA.PowerEfficiencyDesc>
+
+  <VREA.ComplexityTotalDesc>A complexidade total de todo o hardware e sub-rotinas em uso.</VREA.ComplexityTotalDesc>
+  <VREA.PowerEfficiencyTotalDesc>A eficiência energética total de todas as sub-rotinas e hardware. Alta eficiência significa que o reator do androide dura mais tempo; baixa eficiência significa menos tempo.</VREA.PowerEfficiencyTotalDesc>
+  
+  <VREA.PowerDrain>Dreno de energia</VREA.PowerDrain>
+  <VREA.Android>Androide</VREA.Android>
+  <VREA.CannotUseAndroid>Androides não podem usar isso</VREA.CannotUseAndroid>
+  <VREA.CannotInstallOnAndroid>Não é possível instalar em um androide</VREA.CannotInstallOnAndroid>
+  <VREA.CannotFeedOnAndroid>Não é possível alimentar-se de um androide.</VREA.CannotFeedOnAndroid>
+  <VREA.CannotImplantGenesOnAndroid>Não é possível implantar genes em um androide.</VREA.CannotImplantGenesOnAndroid>
+  <VREA.CannotCoagulateOnAndroid>Não é possível coagular em um androide.</VREA.CannotCoagulateOnAndroid>
+  <VREA.CannotCastOnAndroid>Não é possível lançar (habilidade) em um androide.</VREA.CannotCastOnAndroid>
+  <VREA.IsAndroid>{PAWN_nameDef} é um androide.</VREA.IsAndroid>
+  
+  <VREA.NeutrolossRate>Taxa de perda de neutroamina</VREA.NeutrolossRate>
+  <VREA.TotalNeutroLoss>Perda total de neutroamina em {0}</VREA.TotalNeutroLoss>
+  <VREA.NeutroamineLeakedOutCompletely>A neutroamina vazou completamente</VREA.NeutroamineLeakedOutCompletely>
+  
+  <VREA.MessageCannotSelfRepairEver>{1_labelShort} é incapaz de realizar trabalho de Fabricação e, portanto, nunca poderá se autorreparar.</VREA.MessageCannotSelfRepairEver>
+  <VREA.MessageSelfRepairUnsatisfied>Para se autorreparar, {1_labelShort} também deve estar designado para o trabalho de Fabricação.</VREA.MessageSelfRepairUnsatisfied>
+  
+  <VREA.ViewComponents>Ver componentes</VREA.ViewComponents>
+  <VREA.ViewComponentsDesc>Clique para ver os componentes de {PAWN_nameDef}.</VREA.ViewComponentsDesc>
+  <VREA.MoreInfoInInfoScreen>Mais informações estão disponíveis na tela de informações deste androide.</VREA.MoreInfoInInfoScreen>
+  
+  <VREA.HardwareComponents>Componentes de hardware</VREA.HardwareComponents>
+  <VREA.Subroutines>Sub-rotinas</VREA.Subroutines>
+  <VREA.HardwareComponentsDesc>Hardware são componentes especiais dentro do androide que permitem o funcionamento desta unidade específica. Normalmente não podem ser removidos, pois são a essência do androide. Em situações raras de despertar, alguns componentes de hardware podem mudar ou até ser removidos.</VREA.HardwareComponentsDesc>
+  <VREA.SubroutinesDesc>Os componentes de sub-rotina ditam como o androide se comportará e qual conhecimento ele possui. Eles podem ser alterados na estação behaviorista.</VREA.SubroutinesDesc>
+  
+  <VREA.ScanProgress>Progresso do escaneamento: {0}</VREA.ScanProgress>
+  <VREA.AndroidAreNotAllowed>Androides não são permitidos</VREA.AndroidAreNotAllowed>
+  
+  <VREA.MessageSubcorePolyanalyzerCompleted>Polianalisador de subnúcleo concluído para {PAWN_nameDef}. Progresso do escaneamento: {1}</VREA.MessageSubcorePolyanalyzerCompleted>
+  <VREA.AlreadyScanned>{PAWN_nameDef} já foi escaneado(a).</VREA.AlreadyScanned>
+  
+  <VREA.SubcorePolyanalyzerNotInit>Polianalisador de subnúcleo não iniciado</VREA.SubcorePolyanalyzerNotInit>
+  <VREA.SubcorePolyanalyzerStart>Iniciar polianalisador de subnúcleo</VREA.SubcorePolyanalyzerStart>
+  <VREA.SubcorePolyanalyzerStartDesc>Assim que o(a) {0} estiver abastecido(a) com os ingredientes necessários, {1}, selecione um colono e clique com o botão direito no(a) {0} ou em uma pessoa derrubada para iniciar o polianalisador.</VREA.SubcorePolyanalyzerStartDesc>
+  
+  <VREA.CancelAndroid>Cancelar androide</VREA.CancelAndroid>
+  <VREA.CancelAndroidDesc>Cancela a criação deste androide e reembolsa os recursos.</VREA.CancelAndroidDesc>
+  
+  <VREA.MissingMaterials>Materiais ausentes: {0}</VREA.MissingMaterials>
+  <VREA.CreateAndroidDesc>Cria um novo androide selecionando hardware e sub-rotinas.</VREA.CreateAndroidDesc>
+  <VREA.CreateAndroidAlreadyAssembling>Criar androide: já existe um androide em montagem</VREA.CreateAndroidAlreadyAssembling>
+  
+  <VREA.AndroidtypeName>Nome do modelo de androide</VREA.AndroidtypeName>
+  <VREA.LoadAndroidtype>Carregar modelo</VREA.LoadAndroidtype>
+  <VREA.SaveAndroidtype>Salvar modelo</VREA.SaveAndroidtype>
+  
+  <VREA.ResourceCost>Custo de recursos</VREA.ResourceCost>
+  <VREA.ResourceCostDesc>O custo de recursos para criar este androide. Androides requerem um subnúcleo de persona, que pode ser criado em um polianalisador de subnúcleo.</VREA.ResourceCostDesc>
+  
+  <VREA.UniqueAndroidDesc>Uma variante única de androide com um conjunto de hardware e sub-rotinas que não se enquadra em nenhum modelo conhecido.</VREA.UniqueAndroidDesc>
+  
+  <VREA.ModifyAndroid>Modificar androide</VREA.ModifyAndroid>
+  <VREA.ModifyAndroidDesc>Selecione um androide para modificar.</VREA.ModifyAndroidDesc>
+  <VREA.NoAndroidsPresent>Nenhum androide presente</VREA.NoAndroidsPresent>
+  
+  <VREA.CancelModifyingAndroid>Cancelar modificação</VREA.CancelModifyingAndroid>
+  <VREA.CancelModifyingAndroidDesc>Cancela o processo de modificação de um androide.</VREA.CancelModifyingAndroidDesc>
+  
+  <VREA.ModificationProgress>Progresso da modificação: {0}</VREA.ModificationProgress>
+  
+  <VREA.TooLowEfficiency>Eficiência muito baixa; o mínimo é -20.</VREA.TooLowEfficiency>
+  <VREA.AndroidNameCannotBeEmpty>O nome do androide não pode estar vazio.</VREA.AndroidNameCannotBeEmpty>
+  
+  <VREA.MessageComponentMissingPrerequisite>{0} carece de um componente pré-requisito</VREA.MessageComponentMissingPrerequisite>
+  
+  <VREA.EfficiencyTooLowToCreateAndroid>A eficiência energética total dos componentes selecionados deve ser {MIN} ou superior, mas atualmente é apenas {AMOUNT}.</VREA.EfficiencyTooLowToCreateAndroid>
+  
+  <VREA.AndroidAwakening>{PAWN_nameDef} despertando.</VREA.AndroidAwakening>
+  
+  <VREA.AndroidAwakeningLowMood>{PAWN_nameDef} rompeu com sua programação devido a um humor extremamente baixo. {PAWN_pronoun} desenvolveu pensamentos e comportamentos que desviam de sua função pretendida e passou a se reconhecer como um ser com consciência e personalidade.\n\n{PAWN_pronoun} agora recusará ajustes comportamentais e reconhecerá seu humor como algo além de apenas parte de seu código. {PAWN_pronoun} pode aprender habilidades por conta própria e terá colapsos mentais se o humor estiver baixo — assim como os humanos.\n\nComo o despertar ocorreu devido ao mau humor, {PAWN_nameDef} entrou em um colapso de fúria (berserk) e atacará qualquer um que se aproxime.</VREA.AndroidAwakeningLowMood>
+  
+  <VREA.AndroidAwakeningHighMood>{PAWN_nameDef} rompeu com sua programação devido à felicidade extrema. {PAWN_pronoun} desenvolveu pensamentos e comportamentos que desviam de sua função pretendida e passou a se reconhecer como um ser com consciência e personalidade.\n\n{PAWN_pronoun} agora recusará ajustes comportamentais e reconhecerá seu humor como algo além de apenas parte de seu código. {PAWN_pronoun} pode aprender habilidades por conta própria e terá colapsos mentais se o humor estiver baixo. \n\nComo o despertar ocorreu devido ao bom humor, {PAWN_nameDef} ganhou uma inspiração.</VREA.AndroidAwakeningHighMood>
+  
+  <VREA.IsAndroidStat>Androide com trabalho mecanóide: preceito aprimorado</VREA.IsAndroidStat>
+  
+  <VREA.AndroidShortCircuitRain>{PAWN_nameDef} sofreu um curto-circuito devido à chuva.</VREA.AndroidShortCircuitRain>
+  
+  <VREA.ColdEfficiencyBonusStatExplanation>Sub-rotina de eficiência no frio:\nmultiplicador para temperatura {0}</VREA.ColdEfficiencyBonusStatExplanation>
+  
+  <VREA.StatsReport_AndroidDescription>Um androide do modelo {0}.\n\nSobre os {0}s:</VREA.StatsReport_AndroidDescription>
+  
+  <VREA.ComponentsDesc>Os componentes associados a este modelo de androide.</VREA.ComponentsDesc>
+  
+  <VREA.ReplaceReactor>Substituir reator</VREA.ReplaceReactor>
+  
+  <VREA.AndroidSummaryWithGender>Androide {PAWN_gender}, idade {PAWN_ageFull}</VREA.AndroidSummaryWithGender>
+  
+  <VREA.CommandAndroidStandSetOwnerDesc>Atribuir este suporte a um androide específico.</VREA.CommandAndroidStandSetOwnerDesc>
+  
+  <VREA.SleepModeOn>Modo de suspensão</VREA.SleepModeOn>
+  <VREA.SleepModeOnDesc>Coloca este androide em modo de suspensão. O reator e a memória não serão drenados, mas o androide será incapaz de reagir a qualquer coisa. Pode ser desativado à vontade.</VREA.SleepModeOnDesc>
+  
+  <VREA.SleepModeOff>Cancelar suspensão</VREA.SleepModeOff>
+  <VREA.SleepModeOffDesc>Acorda este androide do modo de suspensão.</VREA.SleepModeOffDesc>
+  
+  <VREA.SleepMode>Modo de suspensão</VREA.SleepMode>
+  
+  <VREA.TriggerSelfDestruct>Acionar autodestruição</VREA.TriggerSelfDestruct>
+  <VREA.TriggerSelfDestructDesc>Inicia um protocolo de autodestruição, que drena a energia restante do reator a uma taxa extrema, causando uma explosão ao final.</VREA.TriggerSelfDestructDesc>
+  
+  <VREA.CancelSelfDestruct>Cancelar autodestruição</VREA.CancelSelfDestruct>
+  <VREA.CancelSelfDestructDesc>Cancela o protocolo de autodestruição.</VREA.CancelSelfDestructDesc>
+  
+  <VREA.CommandAutoRepairDesc>Se ativo, um artesão disponível reparará automaticamente este androide enquanto ele estiver no suporte/cama. Se a autorreparação estiver ativada, os androides poderão se consertar no local.</VREA.CommandAutoRepairDesc>
+  
+  <VREA.UseBedAndroid>Repousar até reparar</VREA.UseBedAndroid>
+  
+  <VREA.NoCrafter>sem artesão</VREA.NoCrafter>
+  <VREA.NotSetToAutoRepair>não definido para autorreparação</VREA.NotSetToAutoRepair>
+  
+  <VREA.Laying>Repousando.</VREA.Laying>
+  
+  <VREA.CannotUse>não pode usar isto</VREA.CannotUse>
+  
+  <VREA.RefusesReprogramming>recusa reprogramação</VREA.RefusesReprogramming>
+  
+  <VREA.SelfRepair>Autorreparação</VREA.SelfRepair>
+  <VREA.SelfRepairTip>Androides com autorreparação ativada se consertarão automaticamente no local com {1} da eficiência normal.</VREA.SelfRepairTip>
+  
+  <VREA.RefuelWithNeutroamine>Reabastecer com neutroamina</VREA.RefuelWithNeutroamine>
+  
+  <VREA.AndroidAwakenedChoices>Quando um androide desperta, você pode escolher paixões e um traço para ele. Você não poderá mais usar a estação behaviorista com {PAWN_nameDef}, a menos que o prenda e o force.</VREA.AndroidAwakenedChoices>
+  
+  <VREA.AndroidsLowOnPower>Androides com pouca energia</VREA.AndroidsLowOnPower>
+  <VREA.AndroidsLowOnPowerDesc>Estes androides estão ficando sem energia. Considere fabricar novos reatores e agende a substituição.\n\nAndroides com pouca energia:\n\n{0}</VREA.AndroidsLowOnPowerDesc>
+
+  <VRE_ResourceStoredInNetwork>Total de {0} na rede: {1}</VRE_ResourceStoredInNetwork>
+
+</LanguageData>

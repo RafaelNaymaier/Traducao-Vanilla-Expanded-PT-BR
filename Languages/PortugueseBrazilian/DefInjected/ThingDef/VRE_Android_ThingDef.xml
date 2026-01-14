@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VREA_AndroidSleepMode.label>androide (modo de suspensão)</VREA_AndroidSleepMode.label>
+  
+  <VREA_AndroidStand.label>suporte de androide</VREA_AndroidStand.label>
+  <VREA_AndroidStand.description>Uma interface sem fio que permite a um androide liberar rapidamente o espaço de memória consumido. Consideravelmente mais eficiente do que operar em modo de suspensão, já que o suporte executa a conversão externamente.</VREA_AndroidStand.description>
+  
+  <VREA_AndroidStandSpot.label>local de suporte de androide</VREA_AndroidStandSpot.label>
+  <VREA_AndroidStandSpot.description>Designa um local no chão onde os androides devem ficar para liberar o espaço de memória consumido.</VREA_AndroidStandSpot.description>
+
+  <VREA_AndroidBehavioristStation.label>estação de modificação de androides</VREA_AndroidBehavioristStation.label>
+  <VREA_AndroidBehavioristStation.description>Uma estação de reprogramação usada para imbuir traços e habilidades desejáveis em um androide. O software de bordo permite que até mesmo iniciantes modifiquem a personalidade de um androide, no entanto, um usuário intelectualmente talentoso gastará menos tempo precisando seguir tutoriais.</VREA_AndroidBehavioristStation.description>
+  
+  <VREA_AndroidCreationStation.label>estação de criação de androides</VREA_AndroidCreationStation.label>
+  <VREA_AndroidCreationStation.description>Uma estação de fabricação capaz de montar um androide a partir de uma variedade de materiais e componentes avançados. A aparência do androide é quase completamente customizável, porém limitada a imitações de humanos padrões.\n\nDependendo da composição de hardware e sub-rotinas de um androide, o trabalho para criar um e os recursos necessários podem variar.</VREA_AndroidCreationStation.description>
+  
+  <VREA_AndroidPartWorkbench.label>bancada de peças de androide</VREA_AndroidPartWorkbench.label>
+  <VREA_AndroidPartWorkbench.description>Uma bancada equipada com tecnologia de impressão molecular para produzir peças de reposição singulares para formas de vida sintéticas.</VREA_AndroidPartWorkbench.description>
+  
+  <VREA_SubcorePolyanalyzer.label>polianalisador de subnúcleo</VREA_SubcorePolyanalyzer.label>
+  <VREA_SubcorePolyanalyzer.description>Um dispositivo de tamanho considerável que apresenta uma cápsula equipada com inúmeras sondas de tecido e scanners neurais avançados. Projetado para acomodar uma pessoa por vez, o sistema requer que quatro indivíduos separados passem pelo escaneamento em sequência. Ao serem inseridos, o polianalisador ativa as sondas e scanners para analisar os padrões neuro-psíquicos de cada indivíduo.\nUtilizando um algoritmo sofisticado, o dispositivo funde esses padrões distintos em uma única persona complexa após os quatro indivíduos terem sido escaneados. Esta persona composta é então transferida digitalmente para um novo subnúcleo de persona de nível composto. O processo pode causar desconforto temporário e desorientação para os participantes, mas os deixa ilesos. Subnúcleos de persona criados por este dispositivo só podem ser usados para criar androides complexos e semelhantes a humanos.</VREA_SubcorePolyanalyzer.description>
+
+  <VREA_NeutroCasket.label>sarcófago de neutroamina</VREA_NeutroCasket.label>
+  <VREA_NeutroCasket.description>Um sarcófago projetado especialmente para uso por androides passando por operações ou sofrendo de perda de neutroamina, pois pode ciclar e substituir qualquer neutroamina ausente. Deve haver neutroamina disponível, seja armazenada localmente ou obtida através de uma rede de tubulação.\n\nA quantidade máxima de neutroamina que um androide pode conter é 100 unidades, mas eles podem operar com funções mínimas a partir de 50 unidades.</VREA_NeutroCasket.description>
+  <VREA_NeutroCasket.comps.CompRefuelable.fuelGizmoLabel>Neutroamina</VREA_NeutroCasket.comps.CompRefuelable.fuelGizmoLabel>
+  <VREA_NeutroCasket.comps.CompRefuelable.fuelLabel>Neutroamina</VREA_NeutroCasket.comps.CompRefuelable.fuelLabel>
+  
+  <!-- Mote/Partícula -->
+  <VREA_ModifyingAndroid.label>Modificando androide</VREA_ModifyingAndroid.label>
+  <VREA_Filth_Neutroamine.label>neutroamina</VREA_Filth_Neutroamine.label>
+  
+  <VREA_Filth_NeutroamineSmear.label>mancha de neutroamina</VREA_Filth_NeutroamineSmear.label>
+
+  <VREA_UnfinishedHealthItemAndroid.label>parte de corpo de androide inacabada</VREA_UnfinishedHealthItemAndroid.label>
+  <VREA_UnfinishedHealthItemAndroid.description>Uma parte de corpo de androide inacabada.</VREA_UnfinishedHealthItemAndroid.description>
+
+  <VREA_AirFilter.label>filtro de ar</VREA_AirFilter.label>
+  <VREA_AirFilter.description>Um filtro de ar sintético para androides. Um par destes cria um sistema respiratório para androides.</VREA_AirFilter.description>
+  
+  <VREA_AndroidArm.label>braço de androide</VREA_AndroidArm.label>
+  <VREA_AndroidArm.description>Um braço sintético de androide.</VREA_AndroidArm.description>
+  
+  <VREA_AndroidFoot.label>pé de androide</VREA_AndroidFoot.label>
+  <VREA_AndroidFoot.description>Um pé sintético de androide.</VREA_AndroidFoot.description>
+  
+  <VREA_AndroidHand.label>mão de androide</VREA_AndroidHand.label>
+  <VREA_AndroidHand.description>Uma mão sintética de androide.</VREA_AndroidHand.description>
+  
+  <VREA_AndroidLeg.label>perna de androide</VREA_AndroidLeg.label>
+  <VREA_AndroidLeg.description>Uma perna sintética de androide.</VREA_AndroidLeg.description>
+  
+  <VREA_ArtificialJaw.label>mandíbula artificial</VREA_ArtificialJaw.label>
+  <VREA_ArtificialJaw.description>Uma mandíbula sintética de androide.</VREA_ArtificialJaw.description>
+  
+  <VREA_ArtificialNose.label>nariz artificial</VREA_ArtificialNose.label>
+  <VREA_ArtificialNose.description>Um nariz artificial sintético. Permite que o androide detecte cheiros.</VREA_ArtificialNose.description>
+  
+  <VREA_ArtificialRibcage.label>caixa torácica artificial</VREA_ArtificialRibcage.label>
+  <VREA_ArtificialRibcage.description>Uma caixa torácica sintética de androide.</VREA_ArtificialRibcage.description>
+  
+  <VREA_ArtificialSpine.label>coluna artificial</VREA_ArtificialSpine.label>
+  <VREA_ArtificialSpine.description>Uma coluna vertebral sintética de androide.</VREA_ArtificialSpine.description>
+  
+  <VREA_AudioProcessor.label>processador de áudio</VREA_AudioProcessor.label>
+  <VREA_AudioProcessor.description>Um processador de áudio sintético para androides. Permite que o androide ouça.</VREA_AudioProcessor.description>
+  
+  <VREA_MetabolismRegulator.label>regulador de metabolismo</VREA_MetabolismRegulator.label>
+  <VREA_MetabolismRegulator.description>Um regulador de metabolismo sintético para androides. Ajuda a manter a máxima eficiência energética.</VREA_MetabolismRegulator.description>
+  
+  <VREA_NeuroPump.label>neurobomba</VREA_NeuroPump.label>
+  <VREA_NeuroPump.description>Uma neurobomba sintética para androides. Distribui neutroamina por todos os subsistemas do androide.</VREA_NeuroPump.description>
+  
+  <VREA_Neutrofilter.label>filtro de neutroamina</VREA_Neutrofilter.label>
+  <VREA_Neutrofilter.description>Um filtro de neutroamina sintético para androides. Limpa e recicla a neutroamina gasta.</VREA_Neutrofilter.description>
+  
+  <VREA_OpticalUnit.label>unidade óptica</VREA_OpticalUnit.label>
+  <VREA_OpticalUnit.description>Uma unidade óptica sintética para androides. Permite que o androide enxergue.</VREA_OpticalUnit.description>
+  
+  <VREA_Reactor.label>reator</VREA_Reactor.label>
+  <VREA_Reactor.description>Um reator sintético de androide. Quando o reator estiver esgotado, ele precisará ser extraído e substituído.</VREA_Reactor.description>
+  
+  <VREA_SpentReactor.label>reator esgotado</VREA_SpentReactor.label>
+  <VREA_SpentReactor.description>Um reator sintético de androide esgotado. Um pedaço de lixo inútil.</VREA_SpentReactor.description>
+
+  <VREA_PersonaSubcore.label>subnúcleo de persona</VREA_PersonaSubcore.label>
+  <VREA_PersonaSubcore.description>Um cérebro de androide de alto nível, projetado como uma unidade de substrato psicodinâmico intrincada, capaz de sustentar uma subpersona avançada. Este subnúcleo foi desenvolvido para alimentar androides complexos e universais semelhantes a humanos. A subpersona contida neste núcleo equivale à de um humano vivo em complexidade, mas é especificamente programada para não sentir emoções e está confinada dentro do núcleo para evitar o desenvolvimento de uma IA plena.\nPara criar um subnúcleo tão sofisticado, os padrões compostos de múltiplas mentes são integrados usando algoritmos avançados e transferências analógicas precisas, sem causar danos aos indivíduos. O subnúcleo de Persona permanece como um testemunho da fusão do intelecto humano com a ultratecnologia de ponta.</VREA_PersonaSubcore.description>
+  
+  <VREA_UnfinishedAndroid.label>androide inacabado</VREA_UnfinishedAndroid.label>
+  <VREA_UnfinishedAndroid.description>Um androide inacabado.</VREA_UnfinishedAndroid.description>
+
+  <VREA_AndroidAwakenedGlow.label>partícula</VREA_AndroidAwakenedGlow.label>
+  
+  <VREA_AndroidAwakenedMote.label>partícula</VREA_AndroidAwakenedMote.label>
+  
+  <VREA_Mote_AndroidReformatting.label>partícula</VREA_Mote_AndroidReformatting.label>
+  
+  <VREA_SubcorePolyanalyzer_East.label>partícula</VREA_SubcorePolyanalyzer_East.label>
+  
+  <VREA_SubcorePolyanalyzer_North.label>partícula</VREA_SubcorePolyanalyzer_North.label>
+  
+  <VREA_SubcorePolyanalyzer_South.label>partícula</VREA_SubcorePolyanalyzer_South.label>
+  
+  <VREA_SubcorePolyanalyzer_West.label>partícula</VREA_SubcorePolyanalyzer_West.label>
+
+  <VREA_NeutroDrain.label>dreno de neutroamina</VREA_NeutroDrain.label>
+  <VREA_NeutroDrain.description>Uma bacia de armazenamento semelhante a um funil, destinada a inserir neutroamina na rede, enchendo os tanques conectados.</VREA_NeutroDrain.description>
+  
+  <VREA_NeutroPipe.label>tubo de neutroamina</VREA_NeutroPipe.label>
+  <VREA_NeutroPipe.description>Tubos leves e estéreis para transportar neutroamina líquida a granel de e para os tanques.</VREA_NeutroPipe.description>
+  
+  <VREA_NeutroTank.label>tanque de neutroamina</VREA_NeutroTank.label>
+  <VREA_NeutroTank.description>Um tanque de armazenamento de líquido leve e estéril, destinado a armazenar neutroamina fornecida através da rede de tubulação de neutroamina. Geralmente necessário para máquinas capazes de sintetizar formas de vida, que, de outra forma, consomem neutroamina demais para serem reabastecidas manualmente de forma viável.</VREA_NeutroTank.description>
+  
+  <VREA_NeutroTap.label>torneira de neutroamina</VREA_NeutroTap.label>
+  <VREA_NeutroTap.description>Uma bacia de armazenamento semelhante a um funil, destinada a reter a neutroamina dispensada dos tanques periodicamente para uso posterior.</VREA_NeutroTap.description>
+  
+  <VREA_SubterraneanNeutroPipe.label>tubo de neutroamina oculto</VREA_SubterraneanNeutroPipe.label>
+  <VREA_SubterraneanNeutroPipe.description>Tubos leves e estéreis para transportar neutroamina líquida a granel de e para os tanques. Este tubo fica oculto à vista. Mais caro de construir do que os tubos comuns.</VREA_SubterraneanNeutroPipe.description>
+
+
+</LanguageData>

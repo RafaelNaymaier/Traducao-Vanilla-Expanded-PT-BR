@@ -34,7 +34,7 @@
   <VRE_DetoxifierTubules.customEffectDescriptions.0>Imunidade a gás tóxico</VRE_DetoxifierTubules.customEffectDescriptions.0>
   
   <VRE_HardenedChitin.label>quitina endurecida</VRE_HardenedChitin.label>
-  <VRE_HardenedChitin.description>Os portadores deste gene possuem um exoesqueleto composto de quitina espessa e endurecida, sendo muito mais resistentes a danos e efeitos de abalo. Isso ocorre ao custo de uma leve redução na velocidade devido ao peso da carapaça.</VRE_HardenedChitin.description>
+  <VRE_HardenedChitin.description>Os portadores deste gene possuem um exoesqueleto composto de quitina espessa e endurecida, sendo muito mais resistentes a ferimentos e efeitos de abalo. Isso ocorre ao custo de uma leve redução na velocidade devido ao peso da carapaça.</VRE_HardenedChitin.description>
   
   <VRE_Heatshock.label>choque térmico</VRE_Heatshock.label>
   <VRE_Heatshock.description>Os portadores deste gene produzem um tipo especial de proteínas de choque térmico quando estão com calor, permitindo-lhes sobreviver até mesmo às temperaturas mais extremas, mas fazendo com que consumam muito mais nutrição.</VRE_Heatshock.description>
@@ -52,7 +52,7 @@
   <VRE_Hiveglands.symbolPack.wholeNameSymbols.1.symbol>construtóide</VRE_Hiveglands.symbolPack.wholeNameSymbols.1.symbol>
   
   <VRE_HypothermicSlowdown.label>lentidão hipotérmica</VRE_HypothermicSlowdown.label>
-  <VRE_HypothermicSlowdown.description>Os portadores deste gene não sofrem de hipotermia. Em vez disso, eles entram em lentidão hipotérmica — um estado biológico especial que lhes permite sobreviver ao frio extremo. Em vez de tentar manter o calor, a química corporal do portador se adapta para evitar o congelamento interno, apesar da temperatura muito baixa. As funções corporais desaceleram e as capacidades são reduzidas, mas o frio não causa danos permanentes.</VRE_HypothermicSlowdown.description>
+  <VRE_HypothermicSlowdown.description>Os portadores deste gene não sofrem de hipotermia. Em vez disso, eles entram em lentidão hipotérmica — um estado biológico especial que lhes permite sobreviver ao frio extremo. Em vez de tentar manter o calor, a química corporal do portador se adapta para evitar o congelamento interno, apesar da temperatura muito baixa. As funções corporais desaceleram e as capacidades são reduzidas, mas o frio não causa ferimentos permanentes.</VRE_HypothermicSlowdown.description>
   
   <VRE_InsectMandibles.label>mandíbulas de inseto</VRE_InsectMandibles.label>
   <VRE_InsectMandibles.description>Os portadores deste gene possuem mandíbulas de inseto muito fortes, permitindo-lhes consumir alimentos significativamente mais rápido. Eles também poderão usar estas mandíbulas em combate se estiverem desarmados.</VRE_InsectMandibles.description>
@@ -210,7 +210,7 @@
   <VRE_Dormant.description>Os portadores deste gene têm atividade e agressividade reduzidas e passam a maior parte do tempo em estado de dormência. O metabolismo de tal indivíduo também é reduzido, permitindo que consumam menos nutrição para se manterem vivos.</VRE_Dormant.description>
   
   <VRE_Heatstress.label>estresse térmico</VRE_Heatstress.label>
-  <VRE_Heatstress.description>Os portadores deste gene sofrem estresse térmico quando as temperaturas excedem a faixa ideal para seus processos fisiológicos. Isso pode levar a danos celulares, incluindo a desnaturação de proteínas, danos por queimadura e um medo severo de fogo. Eles perderão a consciência quando expostos ao calor extremo, mesmo que por um curto período.</VRE_Heatstress.description>
+  <VRE_Heatstress.description>Os portadores deste gene sofrem estresse térmico quando as temperaturas excedem a faixa ideal para seus processos fisiológicos. Isso pode levar a ferimentos celulares, incluindo a desnaturação de proteínas, ferimentos por queimadura e um medo severo de fogo. Eles perderão a consciência quando expostos ao calor extremo, mesmo que por um curto período.</VRE_Heatstress.description>
   
   <VRE_HypothermicHibernation.label>hibernação hipotérmica</VRE_HypothermicHibernation.label>
   <VRE_HypothermicHibernation.description>Os portadores deste gene entram em hibernação se suas temperaturas caírem abaixo de um certo ponto por muito tempo. Eles perderão rapidamente suas funções corporais e cairão em um sono profundo, o que previne qualquer tipo de dano por geladura (frostbite), mas também os torna incapazes de realizar qualquer ação.</VRE_HypothermicHibernation.description>
@@ -278,7 +278,7 @@
   <VRE_VocalChitters.symbolPack.wholeNameSymbols.0.symbol>estalido</VRE_VocalChitters.symbolPack.wholeNameSymbols.0.symbol>
   
   <VRE_WeakenedChitin.label>quitina enfraquecida</VRE_WeakenedChitin.label>
-  <VRE_WeakenedChitin.description>Os portadores deste gene possuem um exoesqueleto composto de quitina fina, porosa e quebradiça, sendo propensos a danos. O peso leve de sua carapaça, entretanto, permite uma velocidade de movimento ligeiramente mais rápida.</VRE_WeakenedChitin.description>
+  <VRE_WeakenedChitin.description>Os portadores deste gene possuem um exoesqueleto composto de quitina fina, porosa e quebradiça, sendo propensos a ferimentos. O peso leve de sua carapaça, entretanto, permite uma velocidade de movimento ligeiramente mais rápida.</VRE_WeakenedChitin.description>
 
   <VRE_InsectJellyDependency.label>dependência de geleia de inseto</VRE_InsectJellyDependency.label>
   <VRE_InsectJellyDependency.description>Os portadores deste gene precisam ingerir geleia de inseto regularmente para sobreviver. Após 5 dias sem geleia de inseto, os portadores sofrerão de deficiência de geleia de inseto. Após 30 dias, eles entrarão em coma. Após 60 dias, eles morrerão.</VRE_InsectJellyDependency.description>
