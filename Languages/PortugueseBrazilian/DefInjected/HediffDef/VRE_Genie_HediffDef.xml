@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VRE_AntibioticsAddiction.label>vício em antibióticos</VRE_AntibioticsAddiction.label>
+  <VRE_AntibioticsAddiction.description>Um vício químico em antibióticos. A presença de longo prazo de antibióticos causou adaptações neurológicas em nível celular, de modo que o cérebro não consegue mais funcionar adequadamente sem a droga.\n\nSem doses regulares de antibióticos, os sintomas de abstinência começarão. No entanto, a abstinência prolongada forçará o cérebro a se adaptar de volta ao seu estado normal, resolvendo o vício.</VRE_AntibioticsAddiction.description>
+  <VRE_AntibioticsAddiction.stages.withdrawal.label>abstinência</VRE_AntibioticsAddiction.stages.withdrawal.label>
+  
+  <VRE_AntibioticsHigh.label>antibióticos</VRE_AntibioticsHigh.label>
+  <VRE_AntibioticsHigh.description>Uma droga para fortalecer o sistema imunológico após o início de infecções. Ajuda contra doenças como malária e peste, bem como infecções causadas por ferimentos sujos. Dura 12 horas. O efeito é mais forte dependendo da gravidade dos genes de imunidade do usuário (mais forte para indivíduos menos imunes), e é modificado pela tolerância da pessoa à droga.</VRE_AntibioticsHigh.description>
+  
+  <VRE_AntibioticsHigh_NoImmunity.label>antibióticos</VRE_AntibioticsHigh_NoImmunity.label>
+  <VRE_AntibioticsHigh_NoImmunity.description>Uma droga para fortalecer o sistema imunológico após o início de infecções. Ajuda contra doenças como malária e peste, bem como infecções causadas por ferimentos sujos. Dura 12 horas. O efeito é mais forte dependendo da gravidade dos genes de imunidade do usuário (mais forte para indivíduos menos imunes), e é modificado pela tolerância da pessoa à droga.</VRE_AntibioticsHigh_NoImmunity.description>
+  
+  <VRE_AntibioticsHigh_VeryWeak.label>antibióticos</VRE_AntibioticsHigh_VeryWeak.label>
+  <VRE_AntibioticsHigh_VeryWeak.description>Uma droga para fortalecer o sistema imunológico após o início de infecções. Ajuda contra doenças como malária e peste, bem como infecções causadas por ferimentos sujos. Dura 12 horas. O efeito é mais forte dependendo da gravidade dos genes de imunidade do usuário (mais forte para indivíduos menos imunes), e é modificado pela tolerância da pessoa à droga.</VRE_AntibioticsHigh_VeryWeak.description>
+  
+  <VRE_AntibioticsHigh_Weak.label>antibióticos</VRE_AntibioticsHigh_Weak.label>
+  <VRE_AntibioticsHigh_Weak.description>Uma droga para fortalecer o sistema imunológico após o início de infecções. Ajuda contra doenças como malária e peste, bem como infecções causadas por ferimentos sujos. Dura 12 horas. O efeito é mais forte dependendo da gravidade dos genes de imunidade do usuário (mais forte para indivíduos menos imunes), e é modificado pela tolerância da pessoa à droga.</VRE_AntibioticsHigh_Weak.description>
+  
+  <VRE_AntibioticsTolerance.label>tolerância a antibióticos</VRE_AntibioticsTolerance.label>
+  <VRE_AntibioticsTolerance.description>Uma tolerância acumulada a antibióticos. Quanto mais severa for esta tolerância, mais antibióticos serão necessários para obter o mesmo efeito.</VRE_AntibioticsTolerance.description>
+  <VRE_AntibioticsTolerance.stages.small.label>pequena</VRE_AntibioticsTolerance.stages.small.label>
+  <VRE_AntibioticsTolerance.stages.large.label>grande</VRE_AntibioticsTolerance.stages.large.label>
+  <VRE_AntibioticsTolerance.stages.massive.label>massiva</VRE_AntibioticsTolerance.stages.massive.label>
+
+  <VRE_Hemophiliac.label>hemofilia</VRE_Hemophiliac.label>
+  <VRE_Hemophiliac.description>Um distúrbio hemorrágico que interrompe os fatores de coagulação no sangue, resultando em uma taxa de sangramento muito mais rápida quando ferido.</VRE_Hemophiliac.description>
+  
+</LanguageData>
