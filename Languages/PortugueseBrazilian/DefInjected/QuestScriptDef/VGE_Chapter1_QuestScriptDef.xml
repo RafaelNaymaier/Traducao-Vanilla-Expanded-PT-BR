@@ -2,127 +2,55 @@
 <LanguageData>
 
   <RefugeeBetrayal.questContentRules.rulesStrings>
-
-    <RefugeeBetrayal.questContentRules.rulesStrings>
-      <li>hospedesLabelSingularOuPlural(lodgerCount==1)->[lodgersLabel]</li>
-      <li>hospedesLabelSingularOuPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
-      <li>recompensaOfertaTraicaoRótuloCarta->Recompensa por Traição: [factionOpponent_nameDef]</li>
-      <li>recompensaOfertaTraicaoTextoCarta->[factionOpponent_nameDef] prometeu uma recompensa se
-        você
-        matasse [asker_nameDef] [otherMembers]. [factionOpponent_pronoun] soube que isso foi feito e
-        está enviando a você o seguinte via cápsula de desembarque (valor total
-        [betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
-      <li>recompensaOfertaFalhouPorqueRecrutadoRótuloCarta->Recompensa por Traição Retraída</li>
-      <li>recompensaOfertaFalhouPorqueRecrutadoTextoCarta->[asker_nameDef] se juntou aos
-        [asker_faction_name]. A oferta de [factionOpponent_nameDef] de uma recompensa pela cabeça de
-        [asker_nameDef] foi, portanto, revogada. Sua chance de uma recompensa passou.</li>
-      <li>recompensaOfertaFalhouPorqueMorreuRótuloCarta->Recompensa por Traição Retraída</li>
-      <li>recompensaOfertaFalhouPorqueMorreuTextoCarta->[asker_nameDef] foi morto(a) sem a sua
-        ajuda.
-        A oferta de [factionOpponent_nameDef] de uma recompensa pela cabeça de [asker_nameDef] foi,
-        portanto, revogada. Sua chance de uma recompensa passou.</li>
-      <li>traiçãoConcluídaRótuloCarta->Traição Concluída</li>
-      <li>traiçãoConcluídaTextoCarta->Você traiu [asker_nameDef] para [factionOpponent_nameDef].
-        [factionOpponent_nameDef] enviou a você o seguinte via cápsula de desembarque (valor total
-        [betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
-      <li>otherLodgers(lodgerCount>=3)->e vários [lodgersLabelPlural]</li>
-      <li>otherMembers(lodgerCount==1)-></li>
-      <li>otherMembers(lodgerCount>=2)->e todos os outros membros do [faction_name]</li>
-      <li>questOver->A missão '[resolvedQuestName]' terminou.</li>
-    </RefugeeBetrayal.questContentRules.rulesStrings>
-
-    <RefugeeBetrayal.questDescriptionRules.rulesStrings.0>
-      <li>introdução->[asker_nameDef], um [asker_title] [outrosHóspedes], está [estãoÉ] pedindo para
-        ficar com você por [durationTicks_duration].</li>
-    </RefugeeBetrayal.questDescriptionRules.rulesStrings.0>
-    <RefugeeBetrayal.questDescriptionRules.rulesStrings.1>
-      <li>introdução->[asker_nameDef], um [asker_title] [outrosHóspedes], está [estãoÉ] pedindo para
-        ficar com você por [durationTicks_duration].</li>
-    </RefugeeBetrayal.questDescriptionRules.rulesStrings.1>
-    <RefugeeBetrayal.questDescriptionRules.rulesStrings.2>
-      <li>detalhes->[asker_nameDef] [estãoÉ] sendo perseguido(a) por [factionOpponent_nameDef] e se
-        [refugee_pronoun] [estãoÉ] capturado(a), [refugee_pronoun] [estãoÉ] provavelmente ser
-        [asker_captured_verb].</li>
-    </RefugeeBetrayal.questDescriptionRules.rulesStrings.2>
-    <RefugeeBetrayal.questDescriptionRules.rulesStrings.3>
-      <li>outrosHóspedes(lodgerCount==1)-></li>
-    </RefugeeBetrayal.questDescriptionRules.rulesStrings.3>
-    <RefugeeBetrayal.questDescriptionRules.rulesStrings.4>
-      <li>outrosHóspedes(lodgerCount==2)->e outro [lodgersLabel]</li>
-    </RefugeeBetrayal.questDescriptionRules.rulesStrings.4>
-    <RefugeeBetrayal.questDescriptionRules.rulesStrings.5>
-      <li>outrosHóspedes(lodgerCount>=3)->e vários [lodgersLabelPlural]</li>
-    </RefugeeBetrayal.questDescriptionRules.rulesStrings.5>
-    <RefugeeBetrayal.questDescriptionRules.rulesStrings.6>
-      <li>outrosMembros(lodgerCount==1)-></li>
-    </RefugeeBetrayal.questDescriptionRules.rulesStrings.6>
-    <RefugeeBetrayal.questDescriptionRules.rulesStrings.7>
-      <li>outrosMembros(lodgerCount>=2)-> e todos os outros membros da [faction_name]</li>
-    </RefugeeBetrayal.questDescriptionRules.rulesStrings.7>
-    <RefugeeBetrayal.questDescriptionRules.rulesStrings.8>
-      <li>estãoÉ(lodgerCount==1)->está</li>
-    </RefugeeBetrayal.questDescriptionRules.rulesStrings.8>
-    <RefugeeBetrayal.questDescriptionRules.rulesStrings.9>
-      <li>estãoÉ(lodgerCount>=2)->estão</li>
-    </RefugeeBetrayal.questDescriptionRules.rulesStrings.9>
-
-    <RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings.0>
-      <li>lodgersLabel->refugiado</li>
-    </RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings.0>
-    <RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings.1>
-      <li>lodgersLabelPlural->refugiados</li>
-    </RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings.1>
-    <RefugeeBetrayal.questNameRules.rulesStrings.0>
-      <li>questName->Oferta de Traição: [factionOpponent_nameDef]</li>
-    </RefugeeBetrayal.questNameRules.rulesStrings.0>
-
-
-    <VGE_OpportunitySite_SolidCoreAsteroid.questNameRules.rulesStrings>
-      <li>questName->Asteroide de Núcleo Sólido de [resource]</li>
-    </VGE_OpportunitySite_SolidCoreAsteroid.questNameRules.rulesStrings>
-    <VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionRules.rulesStrings>
-      <li>questDescription->[discoveryMethod] a localização de um asteroide de núcleo sólido
-        orbitando
-        o planeta. Sua casca é de vacuíta densa, mas em seu interior reside um núcleo de [resource]
-        esperando para ser minerado.\n\nAsteroides como este geralmente permanecem no espaço
-        profundo,
-        mas este se desviou para a órbita baixa. É apenas uma questão de tempo até que outra pessoa
-        o
-        reivindique.\n\nVocê pode alcançar o asteroide com cápsulas de transporte, naves, ou uma
-        gravinave. Equipe seus Colonos com traje orbital suficiente antes de partir.</li>
-    </VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionRules.rulesStrings>
-    <VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionAndNameRules.rulesStrings>
-      <li>discoveryMethod->Você descobriu</li>
-    </VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionAndNameRules.rulesStrings>
-    <VGE_OpportunitySite_SolidCoreAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Você
-      descobriu</VGE_OpportunitySite_SolidCoreAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+    <li>hospedesLabelSingularOuPlural(lodgerCount==1)->[lodgersLabel]</li>
+    <li>hospedesLabelSingularOuPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
+    <li>recompensaOfertaTraicaoRótuloCarta->Recompensa por Traição: [factionOpponent_nameDef]</li>
+    <li>recompensaOfertaTraicaoTextoCarta->[factionOpponent_nameDef] prometeu uma recompensa se você matasse [asker_nameDef] [otherMembers]. [factionOpponent_pronoun] soube que isso foi feito e está enviando a você o seguinte via cápsula de carga (valor total [betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
+    <li>recompensaOfertaFalhouPorqueRecrutadoRótuloCarta->Recompensa por Traição Retirada</li>
+    <li>recompensaOfertaFalhouPorqueRecrutadoTextoCarta->[asker_nameDef] se juntou aos [asker_faction_name]. A oferta de [factionOpponent_nameDef] de uma recompensa pela cabeça de [asker_nameDef] foi, portanto, revogada. Sua chance de recompensa passou.</li>
+    <li>recompensaOfertaFalhouPorqueMorreuRótuloCarta->Recompensa por Traição Retirada</li>
+    <li>recompensaOfertaFalhouPorqueMorreuTextoCarta->[asker_nameDef] morreu sem a sua ajuda. A oferta de [factionOpponent_nameDef] de uma recompensa pela cabeça de [asker_nameDef] foi, portanto, revogada. Sua chance de recompensa passou.</li>
+    <li>traiçãoConcluídaRótuloCarta->Traição Concluída</li>
+    <li>traiçãoConcluídaTextoCarta->Você traiu [asker_nameDef] para [factionOpponent_nameDef]. [factionOpponent_nameDef] enviou a você o seguinte via cápsula de carga (valor total [betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
+    <li>otherLodgers(lodgerCount>=3)->e vários [lodgersLabelPlural]</li>
+    <li>otherMembers(lodgerCount==1)-></li>
+    <li>otherMembers(lodgerCount>=2)->e todos os outros membros de [faction_name]</li>
+    <li>questOver->A missão '[resolvedQuestName]' terminou.</li>
   </RefugeeBetrayal.questContentRules.rulesStrings>
 
+  <RefugeeBetrayal.questDescriptionRules.rulesStrings>
+    <li>introdução->[asker_nameDef], um [asker_title] [outrosHóspedes], [estãoÉ] pedindo para ficar com você por [durationTicks_duration].</li>
+    <li>detalhes->[asker_nameDef] [estãoÉ] sendo perseguido(a) por [factionOpponent_nameDef] e se for capturado(a), provavelmente será [asker_captured_verb].</li>
+    <li>outrosHóspedes(lodgerCount==1)-></li>
+    <li>outrosHóspedes(lodgerCount==2)->e outro [lodgersLabel]</li>
+    <li>outrosHóspedes(lodgerCount>=3)->e vários [lodgersLabelPlural]</li>
+    <li>outrosMembros(lodgerCount==1)-></li>
+    <li>outrosMembros(lodgerCount>=2)-> e todos os outros membros da [faction_name]</li>
+    <li>estãoÉ(lodgerCount==1)->está</li>
+    <li>estãoÉ(lodgerCount>=2)->estão</li>
+  </RefugeeBetrayal.questDescriptionRules.rulesStrings>
 
-  <VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionRules.rulesStrings.0>
-    <li>questDescription->[discoveryMethod] a localização de um asteroide de núcleo sólido orbitando
-      o planeta. Sua carapaça é de rocha a vácuo densa, mas em seu interior reside um núcleo de
-      [resource] esperando para ser extraído.\n\nAsteroides como este geralmente permanecem no
-      espaço profundo, mas este se desviou para a órbita baixa. É apenas uma questão de tempo até
-      que outra pessoa o reivindique.\n\nVocê pode alcançar o asteroide com cápsulas de transporte,
-      naves ou uma nave de gravidade. Equipe seus colonos com trajes orbitais suficientes antes de
-      partir.</li>
-  </VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionRules.rulesStrings.0>
+  <RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->refugiado</li>
+    <li>lodgersLabelPlural->refugiados</li>
+  </RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
 
-  <VGE_OpportunitySite_SolidCoreAsteroid.questNameRules.rulesStrings.0>
-    <li>questName->Asteroide de [resource] Sólido</li>
-  </VGE_OpportunitySite_SolidCoreAsteroid.questNameRules.rulesStrings.0>
+  <RefugeeBetrayal.questNameRules.rulesStrings>
+    <li>questName->Oferta de Traição: [factionOpponent_nameDef]</li>
+  </RefugeeBetrayal.questNameRules.rulesStrings>
 
-  <VGE_OpportunitySite_SolidCoreAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Você
-    descobriu</VGE_OpportunitySite_SolidCoreAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <VGE_OpportunitySite_SolidCoreAsteroid.questNameRules.rulesStrings>
+    <li>questName->Asteroide Sólido de [resource]</li>
+  </VGE_OpportunitySite_SolidCoreAsteroid.questNameRules.rulesStrings>
 
-    <VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionRules.rulesStrings>
-        <li>questDescription-> [discoveryMethod] a localização de um asteroide de núcleo sólido orbitando o planeta. Sua casca é de "vacstone" denso, mas dentro reside um núcleo de [resource] esperando para ser minerado.\n\nAsteroides como este geralmente permanecem no espaço profundo, mas este flutuou para a órbita baixa. É apenas uma questão de tempo até que outra pessoa o reivindique.\n\nVocê pode alcançar o asteroide com cápsulas de transporte, naves (shuttles) ou uma gravinave. Equipe seus colonos com vestimentas orbitais suficientes antes de partir.</li>
-    </VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionRules.rulesStrings>
-    
-    <VGE_OpportunitySite_SolidCoreAsteroid.questNameRules.rulesStrings>
-        <li>questName->Asteroide de [resource] Sólido</li>
-    </VGE_OpportunitySite_SolidCoreAsteroid.questNameRules.rulesStrings>
-    
-    <VGE_OpportunitySite_SolidCoreAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Você descobriu</VGE_OpportunitySite_SolidCoreAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] a localização de um asteroide de núcleo sólido orbitando o planeta. Sua carcaça é de vacuíta densa, mas em seu interior reside um núcleo de [resource] aguardando para ser minerado.\n\nAsteroides como este geralmente permanecem no espaço profundo, mas este entrou em órbita baixa. É apenas uma questão de tempo até que outra pessoa o reivindique.\n\nVocê pode chegar ao asteroide com cápsulas de transporte, naves de transporte ou uma nave gravitacional. Equipe seus colonos com vestimenta orbital adequada antes de partir.</li>
+  </VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionRules.rulesStrings>
+
+  <VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionAndNameRules.rulesStrings>
+    <li>discoveryMethod->Você descobriu</li>
+  </VGE_OpportunitySite_SolidCoreAsteroid.questDescriptionAndNameRules.rulesStrings>
+
+  <VGE_OpportunitySite_SolidCoreAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Você descobriu</VGE_OpportunitySite_SolidCoreAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+
 </LanguageData>
