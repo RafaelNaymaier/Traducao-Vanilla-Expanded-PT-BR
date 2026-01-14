@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFE_AdvancedBatteries.label>baterias avançadas</VFE_AdvancedBatteries.label>
+  <VFE_AdvancedBatteries.description>Construa baterias de tecnologia espacial, capazes de armazenar grandes quantidades de energia de forma eficiente.</VFE_AdvancedBatteries.description>
+  <VFE_AdvancedBatteries.generalRules.rulesStrings>
+    <li>subject->os capacitores do amanhã</li>
+    <li>subject_story->abriu novos caminhos no armazenamento de energia, com baterias que trazem a promessa do futuro</li>
+    <li>subject_story->criou soluções de armazenamento compactas e poderosas, aproveitando a tecnologia espacial para dar um salto em eficiência</li>
+    <li>subject_story->pioneirizou sistemas que protegem contra flutuações de energia, garantindo eletricidade para momentos críticos</li>
+    <li>subject_story->transformou a maneira como as civilizações armazenam e gerenciam sua energia, tornando a escassez de energia uma história do passado</li>
+    <li>subject_gerund->armazenando o pulso do progresso em baterias avançadas</li>
+  </VFE_AdvancedBatteries.generalRules.rulesStrings>
+  
+  <VFE_AdvancedPowerSources.label>fontes de energia avançadas</VFE_AdvancedPowerSources.label>
+  <VFE_AdvancedPowerSources.description>Construa geradores de energia limpa de tecnologia espacial, incluindo painéis solares e turbinas de vento avançadas.</VFE_AdvancedPowerSources.description>
+  <VFE_AdvancedPowerSources.generalRules.rulesStrings>
+    <li>subject->colhendo os elementos</li>
+    <li>subject_story->aproveitou o poder do sol e do vento com eficiência sem precedentes, através de painéis solares e turbinas avançadas</li>
+    <li>subject_story->elevou as tecnologias de energia limpa a novos patamares, combinando sustentabilidade com alto desempenho</li>
+    <li>subject_story->iniciou uma revolução verde na produção de energia, reduzindo a dependência de recursos finitos</li>
+    <li>subject_story->integrou tecnologias inteligentes para otimizar a captura e utilização de energia, mesmo nos ambientes mais desafiadores</li>
+    <li>subject_gerund->liderando a marcha rumo a um futuro sustentável com energia limpa</li>
+  </VFE_AdvancedPowerSources.generalRules.rulesStrings>
+  
+  <VFE_IndustrialGenerators.label>geradores industriais</VFE_IndustrialGenerators.label>
+  <VFE_IndustrialGenerators.description>Construa geradores de nível industrial, capazes de armazenar significativamente mais combustível e produzir mais energia.</VFE_IndustrialGenerators.description>
+  <VFE_IndustrialGenerators.generalRules.rulesStrings>
+    <li>subject->a era da energia industrial</li>
+    <li>subject_story->introduziu soluções robustas para atender às crescentes demandas de energia de indústrias em expansão</li>
+    <li>subject_story->desenvolveu geradores com eficiência de combustível e potência inigualáveis, alimentando as máquinas do progresso</li>
+    <li>subject_story->superou as limitações das fontes de energia anteriores, preparando o palco para uma era de expansão e invenção</li>
+    <li>subject_story->projetou durabilidade e confiabilidade em cada unidade, garantindo que as engrenagens da indústria nunca parem</li>
+    <li>subject_gerund->abastecendo a revolução industrial com geração de energia avançada</li>
+  </VFE_IndustrialGenerators.generalRules.rulesStrings>
+  
+  <VFE_NuclearPower.label>energia nuclear</VFE_NuclearPower.label>
+  <VFE_NuclearPower.description>O método definitivo de geração de energia, a energia nuclear é tão eficiente quanto é mortal.</VFE_NuclearPower.description>
+  <VFE_NuclearPower.generalRules.rulesStrings>
+    <li>subject->a fronteira atômica</li>
+    <li>subject_story->desbloqueou o coração do átomo, liberando uma torrente de energia suficiente para iluminar cidades e mover as máquinas da indústria</li>
+    <li>subject_story->equilibrou o potencial imenso com protocolos de segurança rigorosos, garantindo que o benefício da energia nuclear não fosse ofuscado por seus riscos</li>
+    <li>subject_story->catalisou uma mudança na geração de energia, onde o zumbido silencioso do átomo sustenta a vida agitada das civilizações</li>
+    <li>subject_story->liderou uma maravilha científica e de engenharia, tornando a energia nuclear a pedra angular de uma nova era de suficiência energética</li>
+    <li>subject_gerund->abraçando o núcleo do progresso com a energia nuclear</li>
+  </VFE_NuclearPower.generalRules.rulesStrings>
+  
+  <VFE_TidalPower.label>energia de marés</VFE_TidalPower.label>
+  <VFE_TidalPower.description>Construa geradores de maré na água para produzir um grande volume de energia limpa e sustentável.</VFE_TidalPower.description>
+  <VFE_TidalPower.generalRules.rulesStrings>
+    <li>subject->o ritmo dos mares</li>
+    <li>subject_story->explorou o movimento incessante dos oceanos, convertendo as marés em uma fonte de energia vasta e interminável</li>
+    <li>subject_story->inou com turbinas subaquáticas que dançam com as correntes, gerando energia limpa em harmonia com a natureza</li>
+    <li>subject_story->superou os desafios da geração de energia marinha, protegendo os ecossistemas enquanto aproveitava sua força</li>
+    <li>subject_story->demonstrou o potencial do maior recurso renovável do planeta, liderando pelo exemplo na busca pela sustentabilidade</li>
+    <li>subject_gerund->sincronizando o batimento cardíaco da civilização com as marés</li>
+  </VFE_TidalPower.generalRules.rulesStrings>
+  
+</LanguageData>

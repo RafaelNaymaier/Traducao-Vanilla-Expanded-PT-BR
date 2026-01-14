@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VPE_PipesNotConnected>Tubos não conectados ao gerador ou tanques</VPE_PipesNotConnected>
+  <VPE_PipeConnectedRateStored>Excesso/armazenado na rede: {0} ml / {1} ml-d</VPE_PipeConnectedRateStored>
+  <VPE_LiquidTankStored>Gás armazenado</VPE_LiquidTankStored>
+  <VPE_LiquidTankEfficiency>Eficiência do tanque</VPE_LiquidTankEfficiency>
+  <VPE_TankLeakage>Vazamento mínimo do selante</VPE_TankLeakage>
+  <VPE_NutrientNeeded>Gás necessário</VPE_NutrientNeeded>
+  <VPE_LiquidOutput>Saída de gás</VPE_LiquidOutput>
+  <VPE_MustPlaceOnGasGeyser>Esta construção deve ser colocada em cima de um gêiser de gás helixien</VPE_MustPlaceOnGasGeyser>
+  <VPE_PlugHole>Tapar buraco</VPE_PlugHole>
+  <VPE_PlugHoleDesc>Tapar o buraco com terra. AVISO: isso destruirá o gêiser ou poço. Só faça isso se não for mais utilizável ou se precisar do espaço.</VPE_PlugHoleDesc>
+  <VPE_CancelPlugHole>Cancelar tapar buraco</VPE_CancelPlugHole>
+  <VPE_CancelPlugHoleDesc>Cancela o trabalho de tapar o buraco.</VPE_CancelPlugHoleDesc>
+  <VPE_MustPlaceAdjacentToPipe>Construções movidas a gás devem ser colocadas adjacentes aos tubos de gás, não em cima</VPE_MustPlaceAdjacentToPipe>
+  <VPE_DeconstructGasPipes>Desconstruir Rede de Gás</VPE_DeconstructGasPipes>
+  <VPE_DeconstructGasPipesDesc>Desconstrói apenas tubos de gás e tubos de gás subterrâneos</VPE_DeconstructGasPipesDesc>
+  <VPE_DisableGasPathCalculations>Desativar cálculos de caminho de gás Helixien (use para reduzir lag)</VPE_DisableGasPathCalculations>
+
+  <Fluffy.GasNetwork.GasNetworkInspectString>Excesso de gás (armazenado) na rede: {0} ({1})</Fluffy.GasNetwork.GasNetworkInspectString>
+  <Fluffy.GasNetwork.Stored>Gás armazenado: {0}/{1}</Fluffy.GasNetwork.Stored>
+  <Fluffy.GasNetwork.Production>Gás produzido: {0}</Fluffy.GasNetwork.Production>
+  <Fluffy.GasNetwork.Consumption>Gás consumido: {0}</Fluffy.GasNetwork.Consumption>
+  <Fluffy.GasNetwork.GasOff>Gás desligado.</Fluffy.GasNetwork.GasOff>
+  <Fluffy.GasNetwork.NoNetwork>Não conectado à rede de gás.</Fluffy.GasNetwork.NoNetwork>
+  <Fluffy.GasNetwork.ValveOpen>A válvula está aberta.</Fluffy.GasNetwork.ValveOpen>
+  <Fluffy.GasNetwork.ValveClosed>A válvula está fechada.</Fluffy.GasNetwork.ValveClosed>
+  <Fluffy.GasNetwork.CommandToggleGas.Label>Alternar fluxo de gás</Fluffy.GasNetwork.CommandToggleGas.Label>
+  <Fluffy.GasNetwork.CommandToggleGas.Desc>Designa o fluxo de gás para ser ligado ou desligado. Um colono virá em breve para acionar o interruptor.</Fluffy.GasNetwork.CommandToggleGas.Desc>
+  <Fluffy.GasNetwork.DesiredBuffer>Armazenamento de gás alvo: {0}/{1}</Fluffy.GasNetwork.DesiredBuffer>
+  <Fluffy.GasNetwork.BufferOff>Armazenamento de gás desligado.</Fluffy.GasNetwork.BufferOff>
+
+  <Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>Unidade preferida de velocidade do vento</Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>
+  <Fluffy.GasNetwork.Settings.Wind.Category>Simulação de Vento</Fluffy.GasNetwork.Settings.Wind.Category>
+
+  <VPE_RadiationProduced>Aviso: Reator produzindo radiação em um raio de {0} metros</VPE_RadiationProduced>
+  <VPE_TempInReactorRoom>Temperatura na sala do reator: {0}ºC</VPE_TempInReactorRoom>
+  <VPE_TempInReactorRoomCritical>Aviso: Temperatura na sala do reator: {0}ºC</VPE_TempInReactorRoomCritical>
+  <VPE_Meltdown>Aviso: Derretimento devido à alta temperatura. Até ser reparado, o reator matará toda a vida em um raio de</VPE_Meltdown>
+  <VPE_MeltdownLetterLabel>Derretimento do Reator</VPE_MeltdownLetterLabel>
+  <VPE_MeltdownLetter>Um derretimento parcial do reator ocorreu devido à alta temperatura na sala do reator! Até que seja reparado, este reator será extremamente prejudicial à vida em um raio estendido.\n\nIgnorar isso pode muito bem ser o fim de sua colônia em poucas horas.</VPE_MeltdownLetter>
+  <VPE_NoReactorRoom>A sala do reator deve ser um espaço fechado e telhado</VPE_NoReactorRoom>
+
+  <VPE_MustPlaceRoofed>Esta construção precisa ser colocada em uma área interna e telhada</VPE_MustPlaceRoofed>
+
+  <VPE_SoulsTime>Almas armazenadas para: </VPE_SoulsTime>
+  <VPE_Producing>Produzindo {0} W de eletricidade</VPE_Producing>
+  <VPE_NotProducing>Nenhuma alma absorvida. Os Deuses Máquina têm fome de almas humanas.</VPE_NotProducing>
+  <VPE_ToggleViolenceGenerator>Alternar Gerador</VPE_ToggleViolenceGenerator>
+  <VPE_ToggleViolenceGeneratorDesc>Alterna o gerador entre um estado ativo e inativo</VPE_ToggleViolenceGeneratorDesc>
+  <VPE_GeneratorIsOff>O gerador de violência está desligado e inativo no momento</VPE_GeneratorIsOff>
+
+  <VPE_LightningTime>Energia de relâmpago armazenada para: </VPE_LightningTime>
+  <VPE_NotLightningProducing>Eletricidade de relâmpago esgotada. Parece que você terá que esperar pela próxima tempestade.</VPE_NotLightningProducing>
+
+  <VPE_AGasPipe>um tubo de gás</VPE_AGasPipe>
+  <VPE_GasExplosion>Uma falha em {0} causou uma explosão de gás.</VPE_GasExplosion>
+  <VPE_GasExplosionStartedFire>Uma falha em {0} causou uma explosão de gás que iniciou um incêndio.</VPE_GasExplosionStartedFire>
+  <VPE_GasExplosionLostGas>Todos os {0} l-d de gás nos tanques conectados foram descarregados em uma explosão violenta.</VPE_GasExplosionLostGas>
+  <VPE_GasExplosionLWasLarge>Esta grande quantidade de gás criou uma explosão de tamanho considerável.</VPE_GasExplosionLWasLarge>
+  <VPE_GasExplosionLWasHuge>Esta é realmente uma explosão enorme. Uau.</VPE_GasExplosionLWasHuge>
+  <VPE_LetterLabelGasExplosion>Kaboom!</VPE_LetterLabelGasExplosion>
+
+  <VPE_PondHasFuel>Este poço de combustível químico tem {0} unidades restantes</VPE_PondHasFuel>
+  <VPE_PondNoFuel>Este poço de combustível químico está esgotado</VPE_PondNoFuel>
+  <VPE_MustPlaceOnChemfuelPond>A bomba de combustível químico precisa ser construída sobre um poço de combustível químico</VPE_MustPlaceOnChemfuelPond>
+  <VPE_PumpProducing>A bomba produzirá {0} unidades de combustível químico em {1}</VPE_PumpProducing>
+
+  <VPE_NeedsWater>Esta usina deve ser construída na água</VPE_NeedsWater>
+  <VPE_NeedsDistance>Usinas de maré devem ser construídas com pelo menos 40 ladrilhos de separação uma da outra</VPE_NeedsDistance>
+
+  <VPE_GasUpdateNoticeLetterLabel>Atualização do Mod de Energia</VPE_GasUpdateNoticeLetterLabel>
+  <VPE_GasUpdateNoticeLetterText>O mod Vanilla Furniture Expanded: Power foi atualizado com uma mudança muito importante em relação à Rede de Gás Helixien.\n\nO código original foi feito por mim (Sarg Bjornson) e era bastante descuidado, causando muitos bugs. Graças ao incrível Fluffy, todo o código da rede de gás foi reescrito e deve funcionar perfeitamente agora.\n\nNOTA: como a maioria das classes que controlam a Rede de Gás mudou, você deve refazer quaisquer componentes da rede de gás que tenha em um salvamento existente. Você pode substituir as construções sem custo acessando o modo dev e ligando o "God mode". Então, simplesmente desconstrua sua rede de gás atual (com todos os objetos baseados em gás) e substitua-a gratuitamente.</VPE_GasUpdateNoticeLetterText>
+
+  <VPE_Reset>Redefinir</VPE_Reset>
+  <VPE_NuclearPlantHeader>Usina Nuclear</VPE_NuclearPlantHeader>
+  <VPE_NuclearPlantMultiplier>Multiplicador de saída da usina nuclear</VPE_NuclearPlantMultiplier>
+  <VPE_NuclearPlantMultiplierTooltip>A quantidade de energia produzida por uma usina nuclear será multiplicada por este valor.</VPE_NuclearPlantMultiplierTooltip>
+  <VPE_NuclearPlantRadiationMultiplier>Multiplicador do raio de radiação</VPE_NuclearPlantRadiationMultiplier>
+  <VPE_NuclearPlantRadiationMultiplierTooltip>O raio da radiação produzida pela usina nuclear se o combustível estiver acima de 50% ou se estiver em derretimento será multiplicado por este valor.</VPE_NuclearPlantRadiationMultiplierTooltip>
+  <VPE_DisableNuclearMeltdowns>Desativar Derretimentos Nucleares</VPE_DisableNuclearMeltdowns>
+  <VPE_DisableNuclearMeltdownsDesc>Se ativado, as usinas nucleares nunca sofrerão derretimento, mesmo atingindo a temperatura crítica.</VPE_DisableNuclearMeltdownsDesc>
+
+  <VPE_SolarHeader>Solar Avançado</VPE_SolarHeader>
+  <VPE_AdvSolarOutputMultiplier>Multiplicador de saída Solar Avanç.</VPE_AdvSolarOutputMultiplier>
+  <VPE_AdvSolarOutputMultiplierTooltip>A quantidade de energia produzida por um gerador solar avançado será multiplicada por este valor.</VPE_AdvSolarOutputMultiplierTooltip>
+
+  <VPE_SoulHeader>Gerador de violência arquitecnológico</VPE_SoulHeader>
+  <VPE_SoulMultiplier>Horas de energia por cadáver consumido</VPE_SoulMultiplier>
+  <VPE_SoulMultiplierTooltip>Por padrão, cada cadáver consumido pelo reator produz 2 horas de energia. Isso será multiplicado por este fator.</VPE_SoulMultiplierTooltip>
+
+  <VPE_TidalHeader>Gerador de maré</VPE_TidalHeader>
+  <VPE_TidalMultiplier>Multiplicador de saída do gerador de maré</VPE_TidalMultiplier>
+  <VPE_TidalMultiplierTooltip>A quantidade de energia produzida por um gerador de maré será multiplicada por este valor.</VPE_TidalMultiplierTooltip>
+  <VPE_TidalSeparation>Separação do gerador de maré</VPE_TidalSeparation>
+  <VPE_TidalSeparationTooltip>Por padrão, os geradores de maré precisam de 40 ladrilhos entre eles, mas isso pode ser alterado com esta configuração.</VPE_TidalSeparationTooltip>
+
+  <VPE_WindmillHeader>Turbina de vento avançada</VPE_WindmillHeader>
+  <VPE_AdvWindmillOutputMultiplier>Multiplicador de saída da turbina de vento avançada</VPE_AdvWindmillOutputMultiplier>
+  <VPE_AdvWindmillOutputMultiplierTooltip>A quantidade de energia produzida por uma turbina de vento avançada será multiplicada por este valor.</VPE_AdvWindmillOutputMultiplierTooltip>
+
+  <VPE_WatermillHeader>Gerador de moinho avançado</VPE_WatermillHeader>
+  <VPE_AdvWatermillOutputMultiplier>Multiplicador de saída do gerador de moinho avançado</VPE_AdvWatermillOutputMultiplier>
+  <VPE_AdvWatermillOutputMultiplierTooltip>A quantidade de energia produzida por um gerador de moinho avançado será multiplicada por este valor.</VPE_AdvWatermillOutputMultiplierTooltip>
+
+  <VPE_AdvGeoHeader>Gerador geotérmico avançado</VPE_AdvGeoHeader>
+  <VPE_AdvGeoOutputMultiplier>Multiplicador de saída do gerador geotérmico avançado</VPE_AdvGeoOutputMultiplier>
+  <VPE_AdvGeoOutputMultiplierTooltip>A quantidade de energia produzida por um gerador geotérmico avançado será multiplicada por este valor.</VPE_AdvGeoOutputMultiplierTooltip>
+</LanguageData>

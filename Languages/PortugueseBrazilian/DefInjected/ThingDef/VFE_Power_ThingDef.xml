@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFE_AdvancedSolarGenerator.label>gerador solar avançado</VFE_AdvancedSolarGenerator.label>
+  <VFE_AdvancedSolarGenerator.description>Este gerador solar de tecnologia espacial é capaz de extrair significativamente mais energia da luz solar. Não funciona no escuro ou sob luz artificial.</VFE_AdvancedSolarGenerator.description>
+  
+  <VFE_AdvancedWatermillGenerator.label>gerador de moinho avançado</VFE_AdvancedWatermillGenerator.label>
+  <VFE_AdvancedWatermillGenerator.description>Uma estrutura de tecnologia espacial que produz eletricidade a partir de um rio. Deve ser colocado com sua roda em água corrente. Se os geradores forem colocados muito próximos uns dos outros, a turbulência gerada interferirá e reduzirá a geração de energia.</VFE_AdvancedWatermillGenerator.description>
+  
+  <VFE_AdvancedWindTurbine.label>turbina de vento avançada</VFE_AdvancedWindTurbine.label>
+  <VFE_AdvancedWindTurbine.description>Um gerador elétrico avançado movido a vento de tecnologia espacial. Requer um grande espaço livre à frente e atrás para um fluxo de ar ideal.</VFE_AdvancedWindTurbine.description>
+  
+  <VPE_AdvancedGeothermalGenerator.label>gerador geotérmico avançado</VPE_AdvancedGeothermalGenerator.label>
+  <VPE_AdvancedGeothermalGenerator.description>Este gerador avançado de tecnologia espacial produz eletricidade a partir de gêiseres de vapor geotérmico. Deve ser colocado sobre um gêiser de vapor.</VPE_AdvancedGeothermalGenerator.description>
+
+  <VFE_AdvancedBattery.label>bateria avançada</VFE_AdvancedBattery.label>
+  <VFE_AdvancedBattery.description>Armazena eletricidade para uso posterior. Devido aos avanços tecnológicos, esta unidade de bateria é significativamente mais eficiente. Baterias avançadas carregadas são à prova d'água e não explodem quando expostas à chuva.</VFE_AdvancedBattery.description>
+  
+  <VFE_LargeAdvancedBattery.label>bateria avançada grande</VFE_LargeAdvancedBattery.label>
+  <VFE_LargeAdvancedBattery.description>Armazena grandes quantidades de eletricidade para uso posterior. Devido aos avanços tecnológicos, esta unidade de bateria é significativamente mais eficiente. Baterias avançadas grandes carregadas são à prova d'água e não explodem quando expostas à chuva.</VFE_LargeAdvancedBattery.description>
+  
+  <VFE_LargeBattery.label>bateria grande</VFE_LargeBattery.label>
+  <VFE_LargeBattery.description>Armazena uma grande quantidade de eletricidade para uso posterior. Baterias grandes carregadas explodem quando expostas à chuva ou ao fogo.</VFE_LargeBattery.description>
+  
+  <VFE_SmallBattery.label>bateria pequena</VFE_SmallBattery.label>
+  <VFE_SmallBattery.description>Armazena uma pequena quantidade de eletricidade para uso posterior. Baterias carregadas explodem quando expostas à chuva ou ao fogo.</VFE_SmallBattery.description>
+
+  <VPE_NuclearGenerator.label>reator nuclear</VPE_NuclearGenerator.label>
+  <VPE_NuclearGenerator.description>Um grande reator nuclear reaproveitado de um núcleo de energia de nave. Consome urânio para produzir grandes quantidades de energia. Pode ser sobrecarregado, resultando em uma produção de energia ainda maior ao custo de radiação local.\n\nO reator nuclear superaquecerá rapidamente e deve ser resfriado o tempo todo.\n\nNão pode ser colocado ao ar livre.</VPE_NuclearGenerator.description>
+
+  <VFE_IndustrialChemfuelPoweredGenerator.label>gerador industrial a combustível quimico</VFE_IndustrialChemfuelPoweredGenerator.label>
+  <VFE_IndustrialChemfuelPoweredGenerator.description>Produz uma grande quantidade de energia consumindo combustível quimico. Deve ser reabastecido manualmente de tempos em tempos.</VFE_IndustrialChemfuelPoweredGenerator.description>
+  
+  <VFE_IndustrialWoodFiredGenerator.label>gerador industrial a lenha</VFE_IndustrialWoodFiredGenerator.label>
+  <VFE_IndustrialWoodFiredGenerator.description>Produz uma grande quantidade de energia consumindo madeira. Deve ser carregado manualmente com lenha de tempos em tempos.</VFE_IndustrialWoodFiredGenerator.description>
+  
+  <VFE_PortableChemfuelPoweredGenerator.label>gerador portátil a combustível quimico</VFE_PortableChemfuelPoweredGenerator.label>
+  <VFE_PortableChemfuelPoweredGenerator.description>Produz uma pequena quantidade de energia consumindo combustível quimico. Deve ser reabastecido manualmente de tempos em tempos. Este gerador é leve o suficiente para ser transportado.</VFE_PortableChemfuelPoweredGenerator.description>
+  
+  <VFE_PortableWoodFiredGenerator.label>gerador portátil a lenha</VFE_PortableWoodFiredGenerator.label>
+  <VFE_PortableWoodFiredGenerator.description>Produz uma pequena quantidade de energia consumindo madeira. Deve ser carregado manualmente com lenha de tempos em tempos. Este gerador é leve o suficiente para ser transportado.</VFE_PortableWoodFiredGenerator.description>
+  
+  <VFE_TidalGenerator.label>gerador de maré</VFE_TidalGenerator.label>
+  <VFE_TidalGenerator.description>Produz eletricidade a partir de massas de água em movimento, particularmente marés. Deve ser colocado na água.</VFE_TidalGenerator.description>
+
+  <VFE_LargeVanometricPowerCell.label>célula de energia vanométrica grande</VFE_LargeVanometricPowerCell.label>
+  <VFE_LargeVanometricPowerCell.description>Gera uma grande quantidade de energia livre, para sempre, sem usar combustível. Esta tecnologia é desenvolvida por arquitecnos e está além até mesmo da maioria das sociedades dos mundos brilhantes. Embora ninguém saiba exatamente como funciona, os estudiosos acreditam que ela extrai energia diretamente de flutuações na espuma quântica.</VFE_LargeVanometricPowerCell.description>
+  
+  <VFE_SmallVanometricPowerCell.label>célula de energia vanométrica pequena</VFE_SmallVanometricPowerCell.label>
+  <VFE_SmallVanometricPowerCell.description>Gera uma quantidade muito pequena de energia livre, para sempre, sem usar combustível. Esta tecnologia é desenvolvida por arquitecnos e está além até mesmo da maioria das sociedades dos mundos brilhantes. Embora ninguém saiba exatamente como funciona, os estudiosos acreditam que ela extrai energia diretamente de flutuações na espuma quântica.</VFE_SmallVanometricPowerCell.description>
+  
+  <VPE_ArchotechViolenceGenerator.label>gerador de violência arquitecnológico</VPE_ArchotechViolenceGenerator.label>
+  <VPE_ArchotechViolenceGenerator.description>Este dispositivo canaliza a energia psíquica que emana dos corpos dos humanoides ao redor, transformando-a diretamente em energia utilizável. Esta tecnologia é desenvolvida por arquotecs e está além até mesmo da maioria das sociedades dos mundos brilhantes.</VPE_ArchotechViolenceGenerator.description>
+
+  <VPE_Mote_GasPuff.label>partícula</VPE_Mote_GasPuff.label>
+  
+</LanguageData>
