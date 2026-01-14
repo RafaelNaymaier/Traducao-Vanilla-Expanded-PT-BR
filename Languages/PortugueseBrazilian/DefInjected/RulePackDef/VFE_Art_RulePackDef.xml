@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <ArtDescription_Archotech.rulePack.rulesStrings>
+    <li>physical_description_root->Esta [machine] [imprints] uma imagem de [image]. [desc_sentence_group]</li>
+    <li>machine->máquina</li>
+    <li>machine->dispositivo antigo</li>
+    <li>machine->estrutura inexplicável</li>
+    <li>machine->escultura arquitecnológica</li>
+    <li>imprints->transmite</li>
+    <li>imprints->imprime</li>
+    <li>imprints->faz as pessoas pensarem em</li>
+  </ArtDescription_Archotech.rulePack.rulesStrings>
+  
+  <ArtDescription_Hologram.rulePack.rulesStrings>
+    <li>physical_description_root->Este [hologram] [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Este [hologram] contém uma [depiction] de [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Neste [hologram] há uma [depiction] de [image]. [desc_sentence_group]</li>
+    <li>hologram->holograma</li>
+    <li>hologram->escultura de luz</li>
+    <li>hologram->peça</li>
+    <li>hologram->modelo</li>
+  </ArtDescription_Hologram.rulePack.rulesStrings>
+  
+  <ArtDescription_Pottery.rulePack.rulesStrings>
+    <li>physical_description_root->Esta [pottery] [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Esta [pottery] contém uma [depiction] de [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Nesta [pottery] há uma [depiction] de [image]. [desc_sentence_group]</li>
+    <li>pottery->cerâmica</li>
+    <li>pottery->obra</li>
+    <li>pottery->peça</li>
+    <li>pottery->coleção</li>
+  </ArtDescription_Pottery.rulePack.rulesStrings>
+  
+  <ArtDescription_Rug.rulePack.rulesStrings>
+    <li>physical_description_root->Este [rug] [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Este [rug] contém uma [depiction] de [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Neste [rug] há uma [depiction] de [image]. [desc_sentence_group]</li>
+    <li>rug->tapete</li>
+    <li>rug->trabalho</li>
+    <li>rug->peça</li>
+    <li>rug->têxtil</li>
+  </ArtDescription_Rug.rulePack.rulesStrings>
+  
+</LanguageData>
