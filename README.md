@@ -15,9 +15,21 @@ A tradução já abrange os seguintes módulos do Vanilla Expanded. Para cada um
 | Mod Traduzido | Descrição |
 | :--- | :--- |
 | **Vanilla Expanded Framework** | Estrutura base, mensagens de erro e funcionalidades centrais. |
-| **Vanilla Races Expanded - Sanguophage** | Defs, itens, habilidades e mecânicas da raça Sanguófago. |
-| **Vanilla Races Expanded - Saurid** | Defs, itens, habilidades e mecânicas da raça Saurid. |
 | **Vanilla Gravship Expanded - Chapter 1** | Projetos de pesquisa, construções (gravinaves, *pods*) e funcionalidades do primeiro capítulo. |
+| **Vanilla Races Expanded – Android** | Traduzi todas as mecânicas de senciência, itens e o estado de **Androide desperto**. |
+| **Vanilla Races Expanded – Archon** | Localização completa de Defs e habilidades da raça Archon. |
+| **Vanilla Races Expanded – Fungoid** | Tradução de mecânicas de infecção, genes e itens da raça Fungoid. |
+| **Vanilla Races Expanded – Genie** | Tradução completa para a raça focada em engenharia e intelecto. |
+| **Vanilla Races Expanded – Highmate** | Defs, itens e habilidades sociais da raça Highmate. |
+| **Vanilla Races Expanded – Hussar** | Localização das mecânicas militares e dependência química dos Hussardos. |
+| **Vanilla Races Expanded – Insector** | Tradução das habilidades de mutação e genes de insetos. |
+| **Vanilla Races Expanded – Lycanthrope** | Todos os termos de mutação e formas de licantropo traduzidos. |
+| **Vanilla Races Expanded – Phytokin** | Tradução completa de genes e mecânicas ligadas aos Phytokin. |
+| **Vanilla Races Expanded – Pigskin** | Itens, habilidades e mecânicas da raça Pigskin. |
+| **Vanilla Races Expanded - Sanguophage** | Defs, itens, habilidades e mecânicas da rede de **hemogênio**. |
+| **Vanilla Races Expanded - Saurid** | Defs, itens, habilidades e mecânicas da raça Saurid. |
+| **Vanilla Races Expanded – Starjack** | Localização de Defs, itens e habilidades da raça Starjack. |
+| **Vanilla Races Expanded – Waster** | Tradução de mecânicas de poluição e sobrevivência dos Wasters. |
 
 ---
 
