@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFE_DrugCabinet.label>armário de drogas</VFE_DrugCabinet.label>
+  <VFE_DrugCabinet.description>Aumenta a velocidade de trabalho quando colocado perto de um laboratório de drogas. Uma bancada de trabalho pode ser conectada a até dois armários de drogas.</VFE_DrugCabinet.description>
+  
+  <VFE_FabricationCabinet.label>armário de fabricação</VFE_FabricationCabinet.label>
+  <VFE_FabricationCabinet.description>Aumenta a velocidade de trabalho quando colocado perto de uma bancada de fabricação. Uma bancada de trabalho pode ser conectada a até dois armários de fabricação.</VFE_FabricationCabinet.description>
+  
+  <VFE_KitchenSinkCabinet.label>armário de pia de cozinha</VFE_KitchenSinkCabinet.label>
+  <VFE_KitchenSinkCabinet.description>Aumenta a velocidade de trabalho quando colocado perto de um fogão.</VFE_KitchenSinkCabinet.description>
+  
+  <VFE_MachiningCabinet.label>armário de usinagem</VFE_MachiningCabinet.label>
+  <VFE_MachiningCabinet.description>Aumenta a velocidade de trabalho quando colocado perto de uma mesa de usinagem. Uma bancada de trabalho pode ser conectada a até dois armários de usinagem.</VFE_MachiningCabinet.description>
+  
+  <VFE_SmithyCabinet.label>armário de ferraria</VFE_SmithyCabinet.label>
+  <VFE_SmithyCabinet.description>Aumenta a velocidade de trabalho quando colocado perto de uma forja. Uma bancada de trabalho pode ser conectada a até dois armários de ferraria.</VFE_SmithyCabinet.description>
+  
+  <VFE_TailorCabinet.label>armário de alfaiataria</VFE_TailorCabinet.label>
+  <VFE_TailorCabinet.description>Aumenta a velocidade de trabalho quando colocado perto de uma mesa de alfaiataria. Uma bancada de trabalho pode ser conectada a até dois armários de alfaiataria.</VFE_TailorCabinet.description>
+
+  <VFE_TableMachiningLarge.label>mesa de usinagem grande</VFE_TableMachiningLarge.label>
+  <VFE_TableMachiningLarge.description>Uma bancada equipada com ferramentas avançadas e espaço suficiente para produzir maravilhas tecnológicas a partir de materiais simples em menos tempo. Consome energia.</VFE_TableMachiningLarge.description>
+  
+  <VFE_TableSmithyLarge.label>forja elétrica grande</VFE_TableSmithyLarge.label>
+  <VFE_TableSmithyLarge.description>Um centro de trabalho movido a eletricidade para forjar ferramentas e armas não mecânicas. Consome muita energia.</VFE_TableSmithyLarge.description>
+  
+  <VFE_TableStoveLarge.label>fogão grande</VFE_TableStoveLarge.label>
+  <VFE_TableStoveLarge.description>Um fogão industrial de grande porte com vários fornos para preparar refeições e cozinhar significativamente mais rápido.</VFE_TableStoveLarge.description>
+  
+  <VFE_TableTailorLarge.label>mesa de alfaiataria grande</VFE_TableTailorLarge.label>
+  <VFE_TableTailorLarge.description>Uma bancada de manufatura de grande porte com diversas ferramentas para designers e uma máquina de costura para a confecção rápida de roupas. Pode funcionar sem eletricidade a 33% da velocidade normal.</VFE_TableTailorLarge.description>
+
+  <VFE_ComponentFabricationBench.label>bancada de montagem</VFE_ComponentFabricationBench.label>
+  <VFE_ComponentFabricationBench.description>Uma bancada equipada com ferramentas avançadas para produzir componentes.</VFE_ComponentFabricationBench.description>
+  
+  <VFE_FueledSmelter.label>forno de fundição a combustível</VFE_FueledSmelter.label>
+  <VFE_FueledSmelter.description>Uma estação de fundição movida a lenha. Extrai metal utilizável de pedaços de escória e outros itens metálicos mistos.</VFE_FueledSmelter.description>
+  
+  <VFE_TableButcherElectric.label>mesa de açougue elétrica</VFE_TableButcherElectric.label>
+  <VFE_TableButcherElectric.description>Uma mesa motorizada com uma lâmina de serra rotativa para cortar criaturas mortas mais rapidamente em fatias precisas de carne crua. Consome muita energia.</VFE_TableButcherElectric.description>
+  
+  <VFE_TableDrugLabElectric.label>laboratório de drogas elétrico</VFE_TableDrugLabElectric.label>
+  <VFE_TableDrugLabElectric.description>Uma bancada de trabalho avançada equipada com recipientes, aquecedores e dispositivos de medição para produzir várias drogas com mais eficiência. Consome muita energia.</VFE_TableDrugLabElectric.description>
+  
+  <VFE_TableStonecutterElectric.label>mesa de canteiro elétrica</VFE_TableStonecutterElectric.label>
+  <VFE_TableStonecutterElectric.description>Uma mesa de trabalho avançada com serras elétricas e suportes para cortar pedaços de pedra em blocos utilizáveis em menos tempo em uma linha de montagem. Consome muita energia.</VFE_TableStonecutterElectric.description>
+  
+</LanguageData>
