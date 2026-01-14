@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <TargetLightRadius>Raio de luz atual</TargetLightRadius>
+  <CurrentLightOpacity>Intensidade atual</CurrentLightOpacity>
+  
+  <CommandRaiseLightRDesc>Aumenta o raio atual.</CommandRaiseLightRDesc>
+  <CommandLowerLightRDesc>Diminui o raio atual.</CommandLowerLightRDesc>
+  
+  <CommandRaiseLightIntDesc>Aumenta a intensidade atual.</CommandRaiseLightIntDesc>
+  <CommandLowerLightIntDesc>Diminui a intensidade atual.</CommandLowerLightIntDesc>
+  
+  <LightIntensityPercent>% de Intensidade.</LightIntensityPercent>
+  <LightRadiusCells> células de raio.</LightRadiusCells>
+  
+  <SwitchedColourDesc>Alterar a cor da luz para </SwitchedColourDesc>
+  <LightColourRed>Vermelho</LightColourRed>
+  <LightColourGreen>Verde</LightColourGreen>
+  <LightColourBlue>Azul</LightColourBlue>
+  <LightColourWhite>Branco</LightColourWhite>
+
+  <EnableAutoForbid>Ativar auto-proibir</EnableAutoForbid>
+  <EnableAutoForbidExplanation>Armas e roupas armazenadas aqui serão automaticamente proibidas até que recuperem o HP máximo.</EnableAutoForbidExplanation>
+</LanguageData>

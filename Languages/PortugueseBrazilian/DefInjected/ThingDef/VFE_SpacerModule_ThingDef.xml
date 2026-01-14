@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Bed_AdvBed.label>cama avançada</Bed_AdvBed.label>
+  <Bed_AdvBed.description>Uma cama de última geração, totalmente motorizada, equipada com superfícies de ajuste de pressão, monitoramento biométrico e rastreamento de sono assistido por tecnologia. Oferece conforto inigualável, eficiência de descanso e suporte cirúrgico.</Bed_AdvBed.description>
+  
+  <Bed_AdvDoubleBed.label>cama de casal avançada</Bed_AdvDoubleBed.label>
+  <Bed_AdvDoubleBed.description>Uma cama de última geração, totalmente motorizada, com espaço para duas pessoas, equipada com superfícies de ajuste de pressão, monitoramento biométrico e rastreamento de sono assistido por tecnologia. Oferece conforto inigualável, eficiência de descanso e suporte cirúrgico.</Bed_AdvDoubleBed.description>
+  
+  <Table_IlluminatedDresser.label>cômoda iluminada</Table_IlluminatedDresser.label>
+  <Table_IlluminatedDresser.description>Uma cômoda elegante e moderna com uma luminária de brilho suave integrada. Oferece um pequeno bônus de conforto para todas as camas próximas. Colocar mais de uma cômoda perto da mesma cama não produz efeito.</Table_IlluminatedDresser.description>
+  
+  <Table_IlluminatedEndTable.label>mesa de cabeceira iluminada</Table_IlluminatedEndTable.label>
+  <Table_IlluminatedEndTable.description>Uma mesa de cabeceira elegante com uma luminária de brilho suave integrada. Deve ser colocada diretamente adjacente à cabeceira da cama. Colocar mais de uma mesa de cabeceira perto da mesma cama não produz efeito.</Table_IlluminatedEndTable.description>
+  
+  <VFES_Table_IlluminatedWardrobe.label>guarda-roupa iluminado</VFES_Table_IlluminatedWardrobe.label>
+  <VFES_Table_IlluminatedWardrobe.description>Um guarda-roupa elegante e moderno com uma luminária de brilho suave integrada. Oferece um pequeno bônus de conforto e eficácia de descanso para todas as camas próximas. Colocar mais de um guarda-roupa perto da mesma cama não produz efeito.</VFES_Table_IlluminatedWardrobe.description>
+
+  <UltrascreenTV.label>televisão de hipertela</UltrascreenTV.label>
+  <UltrascreenTV.description>Uma parede de entretenimento colossal de ultra-definição que abrange vários painéis. Projetada para colônias luxuosas, oferece uma experiência visual avassaladora com som rico e clareza vibrante. Transmite transmissões arquivadas da ultranet de satélites há muito mortos e matrizes de dados locais.</UltrascreenTV.description>
+  
+  <VFES_TelevisionSpeaker.label>alto falante de televisão</VFES_TelevisionSpeaker.label>
+  <VFES_TelevisionSpeaker.description>Um sistema de áudio de alta fidelidade projetado para aprimorar a experiência de visualização de televisões próximas. Quando colocado perto de uma televisão, ele se vincula à tela para oferecer um som imersivo, aumentando o ganho de diversão de qualquer colono que esteja assistindo.</VFES_TelevisionSpeaker.description>
+  
+  <VFES_WallMountedTelevision.label>televisão de parede</VFES_WallMountedTelevision.label>
+  <VFES_WallMountedTelevision.description>Uma televisão de tela plana elegante e de alta tecnologia. Seu perfil fino economiza espaço no chão, ao mesmo tempo que oferece a mesma riqueza de cores e clareza das unidades de tela plana tradicionais. Não possui uma área de visualização enorme, mas pode ser montada em paredes.</VFES_WallMountedTelevision.description>
+
+  <Shelf_RepairRack.label>estante de reparo por mecanitos</Shelf_RepairRack.label>
+  <Shelf_RepairRack.description>Uma estante de alta tecnologia para armazenar roupas ou armas. Os itens armazenados aqui se beneficiam de nuvens de nanomecanitos que reparam lentamente qualquer dano ou deterioração. O processo exige uma grande quantidade de energia e leva um tempo considerável.</Shelf_RepairRack.description>
+  
+  <Spacer_OutdoorLamp.label>lâmpada solar externa</Spacer_OutdoorLamp.label>
+  <Spacer_OutdoorLamp.description>Uma lâmpada elétrica de pedestal que ilumina uma área, ideal para grandes espaços abertos, com um pequeno painel solar montado no topo. Armazena carga elétrica durante o dia enquanto está desligada e liga automaticamente à noite.</Spacer_OutdoorLamp.description>
+  <Spacer_OutdoorLamp.comps.CompScheduleExtended.disabledDueToRoofMessage>Desligada por estar sob um telhado.</Spacer_OutdoorLamp.comps.CompScheduleExtended.disabledDueToRoofMessage>
+  <Spacer_OutdoorLamp.comps.CompScheduleExtended.offMessage>Desligada devido à luz solar suficiente.</Spacer_OutdoorLamp.comps.CompScheduleExtended.offMessage>
+  
+  <VFES_AirPurifier.label>purificador de ar</VFES_AirPurifier.label>
+  <VFES_AirPurifier.description>Um purificador de ar compacto e de alta eficiência que filtra poeira, alérgenos, fumaça e outras partículas indesejadas enquanto circula ar limpo e perfumado. Melhora a limpeza do ambiente, aumenta levemente o humor e aprimora o local como um todo.</VFES_AirPurifier.description>
+  
+  <Seat_AdvChair.label>cadeira avançada</Seat_AdvChair.label>
+  <Seat_AdvChair.description>Uma solução de assento de alto padrão da era espacial com amortecimento adaptável, calibração de postura e tecidos inteligentes respiráveis. Projetada para o máximo conforto a longo prazo e interiores modernos e elegantes.</Seat_AdvChair.description>
+  
+  <VFES_ModernArmchair.label>poltrona moderna</VFES_ModernArmchair.label>
+  <VFES_ModernArmchair.description>Uma poltrona elegante da era espacial. Construída com espuma viscoelástica, estofamento de tecido inteligente e design ergonômico, proporciona conforto e estética superiores.</VFES_ModernArmchair.description>
+  
+  <VFES_ModernCouch.label>sofá moderno</VFES_ModernCouch.label>
+  <VFES_ModernCouch.description>Um sofá elegante de largura dupla da era espacial. Espuma viscoelástica, design ergonômico e estofamento de tecido inteligente proporcionam o máximo de conforto.</VFES_ModernCouch.description>
+
+  <Table_interactive_1x1c.label>mesa interativa (1x1)</Table_interactive_1x1c.label>
+  <Table_interactive_1x1c.description>Uma mesa elegante da era espacial com uma tela inteligente integrada. Ao sentarem-se nesta mesa, os colonos desfrutam de diversão passiva (estilo televisão) enquanto fazem refeições ou trabalham. As pessoas comem nas mesas quando há cadeiras voltadas para elas.</Table_interactive_1x1c.description>
+  
+  <Table_interactive_2x2c.label>mesa interativa (2x2)</Table_interactive_2x2c.label>
+  <Table_interactive_2x2c.description>Uma mesa elegante da era espacial com uma tela inteligente integrada. Ao sentarem-se nesta mesa, os colonos desfrutam de diversão passiva (estilo televisão) enquanto fazem refeições ou trabalham. As pessoas comem nas mesas quando há cadeiras voltadas para elas.</Table_interactive_2x2c.description>
+  
+</LanguageData>
