@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
-  <Operation Class="PatchOperationAdd">
-    <xpath>/Defs/ResearchProjectDef[
-      defName="VGE_GravshipWeaponry" or 
-      defName="VGE_CompactWorkspaces" or 
-      defName="VGE_OxygenNetwork" or 
-      defName="VGE_AstrofuelRefining" or 
-      defName="VGE_GravshipPower" or 
-      defName="VGE_HeatDissipation" or 
-      defName="VGE_GravshipLiving"
-    ]</xpath>
-    <value>
-      <generalRules>
-        <rulesStrings>
-          <li>subject->placeholder</li>
-        </rulesStrings>
-      </generalRules>
-    </value>
+ <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>vanillaexpanded.gravship</li>
+      <li>Vanilla Gravship Expanded - Chapter 1</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ResearchProjectDef[
+        defName="VGE_GravshipWeaponry" or 
+        defName="VGE_CompactWorkspaces" or 
+        defName="VGE_OxygenNetwork" or 
+        defName="VGE_AstrofuelRefining" or 
+        defName="VGE_GravshipPower" or 
+        defName="VGE_HeatDissipation" or 
+        defName="VGE_GravshipLiving"
+      ]</xpath>
+      <value>
+        <generalRules>
+          <rulesStrings>
+            <li>subject->placeholder</li>
+          </rulesStrings>
+        </generalRules>
+      </value>
+    </match>
   </Operation>
 </Patch>

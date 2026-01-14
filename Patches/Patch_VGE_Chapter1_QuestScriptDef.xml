@@ -1,25 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>vanillaexpanded.gravship</li>
+      <li>Vanilla Gravship Expanded - Chapter 1</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/QuestScriptDef[defName="VGE_OpportunitySite_SolidCoreAsteroid"]/questNameRules/rulesStrings/li</xpath>
+          <value>
+            <li>questName->Asteroide Sólido de [resource]</li>
+          </value>
+        </li>
 
-	<Operation Class="PatchOperationReplace">
-		<xpath>Defs/QuestScriptDef[defName="VGE_OpportunitySite_SolidCoreAsteroid"]/questNameRules/rulesStrings/li</xpath>
-		<value>
-			<li>questName->Asteroide Sólido de [resource]</li>
-		</value>
-	</Operation>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/QuestScriptDef[defName="VGE_OpportunitySite_SolidCoreAsteroid"]/questDescriptionRules/rulesStrings/li</xpath>
+          <value>
+            <li>questDescription->[discoveryMethod] a localização de um asteroide de núcleo sólido orbitando o planeta. Sua carcaça é de vacstone densa, mas em seu interior reside um núcleo de [resource] aguardando para ser minerado.\n\nAsteroides como este geralmente permanecem no espaço profundo, mas este entrou em órbita baixa. É apenas uma questão de tempo até que outra pessoa o reivindique.\n\nVocê pode chegar ao asteroide com cápsulas de transporte, naves de transporte ou uma nave gravitacional. Equipe seus colonos com vestimenta orbital adequada antes de partir.</li>
+          </value>
+        </li>
 
-	<Operation Class="PatchOperationReplace">
-		<xpath>Defs/QuestScriptDef[defName="VGE_OpportunitySite_SolidCoreAsteroid"]/questDescriptionRules/rulesStrings/li</xpath>
-		<value>
-			<li>questDescription->[discoveryMethod] a localização de um asteroide de núcleo sólido orbitando o planeta. Sua carcaça é de vacstone densa, mas em seu interior reside um núcleo de [resource] aguardando para ser minerado.\n\nAsteroides como este geralmente permanecem no espaço profundo, mas este entrou em órbita baixa. É apenas uma questão de tempo até que outra pessoa o reivindique.\n\nVocê pode chegar ao asteroide com cápsulas de transporte, naves de transporte ou uma nave gravitacional. Equipe seus colonos com vestimenta orbital adequada antes de partir.</li>
-		</value>
-	</Operation>
-
-	<Operation Class="PatchOperationReplace">
-		<xpath>Defs/QuestScriptDef[defName="VGE_OpportunitySite_SolidCoreAsteroid"]/root/nodes/li[@Class="QuestNode_IsSet"]/elseNode[@Class="QuestNode_RandomNode"]/nodes/li[@Class="QuestNode_Set"]/value</xpath>
-		<value>
-			<value>Você descobriu</value>
-		</value>
-	</Operation>
-
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/QuestScriptDef[defName="VGE_OpportunitySite_SolidCoreAsteroid"]/root/nodes/li[@Class="QuestNode_IsSet"]/elseNode[@Class="QuestNode_RandomNode"]/nodes/li[@Class="QuestNode_Set"]/value</xpath>
+          <value>
+            <value>Você descobriu</value>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
 </Patch>
