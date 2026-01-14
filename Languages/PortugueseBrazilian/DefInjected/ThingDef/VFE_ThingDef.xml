@@ -1,13 +1,178 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
+  <VFE_AnimalSarcophagus.label>sarcófago de animal</VFE_AnimalSarcophagus.label>
+  <VFE_AnimalSarcophagus.description>Um receptáculo funerário ornamentado para animais honrados após a morte.</VFE_AnimalSarcophagus.description>
 
-    <VFEA_AbilityFlyer_Charge.label>voando</VFEA_AbilityFlyer_Charge.label>
-    <VEF_FlintlockSmoke.label>Partícula</VEF_FlintlockSmoke.label>
-    <KCSG_LongMote_DustPuff.label>Partícula</KCSG_LongMote_DustPuff.label>
-    <Mote_Firetrail.label>Partícula</Mote_Firetrail.label>
-    <Mote_Smoketrail.label>Partícula</Mote_Smoketrail.label>
-    <Mote_FTSmoketrail.label>Partícula</Mote_FTSmoketrail.label>
-    <Mote_GreenSmoketrail.label>Partícula</Mote_GreenSmoketrail.label>
+  <Bed_Simple.label>cama simples</Bed_Simple.label>
+  <Bed_Simple.description>Uma rede e travesseiro razoavelmente confortáveis apoiados em uma estrutura robusta. Devido à construção simples, a qualidade não é um fator para esta cama.</Bed_Simple.description>
+  
+  <Bed_StoneSlab.label>cama esculpida</Bed_StoneSlab.label>
+  <Bed_StoneSlab.description>Uma laje de pedra simples, porém bonita, usada para dormir. Oferece conforto mínimo, mas é durável e à prova de fogo.</Bed_StoneSlab.description>
+  
+  <VFE_Bed_SimpleDouble.label>cama de casal simples</VFE_Bed_SimpleDouble.label>
+  <VFE_Bed_SimpleDouble.description>Uma rede e travesseiro razoavelmente confortáveis apoiados em uma estrutura robusta que acomoda duas pessoas. Devido à construção simples, a qualidade não é um fator para esta cama.</VFE_Bed_SimpleDouble.description>
+  
+  <VFE_Bed_StoneSlabDouble.label>cama de casal esculpida</VFE_Bed_StoneSlabDouble.label>
+  <VFE_Bed_StoneSlabDouble.description>Uma laje de pedra simples, porém bonita, usada para dormir que acomoda duas pessoas. Oferece conforto mínimo, mas é durável e à prova de fogo.</VFE_Bed_StoneSlabDouble.description>
 
+  <Seat_Bench.label>banco</Seat_Bench.label>
+  <Seat_Bench.description>Uma plataforma longa e simples onde várias pessoas podem se sentar ao mesmo tempo. Não é muito confortável, mas é muito melhor do que nada. Pode ser usado em mesas, estações de trabalho e em outros lugares.</Seat_Bench.description>
+  
+  <Seat_Cushion.label>almofada de assento</Seat_Cushion.label>
+  <Seat_Cushion.description>Uma almofada macia projetada para sentar. Mais confortável que um banquinho, mas ainda assim uma opção de assento simples.</Seat_Cushion.description>
+  
+  <Seat_SquareChair.label>cadeira escolar</Seat_SquareChair.label>
+  <Seat_SquareChair.description>Uma cadeira escolar desconfortável. Pode ser usada em mesas, estações de trabalho e em outros lugares. Melhora a taxa de aprendizado quando adjacente à mesa escolar.</Seat_SquareChair.description>
 
+  <Table_1x1c.label>mesa (1x1)</Table_1x1c.label>
+  <Table_1x1c.description>As pessoas comem em mesas quando há cadeiras posicionadas de frente para elas.</Table_1x1c.description>
+  
+  <Table_Counter.label>balcão</Table_Counter.label>
+  <Table_Counter.description>As pessoas comem em balcões quando há cadeiras posicionadas de frente para eles.</Table_Counter.description>
+  
+  <VFE_CoffeeTable.label>mesa de centro</VFE_CoffeeTable.label>
+  <VFE_CoffeeTable.description>Uma mesa pequena que torna poltronas e sofás próximos um pouco mais confortáveis. Deve ser colocada diretamente adjacente ao sofá ou poltrona. Colocar mais de uma mesa de centro perto do mesmo sofá não tem efeito.</VFE_CoffeeTable.description>
+
+  <Stone_Campfire.label>braseiro de pedra</Stone_Campfire.label>
+  <Stone_Campfire.description>Cozinha refeições e produz calor, mas queima madeira no processo. Como acontece com todas as fontes de calor, deve ser colocado em ambientes internos para aquecer um espaço fechado. Reabastecível.</Stone_Campfire.description>
+
+  <Stone_DarklightCampfire.label>braseiro de luz sombria</Stone_DarklightCampfire.label>
+  <Stone_DarklightCampfire.description>Um braseiro tratado especialmente que produz uma luz suave sobre uma área ampla. Pessoas que preferem luz sombria trabalham melhor com esta fonte de luz. Cozinha refeições e produz calor, mas queima madeira no processo. Como todas as fontes de calor, deve ser colocado em ambientes internos para aquecer um espaço fechado. Reabastecível.</Stone_DarklightCampfire.description>
+
+  <Joy_Arcade.label>máquina de fliperama</Joy_Arcade.label>
+  <Joy_Arcade.description>Um gabinete de fliperama robusto, operado por moedas, com uma tela CRT antiga e botões coloridos. Embora ultrapassado, ainda oferece horas de entretenimento digital. Jogos clássicos nunca morrem de verdade.</Joy_Arcade.description>
+  
+  <Joy_DartsBoard.label>alvo de dardos</Joy_DartsBoard.label>
+  <Joy_DartsBoard.description>Um alvo de dardos simples montado em um suporte. Uma maneira divertida de praticar precisão e coordenação motora. Treina a habilidade de tiro.</Joy_DartsBoard.description>
+  
+  <Joy_InudstrialComputer.label>computador antigo</Joy_InudstrialComputer.label>
+  <Joy_InudstrialComputer.description>Um computador robusto e ultrapassado em cima de uma mesa pequena. A tela pisca, as teclas grudam e ele zumbe com a idade, mas ainda executa programas simples. Sempre há algum software arcaico esperando para ser usado.</Joy_InudstrialComputer.description>
+  
+  <Joy_ModernComputer.label>computador moderno</Joy_ModernComputer.label>
+  <Joy_ModernComputer.description>Uma estação de computação elegante e de alto desempenho em uma mesa resistente. Equipado com um processador rápido, um teclado ergonômico e uma tela plana nítida, oferece uma vasta gama de softwares: seja para pesquisa, entretenimento ou rede interestelar leve.</Joy_ModernComputer.description>
+  
+  <Joy_Piano.label>piano vertical</Joy_Piano.label>
+  <Joy_Piano.description>Um piano vertical compacto projetado para recreação musical. Uma ótima maneira de desenvolver habilidades artísticas e entreter os outros.</Joy_Piano.description>
+  
+  <Joy_PunchingBag.label>saco de pancadas</Joy_PunchingBag.label>
+  <Joy_PunchingBag.description>Um saco de pancadas resistente montado em um suporte para treinamento de combate e alívio de estresse. Treina a habilidade de combate corpo a corpo.</Joy_PunchingBag.description>
+  
+  <Joy_RouletteTable.label>mesa de roleta</Joy_RouletteTable.label>
+  <Joy_RouletteTable.description>Uma mesa de jogo sofisticada projetada para jogar roleta. Uma mistura emocionante de sorte e estratégia, tornando-a a peça central de qualquer cassino de luxo ou espaço social.</Joy_RouletteTable.description>
+  
+  <Radio_Industrial.label>rádio industrial</Radio_Industrial.label>
+  <Radio_Industrial.description>Um rádio da era industrial para tocar música e transmissões faladas. Mesmo nos mundos de borda, costuma haver algum transmissor antigo transmitindo algo minimamente interessante. Fornece recreação musical passiva.</Radio_Industrial.description>
+  
+  <Radio_Spacer.label>rádio de ondas longas</Radio_Spacer.label>
+  <Radio_Spacer.description>Um rádio de alta fidelidade e última geração que utiliza transmissão avançada de ondas longas para entregar músicas nítidas, boletins e transmissões interestelares. Mesmo nos mundos de borda, alguém lá fora está sempre transmitindo algo — sejam notícias, música ou vozes distantes vindas do vácuo.</Radio_Spacer.description>
+  
+  <VFE_Lounger.label>espreguiçadeira</VFE_Lounger.label>
+  <VFE_Lounger.description>Uma espreguiçadeira estofada e reclinável projetada para relaxamento. Oferece conforto superior, mas não é ideal para um sono profundo e restaurador. Permite a recreação de banho de sol.</VFE_Lounger.description>
+
+  <Bin_Large.label>lixeira grande</Bin_Large.label>
+  <Bin_Large.description>Uma unidade de descarte de resíduos espaçosa que mantém a área circundante limpa de forma eficiente. Remove lentamente o lixo e a sujeira em um raio de 15 células.</Bin_Large.description>
+  
+  <Bin_Small.label>lixeira pequena</Bin_Small.label>
+  <Bin_Small.description>Uma lixeira pequena para ajudar a manter a área circundante um pouco mais limpa. Remove lentamente o lixo e a sujeira em um raio de 10 células.</Bin_Small.description>
+  
+  <Light_Streetlamp.label>poste de luz</Light_Streetlamp.label>
+  <Light_Streetlamp.description>Uma luminária elétrica de chão que ilumina uma área, ideal para grandes espaços externos. Desliga automaticamente durante o dia para evitar o consumo de energia.</Light_Streetlamp.description>
+  <Light_Streetlamp.comps.CompScheduleExtended.offMessage>Desligado devido à luz solar suficiente.</Light_Streetlamp.comps.CompScheduleExtended.offMessage>
+  
+  <Misc_FileCabinet.label>arquivo morto</Misc_FileCabinet.label>
+  <Misc_FileCabinet.description>Aumenta a velocidade de pesquisa quando colocado perto de uma bancada de pesquisa. Uma bancada pode utilizar até dois arquivos mortos.</Misc_FileCabinet.description>
+  
+  <Shelf_WeaponRack.label>suporte de armas</Shelf_WeaponRack.label>
+  <Shelf_WeaponRack.description>Um suporte para armazenar armas. Itens armazenados nele não afetarão a beleza do ambiente e não se deteriorarão, mesmo se estiverem ao ar livre.</Shelf_WeaponRack.description>
+  
+  <VFE_DeskLamp.label>luminária de mesa</VFE_DeskLamp.label>
+  <VFE_DeskLamp.description>Uma luminária de mesa elétrica que ilumina uma pequena área. As pessoas precisam de luz para se mover e trabalhar na velocidade máxima.</VFE_DeskLamp.description>
+  
+  <VFE_FloorLamp.label>luz de piso</VFE_FloorLamp.label>
+  <VFE_FloorLamp.description>Uma fonte de luz de baixo perfil embutida no chão. Embora não seja tão brilhante quanto uma luminária de chão, oferece uma iluminação sutil e uniforme sem obstruir o movimento. Não sofre curto-circuito na chuva.</VFE_FloorLamp.description>
+  
+  <VFE_LongPlantPot.label>vaso de planta longo</VFE_LongPlantPot.label>
+  <VFE_LongPlantPot.description>Plante flores decorativas aqui para melhorar o humor das pessoas próximas. Projetado para ser combinado com outros vasos de plantas para formar várias formas.</VFE_LongPlantPot.description>
+
+  <Bed_DoubleErgonomic.label>cama de casal ergonômica</Bed_DoubleErgonomic.label>
+  <Bed_DoubleErgonomic.description>Uma cama moderna e ajustável, projetada para o máximo conforto e suporte adequado para a coluna. Acomoda duas pessoas.</Bed_DoubleErgonomic.description>
+  
+  <Bed_Ergonomic.label>cama ergonômica</Bed_Ergonomic.label>
+  <Bed_Ergonomic.description>Uma cama moderna e ajustável, projetada para o máximo conforto e suporte adequado para a coluna.</Bed_Ergonomic.description>
+  
+  <Seat_ModernChair.label>cadeira ergonômica</Seat_ModernChair.label>
+  <Seat_ModernChair.description>Uma cadeira moderna e bem projetada, com excelente suporte para as costas e estofamento, proporcionando alto conforto.</Seat_ModernChair.description>
+  
+  <Table_Wardrobe.label>guarda-roupa</Table_Wardrobe.label>
+  <Table_Wardrobe.description>Um guarda-roupa alto para armazenar roupas e outros itens. Concede um pequeno bônus de conforto a todas as camas próximas. Colocar mais de um guarda-roupa perto da mesma cama não tem efeito.</Table_Wardrobe.description>
+
+  <VFE_ModularCouch.label>sofá modular</VFE_ModularCouch.label>
+  <VFE_ModularCouch.description>Um assento estofado compacto projetado para ser combinado com outros para criar sofás maiores ou arranjos de canto. Ideal para grandes salas de recreação, lounges ou áreas sociais.</VFE_ModularCouch.description>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.0.name>Baixo-esquerda (Interno)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.0.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.1.name>Baixo-esquerda (Externo)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.1.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.2.name>Baixo-esquerda (Reto)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.2.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.3.name>Baixo-meio (Reto)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.3.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.4.name>Baixo-direita (Interno)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.4.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.5.name>Baixo-direita (Externo)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.5.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.6.name>Baixo-direita (Reto)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.6.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.7.name>Esquerda-baixo (Reto)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.7.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.8.name>Esquerda-meio (Reto)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.8.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.9.name>Esquerda-cima (Reto)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.9.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.11.name>Direita-baixo (Reto)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.11.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.12.name>Direita-meio (Reto)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.12.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.13.name>Direita-cima (Reto)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.13.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.14.name>Cima-esquerda (Interno)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.14.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.15.name>Cima-esquerda (Externo)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.15.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.16.name>Cima-esquerda (Reto)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.16.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.17.name>Cima-meio (Reto)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.17.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.18.name>Cima-direita (Interno)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.18.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.19.name>Cima-direita (Externo)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.19.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.20.name>Cima-direita (Reto)</VFE_ModularCouch.comps.CompCustomizableGraphic.defaultGraphicData.20.name>
+  <VFE_ModularCouch.comps.CompCustomizableGraphic.gizmoDescription>Define o visual do sofá para criar um arranjo de assentos contínuo.</VFE_ModularCouch.comps.CompCustomizableGraphic.gizmoDescription>
+
+  <Bed_Kingsize.label>cama de dossel real</Bed_Kingsize.label>
+  <Bed_Kingsize.description>Uma cama de dossel extravagante digna da nobreza, adornada com entalhes intrincados. Extremamente confortável e luxuosa, sua estrutura imponente e artesanato detalhado a tornam uma obra de arte. Acomoda duas pessoas.</Bed_Kingsize.description>
+  
+  <Table_RoyalDresser.label>cômoda real</Table_RoyalDresser.label>
+  <Table_RoyalDresser.description>Uma cômoda luxuosa, adornada com ouro sólido e design elegante, tornando as camas próximas mais confortáveis. Colocar mais de uma cômoda perto da mesma cama não tem efeito.</Table_RoyalDresser.description>
+  
+  <Table_RoyalEndTable.label>mesa de cabeceira real</Table_RoyalEndTable.label>
+  <Table_RoyalEndTable.description>Uma mesa de cabeceira finamente trabalhada, adornada com incrustações de ouro e detalhes requintados. Aumenta o conforto das camas próximas, proporcionando um toque de nobreza a qualquer dormitório. Deve ser colocada diretamente adjacente à cabeceira da cama. Colocar mais de uma perto da mesma cama não tem efeito.</Table_RoyalEndTable.description>
+  
+  <VFE_RoyalLamp.label>luminária real de chão</VFE_RoyalLamp.label>
+  <VFE_RoyalLamp.description>Uma luminária de chão belamente trabalhada, adornada com detalhes em ouro e design elegante.</VFE_RoyalLamp.description>
+  
+  <VFE_RoyalWardrobe.label>guarda-roupa real</VFE_RoyalWardrobe.label>
+  <VFE_RoyalWardrobe.description>Um guarda-roupa imponente com detalhes em ouro projetado para a nobreza. Concede um pequeno bônus de conforto a todas as camas próximas. Colocar mais de um guarda-roupa real perto da mesma cama não tem efeito.</VFE_RoyalWardrobe.description>
+
+  <Seat_RoyalArmchair.label>poltrona real</Seat_RoyalArmchair.label>
+  <Seat_RoyalArmchair.description>Uma poltrona imponente e primorosamente trabalhada, com estofamento fino, almofadas profundas e detalhes ornamentados. Pode ser usada em mesas, estações de trabalho e em outros lugares.</Seat_RoyalArmchair.description>
+  
+  <Seat_RoyalChair.label>cadeira real</Seat_RoyalChair.label>
+  <Seat_RoyalChair.description>Uma cadeira de jantar luxuosa com encosto alto, adornada com estofamento fino e artesanato intrincado. Pode ser usada em mesas, estações de trabalho e em outros lugares.</Seat_RoyalChair.description>
+
+  <Table_Royal1x1c.label>mesa real (1x1)</Table_Royal1x1c.label>
+  <Table_Royal1x1c.description>Uma mesa finamente trabalhada, com detalhes em ouro, adornada com entalhes intrincados e superfícies polidas. As pessoas comem em mesas quando há cadeiras posicionadas de frente para elas.</Table_Royal1x1c.description>
+  
+  <Table_Royal1x2c.label>mesa real (1x2)</Table_Royal1x2c.label>
+  <Table_Royal1x2c.description>Uma mesa finamente trabalhada, com detalhes em ouro, adornada com entalhes intrincados e superfícies polidas. As pessoas comem em mesas quando há cadeiras posicionadas de frente para elas.</Table_Royal1x2c.description>
+  
+  <Table_Royal2x2c.label>mesa real (2x2)</Table_Royal2x2c.label>
+  <Table_Royal2x2c.description>Uma mesa finamente trabalhada, com detalhes em ouro, adornada com entalhes intrincados e superfícies polidas. As pessoas comem em mesas quando há cadeiras posicionadas de frente para elas.</Table_Royal2x2c.description>
+  
+  <Table_Royal2x4c.label>mesa real (2x4)</Table_Royal2x4c.label>
+  <Table_Royal2x4c.description>Uma mesa finamente trabalhada, com detalhes em ouro, adornada com entalhes intrincados e superfícies polidas. As pessoas comem em mesas quando há cadeiras posicionadas de frente para elas.</Table_Royal2x4c.description>
+  
+  <Table_Royal3x3c.label>mesa real (3x3)</Table_Royal3x3c.label>
+  <Table_Royal3x3c.description>Uma mesa finamente trabalhada, com detalhes em ouro, adornada com entalhes intrincados e superfícies polidas. As pessoas comem em mesas quando há cadeiras posicionadas de frente para elas.</Table_Royal3x3c.description>
+
+  <Mote_FlyingDart.label>dardo em voo</Mote_FlyingDart.label>
+  
+  <Mote_HoldingChips.label>segurando fichas</Mote_HoldingChips.label>
+  
+  <Mote_HoldingGloves.label>segurando luvas</Mote_HoldingGloves.label>
+  
+  <Mote_MusicalNoteA.label>nota musical</Mote_MusicalNoteA.label>
+  
 </LanguageData>
