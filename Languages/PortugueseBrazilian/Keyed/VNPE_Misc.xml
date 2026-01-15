@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <VNPE_NutValve>Ligar/Desligar fluxo</VNPE_NutValve>
+  <VNPE_NutValveDesc>Liga ou desliga o fluxo de pasta de nutriente. Um colono virá para abrir ou fechar a válvula.</VNPE_NutValveDesc>
+  
+  <VNPE_Drain>Esvaziar tanque</VNPE_Drain>
+  <VNPE_DrainDesc>Esvazia o conteúdo do tanque. Isso removerá quaisquer ingredientes indesejados de dentro dele.</VNPE_DrainDesc>
+  
+  <VNPE_Extract5>Extrair 5 refeições</VNPE_Extract5>
+  <VNPE_Extract10>Extrair 10 refeições</VNPE_Extract10>
+  <VNPE_Extract20>Extrair 20 refeições</VNPE_Extract20>
+  
+  <VNPE_NutrientDripperThreshold>Limite de alimentação do gotejador</VNPE_NutrientDripperThreshold>
+  <VNPE_NutrientDripperThresholdDesc>Por padrão, os gotejadores de nutriente alimentarão os ocupantes da cama quando a fome deles estiver abaixo de 26%. Você pode ajustar esse valor com esta barra.</VNPE_NutrientDripperThresholdDesc>
+  
+  <VNPE_Reset>Redefinir</VNPE_Reset>
+</LanguageData>

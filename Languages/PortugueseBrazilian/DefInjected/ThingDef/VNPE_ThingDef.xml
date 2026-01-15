@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VNPE_NutrientPastePipe.label>tubo de pasta de nutriente</VNPE_NutrientPastePipe.label>
+  <VNPE_NutrientPastePipe.description>Tubos leves de aço para o transporte da substância conhecida como pasta de nutriente, enviando-a de moedores e tanques de armazenamento para os dispensadores.</VNPE_NutrientPastePipe.description>
+  
+  <VNPE_NutrientPasteValve.label>válvula de pasta de nutriente</VNPE_NutrientPasteValve.label>
+  <VNPE_NutrientPasteValve.description>Liga ou desliga o fluxo de pasta de nutriente.</VNPE_NutrientPasteValve.description>
+  
+  <VNPE_UndergroundNutrientPastePipe.label>tubo oculto de pasta de nutriente</VNPE_UndergroundNutrientPastePipe.label>
+  <VNPE_UndergroundNutrientPastePipe.description>Tubos de aço ocultos para o transporte da substância conhecida como pasta de nutriente, enviando-a de moedores e tanques de armazenamento para os dispensadores.</VNPE_UndergroundNutrientPastePipe.description>
+
+  <VNPE_NutrientPasteDripper.label>gotejador de pasta de nutriente</VNPE_NutrientPasteDripper.label>
+  <VNPE_NutrientPasteDripper.description>Um dispositivo de cabeceira que alimenta uma pessoa deitada sempre que ela estiver com fome, desde que o gotejador esteja conectado a um tanque de pasta de nutriente. Deve ser colocado diretamente adjacente e voltado para a cabeceira da cama. Colocar mais de um gotejador perto da mesma cama não produz efeito adicional.</VNPE_NutrientPasteDripper.description>
+  
+  <VNPE_NutrientPasteFeeder.label>ejetor de pasta de nutriente</VNPE_NutrientPasteFeeder.label>
+  <VNPE_NutrientPasteFeeder.description>Uma pequena saída de tubulação que permite que colonos e cidadãos retirem pasta de nutriente.</VNPE_NutrientPasteFeeder.description>
+  
+  <VNPE_NutrientPasteGrinder.label>moedor de pasta de nutriente</VNPE_NutrientPasteGrinder.label>
+  <VNPE_NutrientPasteGrinder.description>Uma máquina que sintetiza pasta de nutriente comestível a partir de matérias-primas orgânicas colocadas em funis adjacentes. Consome menos ingredientes e tempo do que qualquer outro método de produção de refeições — mas ninguém gosta de comer pasta de nutriente. Aceita comida crua, mas não matéria vegetal bruta como feno. Não dispensa a pasta diretamente, mas permite que ela seja bombeada para tanques e dispensadores na rede.</VNPE_NutrientPasteGrinder.description>
+  
+  <VNPE_NutrientPasteTap.label>torneira de pasta de nutriente</VNPE_NutrientPasteTap.label>
+  <VNPE_NutrientPasteTap.description>Um receptáculo de armazenamento semelhante a um funil, destinado a conter a refeição de pasta de nutriente dispensada dos tanques. Pode ser usado por colonos e prisioneiros. A refeição pronta para retirada pode se deteriorar com o tempo.</VNPE_NutrientPasteTap.description>
+
+  <VNPE_NutrientPasteVat.label>tanque de pasta de nutriente</VNPE_NutrientPasteVat.label>
+  <VNPE_NutrientPasteVat.description>Um grande reservatório que pode armazenar até 75 refeições de pasta de nutriente. Causa uma enorme sujeira se for destruído.</VNPE_NutrientPasteVat.description>
+
+  <VNPE_Filth_Paste.label>lama de pasta de nutriente</VNPE_Filth_Paste.label>
+  <VNPE_Filth_Paste.description>Uma poça de pasta de nutriente.</VNPE_Filth_Paste.description>
+  
+</LanguageData>
