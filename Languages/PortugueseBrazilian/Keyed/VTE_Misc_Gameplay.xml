@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <PH.EnableProxyHeat>Ativar calor por proximidade</PH.EnableProxyHeat>
+  <PH.EnableProxyHeatEffectIndoors>Ativar efeito de calor por proximidade em interiores</PH.EnableProxyHeatEffectIndoors>
+  <PH.AllowPlantGrowthInsideProxyHeatEffectRadius>Permitir crescimento de plantas dentro do raio de efeito de calor por proximidade</PH.AllowPlantGrowthInsideProxyHeatEffectRadius>
+  <PH.ProxyHeatBuildings>Configurações de construção de calor por proximidade:</PH.ProxyHeatBuildings>
+  <PH.ProxyHeatRadius>Raio de calor por proximidade</PH.ProxyHeatRadius>
+  <PH.MinTemperature>Limite de temperatura mínima</PH.MinTemperature>
+  <PH.MaxTemperature>Limite de temperatura máxima</PH.MaxTemperature>
+  <PN.NotSet> (não definido)</PN.NotSet>
+  <PH.TemperatureOutput>Saída de temperatura</PH.TemperatureOutput>
+  <PH.Search>Buscar: </PH.Search>
+  <PH.BuildingHasTemperatureControl>A construção possui controle próprio de temperatura alvo</PH.BuildingHasTemperatureControl>
+  <VTE.MustPlaceHeaterWithFreeSpaces>O lado quente do aquecedor deve estar exposto.</VTE.MustPlaceHeaterWithFreeSpaces>
+  <VTE.MustPlaceUnderRoof>Deve ser colocado sob um telhado.</VTE.MustPlaceUnderRoof>
+  <VTE.CannotPlaceAdjacentCeilingFan>Não pode ser colocado próximo a ventiladores de teto.</VTE.CannotPlaceAdjacentCeilingFan>
+  <VTE.Efficiency>Eficiência da rede</VTE.Efficiency>
+  <VTE.NetworkTargetTemp>Temperatura alvo da rede</VTE.NetworkTargetTemp>
+  <VTE.Production>Produção</VTE.Production>
+  <VTE.Consumption>Consumo</VTE.Consumption>
+  <VTE.TotalProduction>Produção total</VTE.TotalProduction>
+  <VTE.TotalConsumption>Consumo total</VTE.TotalConsumption>
+  <VTE.Relink>Vincular temperatura</VTE.Relink>
+  <VTE.Unlink>Desvincular temperatura</VTE.Unlink>
+  <VTE.AcRelinkDescription>Vincula esta unidade de AC ao sistema, herdando a temperatura desejada.</VTE.AcRelinkDescription>
+  <VTE.AcUnlinkDescription>Desvincula esta unidade de AC da herança de temperatura desejada do sistema.</VTE.AcUnlinkDescription>
+  <VTE.MissingCompressors>Não pode funcionar: Compressores conectados insuficientes.</VTE.MissingCompressors>
+  <VTE.MissingController>Não pode funcionar: Falta a unidade de controle de AC.</VTE.MissingController>
+  <VTE.TooManyControllers>Não pode funcionar: Conectado a mais de uma unidade de controle de AC.</VTE.TooManyControllers>
+  <VTE.CompressorCovered>Não pode funcionar: Coberto por telhado.</VTE.CompressorCovered>
+  <VTE_VentValve>Ligar/Desligar fluxo de ar</VTE_VentValve>
+  <VTE_VentValveDesc>Liga ou desliga o fluxo de ar. Um colono virá para abrir ou fechar a válvula.</VTE_VentValveDesc>
+</LanguageData>

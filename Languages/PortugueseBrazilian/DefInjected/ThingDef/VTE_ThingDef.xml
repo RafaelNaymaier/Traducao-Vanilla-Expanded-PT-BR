@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VTE_ACCompressor.label>compressor de AC</VTE_ACCompressor.label>
+  <VTE_ACCompressor.description>Um compressor de ar-condicionado que precisa ser conectado a uma unidade de controle de AC via dutos de ar. Só pode ser colocado no lado externo. Quando energizado, permite que a rede de AC opere dois dispositivos de AC adicionais sem perder eficiência.</VTE_ACCompressor.description>
+  
+  <VTE_ACControlUnit.label>unidade de controle de AC</VTE_ACControlUnit.label>
+  <VTE_ACControlUnit.description>Uma unidade central de controle de ar-condicionado. Conecta-se aos compressores para permitir que as unidades de AC gerem ar frio ou quente. Deve ser conectada aos compressores por dutos de ar. A unidade de controle dita a temperatura desejada para todas as unidades de AC na mesma rede. Instalar unidades de AC demais pode diminuir a eficiência da rede, aumentando o consumo de energia de todos os dispositivos. Construir compressores adicionais melhorará a eficiência da rede.</VTE_ACControlUnit.description>
+  
+  <VTE_ACUnit.label>unidade de AC</VTE_ACUnit.label>
+  <VTE_ACUnit.description>Uma máquina de ar-condicionado que se encaixa em uma parede. Emite ar frio ou quente na mesma direção, dependendo da temperatura atual da sala. A menos que seja desconectada das configurações da rede, ela buscará atingir a temperatura especificada na unidade de controle de AC. Precisa estar conectada à unidade de controle de AC via dutos de ar.</VTE_ACUnit.description>
+  
+  <VTE_ACUnitWall.label>unidade de AC de parede</VTE_ACUnitWall.label>
+  <VTE_ACUnitWall.description>Uma máquina de ar-condicionado montada na parede. Emite ar frio ou quente na mesma direção, dependendo da temperatura atual da sala. A menos que seja desconectada das configurações da rede, ela buscará atingir a temperatura especificada na unidade de controle de AC. Precisa estar conectada à unidade de controle de AC via dutos de ar. Só pode ser construída sobre uma parede.</VTE_ACUnitWall.description>
+  
+  <VTE_AirDuct.label>duto de ar</VTE_AirDuct.label>
+  <VTE_AirDuct.description>Um duto de ar usado pela rede de AC para transportar ar entre as unidades de AC e os compressores.</VTE_AirDuct.description>
+  
+  <VTE_LargeACCompressor.label>compressor de AC grande</VTE_LargeACCompressor.label>
+  <VTE_LargeACCompressor.description>Um compressor de ar-condicionado grande que precisa ser conectado a uma unidade de controle de AC via dutos de ar. Só pode ser colocado no lado externo. Quando energizado, permite que a rede de AC opere seis dispositivos de AC adicionais sem perder eficiência.</VTE_LargeACCompressor.description>
+  
+  <VTE_UndergroundAirDuct.label>duto de ar subterrâneo</VTE_UndergroundAirDuct.label>
+  <VTE_UndergroundAirDuct.description>Um duto de ar subterrâneo usado pela rede de AC para transportar ar entre as unidades de AC e os compressores.</VTE_UndergroundAirDuct.description>
+  
+  <VTE_VentValve.label>válvula de duto de ar</VTE_VentValve.label>
+  <VTE_VentValve.description>Liga ou desliga o fluxo de ar.</VTE_VentValve.description>
+
+  <VTE_IndustrialCooler.label>refrigerador industrial</VTE_IndustrialCooler.label>
+  <VTE_IndustrialCooler.description>Uma grande máquina de resfriamento de ar do tipo industrial que se encaixa em uma parede. O ar frio sai por um lado, enquanto a exaustão quente sai pelo outro. Pode ser usado para resfriar salas durante o verão ou para criar um freezer de grande porte. É capaz de resfriar a sala a uma temperatura muito mais baixa do que o refrigerador padrão.</VTE_IndustrialCooler.description>
+  
+  <VTE_IndustrialHeater.label>aquecedor industrial</VTE_IndustrialHeater.label>
+  <VTE_IndustrialHeater.description>Uma grande máquina de aquecimento do tipo industrial que se encaixa em uma parede. Converte eletricidade em calor. Pode ligar ou desligar automaticamente para atingir uma temperatura alvo específica. É capaz de aquecer a sala a uma temperatura muito mais alta do que os aquecedores padrão.</VTE_IndustrialHeater.description>
+  
+  <VTE_LargeCeilingFan.label>ventilador de teto grande</VTE_LargeCeilingFan.label>
+  <VTE_LargeCeilingFan.description>Um ventilador grande montado no teto. Pode ser usado para resfriar salas rapidamente durante o verão. Não é eficiente o suficiente para refrigerar alimentos; ele buscará atingir uma temperatura ambiente de 17°C.</VTE_LargeCeilingFan.description>
+  
+  <VTE_SmallCeilingFan.label>ventilador de teto pequeno</VTE_SmallCeilingFan.label>
+  <VTE_SmallCeilingFan.description>Um ventilador montado no teto. Pode ser usado para resfriar salas lentamente durante o verão. Não é eficiente o suficiente para refrigerar alimentos; ele buscará atingir uma temperatura ambiente de 17°C.</VTE_SmallCeilingFan.description>
+  
+  <VTE_StandingCooler.label>refrigerador de coluna</VTE_StandingCooler.label>
+  <VTE_StandingCooler.description>Uma máquina de resfriamento de ar autônoma. O ar frio sai de um ventilador e se espalha pela área circundante. Pode ser usado para resfriar salas durante o verão. Não é eficiente o suficiente para refrigerar alimentos.</VTE_StandingCooler.description>
+  
+  <VTE_WallHeater.label>aquecedor de parede</VTE_WallHeater.label>
+  <VTE_WallHeater.description>Uma máquina de aquecimento que se encaixa em uma parede. Converte eletricidade em calor. Pode ligar ou desligar automaticamente para atingir uma temperatura alvo específica. Pode ser usado para aquecer salas durante o inverno.</VTE_WallHeater.description>
+  
+  <VTE_WallMountedCooler.label>refrigerador montado na parede</VTE_WallMountedCooler.label>
+  <VTE_WallMountedCooler.description>Uma máquina de resfriamento de ar montada na parede que se encaixa em uma parede. O ar frio sai por um lado, enquanto a exaustão quente sai pelo outro. Pode ser usado para resfriar salas durante o verão ou para criar um freezer de grande porte. Só pode ser construído sobre uma parede.</VTE_WallMountedCooler.description>
+  
+  <VTE_WallMountedHeater.label>aquecedor montado na parede</VTE_WallMountedHeater.label>
+  <VTE_WallMountedHeater.description>Um dispositivo montado na parede que converte eletricidade em calor. Pode ligar ou desligar automaticamente para atingir uma temperatura alvo específica. Só pode ser construído sobre uma parede.</VTE_WallMountedHeater.description>
+  
+  <VTE_WallMountedVent.label>ventilação montada na parede</VTE_WallMountedVent.label>
+  <VTE_WallMountedVent.description>Uma ventilação simples montada na parede para equalizar a temperatura entre duas salas sem permitir que pessoas caminhem entre elas. Só pode ser construída sobre uma parede.</VTE_WallMountedVent.description>
+  
+</LanguageData>
