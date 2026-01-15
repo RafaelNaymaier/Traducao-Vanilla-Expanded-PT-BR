@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Plants Expanded</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Bearberry"]/label</xpath>
+          <value><label>amoras silvestres</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Bearberry"]/description</xpath>
+          <value><description>Estas são pequenas bagas cor-de-rosa conhecidas como amoras silvestres (bearberries). Embora as amoras cruas possuam um sabor ácido e insosso, após o cozimento uma doçura natural surge e o resultado pode ser muito mais palatável.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawApple"]/label</xpath>
+          <value><label>maçã</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawApple"]/description</xpath>
+          <value><description>Maçãs vermelhas e brilhantes. As maçãs têm sido usadas como lanche, ingrediente de sobremesa e fermentadas em cidra desde os primórdios da humanidade.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawBanana"]/label</xpath>
+          <value><label>banana</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawBanana"]/description</xpath>
+          <value><description>Bagas amarelas e alongadas, facilmente descascadas para revelar uma polpa profundamente doce e quase pastosa por dentro. Têm sido as favoritas de humanos e outros primatas nos trópicos por milênios.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawCherry"]/label</xpath>
+          <value><label>cereja</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawCherry"]/description</xpath>
+          <value><description>Minúsculas cerejas doces de cor vermelho-púrpura. As cerejas são notáveis por exigirem uma breve temporada de frio intenso, por isso rapidamente se tornaram favoritas entre as culturas ocidentais do norte.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawOrange"]/label</xpath>
+          <value><label>laranja</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawOrange"]/description</xpath>
+          <value><description>Esféricas e perfuradas, as laranjas são notoriamente irritantes de descascar e bastante polpudas, mas conhecidas como uma das frutas absolutamente mais suculentas, com um frescor vibrante e um gosto residual azedo.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPeach"]/label</xpath>
+          <value><label>pêssegos</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPeach"]/description</xpath>
+          <value><description>Um fruto suculento comestível chamado pêssego ou nectarina. Um pêssego maduro terá um aroma fragrante e será delicioso se comido fresco.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPear"]/label</xpath>
+          <value><label>pera</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPear"]/description</xpath>
+          <value><description>Peras verdes crocantes. Embora inicialmente semelhantes às maçãs, as peras são ligeiramente mais fibrosas e menos doces.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPlum"]/label</xpath>
+          <value><label>ameixa</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPlum"]/description</xpath>
+          <value><description>Um fruto roxo de casca lisa. Muitas culturas envelhecem ameixas a seco para transformá-las em ameixas secas para preservação a longo prazo. Em vez de apodrecer, uma vez passados os 15 dias, as ameixas secarão e se tornarão ameixas secas, que são consideradas alimentos preservados.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPricklyPear"]/label</xpath>
+          <value><label>figo-da-índia</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPricklyPear"]/description</xpath>
+          <value><description>Frutos comestíveis rosados semelhantes ao melão, usados historicamente tanto como lanche quanto como remédio por nativos do deserto.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPrunes"]/label</xpath>
+          <value><label>ameixas seca</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPrunes"]/description</xpath>
+          <value><description>Ameixas desidratadas. As ameixas secas levam muito tempo para se deteriorar.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawBeets"]/label</xpath>
+          <value><label>beterraba</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawBeets"]/description</xpath>
+          <value><description>Um vegetal semelhante a uma erva amplamente cultivado para humanos e gado, notavelmente nutritivo e historicamente usado na fabricação de corantes.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawCabbage"]/label</xpath>
+          <value><label>repolho</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawCabbage"]/description</xpath>
+          <value><description>Um vegetal de folhas verdes um tanto resistente, frequentemente picado e depois fermentado ou ensopado.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawEggplant"]/label</xpath>
+          <value><label>berinjela</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawEggplant"]/description</xpath>
+          <value><description>Um fruto roxo bulboso da família das solanáceas. A berinjela raramente é servida como acompanhamento, geralmente preenchendo o papel de componente principal do prato.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawOnion"]/label</xpath>
+          <value><label>cebola</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawOnion"]/description</xpath>
+          <value><description>Um bulbo comestível de sabor e cheiro pungentes e salgados, com quase tantas variedades quanto aplicações culinárias.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPeas"]/label</xpath>
+          <value><label>ervilha</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPeas"]/description</xpath>
+          <value><description>Sementes verdes esféricas guardadas com segurança em uma vagem carnuda. As ervilhas são notáveis por terem uma vida útil potencialmente longa quando secas adequadamente.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPepper"]/label</xpath>
+          <value><label>pimenta</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPepper"]/description</xpath>
+          <value><description>Vagens carmesins minúsculas e picantes, frequentemente usadas em molhos, temperos ou pós. Embora o sabor em si seja suave, a capsaicina contida nelas faz com que os humanos as achem estranhamente viciantes, embora dolorosas quando consumidas em massa. Sabe-se que os animais evitam comer a planta inteiramente.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPumpkin"]/label</xpath>
+          <value><label>abóbora</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPumpkin"]/description</xpath>
+          <value><description>Tecnicamente uma baga gigante, as abóboras são famosas por serem triviais tanto para semear quanto para colher.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawTomatoes"]/label</xpath>
+          <value><label>tomate</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawTomatoes"]/description</xpath>
+          <value><description>Uma série de frutos vermelhos suculentos e brilhantes presos por ramos, usados comumente como um vegetal. O cozimento forte libera açúcares naturais e suaviza os ácidos contidos neles.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Agave"]/label</xpath>
+          <value><label>agave</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Agave"]/description</xpath>
+          <value><description>Uma planta do deserto de folhas grandes com flores e talos comestíveis.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Beet"]/label</xpath>
+          <value><label>beterraba</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Beet"]/description</xpath>
+          <value><description>Um vegetal semelhante a uma erva amplamente cultivado tanto para humanos quanto para gado, notavelmente nutritivo e historicamente usado na fabricação de corantes.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Embora as beterrabas exijam solo fértil, elas são bastante resistentes e continuarão a crescer a 10% da velocidade durante o inverno. No entanto, elas precisam ser plantadas durante a estação de crescimento.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Cabbage"]/label</xpath>
+          <value><label>repolho</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Cabbage"]/description</xpath>
+          <value><description>Um vegetal de folhas verdes um tanto resistente, frequentemente picado e depois fermentado ou ensopado. Esta linhagem específica parece altamente resistente a toxinas transportadas pelo ar e radiação.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Os repolhos não são afetados por chuva tóxica e, ao contrário de outras plantas, não morrerão por causa dela.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Eggplant"]/label</xpath>
+          <value><label>berinjela</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Eggplant"]/description</xpath>
+          <value><description>Um fruto roxo bulboso da família das solanáceas. A berinjela raramente é servida como acompanhamento, geralmente preenchendo o papel de componente principal do prato. Floresce em climas quentes.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; As berinjelas crescerão 30% mais rápido se a temperatura estiver entre 37 e 60 ºC.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Grass"]/label</xpath>
+          <value><label>grama</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Grass"]/description</xpath>
+          <value><description>Grama cultivada. Cresce em qualquer lugar onde haja um pouco de luz e solo minimamente fértil.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; A grama pode ser usada para alimentar o gado, semelhante ao feno. Não é afetada pela praga, mas não pode ser colhida e armazenada como o feno.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Onion"]/label</xpath>
+          <value><label>cebola</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Onion"]/description</xpath>
+          <value><description>Um bulbo comestível de sabor e cheiro pungentes e salgados, com quase tantas variedades quanto aplicações culinárias.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; A cebola não é afetada pela praga.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Peas"]/label</xpath>
+          <value><label>ervilha</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Peas"]/description</xpath>
+          <value><description>Sementes verdes esféricas guardadas com segurança em uma vagem carnuda. As ervilhas são conhecidas por serem bastante sedentas e se beneficiarão muito da chuva. As ervilhas também são notáveis por terem uma vida útil potencialmente longa quando secas adequadamente.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Normalmente menos eficientes que milho, arroz ou batatas, as ervilhas receberão, no entanto, um enorme bônus de crescimento de 50% se estiver chovendo.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Pepper"]/label</xpath>
+          <value><label>pimenta</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Pepper"]/description</xpath>
+          <value><description>Vagens carmesins minúsculas e picantes, frequentemente usadas em molhos, temperos ou pós. Embora o sabor em si seja suave, a capsaicina contida nelas faz com que os humanos as achem estranhamente viciantes, embora dolorosas quando consumidas em massa. Sabe-se que os animais evitam comê-las inteiramente.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Os animais não comerão a pimenta, tendo uma nutrição efetiva de zero. Note, porém, que eles comerão o produto colhido normalmente.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Pumpkin"]/label</xpath>
+          <value><label>abóbora</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Pumpkin"]/description</xpath>
+          <value><description>Tecnicamente uma baga gigante, as abóboras são famosas por serem triviais tanto para semear quanto para colher. No entanto, sua durabilidade significa peso e massa extras - muito pesadas para bacias hidropônicas.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; As colheitas de abóbora sempre terão sucesso, independentemente da habilidade de plantas do colono.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_TallGrass"]/label</xpath>
+          <value><label>grama alta</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_TallGrass"]/description</xpath>
+          <value><description>Grama alta cultivada. Cresce em qualquer lugar onde haja um pouco de luz e solo minimamente fértil. Atrasas qualquer um que se mova sobre ela.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; A grama pode ser usada para alimentar o gado, semelhante ao feno. Não é afetada pela praga, mas não pode ser colhida e armazenada como o feno.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Tomato"]/label</xpath>
+          <value><label>tomate</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Tomato"]/description</xpath>
+          <value><description>Uma série de frutos vermelhos suculentos e brilhantes presos por ramos, usados comumente como um vegetal. O cozimento forte libera açúcares naturais e suaviza os ácidos contidos neles. Os tomates são facilmente removidos do ramo sem ter que arrancar a planta.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Os tomates não serão destruídos na colheita, semelhante às árvores frutíferas.</description></value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_AppleTree"]/label</xpath>
+          <value><label>macieira</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_AppleTree"]/description</xpath>
+          <value><description>Uma árvore que produz maçãs vermelhas e brilhantes. Embora existam inúmeras variedades diferentes, este tipo específico favorece verões quentes e invernos amenos. As maçãs têm sido usadas como lanche, ingrediente de sobremesa e fermentadas em cidra desde os primórdios da humanidade.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Todas as árvores frutíferas ocupam cerca de quatro vezes mais espaço que as plantações normais, levam muito tempo para crescer e produzem frutos que podem ser comidos crus. Elas não são destruídas após a colheita, mas têm uma vida útil limitada e eventualmente precisarão ser replantadas.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_BananaTree"]/label</xpath>
+          <value><label>bananeira</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_BananaTree"]/description</xpath>
+          <value><description>Uma árvore tropical alta de folhas largas adornada com um cacho de bagas amarelas e alongadas sucintamente conhecidas como bananas. As bananas são facilmente descascadas para revelar uma polpa profundamente doce e quase pastosa por dentro e têm sido as favoritas de humanos e outros primatas nos trópicos por milênios.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Todas as árvores frutíferas ocupam cerca de quatro vezes mais espaço que as plantações normais, levam muito tempo para crescer e produzem frutos que podem ser comidos crus. Elas não são destruídas após a colheita, mas têm uma vida útil limitada e eventualmente precisarão ser replantadas.\n\nBananas são fáceis de colher, já que uma "mão" inteira pode ser cortada ao mesmo tempo, tornando seu tempo de colheita muito menor que o de outras árvores.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_BearBerryBush"]/label</xpath>
+          <value><label>arbusto de amoras silvestres</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_BearBerryBush"]/description</xpath>
+          <value><description>Um arbusto rasteiro salpicado com bagas rosadas que prospera em solos pobres e até arenosos. Embora as amoras cruas possuam um sabor ácido e insosso, após o cozimento uma doçura natural surge e o resultado pode ser muito mais palatável.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Todas as árvores frutíferas ocupam cerca de quatro vezes mais espaço que as plantações normais, levam muito tempo para crescer e produzem frutos que podem ser comidos crus. Elas não são destruídas após a colheita, mas têm uma vida útil limitada e eventualmente precisarão ser replantadas.\n\nArbustos de amoras silvestres podem ser cultivados em vasos. Eles não bloqueiam turbinas eólicas.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_CherryTree"]/label</xpath>
+          <value><label>cerejeira</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_CherryTree"]/description</xpath>
+          <value><description>Uma árvore que produz minúsculas cerejas doces de cor vermelho-púrpura. As cerejeiras são notáveis por exigirem uma breve temporada de frio intenso, por isso seus frutos rapidamente se tornaram favoritos entre as civilizações ocidentais do norte. Este gênero específico é bastante bonito, salpicado de flores rosadas por toda parte, florescendo totalmente a cada inverno.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Todas as árvores frutíferas ocupam cerca de quatro vezes mais espaço que as plantações normais, levam muito tempo para crescer e produzem frutos que podem ser comidos crus. Elas não são destruídas após a colheita, mas têm uma vida útil limitada e eventualmente precisarão ser replantadas.\n\nAs cerejeiras têm o dobro de beleza em comparação com outras árvores frutíferas.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_figo da india"]/label</xpath>
+          <value><label>figo da india</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_figo da india"]/description</xpath>
+          <value><description>Mais frequentemente referido como cacto "figo-da-índia", esta planta é conhecida por ser bastante generosa mesmo em desertos quentes e secos. As palmas deste cacto alto e espinhoso florescem em frutos comestíveis rosados semelhantes ao melão, usados historicamente tanto como lanche quanto como remédio por nativos do deserto.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Todas as árvores frutíferas ocupam cerca de quatro vezes mais espaço que as plantações normais, levam muito tempo para crescer e produzem frutos que podem ser comidos crus. Elas não são destruídas após a colheita, mas têm uma vida útil limitada e eventualmente precisarão ser replantadas.\n\nfigo da indias podem ser plantadas próximas umas das outras, pois não bloqueiam a semeadura de plantas adjacentes a elas.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_OrangeTree"]/label</xpath>
+          <value><label>laranjeira</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_OrangeTree"]/description</xpath>
+          <value><description>Uma árvore densa e semi-tropical salpicada de frutos alaranjados, bem equipada para crescer em ambientes úmidos e em solo molhado. Esféricas e perfuradas, as laranjas são notoriamente irritantes de descascar e bastante polpudas, mas conhecidas como uma das frutas absolutamente mais suculentas, com um frescor vibrante e um gosto residual azedo.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Todas as árvores frutíferas ocupam cerca de quatro vezes mais espaço que as plantações normais, levam muito tempo para crescer e produzem frutos que podem ser comidos crus. Elas não são destruídas após a colheita, mas têm uma vida útil limitada e eventualmente precisarão ser replantadas.\n\nLaranjeiras recebem um bônus de 1% no crescimento para cada terreno de rio em um raio de 3 ladrilhos ao redor delas.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_PeachTree"]/label</xpath>
+          <value><label>pessegueiro</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_PeachTree"]/description</xpath>
+          <value><description>Uma árvore caducifólia que produz frutos de caroço aveludados conhecidos como pêssegos. Os pessegueiros frequentemente exigem luz solar total e temperaturas quentes. Culturas orientais antigas cultivavam pomares dessas árvores, notando sua capacidade de sobreviver em condições de seca.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Todas as árvores frutíferas ocupam cerca de quatro vezes mais espaço que as plantações normais, levam muito tempo para crescer e produzem frutos que podem ser comidos crus. Elas não são destruídas após a colheita, mas têm uma vida útil limitada e eventualmente precisarão ser replantadas.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_PearTree"]/label</xpath>
+          <value><label>pereira</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_PearTree"]/description</xpath>
+          <value><description>Uma árvore robusta que produz peras verdes crocantes. As pereiras são notáveis por exigirem grandes quantidades de água e clima fresco, além de se darem muito bem na sombra. Embora inicialmente semelhantes às maçãs, as peras são ligeiramente mais fibrosas e menos doces.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Todas as árvores frutíferas ocupam cerca de quatro vezes mais espaço que as plantações normais, levam muito tempo para crescer e produzem frutos que podem ser comidos crus. Elas não são destruídas após a colheita, mas têm uma vida útil limitada e eventualmente precisarão ser replantadas.\n\nPereiras podem ser cultivadas em ambientes fechados e não bloqueiam turbinas eólicas.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_PlumTree"]/label</xpath>
+          <value><label>ameixeira</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_PlumTree"]/description</xpath>
+          <value><description>Uma árvore densa que produz um fruto roxo de casca lisa. As ameixas são particularmente ácidas e usadas em uma variedade de geleias e cidras. Muitas culturas também envelhecem ameixas a seco para transformá-las em ameixas secas para preservação a longo prazo.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Todas as árvores frutíferas ocupam cerca de quatro vezes mais espaço que as plantações normais, levam muito tempo para crescer e produzem frutos que podem ser comidos crus. Elas não são destruídas após a colheita, mas têm uma vida útil limitada e eventualmente precisarão ser replantadas.\n\nAmeixas podem ser consumidas cruas ou secas para se tornarem ameixas secas.</description></value>
+        </li>
+
+      </operations>
+    </match>
+  </Operation>
+</Patch>
