@@ -2,8 +2,8 @@
 <Patch>
   <Operation Class="PatchOperationFindMod">
     <mods>
-      <li>vanillaexpanded.gravship</li>
       <li>Vanilla Gravship Expanded - Chapter 1</li>
+      <li>vanillaexpanded.gravship</li>
     </mods>
     <match Class="PatchOperationSequence">
       <operations>

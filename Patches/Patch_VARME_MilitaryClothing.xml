@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+  
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Vanilla Apparel Expanded</li>
+    </mods>
+    <nomatch Class="PatchOperationSequence">
+        <success>Always</success>
+        <operations>
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs</xpath>
+                <value>
+                    <ResearchProjectDef>
+                        <defName>VAE_MilitaryClothing</defName>
+                        <label>vestuário militar</label>
+                        <description>Fabrique trajes à prova de balas e resistentes às intempéries para proteger seus soldados.</description>
+                        <baseCost>1000</baseCost>
+                        <techLevel>Industrial</techLevel>
+                        <prerequisites>
+                            <li>VAE_LeatherTanning</li>
+                        </prerequisites>
+                        <researchViewX>2</researchViewX>
+                        <researchViewY>4.5</researchViewY>
+                    </ResearchProjectDef>
+                </value>
+            </li>
+        </operations>
+    </nomatch>
+  </Operation>
+
+</Patch>

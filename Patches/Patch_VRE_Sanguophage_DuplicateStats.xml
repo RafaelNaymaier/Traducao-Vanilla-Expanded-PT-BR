@@ -2,8 +2,8 @@
 <Patch>
   <Operation Class="PatchOperationFindMod">
     <mods>
-      <li>vanillaracesexpanded.sanguophage</li>
       <li>Vanilla Races Expanded - Sanguophage</li>
+      <li>vanillaracesexpanded.sanguophage</li>
     </mods>
     <match Class="PatchOperationSequence">
       <operations>

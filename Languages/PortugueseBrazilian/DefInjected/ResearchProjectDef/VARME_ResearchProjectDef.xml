@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VAE_HazardProtection.label>proteção contra riscos</VAE_HazardProtection.label>
+  <VAE_HazardProtection.description>Desenvolve trajes resistentes a alta toxicidade e radiação.</VAE_HazardProtection.description>
+  <VAE_HazardProtection.generalRules.rulesStrings>
+    <li>subject->salvaguarda ambiental</li>
+    <li>subject_story->projetou trajes que transformam desertos tóxicos em terras caminháveis</li>
+    <li>subject_story->desenvolveu escudos de radiação tecidos diretamente no tecido dos uniformes</li>
+    <li>subject_story->criou vestimentas que permitem pesquisas seguras em ambientes mortais</li>
+    <li>subject_gerund->melhorando a resistência a riscos</li>
+  </VAE_HazardProtection.generalRules.rulesStrings>
+  
+  <VAE_LeatherTanning.label>curtimento de couro</VAE_LeatherTanning.label>
+  <VAE_LeatherTanning.description>Aprenda o processo de curtimento para fabricar armaduras mais espessas e duráveis.</VAE_LeatherTanning.description>
+  <VAE_LeatherTanning.generalRules.rulesStrings>
+    <li>subject->arte da marroquinaria</li>
+    <li>subject_story->redescobriu antigas receitas de curtimento para uma durabilidade inigualável</li>
+    <li>subject_story->introduziu técnicas de impermeabilização que desafiam climas rigorosos</li>
+    <li>subject_story->confeccionou armaduras que misturam tradição com a necessidade do campo de batalha</li>
+    <li>subject_gerund->dominando o curtimento de couro</li>
+  </VAE_LeatherTanning.generalRules.rulesStrings>
+  
+  <VAE_MlitaryCamouflage.label>camuflagem militar</VAE_MlitaryCamouflage.label>
+  <VAE_MlitaryCamouflage.description>Fabrica trajes militares especiais que permitem aos usuários se assemelharem ao ambiente de fundo, como folhagens.</VAE_MlitaryCamouflage.description>
+  <VAE_MlitaryCamouflage.generalRules.rulesStrings>
+    <li>subject->furtividade e mimetismo</li>
+    <li>subject_story->projetou equipamentos que imitam o ambiente, tornando os soldados invisíveis</li>
+    <li>subject_story->estudou a camuflagem de animais para aplicar seus padrões em trajes militares</li>
+    <li>subject_story->equipou batedores com vestimentas que se misturam perfeitamente aos arredores</li>
+    <li>subject_gerund->camuflando as forças</li>
+  </VAE_MlitaryCamouflage.generalRules.rulesStrings>
+  
+  <VAE_SiegebreakerArmor.label>armadura quebra-cerco</VAE_SiegebreakerArmor.label>
+  <VAE_SiegebreakerArmor.description>Fabrica a armadura quebra-cerco, uma armadura energizada pesada que desacelera significativamente o usuário, mas oferece proteção avançada à distância. Note que estas também exigem componentes avançados.</VAE_SiegebreakerArmor.description>
+  <VAE_SiegebreakerArmor.generalRules.rulesStrings>
+    <li>subject->marcha fortificada</li>
+    <li>subject_story->forjou armaduras que resistem à artilharia, transformando soldados em tanques ambulantes</li>
+    <li>subject_story->integrou tecnologia avançada para uma resistência inigualável no campo de batalha</li>
+    <li>subject_story->desenvolveu exoesqueletos que suportam o impacto, salvaguardando o usuário</li>
+    <li>subject_gerund->construindo defesas siegebreaker</li>
+  </VAE_SiegebreakerArmor.generalRules.rulesStrings>
+  
+  <VAE_TrooperArmor.label>armadura de infantaria</VAE_TrooperArmor.label>
+  <VAE_TrooperArmor.description>Fabrica a armadura de infantaria, uma armadura semi-energizada leve que é barata de produzir. Note que estas também exigem componentes avançados.</VAE_TrooperArmor.description>
+  <VAE_TrooperArmor.generalRules.rulesStrings>
+    <li>subject->proteção ágil</li>
+    <li>subject_story->inou com materiais leves para mobilização rápida de tropas</li>
+    <li>subject_story->equilibrou proteção com mobilidade, estabelecendo novos padrões para equipamentos de combate</li>
+    <li>subject_story->pioneirismo no uso de armaduras semi-energizadas em escaramuças</li>
+    <li>subject_gerund->equipando unidades de resposta rápida</li>
+  </VAE_TrooperArmor.generalRules.rulesStrings>
+  
+</LanguageData>
