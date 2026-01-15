@@ -22,38 +22,4 @@
       </operations>
     </match>
   </Operation>
-
-  <Operation Class="PatchOperationFindMod">
-    <mods>
-      <li>vanillaexpanded.gravship</li>
-    </mods>
-    <match Class="PatchOperationSequence">
-      <operations>
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/ThingDef[defName="ChemfuelTank"]/label</xpath>
-          <value>
-            <label>Tanque pequeno de astrocombustível</label>
-          </value>
-        </li>
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/ThingDef[defName="ChemfuelTank"]/description</xpath>
-          <value>
-            <description>Um tanque de armazenamento de astrocombustível que fornece combustível para os propulsores de uma gravinave.</description>
-          </value>
-        </li>
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/ThingDef[defName="LargeChemfuelTank"]/label</xpath>
-          <value>
-            <label>Tanque grande de astrocombustível</label>
-          </value>
-        </li>
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/ThingDef[defName="LargeChemfuelTank"]/description</xpath>
-          <value>
-            <description>Um enorme tanque de armazenamento de astrocombustível que fornece combustível para os propulsores de uma gravinave.</description>
-          </value>
-        </li>
-      </operations>
-    </match>
-  </Operation>
 </Patch>
