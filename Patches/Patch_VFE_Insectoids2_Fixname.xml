@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Acidspitter"]/label</xpath>
+    <value><label>cuspidor de ácido</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Boomtick"]/label</xpath>
+    <value><label>bumarrapato</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Durapod"]/label</xpath>
+    <value><label>durápode</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Empress"]/label</xpath>
+    <value><label>imperatriz</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Fuelmite"]/label</xpath>
+    <value><label>combustácaro</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Gigalocust"]/label</xpath>
+    <value><label>gigafanhoto</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Gigamite"]/label</xpath>
+    <value><label>gigácaro</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Hellbeetle"]/label</xpath>
+    <value><label>infernobesouro</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Ironclad"]/label</xpath>
+    <value><label>couraçado</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Macrofly"]/label</xpath>
+    <value><label>macromosca</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Megapede"]/label</xpath>
+    <value><label>megapeia</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Megathrips"]/label</xpath>
+    <value><label>megatripes</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Megawasp"]/label</xpath>
+    <value><label>megavespa</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Patriarch"]/label</xpath>
+    <value><label>patriarca</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Queen"]/label</xpath>
+    <value><label>rainha insectoide</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_RoyalMegascarab"]/label</xpath>
+    <value><label>megaescaravelho real</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_RoyalMegaspider"]/label</xpath>
+    <value><label>megaranha real</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_RoyalSpelopede"]/label</xpath>
+    <value><label>espelópode real</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Silverfish"]/label</xpath>
+    <value><label>traça</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Swarmling"]/label</xpath>
+    <value><label>enxaminho</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Tankroach"]/label</xpath>
+    <value><label>baratanque</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Teramantis"]/label</xpath>
+    <value><label>teramantis</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Titantick"]/label</xpath>
+    <value><label>titancarrapato</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="VFEI2_Venomite"]/label</xpath>
+    <value><label>peçonhácaro</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="VFEI2_Creeper"]/label</xpath>
+    <value><label>rastejante</label></value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/FactionDef[defName="Insect"]/label</xpath>
+    <value><label>colmeia</label></value>
+  </Operation>
+
+</Patch>

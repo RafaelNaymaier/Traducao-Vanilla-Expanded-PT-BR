@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Factions Expanded - Pirates</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/VFEPirates.WarcasketDef[defName="VFEP_Warcasket_Controller"]/label</xpath>
+          <value>
+            <label>warcasket controlador</label>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/VFEPirates.WarcasketDef[defName="VFEP_Warcasket_Controller"]/verbs/li[label="drone deployment"]/label</xpath>
+          <value>
+            <label>implantação de drones</label>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/VFEPirates.WarcasketDef[defName="VFEP_Warcasket_Controller"]/comps/li[@Class="CompProperties_ApparelReloadable"]/chargeNoun</xpath>
+          <value>
+            <chargeNoun>implantação de drones</chargeNoun>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/VFEPirates.WarcasketDef[defName="VFEP_WarcasketShoulders_Barrage"]/verbs/li[label="grenade barrage"]/label</xpath>
+          <value>
+            <label>barragem de granadas</label>
+          </value>
+        </li>
+        
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/VFEPirates.WarcasketDef[defName="VFEP_WarcasketHelmet_Brute"]/label</xpath>
+          <value>
+            <label>elmo de warcasket bruto</label>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/VFEPirates.WarcasketDef[defName="VFEP_WarcasketHelmet_Brute"]/verbs/li[label="shield detonation"]/label</xpath>
+          <value>
+            <label>detonação de escudo</label>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/VFEPirates.WarcasketDef[defName="VFEP_WarcasketHelmet_Brute"]/comps/li[@Class="MVCF.Comps.CompProperties_VerbGiver"]/verbProps/li[label="shield detonation"]</xpath>
+          <value>
+            <li>
+              <label>detonação de escudo</label>
+              <visualLabel>detonação de escudo</visualLabel>
+              <description>Sobrecarga o escudo pessoal para criar uma explosão de energia cinética ao redor do warcasket, danificando tudo em um raio que aumenta quanto mais energia for detonada.</description>
+              <draw>false</draw>
+            </li>
+          </value>
+        </li>
+
+      </operations>
+    </match>
+  </Operation>
+</Patch>

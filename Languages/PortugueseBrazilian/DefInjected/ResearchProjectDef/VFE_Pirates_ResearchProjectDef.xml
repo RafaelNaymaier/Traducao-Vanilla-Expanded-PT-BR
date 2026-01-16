@@ -1,84 +1,77 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <VFEP_AdvancedWarcaskets.label>sarcófagos de guerra avançados</VFEP_AdvancedWarcaskets.label>
-  <VFEP_AdvancedWarcaskets.description>Construa variações aprimoradas de sarcófagos de guerra voltadas para velocidade, proteção ou uma abordagem equilibrada.</VFEP_AdvancedWarcaskets.description>
+  <VFEP_AdvancedWarcaskets.label>carcaças de guerra avançadas</VFEP_AdvancedWarcaskets.label>
+  <VFEP_AdvancedWarcaskets.description>Construa variações aprimoradas de carcaças de guerra voltadas para velocidade, proteção ou uma abordagem equilibrada.</VFEP_AdvancedWarcaskets.description>
   <VFEP_AdvancedWarcaskets.generalRules.rulesStrings>
-    <li>subject->evolução dos sarcófagos de guerra</li>
-    <li>subject_story->projetos refinados de sarcófagos de guerra para velocidade, durabilidade e versatilidade, estabelecendo novos padrões na guerra mecanizada</li>
+    <li>subject->evolução das carcaças de guerra</li>
+    <li>subject_story->projetos refinados de carcaças de guerra para velocidade, durabilidade e versatilidade, estabelecendo novos padrões na guerra mecanizada</li>
     <li>subject_story->máquinas de guerra criadas que dançavam nos campos de batalha com graça letal</li>
     <li>subject_story->equilibrou a trindade de velocidade, proteção e poder de fogo em uma sinfonia de destruição</li>
     <li>subject_gerund->aprimorando a anatomia da guerra</li>
   </VFEP_AdvancedWarcaskets.generalRules.rulesStrings>
   
-  <VFEP_SpacerWarcaskets.label>sarcófagos de guerra espaciais</VFEP_SpacerWarcaskets.label>
-  <VFEP_SpacerWarcaskets.description>Fabrique sarcófagos de guerra da era espacial - o ápice da tecnologia de guerra.</VFEP_SpacerWarcaskets.description>
+  <VFEP_SpacerWarcaskets.label>carcaças de guerra espaciais</VFEP_SpacerWarcaskets.label>
+  <VFEP_SpacerWarcaskets.description>Fabrique carcaças de guerra da era espacial - o ápice da tecnologia de guerra.</VFEP_SpacerWarcaskets.description>
   <VFEP_SpacerWarcaskets.generalRules.rulesStrings>
     <li>subject->ápice da guerra mecanizada</li>
-    <li>subject_story->sarcófagos de guerra criados que aproveitaram a tecnologia da era espacial, incorporando o zênite da engenharia militar</li>
+    <li>subject_story->carcaças de guerra criadas que aproveitaram a tecnologia da era espacial, incorporando o zênite da engenharia militar</li>
     <li>subject_story->fundiu o que há de mais moderno na tecnologia da era espacial com a antiga arte da guerra, criando máquinas de batalha inigualáveis</li>
-    <li>subject_story->redefiniu o campo de batalha com sarcófagos de guerra que eram lendas encarnadas</li>
+    <li>subject_story->redefiniu o campo de batalha com carcaças de guerra que eram lendas encarnadas</li>
     <li>subject_gerund->alcançando o ápice da evolução do combate</li>
   </VFEP_SpacerWarcaskets.generalRules.rulesStrings>
   
-  <VFEP_SpacerWarcasketWeaponry.label>armamento de sarcófago espacial</VFEP_SpacerWarcasketWeaponry.label>
-  <VFEP_SpacerWarcasketWeaponry.description>Utilize novas tecnologias espaciais para criar armas de grande escala projetadas para serem montadas em sarcófagos de guerra.</VFEP_SpacerWarcasketWeaponry.description>
+  <VFEP_SpacerWarcasketWeaponry.label>armamento de carcaça espacial</VFEP_SpacerWarcasketWeaponry.label>
+  <VFEP_SpacerWarcasketWeaponry.description>Utilize novas tecnologias espaciais para criar armas de grande escala projetadas para serem montadas em carcaças de guerra.</VFEP_SpacerWarcasketWeaponry.description>
   <VFEP_SpacerWarcasketWeaponry.generalRules.rulesStrings>
     <li>subject->armamentos de nível espacial</li>
-    <li>subject_story->aproveitou os mistérios da tecnologia espacial para fabricar armas de potência incomparável para sarcófagos de guerra</li>
-    <li>subject_story->inaugurou uma era em que os sarcófagos de guerra exerciam o poder de alterar o curso das guerras com um único disparo</li>
+    <li>subject_story->aproveitou os mistérios da tecnologia espacial para fabricar armas de potência incomparável para carcaças de guerra</li>
+    <li>subject_story->inaugurou uma era em que as carcaças de guerra exerciam o poder de alterar o curso das guerras com um único disparo</li>
     <li>subject_story->uniu a arte da guerra à ciência das estrelas, criando armamentos nascidos do cosmos</li>
     <li>subject_gerund->empunhando a ira das estrelas</li>
   </VFEP_SpacerWarcasketWeaponry.generalRules.rulesStrings>
   
-  <VFEP_SpecialisedWarcaskets.label>sarcófagos de guerra especializados</VFEP_SpecialisedWarcaskets.label>
-  <VFEP_SpecialisedWarcaskets.description>Fabrique sarcófagos de guerra projetados para desempenhar funções especializadas.</VFEP_SpecialisedWarcaskets.description>
+  <VFEP_SpecialisedWarcaskets.label>carcaças de guerra especializadas</VFEP_SpecialisedWarcaskets.label>
+  <VFEP_SpecialisedWarcaskets.description>Fabrique carcaças de guerra projetadas para desempenhar funções especializadas.</VFEP_SpecialisedWarcaskets.description>
   <VFEP_SpecialisedWarcaskets.generalRules.rulesStrings>
     <li>subject->soluções de combate personalizadas</li>
-    <li>subject_story->sarcófagos de guerra projetados com funções especializadas, de assassinos silenciosos a juggernauts imparáveis</li>
+    <li>subject_story->carcaças de guerra projetadas com funções especializadas, de assassinos silenciosos a juggernauts imparáveis</li>
     <li>subject_story->quebrou o molde da guerra tradicional, introduzindo unidades sob medida para necessidades táticas específicas</li>
-    <li>subject_story->elevou o programa de sarcófagos de guerra a novos patamares com máquinas de guerra customizadas</li>
+    <li>subject_story->elevou o programa de carcaças de guerra a novos patamares com máquinas de guerra customizadas</li>
     <li>subject_gerund->especializando as engrenagens da guerra</li>
   </VFEP_SpecialisedWarcaskets.generalRules.rulesStrings>
-  
+
   <VFEP_SweatFermentation.label>fermentação de suor</VFEP_SweatFermentation.label>
   <VFEP_SweatFermentation.description>Fabrique trajes que combinam destilação de álcool e síntese de pasta de nutrientes para produzir rum a partir de resíduos humanos reciclados.</VFEP_SweatFermentation.description>
-  <VFEP_SweatFermentation.generalRules.rulesStrings>
-    <li>subject->ingenuidade bioquímica</li>
-    <li>subject_story->transformou o ciclo de resíduos em uma fonte de sustento e espírito, fabricando rum a partir do suor do trabalho árduo</li>
-    <li>subject_story->desfocou as linhas entre destilação e desespero, encontrando inovação no não convencional</li>
-    <li>subject_story->criou um ciclo autossustentável de trabalho, resíduo e uísque, alimentando o corpo e o moral</li>
-    <li>subject_gerund->preparando resiliência a partir do refugo</li>
-  </VFEP_SweatFermentation.generalRules.rulesStrings>
   
-  <VFEP_WarcasketRemoval.label>remoção de sarcófago de guerra</VFEP_WarcasketRemoval.label>
-  <VFEP_WarcasketRemoval.description>Desbloqueia a operação "remover sarcófago de guerra" para retirar um colono de um sarcófago, fazendo-o perder braços e pernas, e reduzindo o sarcófago a escória.</VFEP_WarcasketRemoval.description>
+  <VFEP_WarcasketRemoval.label>remoção de carcaça de guerra</VFEP_WarcasketRemoval.label>
+  <VFEP_WarcasketRemoval.description>Desbloqueia a operação "remover carcaça de guerra" para retirar um colono de uma carcaça, fazendo-o perder braços e pernas, e reduzindo a carcaça a escória.</VFEP_WarcasketRemoval.description>
   <VFEP_WarcasketRemoval.generalRules.rulesStrings>
     <li>subject->o custo da guerra</li>
     <li>subject_story->desenvolveu técnicas para resgatar guerreiros de seus confins metálicos, uma vitória agridoce sobre a máquina</li>
     <li>subject_story->enfrentou a dura realidade de extrair o núcleo humano da máquina de guerra, sacrificando membros pela vida</li>
-    <li>subject_story->transformou a promessa de poder mecanizado na dor da perda, com cada remoção de sarcófago sendo um lembrete do preço da guerra</li>
+    <li>subject_story->transformou a promessa de poder mecanizado na dor da perda, com cada remoção de carcaça sendo um lembrete do preço da guerra</li>
     <li>subject_gerund->desfazendo o vínculo entre carne e aço</li>
   </VFEP_WarcasketRemoval.generalRules.rulesStrings>
   
-  <VFEP_Warcaskets.label>sarcófagos de guerra</VFEP_Warcaskets.label>
-  <VFEP_Warcaskets.description>Construa fundições de sarcófagos de guerra para fabricar peças básicas e equipar colonos para utilizar tais armaduras.</VFEP_Warcaskets.description>
+  <VFEP_Warcaskets.label>carcaças de guerra</VFEP_Warcaskets.label>
+  <VFEP_Warcaskets.description>Construa fundições de carcaças de guerra para fabricar peças básicas e equipar colonos para utilizar tais armaduras.</VFEP_Warcaskets.description>
   <VFEP_Warcaskets.generalRules.rulesStrings>
     <li>subject->desenvolvimento de infantaria mecanizada</li>
-    <li>subject_story->iniciou a era dos sarcófagos de guerra, transformando soldados de infantaria em titãs no campo de batalha</li>
-    <li>subject_story->dominou a arte da fabricação de sarcófagos de guerra, fundindo metal e poder em uma força singular</li>
+    <li>subject_story->iniciou a era das carcaças de guerra, transformando soldados de infantaria em titãs no campo de batalha</li>
+    <li>subject_story->dominou a arte da fabricação de carcaças de guerra, fundindo metal e poder em uma força singular</li>
     <li>subject_story->inaugurou uma nova era de guerra, onde a linha entre homem e máquina se tornou tênue</li>
     <li>subject_gerund->pioneirismo no futuro do combate</li>
   </VFEP_Warcaskets.generalRules.rulesStrings>
   
-  <VFEP_WarcasketWeaponry.label>armamento de sarcófago de guerra</VFEP_WarcasketWeaponry.label>
-  <VFEP_WarcasketWeaponry.description>Construa armas de escala aumentada projetadas para serem montadas em sarcófagos de guerra.</VFEP_WarcasketWeaponry.description>
+  <VFEP_WarcasketWeaponry.label>armamento de carcaça de guerra</VFEP_WarcasketWeaponry.label>
+  <VFEP_WarcasketWeaponry.description>Construa armas de escala aumentada projetadas para serem montadas em carcaças de guerra.</VFEP_WarcasketWeaponry.description>
   <VFEP_WarcasketWeaponry.generalRules.rulesStrings>
     <li>subject->inovação de armamento</li>
-    <li>subject_story->projetou armamentos devastadores para sarcófagos de guerra, transformando-os em arsenais ambulantes</li>
+    <li>subject_story->projetou armamentos devastadores para carcaças de guerra, transformando-os em arsenais ambulantes</li>
     <li>subject_story->preencheu a lacuna entre o poder da artilharia e a flexibilidade da infantaria</li>
-    <li>subject_story->concedeu aos sarcófagos de guerra o poder de fogo para dizimar, defender e dominar</li>
+    <li>subject_story->concedeu às carcaças de guerra o poder de fogo para dizimar, defender e dominar</li>
     <li>subject_gerund->armando os gigantes da guerra</li>
   </VFEP_WarcasketWeaponry.generalRules.rulesStrings>
-  
+
 </LanguageData>

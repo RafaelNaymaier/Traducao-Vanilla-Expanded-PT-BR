@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEI_DefenderInsectType.label>tipo defensor</VFEI_DefenderInsectType.label>
+  <VFEI_DefenderInsectType.description>Um tipo de insectoide.</VFEI_DefenderInsectType.description>
+  
+  <VFEI_HunterInsectType.label>tipo caçador</VFEI_HunterInsectType.label>
+  <VFEI_HunterInsectType.description>Um tipo de insectoide.</VFEI_HunterInsectType.description>
+  
+  <VFEI_ToBeCocooned.label>para encasular</VFEI_ToBeCocooned.label>
+  <VFEI_ToBeCocooned.description>Será colocado em um casulo.</VFEI_ToBeCocooned.description>
+  
+  <VFEI_WorkerInsectType.label>tipo operário</VFEI_WorkerInsectType.label>
+  <VFEI_WorkerInsectType.description>Um tipo de insectoide.</VFEI_WorkerInsectType.description>
+  
+  <VFEI2_AcidImmunity.label>imunidade a ácido</VFEI2_AcidImmunity.label>
+  <VFEI2_AcidImmunity.description>Insectoides da linhagem genética Kemia são imunes a ácido.</VFEI2_AcidImmunity.description>
+  
+  <VFEI2_ArmorDegradation.label>degradação de armadura</VFEI2_ArmorDegradation.label>
+  <VFEI2_ArmorDegradation.description>A carapaça deste insectoide foi rachada e perdeu parte de sua eficiência.</VFEI2_ArmorDegradation.description>
+  
+  <VFEI2_TeramantisStun.label>atordoamento recente</VFEI2_TeramantisStun.label>
+  <VFEI2_TeramantisStun.description>Esta criatura foi atordoada recentemente por um ataque surpresa.</VFEI2_TeramantisStun.description>
+  
+  <VFEI2_ToxicBuildup.label>acúmulo tóxico</VFEI2_ToxicBuildup.label>
+  <VFEI2_ToxicBuildup.description>Toxinas na corrente sanguínea. Isso pode vir de várias fontes, incluindo toxinas ambientais, mordidas venenosas ou armas envenenadas.\n\nEm doses altas, o acúmulo tóxico é letal. Mesmo em doses baixas, pode gerar cânceres.\n\nAo contrário do acúmulo tóxico do jogo base, criaturas que morrem com este dano tóxico podem ser comidas.</VFEI2_ToxicBuildup.description>
+  <VFEI2_ToxicBuildup.stages.initial-0.label>inicial</VFEI2_ToxicBuildup.stages.initial-0.label>
+  <VFEI2_ToxicBuildup.stages.initial-1.label>inicial</VFEI2_ToxicBuildup.stages.initial-1.label>
+  <VFEI2_ToxicBuildup.stages.minor.label>leve</VFEI2_ToxicBuildup.stages.minor.label>
+  <VFEI2_ToxicBuildup.stages.moderate.label>moderado</VFEI2_ToxicBuildup.stages.moderate.label>
+  <VFEI2_ToxicBuildup.stages.serious.label>grave</VFEI2_ToxicBuildup.stages.serious.label>
+  <VFEI2_ToxicBuildup.stages.extreme.label>extremo</VFEI2_ToxicBuildup.stages.extreme.label>
+
+  <VFEI2_EmpressSpawn.label>prole de imperatriz</VFEI2_EmpressSpawn.label>
+  <VFEI2_EmpressSpawn.description>Uma prole insectoide em gestação. Começando como um pequeno ovo, ela absorverá nutrientes rapidamente e crescerá, causando dor progressiva ao hospedeiro. Ela assumirá rapidamente o controle do sistema nervoso, crescendo e estendendo-se por todo o corpo do hospedeiro até estar pronta para emergir pela caixa torácica, matando-o no processo. Durante seu crescimento, a prole absorve memórias do hospedeiro, o que tornará o insectoide amigável à sua colônia.</VFEI2_EmpressSpawn.description>
+  <VFEI2_EmpressSpawn.stages.egg.label>ovo</VFEI2_EmpressSpawn.stages.egg.label>
+  <VFEI2_EmpressSpawn.stages.larva.label>larva</VFEI2_EmpressSpawn.stages.larva.label>
+  <VFEI2_EmpressSpawn.stages.pupa.label>pupa</VFEI2_EmpressSpawn.stages.pupa.label>
+  <VFEI2_EmpressSpawn.stages.juvenile.label>juvenil</VFEI2_EmpressSpawn.stages.juvenile.label>
+  
+  <VFEI2_GigamiteSpawn.label>prole de gigácaro</VFEI2_GigamiteSpawn.label>
+  <VFEI2_GigamiteSpawn.description>Uma prole insectoide em gestação. Começando como um pequeno ovo, ela absorverá nutrientes rapidamente e crescerá, causando dor progressiva ao hospedeiro. Ela assumirá rapidamente o controle do sistema nervoso, crescendo e estendendo-se por todo o corpo do hospedeiro até estar pronta para emergir pela caixa torácica, matando-o no processo. Durante seu crescimento, a prole absorve memórias do hospedeiro, o que tornará o insectoide amigável à sua colônia.</VFEI2_GigamiteSpawn.description>
+  <VFEI2_GigamiteSpawn.stages.egg.label>ovo</VFEI2_GigamiteSpawn.stages.egg.label>
+  <VFEI2_GigamiteSpawn.stages.larva.label>larva</VFEI2_GigamiteSpawn.stages.larva.label>
+  <VFEI2_GigamiteSpawn.stages.pupa.label>pupa</VFEI2_GigamiteSpawn.stages.pupa.label>
+  <VFEI2_GigamiteSpawn.stages.juvenile.label>juvenil</VFEI2_GigamiteSpawn.stages.juvenile.label>
+  
+  <VFEI2_SilverfishSpawn.label>prole de traça</VFEI2_SilverfishSpawn.label>
+  <VFEI2_SilverfishSpawn.description>Uma prole insectoide em gestação. Começando como um pequeno ovo, ela absorverá nutrientes rapidamente e crescerá, causando dor progressiva ao hospedeiro. Ela assumirá rapidamente o controle do sistema nervoso, crescendo e estendendo-se por todo o corpo do hospedeiro até estar pronta para emergir pela caixa torácica, matando-o no processo. Durante seu crescimento, a prole absorve memórias do hospedeiro, o que tornará o insectoide amigável à sua colônia.</VFEI2_SilverfishSpawn.description>
+  <VFEI2_SilverfishSpawn.stages.egg.label>ovo</VFEI2_SilverfishSpawn.stages.egg.label>
+  <VFEI2_SilverfishSpawn.stages.larva.label>larva</VFEI2_SilverfishSpawn.stages.larva.label>
+  <VFEI2_SilverfishSpawn.stages.pupa.label>pupa</VFEI2_SilverfishSpawn.stages.pupa.label>
+  <VFEI2_SilverfishSpawn.stages.juvenile.label>juvenil</VFEI2_SilverfishSpawn.stages.juvenile.label>
+  
+  <VFEI2_TeramantisSpawn.label>prole de teramantis</VFEI2_TeramantisSpawn.label>
+  <VFEI2_TeramantisSpawn.description>Uma prole insectoide em gestação. Começando como um pequeno ovo, ela absorverá nutrientes rapidamente e crescerá, causando dor progressiva ao hospedeiro. Ela assumirá rapidamente o controle do sistema nervoso, crescendo e estendendo-se por todo o corpo do hospedeiro até estar pronta para emergir pela caixa torácica, matando-o no processo. Durante seu crescimento, a prole absorve memórias do hospedeiro, o que tornará o insectoide amigável à sua colônia.</VFEI2_TeramantisSpawn.description>
+  <VFEI2_TeramantisSpawn.stages.egg.label>ovo</VFEI2_TeramantisSpawn.stages.egg.label>
+  <VFEI2_TeramantisSpawn.stages.larva.label>larva</VFEI2_TeramantisSpawn.stages.larva.label>
+  <VFEI2_TeramantisSpawn.stages.pupa.label>pupa</VFEI2_TeramantisSpawn.stages.pupa.label>
+  <VFEI2_TeramantisSpawn.stages.juvenile.label>juvenil</VFEI2_TeramantisSpawn.stages.juvenile.label>
+  
+  <VFEI2_TitantickSpawn.label>prole de carrapato titã</VFEI2_TitantickSpawn.label>
+  <VFEI2_TitantickSpawn.description>Uma prole insectoide em gestação. Começando como um pequeno ovo, ela absorverá nutrientes rapidamente e crescerá, causando dor progressiva ao hospedeiro. Ela assumirá rapidamente o controle do sistema nervoso, crescendo e estendendo-se por todo o corpo do hospedeiro até estar pronta para emergir pela caixa torácica, matando-o no processo. Durante seu crescimento, a prole absorve memórias do hospedeiro, o que tornará o insectoide amigável à sua colônia.</VFEI2_TitantickSpawn.description>
+  <VFEI2_TitantickSpawn.stages.egg.label>ovo</VFEI2_TitantickSpawn.stages.egg.label>
+  <VFEI2_TitantickSpawn.stages.larva.label>larva</VFEI2_TitantickSpawn.stages.larva.label>
+  <VFEI2_TitantickSpawn.stages.pupa.label>pupa</VFEI2_TitantickSpawn.stages.pupa.label>
+  <VFEI2_TitantickSpawn.stages.juvenile.label>juvenil</VFEI2_TitantickSpawn.stages.juvenile.label>
+
+  <VFEI2_SilverfishSpawn.label>prole de traça</VFEI2_SilverfishSpawn.label>
+  <VFEI2_SilverfishSpawn.description>Uma prole insectoide em gestação. Começando como um pequeno ovo, ela absorverá nutrientes rapidamente e crescerá, causando dor progressiva ao hospedeiro. Ela assumirá rapidamente o controle do sistema nervoso, crescendo e estendendo-se por todo o corpo do hospedeiro até estar pronta para emergir pela caixa torácica, matando-o no processo. Durante seu crescimento, a prole absorve memórias do hospedeiro, o que tornará o insectoide amigável à sua colônia.</VFEI2_SilverfishSpawn.description>
+  
+  <VFEI2_SilverfishSpawn.stages.egg.label>ovo</VFEI2_SilverfishSpawn.stages.egg.label>
+  <VFEI2_SilverfishSpawn.stages.larva.label>larva</VFEI2_SilverfishSpawn.stages.larva.label>
+  <VFEI2_SilverfishSpawn.stages.pupa.label>pupa</VFEI2_SilverfishSpawn.stages.pupa.label>
+  <VFEI2_SilverfishSpawn.stages.juvenile.label>juvenil</VFEI2_SilverfishSpawn.stages.juvenile.label>
+
+  <VFEI2_RoyalJellyAddiction.label>vício em geleia real</VFEI2_RoyalJellyAddiction.label>
+  <VFEI2_RoyalJellyAddiction.description>Um vício químico em geleia real. O consumo regular de geleia real causou adaptações imunológicas em nível genético, de modo que o sistema imunológico não consegue mais funcionar adequadamente sem a droga. Sempre que ocorrer uma infecção, a pessoa viciada não será capaz de superá-la sem a geleia real. No entanto, a abstinência prolongada forçará o sistema imunológico a se adaptar de volta ao seu estado normal, resolvendo o vício.</VFEI2_RoyalJellyAddiction.description>
+  <VFEI2_RoyalJellyAddiction.stages.addicted.label>viciado</VFEI2_RoyalJellyAddiction.stages.addicted.label>
+  <VFEI2_RoyalJellyAddiction.stages.withdrawal.label>abstinência</VFEI2_RoyalJellyAddiction.stages.withdrawal.label>
+  
+  <VFEI2_RoyalJellyHigh.label>sob efeito de geleia real</VFEI2_RoyalJellyHigh.label>
+  <VFEI2_RoyalJellyHigh.description>Sob o efeito de geleia real.</VFEI2_RoyalJellyHigh.description>
+  
+  <VFEI2_RoyalJellyTolerance.label>tolerância a geleia real</VFEI2_RoyalJellyTolerance.label>
+  <VFEI2_RoyalJellyTolerance.description>Tolerância à geleia real acumulada no organismo.</VFEI2_RoyalJellyTolerance.description>
+  <VFEI2_RoyalJellyTolerance.stages.small.label>pequena</VFEI2_RoyalJellyTolerance.stages.small.label>
+  <VFEI2_RoyalJellyTolerance.stages.large.label>grande</VFEI2_RoyalJellyTolerance.stages.large.label>
+  <VFEI2_RoyalJellyTolerance.stages.massive.label>massiva</VFEI2_RoyalJellyTolerance.stages.massive.label>
+  
+</LanguageData>

@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEI2_LargeBurrow.label>toca insectoide grande</VFEI2_LargeBurrow.label>
+  <VFEI2_LargeBurrow.description>Um buraco massivo feito por insectoides que se conecta a uma rede de cavernas invisível nas profundezas da superfície. As paredes estão cobertas por uma viscosidade insectoide e são escorregadias demais para descer. Estalidos insectoides podem ser ouvidos nos túneis abaixo. Eles emergirão regularmente em intervalos fixos até que a toca desmorone ou seja destruída. Tocas só podem ser danificadas por explosões.</VFEI2_LargeBurrow.description>
+  
+  <VFEI2_LargeBurrowSpawner.label>túnel</VFEI2_LargeBurrowSpawner.label>
+  
+  <VFEI2_MediumBurrow.label>toca insectoide</VFEI2_MediumBurrow.label>
+  <VFEI2_MediumBurrow.description>Um buraco de tamanho médio feito por insectoides que se conecta a uma rede de cavernas invisível nas profundezas da superfície. As paredes estão cobertas por uma viscosidade insectoide e são escorregadias demais para descer. Estalidos insectoides podem ser ouvidos nos túneis abaixo. Eles emergirão regularmente em intervalos decrescentes até que a toca desmorone ou seja destruída. Tocas só podem ser danificadas por explosões.</VFEI2_MediumBurrow.description>
+  
+  <VFEI2_MediumBurrowSpawner.label>túnel</VFEI2_MediumBurrowSpawner.label>
+  
+  <VFEI2_SmallBurrow.label>toca insectoide pequena</VFEI2_SmallBurrow.label>
+  <VFEI2_SmallBurrow.description>Um pequeno buraco feito por insectoides que se conecta a uma rede de cavernas invisível nas profundezas da superfície. As paredes estão cobertas por uma viscosidade insectoide e são escorregadias demais para descer. Estalidos insectoides podem ser ouvidos nos túneis abaixo. Eles emergirão regularmente em intervalos decrescentes até que a toca desmorone ou seja destruída. Tocas só podem ser danificadas por explosões.</VFEI2_SmallBurrow.description>
+  
+  <VFEI2_SmallBurrowSpawner.label>túnel</VFEI2_SmallBurrowSpawner.label>
+
+  <VFEI_HellpodActiveDropPod.label>cápsula infernal</VFEI_HellpodActiveDropPod.label>
+  
+  <VFEI_HellpodIncoming.label>cápsula infernal (chegando)</VFEI_HellpodIncoming.label>
+  
+  <VFEI_HivestoneWall.label>parede de rocha-colmeia</VFEI_HivestoneWall.label>
+  <VFEI_HivestoneWall.description>Uma parede de rocha intransponível reforçada com viscosidade insectoide espessa e solidificada. Muito mais forte que uma parede de rocha padrão, mas inflamável. Capaz de sustentar um telhado.</VFEI_HivestoneWall.description>
+  
+  <VFEI_HiveWall.label>parede de colmeia</VFEI_HiveWall.label>
+  <VFEI_HiveWall.description>Uma parede intransponível feita de viscosidade insectoide. Capaz de sustentar um telhado.</VFEI_HiveWall.description>
+  
+  <VFEI_InfestedMeteorIncoming.label>meteoro infestado (chegando)</VFEI_InfestedMeteorIncoming.label>
+  
+  <VFEI2_ArtificialBasicHive.label>colmeia básica artificial</VFEI2_ArtificialBasicHive.label>
+  <VFEI2_ArtificialBasicHive.description>Uma colmeia de insetos gigantes construída artificialmente. É capaz de gerar os insectoides mais básicos ao longo do tempo, bem como pequenas quantidades da valiosa geleia de inseto. Não requer manutenção, mas ainda afetará a manutenção de colmeias próximas.</VFEI2_ArtificialBasicHive.description>
+  
+  <VFEI2_ArtificialChelisHive.label>colmeia Chelis artificial</VFEI2_ArtificialChelisHive.label>
+  <VFEI2_ArtificialChelisHive.description>Uma colmeia de insetos gigantes construída artificialmente. É capaz de gerar vários insectoides da linhagem Chelis ao longo do tempo, bem como alguma quantidade de geleia de inseto. Requer manutenção regular, e construir muitas colmeias próximas umas das outras aumentará a manutenção necessária.</VFEI2_ArtificialChelisHive.description>
+  
+  <VFEI2_ArtificialKemianHive.label>colmeia Kemian artificial</VFEI2_ArtificialKemianHive.label>
+  <VFEI2_ArtificialKemianHive.description>Uma colmeia de insetos gigantes construída artificialmente. É capaz de gerar vários insectoides da linhagem Kemian ao longo do tempo, bem como alguma quantidade de geleia de inseto. Requer manutenção regular, e construir muitas colmeias próximas umas das outras aumentará a manutenção necessária.</VFEI2_ArtificialKemianHive.description>
+  
+  <VFEI2_ArtificialNuchadusHive.label>colmeia Nuchadus artificial</VFEI2_ArtificialNuchadusHive.label>
+  <VFEI2_ArtificialNuchadusHive.description>Uma colmeia de insetos gigantes construída artificialmente. É capaz de gerar vários insectoides da linhagem Nuchadus ao longo do tempo, bem como alguma quantidade de geleia de inseto. Requer manutenção regular, e construir muitas colmeias próximas umas das outras aumentará a manutenção necessária.</VFEI2_ArtificialNuchadusHive.description>
+  
+  <VFEI2_ArtificialSorneHive.label>colmeia Sorne artificial</VFEI2_ArtificialSorneHive.label>
+  <VFEI2_ArtificialSorneHive.description>Uma colmeia de insetos gigantes construída artificialmente. É capaz de gerar vários insectoides da linhagem Sorne ao longo do tempo, bem como alguma quantidade de geleia de inseto. Requer manutenção regular, e construir muitas colmeias próximas umas das outras aumentará a manutenção necessária.</VFEI2_ArtificialSorneHive.description>
+  
+  <VFEI2_ArtificialXanidesHive.label>colmeia Xanides artificial</VFEI2_ArtificialXanidesHive.label>
+  <VFEI2_ArtificialXanidesHive.description>Uma colmeia de insetos gigantes construída artificialmente. É capaz de gerar vários insectoides da linhagem Xanides ao longo do tempo, bem como alguma quantidade de geleia de inseto. Requer manutenção regular, e construir muitas colmeias próximas umas das outras aumentará a manutenção necessária.</VFEI2_ArtificialXanidesHive.description>
+  
+  <VFEI2_Bullet_Thorn.label>espinho</VFEI2_Bullet_Thorn.label>
+  
+  <VFEI2_ChelisHive.label>colmeia Chelis</VFEI2_ChelisHive.label>
+  <VFEI2_ChelisHive.description>Uma colmeia de insetos gigantes da linhagem Chelis. Se ativada, gerará insetos e colmeias adicionais ao longo do tempo, bem como a valiosa geleia de inseto.</VFEI2_ChelisHive.description>
+  
+  <VFEI2_Creeper.label>rasteiro</VFEI2_Creeper.label>
+  <VFEI2_Creeper.description>Uma estrutura semelhante a uma colmeia criada por insetos gigantes. Extrai continuamente minerais e nutrição do solo ao seu redor, alimentando a colmeia e criando uma crosta na área circundante que dificulta muito o movimento de qualquer coisa que não seja um insectoide. Se toda a área ao redor de um rasteiro for transformada em crosta, ele começará a expelir geleia de inseto em intervalos regulares.</VFEI2_Creeper.description>
+  
+  <VFEI2_DeepHeater.label>aquecedor profundo</VFEI2_DeepHeater.label>
+  <VFEI2_DeepHeater.description>Um canal profundo cavado por insetos gigantes que se conecta a cavernas de vapor subterrâneas. Expele vapor superaquecido aleatoriamente, de forma semelhante aos gueiseres de vapor.</VFEI2_DeepHeater.description>
+  
+  <VFEI2_FoamPod.label>casulo de espuma</VFEI2_FoamPod.label>
+  <VFEI2_FoamPod.description>Um casulo orgânico de espuma corta-fogo produzido por insetos gigantes. Quando detecta fogo, o casulo estoura e espalha uma espuma retardante de chamas em um campo circular ao seu redor. Também pode ser acionado manualmente. Após algum tempo, ele morre.</VFEI2_FoamPod.description>
+  
+  <VFEI2_GlowPodFormation.label>formação de casulos luminescentes</VFEI2_GlowPodFormation.label>
+  <VFEI2_GlowPodFormation.description>Um grande aglomerado de casulos bioluminescentes produzidos por insetos gigantes. Brilha com luz própria e não perece com o tempo. Precisa ser construído sobre a crosta.</VFEI2_GlowPodFormation.description>
+  
+  <VFEI2_GlowPodSpire.label>pináculo de casulos luminescentes</VFEI2_GlowPodSpire.label>
+  <VFEI2_GlowPodSpire.description>Um pináculo incrivelmente alto de casulos bioluminescentes produzidos por insetos gigantes. Ilumina uma área intensamente o suficiente para cultivar plantações e não perece com o tempo. Precisa ser construído sobre a crosta.</VFEI2_GlowPodSpire.description>
+  
+  <VFEI2_HeatPod.label>casulo térmico</VFEI2_HeatPod.label>
+  <VFEI2_HeatPod.description>Um casulo bioluminescente produzido por insetos gigantes. Brilha com luz própria por um longo tempo e depois morre.</VFEI2_HeatPod.description>
+  
+  <VFEI2_HiveDoor.label>porta de colmeia</VFEI2_HiveDoor.label>
+  <VFEI2_HiveDoor.description>Uma porta transitável feita de viscosidade insectoide. Capaz de sustentar um telhado.</VFEI2_HiveDoor.description>
+  
+  <VFEI2_Hivenode.label>nodo da colmeia</VFEI2_Hivenode.label>
+  <VFEI2_Hivenode.description>Um pináculo grande e exótico de viscosidade criado por insetos gigantes. Nodos da colmeia ficam no centro do ninho, nutrindo estruturas insectoides próximas com o sustento e calor necessários, removendo qualquer necessidade de manutenção. Quando destruído, pode explodir em uma grande explosão de fogo.</VFEI2_Hivenode.description>
+  
+  <VFEI2_InfestedShipChunk.label>destroço de nave infestado</VFEI2_InfestedShipChunk.label>
+  <VFEI2_InfestedShipChunk.description>Um pedaço de uma espaçonave coberto de biomassa e geleia de inseto. Estalidos bizarros de insetos podem ser ouvidos dentro da carcaça. Pode ser desconstruído para render aço e componentes úteis. Se deixado sozinho, é impossível prever quando os insetos emergirão lá de dentro.</VFEI2_InfestedShipChunk.description>
+  
+  <VFEI2_InfestedShipModule.label>módulo de nave infestado</VFEI2_InfestedShipModule.label>
+  <VFEI2_InfestedShipModule.description>Um segmento misterioso de uma espaçonave destruída há muito tempo. Pode conter materiais exóticos, computadores e até personas de IA. Parece estar completamente coberto por biomassa e aglomerados de geleia de inseto. É quase certo que estes velhos destroços podem conter grandes perigos. Estalidos bizarros de insetos podem ser ouvidos dentro da carcaça. Se deixado sozinho, é impossível prever quando os insetos emergirão lá de dentro.</VFEI2_InfestedShipModule.description>
+  
+  <VFEI2_InfestedShipPart.label>parte de nave infestada</VFEI2_InfestedShipPart.label>
+  <VFEI2_InfestedShipPart.description>Uma parte de nave antiga, arrancada de uma embarcação de origem desconhecida. Pode ter milhares de anos.\n\nEsta aqui parece estar coberta de biomassa e geleia de inseto. Estalidos bizarros de insetos podem ser ouvidos dentro da carcaça. Se deixado sozinho, é impossível prever quando os insetos emergirão lá de dentro.\n\nUm pedaço misterioso caído de uma espaçonave. Pode conter materiais exóticos, computadores e até personas de IA. Esse tipo de tecnologia pode ser perigoso.</VFEI2_InfestedShipPart.description>
+  
+  <VFEI2_InsectJellyWall.label>parede de geleia de inseto</VFEI2_InsectJellyWall.label>
+  <VFEI2_InsectJellyWall.description>Uma parede intransponível feita de geleia de inseto, construída pela casta operária de uma linhagem insectoide. Capaz de sustentar um telhado.</VFEI2_InsectJellyWall.description>
+  
+  <VFEI2_InsectoidCocoon.label>casulo insectoide</VFEI2_InsectoidCocoon.label>
+  <VFEI2_InsectoidCocoon.description>Estes casulos de geleia mantêm as larvas seguras do fogo, temperaturas extremas e outras ameaças enquanto passam por um processo de metamorfose. Após algum tempo, o casulo estourará, liberando um insectoide totalmente crescido.</VFEI2_InsectoidCocoon.description>
+  
+  <VFEI2_InsectoidCocoonHive.label>casulo insectoide</VFEI2_InsectoidCocoonHive.label>
+  <VFEI2_InsectoidCocoonHive.description>Estes casulos de geleia mantêm as larvas seguras do fogo, temperaturas extremas e outras ameaças enquanto passam por um processo de metamorfose. Após algum tempo, o casulo estourará, liberando um insectoide totalmente crescido.</VFEI2_InsectoidCocoonHive.description>
+  
+  <VFEI2_JellyFarm.label>fazenda de geleia</VFEI2_JellyFarm.label>
+  <VFEI2_JellyFarm.description>Um biorreator orgânico profundo produzido por insetos gigantes que gera constantemente geleia de inseto a partir de minerais e nutrição próximos. Precisa ser construído sobre a crosta.</VFEI2_JellyFarm.description>
+  
+  <VFEI2_JellyMorpher.label>morfador de geleia</VFEI2_JellyMorpher.label>
+  <VFEI2_JellyMorpher.description>Uma bioformação pulsante e exótica que força a geleia de inseto acoplada a passar por um processo químico que a transforma em geleia real. Produzido por insetos gigantes. Precisa ser construído sobre a crosta e requer reabastecimento com geleia de inseto para produzir a variante real.</VFEI2_JellyMorpher.description>
+  
+  <VFEI2_Jellyspreader.label>espalhador de geleia</VFEI2_Jellyspreader.label>
+  <VFEI2_Jellyspreader.description>Uma formação de geleia de inseto semelhante a uma colmeia que bombeia lentamente essa geleia para a crosta ao seu redor, nutrindo-a e criando um terreno de geleia macia em um grande raio. O terreno de geleia criado desta forma pode sustentar estruturas insectoides e se comporta de forma semelhante à crosta, exceto que é mais fácil de limpar e retarda o movimento de não-insectoides ainda mais. Precisa ser abastecido com geleia de inseto, caso contrário parará de transformar a crosta ao seu redor.</VFEI2_Jellyspreader.description>
+  <VFEI2_Jellyspreader.comps.CompRefuelable.fuelGizmoLabel>geleia de inseto</VFEI2_Jellyspreader.comps.CompRefuelable.fuelGizmoLabel>
+  <VFEI2_Jellyspreader.comps.CompRefuelable.fuelLabel>geleia de inseto</VFEI2_Jellyspreader.comps.CompRefuelable.fuelLabel>
+  
+  <VFEI2_KemianHive.label>colmeia Kemian</VFEI2_KemianHive.label>
+  <VFEI2_KemianHive.description>Uma colmeia de insetos gigantes da linhagem Kemian. Se ativada, gerará insetos e colmeias adicionais ao longo do tempo, bem como a valiosa geleia de inseto.</VFEI2_KemianHive.description>
+  
+  <VFEI2_LargeGlowPod.label>casulo luminescente grande</VFEI2_LargeGlowPod.label>
+  <VFEI2_LargeGlowPod.description>Um grande casulo bioluminescente produzido por insetos gigantes. Brilha com luz própria e não perece com o tempo. Precisa ser construído sobre a crosta.</VFEI2_LargeGlowPod.description>
+  
+  <VFEI2_LargeTunnelHiveSpawner.label>túnel</VFEI2_LargeTunnelHiveSpawner.label>
+  
+  <VFEI2_NuchadusHive.label>colmeia Nuchadus</VFEI2_NuchadusHive.label>
+  <VFEI2_NuchadusHive.description>Uma colmeia de insetos gigantes da linhagem Nuchadus. Se ativada, gerará insetos e colmeias adicionais ao longo do tempo, bem como a valiosa geleia de inseto. Pode explodir se for danificada.</VFEI2_NuchadusHive.description>
+  
+  <VFEI2_Petroglypher.label>petróglifo</VFEI2_Petroglypher.label>
+  <VFEI2_Petroglypher.description>Uma estrutura semelhante a uma colmeia criada por insetos gigantes. Reforça continuamente as formações rochosas próximas com uma viscosidade insectoide espessa semelhante a resina, criando paredes de rocha-colmeia no processo. Só transformará paredes de rocha natural em rocha-colmeia e não terá efeito em nenhum outro tipo de parede. Se todas as paredes ao redor de um petróglifo forem transformadas em rocha-colmeia, ele começará a expelir quitina em intervalos regulares.</VFEI2_Petroglypher.description>
+  
+  <VFEI2_RoyalJellyspreader.label>espalhador de geleia real</VFEI2_RoyalJellyspreader.label>
+  <VFEI2_RoyalJellyspreader.description>Uma formação de geleia real insectoide semelhante a uma colmeia que enriquece os pisos de geleia de inseto próximos com moléculas reais. O terreno de geleia real criado desta forma pode sustentar estruturas insectoides e se comporta de forma semelhante à crosta, exceto que é muito mais fácil de limpar, não queima e retarda o movimento de não-insectoides ainda mais. Precisa ser abastecido com geleia real insectoide, caso contrário parará de enriquecer os pisos de geleia ao seu redor.</VFEI2_RoyalJellyspreader.description>
+  <VFEI2_RoyalJellyspreader.comps.CompRefuelable.fuelGizmoLabel>Geleia real insectoide</VFEI2_RoyalJellyspreader.comps.CompRefuelable.fuelGizmoLabel>
+  <VFEI2_RoyalJellyspreader.comps.CompRefuelable.fuelLabel>Geleia real insectoide</VFEI2_RoyalJellyspreader.comps.CompRefuelable.fuelLabel>
+  
+  <VFEI2_RoyalJellyWall.label>parede de geleia real</VFEI2_RoyalJellyWall.label>
+  <VFEI2_RoyalJellyWall.description>Uma parede dura e intransponível feita de geleia real, construída pela casta operária de uma linhagem insectoide. Capaz de sustentar um telhado.</VFEI2_RoyalJellyWall.description>
+  
+  <VFEI2_StaticPod.label>casulo estático</VFEI2_StaticPod.label>
+  <VFEI2_StaticPod.description>Uma estrutura de colmeia de tamanho médio produzida por insetos gigantes, capaz de gerar pequenas quantidades de eletricidade. Precisa ser construída sobre a crosta e conectada via conduítes a baterias.</VFEI2_StaticPod.description>
+  
+  <VFEI2_TendrilFarm.label>fazenda de gavinhas</VFEI2_TendrilFarm.label>
+  <VFEI2_TendrilFarm.description>Um pilar que cultiva lentamente aglomerados de musgo-gavinha insectoide. Precisa ser construído sobre a crosta. Embora o musgo-gavinha geralmente sirva como uma cobertura boa e forte, ele pode ser colhido e comido.</VFEI2_TendrilFarm.description>
+  
+  <VFEI2_Thornpod.label>casulo de espinhos</VFEI2_Thornpod.label>
+  <VFEI2_Thornpod.description>Um casulo volátil coberto por espinhos afiados de quitina, produzido por insetos gigantes. Se qualquer alvo chegar perto, o casulo expele os espinhos, levando algum tempo para que cresçam novamente.</VFEI2_Thornpod.description>
+  
+  <VFEI2_Thornspitter.label>cospe-espinho</VFEI2_Thornspitter.label>
+  <VFEI2_Thornspitter.description>Um pequeno montículo que serve de entrada para um vasto aglomerado de colmeias profundas subterrâneas, encimado pela emergência de um insectoide cospe-espinho. Esta criatura é capaz de ejetar espinhos de quitina imprecisos em inimigos próximos, desde que seja alimentada regularmente com geleia de inseto. Se passar fome, o montículo se deteriorará gradualmente. Uma vez completamente deteriorado, o verme-espinho recuará para os túneis da colmeia profunda.</VFEI2_Thornspitter.description>
+  <VFEI2_Thornspitter.comps.CompRefuelable.fuelGizmoLabel>geleia de inseto</VFEI2_Thornspitter.comps.CompRefuelable.fuelGizmoLabel>
+  <VFEI2_Thornspitter.comps.CompRefuelable.fuelLabel>geleia de inseto</VFEI2_Thornspitter.comps.CompRefuelable.fuelLabel>
+  
+  <VFEI2_Thornspitter_Gun.label>cospe-espinho</VFEI2_Thornspitter_Gun.label>
+  <VFEI2_Thornspitter_Gun.description>Um pequeno montículo que serve de entrada para um vasto aglomerado de colmeias profundas subterrâneas, encimado pela emergência de um insectoide cospe-espinho. Esta criatura é capaz de ejetar espinhos de quitina imprecisos em inimigos próximos, desde que seja alimentada regularmente com geleia de inseto. Se passar fome, o montículo se deteriorará gradualmente. Uma vez completamente deteriorado, o verme-espinho recuará para os túneis da colmeia profunda.</VFEI2_Thornspitter_Gun.description>
+  <VFEI2_Thornspitter_Gun.verbs.Verb_Shoot.label>atirar espinhos</VFEI2_Thornspitter_Gun.verbs.Verb_Shoot.label>
+  
+  <VFEI2_Thornspitter_Projectile.label>projétil de cospe-espinho</VFEI2_Thornspitter_Projectile.label>
+  
+  <VFEI2_Thornworm.label>verme-espinho</VFEI2_Thornworm.label>
+  <VFEI2_Thornworm.description>Um pequeno montículo que serve de entrada para um vasto aglomerado de colmeias profundas subterrâneas, encimado pela emergência de um insectoide verme-espinho. Esta criatura é capaz de ejetar espinhos de quitina de crescimento rápido em inimigos próximos, desde que seja alimentada regularmente com geleia de inseto. Se passar fome, o montículo se deteriorará gradualmente. Uma vez completamente deteriorado, o verme-espinho recuará para os túneis da colmeia profunda.</VFEI2_Thornworm.description>
+  <VFEI2_Thornworm.comps.CompRefuelable.fuelGizmoLabel>geleia de inseto</VFEI2_Thornworm.comps.CompRefuelable.fuelGizmoLabel>
+  <VFEI2_Thornworm.comps.CompRefuelable.fuelLabel>geleia de inseto</VFEI2_Thornworm.comps.CompRefuelable.fuelLabel>
+  
+  <VFEI2_Thornworm_Gun.label>verme-espinho</VFEI2_Thornworm_Gun.label>
+  <VFEI2_Thornworm_Gun.description>Um pequeno montículo que serve de entrada para um vasto aglomerado de colmeias profundas subterrâneas, encimado pela emergência de um insectoide verme-espinho. Esta criatura é capaz de ejetar espinhos de quitina de crescimento rápido em inimigos próximos, desde que seja alimentada regularmente com geleia de inseto. Se passar fome, o montículo se deteriorará gradualmente. Uma vez completamente deteriorado, o verme-espinho recuará para os túneis da colmeia profunda.</VFEI2_Thornworm_Gun.description>
+  <VFEI2_Thornworm_Gun.verbs.Verb_MakeshiftShoot.label>atirar espinhos</VFEI2_Thornworm_Gun.verbs.Verb_MakeshiftShoot.label>
+  
+  <VFEI2_Thornworm_Projectile.label>projétil de verme-espinho</VFEI2_Thornworm_Projectile.label>
+  
+  <VFEI2_Vilelobber.label>lança-bile</VFEI2_Vilelobber.label>
+  <VFEI2_Vilelobber.description>Um pequeno montículo que serve de entrada para um vasto aglomerado de colmeias profundas subterrâneas, encimado pela emergência de um insectoide lança-bile. Esta criatura é mestre em cuspir grandes bolhas de ácido corrosivo a distâncias consideráveis, desde que seja alimentada regularmente com geleia de inseto. Se passar fome, o montículo se deteriorará gradualmente. Uma vez completamente deteriorado, o lança-bile recuará para os túneis da colmeia profunda.</VFEI2_Vilelobber.description>
+  <VFEI2_Vilelobber.comps.CompRefuelable.fuelGizmoLabel>geleia de inseto</VFEI2_Vilelobber.comps.CompRefuelable.fuelGizmoLabel>
+  <VFEI2_Vilelobber.comps.CompRefuelable.fuelLabel>geleia de inseto</VFEI2_Vilelobber.comps.CompRefuelable.fuelLabel>
+  
+  <VFEI2_Vilelobber_Gun.label>lança-bile</VFEI2_Vilelobber_Gun.label>
+  <VFEI2_Vilelobber_Gun.description>Um pequeno montículo que serve de entrada para um vasto aglomerado de colmeias profundas subterrâneas, encimado pela emergência de um insectoide lança-bile. Esta criatura é mestre em cuspir grandes bolhas de ácido corrosivo a distâncias consideráveis, desde que seja alimentada regularmente com geleia de inseto. Se passar fome, o montículo se deteriorará gradualmente. Uma vez completamente deteriorado, o lança-bile recuará para os túneis da colmeia profunda.</VFEI2_Vilelobber_Gun.description>
+  <VFEI2_Vilelobber_Gun.verbs.Verb_Shoot.label>cuspir bile</VFEI2_Vilelobber_Gun.verbs.Verb_Shoot.label>
+  
+  <VFEI2_Vilelobber_Projectile.label>projétil de lança-bile</VFEI2_Vilelobber_Projectile.label>
+  
+  <VFEI2_XanidesHive.label>colmeia Xanides</VFEI2_XanidesHive.label>
+  <VFEI2_XanidesHive.description>Uma colmeia de insetos gigantes da linhagem Xanides. Se ativada, gerará insetos e colmeias adicionais ao longo do tempo, bem como a valiosa geleia de inseto.</VFEI2_XanidesHive.description>
+
+  <VFEI2_Thumper_Empress.label>bate-estaca de imperatriz</VFEI2_Thumper_Empress.label>
+  <VFEI2_Thumper_Empress.description>Um dispositivo bate-estaca produtor de vibrações. Quando ativado, começa a emitir pulsos de batida poderosos, que atrairão uma imperatriz insectoide para atacar junto de sua escolta. Se você conseguir derrotá-la, poderá coletar um feronúcleo especial de seu cadáver. As batidas desestabilizam o bate-estaca, portanto, esta estrutura só pode ser usada uma vez.</VFEI2_Thumper_Empress.description>
+  <VFEI2_Thumper_Empress.comps.CompUsable.useLabel>Ativar bate-estaca</VFEI2_Thumper_Empress.comps.CompUsable.useLabel>
+  
+  <VFEI2_Thumper_Gigamite.label>bate-estaca de gigácaro</VFEI2_Thumper_Gigamite.label>
+  <VFEI2_Thumper_Gigamite.description>Um dispositivo bate-estaca produtor de vibrações. Quando ativado, começa a emitir pulsos de batida poderosos, que atrairão um gigácaro insectoide para atacar junto de sua escolta. Se você conseguir derrotá-lo, poderá coletar um feronúcleo especial de seu cadáver. As batidas desestabilizam o bate-estaca, portanto, esta estrutura só pode ser usada uma vez.</VFEI2_Thumper_Gigamite.description>
+  <VFEI2_Thumper_Gigamite.comps.CompUsable.useLabel>Ativar bate-estaca</VFEI2_Thumper_Gigamite.comps.CompUsable.useLabel>
+  
+  <VFEI2_Thumper_Silverfish.label>bate-estaca de traça</VFEI2_Thumper_Silverfish.label>
+  <VFEI2_Thumper_Silverfish.description>Um dispositivo bate-estaca produtor de vibrações. Quando ativado, começa a emitir pulsos de batida poderosos, que atrairão uma traça insectoide para atacar junto de sua escolta. Se você conseguir derrotá-la, poderá coletar um feronúcleo especial de seu cadáver. As batidas desestabilizam o bate-estaca, portanto, esta estrutura só pode ser usada uma vez.</VFEI2_Thumper_Silverfish.description>
+  <VFEI2_Thumper_Silverfish.comps.CompUsable.useLabel>Ativar bate-estaca</VFEI2_Thumper_Silverfish.comps.CompUsable.useLabel>
+  
+  <VFEI2_Thumper_Teramantis.label>bate-estaca de teramantis</VFEI2_Thumper_Teramantis.label>
+  <VFEI2_Thumper_Teramantis.description>Um dispositivo bate-estaca produtor de vibrações. Quando ativado, começa a emitir pulsos de batida poderosos, que atrairão uma teramantis insectoide para atacar junto de sua escolta. Se você conseguir derrotá-la, poderá coletar um feronúcleo especial de seu cadáver. As batidas desestabilizam o bate-estaca, portanto, esta estrutura só pode ser usada uma vez.</VFEI2_Thumper_Teramantis.description>
+  <VFEI2_Thumper_Teramantis.comps.CompUsable.useLabel>Ativar bate-estaca</VFEI2_Thumper_Teramantis.comps.CompUsable.useLabel>
+  
+  <VFEI2_Thumper_Titantick.label>bate-estaca de peçonhácaro</VFEI2_Thumper_Titantick.label>
+  <VFEI2_Thumper_Titantick.description>Um dispositivo bate-estaca produtor de vibrações. Quando ativado, começa a emitir pulsos de batida poderosos, que atrairão um peçonhácaro insectoide para atacar junto de sua escolta. Se você conseguir derrotá-lo, poderá coletar um feronúcleo especial de seu cadáver. As batidas desestabilizam o bate-estaca, portanto, esta estrutura só pode ser usada uma vez.</VFEI2_Thumper_Titantick.description>
+  <VFEI2_Thumper_Titantick.comps.CompUsable.useLabel>Ativar bate-estaca</VFEI2_Thumper_Titantick.comps.CompUsable.useLabel>
+
+  <VFEI_Mote_CocoonDestroyedFlyingPiece.label>partícula</VFEI_Mote_CocoonDestroyedFlyingPiece.label>
+  
+  <VFEI_Mote_CocoonDestroyedFlyingSlime.label>partícula</VFEI_Mote_CocoonDestroyedFlyingSlime.label>
+  
+  <VFEI_Mote_CocoonDestroyedMist.label>partícula</VFEI_Mote_CocoonDestroyedMist.label>
+
+  <VFEI2_PawnFlyer_Stun.label>voando</VFEI2_PawnFlyer_Stun.label>
+  
+  <VFEI2_Tunneler.label>escavando</VFEI2_Tunneler.label>
+
+  <VFEI2_Filth_FlammableBile.label>bile inflamável</VFEI2_Filth_FlammableBile.label>
+  
+  <VFEI2_Filth_InsectJelly.label>mancha de geleia de inseto</VFEI2_Filth_InsectJelly.label>
+  
+  <VFEI2_Filth_RoyalJelly.label>mancha de geleia real</VFEI2_Filth_RoyalJelly.label>
+
+  <VFEI2_PherocoreChelis.label>feronúcleo Chelis</VFEI2_PherocoreChelis.label>
+  <VFEI2_PherocoreChelis.description>Um micro-órgão de controle de feromônios. É necessário para construir certos tipos de colmeias insectoides. Feronúcleos foram incorporados profundamente nos cérebros dos líderes de linhagem, o que permitiu que civilizações antigas controlassem as colmeias.\n\nEste feronúcleo pertence à grande linhagem do planeta Chelis, conhecida por sua aparência de gafanhoto e capacidade de voar por milhares de quilômetros.</VFEI2_PherocoreChelis.description>
+  <VFEI2_PherocoreChelis.comps.CompUsable.useLabel>Usar {0_labelShort} para aumentar o tamanho da colmeia</VFEI2_PherocoreChelis.comps.CompUsable.useLabel>
+  
+  <VFEI2_PherocoreKemian.label>feronúcleo Kemian</VFEI2_PherocoreKemian.label>
+  <VFEI2_PherocoreKemian.description>Um micro-órgão de controle de feromônios. É necessário para construir certos tipos de colmeias insectoides. Feronúcleos foram incorporados profundamente nos cérebros dos líderes de linhagem, o que permitiu que civilizações antigas controlassem as colmeias.\n\nEste feronúcleo pertence à linhagem mutante do mundo tóxico de Kemia, conhecida por sua habilidade de usar toxinas para eliminar seus inimigos.</VFEI2_PherocoreKemian.description>
+  <VFEI2_PherocoreKemian.comps.CompUsable.useLabel>Usar {0_labelShort} para aumentar o tamanho da colmeia</VFEI2_PherocoreKemian.comps.CompUsable.useLabel>
+  
+  <VFEI2_PherocoreNuchadus.label>feronúcleo Nuchadus</VFEI2_PherocoreNuchadus.label>
+  <VFEI2_PherocoreNuchadus.description>Um micro-órgão de controle de feromônios. É necessário para construir certos tipos de colmeias insectoides. Feronúcleos foram incorporados profundamente nos cérebros dos líderes de linhagem, o que permitiu que civilizações antigas controlassem as colmeias.\n\nEste feronúcleo pertence à linhagem hiperagressiva do planeta vulcânico Nuchadus.</VFEI2_PherocoreNuchadus.description>
+  <VFEI2_PherocoreNuchadus.comps.CompUsable.useLabel>Usar {0_labelShort} para aumentar o tamanho da colmeia</VFEI2_PherocoreNuchadus.comps.CompUsable.useLabel>
+  
+  <VFEI2_PherocoreSorne.label>feronúcleo Sorne</VFEI2_PherocoreSorne.label>
+  <VFEI2_PherocoreSorne.description>Um micro-órgão de controle de feromônios. É necessário para construir certos tipos de colmeias insectoides. Feronúcleos foram incorporados profundamente nos cérebros dos líderes de linhagem, o que permitiu que civilizações antigas controlassem as colmeias.\n\nEste feronúcleo pertence à linhagem mais antiga do planeta Sorne, conhecida por seus grandes números e versatilidade.</VFEI2_PherocoreSorne.description>
+  <VFEI2_PherocoreSorne.comps.CompUsable.useLabel>Usar {0_labelShort} para aumentar o tamanho da colmeia</VFEI2_PherocoreSorne.comps.CompUsable.useLabel>
+  
+  <VFEI2_PherocoreXanides.label>feronúcleo Xanides</VFEI2_PherocoreXanides.label>
+  <VFEI2_PherocoreXanides.description>Um micro-órgão de controle de feromônios. É necessário para construir certos tipos de colmeias insectoides. Feronúcleos foram incorporados profundamente nos cérebros dos líderes de linhagem, o que permitiu que civilizações antigas controlassem as colmeias.\n\nEste feronúcleo pertence à linhagem Xanides, que evoluiu em um planeta rico em minerais e cria armaduras quase impenetráveis ao redor de si mesmos.</VFEI2_PherocoreXanides.description>
+  <VFEI2_PherocoreXanides.comps.CompUsable.useLabel>Usar {0_labelShort} para aumentar o tamanho da colmeia</VFEI2_PherocoreXanides.comps.CompUsable.useLabel>
+
+  <VFEI2_Chitin.label>quitina</VFEI2_Chitin.label>
+  <VFEI2_Chitin.description>Uma composição extremamente espessa de minerais raros e biomassa, comumente encontrada na forma de exoesqueletos de insetos.</VFEI2_Chitin.description>
+
+  <VFEI2_Tendrilmoss.label>musgo-gavinha</VFEI2_Tendrilmoss.label>
+  <VFEI2_Tendrilmoss.description>Musgo-gavinha bruto obtido através da colheita de trepadeiras de musgo que crescem em torno de fazendas de gavinhas insectoides.</VFEI2_Tendrilmoss.description>
+
+  <VFEI2_TendrilmossVines.label>trepadeiras de musgo-gavinha</VFEI2_TendrilmossVines.label>
+  <VFEI2_TendrilmossVines.description>Um musgo retorcido e rico em nutrientes que cresce cultivado por insectoides em aglomerados nas áreas da colmeia. O musgo leva muito tempo para crescer, mas é muito resistente ao gelo. Retarda significativamente a velocidade de movimento, mas serve como cobertura.</VFEI2_TendrilmossVines.description>
+
+  <VFEI2_ChemfuelSpit.label>cuspe de combustível químico</VFEI2_ChemfuelSpit.label>
+  <VFEI2_ChemfuelSpit.description>Um cuspe de combustível químico que pode ser usado como recurso.</VFEI2_ChemfuelSpit.description>
+
+  <VFEI2_Proj_Acid.label>ácido</VFEI2_Proj_Acid.label>
+
+  <VFEI2_Acidspitter.label>cospe-ácido</VFEI2_Acidspitter.label>
+  <VFEI2_Acidspitter.description>Um insectoide gigante e pesado com um grande saco de ácido no abdômen inferior, que desliza sobre algumas patas minúsculas. Embora sua armadura não seja espessa nem suas mandíbulas afiadas, ele é capaz de utilizar suas glândulas de ácido para expelir galões de ácido corrosivo à frente. Por serem extremamente lentos, são um tanto vulneráveis a táticas de bater e correr.</VFEI2_Acidspitter.description>
+  <VFEI2_Acidspitter.tools.head_claw.label>garra da cabeça</VFEI2_Acidspitter.tools.head_claw.label>
+  <VFEI2_Acidspitter.tools.mandibles.label>mandíbulas</VFEI2_Acidspitter.tools.mandibles.label>
+  <VFEI2_Acidspitter.tools.head.label>cabeça</VFEI2_Acidspitter.tools.head.label>
+
+  <VFEI2_Boomtick.label>bumácaro</VFEI2_Boomtick.label>
+  <VFEI2_Boomtick.description>Um carrapato grande e geneticamente modificado. Criado com o propósito de refinar combustível no planeta fundido de Nuchadus, o bumácaro é agora visto com frequência em muitos planetas, onde é considerado uma praga perigosa e volátil. Seu saco de combustível químico explode ao morrer, incendiando tudo ao redor. Uma criatura eussocial, não pode se reproduzir individualmente.</VFEI2_Boomtick.description>
+  <VFEI2_Boomtick.tools.mandibles.label>mandíbulas</VFEI2_Boomtick.tools.mandibles.label>
+  <VFEI2_Boomtick.tools.head.label>cabeça</VFEI2_Boomtick.tools.head.label>
+
+  <VFEI2_Durapod.label>durápode</VFEI2_Durapod.label>
+  <VFEI2_Durapod.description>Um insectoide bioengenheirado de tamanho médio, do tamanho de uma cabra. O durápode é a casta mais baixa da linhagem Xanides, cuidando da maioria das tarefas de trabalho. Sua carapaça rochosa extremamente espessa o torna muito lento, mas também muito durável, embora o dano excessivo vá lascando a armadura e expondo seus pontos fracos.</VFEI2_Durapod.description>
+  <VFEI2_Durapod.tools.head_claw.label>garra da cabeça</VFEI2_Durapod.tools.head_claw.label>
+  <VFEI2_Durapod.tools.head.label>cabeça</VFEI2_Durapod.tools.head.label>
+  
+  <VFEI2_Empress.label>imperatriz</VFEI2_Empress.label>
+  <VFEI2_Empress.description>Um insectoide incrivelmente raro e monstruosamente grande da linhagem Sorne, a imperatriz insectoide é extremamente eficaz em dar à luz proles. Suas câmaras larvais especializadas permitem que ela gere grandes enxames de larvas rapidamente. Embora não seja tão perigosa em combate próximo, os vastos números de seus descendentes podem facilmente cercar e subjugar os inimigos. Embora todos os insectoides sejam quase igualmente aterrorizantes, muitos que viram a imperatriz consideram sua visão ainda mais perturbadora, pois ela encarna tudo o que há de errado com a engenharia genética. Após a morte, é possível extrair um feronúcleo Sorne de seu corpo.</VFEI2_Empress.description>
+  <VFEI2_Empress.tools.head_claw.label>garra da cabeça</VFEI2_Empress.tools.head_claw.label>
+  <VFEI2_Empress.tools.front_claw.label>garra frontal</VFEI2_Empress.tools.front_claw.label>
+  <VFEI2_Empress.tools.head.label>cabeça</VFEI2_Empress.tools.head.label>
+
+  <VFEI2_Fuelmite.label>combustácaro</VFEI2_Fuelmite.label>
+  <VFEI2_Fuelmite.description>Um ácaro grande e geneticamente modificado nativo do planeta Nuchadus, onde alimenta as gigantescas megaforjas das corporações. Combustácaros são capazes de sintetizar quimicombustível volátil em seus sacos de combustível e podem ejetá-lo de suas glândulas a grandes distâncias. Embora o combustível em si não seja perigoso, uma única faísca é suficiente para incendiar a área. É, no entanto, bastante lento em terreno aberto.</VFEI2_Fuelmite.description>
+  <VFEI2_Fuelmite.tools.head_claw.label>garra da cabeça</VFEI2_Fuelmite.tools.head_claw.label>
+  <VFEI2_Fuelmite.tools.head.label>cabeça</VFEI2_Fuelmite.tools.head.label>
+
+  <VFEI2_Gigalocust.label>gigafanhoto</VFEI2_Gigalocust.label>
+  <VFEI2_Gigalocust.description>Um zangão caçador geneticamente modificado do tamanho de um elefante. Ele pode voar por longas distâncias, caindo sobre alvos desprevenidos e rasgando-os em pedaços com seus vários conjuntos de lâminas estripadoras e mandíbulas afiadas. É, no entanto, bastante lento em terreno aberto.</VFEI2_Gigalocust.description>
+  <VFEI2_Gigalocust.tools.head_claw.label>garra da cabeça</VFEI2_Gigalocust.tools.head_claw.label>
+  <VFEI2_Gigalocust.tools.head.label>cabeça</VFEI2_Gigalocust.tools.head.label>
+
+  <VFEI2_Gigamite.label>gigácaro</VFEI2_Gigamite.label>
+  <VFEI2_Gigamite.description>Um insectoide incrivelmente raro e monstruosamente grande da linhagem Kemia, o gigácaro é uma criatura colossal nativa do planeta mais tóxico já descoberto, renomada por sua adaptação única ao ambiente hostil. Esta criatura possui uma glândula de ácido massiva, montada proeminentemente em suas costas, que produz um ácido corrosivo potente. Embora o gigácaro careça de destreza em combate corpo a corpo, ele compensa com sua habilidade de projetar um fluxo contínuo de ácido em alta velocidade a distâncias consideráveis. Este ataque devastador não apenas queima matéria orgânica, mas também corrói rapidamente estruturas e veículos. Após a morte, é possível extrair um feronúcleo Kemia de seu corpo.</VFEI2_Gigamite.description>
+  <VFEI2_Gigamite.tools.head_claw.label>garra da cabeça</VFEI2_Gigamite.tools.head_claw.label>
+  <VFEI2_Gigamite.tools.head.label>cabeça</VFEI2_Gigamite.tools.head.label>
+
+  <VFEI2_Hellbeetle.label>besouro infernal</VFEI2_Hellbeetle.label>
+  <VFEI2_Hellbeetle.description>Não sendo realmente um besouro, o besouro infernal é um insectoide gigante geneticamente modificado do tamanho de um urso. Projetado para as forjas do planeta Nuchadus, os besouro infernals possuem uma armadura frágil, mas são capazes de cuspir fogo líquido de suas mandíbulas gigantes. Em combate próximo, seus chifres afiados e lâminas estripadoras dão conta tanto de carne quanto de metal. É, no entanto, bastante lento em terreno aberto.</VFEI2_Hellbeetle.description>
+  <VFEI2_Hellbeetle.tools.head_claw.label>garra da cabeça</VFEI2_Hellbeetle.tools.head_claw.label>
+  <VFEI2_Hellbeetle.tools.head.label>cabeça</VFEI2_Hellbeetle.tools.head.label>
+
+  <VFEI2_Ironclad.label>encouraçado</VFEI2_Ironclad.label>
+  <VFEI2_Ironclad.description>Um insectoide gigante, geneticamente modificado, responsável pela defesa da colmeia. Suas garras incríveis, do tamanho do ego de um vidtuber fracassado, podem quebrar e esmagar qualquer coisa que tente ferir a nova prole. Sua carapaça rochosa extremamente espessa o torna muito lento, mas também muito durável, embora o dano excessivo vá lascando a armadura e expondo seus pontos fracos.</VFEI2_Ironclad.description>
+  <VFEI2_Ironclad.tools.head_claw.label>garra da cabeça</VFEI2_Ironclad.tools.head_claw.label>
+  <VFEI2_Ironclad.tools.head.label>cabeça</VFEI2_Ironclad.tools.head.label>
+
+  <VFEI2_Macrofly.label>macromosca</VFEI2_Macrofly.label>
+  <VFEI2_Macrofly.description>Um insectoide voador bioengenheirado de tamanho médio, do tamanho de um porco. A macromosca é a casta mais baixa da colmeia Chelis, responsável pela maior parte da coleta de recursos e trabalho. É capaz de investir contra os inimigos em velocidade incrível e usa suas garras de escavação para dilacerá-los em combate próximo. É perigosa em combate, mas lenta em terreno aberto.</VFEI2_Macrofly.description>
+  <VFEI2_Macrofly.tools.head_claw.label>garra da cabeça</VFEI2_Macrofly.tools.head_claw.label>
+  <VFEI2_Macrofly.tools.head.label>cabeça</VFEI2_Macrofly.tools.head.label>
+
+  <VFEI2_Megapede.label>megapéia</VFEI2_Megapede.label>
+  <VFEI2_Megapede.description>Um insectoide gigante e pesado que desliza sobre dúzias de patas minúsculas. Sua espessa armadura de quitina e mandíbulas afiadas do tamanho das presas de um elefante a tornam uma excelente máquina de cerco. Por serem extremamente lentas, são um tanto vulneráveis a táticas de bater e correr.</VFEI2_Megapede.description>
+  <VFEI2_Megapede.tools.head_claw.label>garra da cabeça</VFEI2_Megapede.tools.head_claw.label>
+  <VFEI2_Megapede.tools.mandibles.label>mandíbulas</VFEI2_Megapede.tools.mandibles.label>
+  <VFEI2_Megapede.tools.head.label>cabeça</VFEI2_Megapede.tools.head.label>
+
+  <VFEI2_Megathrips.label>tripes</VFEI2_Megathrips.label>
+  <VFEI2_Megathrips.description>Um tripes grande e geneticamente modificado. Uma casta operária de um ecossistema artificial de insectoides projetado para lutar contra humanos em guerras de grande escala, agora compõe a maioria das colmeias da linhagem Kemian. O tripes usa mandíbulas afiadas para rasgar armaduras em pedaços, enquanto glândulas de ácido sobrecarregadas cobrem a carne exposta com uma substância corrosiva, causando queimaduras graves. Uma criatura eussocial, não pode se reproduzir individualmente.</VFEI2_Megathrips.description>
+  <VFEI2_Megathrips.tools.mandibles.label>mandíbulas</VFEI2_Megathrips.tools.mandibles.label>
+  <VFEI2_Megathrips.tools.head.label>cabeça</VFEI2_Megathrips.tools.head.label>
+
+  <VFEI2_Megawasp.label>megavespa</VFEI2_Megawasp.label>
+  <VFEI2_Megawasp.description>Não sendo realmente uma vespa, a megavespa é um insectoide voador gigante geneticamente modificado do tamanho de uma vaca. Projetada como caçadora e defensora da colmeia, a megavespa voa pelo ar para enfrentar inimigos em combate próximo, onde usa mandíbulas e lâminas estripadoras longas e afiadas para despedaçar qualquer um que enfrente. A nitidez das garras significa que são capazes de eliminar até mesmo os inimigos mais pesadamente blindados. É, no entanto, bastante lenta em terreno aberto.</VFEI2_Megawasp.description>
+  <VFEI2_Megawasp.tools.head_claw.label>garra da cabeça</VFEI2_Megawasp.tools.head_claw.label>
+  <VFEI2_Megawasp.tools.head.label>cabeça</VFEI2_Megawasp.tools.head.label>
+
+  <VFEI2_Patriarch.label>patriarca</VFEI2_Patriarch.label>
+  <VFEI2_Patriarch.description>O gigantesco patriarca da linhagem Sorne serve como o macho principal responsável pela sobrevivência e proteção da casta real. Suas imensas garras escavadoras, essenciais tanto para a construção quanto para a defesa da colmeia, funcionam como escudos formidáveis capazes de absorver quantidades extraordinárias de dano. Montados em suas costas estão vastos sacos de geleia de inseto, que fornecem os recursos necessários para construir rapidamente quaisquer defesas de colmeia. Em batalha, seus conjuntos de lâminas estripadoras extremamente afiadas e mandíbulas afiadas como navalhas podem despachar eficientemente qualquer ameaça à colmeia. O Patriarca possui a habilidade de evocar insectoides da casta real de túneis profundos subterrâneos, permitindo que reforços surjam rapidamente na superfície. Após a morte, é possível extrair um feronúcleo Sorne de seu corpo.</VFEI2_Patriarch.description>
+  <VFEI2_Patriarch.tools.head_claw.label>garra da cabeça</VFEI2_Patriarch.tools.head_claw.label>
+  <VFEI2_Patriarch.tools.front_claw.label>garra frontal</VFEI2_Patriarch.tools.front_claw.label>
+  <VFEI2_Patriarch.tools.head.label>cabeça</VFEI2_Patriarch.tools.head.label>
+
+  <VFEI2_Queen.label>rainha insectoide</VFEI2_Queen.label>
+  <VFEI2_Queen.description>Um insectoide gigante, geneticamente modificado, responsável por criar novas proles. Uma progenitora para os insetos em sua colmeia, a rainha não faz trabalho pesado e tenta evitar o combate, se possível. Tão massiva quanto um thrumbo adulto, a rainha infunde medo na maioria dos oponentes. Sua espessa armadura de quitina a torna difícil de matar, enquanto lâminas longas e letais podem rasgar blindagens de plastaço em segundos. Apesar de ser bastante lenta em terreno aberto, uma rainha insectoide é capaz de criar novos enxames de larvas em um ritmo acelerado e nunca deve ter permissão para se estabelecer.</VFEI2_Queen.description>
+  <VFEI2_Queen.tools.head_claw.label>garra da cabeça</VFEI2_Queen.tools.head_claw.label>
+  <VFEI2_Queen.tools.head.label>cabeça</VFEI2_Queen.tools.head.label>
+
+  <VFEI2_RoyalMegascarab.label>megaescaravelho real</VFEI2_RoyalMegascarab.label>
+  <VFEI2_RoyalMegascarab.description>Um insectoide de evolução natural e tamanho médio, do tamanho de uma ovelha. Fazendo parte da colmeia real, estes megaescaravelhos maiores atuam como uma casta operária das colmeias principais e são sempre vistos servindo ao redor dos líderes da colmeia. Seu tamanho e carapaça dura o tornam perigoso quando ataca. Diferente de seus primos bioengenheirados, estes insectoides foram criados pelos líderes da colmeia para proteger as colmeias mais importantes, e sua composição genética e caminho evolutivo são um mistério para os cientistas.</VFEI2_RoyalMegascarab.description>
+  <VFEI2_RoyalMegascarab.tools.mandibles.label>mandíbulas</VFEI2_RoyalMegascarab.tools.mandibles.label>
+  <VFEI2_RoyalMegascarab.tools.head.label>cabeça</VFEI2_RoyalMegascarab.tools.head.label>
+
+  <VFEI2_RoyalMegaspider.label>megaranha real</VFEI2_RoyalMegaspider.label>
+  <VFEI2_RoyalMegaspider.description>Não sendo realmente uma aranha, a megaranha real é um insectoide de evolução natural do tamanho de um elefante. Sua espessa armadura de quitina e um par de fortes lâminas estripadoras a tornam uma caçadora e defensora primária perfeita para a colmeia. Diferente de seus primos bioengenheirados, estes insectoides foram criados pelos líderes da colmeia para proteger as colmeias mais importantes, e sua composição genética e caminho evolutivo são um mistério para os cientistas.</VFEI2_RoyalMegaspider.description>
+  <VFEI2_RoyalMegaspider.tools.head_claw.label>garra da cabeça</VFEI2_RoyalMegaspider.tools.head_claw.label>
+  <VFEI2_RoyalMegaspider.tools.mandibles.label>mandíbulas</VFEI2_RoyalMegaspider.tools.mandibles.label>
+  <VFEI2_RoyalMegaspider.tools.head.label>cabeça</VFEI2_RoyalMegaspider.tools.head.label>
+  
+  <VFEI2_RoyalSpelopede.label>espelópode real</VFEI2_RoyalSpelopede.label>
+  <VFEI2_RoyalSpelopede.description>Um insectoide de evolução natural do tamanho de um urso. Os espelópodes reais são a casta intermédia das colmeias principais e atuam como defensores e operários dos líderes da colmeia insectoide. A sua espessa armadura de quitina torna-os muito difíceis de matar, enquanto as fortes garras de escavação permitem que cuidem da maioria das tarefas necessárias. Diferente dos seus primos bioengenheirados, estes insectoides foram criados pelos líderes da colmeia para proteger as colmeias mais importantes, e a sua composição genética e caminho evolutivo são um mistério para os cientistas.</VFEI2_RoyalSpelopede.description>
+  <VFEI2_RoyalSpelopede.tools.head_claw.label>garra da cabeça</VFEI2_RoyalSpelopede.tools.head_claw.label>
+  <VFEI2_RoyalSpelopede.tools.head.label>cabeça</VFEI2_RoyalSpelopede.tools.head.label>
+
+  <VFEI2_Silverfish.label>traça</VFEI2_Silverfish.label>
+  <VFEI2_Silverfish.description>Um insectoide incrivelmente raro e monstruosamente grande da linhagem Xanides. A traça, um inseto colossal do planeta Xanides, rico em minerais, está envolta em um exoesqueleto quase impenetrável composto de formações rochosas. Apesar de seu movimento lento, este insectoide gigante é altamente eficaz em abrir túneis pelo terreno denso do planeta, usando suas garras de pinça massivas para cavar túneis largos e desmantelar estruturas defensivas com facilidade. Embora sua armadura rochosa o proteja da maioria dos ataques, tiros estrategicamente direcionados podem expor pontos vulneráveis sob seu exterior endurecido. Após a morte, é possível extrair um feronúcleo Xanides de seu corpo.</VFEI2_Silverfish.description>
+  <VFEI2_Silverfish.tools.right_claw.label>garra direita</VFEI2_Silverfish.tools.right_claw.label>
+  <VFEI2_Silverfish.tools.left_claw.label>garra esquerda</VFEI2_Silverfish.tools.left_claw.label>
+  <VFEI2_Silverfish.tools.head.label>cabeça</VFEI2_Silverfish.tools.head.label>
+
+  <VFEI2_Swarmling.label>enxameantes</VFEI2_Swarmling.label>
+  <VFEI2_Swarmling.description>A forma juvenil dos insectoides, os enxameantes são mais ou menos inofensivos, lentos e fáceis de matar. Após algum tempo, eles passam por uma metamorfose, formando um casulo do qual um insectoide adulto emergirá. Não há como saber que tipo de inseto sairá de seu casulo.</VFEI2_Swarmling.description>
+  <VFEI2_Swarmling.tools.mouth.label>boca</VFEI2_Swarmling.tools.mouth.label>
+
+  <VFEI2_Tankroach.label>baratanque</VFEI2_Tankroach.label>
+  <VFEI2_Tankroach.description>Um insectoide gigante e pesado que desliza sobre dúzias de patas minúsculas. A sua carapaça rochosa extremamente espessa torna-o muito lento, mas também muito durável; no entanto, o dano excessivo lascará a armadura, expondo os seus pontos fracos.</VFEI2_Tankroach.description>
+  <VFEI2_Tankroach.tools.head_claw.label>garra da cabeça</VFEI2_Tankroach.tools.head_claw.label>
+  <VFEI2_Tankroach.tools.mandibles.label>mandíbulas</VFEI2_Tankroach.tools.mandibles.label>
+  <VFEI2_Tankroach.tools.head.label>cabeça</VFEI2_Tankroach.tools.head.label>
+
+  <VFEI2_Teramantis.label>teramantis</VFEI2_Teramantis.label>
+  <VFEI2_Teramantis.description>Um insectoide incrivelmente raro e monstruosamente grande da linhagem Chelis. A teramantis é a líder formidável das colmeias insectoides nos planetas de estepe de Chelis. Conhecido como um macho primário, este insectoide massivo é equipado com garras estripadoras letais, afiadas o suficiente para partir veículos blindados ao meio. Complementando suas temíveis capacidades ofensivas, a teramantis ostenta um grande conjunto de asas, concedendo-lhe a habilidade de voar por vastas paisagens em busca de presas por centenas de milhas. Sua proeza aérea e força mortal o tornam um predador alfa temido em Chelis, comandando respeito e medo de todos que habitam seu território. Após a morte, é possível extrair um feronúcleo Chelis de seu corpo.</VFEI2_Teramantis.description>
+  <VFEI2_Teramantis.tools.head_claw.label>garra da cabeça</VFEI2_Teramantis.tools.head_claw.label>
+  <VFEI2_Teramantis.tools.right_claw.label>garra direita</VFEI2_Teramantis.tools.right_claw.label>
+  <VFEI2_Teramantis.tools.left_claw.label>garra esquerda</VFEI2_Teramantis.tools.left_claw.label>
+  <VFEI2_Teramantis.tools.head.label>cabeça</VFEI2_Teramantis.tools.head.label>
+
+  <VFEI2_Titantick.label>titancarrapato</VFEI2_Titantick.label>
+  <VFEI2_Titantick.description>Um insectoide incrivelmente raro e monstruosamente grande da linhagem Nuchadus. O titancarrapato é um carrapato modificado formidável, projetado para servir como um depósito de combustível móvel no inóspito planeta de magma de Nuchadus. Esta criatura possui um enorme saco de quimicombustível fixado ao abdômen inferior, que tende a vazar vastas quantidades de combustível quando danificado. Além de sua capacidade de armazenar combustível, o titancarrapato também pode projetar jatos de quimicombustível em chamas por longas distâncias, tornando-o um adversário perigoso em combate. A natureza volátil de seu saco de combustível significa que, ao morrer, o titancarrapato explodirá espetacularmente, mas ainda é possível extrair um feronúcleo Nuchadus de seu corpo.</VFEI2_Titantick.description>
+  <VFEI2_Titantick.tools.head_horn.label>chifre da cabeça</VFEI2_Titantick.tools.head_horn.label>
+  <VFEI2_Titantick.tools.head.label>cabeça</VFEI2_Titantick.tools.head.label>
+
+  <VFEI2_Venomite.label>peçonhácaro</VFEI2_Venomite.label>
+  <VFEI2_Venomite.description>Não sendo realmente um ácaro, o peçonhácaro é um insectoide gigante geneticamente modificado do tamanho de um leão. Projetado para infligir o máximo de dano a inimigos orgânicos, o peçonhácaro é capaz de cuspir golfadas de ácido altamente corrosivo a longas distâncias. Ao impacto, causará queimaduras graves, mas não resultará em danos permanentes. É relativamente fácil de derrotar em combate corpo a corpo devido às suas lâminas estripadoras serem mais curtas que as da variedade Sorne. É bastante lento em terreno aberto.</VFEI2_Venomite.description>
+  <VFEI2_Venomite.tools.head_claw.label>garra da cabeça</VFEI2_Venomite.tools.head_claw.label>
+  <VFEI2_Venomite.tools.head.label>cabeça</VFEI2_Venomite.tools.head.label>
+
+  <VFEI2_RoyalInsectJelly.label>geleia de inseto real</VFEI2_RoyalInsectJelly.label>
+  <VFEI2_RoyalInsectJelly.description>Uma geleia dourada e brilhante usada pelas rainhas insectoides para criar novas proles. É suave, rica e traz alegria para quem a consome. Devido à sua composição biológica única, ela aumenta a imunidade e nutre qualquer um que a prove. O vício em geleia real pode comprometer o sistema imunológico do dependente. Também é conhecida por aumentar a velocidade de gestação de líderes de colmeia em vítimas.</VFEI2_RoyalInsectJelly.description>
+
+
+  
+</LanguageData>

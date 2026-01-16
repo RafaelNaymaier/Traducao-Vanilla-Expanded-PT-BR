@@ -1,35 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VFEPirates.EntombingWarning>Sepultar um colono em um sarcófago de guerra é uma operação permanente que não pode ser revertida sem consequências dolorosas.</VFEPirates.EntombingWarning>
+  <VFEPirates.EntombingWarning>Integrar um colono em uma carcaça de guerra é uma operação permanente que não pode ser revertida sem consequências dolorosas.</VFEPirates.EntombingWarning>
   <VFEM.MissingMaterials>Materiais ausentes: {0}</VFEM.MissingMaterials>
   <VFEP.Occupied>Ocupado</VFEP.Occupied>
-  <VFEP.WarcasketCannotBeRemoved>O sarcófago de guerra não pode ser removido</VFEP.WarcasketCannotBeRemoved>
+  <VFEP.WarcasketCannotBeRemoved>A carcaça de guerra não pode ser removida</VFEP.WarcasketCannotBeRemoved>
   <VFEP_NextSpawnedRumIn>Produzindo rum a partir de fluidos corporais em: {0}</VFEP_NextSpawnedRumIn>
   <VFEP.MessagePawnArrived>{PAWN_nameDef} chegou.</VFEP.MessagePawnArrived>
-  <VFEP.RequiresWarcasket>Requer sarcófago de guerra</VFEP.RequiresWarcasket>
+  <VFEP.RequiresWarcasket>Requer carcaça de guerra</VFEP.RequiresWarcasket>
   <VFEP.ExplodeIn>Explodirá em: {0}</VFEP.ExplodeIn>
 
   <VFEP.ChooseCurses>Selecione suas Maldições</VFEP.ChooseCurses>
   <VFEP.ChooseCurses.Desc>Quanto mais maldições você selecionar, mais colonos seu narrador permitirá que você tenha, e mais raros serão os eventos de grandes ameaças.</VFEP.ChooseCurses.Desc>
   <VFEP.DesiredPopMax>Pop. máx. desejada: {0}</VFEP.DesiredPopMax>
   <VFEP.DaysBigThreats>Dias entre ameaças: {0}</VFEP.DaysBigThreats>
-  <VFEP.WarcasketCustom>Customização de Sarcófago</VFEP.WarcasketCustom>
-  <VFEP.WarcasketText>Quando você pressionar Aceitar, o fabricador escolhido trará os recursos para a estrutura e começará a montar um sarcófago de guerra. A velocidade da montagem depende da habilidade de fabricação do seu fabricador. Assim que o processo for concluído, um sarcófago de guerra sairá da plataforma. Tenha cuidado, pois o colono na plataforma ainda pode morrer de fome - você deve priorizar a montagem do sarcófago sobre outras tarefas.</VFEP.WarcasketText>
+  <VFEP.WarcasketCustom>Customização de Carcaça</VFEP.WarcasketCustom>
+  <VFEP.WarcasketText>Quando você pressionar Aceitar, o fabricante escolhido trará os recursos para a estrutura e começará a montar uma carcaça de guerra. A velocidade da montagem depende da habilidade de fabricação do seu artífice. Assim que o processo for concluído, uma carcaça de guerra sairá da plataforma. Tenha cuidado, pois o colono na plataforma ainda pode morrer de fome - você deve priorizar a montagem da carcaça sobre outras tarefas.</VFEP.WarcasketText>
   <VFEP.WorkAmount>Quantidade de Trabalho:</VFEP.WorkAmount>
-  <VFEP.Crafter>Fabricador:</VFEP.Crafter>
-  <VFEP.Helmet>Elmo:</VFEP.Helmet>
+  <VFEP.Crafter>Fabricante:</VFEP.Crafter>
+  <VFEP.Helmet>Capacete:</VFEP.Helmet>
   <VFEP.Shoulderpads>Ombreiras:</VFEP.Shoulderpads>
   <VFEP.ArmorFrame>Estrutura da armadura:</VFEP.ArmorFrame>
   <VFEP.TotalCost>Custo Total:</VFEP.TotalCost>
   <VFEP.ResourceCost>Custo de Recursos:</VFEP.ResourceCost>
-  <VFEP.ResearchText>Pesquise mais tecnologias de sarcófagos para desbloquear mais peças de armadura.</VFEP.ResearchText>
-  <VFEP.NoWarcaskets>Pesquise sarcófagos de guerra para aprender a usar a fundição.</VFEP.NoWarcaskets>
+  <VFEP.ResearchText>Pesquise mais tecnologias de carcaças para desbloquear mais peças de armadura.</VFEP.ResearchText>
+  <VFEP.NoWarcaskets>Pesquise carcaças de guerra para aprender a usar a fundição.</VFEP.NoWarcaskets>
   <VFEP.NotEnoughFuel>Combustível químico insuficiente para o salto propulsionado.</VFEP.NotEnoughFuel>
   <VFEP.SiegeModeOff>Modo de cerco desligado</VFEP.SiegeModeOff>
   <VFEP.SiegeModeOn>Modo de cerco ligado</VFEP.SiegeModeOn>
-  <VFEPirates.CannotEntomb>Não é possível sepultar no sarcófago: {0}</VFEPirates.CannotEntomb>
-  <VFEPirates.EntombInWarcasket>Sepultar em sarcófago de guerra</VFEPirates.EntombInWarcasket>
+  <VFEPirates.CannotEntomb>Não é possível integrar na carcaça: {0}</VFEPirates.CannotEntomb>
+  <VFEPirates.EntombInWarcasket>Integrar em carcaça de guerra</VFEPirates.EntombInWarcasket>
   <VFEP.EntombInIncapableOfViolenceWarning> (Aviso: {PAWN_nameDef} é incapaz de violência, isso o(a) tornará inútil.)</VFEP.EntombInIncapableOfViolenceWarning>
   <VFEP.ActivateShield>Ativar campo de escudo</VFEP.ActivateShield>
   <VFEP.ActivateShieldDesc>Clique para ativar o campo de escudo. Ele possui 10 segundos de modo ativo e 90 segundos de recarga.</VFEP.ActivateShieldDesc>
