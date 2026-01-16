@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEP_FiringFrenzy.label>frenesi de disparo</VFEP_FiringFrenzy.label>
+  <VFEP_FiringFrenzy.description>Inspira todos os aliados próximos a aumentarem sua cadência de tiro e resistirem a maiores quantidades de dor. O efeito permanece atado ao conjurador por 24 horas.</VFEP_FiringFrenzy.description>
+
+  <VFEP_BlastOff.label>decolar</VFEP_BlastOff.label>
+  <VFEP_BlastOff.description>Aciona um grande motor de propulsão preso às costas da sua armadura e designa um local no mapa-múndi para aterrissar como um casulo de transporte. Isso criará uma grande explosão no destino, mas provavelmente deixará você isolado sem combustível para a viagem de volta.</VFEP_BlastOff.description>
+  <VFEP_BlastOff.jobReportString>Usando habilidade: {0}</VFEP_BlastOff.jobReportString>
+  <VFEP_BlastOff.verbProperties.label>decolar</VFEP_BlastOff.verbProperties.label>
+  
+  <VFEP_GrapplingHook.label>arpéu</VFEP_GrapplingHook.label>
+  <VFEP_GrapplingHook.description>O arpéu se conecta a paredes e rocha sólida, permitindo que o usuário se mova rapidamente para o local desejado. O lançador não requer munição, mas é necessário um tempo entre os disparos para rebobiná-lo.</VFEP_GrapplingHook.description>
+  <VFEP_GrapplingHook.jobReportString>Usando habilidade: {0}</VFEP_GrapplingHook.jobReportString>
+  <VFEP_GrapplingHook.modExtensions.0.labelUnloaded>recarregar arpéu</VFEP_GrapplingHook.modExtensions.0.labelUnloaded>
+  <VFEP_GrapplingHook.verbProperties.label>arpéu</VFEP_GrapplingHook.verbProperties.label>
+  
+  <VFEP_PowerJump.label>salto propulsionado</VFEP_PowerJump.label>
+  <VFEP_PowerJump.description>Usa mochilas de salto montadas nos ombros para percorrer uma curta distância, criando uma pequena explosão tanto no início quanto no fim do voo.</VFEP_PowerJump.description>
+  <VFEP_PowerJump.jobReportString>Usando habilidade: {0}</VFEP_PowerJump.jobReportString>
+  <VFEP_PowerJump.verbProperties.label>salto propulsionado</VFEP_PowerJump.verbProperties.label>
+  
+  <VFEP_SiegeMode.label>modo de cerco</VFEP_SiegeMode.label>
+  <VFEP_SiegeMode.description>Perfura o solo para ganhar mais estabilidade e se transforma em uma unidade de artilharia estacionária, aumentando drasticamente o alcance de ataque e a eficiência de recarga.</VFEP_SiegeMode.description>
+  <VFEP_SiegeMode.jobReportString>Usando habilidade: {0}</VFEP_SiegeMode.jobReportString>
+  <VFEP_SiegeMode.verbProperties.label>modo de cerco</VFEP_SiegeMode.verbProperties.label>
+  
+</LanguageData>

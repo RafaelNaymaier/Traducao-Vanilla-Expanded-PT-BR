@@ -1,0 +1,443 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEP_ActiveDropPawn.label>lançar colono</VFEP_ActiveDropPawn.label>
+  
+  <VFEP_Bullet_GrapplingHook.label>arpéu</VFEP_Bullet_GrapplingHook.label>
+  
+  <VFEP_GrapplingPawn.label>usando arpéu</VFEP_GrapplingPawn.label>
+  
+  <VFEP_PowerJumpPawn.label>saltando</VFEP_PowerJumpPawn.label>
+
+  <VFEP_Rum.label>rum de traje</VFEP_Rum.label>
+  <VFEP_Rum.description>Uma bebida de altíssimo teor alcoólico destilada a partir de fluidos corporais reciclados dos usuários de trajes de rum.\n\nUma solução engenhosa para manter o moral elevado e permitir que a tripulação opere por períodos prolongados sem pausas para alimentação ou higiene. Este rum tem uma consistência espessa — similar a um shake de proteína — e o álcool serve primariamente para mascarar o sabor metálico e desagradável da tecnologia de reciclagem de nutrientes adaptada.</VFEP_Rum.description>
+  <VFEP_Rum.ingestible.ingestCommandString>Ingerir {0}</VFEP_Rum.ingestible.ingestCommandString>
+  <VFEP_Rum.ingestible.ingestReportString>Ingerindo {0}.</VFEP_Rum.ingestible.ingestReportString>
+  <VFEP_Rum.tools.bottle.label>garrafa</VFEP_Rum.tools.bottle.label>
+  <VFEP_Rum.tools.neck.label>gargalo</VFEP_Rum.tools.neck.label>
+
+  <VFEP_WarcasketHelmet_Aerial.label>elmo de sarcófago aéreo</VFEP_WarcasketHelmet_Aerial.label>
+  <VFEP_WarcasketHelmet_Aerial.description>Elmo especializado para sarcófagos de guerra, oferecendo proteção superior sem acréscimo de peso. Possui design aerodinâmico e telemetria avançada para cálculos de trajetória de salto.\n\nOs sarcófagos de 7ª geração focaram em sinergia entre as partes. A série Aérea, baseada no modelo fuzileiro, utiliza propulsores e revestimento hidrodinâmico para permitir que o piloto caia diretamente sobre alvos de alta prioridade, honrando o lema: "morte vinda do céu".</VFEP_WarcasketHelmet_Aerial.description>
+  <VFEP_WarcasketHelmet_Aerial.shortDescription>elmo especializado com proteção superior e telemetria para cálculos de salto.</VFEP_WarcasketHelmet_Aerial.shortDescription>
+  
+  <VFEP_WarcasketHelmet_Barrage.label>elmo de sarcófago de barragem</VFEP_WarcasketHelmet_Barrage.label>
+  <VFEP_WarcasketHelmet_Barrage.description>Elmo maciço com proteção inigualável, equipado com telêmetros de precisão e atuadores pneumáticos.\n\nA série Barragem evoluiu a partir dos modelos catafratas, utilizando blindagem pesada e estabilizadores de tiro adaptados de baterias navais. O foco é saturar o campo com poder de fogo enquanto ignora represálias inimigas; seu bordão característico é: "tente desviar disso".</VFEP_WarcasketHelmet_Barrage.description>
+  <VFEP_WarcasketHelmet_Barrage.shortDescription>elmo especializado com proteção inigualável e telêmetros de bordo.</VFEP_WarcasketHelmet_Barrage.shortDescription>
+  
+  <VFEP_WarcasketHelmet_Brute.label>elmo de sarcófago bruto</VFEP_WarcasketHelmet_Brute.label>
+  <VFEP_WarcasketHelmet_Brute.description>Elmo de tecnologia espacial com proteção padrão, integrado a um módulo de descarga que drena energia dos capacitores de escudo.\n\nAdaptados de plataformas piratas capturadas, os sarcófagos da série Bruto utilizam escudos cinéticos avançados que bloqueiam ataques de qualquer distância, mas interferem no uso de armas de longo alcance. O piloto deve focar no combate corpo a corpo, podendo detonar o escudo para obliterar ameaças circundantes.</VFEP_WarcasketHelmet_Brute.description>
+  <VFEP_WarcasketHelmet_Brute.comps.Comp_VerbGiver.verbProps.0.label>detonação de escudo</VFEP_WarcasketHelmet_Brute.comps.Comp_VerbGiver.verbProps.0.label>
+  <VFEP_WarcasketHelmet_Brute.comps.Comp_VerbGiver.verbProps.0.description>Sobrecarga o escudo pessoal para gerar uma deflagração de energia cinética, causando dano em área proporcional à carga do escudo.</VFEP_WarcasketHelmet_Brute.comps.Comp_VerbGiver.verbProps.0.description>
+  <VFEP_WarcasketHelmet_Brute.comps.Comp_VerbGiver.verbProps.0.visualLabel>detonação de escudo</VFEP_WarcasketHelmet_Brute.comps.Comp_VerbGiver.verbProps.0.visualLabel>
+  <VFEP_WarcasketHelmet_Brute.shortDescription>elmo de sarcófago espacial com módulo de descarga de escudo.</VFEP_WarcasketHelmet_Brute.shortDescription>
+  
+  <VFEP_WarcasketHelmet_Cataphract.label>elmo de sarcófago catafrata</VFEP_WarcasketHelmet_Cataphract.label>
+  <VFEP_WarcasketHelmet_Cataphract.description>Elmo de combate avançado com proteção pesada.\n\nOs modelos catafratas de 5ª geração foram projetados para absorver punição severa enquanto fornecem fogo de supressão constante. Seus pilotos são famosos pela resiliência inabalável, frequentemente marchando sob chuva de balas com a frase: "não tenho tempo para sangrar".</VFEP_WarcasketHelmet_Cataphract.description>
+  <VFEP_WarcasketHelmet_Cataphract.shortDescription>elmo de sarcófago avançado com proteção superior e peso elevado.</VFEP_WarcasketHelmet_Cataphract.shortDescription>
+  
+  <VFEP_WarcasketHelmet_Controller.label>elmo de sarcófago controlador</VFEP_WarcasketHelmet_Controller.label>
+  <VFEP_WarcasketHelmet_Controller.description>Elmo de tecnologia espacial integrado a um sistema de implantação de drones táticos.\n\nA série Controlador sacrifica blindagem por processadores de IA semi-autônomos, permitindo que o usuário comande um enxame de drones para sobrecarregar o inimigo ou criar distrações estratégicas. São ideais para defesa de pontos onde o suporte técnico é constante.</VFEP_WarcasketHelmet_Controller.description>
+  <VFEP_WarcasketHelmet_Controller.shortDescription>elmo de sarcófago espacial com módulo de comando de drones.</VFEP_WarcasketHelmet_Controller.shortDescription>
+  
+  <VFEP_WarcasketHelmet_Guardian.label>elmo de sarcófago guardião</VFEP_WarcasketHelmet_Guardian.label>
+  <VFEP_WarcasketHelmet_Guardian.description>Elmo especializado com foco em dispersão de impacto cinético.\n\nA série Guardião atua como um escudo móvel para o esquadrão. Através de emissores de curto alcance, ele protege aliados próximos contra projéteis de alta penetração. Embora vulnerável quando isolado, é a espinha dorsal de formações táticas contra armas de uso único.</VFEP_WarcasketHelmet_Guardian.description>
+  <VFEP_WarcasketHelmet_Guardian.shortDescription>elmo com dispersão de impacto e projetor de escudo para aliados.</VFEP_WarcasketHelmet_Guardian.shortDescription>
+  
+  <VFEP_WarcasketHelmet_Hazard.label>elmo de sarcófago de perigo</VFEP_WarcasketHelmet_Hazard.label>
+  <VFEP_WarcasketHelmet_Hazard.description>Elmo projetado para operações em ambientes extremos, com filtragem atmosférica de ponta e isolamento psíquico.\n\nA série de Perigo permite que o piloto opere em meio a incêndios descontrolados ou zonas de radiação letal. Seus usuários costumam ser tão cínicos quanto o lema que carregam: "amo o cheiro de napalm, tem cheiro de prata".</VFEP_WarcasketHelmet_Hazard.description>
+  <VFEP_WarcasketHelmet_Hazard.shortDescription>elmo especializado com proteção ambiental e isolamento psíquico.</VFEP_WarcasketHelmet_Hazard.shortDescription>
+  
+  <VFEP_WarcasketHelmet_Marine.label>elmo de sarcófago fuzileiro</VFEP_WarcasketHelmet_Marine.label>
+  <VFEP_WarcasketHelmet_Marine.description>Elmo de combate avançado que equilibra peso e defesa.\n\nSurgido durante as guerras antipirataria da 4ª geração, este design mimetiza a armadura de fuzileiro convencional, porém com placas reforçadas suportadas por sistemas hidráulicos de alta potência exclusivos dos sarcófagos.</VFEP_WarcasketHelmet_Marine.description>
+  <VFEP_WarcasketHelmet_Marine.shortDescription>elmo de sarcófago avançado com hidráulica reforçada.</VFEP_WarcasketHelmet_Marine.shortDescription>
+  
+  <VFEP_WarcasketHelmet_Recon.label>elmo de sarcófago de reconhecimento</VFEP_WarcasketHelmet_Recon.label>
+  <VFEP_WarcasketHelmet_Recon.description>Elmo leve focado em mobilidade e operações de infiltração.\n\nO modelo de reconhecimento prioriza a detecção e a eliminação rápida de alvos estratégicos antes que o inimigo possa reagir. Seus pilotos vivem sob a premissa de que "quem para, morre".</VFEP_WarcasketHelmet_Recon.description>
+  <VFEP_WarcasketHelmet_Recon.shortDescription>elmo leve com foco em mobilidade e autonomia ambiental.</VFEP_WarcasketHelmet_Recon.shortDescription>
+  
+  <VFEP_WarcasketHelmet_Sarcophagus.label>elmo de sarcófago fúnebre</VFEP_WarcasketHelmet_Sarcophagus.label>
+  <VFEP_WarcasketHelmet_Sarcophagus.description>Uma obra-prima sombria da tecnologia espacial, este elmo substitui permanentemente as funções biológicas de visão, audição, fala e respiração do piloto por interfaces sintéticas, incluindo um estimulador de consciência contínuo.\n\nA série Fúnebre é reservada para veteranos cujos corpos falharam, prisioneiros de alto valor ou servos condenados. Uma vez integrado, o piloto deixa de ser humano para tornar-se um componente da máquina, permanecendo ativo muito além da morte biológica.</VFEP_WarcasketHelmet_Sarcophagus.description>
+  <VFEP_WarcasketHelmet_Sarcophagus.shortDescription>elmo de suporte vital total que substitui sentidos e estimula a consciência.</VFEP_WarcasketHelmet_Sarcophagus.shortDescription>
+  
+  <VFEP_WarcasketHelmet_Shock.label>elmo de sarcófago de choque</VFEP_WarcasketHelmet_Shock.label>
+  <VFEP_WarcasketHelmet_Shock.description>Elmo de assalto equipado com preditores de combate que reduzem drasticamente o tempo de reação do usuário.\n\nFocado em inserções orbitais agressivas diretamente no coração das defesas inimigas. Especialistas em combate de curta distância, seus pilotos frequentemente saúdam o inimigo com: "eu não estou preso aqui com vocês, vocês é que estão presos comigo".</VFEP_WarcasketHelmet_Shock.description>
+  <VFEP_WarcasketHelmet_Shock.shortDescription>elmo especializado com sistemas de previsão de combate tático.</VFEP_WarcasketHelmet_Shock.shortDescription>
+  
+  <VFEP_WarcasketHelmet_Siegebreaker.label>elmo de sarcófago quebra-cerco</VFEP_WarcasketHelmet_Siegebreaker.label>
+  <VFEP_WarcasketHelmet_Siegebreaker.description>Elmo de tecnologia espacial focado em durabilidade e sustentação em campo.\n\nA série quebra-cerco utiliza escudos de alta frequência para permitir que o sarcófago mantenha uma posição sob fogo pesado, servindo como uma torre de artilharia móvel inabalável.</VFEP_WarcasketHelmet_Siegebreaker.description>
+  <VFEP_WarcasketHelmet_Siegebreaker.shortDescription>elmo focado em escudos de longa duração e resistência.</VFEP_WarcasketHelmet_Siegebreaker.shortDescription>
+  
+  <VFEP_WarcasketHelmet_Warcasket.label>elmo de sarcófago</VFEP_WarcasketHelmet_Warcasket.label>
+  <VFEP_WarcasketHelmet_Warcasket.description>O modelo padrão que deu início à era dos sarcófagos de guerra.\n\nBaseado em antigos equipamentos de mineração de asteroides e biônicos rudimentares da 3ª geração. Como dizia o arquiteto do projeto: "não se ganha uma guerra sem ignorar algumas dezenas de protocolos de segurança humana".</VFEP_WarcasketHelmet_Warcasket.description>
+  <VFEP_WarcasketHelmet_Warcasket.shortDescription>elmo de sarcófago padrão com proteção e peso equilibrados.</VFEP_WarcasketHelmet_Warcasket.shortDescription>
+
+  <VFEP_Apparel_Privateer.label>armadura de corsário</VFEP_Apparel_Privateer.label>
+  <VFEP_Apparel_Privateer.description>Uma variante da armadura de fuzileiro equipada com um arpéu pneumático no ombro. Embora ofereça um pouco menos de proteção que o modelo padrão, permite uma mobilidade tática inigualável em terrenos acidentados ou abordagens. O arpéu é autossuficiente, exigindo apenas um breve tempo de recolhimento entre os usos.</VFEP_Apparel_Privateer.description>
+  
+  <VFEP_Apparel_Rumsuit.label>traje de rum</VFEP_Apparel_Rumsuit.label>
+  <VFEP_Apparel_Rumsuit.description>Um traje volumoso e nada confortável que processa passivamente os resíduos biológicos do usuário para produzir rum destilado a cada 10 dias.\n\nAtravés de uma rede complexa de filtros, trocadores de calor e precipitadores salinos, o traje converte excrementos e transpiração em um substituto alcoólico para pasta de nutrientes. É uma peça claustrofóbica e úmida, mas vital para tripulações que pretendem passar meses sem tocar em terra firme ou suprimentos frescos.</VFEP_Apparel_Rumsuit.description>
+  
+  <VFEP_Proj_GrenadierGrenade.label>granada de fragmentação</VFEP_Proj_GrenadierGrenade.label>
+  
+  <VFEP_SpidermineProjectile.label>casulo de mina-aranha</VFEP_SpidermineProjectile.label>
+  
+  <VFEP_Warcasket_Aerial.label>couraça de sarcófago aéreo</VFEP_Warcasket_Aerial.label>
+  <VFEP_Warcasket_Aerial.description>Estrutura de sarcófago aerodinâmica equipada com micro-injetores de foguete para assaltos aéreos.</VFEP_Warcasket_Aerial.description>
+  <VFEP_Warcasket_Aerial.shortDescription>couraça especializada com injetores de salto e aerodinâmica avançada.</VFEP_Warcasket_Aerial.shortDescription>
+  
+  <VFEP_Warcasket_Barrage.label>couraça de sarcófago de barragem</VFEP_Warcasket_Barrage.label>
+  <VFEP_Warcasket_Barrage.description>Uma fortaleza móvel equipada com pistões de ancoragem hidráulica para estabilizar armas de calibre massivo.</VFEP_Warcasket_Barrage.description>
+  <VFEP_Warcasket_Barrage.shortDescription>couraça ultra-pesada com estabilizadores de plataforma de armas.</VFEP_Warcasket_Barrage.shortDescription>
+  
+  <VFEP_Warcasket_Bodysuit.label>malha de sarcófago</VFEP_Warcasket_Bodysuit.label>
+  <VFEP_Warcasket_Bodysuit.description>A malha interna acolchoada e hermética necessária para a integração em qualquer couraça de sarcófago.</VFEP_Warcasket_Bodysuit.description>
+  
+  <VFEP_Warcasket_Brute.label>couraça de sarcófago bruto</VFEP_Warcasket_Brute.label>
+  <VFEP_Warcasket_Brute.description>Couraça de tecnologia espacial com capacitores de alta densidade para alimentação de escudos cinéticos de curto alcance.</VFEP_Warcasket_Brute.description>
+  <VFEP_Warcasket_Brute.shortDescription>couraça com foco em escudos de impacto e combate físico.</VFEP_Warcasket_Brute.shortDescription>
+  
+  <VFEP_Warcasket_Cataphract.label>couraça de sarcófago catafrata</VFEP_Warcasket_Cataphract.label>
+  <VFEP_Warcasket_Cataphract.description>Estrutura reforçada projetada para operações de cerco e absorção de dano crítico.</VFEP_Warcasket_Cataphract.description>
+  <VFEP_Warcasket_Cataphract.shortDescription>couraça avançada com proteção superior e peso elevado.</VFEP_Warcasket_Cataphract.shortDescription>
+  
+  <VFEP_Warcasket_Controller.label>couraça de sarcófago controlador</VFEP_Warcasket_Controller.label>
+  <VFEP_Warcasket_Controller.description>Couraça equipada com baías de lançamento automatizadas para drones de combate e suporte.</VFEP_Warcasket_Controller.description>
+  <VFEP_Warcasket_Controller.comps.CompApparelReloadable.chargeNoun>implantação de drones</VFEP_Warcasket_Controller.comps.CompApparelReloadable.chargeNoun>
+  <VFEP_Warcasket_Controller.comps.CompApparelReloadable.cooldownGerund>rearmando drones</VFEP_Warcasket_Controller.comps.CompApparelReloadable.cooldownGerund>
+  <VFEP_Warcasket_Controller.shortDescription>couraça com sistema integrado de implantação de drones.</VFEP_Warcasket_Controller.shortDescription>
+  
+  <VFEP_Warcasket_Guardian.label>couraça de sarcófago guardião</VFEP_Warcasket_Guardian.label>
+  <VFEP_Warcasket_Guardian.description>Couraça defensiva equipada com emissores de campo de força para proteção de aliados em formação fechada.</VFEP_Warcasket_Guardian.description>
+  <VFEP_Warcasket_Guardian.shortDescription>couraça defensiva com projetor de escudo de esquadrão.</VFEP_Warcasket_Guardian.shortDescription>
+  
+  <VFEP_Warcasket_Hazard.label>couraça de sarcófago de perigo</VFEP_Warcasket_Hazard.label>
+  <VFEP_Warcasket_Hazard.description>Couraça revestida com cerâmica retardante de chamas e chumbo para operações em condições extremas.</VFEP_Warcasket_Hazard.description>
+  <VFEP_Warcasket_Hazard.shortDescription>couraça isolante com proteção contra fogo e radiação.</VFEP_Warcasket_Hazard.shortDescription>
+  
+  <VFEP_Warcasket_Marine.label>couraça de sarcófago fuzileiro</VFEP_Warcasket_Marine.label>
+  <VFEP_Warcasket_Marine.description>Versão reforçada e em larga escala da armadura de fuzileiro, focada em durabilidade militar.</VFEP_Warcasket_Marine.description>
+  <VFEP_Warcasket_Marine.shortDescription>couraça balanceada com proteção militar e hidráulica reforçada.</VFEP_Warcasket_Marine.shortDescription>
+  
+  <VFEP_Warcasket_Recon.label>couraça de sarcófago de reconhecimento</VFEP_Warcasket_Recon.label>
+  <VFEP_Warcasket_Recon.description>Estrutura leve e silenciosa, otimizada para velocidade e autonomia ambiental.</VFEP_Warcasket_Recon.description>
+  <VFEP_Warcasket_Recon.shortDescription>couraça leve focada em mobilidade e operações rápidas.</VFEP_Warcasket_Recon.shortDescription>
+  
+  <VFEP_Warcasket_Sarcophagus.label>couraça de sarcófago fúnebre</VFEP_Warcasket_Sarcophagus.label>
+  <VFEP_Warcasket_Sarcophagus.description>Uma concha de suporte vital que integra o sistema circulatório e metabólico do piloto diretamente à máquina.</VFEP_Warcasket_Sarcophagus.description>
+  <VFEP_Warcasket_Sarcophagus.shortDescription>couraça de suporte vital que mecaniza funções vitais e motoras.</VFEP_Warcasket_Sarcophagus.shortDescription>
+  
+  <VFEP_Warcasket_Shock.label>couraça de sarcófago de choque</VFEP_Warcasket_Shock.label>
+  <VFEP_Warcasket_Shock.description>Couraça de assalto pesado equipada com propulsores de salto para esmagar posições inimigas.</VFEP_Warcasket_Shock.description>
+  <VFEP_Warcasket_Shock.comps.CompApparelReloadable.chargeNoun>salto</VFEP_Warcasket_Shock.comps.CompApparelReloadable.chargeNoun>
+  <VFEP_Warcasket_Shock.comps.CompApparelReloadable.cooldownGerund>resfriando propulsores</VFEP_Warcasket_Shock.comps.CompApparelReloadable.cooldownGerund>
+  <VFEP_Warcasket_Shock.shortDescription>couraça de assalto com propulsores de salto integrados.</VFEP_Warcasket_Shock.shortDescription>
+  
+  <VFEP_Warcasket_Siegebreaker.label>couraça de sarcófago quebra-cerco</VFEP_Warcasket_Siegebreaker.label>
+  <VFEP_Warcasket_Siegebreaker.description>Couraça endurecida com geradores de escudo de longa duração para combates prolongados sob fogo de artilharia.</VFEP_Warcasket_Siegebreaker.description>
+  <VFEP_Warcasket_Siegebreaker.shortDescription>couraça de alta durabilidade com foco em escudos frontais.</VFEP_Warcasket_Siegebreaker.shortDescription>
+  
+  <VFEP_Warcasket_Warcasket.label>couraça de sarcófago</VFEP_Warcasket_Warcasket.label>
+  <VFEP_Warcasket_Warcasket.description>A estrutura fundamental para a criação de um soldado em sarcófago, equilibrando aço e sistemas básicos.</VFEP_Warcasket_Warcasket.description>
+  <VFEP_Warcasket_Warcasket.shortDescription>couraça básica com proteção e peso padrão.</VFEP_Warcasket_Warcasket.shortDescription>
+  
+  <VFEP_WarcasketShoulders_Aerial.label>ombreiras de sarcófago aéreo</VFEP_WarcasketShoulders_Aerial.label>
+  <VFEP_WarcasketShoulders_Aerial.description>Módulos de ombro aerodinâmicos com propulsores estabilizadores para voo controlado.</VFEP_WarcasketShoulders_Aerial.description>
+  <VFEP_WarcasketShoulders_Aerial.comps.CompApparelReloadable.chargeNoun>salto</VFEP_WarcasketShoulders_Aerial.comps.CompApparelReloadable.chargeNoun>
+  <VFEP_WarcasketShoulders_Aerial.comps.CompApparelReloadable.cooldownGerund>recarregando</VFEP_WarcasketShoulders_Aerial.comps.CompApparelReloadable.cooldownGerund>
+  <VFEP_WarcasketShoulders_Aerial.shortDescription>ombreiras especializadas com propulsores de salto.</VFEP_WarcasketShoulders_Aerial.shortDescription>
+  
+  <VFEP_WarcasketShoulders_Barrage.label>ombreiras de sarcófago de barragem</VFEP_WarcasketShoulders_Barrage.label>
+  <VFEP_WarcasketShoulders_Barrage.description>Ombreiras massivas equipadas com lançadores de granadas e estabilizadores de mira.</VFEP_WarcasketShoulders_Barrage.description>
+  <VFEP_WarcasketShoulders_Barrage.comps.CompApparelReloadable.chargeNoun>granada</VFEP_WarcasketShoulders_Barrage.comps.CompApparelReloadable.chargeNoun>
+  <VFEP_WarcasketShoulders_Barrage.comps.CompApparelReloadable.cooldownGerund>rearmando</VFEP_WarcasketShoulders_Barrage.comps.CompApparelReloadable.cooldownGerund>
+  <VFEP_WarcasketShoulders_Barrage.shortDescription>ombreiras com morteiros de ombro integrados.</VFEP_WarcasketShoulders_Barrage.shortDescription>
+  
+  <VFEP_WarcasketShoulders_Brute.label>ombreiras de sarcófago bruto</VFEP_WarcasketShoulders_Brute.label>
+  <VFEP_WarcasketShoulders_Brute.description>Ombreiras reforçadas com assistentes cinéticos para amplificar a força bruta em ataques físicos.</VFEP_WarcasketShoulders_Brute.description>
+  <VFEP_WarcasketShoulders_Brute.shortDescription>ombreiras com assistência corpo a corpo e capacitores extras.</VFEP_WarcasketShoulders_Brute.shortDescription>
+  
+  <VFEP_WarcasketShoulders_Cataphract.label>ombreiras de sarcófago catafrata</VFEP_WarcasketShoulders_Cataphract.label>
+  <VFEP_WarcasketShoulders_Cataphract.description>Ombreiras de blindagem composta projetadas para suportar o impacto de projéteis de alto calibre.</VFEP_WarcasketShoulders_Cataphract.description>
+  <VFEP_WarcasketShoulders_Cataphract.shortDescription>ombreiras avançadas com proteção superior e peso elevado.</VFEP_WarcasketShoulders_Cataphract.shortDescription>
+  
+  <VFEP_WarcasketShoulders_Controller.label>ombreiras de sarcófago controlador</VFEP_WarcasketShoulders_Controller.label>
+  <VFEP_WarcasketShoulders_Controller.description>Módulos de ombro equipados com silos de micro-munição para a implantação de minas-aranha autoguiadas.</VFEP_WarcasketShoulders_Controller.description>
+  <VFEP_WarcasketShoulders_Controller.comps.CompApparelReloadable.chargeNoun>implantação de minas-aranha</VFEP_WarcasketShoulders_Controller.comps.CompApparelReloadable.chargeNoun>
+  <VFEP_WarcasketShoulders_Controller.comps.CompApparelReloadable.cooldownGerund>rearmando minas</VFEP_WarcasketShoulders_Controller.comps.CompApparelReloadable.cooldownGerund>
+  <VFEP_WarcasketShoulders_Controller.shortDescription>ombreiras de controle com baia de minas-aranha.</VFEP_WarcasketShoulders_Controller.shortDescription>
+  
+  <VFEP_WarcasketShoulders_Guardian.label>ombreiras de sarcófago guardião</VFEP_WarcasketShoulders_Guardian.label>
+  <VFEP_WarcasketShoulders_Guardian.description>Ombreiras equipadas com âncoras magnéticas para estabilizar a proteção de aliados próximos.</VFEP_WarcasketShoulders_Guardian.description>
+  <VFEP_WarcasketShoulders_Guardian.shortDescription>ombreiras guardiãs com mitigadores magnéticos.</VFEP_WarcasketShoulders_Guardian.shortDescription>
+  
+  <VFEP_WarcasketShoulders_Hazard.label>ombreiras de sarcófago de perigo</VFEP_WarcasketShoulders_Hazard.label>
+  <VFEP_WarcasketShoulders_Hazard.description>Ombreiras hermeticamente seladas com revestimento ablativo contra calor extremo.</VFEP_WarcasketShoulders_Hazard.description>
+  <VFEP_WarcasketShoulders_Hazard.shortDescription>ombreiras com proteção ambiental e retardante de chamas.</VFEP_WarcasketShoulders_Hazard.shortDescription>
+  
+  <VFEP_WarcasketShoulders_Marine.label>ombreiras de sarcófago fuzileiro</VFEP_WarcasketShoulders_Marine.label>
+
+  <VFEP_Bullet_GauntletChargeCanon.label>disparo de carga gauntlet</VFEP_Bullet_GauntletChargeCanon.label>
+  
+  <VFEP_CrashedShip_Black.label>nave acidentada</VFEP_CrashedShip_Black.label>
+  <VFEP_CrashedShip_Black.description>O caça atmosférico Gauntlet foi projetado para operações de metralhamento a partir de naves capitânias. Embora obsoleto para marinhas oficiais devido a falhas críticas nos sistemas de pouso, tornou-se o favorito de grupos piratas por seu canhão de carga devastador.\n\nSem trens de pouso, estas naves são literalmente arremessadas contra a superfície planetária para servirem de base de operações imediata e caótica para grupos de saque. O peso e a velocidade garantem que o impacto seja irrecuperável e letal para quem estiver abaixo.</VFEP_CrashedShip_Black.description>
+  
+  <VFEP_CrashedShip_Green.label>nave acidentada</VFEP_CrashedShip_Green.label>
+  <VFEP_CrashedShip_Green.description>O caça atmosférico Gauntlet foi projetado para operações de metralhamento a partir de naves capitânias. Embora obsoleto para marinhas oficiais devido a falhas críticas nos sistemas de pouso, tornou-se o favorito de grupos piratas por seu canhão de carga devastador.\n\nSem trens de pouso, estas naves são literalmente arremessadas contra a superfície planetária para servirem de base de operações imediata e caótica para grupos de saque. O peso e a velocidade garantem que o impacto seja irrecuperável e letal para quem estiver abaixo.</VFEP_CrashedShip_Green.description>
+  
+  <VFEP_CrashedShip_Orange.label>nave acidentada</VFEP_CrashedShip_Orange.label>
+  <VFEP_CrashedShip_Orange.description>O caça atmosférico Gauntlet foi projetado para operações de metralhamento a partir de naves capitânias. Embora obsoleto para marinhas oficiais devido a falhas críticas nos sistemas de pouso, tornou-se o favorito de grupos piratas por seu canhão de carga devastador.\n\nSem trens de pouso, estas naves são literalmente arremessadas contra a superfície planetária para servirem de base de operações imediata e caótica para grupos de saque. O peso e a velocidade garantem que o impacto seja irrecuperável e letal para quem estiver abaixo.</VFEP_CrashedShip_Orange.description>
+  
+  <VFEP_CrashedShip_Red.label>nave acidentada</VFEP_CrashedShip_Red.label>
+  <VFEP_CrashedShip_Red.description>O caça atmosférico Gauntlet foi projetado para operações de metralhamento a partir de naves capitânias. Embora obsoleto para marinhas oficiais devido a falhas críticas nos sistemas de pouso, tornou-se o favorito de grupos piratas por seu canhão de carga devastador.\n\nSem trens de pouso, estas naves são literalmente arremessadas contra a superfície planetária para servirem de base de operações imediata e caótica para grupos de saque. O peso e a velocidade garantem que o impacto seja irrecuperável e letal para quem estiver abaixo.</VFEP_CrashedShip_Red.description>
+  
+  <VFEP_GauntletChargeCanon.label>canhão de carga gauntlet</VFEP_GauntletChargeCanon.label>
+  <VFEP_GauntletChargeCanon.description>Uma peça de artilharia energética montada em naves, capaz de perfurar blindagens de nível orbital em confrontos de baixa altitude.</VFEP_GauntletChargeCanon.description>
+  <VFEP_GauntletChargeCanon.verbs.Verb_Shoot.label>canhão de carga gauntlet</VFEP_GauntletChargeCanon.verbs.Verb_Shoot.label>
+
+  <VFEP_Artillery_Cannon.label>canhão naval</VFEP_Artillery_Cannon.label>
+  <VFEP_Artillery_Cannon.description>Uma peça de artilharia pesada que dispara projéteis em trajetória direta. Diferente de um morteiro, exige linha de visão, mas compensa com uma cadência de tiro muito superior e impacto devastador.</VFEP_Artillery_Cannon.description>
+  <VFEP_Artillery_Cannon.verbs.Verb_ShootCone.label>canhão naval</VFEP_Artillery_Cannon.verbs.Verb_ShootCone.label>
+  
+  <VFEP_Artillery_FieldGun.label>canhão de campanha</VFEP_Artillery_FieldGun.label>
+  <VFEP_Artillery_FieldGun.description>Uma variação ágil do canhão, montada sobre rodas para posicionamento rápido. Oferece fogo direto letal contra fortificações, embora careça da trajetória parabólica dos morteiros tradicionais.</VFEP_Artillery_FieldGun.description>
+  <VFEP_Artillery_FieldGun.verbs.Verb_ShootCone.label>canhão de campanha</VFEP_Artillery_FieldGun.verbs.Verb_ShootCone.label>
+  
+  <VFEP_Bullet_Cannonball.label>bala de canhão</VFEP_Bullet_Cannonball.label>
+  
+  <VFEP_Turret_Cannon.label>canhão fixo</VFEP_Turret_Cannon.label>
+  <VFEP_Turret_Cannon.description>Um canhão rudimentar montado em um suporte giratório. Embora sua tecnologia seja antiga, a força bruta de uma esfera de aço maciço viajando em alta velocidade continua sendo uma solução eficaz para a maioria dos problemas.</VFEP_Turret_Cannon.description>
+  <VFEP_Turret_Cannon.comps.CompRefuelable.fuelGizmoLabel>bala de canhão</VFEP_Turret_Cannon.comps.CompRefuelable.fuelGizmoLabel>
+  <VFEP_Turret_Cannon.comps.CompRefuelable.fuelLabel>bala de canhão</VFEP_Turret_Cannon.comps.CompRefuelable.fuelLabel>
+  <VFEP_Turret_Cannon.comps.CompRefuelable.outOfFuelMessage>Sem munição: requer bala de canhão</VFEP_Turret_Cannon.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFEP_Turret_FieldGun.label>canhão de campanha</VFEP_Turret_FieldGun.label>
+  <VFEP_Turret_FieldGun.description>Uma arma tripulada que lança todos os tipos de projéteis. É uma variação do morteiro com todos os seus benefícios e desvantagens, mas possui um cone de 90 graus de fogo direto em troca de uma cadência de tiro duas vezes mais rápida.</VFEP_Turret_FieldGun.description>
+
+  <VFEP_Filth_Fuel.label>poça de combustível quimico</VFEP_Filth_Fuel.label>
+  <VFEP_Filth_Fuel.description>Uma mancha viscosa e altamente inflamável de combustível quimico.</VFEP_Filth_Fuel.description>
+  
+  <VFEP_ShipChunkBattery.label>bateria de destroço</VFEP_ShipChunkBattery.label>
+  <VFEP_ShipChunkBattery.description>Restos retorcidos de uma bateria de alta densidade. Embora não possa ser recarregada, sua carga residual ainda é útil, e seus componentes internos são valiosos para sucateamento.</VFEP_ShipChunkBattery.description>
+  
+  <VFEP_ShipChunkCryptosleepCasket.label>sarcófago de criptosono de destroço</VFEP_ShipChunkCryptosleepCasket.label>
+  <VFEP_ShipChunkCryptosleepCasket.description>Um módulo de hibernação que sobreviveu à queda. O ocupante pode estar intacto, mas a estrutura externa é pouco mais que sucata fundida.</VFEP_ShipChunkCryptosleepCasket.description>
+  
+  <VFEP_ShipChunkDebris.label>detritos de nave</VFEP_ShipChunkDebris.label>
+  <VFEP_ShipChunkDebris.description>Fragmentos de blindagem e sistemas eletrônicos arrancados durante a reentrada violenta. Podem ser desconstruídos para recuperar materiais industriais.</VFEP_ShipChunkDebris.description>
+  
+  <VFEP_ShipChunkFuelTank.label>tanque de combustível de destroço</VFEP_ShipChunkFuelTank.label>
+  <VFEP_ShipChunkFuelTank.description>Um reservatório perfurado que ainda retém parte de sua carga inflamável. É um risco de incêndio latente e um alvo tentador para ataques incendiários.</VFEP_ShipChunkFuelTank.description>
+  
+  <VFEP_ShipChunkGauntletTurret.label>torreta gauntlet de destroço</VFEP_ShipChunkGauntletTurret.label>
+  <VFEP_ShipChunkGauntletTurret.description>O que restou de um canhão de carga Gauntlet. Sua capacidade de disparo é limitada pelo dano estrutural, e uma vez que o cano se desgaste totalmente, restará apenas o aço para reciclagem.</VFEP_ShipChunkGauntletTurret.description>
+  <VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelGizmoLabel>vida útil do cano</VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelGizmoLabel>
+  <VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelLabel>disparos restantes</VFEP_ShipChunkGauntletTurret.comps.Fueled.fuelLabel>
+  <VFEP_ShipChunkGauntletTurret.comps.Fueled.outOfFuelMessage>Canhão inutilizado: cano destruído</VFEP_ShipChunkGauntletTurret.comps.Fueled.outOfFuelMessage>
+  
+  <VFEP_ShipChunkReactor.label>reator de destroço</VFEP_ShipChunkReactor.label>
+  <VFEP_ShipChunkReactor.description>Um reator nuclear compacto que permaneceu funcional após o impacto. É uma fonte de energia estável e preciosa para colônias isoladas.</VFEP_ShipChunkReactor.description>
+  
+  <VFEP_ShipChunkVolatileEngine.label>motor volátil de destroço</VFEP_ShipChunkVolatileEngine.label>
+  <VFEP_ShipChunkVolatileEngine.description>Turbinas atmosféricas instáveis. Sem o resfriamento ativo dos sistemas da nave, a energia acumulada corre o risco de uma detonação violenta se não for desmontada com cautela.</VFEP_ShipChunkVolatileEngine.description>
+  
+  <VFEP_ShipMedicalCrate.label>caixa de suprimentos médicos</VFEP_ShipMedicalCrate.label>
+  <VFEP_ShipMedicalCrate.description>Um palete de suprimentos de emergência recuperado dos escombros. Contém itens básicos para primeiros socorros em campo de batalha.</VFEP_ShipMedicalCrate.description>
+  
+  <VFEP_ShipNutrientPasteCrate.label>caixa de rações de nave</VFEP_ShipNutrientPasteCrate.label>
+  <VFEP_ShipNutrientPasteCrate.description>Um caixote de rações de pasta de nutrientes. É insosso e processado, mas vital para a sobrevivência imediata após uma queda.</VFEP_ShipNutrientPasteCrate.description>
+
+  <VFEP_Box_Autorifle.label>fuzil automático de sarcófago</VFEP_Box_Autorifle.label>
+  <VFEP_Box_Autorifle.description>Uma versão portátil do canhão automático projetada para ser usada por um sarcófago de guerra. Devido ao cano curto, possui menor alcance, penetração e dano em comparação à versão de torreta. No entanto, é muito capaz em combates de curta distância, o que compensa a leve perda de precisão em alcances maiores.</VFEP_Box_Autorifle.description>
+  
+  <VFEP_Box_Broadsword.label>espada larga de sarcófago</VFEP_Box_Broadsword.label>
+  <VFEP_Box_Broadsword.description>Uma arma corpo a corpo única, feita exclusivamente para sarcófagos de guerra. Ela combina um peso massivo e uma força de corte sem igual no combate corpo a corpo. Embora tenha sido projetada para uso contra outros sarcófagos, funciona tão bem quanto contra alvos menores que normalmente seriam considerados blindados.</VFEP_Box_Broadsword.description>
+  
+  <VFEP_Box_ChargeBlaster.label>blaster de carga de sarcófago</VFEP_Box_ChargeBlaster.label>
+  <VFEP_Box_ChargeBlaster.description>Essencialmente uma minigun de carga ampliada projetada para ser usada por um sarcófago de guerra. Embora dispare menos projéteis em cada rajada, a munição foi aprimorada com cargas explosivas. Projetada como uma arma de suporte que invalida completamente as coberturas para os azarados no lado receptor do disparo.</VFEP_Box_ChargeBlaster.description>
+  
+  <VFEP_Box_ChargeLance.label>lança de carga de sarcófago</VFEP_Box_ChargeLance.label>
+  <VFEP_Box_ChargeLance.description>Um terror no campo de batalha, a lança de carga recebeu uma atualização massiva para o uso em sarcófagos. Uma fonte de energia consideravelmente mais poderosa confere-lhe um poder de parada superior, sendo capaz de disparar múltiplos projéteis maiores a um alcance superior, com precisão e penetração aprimoradas.</VFEP_Box_ChargeLance.description>
+  
+  <VFEP_Box_CombatKnife.label>faca de combate de sarcófago</VFEP_Box_CombatKnife.label>
+  <VFEP_Box_CombatKnife.description>Uma versão ampliada da faca de combate, projetada para o uso por um sarcófago de guerra. Só é chamada de faca por causa da comparação de tamanho com o sarcófago, mas é capaz de partir um homem ao meio e é tão grande quanto um. É a arma preferida para sarcófagos mais velozes que priorizam alvos isolados e levemente blindados.</VFEP_Box_CombatKnife.description>
+  
+  <VFEP_Box_GravityHammer.label>martelo gravitacional de sarcófago</VFEP_Box_GravityHammer.label>
+  <VFEP_Box_GravityHammer.description>Uma peça monumental de tecnologia antipessoal que só pode ser utilizada adequadamente pelos enormes sarcófagos de guerra. Basicamente um bloco de motor montado na extremidade do atuador de um membro mecânico, equipado com múltiplas placas pneumáticas que cobrem geradores repulsores em miniatura. Em termos leigos, um golpe da cabeça deste martelo lançará o alvo vários metros para trás.</VFEP_Box_GravityHammer.description>
+  
+  <VFEP_Box_GrenadeLauncher.label>lança-granadas de sarcófago</VFEP_Box_GrenadeLauncher.label>
+  <VFEP_Box_GrenadeLauncher.description>Uma versão ampliada do lança-granadas projetada para sarcófagos. Uma melhoria direta: dispara em rajadas de 3 e se beneficia do amortecimento de recuo para uma recuperação mais rápida e melhor alcance. Como todos os lançadores, porém, possui um raio de erro maior em comparação a uma granada lançada à mão.</VFEP_Box_GrenadeLauncher.description>
+  
+  <VFEP_Box_HandheldCannon.label>canhão de mão de sarcófago</VFEP_Box_HandheldCannon.label>
+  <VFEP_Box_HandheldCannon.description>Essencialmente um morteiro de cano liso portátil que dispara explosivos em arco, capaz de ignorar fortificações inimigas. Criado por aqueles que queriam combinar a antiga guerra naval com a tecnologia moderna. A precisão é terrível, mas o fabricante integrado garante que o fogo de artilharia possa ser mantido sem nunca precisar de reabastecimento.</VFEP_Box_HandheldCannon.description>
+  
+  <VFEP_Box_HeavyFlamer.label>lança-chamas pesado de sarcófago</VFEP_Box_HeavyFlamer.label>
+  <VFEP_Box_HeavyFlamer.description>Uma versão ampliada do lança-chamas pesado projetada para sarcófagos. Graças aos canos duplos e ao dissipador de calor maior, pode cuspir dois jatos de chamas enquanto necessita de menos tempo para evitar o superaquecimento.</VFEP_Box_HeavyFlamer.description>
+  
+  <VFEP_Box_Minigun.label>minigun de sarcófago</VFEP_Box_Minigun.label>
+  <VFEP_Box_Minigun.description>Uma versão ampliada da minigun projetada para sarcófagos. Utiliza projéteis de calibre maior que são fabricados em massa com baixa qualidade devido à alta demanda. Por isso, tem uma cadência de tiro e penetração de armadura menores, mas ninguém se importa, pois ninguém quer estar na mira dessa quantidade de disparos.</VFEP_Box_Minigun.description>
+  
+  <VFEP_Box_Slugthrower.label>lança-balotes de sarcófago</VFEP_Box_Slugthrower.label>
+  <VFEP_Box_Slugthrower.description>Uma versão ampliada da espingarda de repetição projetada para sarcófagos. Cada cartucho disparado contém 4 bagos maiores do que os balotes de uma espingarda comum, conferindo-lhe melhor alcance, penetração e muito mais dano. O recuo é insano, mesmo para o sistema de amortecimento do sarcófago.</VFEP_Box_Slugthrower.description>
+  
+  <VFEP_Box_UraniumSlugRifle.label>fuzil de balotes de urânio de sarcófago</VFEP_Box_UraniumSlugRifle.label>
+  <VFEP_Box_UraniumSlugRifle.description>Uma versão portátil do canhão de balotes de urânio projetada para sarcófagos. Devido ao cano encurtado, possui menos penetração, recuo pior e menos dano que a versão de torreta. No entanto, não possui a exigência de alcance mínimo graças ao operador humano e tem um desempenho melhor em média distância.</VFEP_Box_UraniumSlugRifle.description>
+
+  <VFEP_IShipChunkBattery.label>bateria de destroço (em queda)</VFEP_IShipChunkBattery.label>
+  
+  <VFEP_IShipChunkCryptosleepCasket.label>sarcófago de criptosono de destroço (em queda)</VFEP_IShipChunkCryptosleepCasket.label>
+  
+  <VFEP_IShipChunkDebris.label>detritos de nave (em queda)</VFEP_IShipChunkDebris.label>
+  
+  <VFEP_IShipChunkFuelTank.label>tanque de combustível de destroço (em queda)</VFEP_IShipChunkFuelTank.label>
+  
+  <VFEP_IShipChunkGauntletTurret.label>torreta gauntlet de destroço (em queda)</VFEP_IShipChunkGauntletTurret.label>
+  
+  <VFEP_IShipChunkReactor.label>reator de destroço (em queda)</VFEP_IShipChunkReactor.label>
+  
+  <VFEP_IShipChunkVolatileEngine.label>motor volátil de destroço (em queda)</VFEP_IShipChunkVolatileEngine.label>
+  
+  <VFEP_IShipMedicalCrate.label>caixa de suprimentos médicos (em queda)</VFEP_IShipMedicalCrate.label>
+  
+  <VFEP_IShipNutrientPasteCrate.label>caixa de rações de nave (em queda)</VFEP_IShipNutrientPasteCrate.label>
+  
+  <VFEP_Ship_Black.label>nave (em queda)</VFEP_Ship_Black.label>
+  
+  <VFEP_Ship_Green.label>nave (em queda)</VFEP_Ship_Green.label>
+  
+  <VFEP_Ship_Orange.label>nave (em queda)</VFEP_Ship_Orange.label>
+  
+  <VFEP_Ship_Red.label>nave (em queda)</VFEP_Ship_Red.label>
+  
+  <VFEP_SideDropPod.label>cápsula de carga (em queda)</VFEP_SideDropPod.label>
+
+  <VFEP_WarcasketMeleeWeapon_Broadsword.label>espada larga de sarcófago</VFEP_WarcasketMeleeWeapon_Broadsword.label>
+  <VFEP_WarcasketMeleeWeapon_Broadsword.description>Uma arma corpo a corpo única, feita exclusivamente para sarcófagos de guerra. Ela combina um peso massivo e uma força de corte sem igual no combate corpo a corpo. Embora tenha sido projetada para uso contra outros sarcófagos, funciona tão bem quanto contra alvos menores que normalmente seriam considerados blindados.</VFEP_WarcasketMeleeWeapon_Broadsword.description>
+  <VFEP_WarcasketMeleeWeapon_Broadsword.tools.point.label>ponta</VFEP_WarcasketMeleeWeapon_Broadsword.tools.point.label>
+  <VFEP_WarcasketMeleeWeapon_Broadsword.tools.blade.label>lâmina</VFEP_WarcasketMeleeWeapon_Broadsword.tools.blade.label>
+  
+  <VFEP_WarcasketMeleeWeapon_CombatKnife.label>faca de combate de sarcófago</VFEP_WarcasketMeleeWeapon_CombatKnife.label>
+  <VFEP_WarcasketMeleeWeapon_CombatKnife.description>Uma versão ampliada da faca de combate, projetada para o uso por um sarcófago de guerra. Só é chamada de faca por causa da comparação de tamanho com o sarcófago, mas é capaz de partir um homem ao meio e é tão grande quanto um. É a arma preferida para sarcófagos mais velozes que priorizam alvos isolados e levemente blindados.</VFEP_WarcasketMeleeWeapon_CombatKnife.description>
+  <VFEP_WarcasketMeleeWeapon_CombatKnife.tools.point.label>ponta</VFEP_WarcasketMeleeWeapon_CombatKnife.tools.point.label>
+  <VFEP_WarcasketMeleeWeapon_CombatKnife.tools.blade.label>lâmina</VFEP_WarcasketMeleeWeapon_CombatKnife.tools.blade.label>
+  
+  <VFEP_WarcasketMeleeWeapon_GravityHammer.label>martelo gravitacional de sarcófago</VFEP_WarcasketMeleeWeapon_GravityHammer.label>
+  <VFEP_WarcasketMeleeWeapon_GravityHammer.description>Uma peça monumental de tecnologia antipessoal que só pode ser utilizada adequadamente pelos enormes sarcófagos de guerra. Basicamente um bloco de motor montado na extremidade do atuador de um membro mecânico, equipado com múltiplas placas pneumáticas que cobrem geradores repulsores em miniatura. Em termos leigos, um golpe da cabeça deste martelo lançará o alvo vários metros para trás.</VFEP_WarcasketMeleeWeapon_GravityHammer.description>
+  <VFEP_WarcasketMeleeWeapon_GravityHammer.tools.head.label>cabeça</VFEP_WarcasketMeleeWeapon_GravityHammer.tools.head.label>
+  <VFEP_WarcasketMeleeWeapon_GravityHammer.tools.handle.label>cabo</VFEP_WarcasketMeleeWeapon_GravityHammer.tools.handle.label>
+  
+  <VFEP_WarcasketMeleeWeapon_PlasmaSword.label>espada de plasma de sarcófago</VFEP_WarcasketMeleeWeapon_PlasmaSword.label>
+  <VFEP_WarcasketMeleeWeapon_PlasmaSword.description>Uma modificação militar da serra de plasma, adaptada para o uso por sarcófagos para fins antimaterial. A intenção original para esta espada bastarda era que ela pudesse se estender como um chicote enquanto também tivesse uma forma reta simples; no entanto, problemas em conter o plasma descartaram a ideia. Em vez disso, os elos são usados para alterar o comprimento da espada e permitir a substituição fácil de seções danificadas.</VFEP_WarcasketMeleeWeapon_PlasmaSword.description>
+  <VFEP_WarcasketMeleeWeapon_PlasmaSword.tools.point.label>ponta</VFEP_WarcasketMeleeWeapon_PlasmaSword.tools.point.label>
+  <VFEP_WarcasketMeleeWeapon_PlasmaSword.tools.blade.label>lâmina</VFEP_WarcasketMeleeWeapon_PlasmaSword.tools.blade.label>
+
+  <VFEP_Mech_Spidermine.label>mina-aranha</VFEP_Mech_Spidermine.label>
+  <VFEP_Mech_Spidermine.description>Um drone de combate semiautônomo com capacidade de busca de caminhos integrada. Equipado com um módulo de autodestruição e sistema de rastreamento, foi projetado para ser lançado como carga útil e então buscar alvos inimigos. Se nenhum alvo próximo for detectado, ele detonará imediatamente para evitar acidentes futuros.</VFEP_Mech_Spidermine.description>
+  <VFEP_Mech_Spidermine.tools.frame.label>estrutura</VFEP_Mech_Spidermine.tools.frame.label>
+  
+  <VFEP_Mech_Wardrone.label>drone de guerra</VFEP_Mech_Wardrone.label>
+  <VFEP_Mech_Wardrone.description>Um drone de combate voador semiautônomo com funcionalidade de combate limitada. Equipado com uma minitorreta semiautomática leve devido à absorção de recuo limitada e um módulo de autodestruição integrado para evitar a captura pelo inimigo e servir de defesa contra atacantes corpo a corpo.</VFEP_Mech_Wardrone.description>
+  <VFEP_Mech_Wardrone.comps.CompKillAfterDelay.countdownLabel>explode em</VFEP_Mech_Wardrone.comps.CompKillAfterDelay.countdownLabel>
+  <VFEP_Mech_Wardrone.tools.turret.label>torreta</VFEP_Mech_Wardrone.tools.turret.label>
+
+  <VFEPGun_MiniBlaster.label>miniblaster</VFEPGun_MiniBlaster.label>
+  <VFEPGun_MiniBlaster.description>Uma arma automática simples feita para ser montada em um drone de guerra.</VFEPGun_MiniBlaster.description>
+  <VFEPGun_MiniBlaster.tools.barrel.label>cano</VFEPGun_MiniBlaster.tools.barrel.label>
+  <VFEPGun_MiniBlaster.verbs.Verb_Shoot.label>miniblaster</VFEPGun_MiniBlaster.verbs.Verb_Shoot.label>
+
+  <VFEP_Bullet_HandheldCannonCannonball.label>bala de canhão</VFEP_Bullet_HandheldCannonCannonball.label>
+  
+  <VFEP_Bullet_WarcasketAutorifle.label>projétil de fuzil automático de sarcófago</VFEP_Bullet_WarcasketAutorifle.label>
+  
+  <VFEP_Bullet_WarcasketChargeBlaster.label>disparo de blaster de carga de sarcófago</VFEP_Bullet_WarcasketChargeBlaster.label>
+  
+  <VFEP_Bullet_WarcasketChargeLance.label>disparo de lança de carga de sarcófago</VFEP_Bullet_WarcasketChargeLance.label>
+  
+  <VFEP_Bullet_WarcasketMinigun.label>projétil de minigun de sarcófago</VFEP_Bullet_WarcasketMinigun.label>
+  
+  <VFEP_Bullet_WarcasketSlugthrower.label>estilhaços de lança-balotes de sarcófago</VFEP_Bullet_WarcasketSlugthrower.label>
+  
+  <VFEP_Bullet_WarcasketUraniumSlugRifle.label>balote de urânio</VFEP_Bullet_WarcasketUraniumSlugRifle.label>
+  
+  <VFEP_WarcasketGun_Autorifle.label>fuzil automático de sarcófago</VFEP_WarcasketGun_Autorifle.label>
+  <VFEP_WarcasketGun_Autorifle.description>Uma versão portátil do canhão automático projetada para ser usada por um sarcófago de guerra. Devido ao cano encurtado, possui menor alcance, penetração e dano em comparação à versão de torreta. No entanto, é muito capaz em combates de curta distância, o que compensa a leve perda de precisão em alcances maiores.</VFEP_WarcasketGun_Autorifle.description>
+  <VFEP_WarcasketGun_Autorifle.tools.stock.label>coronha</VFEP_WarcasketGun_Autorifle.tools.stock.label>
+  <VFEP_WarcasketGun_Autorifle.tools.barrel.label>cano</VFEP_WarcasketGun_Autorifle.tools.barrel.label>
+  <VFEP_WarcasketGun_Autorifle.verbs.Verb_Shoot.label>fuzil automático de sarcófago</VFEP_WarcasketGun_Autorifle.verbs.Verb_Shoot.label>
+  
+  <VFEP_WarcasketGun_ChargeBlaster.label>blaster de carga de sarcófago</VFEP_WarcasketGun_ChargeBlaster.label>
+  <VFEP_WarcasketGun_ChargeBlaster.description>Essencialmente uma minigun de carga ampliada projetada para ser usada por um sarcófago de guerra. Embora dispare menos projéteis em cada rajada, a munição foi aprimorada com cargas explosivas. Projetada como uma arma de suporte que invalida completamente as coberturas para os azarados no lado receptor do disparo.</VFEP_WarcasketGun_ChargeBlaster.description>
+  <VFEP_WarcasketGun_ChargeBlaster.tools.stock.label>coronha</VFEP_WarcasketGun_ChargeBlaster.tools.stock.label>
+  <VFEP_WarcasketGun_ChargeBlaster.tools.barrel.label>cano</VFEP_WarcasketGun_ChargeBlaster.tools.barrel.label>
+  <VFEP_WarcasketGun_ChargeBlaster.verbs.Verb_Shoot.label>blaster de carga de sarcófago</VFEP_WarcasketGun_ChargeBlaster.verbs.Verb_Shoot.label>
+  
+  <VFEP_WarcasketGun_ChargeLance.label>lança de carga de sarcófago</VFEP_WarcasketGun_ChargeLance.label>
+  <VFEP_WarcasketGun_ChargeLance.description>Um terror no campo de batalha, a lança de carga recebeu uma atualização massiva para o uso em sarcófagos. Uma fonte de energia consideravelmente mais poderosa confere-lhe um poder de parada superior, sendo capaz de disparar múltiplos projéteis maiores a um alcance superior, com precisão e penetração aprimoradas.</VFEP_WarcasketGun_ChargeLance.description>
+  <VFEP_WarcasketGun_ChargeLance.tools.stock.label>coronha</VFEP_WarcasketGun_ChargeLance.tools.stock.label>
+  <VFEP_WarcasketGun_ChargeLance.tools.barrel.label>cano</VFEP_WarcasketGun_ChargeLance.tools.barrel.label>
+  <VFEP_WarcasketGun_ChargeLance.verbs.Verb_Shoot.label>lança de carga de sarcófago</VFEP_WarcasketGun_ChargeLance.verbs.Verb_Shoot.label>
+  
+  <VFEP_WarcasketGun_GrenadeLauncher.label>lança-granadas de sarcófago</VFEP_WarcasketGun_GrenadeLauncher.label>
+  <VFEP_WarcasketGun_GrenadeLauncher.description>Uma versão ampliada do lança-granadas projetada para o uso por um sarcófago de guerra. Uma melhoria direta: dispara em rajadas de 3 e se beneficia do amortecimento de recuo para uma recuperação mais rápida e melhor alcance. Como todos os lançadores, porém, possui um raio de erro maior em comparação a uma granada lançada à mão.</VFEP_WarcasketGun_GrenadeLauncher.description>
+  <VFEP_WarcasketGun_GrenadeLauncher.tools.stock.label>coronha</VFEP_WarcasketGun_GrenadeLauncher.tools.stock.label>
+  <VFEP_WarcasketGun_GrenadeLauncher.tools.barrel.label>cano</VFEP_WarcasketGun_GrenadeLauncher.tools.barrel.label>
+  <VFEP_WarcasketGun_GrenadeLauncher.verbs.Verb_Shoot.label>lança-granadas de sarcófago</VFEP_WarcasketGun_GrenadeLauncher.verbs.Verb_Shoot.label>
+  
+  <VFEP_WarcasketGun_HandheldCannon.label>canhão de mão de sarcófago</VFEP_WarcasketGun_HandheldCannon.label>
+  <VFEP_WarcasketGun_HandheldCannon.description>Essencialmente um morteiro de cano liso portátil que dispara explosivos em arco, capaz de ignorar fortificações inimigas. Criado por aqueles que queriam combinar a antiga guerra naval com a tecnologia moderna. A precisão é terrível, mas o fabricador integrado garante que o fogo de artilharia possa ser mantido sem nunca precisar de reabastecimento.</VFEP_WarcasketGun_HandheldCannon.description>
+  <VFEP_WarcasketGun_HandheldCannon.tools.stock.label>coronha</VFEP_WarcasketGun_HandheldCannon.tools.stock.label>
+  <VFEP_WarcasketGun_HandheldCannon.tools.barrel.label>cano</VFEP_WarcasketGun_HandheldCannon.tools.barrel.label>
+  <VFEP_WarcasketGun_HandheldCannon.verbs.Verb_Shoot.label>canhão de mão de sarcófago</VFEP_WarcasketGun_HandheldCannon.verbs.Verb_Shoot.label>
+  
+  <VFEP_WarcasketGun_HeavyFlamer.label>lança-chamas pesado de sarcófago</VFEP_WarcasketGun_HeavyFlamer.label>
+  <VFEP_WarcasketGun_HeavyFlamer.description>Uma versão ampliada do lança-chamas pesado projetada para o uso por um sarcófago de guerra. Graças aos canos duplos e ao dissipador de calor maior, pode expelir dois jatos de chamas enquanto necessita de menos tempo para evitar o superaquecimento.</VFEP_WarcasketGun_HeavyFlamer.description>
+  <VFEP_WarcasketGun_HeavyFlamer.tools.stock.label>coronha</VFEP_WarcasketGun_HeavyFlamer.tools.stock.label>
+  <VFEP_WarcasketGun_HeavyFlamer.tools.barrel.label>cano</VFEP_WarcasketGun_HeavyFlamer.tools.barrel.label>
+  <VFEP_WarcasketGun_HeavyFlamer.verbs.Verb_Shoot.label>lança-chamas pesado de sarcófago</VFEP_WarcasketGun_HeavyFlamer.verbs.Verb_Shoot.label>
+  
+  <VFEP_WarcasketGun_Minigun.label>minigun de sarcófago</VFEP_WarcasketGun_Minigun.label>
+  <VFEP_WarcasketGun_Minigun.description>Uma versão ampliada da minigun projetada para sarcófagos. Utiliza projéteis de calibre maior que são fabricados em massa com baixa qualidade devido à alta demanda. Por isso, tem uma cadência de tiro e penetração de armadura menores, mas ninguém se importa, pois ninguém quer estar na mira dessa quantidade de tiros.</VFEP_WarcasketGun_Minigun.description>
+  <VFEP_WarcasketGun_Minigun.tools.stock.label>coronha</VFEP_WarcasketGun_Minigun.tools.stock.label>
+  <VFEP_WarcasketGun_Minigun.tools.barrel.label>cano</VFEP_WarcasketGun_Minigun.tools.barrel.label>
+  <VFEP_WarcasketGun_Minigun.verbs.Verb_Shoot.label>minigun de sarcófago</VFEP_WarcasketGun_Minigun.verbs.Verb_Shoot.label>
+  
+  <VFEP_WarcasketGun_Slugthrower.label>lança-balotes de sarcófago</VFEP_WarcasketGun_Slugthrower.label>
+  <VFEP_WarcasketGun_Slugthrower.description>Uma versão ampliada da espingarda de bombeio projetada para sarcófagos. Cada cartucho disparado contém 4 bagos maiores do que os balotes de uma espingarda comum, conferindo-lhe melhor alcance, penetração e muito mais dano. O recuo é insano, mesmo para o sistema de amortecimento do sarcófago.</VFEP_WarcasketGun_Slugthrower.description>
+  <VFEP_WarcasketGun_Slugthrower.tools.stock.label>coronha</VFEP_WarcasketGun_Slugthrower.tools.stock.label>
+  <VFEP_WarcasketGun_Slugthrower.tools.barrel.label>cano</VFEP_WarcasketGun_Slugthrower.tools.barrel.label>
+  <VFEP_WarcasketGun_Slugthrower.verbs.Verb_Shoot.label>lança-balotes de sarcófago</VFEP_WarcasketGun_Slugthrower.verbs.Verb_Shoot.label>
+  
+  <VFEP_WarcasketGun_UraniumSlugRifle.label>fuzil de balotes de urânio de sarcófago</VFEP_WarcasketGun_UraniumSlugRifle.label>
+  <VFEP_WarcasketGun_UraniumSlugRifle.description>Uma versão portátil do canhão de balotes de urânio projetada para sarcófagos. Devido ao cano encurtado, possui menos penetração, recuo pior e menos dano que a versão de torreta. No entanto, não possui a exigência de alcance mínimo graças ao operador humano e tem um desempenho melhor em média distância.</VFEP_WarcasketGun_UraniumSlugRifle.description>
+  <VFEP_WarcasketGun_UraniumSlugRifle.tools.stock.label>coronha</VFEP_WarcasketGun_UraniumSlugRifle.tools.stock.label>
+  <VFEP_WarcasketGun_UraniumSlugRifle.tools.barrel.label>cano</VFEP_WarcasketGun_UraniumSlugRifle.tools.barrel.label>
+  <VFEP_WarcasketGun_UraniumSlugRifle.verbs.Verb_Shoot.label>fuzil de balotes de urânio de sarcófago</VFEP_WarcasketGun_UraniumSlugRifle.verbs.Verb_Shoot.label>
+  
+  <VWE_Bullet_WarcasketHeavyFlamer.label>disparo de lança-chamas pesado de sarcófago</VWE_Bullet_WarcasketHeavyFlamer.label>
+
+  <VFEP_WarcasketFoundry.label>fundição de sarcófagos</VFEP_WarcasketFoundry.label>
+  <VFEP_WarcasketFoundry.description>Uma fundição complexa com quatro braços operacionais projetada para auxiliar um operador na montagem de uma pessoa na estrutura de um sarcófago de guerra. Uma vez travado, o piloto não pode sair até que o procedimento termine.\n\nPara começar, um operador inicia a vinculação ao traje — seus nervos e membros são permanentemente conectados à estrutura. Como o sarcófago não foi projetado para registrar desgaste ou dano, eles não sentirão dor. O piloto só pode sair da fundição quando o rebite final for colocado, a última placa for soldada e o sistema de energia for ativado. Até lá, eles precisarão de ajuda externa, como alimentação, pois estão efetivamente enterrados vivos.\n\nComo as várias partes do sarcófago são soldadas na estrutura como uma entidade única e homogênea, é possível misturar e combinar vários designs para se adequar à situação, mas certas gerações posteriores de sarcófagos funcionam melhor se fizerem parte da mesma série.</VFEP_WarcasketFoundry.description>
+
+  <VFEP_WarcasketShoulders_Marine.description>Ombreiras avançadas de sarcófago de guerra com proteção aprimorada para um peso semelhante.\n\nSurgido durante as guerras antipirataria da 4ª geração, este design mimetiza a armadura de fuzileiro convencional, porém com placas reforçadas suportadas por sistemas hidráulicos de alta potência exclusivos dos sarcófagos.</VFEP_WarcasketShoulders_Marine.description>
+  <VFEP_WarcasketShoulders_Marine.shortDescription>ombreiras avançadas de sarcófago com proteção aprimorada e peso equilibrado.</VFEP_WarcasketShoulders_Marine.shortDescription>
+  
+  <VFEP_WarcasketShoulders_Recon.label>ombreiras de sarcófago de reconhecimento</VFEP_WarcasketShoulders_Recon.label>
+  <VFEP_WarcasketShoulders_Recon.description>Ombreiras avançadas de sarcófago com proteção aprimorada para um peso semelhante.\n\nOs sarcófagos de 5ª geração foram criados com intervalos muito curtos entre as gerações, sendo em grande parte especializações leves da anterior. O design de Reconhecimento foi feito com o objetivo de infiltrar rapidamente as linhas inimigas e eliminar pessoal importante, como médicos, armeiros, engenheiros e botânicos. Eles eram tipicamente armados com uma faca de sarcófago para eliminar guardas armados; seu lema sendo: "mova-se ou morra".</VFEP_WarcasketShoulders_Recon.description>
+  <VFEP_WarcasketShoulders_Recon.shortDescription>ombreiras avançadas de sarcófago com proteção aprimorada e peso equilibrado.</VFEP_WarcasketShoulders_Recon.shortDescription>
+  
+  <VFEP_WarcasketShoulders_Sarcophagus.label>ombreiras de sarcófago fúnebre</VFEP_WarcasketShoulders_Sarcophagus.label>
+  <VFEP_WarcasketShoulders_Sarcophagus.description>Ombreiras especializadas de tecnologia espacial com proteção padrão, equipadas com biônicos integrados que substituem a funcionalidade de manipulação do piloto.\n\nOs sarcófagos de 10ª geração foram adaptados de plataformas piratas capturadas, com divisões de pesquisa militar governamentais aprimorando-as com designs avançados de armaduras energizadas. O acesso a recursos de alta qualidade e o objetivo de equipar veteranos de combate que, de outra forma, seriam incapazes de servir, resultou na criação de dreadnoughts operados por um único usuário.\n\nA série Fúnebre é um assunto extremamente sensível, pois gerou inúmeros debates e revoltas. Isso ocorre porque ela pode manter o piloto funcional muito depois do momento em que deveria ter morrido, sendo usada não apenas em veteranos, mas também em prisioneiros e servos por dívida aos quais foi negado o direito de morrer. Geralmente, uma vez integrado a esta armadura, o indivíduo permanece nela até ser completamente destruído.</VFEP_WarcasketShoulders_Sarcophagus.description>
+  <VFEP_WarcasketShoulders_Sarcophagus.shortDescription>ombreiras de tecnologia espacial com proteção padrão e manipulação biônica integrada.</VFEP_WarcasketShoulders_Sarcophagus.shortDescription>
+  
+  <VFEP_WarcasketShoulders_Shock.label>ombreiras de sarcófago de choque</VFEP_WarcasketShoulders_Shock.label>
+  <VFEP_WarcasketShoulders_Shock.description>Ombreiras especializadas com proteção superior e peso semelhante; computadores de mira integrados auxiliam o usuário no combate corpo a corpo, tanto em precisão quanto em evasão.\n\nOs sarcófagos de 7ª geração focaram em criar designs que funcionam melhor como um conjunto. Foram os primeiros a incluir plastiaço no design. A série de Choque difere da série Aérea pois o objetivo não é saltar, mas ser implantado praticamente da órbita direto no meio da base inimiga. Excelentes em combate corpo a corpo, seu grito de guerra costuma ser: "vocês é que estão presos aqui comigo".</VFEP_WarcasketShoulders_Shock.description>
+  <VFEP_WarcasketShoulders_Shock.shortDescription>ombreiras especializadas com proteção superior e assistência computadorizada para combate corpo a corpo.</VFEP_WarcasketShoulders_Shock.shortDescription>
+  
+  <VFEP_WarcasketShoulders_Siegebreaker.label>ombreiras de sarcófago quebra-cerco</VFEP_WarcasketShoulders_Siegebreaker.label>
+  <VFEP_WarcasketShoulders_Siegebreaker.description>Ombreiras especializadas de tecnologia espacial com proteção padrão, aumentadas com condutores de energia aprimorados que aumentam a taxa de recarga do escudo.\n\nA série Quebra-cerco foca em escudos mais fortes para melhorar a sobrevivência em campo, seja aprimorando os capacitores ou os condutores de carga. Esta série é ideal para descarregar massas de poder de fogo à distância, oferecendo proteção excelente para que o usuário possa se reposicionar livremente e flanquear o inimigo.</VFEP_WarcasketShoulders_Siegebreaker.description>
+  <VFEP_WarcasketShoulders_Siegebreaker.shortDescription>ombreiras de tecnologia espacial com proteção padrão e recarga de escudo acelerada.</VFEP_WarcasketShoulders_Siegebreaker.shortDescription>
+  
+  <VFEP_WarcasketShoulders_Warcasket.label>ombreiras de sarcófago</VFEP_WarcasketShoulders_Warcasket.label>
+  <VFEP_WarcasketShoulders_Warcasket.description>Ombreiras básicas de sarcófago com proteção e peso padrão.\n\nUm sarcófago de 3ª geração que foi o primeiro a entrar em produção em massa. Seu design foi baseado em uma combinação de trajes de mineração espacial e iterações iniciais de interfaces de membros biônicos. O cientista-chefe do projeto declarou: "não se faz um omelete sem quebrar algumas normas de saúde e segurança".</VFEP_WarcasketShoulders_Warcasket.description>
+  <VFEP_WarcasketShoulders_Warcasket.shortDescription>ombreiras básicas de sarcófago com proteção e peso padrão.</VFEP_WarcasketShoulders_Warcasket.shortDescription>
+  
+</LanguageData>

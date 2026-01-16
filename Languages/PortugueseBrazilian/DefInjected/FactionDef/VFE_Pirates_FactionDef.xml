@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEP_Junkers.label>saqueadores</VFEP_Junkers.label>
+  <VFEP_Junkers.description>Uma confederação frouxa de gangues piratas que concordaram em lutar principalmente contra estrangeiros em vez de lutarem entre si.\nPiratas não semeiam, não constroem e raramente negociam. Movidos por uma cultura de sangue e honra que valoriza a força pessoal e a crueldade, eles se enriquecem saqueando e roubando seus vizinhos mais produtivos.\nOs saqueadores utilizam a tecnologia de sarcófagos de guerra e se selam em tumbas de metal nas quais saqueiam, roubam, pilham e inevitavelmente morrem. Eles raramente usam armas brancas e preferem manter distância do inimigo para utilizar totalmente o poderoso armamento dos sarcófagos de guerra.</VFEP_Junkers.description>
+  <VFEP_Junkers.leaderTitle>khan</VFEP_Junkers.leaderTitle>
+  <VFEP_Junkers.messageDefendersAttacking>{0} de {1} estão atacando seu(sua) {2}.</VFEP_Junkers.messageDefendersAttacking>
+  <VFEP_Junkers.pawnSingular>saqueador</VFEP_Junkers.pawnSingular>
+  <VFEP_Junkers.pawnsPlural>saqueadores</VFEP_Junkers.pawnsPlural>
+  
+  <VFEP_Mercenaries.label>mercenários</VFEP_Mercenaries.label>
+  <VFEP_Mercenaries.description>Uma organização paramilitar sancionada e governada por figuras políticas e megacorporações.\nMercenários não semeiam, não constroem e raramente negociam. Movidos por uma cultura de sangue e honra que valoriza a força pessoal e a crueldade, eles se enriquecem saqueando e roubando seus vizinhos mais produtivos.\nOs mercenários utilizam armas e armaduras de tecnologia espacial para eliminar os alvos de seus mestres corporativos. Ao contrário de outras facções piratas, é possível se comunicar e fazer amizade com os mercenários, mas eles raramente têm muito a oferecer em termos de comércio e pesquisa.</VFEP_Mercenaries.description>
+  <VFEP_Mercenaries.leaderTitle>general</VFEP_Mercenaries.leaderTitle>
+  <VFEP_Mercenaries.messageDefendersAttacking>{0} de {1} estão atacando seu(sua) {2}.</VFEP_Mercenaries.messageDefendersAttacking>
+  <VFEP_Mercenaries.pawnSingular>mercenário</VFEP_Mercenaries.pawnSingular>
+  <VFEP_Mercenaries.pawnsPlural>mercenários</VFEP_Mercenaries.pawnsPlural>
+
+  <VFEP_PlayerPirate.label>Nova Enseada</VFEP_PlayerPirate.label>
+  <VFEP_PlayerPirate.description>Uma pequena enseada pirata.</VFEP_PlayerPirate.description>
+  <VFEP_PlayerPirate.leaderTitle>capitão</VFEP_PlayerPirate.leaderTitle>
+  <VFEP_PlayerPirate.messageDefendersAttacking>{0} de {1} estão atacando seu(sua) {2}.</VFEP_PlayerPirate.messageDefendersAttacking>
+  <VFEP_PlayerPirate.pawnSingular>pirata</VFEP_PlayerPirate.pawnSingular>
+  <VFEP_PlayerPirate.pawnsPlural>piratas</VFEP_PlayerPirate.pawnsPlural>
+  
+</LanguageData>

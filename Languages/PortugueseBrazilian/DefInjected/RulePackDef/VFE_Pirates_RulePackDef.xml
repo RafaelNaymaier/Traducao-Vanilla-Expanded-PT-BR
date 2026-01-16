@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEP_NamerRoleCaptain.rulePack.rulesStrings>
+    <li>r_roleName(p=7)->[secondPart] [firstPart]</li>
+    <li>firstPart->moreno</li>
+    <li>firstPart->boca-suja</li>
+    <li>firstPart->sombrio</li>
+    <li>firstPart->enganador</li>
+    <li>firstPart->inesprupuloso</li>
+    <li>firstPart->astuto</li>
+    <li>firstPart->sedutor</li>
+    <li>firstPart->trapaceiro</li>
+    <li>firstPart->encardido</li>
+    <li>firstPart->robusto</li>
+    <li>firstPart->abatido</li>
+    <li>firstPart->corpulento</li>
+    <li>firstPart->musculoso</li>
+    <li>secondPart(p=4)->bucaneiro</li>
+    <li>secondPart(p=4)->corsário</li>
+    <li>secondPart(p=4)->pirata</li>
+    <li>secondPart(p=4)->aventureiro</li>
+    <li>secondPart(p=4)->errante</li>
+    <li>secondPart(p=4)->velhaco</li>
+    <li>secondPart(p=4)->contrabandista</li>
+    <li>secondPart(p=4)->traficante</li>
+    <li>secondPart(p=4)->saqueador</li>
+    <li>secondPart(p=4)->trapaceiro</li>
+    <li>secondPart(p=4)->gatuno</li>
+    <li>secondPart(p=4)->surrupiador</li>
+  </VFEP_NamerRoleCaptain.rulePack.rulesStrings>
+
+  <VFEM_NamerPersonJunker.rulePack.rulesStrings>
+    <li>r_name(p=2)->[Junker_First_Male], o [Junker_Last]</li>
+  </VFEM_NamerPersonJunker.rulePack.rulesStrings>
+  
+  <VFEM_NamerPersonJunkerFemale.rulePack.rulesStrings>
+    <li>r_name(p=2)->[Junker_First_Female], a [Junker_Last]</li>
+  </VFEM_NamerPersonJunkerFemale.rulePack.rulesStrings>
+  
+</LanguageData>

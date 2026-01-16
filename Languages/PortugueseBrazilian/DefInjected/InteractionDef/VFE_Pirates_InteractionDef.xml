@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEP_Speech_Shanties.label>cantando cantigas de marinheiro</VFEP_Speech_Shanties.label>
+  <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>speechtopic->buscar [Vegetable]s para evitar o escorbuto</li>
+    <li>speechtopic->como ser [AdjectiveFriendly] enquanto pilham seus inimigos</li>
+    <li>speechtopic->usar [AnimalBadass]s como fonte de proteína</li>
+    <li>speechtopic->como o jogo de [Game] treina você para agir como uma tripulação</li>
+    <li>speechtopic->usar [Weapon] em uma incursão</li>
+    <li>speechtopic->pilhar através de [TerrainFeature]s e [TerrainFeature]s</li>
+    <li>speechtopic->como em uma tripulação todos são [PersonFamily]s e [PersonFamily]s</li>
+    <li>speechtopic->a necessidade de [PersonJob]s em uma tripulação</li>
+    <li>speechtopic->confrontar [PersonBadass]s</li>
+    <li>speechtopic->derrotar [Enemy]s mantendo-se unidos</li>
+    <li>speechtopic->saborear [Gore] durante o combate</li>
+    <li>speechtopic->o significado de camaradagem</li>
+    <li>speechtopic->o companheirismo da tripulação</li>
+    <li>speechtopic->como ser [AdjectiveBadass] sem ser [AdjectiveBadass]</li>
+    <li>speechtopic->o quão [AdjectiveBadass] a tripulação é</li>
+    <li>speechtopic->[TerrainFeature]s [AdjectiveNatural]s</li>
+    <li>speechtopic->o [AdjectiveLarge] potencial da tripulação</li>
+    <li>speechtopic->a [PersonalCharacteristic] de cada tripulante</li>
+    <li>speechtopic->a terrível [PersonalCharacteristic] dos inimigos da tripulação</li>
+    <li>speechtopic(p=0.25)->manter-se unido como um grupo</li>
+    <li>speechtopic(p=0.25)->o caminho a seguir através da tragédia, mantendo-se unidos como uma tripulação</li>
+    <li>speechtopic(p=0.25)->a tripulação e sua importância</li>
+    <li>speechtopic(p=0.25)->a sobrevivência do mais forte</li>
+    <li>speechtopic(p=0.25)->o triunfo através de dificuldades compartilhadas</li>
+    <li>speechtopic(p=0.25)->a morte de seus inimigos como um motivador</li>
+    <li>speechtopic(p=0.25)->mãos e corações fortes, trabalhando juntos</li>
+    <li>speechtopic(p=0.25)->o direito de sobreviver e derrotar aqueles que são mais fracos</li>
+  </VFEP_Speech_Shanties.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

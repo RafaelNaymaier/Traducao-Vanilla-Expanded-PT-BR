@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEP_SiegeMode.label>modo de cerco</VFEP_SiegeMode.label>
+  <VFEP_SiegeMode.description>modo de cerco.</VFEP_SiegeMode.description>
+  <VFEP_SiegeMode.labelNoun>modo de cerco</VFEP_SiegeMode.labelNoun>
+
+  <VFEP_FiringFrenzy.label>frenesi de disparo</VFEP_FiringFrenzy.label>
+  <VFEP_FiringFrenzy.description>Esta pessoa está usando uma habilidade especial para inspirar todos ao redor. Todos dentro do raio de efeito recebem uma redução de 50% no tempo de mira e um aumento de 50% no limiar de choque de dor.</VFEP_FiringFrenzy.description>
+  
+  <VFEP_FiringFrenzyBuff.label>frenesi de disparo</VFEP_FiringFrenzyBuff.label>
+  <VFEP_FiringFrenzyBuff.description>Alguém está usando a habilidade de frenesi de disparo por perto, inspirando esta pessoa a atirar mais rápido e a suportar maiores quantidades de dor física.</VFEP_FiringFrenzyBuff.description>
+
+  <VFEP_HypothermicSlowdown.label>desaceleração hipotérmica</VFEP_HypothermicSlowdown.label>
+  <VFEP_HypothermicSlowdown.description>Temperatura corporal central perigosamente baixa. A menos que seja reaquecida, a desaceleração hipotérmica piora e termina em morte. A recuperação é rápida assim que a vítima é reaquecida.</VFEP_HypothermicSlowdown.description>
+  <VFEP_HypothermicSlowdown.stages.minor-0.label>leve</VFEP_HypothermicSlowdown.stages.minor-0.label>
+  <VFEP_HypothermicSlowdown.stages.minor-1.label>leve</VFEP_HypothermicSlowdown.stages.minor-1.label>
+  <VFEP_HypothermicSlowdown.stages.moderate.label>moderada</VFEP_HypothermicSlowdown.stages.moderate.label>
+  <VFEP_HypothermicSlowdown.stages.serious.label>grave</VFEP_HypothermicSlowdown.stages.serious.label>
+  <VFEP_HypothermicSlowdown.stages.extreme.label>extrema</VFEP_HypothermicSlowdown.stages.extreme.label>
+  
+  <VFEP_KillItself.label>autodestruição</VFEP_KillItself.label>
+  <VFEP_KillItself.description>O drone está programado para se destruir.</VFEP_KillItself.description>
+  <VFEP_KillItself.stages.minor.label>leve</VFEP_KillItself.stages.minor.label>
+  
+  <VFEP_RumAsIngredient.label>bebeu coquetel à base de rum</VFEP_RumAsIngredient.label>
+  <VFEP_RumAsIngredient.description>Este colono bebeu um coquetel que tinha rum como um de seus ingredientes. Reduz a taxa de fome em 15%.</VFEP_RumAsIngredient.description>
+  
+</LanguageData>

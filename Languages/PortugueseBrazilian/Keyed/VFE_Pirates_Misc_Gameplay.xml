@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEPirates.EntombingWarning>Sepultar um colono em um sarcófago de guerra é uma operação permanente que não pode ser revertida sem consequências dolorosas.</VFEPirates.EntombingWarning>
+  <VFEM.MissingMaterials>Materiais ausentes: {0}</VFEM.MissingMaterials>
+  <VFEP.Occupied>Ocupado</VFEP.Occupied>
+  <VFEP.WarcasketCannotBeRemoved>O sarcófago de guerra não pode ser removido</VFEP.WarcasketCannotBeRemoved>
+  <VFEP_NextSpawnedRumIn>Produzindo rum a partir de fluidos corporais em: {0}</VFEP_NextSpawnedRumIn>
+  <VFEP.MessagePawnArrived>{PAWN_nameDef} chegou.</VFEP.MessagePawnArrived>
+  <VFEP.RequiresWarcasket>Requer sarcófago de guerra</VFEP.RequiresWarcasket>
+  <VFEP.ExplodeIn>Explodirá em: {0}</VFEP.ExplodeIn>
+
+  <VFEP.ChooseCurses>Selecione suas Maldições</VFEP.ChooseCurses>
+  <VFEP.ChooseCurses.Desc>Quanto mais maldições você selecionar, mais colonos seu narrador permitirá que você tenha, e mais raros serão os eventos de grandes ameaças.</VFEP.ChooseCurses.Desc>
+  <VFEP.DesiredPopMax>Pop. máx. desejada: {0}</VFEP.DesiredPopMax>
+  <VFEP.DaysBigThreats>Dias entre ameaças: {0}</VFEP.DaysBigThreats>
+  <VFEP.WarcasketCustom>Customização de Sarcófago</VFEP.WarcasketCustom>
+  <VFEP.WarcasketText>Quando você pressionar Aceitar, o fabricador escolhido trará os recursos para a estrutura e começará a montar um sarcófago de guerra. A velocidade da montagem depende da habilidade de fabricação do seu fabricador. Assim que o processo for concluído, um sarcófago de guerra sairá da plataforma. Tenha cuidado, pois o colono na plataforma ainda pode morrer de fome - você deve priorizar a montagem do sarcófago sobre outras tarefas.</VFEP.WarcasketText>
+  <VFEP.WorkAmount>Quantidade de Trabalho:</VFEP.WorkAmount>
+  <VFEP.Crafter>Fabricador:</VFEP.Crafter>
+  <VFEP.Helmet>Elmo:</VFEP.Helmet>
+  <VFEP.Shoulderpads>Ombreiras:</VFEP.Shoulderpads>
+  <VFEP.ArmorFrame>Estrutura da armadura:</VFEP.ArmorFrame>
+  <VFEP.TotalCost>Custo Total:</VFEP.TotalCost>
+  <VFEP.ResourceCost>Custo de Recursos:</VFEP.ResourceCost>
+  <VFEP.ResearchText>Pesquise mais tecnologias de sarcófagos para desbloquear mais peças de armadura.</VFEP.ResearchText>
+  <VFEP.NoWarcaskets>Pesquise sarcófagos de guerra para aprender a usar a fundição.</VFEP.NoWarcaskets>
+  <VFEP.NotEnoughFuel>Combustível químico insuficiente para o salto propulsionado.</VFEP.NotEnoughFuel>
+  <VFEP.SiegeModeOff>Modo de cerco desligado</VFEP.SiegeModeOff>
+  <VFEP.SiegeModeOn>Modo de cerco ligado</VFEP.SiegeModeOn>
+  <VFEPirates.CannotEntomb>Não é possível sepultar no sarcófago: {0}</VFEPirates.CannotEntomb>
+  <VFEPirates.EntombInWarcasket>Sepultar em sarcófago de guerra</VFEPirates.EntombInWarcasket>
+  <VFEP.EntombInIncapableOfViolenceWarning> (Aviso: {PAWN_nameDef} é incapaz de violência, isso o(a) tornará inútil.)</VFEP.EntombInIncapableOfViolenceWarning>
+  <VFEP.ActivateShield>Ativar campo de escudo</VFEP.ActivateShield>
+  <VFEP.ActivateShieldDesc>Clique para ativar o campo de escudo. Ele possui 10 segundos de modo ativo e 90 segundos de recarga.</VFEP.ActivateShieldDesc>
+  <VFEP.DeployWarDrone>Lança pequenos drones prontos para combate a partir da porta de acoplamento traseira. Esses drones podem ser controlados para fornecer suporte de fogo, mas se autodetonarão após 60 segundos.</VFEP.DeployWarDrone>
+  <VFEP.DeploySpidermineDesc>Dispara uma mina-aranha de longo alcance que correrá automaticamente em direção ao inimigo mais próximo, detonando assim que o alcançar.</VFEP.DeploySpidermineDesc>
+  <VFEP.Cancel>Cancelar</VFEP.Cancel>
+  <VFEP.ChildrenCannotUseThis>Crianças não podem usar isto.</VFEP.ChildrenCannotUseThis>
+
+</LanguageData>
