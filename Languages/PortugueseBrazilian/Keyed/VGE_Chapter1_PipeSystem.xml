@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <VGE_ExtractOxygen>Extrair {THINGEXTRACTCOUNT} recipientes de oxigênio</VGE_ExtractOxygen>
-  <VGE_ExtractOxygenDesc>Extrair {THINGEXTRACTCOUNT} recipientes de oxigênio do tanque. Um colono virá extraí-lo.</VGE_ExtractOxygenDesc>
+  <VGE_ExtractOxygen>Extrair {THINGEXTRACTCOUNT} cilindros de oxigênio</VGE_ExtractOxygen>
+  <VGE_ExtractOxygenDesc>Extrair {THINGEXTRACTCOUNT} cilindros de oxigênio do tanque. Um colono virá extraí-lo.</VGE_ExtractOxygenDesc>
   <VGE_ExtractOxygenDisabled>você precisa de pelo menos {RESOURCEMIN}u³ de oxigênio no tanque</VGE_ExtractOxygenDisabled>
 
   <VSGE_OxygenValve>Liga/desliga o fluxo de oxigênio.</VSGE_OxygenValve>

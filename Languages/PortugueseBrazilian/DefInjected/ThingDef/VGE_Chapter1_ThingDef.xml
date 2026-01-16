@@ -180,9 +180,9 @@
   <VGE_SmallOxygenTank.description>Um tanque de oxigênio que fornece oxigênio para bombas em toda a gravinave.</VGE_SmallOxygenTank.description>
   <VGE_LargeOxygenTank.label>tanque de oxigênio grande</VGE_LargeOxygenTank.label>
   <VGE_LargeOxygenTank.description>Um tanque de oxigênio grande que fornece oxigênio para bombas em toda a gravinave.</VGE_LargeOxygenTank.description>
-  <VGE_OxygenCanisterFiller.label>enchedor de recipiente de oxigênio</VGE_OxygenCanisterFiller.label>
+  <VGE_OxygenCanisterFiller.label>enchedor de cilindro de oxigênio</VGE_OxygenCanisterFiller.label>
   <VGE_OxygenCanisterFiller.description>Um dispositivo de armazenamento tipo funil destinado a conter oxigênio dispensado em recipientes para uso posterior.</VGE_OxygenCanisterFiller.description>
-  <VGE_OxygenCanisterEmptier.label>esvaziador de recipiente de oxigênio</VGE_OxygenCanisterEmptier.label>
+  <VGE_OxygenCanisterEmptier.label>esvaziador de cilindro de oxigênio</VGE_OxygenCanisterEmptier.label>
   <VGE_OxygenCanisterEmptier.description>Uma estrutura de armazenamento tipo funil destinada a inserir oxigênio de recipientes na rede, enchendo os tanques conectados.</VGE_OxygenCanisterEmptier.description>
   <VGE_OxygenHarvester.label>coletor de oxigênio</VGE_OxygenHarvester.label>
   <VGE_OxygenHarvester.description>Um dispositivo que coleta oxigênio respirável da atmosfera circundante e o armazena na rede de oxigênio. Funciona apenas em superfícies planetárias com atmosfera e não operará no vácuo ou em ambientes com baixo teor de oxigênio.</VGE_OxygenHarvester.description>
@@ -299,7 +299,7 @@
   <VGE_VacBarrierTriple.description>Uma barreira ultrassônica que evita a despressurização no espaço. O campo comprime as moléculas de ar perto do limite, impedindo que os gases escapem enquanto permite que as pessoas viajem livremente através dele. Uma barreira de vácuo não fará nada para impedir intrusos.\n\nDeve ser energizada para evitar a despressurização.</VGE_VacBarrierTriple.description>
   <VGE_VacBarrierQuintuple.description>Uma barreira ultrassônica que evita a despressurização no espaço. O campo comprime as moléculas de ar perto do limite, impedindo que os gases escapem enquanto permite que as pessoas viajem livremente através dele. Uma barreira de vácuo não fará nada para impedir intrusos.\n\nDeve ser energizada para evitar a despressurização.</VGE_VacBarrierQuintuple.description>
 
-  <VGE_OxygenCanister.label>recipiente de oxigênio</VGE_OxygenCanister.label>
+  <VGE_OxygenCanister.label>cilindro de oxigênio</VGE_OxygenCanister.label>
   <VGE_OxygenCanister.description>Um gás que sustenta a vida. Usado para pressurizar cômodos, fornecer ar respirável ou abastecer equipamentos especializados e kits de sobrevivência. Volátil quando danificado.</VGE_OxygenCanister.description>
   <VGE_Astrofuel.label>astrocombustível</VGE_Astrofuel.label>
   <VGE_Astrofuel.description>Um combustível sintético de alta energia. Usado para abastecer propulsores e boosters de naves de gravidade, ou para gerar eletricidade em sistemas especializados. Extremamente combustível, queima violentamente mesmo em ambientes com pouco oxigênio.</VGE_Astrofuel.description>

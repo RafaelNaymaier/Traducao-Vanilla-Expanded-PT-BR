@@ -17,7 +17,7 @@
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawApple"]/label</xpath>
-          <value><label>maçã</label></value>
+          <value><label>maçãs</label></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawApple"]/description</xpath>
@@ -25,7 +25,7 @@
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawBanana"]/label</xpath>
-          <value><label>banana</label></value>
+          <value><label>bananas</label></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawBanana"]/description</xpath>
@@ -33,7 +33,7 @@
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawCherry"]/label</xpath>
-          <value><label>cereja</label></value>
+          <value><label>cerejas</label></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawCherry"]/description</xpath>
@@ -41,7 +41,7 @@
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawOrange"]/label</xpath>
-          <value><label>laranja</label></value>
+          <value><label>laranjas</label></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawOrange"]/description</xpath>
@@ -57,7 +57,7 @@
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawPear"]/label</xpath>
-          <value><label>pera</label></value>
+          <value><label>peras</label></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawPear"]/description</xpath>
@@ -65,7 +65,7 @@
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawPlum"]/label</xpath>
-          <value><label>ameixa</label></value>
+          <value><label>ameixas</label></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawPlum"]/description</xpath>
@@ -73,7 +73,7 @@
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawPricklyPear"]/label</xpath>
-          <value><label>figo-da-índia</label></value>
+          <value><label>figos-da-índia</label></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawPricklyPear"]/description</xpath>
@@ -81,7 +81,7 @@
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawPrunes"]/label</xpath>
-          <value><label>ameixas seca</label></value>
+          <value><label>ameixas secas</label></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawPrunes"]/description</xpath>
@@ -90,7 +90,7 @@
 
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawBeets"]/label</xpath>
-          <value><label>beterraba</label></value>
+          <value><label>beterrabas</label></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawBeets"]/description</xpath>
@@ -98,7 +98,7 @@
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawCabbage"]/label</xpath>
-          <value><label>repolho</label></value>
+          <value><label>repolhos</label></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawCabbage"]/description</xpath>
@@ -106,7 +106,7 @@
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawEggplant"]/label</xpath>
-          <value><label>berinjela</label></value>
+          <value><label>berinjelas</label></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawEggplant"]/description</xpath>
@@ -114,7 +114,7 @@
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawOnion"]/label</xpath>
-          <value><label>cebola</label></value>
+          <value><label>cebolas</label></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawOnion"]/description</xpath>
@@ -122,7 +122,7 @@
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawPeas"]/label</xpath>
-          <value><label>ervilha</label></value>
+          <value><label>ervilhas</label></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawPeas"]/description</xpath>
@@ -130,7 +130,7 @@
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawPepper"]/label</xpath>
-          <value><label>pimenta</label></value>
+          <value><label>pimentas</label></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawPepper"]/description</xpath>
@@ -138,7 +138,7 @@
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawPumpkin"]/label</xpath>
-          <value><label>abóbora</label></value>
+          <value><label>abóboras</label></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawPumpkin"]/description</xpath>
@@ -146,7 +146,7 @@
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawTomatoes"]/label</xpath>
-          <value><label>tomate</label></value>
+          <value><label>tomates</label></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_RawTomatoes"]/description</xpath>
@@ -275,12 +275,12 @@
           <value><description>Uma árvore que produz minúsculas cerejas doces de cor vermelho-púrpura. As cerejeiras são notáveis por exigirem uma breve temporada de frio intenso, por isso seus frutos rapidamente se tornaram favoritos entre as civilizações ocidentais do norte. Este gênero específico é bastante bonito, salpicado de flores rosadas por toda parte, florescendo totalmente a cada inverno.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Todas as árvores frutíferas ocupam cerca de quatro vezes mais espaço que as plantações normais, levam muito tempo para crescer e produzem frutos que podem ser comidos crus. Elas não são destruídas após a colheita, mas têm uma vida útil limitada e eventualmente precisarão ser replantadas.\n\nAs cerejeiras têm o dobro de beleza em comparação com outras árvores frutíferas.</description></value>
         </li>
         <li Class="PatchOperationReplace">
-          <xpath>Defs/ThingDef[defName="VCE_figo da india"]/label</xpath>
-          <value><label>figo da india</label></value>
+          <xpath>Defs/ThingDef[defName="VCE_Opuntia"]/label</xpath>
+          <value><label>figo-da-índia</label></value>
         </li>
         <li Class="PatchOperationReplace">
-          <xpath>Defs/ThingDef[defName="VCE_figo da india"]/description</xpath>
-          <value><description>Mais frequentemente referido como cacto "figo-da-índia", esta planta é conhecida por ser bastante generosa mesmo em desertos quentes e secos. As palmas deste cacto alto e espinhoso florescem em frutos comestíveis rosados semelhantes ao melão, usados historicamente tanto como lanche quanto como remédio por nativos do deserto.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Todas as árvores frutíferas ocupam cerca de quatro vezes mais espaço que as plantações normais, levam muito tempo para crescer e produzem frutos que podem ser comidos crus. Elas não são destruídas após a colheita, mas têm uma vida útil limitada e eventualmente precisarão ser replantadas.\n\nfigo da indias podem ser plantadas próximas umas das outras, pois não bloqueiam a semeadura de plantas adjacentes a elas.</description></value>
+          <xpath>Defs/ThingDef[defName="VCE_Opuntia"]/description</xpath>
+          <value><description>Mais frequentemente referido como cacto figo-da-índia, esta planta é conhecida por ser bastante generosa mesmo em desertos quentes e secos. As palmas deste cacto alto e espinhoso florescem em frutos comestíveis rosados semelhantes ao melão, usados historicamente tanto como lanche quanto como remédio por nativos do deserto.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Todas as árvores frutíferas ocupam cerca de quatro vezes mais espaço que as plantações normais, levam muito tempo para crescer e produzem frutos que podem ser comidos crus. Elas não são destruídas após a colheita, mas têm uma vida útil limitada e eventualmente precisarão ser replantadas.\n\nOpuntias podem ser plantadas próximas umas das outras, pois não bloqueiam a semeadura de plantas adjacentes a elas.</description></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_OrangeTree"]/label</xpath>

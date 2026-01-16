@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Gravship Expanded - Chapter 1</li>
+      <li>vanillaexpanded.gravship</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/QuestScriptDef[defName="VGE_OpportunitySite_SolidCoreAsteroid"]/questNameRules/rulesStrings</xpath>
+          <value>
+            <rulesStrings>
+              <li>questName->Asteroide Sólido de [resource]</li>
+            </rulesStrings>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/QuestScriptDef[defName="VGE_OpportunitySite_SolidCoreAsteroid"]/questDescriptionRules/rulesStrings</xpath>
+          <value>
+            <rulesStrings>
+              <li>questDescription->[discoveryMethod] a localização de um asteroide de núcleo sólido orbitando o planeta. Sua carcaça é de vacstone densa, mas em seu interior reside um núcleo de [resource] aguardando para ser minerado.\n\nAsteroides como este geralmente permanecem no espaço profundo, mas este entrou em órbita baixa. É apenas uma questão de tempo até que outra pessoa o reivindique.\n\nVocê pode chegar ao asteroide com cápsulas de transporte, naves de transporte ou uma nave gravitacional. Equipe seus colonos com vestimenta orbital adequada antes de partir.</li>
+            </rulesStrings>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/QuestScriptDef[defName="VGE_OpportunitySite_SolidCoreAsteroid"]/root/nodes/li[@Class="QuestNode_IsSet"]/elseNode[@Class="QuestNode_RandomNode"]/nodes/li[@Class="QuestNode_Set"]/value</xpath>
+          <value>
+            <value>Você descobriu</value>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/PipeSystem.PipeNetDef[defName="VGE_OxygenNet"]/resource/name</xpath>
+          <value>
+            <name>Oxigênio</name>
+          </value>
+        </li>
+        
+        <li Class="PatchOperationReplace">
+        <xpath>Defs/PipeSystem.PipeNetDef[defName="VGE_AstrofuelNet"]/resource</xpath>
+        <value>
+          <resource>
+            <name>Astrocombustível</name>
+            <unit>L</unit>
+            <color>(0.54, 0.30, 0.85)</color>
+            <offTexPath>Things/Items/Resource/Astrofuel</offTexPath>
+          </resource>
+        </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>
