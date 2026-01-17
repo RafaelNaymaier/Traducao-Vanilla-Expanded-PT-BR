@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <VFEI_ModNameForSettings>VFE - Insectoides 2</VFEI_ModNameForSettings>
+  <VFEI_ModNameForSettings>VFE - Insetoides 2</VFEI_ModNameForSettings>
 
   <VFEI_InsectTerritoryScale>Área infestada</VFEI_InsectTerritoryScale>
   <VFEI_Infestation>Infestação</VFEI_Infestation>
-  <VFEI_InfestationTooltip>Indica se este ladrilho está sob os efeitos de uma infestação insectoide.
-  Áreas ao redor de colmeias insectoides costumam estar repletas de insetos, com várias estruturas construídas por eles afetando o ambiente. Infestações são muito mais propensas a ocorrer, e grupos em viagem podem encontrar insectoides vagando.</VFEI_InfestationTooltip>
+  <VFEI_InfestationTooltip>Indica se este ladrilho está sob os efeitos de uma infestação insetoide.
+  Áreas ao redor de colmeias insetoides costumam estar repletas de insetos, com várias estruturas construídas por eles afetando o ambiente. Infestações são muito mais propensas a ocorrer, e grupos em viagem podem encontrar insetoides vagando.</VFEI_InfestationTooltip>
   <VFEI_Present>Presente</VFEI_Present>
-  <VFEI_SettleWarning>Este ladrilho está próximo a uma colmeia insectoide, portanto haverá uma influência insectoide onipresente nele. Infestações ocorrerão a cada {0} dias. Infestações grandes são muito mais prováveis de acontecer e podem ocorrer em qualquer lugar, não apenas em áreas escuras. Mega-aranhas, espelópodes e megaescaravelhos estão vagando livremente, e caravanas em viagem podem ter que repelir enxames insectoides.</VFEI_SettleWarning>
+  <VFEI_SettleWarning>Este ladrilho está próximo a uma colmeia insetoide, portanto haverá uma influência insetoide onipresente nele. Infestações ocorrerão a cada {0} dias. Infestações grandes são muito mais prováveis de acontecer e podem ocorrer em qualquer lugar, não apenas em áreas escuras. Mega-aranhas, espelópodes e megaescaravelhos estão vagando livremente, e caravanas em viagem podem ter que repelir enxames insetoides.</VFEI_SettleWarning>
 
   <VFEI_LarvaeTimeSpawn>{0} antes do próximo surgimento de enxameante.</VFEI_LarvaeTimeSpawn>
   <VFEI_NoMoreSpawningAllowed>A Rainha está descansando.</VFEI_NoMoreSpawningAllowed>
 
-  <VFEI2_RoyalInsectJelly>Nível de geleia insectoide real:</VFEI2_RoyalInsectJelly>
+  <VFEI2_RoyalInsectJelly>Nível de geleia insetoide real:</VFEI2_RoyalInsectJelly>
   <VFEI2_Chemfuel>Nível de quimicombustível:</VFEI2_Chemfuel>
   <VFEI2_Chitin>Trocando quitina em:</VFEI2_Chitin>
   <VFEI_CocoonInsectSpawnIn>{0} antes do inseto surgir.</VFEI_CocoonInsectSpawnIn>
   <VFEI_CreatingCocoon>{0} para criar casulo</VFEI_CreatingCocoon>
   <VFEI_CannotPlaceCloseToOtherCreeper>Não pode ser colocado perto de outra trepadeira.</VFEI_CannotPlaceCloseToOtherCreeper>
   <VFEI_CannotPlaceCloseToOtherJellyFarm>Não pode ser colocado perto de outra fazenda de geleia.</VFEI_CannotPlaceCloseToOtherJellyFarm>
-  <VFEI_Insectoids>Insectoides</VFEI_Insectoids>
-  <VFEI_ChooseInsectoidColor>Escolher cor do insectoide {0}</VFEI_ChooseInsectoidColor>
-  <VFEI_DefenderDesc>Insectoides Defensores protegem vigilantemente sua colmeia atacando quaisquer entidades hostis que entrem em um raio designado.</VFEI_DefenderDesc>
-  <VFEI_HunterDesc>Insectoides Caçadores buscam proativamente e caçam a vida selvagem perto de sua colmeia, trazendo e armazenando as carcaças para consumo comunitário.</VFEI_HunterDesc>
-  <VFEI_WorkerDesc>Insectoides Operários são encarregados de construir e manter estruturas específicas de insectoides, bem como realizar tarefas essenciais de transporte e mineração.</VFEI_WorkerDesc>
+  <VFEI_Insectoids>Insetoides</VFEI_Insectoids>
+  <VFEI_ChooseInsectoidColor>Escolher cor do insetoide {0}</VFEI_ChooseInsectoidColor>
+  <VFEI_DefenderDesc>Insetoides Defensores protegem vigilantemente sua colmeia atacando quaisquer entidades hostis que entrem em um raio designado.</VFEI_DefenderDesc>
+  <VFEI_HunterDesc>Insetoides Caçadores buscam proativamente e caçam a vida selvagem perto de sua colmeia, trazendo e armazenando as carcaças para consumo comunitário.</VFEI_HunterDesc>
+  <VFEI_WorkerDesc>Insetoides Operários são encarregados de construir e manter estruturas específicas de insetoides, bem como realizar tarefas essenciais de transporte e mineração.</VFEI_WorkerDesc>
   <VFEI_InsectoidWillBeSpawnedIn>{0} surgirá em: {1}</VFEI_InsectoidWillBeSpawnedIn>
   <VFEI_SpawningStoppedMaxCapacity>Surgimento interrompido: quantidade máxima atingida.</VFEI_SpawningStoppedMaxCapacity>
   <VFEI_AlreadyActivated>já ativado</VFEI_AlreadyActivated>
@@ -33,19 +33,19 @@
   <VFEI_PherocoreCanBeUsedOnHive>{0} só pode ser usado em um(a) {1}.</VFEI_PherocoreCanBeUsedOnHive>
   <VFEI_HiveCannotBeUpgradedMore>Não é possível melhorar: tamanho máximo do(a) {0} atingido.</VFEI_HiveCannotBeUpgradedMore>
   <VFEI_InfestationHasSpread>Missão falhou: {0}</VFEI_InfestationHasSpread>
-  <VFEI_InfestationHasSpreadDesc>A colmeia insectoide se espalhou. A missão {0} terminou.</VFEI_InfestationHasSpreadDesc>
+  <VFEI_InfestationHasSpreadDesc>A colmeia insetoide se espalhou. A missão {0} terminou.</VFEI_InfestationHasSpreadDesc>
   <VFEI_InsectSummonWarning>Ativar o(a) {0} invocará os seguintes insetos hostis:\n\n{PAWNS}\n\nVocê está pronto para lutar?</VFEI_InsectSummonWarning>
   <VFEI_LetterLabelInsectWaveSummoned>{0} invocado</VFEI_LetterLabelInsectWaveSummoned>
-  <VFEI_LetterInsectWaveSummoned>Atraído pelas vibrações do seu batedor, um líder insectoide de {0} emergirá do solo em breve. Prepare-se.</VFEI_LetterInsectWaveSummoned>
+  <VFEI_LetterInsectWaveSummoned>Atraído pelas vibrações do seu batedor, um líder insetoide de {0} emergirá do solo em breve. Prepare-se.</VFEI_LetterInsectWaveSummoned>
   <VFEI_LetterLabelInsectWaveArrived>{0} chegou</VFEI_LetterLabelInsectWaveArrived>
-  <VFEI_LetterInsectWaveArrived>Um líder insectoide de {0} veio para erradicar você, junto com escoltas.\n\nO grupo de assalto é composto pelos seguintes insetos:\n\n{1}</VFEI_LetterInsectWaveArrived>
+  <VFEI_LetterInsectWaveArrived>Um líder insetoide de {0} veio para erradicar você, junto com escoltas.\n\nO grupo de assalto é composto pelos seguintes insetos:\n\n{1}</VFEI_LetterInsectWaveArrived>
   <VFEI_AlertInsectWaveIncoming>{0} aproximando-se</VFEI_AlertInsectWaveIncoming>
-  <VFEI_AlertInsectWaveIncomingDesc>Alertados pelo seu batedor, um(a) {0} hostil com um exército de insectoides estão cavando em direção à superfície. Eles chegarão em algumas horas.</VFEI_AlertInsectWaveIncomingDesc>
+  <VFEI_AlertInsectWaveIncomingDesc>Alertados pelo seu batedor, um(a) {0} hostil com um exército de insetoides estão cavando em direção à superfície. Eles chegarão em algumas horas.</VFEI_AlertInsectWaveIncomingDesc>
   <VFEI_HiveArea>Área da colmeia</VFEI_HiveArea>
   <VFEI_HiveAreaClear>Limpar área da colmeia</VFEI_HiveAreaClear>
-  <VFEI_HiveAreaClearDesc>Remove uma área de colmeia. Seus insectoides não irão mais trabalhar, procurar presas ou atacar alvos hostis aqui.</VFEI_HiveAreaClearDesc>
+  <VFEI_HiveAreaClearDesc>Remove uma área de colmeia. Seus insetoides não irão mais trabalhar, procurar presas ou atacar alvos hostis aqui.</VFEI_HiveAreaClearDesc>
   <VFEI_HiveAreaExpand>Expandir área da colmeia</VFEI_HiveAreaExpand>
-  <VFEI_HiveAreaExpandDesc>Cria uma área de colmeia onde seus insectoides trabalharão, procurarão presas e atacarão alvos hostis. Seus insectoides não sairão da área da colmeia.</VFEI_HiveAreaExpandDesc>
+  <VFEI_HiveAreaExpandDesc>Cria uma área de colmeia onde seus insetoides trabalharão, procurarão presas e atacarão alvos hostis. Seus insetoides não sairão da área da colmeia.</VFEI_HiveAreaExpandDesc>
   <VFEI_HiveCloseProximityWarning>Construir colmeias artificiais muito próximas umas das outras aumentará a necessidade de manutenção.</VFEI_HiveCloseProximityWarning>
   <VFEI_MaintenanceLossSpeed>Velocidade de perda de manutenção: {0}</VFEI_MaintenanceLossSpeed>
   <VFEI_MinHiveStabilityDistance>Penalidade por distância de colmeia artificial próxima</VFEI_MinHiveStabilityDistance>
@@ -60,9 +60,9 @@
   <VFEI_NeedsToBeMaintainedIn>Manutenção necessária em {0}</VFEI_NeedsToBeMaintainedIn>
   <VFEI_DueForMaintenance>Manutenção pendente. {0} até começar a deteriorar.</VFEI_DueForMaintenance>
   <VFEI_CannotPlaceCloseToOtherBasicHive>Não pode ser colocado perto de outra colmeia básica artificial</VFEI_CannotPlaceCloseToOtherBasicHive>
-  <VFEI_NextInsectBurrowing>Próximo insectoide cavando em: {0}</VFEI_NextInsectBurrowing>
-  <VFEI_BurrowWaves>{0} ondas insectoides de {1}</VFEI_BurrowWaves>
-  <VFEI_BurrowCollapsed>A toca insectoide tornou-se instável e desmoronou.</VFEI_BurrowCollapsed>
+  <VFEI_NextInsectBurrowing>Próximo insetoide cavando em: {0}</VFEI_NextInsectBurrowing>
+  <VFEI_BurrowWaves>{0} ondas insetoides de {1}</VFEI_BurrowWaves>
+  <VFEI_BurrowCollapsed>A toca insetoide tornou-se instável e desmoronou.</VFEI_BurrowCollapsed>
   <VFEI_NotForPlayers>Este Patriarca está sob controle do jogador e, portanto, não tem conexão com uma colmeia selvagem</VFEI_NotForPlayers>
   <VFEI_BaseTimeBetweenHanHordeWaves>Tempo base entre ondas do modo Horda Han</VFEI_BaseTimeBetweenHanHordeWaves>
   <VFEI_ResearchUnlockedForCompletingWave>{0} foi desbloqueado por completar a onda.</VFEI_ResearchUnlockedForCompletingWave>

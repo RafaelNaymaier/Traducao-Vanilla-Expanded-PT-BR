@@ -65,7 +65,7 @@
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/PawnKindDef[defName="VFEI2_Queen"]/label</xpath>
-          <value><label>rainha insectoide</label></value>
+          <value><label>rainha insetoide</label></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/PawnKindDef[defName="VFEI2_RoyalMegascarab"]/label</xpath>
