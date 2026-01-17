@@ -4,7 +4,8 @@ Olá! Bem-vindo ao meu projeto de tradução para a comunidade de RimWorld.
 
 Este repositório contém os arquivos de tradução para o Português do Brasil (PT-BR) de uma seleção de *mods* da popular série Vanilla Expanded.
 
-Esta é a minha **primeira experiência com desenvolvimento e *modding***, e estou muito animado em contribuir para a comunidade brasileira!
+Esse é um projeto pessoal, queria fazer isso há muito tempo e agora reuni coragem pra fazer. 
+É também minha **primeira experiência com tradução e *modding***, e estou muito animado em contribuir para a comunidade brasileira!
 
 ---
 
