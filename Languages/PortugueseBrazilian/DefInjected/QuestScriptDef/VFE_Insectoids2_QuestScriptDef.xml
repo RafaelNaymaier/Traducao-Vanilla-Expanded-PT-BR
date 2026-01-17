@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <VFEI2_OpportunitySite_InsectoidHive.questDescriptionRules.rulesStrings>
     <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos enviou uma mensagem. Uma nova colmeia insectoide surgiu em uma área próxima. Se não for destruída, logo formará uma nova colônia, espalhando a infestação pela região. A colmeia é controlada por [siteFaction_name].\n\n[asker_nameDef] está nos pedindo para destruir a colmeia, o que significa eliminar todos os insectoides e ninhos. [asker_label] diz que [sitePart0_description].</li>
   </VFEI2_OpportunitySite_InsectoidHive.questDescriptionRules.rulesStrings>
@@ -31,7 +31,11 @@
   <VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>
 
   <VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>Estes colonos participaram da vitória na missão [resolvedQuestName]. [asker_definite] quer saber quem deve receber os [royalFavorReward_amount] de [asker_faction_royalFavorLabel] por este serviço.</VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>
-  
-  <VFEI2_Util_GenerateSite.root.singleSitePartRules.slateRef>&lt;rulesStrings&gt;<li>root->existem (*Threat)[count] colmeias insectoides(/Threat)</li>&lt;/rulesStrings&gt;</VFEI2_Util_GenerateSite.root.singleSitePartRules.slateRef>
-  
+
+  <VFEI2_Util_GenerateSite.root.singleSitePartRules.slateRef>
+    <rulesStrings>
+      <li>root->existem (*Threat)[count] colmeias insectoides(/Threat)</li>
+    </rulesStrings>
+  </VFEI2_Util_GenerateSite.root.singleSitePartRules.slateRef>
+
 </LanguageData>
