@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Vanilla Factions Expanded - Insectoids 2</li>
+        </mods>
+        <match Class="PatchOperationAdd">
+            <xpath>Defs</xpath>
+            <value>
+                <ThingDef ParentName="VFEI2_InsectoidWallBase">
+                    <defName>VFEI_BurrowWall</defName>
+                    <label>parede de toca</label>
+                    <description>Uma mistura compacta de terra, rocha e secreção de insetos.</description>
+                    <uiIconPath>Things/Building/Linked/BurrowWall_MenuIcon</uiIconPath>
+                    <graphicData>
+                        <texPath>Things/Building/Linked/BurrowWall_Atlas</texPath>
+                        <graphicClass>Graphic_Single</graphicClass>
+                        <linkType>CornerFiller</linkType>
+                        <linkFlags Inherit="false">
+                            <li>BurrowWall</li>
+                        </linkFlags>
+                    </graphicData>
+                    <statBases>
+                        <MaxHitPoints>60</MaxHitPoints>
+                        <WorkToBuild>3500</WorkToBuild>
+                        <Flammability>0.4</Flammability>
+                        <Beauty>-3</Beauty>
+                    </statBases>
+                    <building>
+                        <blueprintGraphicData>
+                            <texPath>Things/Building/Linked/WallHive_Blueprint_Atlas</texPath>
+                        </blueprintGraphicData>
+                        <destroySound>BurrowWall_Destroyed</destroySound>
+                    </building>
+                    <researchPrerequisites>
+                        <li>VFEI2_StandardHivetech</li>
+                    </researchPrerequisites>
+                    <uiOrder>2000</uiOrder>
+                    <comps>
+                        <li Class="VFEInsectoids.CompProperties_OnDestroyWall">
+                            <filthSpawnAmount>2~3</filthSpawnAmount>
+                            <radius>1.5</radius>
+                            <filth>Filth_BloodInsect</filth>
+                            <chaining>true</chaining>
+                        </li>
+                    </comps>
+                </ThingDef>
+            </value>
+        </match>
+    </Operation>
+
+</Patch>
