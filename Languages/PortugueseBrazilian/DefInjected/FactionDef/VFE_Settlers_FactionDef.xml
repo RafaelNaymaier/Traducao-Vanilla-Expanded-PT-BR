@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFES_PlayerSettlement.label>Novo Esconderijo</VFES_PlayerSettlement.label>
+  
+  <VFES_PlayerSettlement.description>Um pequeno esconderijo de membros de gangue e criminosos.</VFES_PlayerSettlement.description>
+  
+  <VFES_PlayerSettlement.leaderTitle>líder</VFES_PlayerSettlement.leaderTitle>
+  
+  <VFES_PlayerSettlement.messageDefendersAttacking>{0} de {1} estão atacando seu {2}.</VFES_PlayerSettlement.messageDefendersAttacking>
+  
+  <VFES_PlayerSettlement.pawnSingular>bandido</VFES_PlayerSettlement.pawnSingular>
+  
+  <VFES_PlayerSettlement.pawnsPlural>bandidos</VFES_PlayerSettlement.pawnsPlural>
+
+  <SettlerCivil.label>colonos civis</SettlerCivil.label>
+  <SettlerCivil.description>Estas pessoas vivem aqui há décadas ou séculos e perderam a maior parte da tecnologia que as trouxe a este mundo. Elas são mais do que capazes de se defender com armas de pólvora básicas enquanto seguem sua rotina diária de pastorear gado, beber destilado químico e caçar recompensas.\n\nElas se preocupam com questões práticas de comércio, confiança e sobrevivência.\n\nEste grupo em particular valoriza muito o comportamento civilizado.</SettlerCivil.description>
+  <SettlerCivil.leaderTitle>prefeito</SettlerCivil.leaderTitle>
+  <SettlerCivil.messageDefendersAttacking>{0} de {1} estão atacando seu {2}.</SettlerCivil.messageDefendersAttacking>
+  <SettlerCivil.pawnSingular>colono</SettlerCivil.pawnSingular>
+  <SettlerCivil.pawnsPlural>colonos</SettlerCivil.pawnsPlural>
+  
+  <SettlerRough.label>colonos brutos</SettlerRough.label>
+  <SettlerRough.description>Estas pessoas vivem aqui há décadas ou séculos e perderam a maior parte da tecnologia que as trouxe a este mundo. Elas são mais do que capazes de se defender com armas de pólvora básicas enquanto seguem sua rotina diária de pastorear gado, beber destilado químico e caçar recompensas.\n\nElas não se preocupam com questões práticas de comércio e confiança.\n\nEste grupo em particular acredita que ninguém nasce igual, e apenas a força permite que alguém sobreviva na fronteira.</SettlerRough.description>
+  <SettlerRough.leaderTitle>prefeito</SettlerRough.leaderTitle>
+  <SettlerRough.messageDefendersAttacking>{0} de {1} estão atacando seu {2}.</SettlerRough.messageDefendersAttacking>
+  <SettlerRough.pawnSingular>colono</SettlerRough.pawnSingular>
+  <SettlerRough.pawnsPlural>colonos</SettlerRough.pawnsPlural>
+  
+  <SettlerSavage.label>bandidos</SettlerSavage.label>
+  <SettlerSavage.description>Estas pessoas vivem aqui há décadas ou séculos e perderam a maior parte da tecnologia que as trouxe a este mundo. Elas são uma confederação frouxa de gangues de bandidos que concordaram em lutar principalmente contra forasteiros em vez de lutarem entre si.\n\nBandidos não semeiam, não constroem e raramente negociam. Movidos por uma cultura de sangue e honra que valoriza a força pessoal e a crueldade, eles enriquecem saqueando e roubando seus vizinhos mais produtivos.</SettlerSavage.description>
+  <SettlerSavage.leaderTitle>prefeito</SettlerSavage.leaderTitle>
+  <SettlerSavage.messageDefendersAttacking>{0} de {1} estão atacando seu {2}.</SettlerSavage.messageDefendersAttacking>
+  <SettlerSavage.pawnSingular>colono</SettlerSavage.pawnSingular>
+  <SettlerSavage.pawnsPlural>colonos</SettlerSavage.pawnsPlural>
+  
+</LanguageData>

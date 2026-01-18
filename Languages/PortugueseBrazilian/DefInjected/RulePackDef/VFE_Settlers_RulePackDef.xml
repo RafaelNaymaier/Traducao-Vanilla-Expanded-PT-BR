@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <NamerWantedNickname.rulePack.rulesStrings>
+    <li>defaultWantedNick->[wantedNoun], o [wantedAdj]</li>
+    <li>defaultWantedNick->[wantedNoun], a [wantedAdj]</li>
+  </NamerWantedNickname.rulePack.rulesStrings>
+
+  <NamerFactionBandits.rulePack.rulesStrings>
+    <li>r_name->Os Bandidos do [TerrainFeature] [Color]</li>
+    <li>r_name->A Gangue do [TerrainFeature] [Color]</li>
+  </NamerFactionBandits.rulePack.rulesStrings>
+  
+  <NamerFactionSettler.rulePack.rulesStrings>
+    <li>r_name->O Assentamento do [TerrainFeature] [Color]</li>
+    <li>r_name->A Vila do [TerrainFeature] [Color]</li>
+  </NamerFactionSettler.rulePack.rulesStrings>
+  
+</LanguageData>

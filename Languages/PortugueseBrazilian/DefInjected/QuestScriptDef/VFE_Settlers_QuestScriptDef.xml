@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFES_CaravanRaid.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos enviou uma mensagem. Ao que parece, [siteFaction_pawnsPlural] estão descansando com suas feras antes de continuarem a jornada.\n\n[asker_nameDef] nos deu a localização deles; se quisermos, podemos ir atacá-los.</li>
+  </VFES_CaravanRaid.questDescriptionRules.rulesStrings>
+
+  <VFES_CaravanRaid.questNameRules.rulesStrings>
+    <li>questName->Caravana [raid]</li>
+    <li>questName->[asker_nameDef] e a Caravana [raid]</li>
+    <li>raid->Saqueada</li>
+    <li>raid->Atacada</li>
+    <li>raid->Emboscada</li>
+  </VFES_CaravanRaid.questNameRules.rulesStrings>
+
+  <VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Missão expirada: [resolvedQuestName]</VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+
+  <VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Os [siteFaction_pawnsPlural] arrumaram suas coisas e partiram. A missão [resolvedQuestName] expirou.</VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+  <VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Missão falhou: [resolvedQuestName]</VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+
+  <VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Após serem descobertos, os [siteFaction_pawnsPlural] foram embora. A missão [resolvedQuestName] terminou.</VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+  
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings>
+    <li>questName->Recompensa: [nameFull] [nickname]</li>
+    <li>questName->Procurado, Vivo ou Morto: [nickname]</li>
+    <li>questName->Os bandoleiros de [nickname]</li>
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name] nos contatou. Ao que parece, o notório [criminal_nameFull] de [siteFaction_name] está escondido em nossa vizinhança.\n\n[asker_nameDef] está pedindo para levarmos [nickname] a um de seus assentamentos por uma grande quantia de [bounty] pratas — o dobro se estiver vivo. Eles estão escondidos em um esconderijo seguro e provavelmente está guardado.\n\nSe eliminarmos o acampamento deles, [allRewardsDescriptions]</li>
+  </VFES_Wanted.questDescriptionAndNameRules.rulesStrings>
+
+  <VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Missão expirada: [resolvedQuestName]</VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+
+  <VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>[criminal_nameFull] soube que sua posição foi comprometida e decidiu deixar a área. A missão [resolvedQuestName] expirou.</VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+  <VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Missão falhou: [resolvedQuestName]</VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+
+  <VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Os bandoleiros arrumaram as coisas e partiram.</VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+
+  <VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>Pagamento recebido</VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
+
+  <VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>Você derrotou [criminal_nameFull] e eliminou o acampamento!\n\nA recompensa bônus de [asker_faction_name] chegou.</VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
+  
+</LanguageData>

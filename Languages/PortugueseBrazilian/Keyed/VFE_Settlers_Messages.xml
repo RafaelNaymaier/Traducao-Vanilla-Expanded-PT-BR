@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CaravanRaidLabel>Saquear caravana de {0}</CaravanRaidLabel>
+  <CaravanRaidDialogue>Você recebeu informações de que uma caravana de {0} montou acampamento nas proximidades. Agora seria um bom momento para saqueá-la, mas esteja ciente de que caravanas geralmente estão guardadas.</CaravanRaidDialogue>
+  
+  <WantedLabel>Procurado por {0}</WantedLabel>
+  <WantedDialogue>{0} ofereceu uma recompensa por {PAWN_nameDef}, um criminoso vil com muitas atrocidades em seu nome. {PAWN_nameDef} de {1} é procurado por {2} pratas se entregue morto, e o dobro se entregue vivo em um dos assentamentos de {0}.</WantedDialogue>
+  
+  <WantedTurnIn>Entregar {PAWN_nameDef}</WantedTurnIn>
+  <WantedTurnInDescDead>Entregar o cadáver de {PAWN_nameDef} por uma recompensa.</WantedTurnInDescDead>
+  <WantedTurnInDescAlive>Entregar o criminoso {PAWN_nameDef} por uma recompensa.</WantedTurnInDescAlive>
+  <WantedTurnInLabel>{PAWN_nameDef} entregue.</WantedTurnInLabel>
+  <WantedTurnInMessageDead>Você entregou o cadáver de {PAWN_nameDef} por {0} pratas.</WantedTurnInMessageDead>
+  <WantedTurnInMessageAlive>Você entregou o criminoso {PAWN_nameDef} vivo por {0} pratas.</WantedTurnInMessageAlive>
+  
+  <WantedHediff>Procurado por {0} por {1} pratas</WantedHediff>
+  
+  <DefaultSettings>Configurações Padrão</DefaultSettings>
+  <MinReward>Recompensa mínima: {0}</MinReward>
+  <MaxReward>Recompensa máxima: {0}</MaxReward>
+  <Chemsined>Muffalos devem buscar seu destilado químico: {0}</Chemsined>
+  
+  <ProtectionFeeLabel>Taxa de proteção</ProtectionFeeLabel>
+  <ProtectionFeeDialogue>Um bando de bandidos enviados por {0} contatou você das proximidades. \n\n Eles oferecem manter sua colônia a salvo de quaisquer ameaças, até mesmo as causadas por eles, desde que você pague uma taxa de {1} pratas. \n\n Esteja avisado: a recusa pode enfurecê-los.</ProtectionFeeDialogue>
+  <ProtectionFeeAgree>Aceitar a oferta e pagar</ProtectionFeeAgree>
+  <ProtectionFeeAgreeDialogue>Os bandidos de {0} parecem satisfeitos com o acordo e encerraram a comunicação.</ProtectionFeeAgreeDialogue>
+  <ProtectionFeeDisagree>Recusar a oferta</ProtectionFeeDisagree>
+  <ProtectionFeeDisagreeDialogue>Os bandidos de {0} parecem felizes com sua recusa e encerraram a comunicação logo após garantirem que não podem assegurar sua segurança.</ProtectionFeeDisagreeDialogue>
+  <ProtectionFeeNotEnoughSilver>Prata insuficiente</ProtectionFeeNotEnoughSilver>
+  
+  <DrunkMuffaloTitle>Muffalos Alcoolizados</DrunkMuffaloTitle>
+  <DrunkMuffaloMessage>Um pequeno rebanho de muffalos chegou à área. Parece que eles encontraram um estoque secreto de destilado químico antes, o que os fez desejar ainda mais. Cuidado com suas palhaçadas de bêbados.</DrunkMuffaloMessage>
+
+  <ContainsChemfuel>Contém {0} / {1} de combustível químico.</ContainsChemfuel>
+  <ContainsChemshine>Contém {0} / {1} de destilado químico.</ContainsChemshine>
+  <NoChemfuel>precisa de combustível químico</NoChemfuel>
+
+  <VFES_InsertFirstItemDesc>Combustível químico</VFES_InsertFirstItemDesc>
+  <VFES_bringIngredientsText>Trazer combustível químico</VFES_bringIngredientsText>
+  <VFES_bringIngredientsDesc>Trazer combustível químico para o barril de destilado para iniciar a fermentação</VFES_bringIngredientsDesc>
+  <VFES_cancelIngredientsText>Cancelar envio de combustível</VFES_cancelIngredientsText>
+  <VFES_cancelIngredientsDesc>Cancela o transporte de combustível químico para o barril.</VFES_cancelIngredientsDesc>
+  <VFES_removeProductText>Remover destilado químico</VFES_removeProductText>
+  <VFES_removeProductDesc>Remove o destilado químico do barril.</VFES_removeProductDesc>
+
+  <VFES_Target>Alvo da recompensa</VFES_Target>
+  <VFES_TargetDesc>O alvo da recompensa, {0}, foi localizado neste posto avançado.</VFES_TargetDesc>
+</LanguageData>
