@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VQEA_ArchiteInjectionTitle>Injeção de Arquitas</VQEA_ArchiteInjectionTitle>
+  <VQEA_ArchiteInjection_MainDesc>{PAWN} receberá uma injeção de arquitas voláteis, fazendo com que desenvolva um gene de arquita aleatório. O processo é perigoso e pode causar o desenvolvimento de genes indesejados aleatórios, rejeição ou até uma mutação drástica. Obtenha mais equipamentos de laboratório de arquitas antigos para melhorar o processo.</VQEA_ArchiteInjection_MainDesc>
+  <VQEA_ExpectedInfusionDuration>Duração esperada da infusão</VQEA_ExpectedInfusionDuration>
+  <VQEA_InfusionComaDuration>Duração do coma de infusão</VQEA_InfusionComaDuration>
+  <VQEA_PawnGeneticComplexity>Complexidade genética de {0}</VQEA_PawnGeneticComplexity>
+  <VQEA_PatientGownBonus>Chance de sucesso aumentada devido à camisola de paciente.</VQEA_PatientGownBonus>
+  <VQEA_ExpectedMetabolismSideEffect>Eficiência metabólica esperada do gene de efeito colateral</VQEA_ExpectedMetabolismSideEffect>
+  <VQEA_SuccessChance>Chance de sucesso</VQEA_SuccessChance>
+  <VQEA_RejectionChance>Chance de rejeição</VQEA_RejectionChance>
+  <VQEA_SplicelingChance>Chance de mutação em emendadinho</VQEA_SplicelingChance>
+  <VQEA_SplicehulkChance>Chance de mutação em emendado colossal</VQEA_SplicehulkChance>
+  <VQEA_SplicefiendChance>Chance de mutação em emendado demoníaco</VQEA_SplicefiendChance>
+  <VQEA_CompleteMoreAncientLabQuests>Você pode completar mais missões de laboratórios antigos para encontrar e saquear mais equipamentos. Cada peça do laboratório fornece benefícios únicos que melhorarão as chances de uma injeção bem-sucedida.</VQEA_CompleteMoreAncientLabQuests>
+  <VQEA_LinkedLabEquipment>Equipamento de Laboratório Vinculado</VQEA_LinkedLabEquipment>
+  <VQEA_RequiresArchiteCapsule>O processo requer 1 cápsula de arquita disponível.</VQEA_RequiresArchiteCapsule>
+  <VQEA_AvailableArchiteCapsules>Cápsulas de arquita disponíveis no estoque: {0}</VQEA_AvailableArchiteCapsules>
+  <VQEA_Inject>Injetar</VQEA_Inject>
+  <VQEA_Days>{0} dias</VQEA_Days>
+  <VQEA_Metabolism>{0} de metabolismo</VQEA_Metabolism>
+
+  <VQEA_StartInjection>Iniciar processo de injeção</VQEA_StartInjection>
+  <VQEA_StartInjectionDesc>Inicializa o injetor arquogenético, permitindo que uma pessoa seja inserida.</VQEA_StartInjectionDesc>
+  <VQEA_InsertPerson>Inserir pessoa</VQEA_InsertPerson>
+  <VQEA_InsertPersonDesc>Insere uma pessoa no injetor arquogenético. Seu material genético será injetado com arquitas caóticas, o que causará mutações genéticas aleatórias com chance de formar um gene de arquita, além de outros xenogenes aleatórios.\n\nA injeção de arquitas é um processo doloroso e forçará o indivíduo a um coma temporário enquanto o organismo se adapta à nova composição genética.</VQEA_InsertPersonDesc>
+  <VQEA_InsertPersonIntoWonderdocDesc>Insere a pessoa no curatudo antigo. Ela passará pelo procedimento selecionado, mas com risco de mau funcionamento.</VQEA_InsertPersonIntoWonderdocDesc>
+
+  <VQEA_LetterLabel_Success>Injeção arquogenética: sucesso</VQEA_LetterLabel_Success>
+  <VQEA_LetterDesc_Success>A injeção de arquitas foi bem-sucedida.\n\n{PAWN_nameDef} recebeu a injeção de arquitas voláteis e ganhou um novo gene de arquita: {ARCHITEGENE_label}.\n\nComo efeito colateral, {PAWN_nameDef} também desenvolveu um gene adicional: {SIDEEFFECTGENE_label}.\n\n{PAWN_pronoun} agora entrará em um coma de injeção enquanto seu corpo se adapta à nova composição genética.</VQEA_LetterDesc_Success>
+  <VQEA_LetterDesc_SuccessNoSideEffect>A injeção de arquitas foi bem-sucedida.\n\n{PAWN_nameDef} recebeu a injeção de arquitas voláteis e ganhou um novo gene de arquita: {ARCHITEGENE_label}.\n\n{PAWN_pronoun} agora entrará em um coma de injeção enquanto seu corpo se adapta à nova composição genética.</VQEA_LetterDesc_SuccessNoSideEffect>
+  <VQEA_LetterLabel_Rejection>Injeção arquogenética: rejeição</VQEA_LetterLabel_Rejection>
+  <VQEA_LetterDesc_Rejection>A injeção de arquitas foi rejeitada.\n\n{PAWN_nameDef} recebeu a injeção de arquitas voláteis, mas seu corpo rejeitou as alterações na composição genética.\n\n{PAWN_pronoun} agora entrará em um coma de injeção enquanto seu corpo se recupera.</VQEA_LetterDesc_Rejection>
+  <VQEA_LetterLabel_Mutation>Injeção arquogenética: mutação</VQEA_LetterLabel_Mutation>
+  <VQEA_LetterDesc_Mutation>A injeção de arquitas causou uma mutação!\n\n{PAWN_nameDef} recebeu a injeção de arquitas voláteis, mas seu corpo reagiu mal à evolução forçada, transformando-{PAWN_objective} em um mutante.\n\n{PAWN_pronoun} emergiu do injetor arquogenético e destruirá todo o equipamento de laboratório que encontrar em uma fúria cega e animalesca.\n\nVocê pode tentar detê-{PAWN_objective} ou deixá-{PAWN_objective} partir.</VQEA_LetterDesc_Mutation>
+
+  <VQEA_ExperimentJoinsLetterLabel>Experimento se une: {PAWN_nameDef}</VQEA_ExperimentJoinsLetterLabel>
+  <VQEA_ExperimentJoinsLetterDescription>O {PAWN_title} conhecido como {PAWN_nameDef} emergiu de um sarcófago de criptosono enferrujado, vestindo nada além de uma fina camisola de paciente. Ele se une imediatamente à sua colônia.\n\n{PAWN_nameFull} é conhecido como um paciente ideal. Seu corpo aceita cada injeção de arquita sem risco de rejeição, como se suas células tivessem sido feitas para se adaptarem a mudanças genéticas. Isso o torna excepcionalmente adequado para experimentos com tecnologia avançada de arquitas — na verdade, ele já passou por alguns experimentos antes, pois carrega diversos genes de arquita.\n\n{PAWN_labelShort} também sofre de uma doença rara chamada Síndrome de Hemocolapso. Seu sangue falha lentamente ao longo do tempo, deixando-o mais fraco a cada dia que passa. Cuidados e tratamentos podem retardar a doença, mas ela não pode ser curada e, no fim, tirará sua vida.</VQEA_ExperimentJoinsLetterDescription>
+
+  <VQEA_ArchogenInjectorWaitingForCapsule>Aguardando cápsula de arquita.</VQEA_ArchogenInjectorWaitingForCapsule>
+  <VQEA_ArchogenInjectorWaitingForPawn>Aguardando pessoa.</VQEA_ArchogenInjectorWaitingForPawn>
+  <VQEA_ArchogenInjectorPawnInside>Colono no interior, aguardando confirmação da injeção</VQEA_ArchogenInjectorPawnInside>
+  <VQEA_ArchogenInjectorInjecting>Injetando. Tempo restante: {0}</VQEA_ArchogenInjectorInjecting>
+  <VQEA_ArchogenInjectorNotInit>O processo do injetor arquogenético não foi iniciado.</VQEA_ArchogenInjectorNotInit>
+  <VQEA_ArchogenInjectorOccupied>O Injetor Arquogenético está ocupado.</VQEA_ArchogenInjectorOccupied>
+  <VQEA_ArchogenInjectorComplete>Injeção concluída.</VQEA_ArchogenInjectorComplete>
+  <VQEA_NoArchiteCapsules>Nenhuma cápsula de arquita disponível.</VQEA_NoArchiteCapsules>
+  <VQEA_HasInjectionComa>Em coma de injeção.</VQEA_HasInjectionComa>
+  <VQEA_ChooseGenesTitle>Escolher genes</VQEA_ChooseGenesTitle>
+  <VQEA_MustSelectGenes>Você deve selecionar um gene de cada categoria.</VQEA_MustSelectGenes>
+  <VQEA_MustSelectArchiteGene>Você deve selecionar um gene de arquita.</VQEA_MustSelectArchiteGene>
+  <VQEA_MustSelectSideEffectGene>Você deve selecionar um gene de efeito colateral.</VQEA_MustSelectSideEffectGene>
+  <VQEA_AddsBurningPassionIn>Adiciona paixão ardente em {0_label}.</VQEA_AddsBurningPassionIn>
+  <VQEA_ArchiteGenes>Genes de arquita</VQEA_ArchiteGenes>
+  <VQEA_NoArchiteGenes>Nenhum gene de arquita disponível.</VQEA_NoArchiteGenes>
+  <VQEA_SideEffectGenes>Genes de efeito colateral</VQEA_SideEffectGenes>
+  <VQEA_NoSideEffectGenes>Nenhum gene de efeito colateral disponível.</VQEA_NoSideEffectGenes>
+  <VQEA_ChooseArchiteGene>Escolha um gene de arquita</VQEA_ChooseArchiteGene>
+  <VQEA_ChooseSideEffectGene>Escolha um gene de efeito colateral</VQEA_ChooseSideEffectGene>
+  <VQEA_NoInjectablePawns>Nenhum colono disponível para injeção.</VQEA_NoInjectablePawns>
+
+  <VQEA_TextMote_ExceededExpectations>Excedeu as expectativas</VQEA_TextMote_ExceededExpectations>
+  <VQEA_TextMote_MedicinePreserved>Medicamento preservado</VQEA_TextMote_MedicinePreserved>
+  <VQEA_PawnRecruitable>{0} não é mais inabalavelmente leal devido ao gene {2} de {1}.</VQEA_PawnRecruitable>
+
+  <VQEA_Override>Sobrescrever</VQEA_Override>
+  <VQEA_OverrideDesc>Selecione um colono para sobrescrever a junção de tubulação antiga, extraindo uma grande quantidade de combustível químico dela. A junção precisará de tempo antes de poder ser hackeada novamente.</VQEA_OverrideDesc>
+  <VQEA_OverrideDesc_Generic>Selecione um colono para sobrescrever a segurança disto.</VQEA_OverrideDesc_Generic>
+  <VQEA_OverrideDesc_Queue>Ordene que este recipiente seja aberto sobrescrevendo sua segurança.</VQEA_OverrideDesc_Queue>
+  <VQEA_CancelOverride>Cancelar sobrescrita</VQEA_CancelOverride>
+  <VQEA_CancelOverrideDesc>Cancela a sobrescrita deste edifício.</VQEA_CancelOverrideDesc>
+  <VQEA_LockedAncientVaultDoor>Esta porta de cofre antiga está trancada.</VQEA_LockedAncientVaultDoor>
+  <VQEA_InterceptBroadcast>Interceptar transmissão</VQEA_InterceptBroadcast>
+  <VQEA_InterceptBroadcastDesc>Intercepta a transmissão para descobrir a localização de outro laboratório para o qual a transmissão é direcionada.</VQEA_InterceptBroadcastDesc>
+  <VQEA_CarryToBioBattery>Levar {0} para a biobateria</VQEA_CarryToBioBattery>
+  <VQEA_MassLeft>Massa Restante: {0} / {1} ({2})</VQEA_MassLeft>
+
+  <VQEA_LoadCargo>Carregar carga</VQEA_LoadCargo>
+  <VQEA_LoadCargoDesc>Carrega carga em uma cápsula que será enviada para algum outro cofre distante.</VQEA_LoadCargoDesc>
+  <VQEA_LaunchCapsule>Lançar cápsula</VQEA_LaunchCapsule>
+  <VQEA_LaunchCapsuleDesc>Lança a cápsula com carga pelo sistema pneumático. Você pode receber mercadorias de outro cofre em troca.</VQEA_LaunchCapsuleDesc>
+  <VQEA_PneumaticCapsuleReady>A cápsula pneumática está totalmente carregada e pronta para ser enviada.</VQEA_PneumaticCapsuleReady>
+  <VQEA_PneumaticCapsuleArrived>Uma cápsula pneumática de outro cofre chegou.</VQEA_PneumaticCapsuleArrived>
+  <VQEA_PneumaticTubeReturning>Uma cápsula pneumática está retornando.</VQEA_PneumaticTubeReturning>
+  <VQEA_MessageCantLoadMoreIntoPneumaticTube>Seu {1} não consegue terminar de carregar a cápsula pneumática porque alguns itens ficaram indisponíveis ({2_labelShort}).</VQEA_MessageCantLoadMoreIntoPneumaticTube>
+  <VQE_EnterVault>Entrar no cofre</VQE_EnterVault>
+  <VQE_ExitVault>Sair do cofre</VQE_ExitVault>
+  <VQE_ViewVault>Ver cofre</VQE_ViewVault>
+  <VQE_ViewVaultDesc>Veja o interior do cofre de destino</VQE_ViewVaultDesc>
+
+  <VQEA_WonderdocContains>Contém: {0}</VQEA_WonderdocContains>
+  <VQEA_WonderdocCycle>Ciclo: {0}</VQEA_WonderdocCycle>
+  <VQEA_WonderdocTimeRemaining>Tempo restante: {0}</VQEA_WonderdocTimeRemaining>
+  <VQEA_WonderdocBioregenerationSuccess>{PAWN_nameDef} concluiu com sucesso seu ciclo-milagroso de biorregeneração no curatudo.</VQEA_WonderdocBioregenerationSuccess>
+  <VQEA_WonderdocInstarehabSuccess>{PAWN_nameDef} concluiu com sucesso seu ciclo-milagroso de reabilitação instantânea no curatudo.</VQEA_WonderdocInstarehabSuccess>
+  <VQEA_WonderdocTimeReversalSuccess>{PAWN_nameDef} concluiu com sucesso seu ciclo-milagroso de reversão temporal no curatudo.</VQEA_WonderdocTimeReversalSuccess>
+  <VQEA_WonderdocSkillReformattingSuccess>{PAWN_nameDef} concluiu com sucesso seu ciclo-milagroso de reformatação de habilidades no curatudo.</VQEA_WonderdocSkillReformattingSuccess>
+  <VQEA_WonderdocMalfunction>O curatudo antigo sofreu um mau funcionamento durante o ciclo-milagroso em {PAWN_nameDef}.</VQEA_WonderdocMalfunction>
+  <VQEA_ChanceToMalfunction>Chance de mau funcionamento: {0}</VQEA_ChanceToMalfunction>
+  <VQEA_WonderdocOccupied>O Wonderdoc está ocupado.</VQEA_WonderdocOccupied>
+  <VQEA_NoPawnsAvailableForWonderdoc>Nenhum colono disponível para o curatudo.</VQEA_NoPawnsAvailableForWonderdoc>
+</LanguageData>

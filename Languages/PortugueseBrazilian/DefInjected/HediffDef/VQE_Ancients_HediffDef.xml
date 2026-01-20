@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VQEA_Bulwark.label>baluarte</VQEA_Bulwark.label>
+  <VQEA_Bulwark.description>Arquitas nos tecidos reforçam as estruturas celulares, reduzindo o dano recebido pela metade. Receptores de dor são atenuados em favor da consciência de combate, permitindo que o corpo resista a traumas que incapacitariam um humano comum.</VQEA_Bulwark.description>
+  
+  <VQEA_Enormous.label>enorme</VQEA_Enormous.label>
+  <VQEA_Enormous.description>Portadores deste gene são saturados com arquitas reguladores de crescimento que aumentam massivamente o tamanho corporal e a massa muscular. A estrutura imensa permite feitos de força bruta ao custo de velocidade e apetite.</VQEA_Enormous.description>
+  
+  <VQEA_HemocollapseSyndrome.label>síndrome de hemocolapso</VQEA_HemocollapseSyndrome.label>
+  <VQEA_HemocollapseSyndrome.description>Distúrbio raro e terminal onde a medula óssea falha gradualmente na produção de componentes vitais de hemogênio. O corpo enfraquece e os órgãos sofrem estresse, eventualmente levando à morte.</VQEA_HemocollapseSyndrome.description>
+  <VQEA_HemocollapseSyndrome.stages.latent.label>latente</VQEA_HemocollapseSyndrome.stages.latent.label>
+  <VQEA_HemocollapseSyndrome.stages.progressive.label>progressivo</VQEA_HemocollapseSyndrome.stages.progressive.label>
+  <VQEA_HemocollapseSyndrome.stages.advanced.label>avançado</VQEA_HemocollapseSyndrome.stages.advanced.label>
+  <VQEA_HemocollapseSyndrome.stages.terminal.label>terminal</VQEA_HemocollapseSyndrome.stages.terminal.label>
+  
+  <VQEA_InjectionComa.label>coma de injeção</VQEA_InjectionComa.label>
+  <VQEA_InjectionComa.description>Resultado de uma injeção de arquitas. Os arquitas injetados reescrevem ativamente a composição genética, alterando tecidos e a química celular. Durante este processo, o corpo não pode funcionar com segurança, permanecendo em coma profundo.\n\nA duração deste coma pode ser reduzida com equipamentos laboratoriais avançados.</VQEA_InjectionComa.description>
+  
+  <VQEA_Invisibility.label>invisibilidade</VQEA_Invisibility.label>
+  <VQEA_Invisibility.description>Uso de sugestão psíquica para tornar-se invisível por uma curta duração.</VQEA_Invisibility.description>
+  
+  <VQEA_Levitation.label>levitação</VQEA_Levitation.label>
+  <VQEA_Levitation.description>Voo limitado que permite levitar sobre o terreno. Custos de movimento de terreno são ignorados ao se deslocar.</VQEA_Levitation.description>
+  
+  <VQEA_MasterfulIntellectual.label>domínio intelectual</VQEA_MasterfulIntellectual.label>
+  <VQEA_MasterfulIntellectual.description>Condução de pesquisas de forma subconsciente, gerando progresso científico constante mesmo durante outras tarefas ou repouso.</VQEA_MasterfulIntellectual.description>
+  
+  <VQEA_MatterPhasing.label>faseamento de matéria</VQEA_MatterPhasing.label>
+  <VQEA_MatterPhasing.description>Estado intangível que permite passar através de paredes antes da solidificação.</VQEA_MatterPhasing.description>
+  
+  <VQEA_NoPain.label>insensibilidade à dor</VQEA_NoPain.label>
+  <VQEA_NoPain.description>Sensibilidade à dor reduzida, levando mais tempo para incapacitação por dor.</VQEA_NoPain.description>
+  
+  <VQEA_PassiveMeditation.label>meditação passiva</VQEA_PassiveMeditation.label>
+  <VQEA_PassiveMeditation.description>Portadores deste gene possuem arquitas que canalizam energia psíquica ambiente, reabastecendo o foco psíquico sem necessidade de meditação ativa.</VQEA_PassiveMeditation.description>
+  
+  <VQEA_PlasteelClaws.label>garra de plastiaço</VQEA_PlasteelClaws.label>
+  <VQEA_PlasteelClaws.description>Portadores deste gene desenvolvem garras de liga sintética capazes de fatiar armaduras e carne. Estas armas naturais estão sempre equipadas e atacam com eficiência brutal.</VQEA_PlasteelClaws.description>
+  <VQEA_PlasteelClaws.comps.HediffComp_VerbGiver.tools.plasteel_claw.label>garra de plastiaço</VQEA_PlasteelClaws.comps.HediffComp_VerbGiver.tools.plasteel_claw.label>
+  
+  <VQEA_PlasteelSkin.label>pele de plastiaço</VQEA_PlasteelSkin.label>
+  <VQEA_PlasteelSkin.description>Portadores deste gene possuem armadura dérmica reforçada. A pele resiste a projéteis, absorve impactos e dispersa calor, transformando o corpo em um escudo vivo.</VQEA_PlasteelSkin.description>
+  
+  <VQEA_Regenerating.label>regenerando</VQEA_Regenerating.label>
+  <VQEA_Regenerating.description>Regeneração de feridas novas e antigas.</VQEA_Regenerating.description>
+  <VQEA_Regenerating.labelNounPretty>{0} no(a) {1}</VQEA_Regenerating.labelNounPretty>
+  
+  <VQEA_SelfRepairingTissue.label>tecido autorreparador</VQEA_SelfRepairingTissue.label>
+  <VQEA_SelfRepairingTissue.description>Tecido regenerativo que reconstrói células danificadas e restaura estruturas perdidas, permitindo a regeneração de órgãos e membros com o tempo.</VQEA_SelfRepairingTissue.description>
+  
+  <VQEA_SuicideHediff.label>morrendo</VQEA_SuicideHediff.label>
+  <VQEA_SuicideHediff.description>A criatura está morrendo.</VQEA_SuicideHediff.description>
+  
+  <VQEA_Woundless.label>imune a ferimentos</VQEA_Woundless.label>
+  <VQEA_Woundless.description>Cura quase instantânea de feridas hemorrágicas. A carne se sela logo após o dano, eliminando a perda de sangue e permitindo lutar apesar de traumas graves.</VQEA_Woundless.description>
+  
+</LanguageData>
