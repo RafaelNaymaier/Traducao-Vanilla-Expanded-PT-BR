@@ -37,7 +37,6 @@
     <li>adj->experimental</li>
     <li>adj->antigo</li>
     <li>adj->esquecido</li>
-    <li>adj->abandonado</li>
     <li>adj->fracassado</li>
     <li>adj->não comprovado</li>
     <li>adj->misterioso</li>
@@ -50,15 +49,14 @@
     <li>prototypeName->design</li>
     <li>prototypeName->projeto</li>
     <li>prototypeName->núcleo de energia</li>
-    <li>prototypeName->máquina</li>
+    <li>prototypeName->mecanismo</li>
     <li>prototypeName->conceito</li>
     <li>prototypeName->gerador</li>
-    <li>prototypeName->fonte de energia</li>
+    <li>prototypeName->ponto de energia</li>
     <li>prototypeName->dispositivo</li>
-    <li>prototypeName->criação</li>
     <li>prototypeName->artefato</li>
     <li>prototypeName->canteiro de testes</li>
-    <li>prototypeName->esqueleto</li>
+    <li>prototypeName->chassi</li>
   </VQE_PrototypeARC.questNameRules.rulesStrings>
 
   <VQE_AbandonedARC.questContentRules.rulesStrings>
@@ -139,13 +137,13 @@
     <li>constructionName->workshop</li>
     <li>constructionName->pátio de energia</li>
     <li>constructionName->local do gerador</li>
-    <li>constructionName->área de montagem</li>
-    <li>constructionName->instalação de teste</li>
+    <li>constructionName->setor de montagem</li>
+    <li>constructionName->centro de testes</li>
     <li>constructionName->vilarejo de trabalho</li>
     <li>constructionName->pátio de protótipos</li>
     <li>constructionName->centro de engenharia</li>
-    <li>constructionName->instalação de construção</li>
-    <li>constructionName->instalação ARC</li>
+    <li>constructionName->complexo de construção</li>
+    <li>constructionName->setor ARC</li>
     <li>constructionName->local do projeto de energia</li>
   </VQE_AbandonedARC.questNameRules.rulesStrings>
 
@@ -209,14 +207,14 @@
     <li>adj->perdido</li>
     <li>adj->tomado pela vegetação</li>
     <li>arcName(p=4)->ARC</li>
-    <li>arcName->estrutura</li>
+    <li>arcName->monumento</li>
     <li>arcName->maquinário</li>
     <li>arcName->relicário</li>
     <li>arcName->gerador</li>
     <li>arcName->núcleo</li>
     <li>arcName->artefato</li>
     <li>arcName->dispositivo</li>
-    <li>arcName->fonte</li>
+    <li>arcName->ponto de energia</li>
   </VQE_AncientARC.questNameRules.rulesStrings>
 
   <VQE_InventorShelter.questDescriptionRules.rulesStrings>
@@ -313,12 +311,12 @@
     <li>adj->dominado</li>
     <li>adj->perigoso</li>
     <li>arcName->Local do gerador ARC</li>
-    <li>arcName->Instalação de energia</li>
-    <li>arcName->Estação do gerador</li>
+    <li>arcName->Complexo de energia</li>
+    <li>arcName->Posto do gerador</li>
     <li>arcName->Núcleo industrial</li>
-    <li>arcName->Relíquia de energia</li>
-    <li>arcName->Ruínas de energia</li>
-    <li>arcName->Ruínas ARC</li>
+    <li>arcName->Ponto de energia</li>
+    <li>arcName->Setor de ruínas ARC</li>
+    <li>arcName->Antigo reator ARC</li>
     <li>arcName->Protótipo de gerador</li>
   </VQE_ArcSite.questNameRules.rulesStrings>
 
@@ -335,17 +333,17 @@
   <VQE_ArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterText.slateRef>Você derrotou o acampamento de bandidos!\n\nO pagamento de [asker_faction_name] chegou.</VQE_ArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterText.slateRef>
 
   <VQE_NuclearArcSite.questDescriptionRules.rulesStrings>
-    <li>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos enviou uma mensagem. Um grupo de [siteFaction_pawnsPlural] assumiu o controle de um local abandonado com uma carcaça de ARC nuclear. O acampamento está atualmente sob o controle de [siteFaction_name].\n\n[asker_nameDef] está solicitando que limpemos a área eliminando todos os inimigos e defesas. Assim que o local estiver seguro, teremos a oportunidade de estudar a carcaça do ARC nuclear e recuperar componentes valiosos de ARC. [asker_label] também menciona que [sitePart0_description]. [sitePart1_description]</li>
-    <li>questDescription(askerIsNull==true)->Recebemos informações de que um local abandonado com uma carcaça de ARC nuclear foi dominado por [siteFaction_pawnsPlural] de [siteFaction_name]. Os bandidos fortificaram sua posição e estão usando o local como esconderijo.\n\nProteger o local nos permitirá examinar a carcaça do ARC nuclear em busca de quaisquer dados de pesquisa restantes e componentes de ARC recuperáveis. Esteja preparado para resistência, pois os bandidos provavelmente estabeleceram defesas significativas. Além disso, [sitePart0_description]. [sitePart1_description]</li>
-    <li>sitePart0_description->a carcaça do ARC nuclear está cercada por vegetação, com grande parte de sua estrutura mostrando sinais de deterioração</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos enviou uma mensagem. Um grupo de [siteFaction_pawnsPlural] assumiu o controle de um local abandonado com um resto de ARC nuclear. O acampamento está atualmente sob o controle de [siteFaction_name].\n\n[asker_nameDef] está solicitando que limpemos a área eliminando todos os inimigos e defesas. Assim que o local estiver seguro, teremos a oportunidade de estudar o reator ARC nuclear e recuperar componentes valiosos de ARC. [asker_label] também menciona que [sitePart0_description]. [sitePart1_description]</li>
+    <li>questDescription(askerIsNull==true)->Recebemos informações de que um local abandonado com um resto de ARC nuclear foi dominado por [siteFaction_pawnsPlural] de [siteFaction_name]. Os bandidos fortificaram sua posição e estão usando o local como esconderijo.\n\nProteger o local nos permitirá examinar o reator ARC nuclear em busca de quaisquer dados de pesquisa restantes e componentes de ARC recuperáveis. Esteja preparado para resistência, pois os bandidos provavelmente estabeleceram defesas significativas. Além disso, [sitePart0_description]. [sitePart1_description]</li>
+    <li>sitePart0_description->o reator ARC nuclear está cercado por vegetação, com grande parte de sua estrutura mostrando sinais de deterioração</li>
     <li>sitePart0_description->os bandidos fortificaram pesadamente a área com barreiras e armadilhas improvisadas</li>
-    <li>sitePart0_description->a carcaça parece parcialmente intacta, prometendo espólios valiosos</li>
+    <li>sitePart0_description->o reator parece parcialmente intacto, prometendo espólios valiosos</li>
     <li>sitePart0_description->o local é uma mistura de ruínas industriais antigas e acampamentos de bandidos precários</li>
     <li>sitePart0_description->patrulhas hostis foram avistadas guardando o perímetro</li>
-    <li>sitePart0_description->os bandidos estão usando a carcaça do ARC para alimentar seu maquinário e armas rudimentares</li>
+    <li>sitePart0_description->os bandidos estão usando o reator ARC para alimentar seu maquinário e armas rudimentares</li>
     <li>sitePart1_description->Toda a área está coberta por precipitação tóxica, tornando a exposição prolongada perigosa sem o equipamento adequado.</li>
     <li>sitePart1_description->Uma espessa camada de precipitação tóxica paira sobre o local, criando um perigo adicional para quem tentar se aproximar.</li>
-    <li>sitePart1_description->A precipitação tóxica do antigo reator da carcaça do ARC envenenou a área, apresentando um perigo ambiental significativo.</li>
+    <li>sitePart1_description->A precipitação tóxica do antigo reator nuclear envenenou a área, apresentando um perigo ambiental significativo.</li>
     <li>sitePart1_description->O local está coberto por precipitação tóxica, tornando a sobrevivência sem equipamento de proteção extremamente difícil.</li>
     <li>sitePart1_description->Nuvens de resíduos perigosos encobrem a área, um lembrete sombrio do passado nuclear instável do ARC.</li>
   </VQE_NuclearArcSite.questDescriptionRules.rulesStrings>
@@ -356,19 +354,18 @@
     <li>adj->arruinado</li>
     <li>adj->ocupado por bandidos</li>
     <li>adj->esquecido</li>
-    <li>adj->abandonado</li>
     <li>adj->antigo</li>
     <li>adj->dominado</li>
     <li>adj->profanado</li>
     <li>adj->perigoso</li>
     <li>adj->oculto</li>
     <li>nuclearArcName->Local do ARC Nuclear</li>
-    <li>nuclearArcName->Carcaça de ARC</li>
-    <li>nuclearArcName->Restos do Reator</li>
-    <li>nuclearArcName->Ruínas do ARC</li>
-    <li>nuclearArcName->Relíquia de Gerador</li>
+    <li>nuclearArcName->Resto de ARC</li>
+    <li>nuclearArcName->Resto do Reator</li>
+    <li>nuclearArcName->Setor do ARC</li>
+    <li>nuclearArcName->Artefato de Gerador</li>
     <li>nuclearArcName->Núcleo do Reator</li>
-    <li>nuclearArcName->Carcaça de Energia</li>
+    <li>nuclearArcName->Resíduo de Energia</li>
     <li>nuclearArcName->Cofre de Energia</li>
     <li>nuclearArcName->Reator Abandonado</li>
     <li>nuclearArcName->Local do Gerador</li>
@@ -392,7 +389,7 @@
     <li>sitePart0_description->o local está parcialmente tomado pela vegetação, com remanescentes de seu maquinário original espalhados ao redor</li>
     <li>sitePart0_description->os bandidos reforçaram a área com barricadas rudimentares e postos de guarda</li>
     <li>sitePart0_description->o ARC geotérmico parece muito desgastado, mas intacto o suficiente para recuperar peças</li>
-    <li>sitePart0_description->a infraestrutura da instalação ainda está de pé, embora mostre sinais de desgaste significativo</li>
+    <li>sitePart0_description->a infraestrutura do complexo ainda está de pé, embora mostre sinais de desgaste significativo</li>
     <li>sitePart0_description->patrulhas hostis foram avistadas na área, garantindo que ninguém se aproxime sem ser desafiado</li>
     <li>sitePart0_description->os bandidos parecem estar utilizando o ARC para alimentar suas operações</li>
   </VQE_GeothermalArcSite.questDescriptionRules.rulesStrings>
@@ -412,16 +409,16 @@
     <li>arcType->ARC geotérmico</li>
     <li>arcType->gerador ARC</li>
     <li>arcType->núcleo geotérmico</li>
-    <li>arcType->estação ARC</li>
+    <li>arcType->setor ARC</li>
     <li>arcType->núcleo de energia</li>
-    <li>arcType->fonte de energia</li>
-    <li>arcType->usina geotérmica</li>
+    <li>arcType->ponto de energia</li>
+    <li>arcType->reator geotérmico</li>
     <li>siteType->Local</li>
-    <li>siteType->Instalação</li>
-    <li>siteType->Posto avançado</li>
     <li>siteType->Complexo</li>
+    <li>siteType->Posto avançado</li>
+    <li>siteType->Setor industrial</li>
     <li>siteType->Acampamento</li>
-    <li>siteType->Estação</li>
+    <li>siteType->Ponto de controle</li>
   </VQE_GeothermalArcSite.questNameRules.rulesStrings>
 
   <VQE_GeothermalArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Missão expirada: [resolvedQuestName]</VQE_GeothermalArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
