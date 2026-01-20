@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VQE_PrototypeARC.questContentRules.rulesStrings>
+    <li>terminalStudiedMessage->Terminal estudado. Você coletou as informações e agora pode sair.</li>
+  </VQE_PrototypeARC.questContentRules.rulesStrings>
+
+  <VQE_PrototypeARC.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], nos informou sobre um canteiro de obras antigo onde [inventor_nameFull] trabalhou certa vez em um protótipo de gerador massivo. O local parece abandonado e isolado, cercado pelos restos de um projeto há muito esquecido.\n\n[terminalDetails] Visitar este local pode render [potentialRewards]. [journeyDetails] [finalDetails]</li>
+    <li>questDescription(askerIsNull==True)->Descobrimos um antigo canteiro de obras onde [inventor_nameFull] estava trabalhando em um grande protótipo de gerador. O local fica em uma área remota, cercado pelas ruínas de um projeto inacabado.\n\n[terminalDetails] Explorar o local pode render [potentialRewards]. [journeyDetails] [finalDetails]</li>
+    <li>terminalDetails->Há um terminal ainda operacional contendo notas de pesquisa e esquemáticos do trabalho de [inventor_nameFull].</li>
+    <li>terminalDetails->Um terminal ativo contém logs de dados críticos e insights experimentais sobre a construção do gerador.</li>
+    <li>terminalDetails->O local contém um terminal que dizem ter projetos de design e avanços em pesquisas de energia.</li>
+    <li>terminalDetails->Sistemas antigos ainda zumbem fracamente, oferecendo um vislumbre do ambicioso protótipo de [inventor_nameFull].</li>
+    <li>terminalDetails->Um terminal danificado ainda pode conter dados sobre o protótipo ARC, mas sua condição é incerta.</li>
+    <li>potentialRewards->componentes raros, dados de pesquisa avançada e recursos valiosos</li>
+    <li>potentialRewards->materiais essenciais, esquemáticos de geradores e conhecimentos tecnológicos avançados</li>
+    <li>potentialRewards->conhecimento valioso, materiais de construção únicos e artefatos raros</li>
+    <li>potentialRewards->avanços críticos de pesquisa e uma abundância de materiais recuperáveis</li>
+    <li>potentialRewards->saques raros e pesquisas de energia potencialmente revolucionárias</li>
+    <li>journeyDetails->O local é distante e exigirá uma preparação cuidadosa para a viagem.</li>
+    <li>journeyDetails->A longa distância até o local torna a expedição desafiadora, mas potencialmente recompensadora.</li>
+    <li>journeyDetails->Viajar para o local exigirá tempo e recursos significativos.</li>
+    <li>journeyDetails->A jornada para este local remoto pode ser perigosa, mas vale o esforço.</li>
+    <li>journeyDetails->Sua localização remota sugere poucas ameaças imediatas, mas os suprimentos serão fundamentais.</li>
+    <li>finalDetails->Embora não sejam esperados perigos, a jornada em si apresenta riscos para colonos despreparados.</li>
+    <li>finalDetails->O local parece abandonado, mas recomenda-se cautela — seu isolamento pode esconder desafios inesperados.</li>
+    <li>finalDetails->A área parece desabitada, mas sua idade pode tornar a navegação e a sobrevivência difíceis.</li>
+    <li>finalDetails->Prepare-se para o pior enquanto espera pelo melhor — a oportunidade muitas vezes vem acompanhada de risco.</li>
+    <li>finalDetails->O isolamento pode proporcionar segurança, mas também deixa pouco espaço para erros caso surjam problemas.</li>
+  </VQE_PrototypeARC.questDescriptionRules.rulesStrings>
+
+  <VQE_PrototypeARC.questNameRules.rulesStrings>
+    <li>questName->O [prototypeName] [adj]</li>
+    <li>adj->inacabado</li>
+    <li>adj->abandonado</li>
+    <li>adj->experimental</li>
+    <li>adj->antigo</li>
+    <li>adj->esquecido</li>
+    <li>adj->abandonado</li>
+    <li>adj->fracassado</li>
+    <li>adj->não comprovado</li>
+    <li>adj->misterioso</li>
+    <li>adj->parcialmente concluído</li>
+    <li>adj->incompleto</li>
+    <li>adj->em estágio inicial</li>
+    <li>adj->oculto</li>
+    <li>prototypeName->protótipo</li>
+    <li>prototypeName->experimento</li>
+    <li>prototypeName->design</li>
+    <li>prototypeName->projeto</li>
+    <li>prototypeName->núcleo de energia</li>
+    <li>prototypeName->máquina</li>
+    <li>prototypeName->conceito</li>
+    <li>prototypeName->gerador</li>
+    <li>prototypeName->fonte de energia</li>
+    <li>prototypeName->dispositivo</li>
+    <li>prototypeName->criação</li>
+    <li>prototypeName->artefato</li>
+    <li>prototypeName->canteiro de testes</li>
+    <li>prototypeName->esqueleto</li>
+  </VQE_PrototypeARC.questNameRules.rulesStrings>
+
+  <VQE_AbandonedARC.questContentRules.rulesStrings>
+    <li>allObjectsStudiedMessage->Todos os objetos foram estudados. Você coletou as informações e agora pode sair.</li>
+    <li>halfOfObjectsDestroyedMessage->Mais da metade dos dados de pesquisa foram perdidos.</li>
+  </VQE_AbandonedARC.questContentRules.rulesStrings>
+
+  <VQE_AbandonedARC.questDescriptionRules.rulesStrings>
+    <li>questDescription->De acordo com os dados extraídos no antigo local do protótipo, conseguimos encontrar a localização de um complexo industrial [adj] onde a construção do [arcName] continuou. Esta instalação imensa já foi repleta de engenheiros e cientistas testando os limites da tecnologia, mas agora permanece em silêncio, tomada pela passagem do tempo.\n\nO local contém [siteDetails], mas agora está [siteThreat].\n\n[studyWarning] [questFailWarning]\n\nCompletar esta expedição com sucesso [questOutcome].</li>
+    <li>questDescription->Dados do local do protótipo revelaram as coordenadas de um pátio industrial [adj], onde o [arcName] foi desenvolvido por [inventor_nameFull] e sua equipe. A instalação se estende por uma vasta área, suas estruturas enferrujadas e paredes desmoronando sugerem sua antiga glória.\n\nDentro do complexo estão [siteDetails], mas [siteThreat] devem ser lidados antes que qualquer pesquisa significativa possa ser feita.\n\n[studyWarning] [questFailWarning]\n\nResolver esta tarefa [questOutcome].</li>
+    <li>questDescription->Analisando os dados do protótipo, localizamos um canteiro de obras [adj] que serviu como o próximo passo no projeto do [arcName]. Este local, outrora um farol de ambição industrial, é agora um cemitério de inovação, com sua maquinaria deixada para apodrecer sob o céu aberto.\n\nLá dentro, você encontrará [siteDetails], mas o lugar está [siteThreat].\n\n[studyWarning] [questFailWarning]\n\nSeus esforços aqui [questOutcome].</li>
+    <li>questDescription->Os dados recuperados do antigo protótipo nos levaram a um complexo industrial [adj] que foi fundamental para o avanço do projeto do [arcName]. Outrora um próspero centro de desenvolvimento tecnológico, a instalação agora jaz em ruínas, seus corredores ecoando apenas o vento.\n\nEntre os remanescentes estão [siteDetails], embora o complexo tenha se tornado [siteThreat].\n\n[studyWarning] [questFailWarning]\n\nCompletar esta missão [questOutcome].</li>
+    <li>adj->esquecido</li>
+    <li>adj->antigo</li>
+    <li>adj->abandonado</li>
+    <li>adj->vasto</li>
+    <li>adj->deteriorado</li>
+    <li>adj->tomado pela vegetação</li>
+    <li>adj->arruinado</li>
+    <li>adj->industrial</li>
+    <li>adj->deserto</li>
+    <li>arcName->ARC</li>
+    <li>arcName->gerador</li>
+    <li>arcName->máquina</li>
+    <li>arcName->núcleo</li>
+    <li>arcName->fonte de energia</li>
+    <li>arcName->dispositivo</li>
+    <li>arcName->artefato</li>
+    <li>siteDetails->maquinário antigo e componentes de gerador inacabados</li>
+    <li>siteDetails->notas de pesquisa críticas e grandes componentes de gerador</li>
+    <li>siteDetails->esquemáticos valiosos e equipamentos industriais</li>
+    <li>siteDetails->dados de pesquisa e maquinário de protótipo</li>
+    <li>siteDetails->equipamentos complexos e projetos experimentais de geradores</li>
+    <li>siteDetails->máquinas industriais abandonadas e arquivos de pesquisa</li>
+    <li>siteDetails->notas de pesquisa essenciais e peças únicas de gerador</li>
+    <li>siteThreat->o lar de [Number] [AnimalPlural] caçadores de homens</li>
+    <li>siteThreat->dominado por [Number] [AnimalPlural] caçadores de homens</li>
+    <li>siteThreat->habitado por uma matilha de [AnimalPlural]</li>
+    <li>siteThreat->guardado por [Number] [AnimalPlural] agressivos</li>
+    <li>siteThreat->ocupado por [Number] [AnimalPlural] hostis</li>
+    <li>studyWarning->Um exame cuidadoso da área é necessário para descobrir informações valiosas.</li>
+    <li>studyWarning->Você deve estudar as máquinas antigas e os componentes do gerador com cuidado.</li>
+    <li>studyWarning->Para obter insights, você precisará investigar minuciosamente as notas de pesquisa e as peças do gerador.</li>
+    <li>studyWarning->Uma investigação profunda é a chave para recuperar dados úteis do local.</li>
+    <li>studyWarning->Os dados aqui podem ser críticos, portanto, todos os esforços devem ser feitos para estudar a área minuciosamente.</li>
+    <li>questFailWarning->Se mais da metade das máquinas e notas estudáveis forem destruídas, a missão falhará.</li>
+    <li>questFailWarning->Danos excessivos ao complexo resultarão em falha.</li>
+    <li>questFailWarning->Destruir muitos materiais de pesquisa fará com que a missão falhe.</li>
+    <li>questFailWarning->A falha em preservar componentes estudáveis suficientes encerrará a missão.</li>
+    <li>questFailWarning->Cuidado com suas ações; a missão depende da preservação da integridade do local.</li>
+    <li>questOutcome->pode nos levar à localização real do ARC</li>
+    <li>questOutcome->pode revelar o verdadeiro local do ARC</li>
+    <li>questOutcome->pode nos indicar o projeto final do ARC</li>
+    <li>questOutcome->deve revelar os próximos passos para encontrar o antigo ARC</li>
+    <li>questOutcome->nos deixará mais perto de descobrir os segredos do ARC</li>
+  </VQE_AbandonedARC.questDescriptionRules.rulesStrings>
+
+  <VQE_AbandonedARC.questNameRules.rulesStrings>
+    <li>questName->O [constructionName] [adj]</li>
+    <li>adj->vasto</li>
+    <li>adj->abandonado</li>
+    <li>adj->industrial</li>
+    <li>adj->arruinado</li>
+    <li>adj->antigo</li>
+    <li>adj->esquecido</li>
+    <li>adj->tomado pela vegetação</li>
+    <li>adj->incompleto</li>
+    <li>adj->imenso</li>
+    <li>adj->inacabado</li>
+    <li>adj->dilapidado</li>
+    <li>adj->remoto</li>
+    <li>adj->misterioso</li>
+    <li>adj->fracassado</li>
+    <li>adj->outrora próspero</li>
+    <li>constructionName->pátio de construção</li>
+    <li>constructionName->local de desenvolvimento</li>
+    <li>constructionName->complexo industrial</li>
+    <li>constructionName->workshop</li>
+    <li>constructionName->pátio de energia</li>
+    <li>constructionName->local do gerador</li>
+    <li>constructionName->área de montagem</li>
+    <li>constructionName->instalação de teste</li>
+    <li>constructionName->vilarejo de trabalho</li>
+    <li>constructionName->pátio de protótipos</li>
+    <li>constructionName->centro de engenharia</li>
+    <li>constructionName->instalação de construção</li>
+    <li>constructionName->instalação ARC</li>
+    <li>constructionName->local do projeto de energia</li>
+  </VQE_AbandonedARC.questNameRules.rulesStrings>
+
+  <VQE_AncientARC.questContentRules.rulesStrings>
+    <li>terminalStudiedMessage->Terminal estudado. Você coletou as informações e agora pode sair.</li>
+  </VQE_AncientARC.questContentRules.rulesStrings>
+
+  <VQE_AncientARC.questDescriptionRules.rulesStrings>
+    <li>questDescription->Você [discoveryDesc] um vilarejo [adj] onde o protótipo potencialmente final do [arcName] de [inventor_nameFull] foi construído. Os moradores [villagerBehavior], e o local [villageCondition].\n\n[arcDetails] No entanto, [villagerWarnings]. Se [trigger], os moradores irão [villagerReaction].\n\n[finalWarning]</li>
+    <li>discoveryDesc->soube de</li>
+    <li>discoveryDesc->descobriu</li>
+    <li>discoveryDesc->encontrou a localização de</li>
+    <li>adj->esquecido</li>
+    <li>adj->antigo</li>
+    <li>adj->oculto</li>
+    <li>adj->misterioso</li>
+    <li>adj->deteriorado</li>
+    <li>adj->arruinado</li>
+    <li>arcName->ARC</li>
+    <li>arcName->relíquia</li>
+    <li>arcName->artefato</li>
+    <li>arcName->dispositivo</li>
+    <li>arcName->núcleo</li>
+    <li>villagerBehavior->veneram o [arcName]</li>
+    <li>villagerBehavior->adoram o [arcName]</li>
+    <li>villagerBehavior->protegem o [arcName]</li>
+    <li>villagerBehavior->reverenciam o [arcName]</li>
+    <li>villagerBehavior->guardam o [arcName]</li>
+    <li>villageCondition->mostra sinais de grandeza tecnológica passada</li>
+    <li>villageCondition->está tomado pela vegetação e desmoronando</li>
+    <li>villageCondition->decaiu para uma simplicidade primitiva</li>
+    <li>villageCondition->há muito tempo caiu de seu auge</li>
+    <li>villageCondition->carrega as cicatrizes do tempo e do descaso</li>
+    <li>arcDetails->Dizem que o [arcName] guarda segredos valiosos para sua colônia.</li>
+    <li>arcDetails->Estudar o [arcName] pode desbloquear conhecimentos vitais.</li>
+    <li>arcDetails->Este antigo [arcName] pode revelar os meios para você mesmo construir um.</li>
+    <li>villagerWarnings->tenha cuidado para não provocar os moradores</li>
+    <li>villagerWarnings->os moradores não aceitarão bem invasores</li>
+    <li>villagerWarnings->violar a santidade deles pode resultar em hostilidade</li>
+    <li>villagerWarnings->a paciência deles pode ser curta com estranhos</li>
+    <li>trigger->você ferir alguém, interagir com o [arcName] ou abusar da hospitalidade</li>
+    <li>villagerReaction->se tornar hostis e chamar por reforços</li>
+    <li>villagerReaction->atacar com todas as suas forças</li>
+    <li>villagerReaction->defender seu lar a todo custo</li>
+    <li>villagerReaction->revidar com uma retaliação violenta</li>
+    <li>finalWarning->Se hostilidades começarem, reforços podem chegar rapidamente.</li>
+    <li>finalWarning->Se um conflito surgir, espere uma forte resistência.</li>
+    <li>finalWarning->A falha em agir rapidamente pode significar um desastre.</li>
+    <li>finalWarning->Prepare-se para uma resposta esmagadora se for provocado.</li>
+  </VQE_AncientARC.questDescriptionRules.rulesStrings>
+
+  <VQE_AncientARC.questNameRules.rulesStrings>
+    <li>questName->O [arcName] [adj]</li>
+    <li>adj->esquecido</li>
+    <li>adj->antigo</li>
+    <li>adj->misterioso</li>
+    <li>adj->sagrado</li>
+    <li>adj->oculto</li>
+    <li>adj->abandonado</li>
+    <li>adj->tribal</li>
+    <li>adj->perdido</li>
+    <li>adj->tomado pela vegetação</li>
+    <li>arcName(p=4)->ARC</li>
+    <li>arcName->estrutura</li>
+    <li>arcName->maquinário</li>
+    <li>arcName->relicário</li>
+    <li>arcName->gerador</li>
+    <li>arcName->núcleo</li>
+    <li>arcName->artefato</li>
+    <li>arcName->dispositivo</li>
+    <li>arcName->fonte</li>
+  </VQE_AncientARC.questNameRules.rulesStrings>
+
+  <VQE_InventorShelter.questDescriptionRules.rulesStrings>
+    <li>questDescription->[dataDiscovery] revelaram a localização de um [structureType] subterrâneo [adj] onde [inventor_nameFull] repousa em criptosono. A jornada será extenuante, pois o local é assolado por [coldSnapDesc], trazendo temperaturas anormalmente baixas para a região.\n\nDentro do bunker, algumas [turretDefense] ainda guardam o interior, alimentadas por um antigo [arcName]. O ARC não pode ser estudado, mas pode ser desconstruído para obter [arcComponents]. Sua tarefa principal, no entanto, é chegar ao sarcófago e libertar o inventor. Prepare-se cuidadosamente para o frio extremo ou arriscará [hypothermiaDanger].</li>
+    <li>questDescription->Dados recuperados nos apontam para um bunker [adj] enterrado profundamente sob uma região que sofre com [coldSnapDesc]. É aqui que [inventor_nameFull], a mente lendária por trás do projeto ARC, jaz selado em criptosono.\n\nAs temperaturas da área estão caindo para níveis perigosos, criando um risco imediato de [hypothermiaDanger] durante sua aproximação. Lá dentro, [turretDefense] permanecem ativas, alimentadas por um [arcName] tomado pela vegetação. O ARC pode ser desconstruído para obter [arcComponents], mas o verdadeiro prêmio é libertar o inventor e trazê-lo de volta para sua colônia.</li>
+    <li>questDescription->Identificamos a localização de um [structureType] [adj] onde [inventor_nameFull] foi preservado em um sarcófago de criptosono. A área ao redor do local é amaldiçoada com [coldSnapDesc], derrubando as temperaturas para extremos mortais.\n\nO próprio bunker abriga algumas [turretDefense], alimentadas por um [arcName] tomado pela vegetação. Embora o ARC não possa ser estudado, ele pode ser aproveitado para obter [arcComponents]. Esteja pronto para condições de congelamento e hipotermia ao tentar resgatar o lendário inventor.</li>
+    <li>dataDiscovery->Esquemáticos antigos</li>
+    <li>dataDiscovery->Transmissões decodificadas</li>
+    <li>dataDiscovery->Coordenadas recuperadas</li>
+    <li>dataDiscovery->Logs de dados arquivados</li>
+    <li>adj->esquecido</li>
+    <li>adj->antigo</li>
+    <li>adj->oculto</li>
+    <li>adj->selado</li>
+    <li>adj->abandonado</li>
+    <li>adj->tomado pela vegetação</li>
+    <li>adj->misterioso</li>
+    <li>adj->remoto</li>
+    <li>structureType->bunker</li>
+    <li>structureType->cofre</li>
+    <li>structureType->santuário</li>
+    <li>structureType->câmara</li>
+    <li>structureType->cripta</li>
+    <li>structureType->instalação</li>
+    <li>coldSnapDesc->uma onda de frio não natural</li>
+    <li>coldSnapDesc->uma anomalia de congelamento bizarra</li>
+    <li>coldSnapDesc->uma frente fria inexplicável</li>
+    <li>coldSnapDesc->um congelamento profundo misterioso</li>
+    <li>coldSnapDesc->uma queda repentina de temperatura extrema</li>
+    <li>coldSnapDesc->uma anomalia de geada mortal</li>
+    <li>turretDefense->torretas inativas que ocasionalmente voltam à vida</li>
+    <li>turretDefense->algumas torretas de segurança antigas</li>
+    <li>turretDefense->torretas automáticas velhas, mas ainda letais</li>
+    <li>turretDefense->sistemas de defesa esporadicamente funcionais</li>
+    <li>turretDefense->algumas torretas caindo aos pedaços, mas operacionais</li>
+    <li>arcComponents->componentes raros de ARC</li>
+    <li>arcComponents->sucata tecnológica valiosa</li>
+    <li>arcComponents->peças essenciais de sucata ARC</li>
+    <li>arcComponents->fragmentos avançados de gerador</li>
+    <li>hypothermiaDanger->frieiras e hipotermia</li>
+    <li>hypothermiaDanger->hipotermia de início rápido</li>
+    <li>hypothermiaDanger->exposição ao frio com risco de vida</li>
+    <li>hypothermiaDanger->ferimentos por congelamento e exaustão</li>
+    <li>hypothermiaDanger->frieiras graves ou morte</li>
+    <li>arcName->gerador ARC</li>
+  </VQE_InventorShelter.questDescriptionRules.rulesStrings>
+
+  <VQE_InventorShelter.questNameRules.rulesStrings>
+    <li>questName->O [structureType] [adj] de [Inventor_LastName]</li>
+    <li>adj->esquecido</li>
+    <li>adj->antigo</li>
+    <li>adj->oculto</li>
+    <li>adj->abandonado</li>
+    <li>adj->selado</li>
+    <li>adj->misterioso</li>
+    <li>adj->remoto</li>
+    <li>adj->perdido</li>
+    <li>adj->secreto</li>
+    <li>adj->desamparado</li>
+    <li>structureType->bunker</li>
+    <li>structureType->cofre</li>
+    <li>structureType->cripta</li>
+    <li>structureType->túmulo</li>
+    <li>structureType->aposento</li>
+    <li>structureType->santuário</li>
+    <li>structureType->complexo</li>
+    <li>structureType->abrigo</li>
+  </VQE_InventorShelter.questNameRules.rulesStrings>
+
+  <VQE_ArcSite.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos enviou uma mensagem. Um grupo de [siteFaction_pawnsPlural] ocupou o local de um gerador ARC abandonado. O acampamento está sob o controle de [siteFaction_name].\n\n[asker_nameDef] está solicitando que limpemos a área eliminando todos os inimigos e defesas. Assim que o local estiver seguro, teremos a oportunidade de estudar o gerador ARC e recuperar componentes valiosos de ARC. [asker_label] também diz que [sitePart0_description].</li>
+    <li>questDescription(askerIsNull==true)->Recebemos informações de que o local de um antigo gerador ARC foi dominado por [siteFaction_pawnsPlural] de [siteFaction_name]. Os bandidos fortificaram sua posição e estão usando o local como esconderijo.\n\nProteger o local nos permitirá examinar o gerador em busca de quaisquer dados de pesquisa restantes e componentes de ARC recuperáveis. Esteja preparado para resistência, pois o local provavelmente está fortemente guardado. Além disso, [sitePart0_description].</li>
+    <li>sitePart0_description->o local está parcialmente tomado pela vegetação, com muitas de suas estruturas originais desmoronando pela idade</li>
+    <li>sitePart0_description->os bandidos fortificaram o local com defesas e armadilhas improvisadas</li>
+    <li>sitePart0_description->o gerador ARC está visivelmente danificado, mas ainda contém espólios valiosos</li>
+    <li>sitePart0_description->o local parece ser uma mistura de ruínas antigas e acampamentos de bandidos construídos às pressas</li>
+    <li>sitePart0_description->patrulhas hostis foram vistas guardando o perímetro</li>
+    <li>sitePart0_description->os bandidos estão usando o gerador para alimentar suas operações rudimentares</li>
+  </VQE_ArcSite.questDescriptionRules.rulesStrings>
+
+  <VQE_ArcSite.questNameRules.rulesStrings>
+    <li>questName->[arcName] [adj]</li>
+    <li>adj->abandonado</li>
+    <li>adj->arruinado</li>
+    <li>adj->desamparado</li>
+    <li>adj->destruído</li>
+    <li>adj->remoto</li>
+    <li>adj->desolado</li>
+    <li>adj->esquecido</li>
+    <li>adj->oculto</li>
+    <li>adj->controlado por bandidos</li>
+    <li>adj->inimigo</li>
+    <li>adj->esconderijo</li>
+    <li>adj->dominado</li>
+    <li>adj->perigoso</li>
+    <li>arcName->Local do gerador ARC</li>
+    <li>arcName->Instalação de energia</li>
+    <li>arcName->Estação do gerador</li>
+    <li>arcName->Núcleo industrial</li>
+    <li>arcName->Relíquia de energia</li>
+    <li>arcName->Ruínas de energia</li>
+    <li>arcName->Ruínas ARC</li>
+    <li>arcName->Protótipo de gerador</li>
+  </VQE_ArcSite.questNameRules.rulesStrings>
+
+  <VQE_ArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Missão expirada: [resolvedQuestName]</VQE_ArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+
+  <VQE_ArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>O acampamento de bandidos levantou acampamento e seguiu em frente. A missão [resolvedQuestName] expirou.</VQE_ArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+  <VQE_ArcSite.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Missão falhou: [resolvedQuestName]</VQE_ArcSite.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+
+  <VQE_ArcSite.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Após ser descoberto, o acampamento de bandidos se dispersou. A missão [resolvedQuestName] terminou.</VQE_ArcSite.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+
+  <VQE_ArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterLabel.slateRef>Pagamento recebido</VQE_ArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterLabel.slateRef>
+
+  <VQE_ArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterText.slateRef>Você derrotou o acampamento de bandidos!\n\nO pagamento de [asker_faction_name] chegou.</VQE_ArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterText.slateRef>
+
+  <VQE_NuclearArcSite.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos enviou uma mensagem. Um grupo de [siteFaction_pawnsPlural] assumiu o controle de um local abandonado com uma carcaça de ARC nuclear. O acampamento está atualmente sob o controle de [siteFaction_name].\n\n[asker_nameDef] está solicitando que limpemos a área eliminando todos os inimigos e defesas. Assim que o local estiver seguro, teremos a oportunidade de estudar a carcaça do ARC nuclear e recuperar componentes valiosos de ARC. [asker_label] também menciona que [sitePart0_description]. [sitePart1_description]</li>
+    <li>questDescription(askerIsNull==true)->Recebemos informações de que um local abandonado com uma carcaça de ARC nuclear foi dominado por [siteFaction_pawnsPlural] de [siteFaction_name]. Os bandidos fortificaram sua posição e estão usando o local como esconderijo.\n\nProteger o local nos permitirá examinar a carcaça do ARC nuclear em busca de quaisquer dados de pesquisa restantes e componentes de ARC recuperáveis. Esteja preparado para resistência, pois os bandidos provavelmente estabeleceram defesas significativas. Além disso, [sitePart0_description]. [sitePart1_description]</li>
+    <li>sitePart0_description->a carcaça do ARC nuclear está cercada por vegetação, com grande parte de sua estrutura mostrando sinais de deterioração</li>
+    <li>sitePart0_description->os bandidos fortificaram pesadamente a área com barreiras e armadilhas improvisadas</li>
+    <li>sitePart0_description->a carcaça parece parcialmente intacta, prometendo espólios valiosos</li>
+    <li>sitePart0_description->o local é uma mistura de ruínas industriais antigas e acampamentos de bandidos precários</li>
+    <li>sitePart0_description->patrulhas hostis foram avistadas guardando o perímetro</li>
+    <li>sitePart0_description->os bandidos estão usando a carcaça do ARC para alimentar seu maquinário e armas rudimentares</li>
+    <li>sitePart1_description->Toda a área está coberta por precipitação tóxica, tornando a exposição prolongada perigosa sem o equipamento adequado.</li>
+    <li>sitePart1_description->Uma espessa camada de precipitação tóxica paira sobre o local, criando um perigo adicional para quem tentar se aproximar.</li>
+    <li>sitePart1_description->A precipitação tóxica do antigo reator da carcaça do ARC envenenou a área, apresentando um perigo ambiental significativo.</li>
+    <li>sitePart1_description->O local está coberto por precipitação tóxica, tornando a sobrevivência sem equipamento de proteção extremamente difícil.</li>
+    <li>sitePart1_description->Nuvens de resíduos perigosos encobrem a área, um lembrete sombrio do passado nuclear instável do ARC.</li>
+  </VQE_NuclearArcSite.questDescriptionRules.rulesStrings>
+
+  <VQE_NuclearArcSite.questNameRules.rulesStrings>
+    <li>questName->[nuclearArcName] [adj]</li>
+    <li>adj->abandonado</li>
+    <li>adj->arruinado</li>
+    <li>adj->ocupado por bandidos</li>
+    <li>adj->esquecido</li>
+    <li>adj->abandonado</li>
+    <li>adj->antigo</li>
+    <li>adj->dominado</li>
+    <li>adj->profanado</li>
+    <li>adj->perigoso</li>
+    <li>adj->oculto</li>
+    <li>nuclearArcName->Local do ARC Nuclear</li>
+    <li>nuclearArcName->Carcaça de ARC</li>
+    <li>nuclearArcName->Restos do Reator</li>
+    <li>nuclearArcName->Ruínas do ARC</li>
+    <li>nuclearArcName->Relíquia de Gerador</li>
+    <li>nuclearArcName->Núcleo do Reator</li>
+    <li>nuclearArcName->Carcaça de Energia</li>
+    <li>nuclearArcName->Cofre de Energia</li>
+    <li>nuclearArcName->Reator Abandonado</li>
+    <li>nuclearArcName->Local do Gerador</li>
+  </VQE_NuclearArcSite.questNameRules.rulesStrings>
+
+  <VQE_NuclearArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Missão expirada: [resolvedQuestName]</VQE_NuclearArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+
+  <VQE_NuclearArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>O acampamento de bandidos levantou acampamento e seguiu em frente. A missão [resolvedQuestName] expirou.</VQE_NuclearArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+  <VQE_NuclearArcSite.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Missão falhou: [resolvedQuestName]</VQE_NuclearArcSite.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+
+  <VQE_NuclearArcSite.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Após ser descoberto, o acampamento de bandidos se dispersou. A missão [resolvedQuestName] terminou.</VQE_NuclearArcSite.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+
+  <VQE_NuclearArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterLabel.slateRef>Pagamento recebido</VQE_NuclearArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterLabel.slateRef>
+
+  <VQE_NuclearArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterText.slateRef>Você derrotou o acampamento de bandidos!\n\nO pagamento de [asker_faction_name] chegou.</VQE_NuclearArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterText.slateRef>
+
+  <VQE_GeothermalArcSite.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos enviou uma mensagem. Um grupo de [siteFaction_pawnsPlural] assumiu o controle de um local abandonado de ARC geotérmico. O acampamento está sob o controle de [siteFaction_name].\n\n[asker_nameDef] está solicitando que limpemos a área eliminando todos os inimigos e defesas. Proteger o local nos permitirá estudar o ARC geotérmico e recuperar componentes valiosos para uso futuro. Além disso, [sitePart0_description].</li>
+    <li>questDescription(askerIsNull==true)->Recebemos informações de que um antigo local de ARC geotérmico foi ocupado por [siteFaction_pawnsPlural] de [siteFaction_name]. Os bandidos fortificaram sua posição e estão usando o local para controlar a área circundante.\n\nProteger o local nos dará acesso para estudar o ARC geotérmico e extrair componentes úteis. O local provavelmente está bem defendido, então prepare-se para resistência. Além disso, [sitePart0_description].</li>
+    <li>sitePart0_description->o local está parcialmente tomado pela vegetação, com remanescentes de seu maquinário original espalhados ao redor</li>
+    <li>sitePart0_description->os bandidos reforçaram a área com barricadas rudimentares e postos de guarda</li>
+    <li>sitePart0_description->o ARC geotérmico parece muito desgastado, mas intacto o suficiente para recuperar peças</li>
+    <li>sitePart0_description->a infraestrutura da instalação ainda está de pé, embora mostre sinais de desgaste significativo</li>
+    <li>sitePart0_description->patrulhas hostis foram avistadas na área, garantindo que ninguém se aproxime sem ser desafiado</li>
+    <li>sitePart0_description->os bandidos parecem estar utilizando o ARC para alimentar suas operações</li>
+  </VQE_GeothermalArcSite.questDescriptionRules.rulesStrings>
+
+  <VQE_GeothermalArcSite.questNameRules.rulesStrings>
+    <li>questName->[siteType] de [arcType] [adj]</li>
+    <li>adj->tomado</li>
+    <li>adj->abandonado</li>
+    <li>adj->vigiado</li>
+    <li>adj->antigo</li>
+    <li>adj->dominado</li>
+    <li>adj->ocupado</li>
+    <li>adj->contestado</li>
+    <li>adj->arruinado</li>
+    <li>adj->esquecido</li>
+    <li>adj->oculto</li>
+    <li>arcType->ARC geotérmico</li>
+    <li>arcType->gerador ARC</li>
+    <li>arcType->núcleo geotérmico</li>
+    <li>arcType->estação ARC</li>
+    <li>arcType->núcleo de energia</li>
+    <li>arcType->fonte de energia</li>
+    <li>arcType->usina geotérmica</li>
+    <li>siteType->Local</li>
+    <li>siteType->Instalação</li>
+    <li>siteType->Posto avançado</li>
+    <li>siteType->Complexo</li>
+    <li>siteType->Acampamento</li>
+    <li>siteType->Estação</li>
+  </VQE_GeothermalArcSite.questNameRules.rulesStrings>
+
+  <VQE_GeothermalArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Missão expirada: [resolvedQuestName]</VQE_GeothermalArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+
+  <VQE_GeothermalArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>O acampamento de bandidos levantou acampamento e seguiu em frente. A missão [resolvedQuestName] expirou.</VQE_GeothermalArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+  <VQE_GeothermalArcSite.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Missão falhou: [resolvedQuestName]</VQE_GeothermalArcSite.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+
+  <VQE_GeothermalArcSite.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Após ser descoberto, o acampamento de bandidos se dispersou. A missão [resolvedQuestName] terminou.</VQE_GeothermalArcSite.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+
+  <VQE_GeothermalArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterLabel.slateRef>Pagamento recebido</VQE_GeothermalArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterLabel.slateRef>
+
+  <VQE_GeothermalArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterText.slateRef>Você derrotou o acampamento de bandidos!\n\nO pagamento de [asker_faction_name] chegou.</VQE_GeothermalArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterText.slateRef>
+  
+</LanguageData>

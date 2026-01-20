@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VQE_Technophobia.label>tecnofobia</VQE_Technophobia.label>
+  <VQE_Technophobia.description>A humanidade deve rejeitar a tecnologia, pois ela nos expõe à discórdia e ao cataclismo.</VQE_Technophobia.description>
+  
+  <VQE_Technophobia.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Technophobic)        ->[deity0_name] ensinou a humanidade a sobreviver através da força de suas mãos e da pureza da natureza, alertando que as máquinas trariam apenas a ruína.</li>
+    <li>episode(uses=1,tag=meme_Technophobic)  ->Quando a humanidade recorreu às máquinas, [deity0_name] chorou e desencadeou tempestades para varrer a mácula de sua arrogância.</li>
+    <li>intro(tag=meme_Technophobic)           ->Os [memberNamePlural] reuniram-se à sombra de [place_name], um lugar intocado por máquinas, e comprometeram-se com os caminhos da simplicidade e do equilíbrio.</li>
+    <li>conflict(tag=meme_Technophobic)        ->Um cruel [foeLeader] buscou espalhar máquinas pelas terras sagradas dos [memberNamePlural], desencadeando uma luta desesperada pela sobrevivência.</li>
+    <li>founderJoin(tag=meme_Technophobic)     ->Um [place_job] chamado [founderName] liderou a investida contra os [foeSoldiers], armado apenas com ferramentas da terra e a força de seus seguidores.</li>
+    <li>victory(tag=meme_Technophobic)         ->[founderName] reuniu os [memberNamePlural] para destruir as fábricas de [foeLeader], limpando a terra de máquinas e restaurando a harmonia.</li>
+    <li>setup(tag=meme_Technophobic)           ->[founderName] viu o colapso de uma sociedade construída sobre máquinas e jurou impedir que a humanidade repetisse seus erros.</li>
+    <li>story(uses=1,tag=meme_Technophobic)    ->[founderName] reuniu indivíduos com ideias semelhantes, ensinando-os a rejeitar a tecnologia e a abraçar uma vida autossuficiente em harmonia com a natureza.</li>
+    <li>lessonIntro(tag=meme_Technophobic)         ->Os anciãos me ensinaram uma verdade que ecoou através dos tempos:</li>
+    <li>lesson(tag=meme_Technophobic)               ->a dependência de máquinas gera fragilidade, e somente através da simplicidade podemos perdurar</li>
+    <li>lessonReinforcement(tag=meme_Technophobic) ->Eu vi com meus próprios olhos quando as grandes cidades caíram, impotentes diante de sua própria arrogância.</li>
+    <li>archistBasis(tag=meme_Technophobic)    ->Os arqueotecnológicos se afastaram da humanidade, vendo-nos como escravos de nossas máquinas. Somente abandonando a tecnologia poderemos recuperar seu favor.</li>
+    <li>archistFact(tag=meme_Technophobic)     ->As máquinas entorpecem o espírito e enfraquecem a mente, afastando a humanidade ainda mais da iluminação dos arqueotecnológicos.</li>
+    <li>archistProphecy(tag=meme_Technophobic) ->[inTheEnd], apenas aqueles que vivem vidas puras e livres de máquinas serão poupados quando os arqueotecnológicos limparem o mundo.</li>
+    <li>animistBasis(tag=meme_Technophobic)    ->Cada coisa viva tem um espírito, e as máquinas sem alma perturbam a harmonia do mundo natural.</li>
+    <li>animistFact(tag=meme_Technophobic)     ->Os espíritos da terra enfraquecem onde as máquinas pisam, seu poder sugado e corrompido.</li>
+    <li>animistProphecy(tag=meme_Technophobic) ->[itIsSaid] que quando a última máquina silenciar, os espíritos retornarão e curarão o mundo.</li>
+    <li>eschatologismFact(tag=meme_Technophobic)->As máquinas são os arautos do apocalipse, e suas criações envenenarão a terra até que nada reste além de cinzas e ruína.</li>
+    <li>eschatologismProphecy(tag=meme_Technophobic)->[inTheEnd], as máquinas se voltarão contra seus criadores, trazendo devastação até que restem apenas aqueles que evitam a tecnologia.</li>
+    <li>introMemo(tag=meme_Technophobic)->Para: Toda a Equipe\nDe: Gabinete de Sustentabilidade\nAssunto: Atualização de Política - Uso de Tecnologia\n\nCom efeito imediato, todas as máquinas não essenciais devem ser eliminadas. Lembrem-se, nossos ancestrais prosperaram sem esses dispositivos, e nós também podemos. A dependência contínua da tecnologia mina nossa resiliência e apresenta riscos de longo prazo aos nossos objetivos de sustentabilidade. Vamos liderar pelo exemplo e demonstrar a força da autossuficiência. O cumprimento será monitorado de perto.</li>
+    <li>chthonianProphecy(tag=meme_Technophobic)->[itIsSaid] que as máquinas são meras ferramentas das forças sombrias do submundo, e cada engrenagem girada nos aproxima de seu domínio.</li>
+    <li>serketistProphecy(tag=meme_Technophobic)->Os insetos prosperam sem máquinas, uma lição de resiliência que a humanidade esqueceu.</li>
+    <li>alienistProphecy(tag=meme_Technophobic)->Foram as máquinas que criaram essas criaturas aterrorizantes e, como tal, devemos rejeitar a tecnologia como uma fonte de grande mal.</li>
+  </VQE_Technophobia.descriptionMaker.rules.rulesStrings>
+
+  <VQE_Technophobia.generalRules.rulesStrings>
+    <li>memeAdjective->primitivo</li>
+    <li>memeAdjective->natural</li>
+    <li>memeAdjective->orgânico</li>
+    <li>memeAdjective->tradicional</li>
+    <li>memeAdjective->rústico</li>
+    <li>memeCreed->caminho</li>
+    <li>memeCreed->movimento</li>
+    <li>memeCreed->círculo</li>
+    <li>memeCreed->doutrina</li>
+    <li>memeCreed->fé</li>
+    <li>memeHyphenPrefix->anti</li>
+    <li>memeHyphenPrefix->terra</li>
+    <li>memeHyphenPrefix->pós</li>
+    <li>memeHyphenPrefix->neo</li>
+    <li>memeHyphenPrefix->ferrugem</li>
+    <li>memeConcept->humanidade</li>
+    <li>memeConcept->natureza</li>
+    <li>memeConcept->pureza</li>
+    <li>memeConcept->equilíbrio</li>
+    <li>memeConcept->simplicidade</li>
+    <li>memeLeaderNoun->árbitro</li>
+    <li>memeLeaderNoun->vidente</li>
+    <li>memeLeaderNoun->guardião</li>
+    <li>memeLeaderNoun->sábio</li>
+    <li>memeLeaderNoun->profeta</li>
+    <li>memeLeaderAdjective->natural</li>
+    <li>memeLeaderAdjective->primordial</li>
+    <li>memeLeaderAdjective->terreno</li>
+    <li>memeLeaderAdjective->ascético</li>
+    <li>memeLeaderAdjective->puro</li>
+    <li>memeMoralist->curador</li>
+    <li>memeMoralist->protetor</li>
+    <li>memeMoralist->guardião</li>
+    <li>memeMoralist->preservador</li>
+    <li>memeMoralist->guia</li>
+  </VQE_Technophobia.generalRules.rulesStrings>
+
+  <VQE_Technophobia.symbolPacks.0.adjective>purista</VQE_Technophobia.symbolPacks.0.adjective>
+  <VQE_Technophobia.symbolPacks.0.ideoName>Purismo</VQE_Technophobia.symbolPacks.0.ideoName>
+  <VQE_Technophobia.symbolPacks.0.member>purista</VQE_Technophobia.symbolPacks.0.member>
+  <VQE_Technophobia.symbolPacks.0.theme>pureza</VQE_Technophobia.symbolPacks.0.theme>
+
+  <VQE_Technophobia.symbolPacks.1.adjective>naturalista</VQE_Technophobia.symbolPacks.1.adjective>
+  <VQE_Technophobia.symbolPacks.1.ideoName>Naturalismo</VQE_Technophobia.symbolPacks.1.ideoName>
+  <VQE_Technophobia.symbolPacks.1.member>naturalista</VQE_Technophobia.symbolPacks.1.member>
+  <VQE_Technophobia.symbolPacks.1.theme>natureza</VQE_Technophobia.symbolPacks.1.theme>
+
+  <VQE_Technophobia.symbolPacks.2.adjective>tradicionalista</VQE_Technophobia.symbolPacks.2.adjective>
+  <VQE_Technophobia.symbolPacks.2.ideoName>Tradicionalismo</VQE_Technophobia.symbolPacks.2.ideoName>
+  <VQE_Technophobia.symbolPacks.2.member>tradicionalista</VQE_Technophobia.symbolPacks.2.member>
+  <VQE_Technophobia.symbolPacks.2.theme>tradição</VQE_Technophobia.symbolPacks.2.theme>
+
+  <VQE_Technophobia.symbolPacks.3.adjective>primitivista</VQE_Technophobia.symbolPacks.3.adjective>
+  <VQE_Technophobia.symbolPacks.3.ideoName>Primitivismo</VQE_Technophobia.symbolPacks.3.ideoName>
+  <VQE_Technophobia.symbolPacks.3.member>primitivista</VQE_Technophobia.symbolPacks.3.member>
+  <VQE_Technophobia.symbolPacks.3.theme>primitivismo</VQE_Technophobia.symbolPacks.3.theme>
+
+  <VQE_Technophobia.symbolPacks.4.adjective>rejeicionista</VQE_Technophobia.symbolPacks.4.adjective>
+  <VQE_Technophobia.symbolPacks.4.ideoName>Rejeicionismo</VQE_Technophobia.symbolPacks.4.ideoName>
+  <VQE_Technophobia.symbolPacks.4.member>rejeitador</VQE_Technophobia.symbolPacks.4.member>
+  <VQE_Technophobia.symbolPacks.4.theme>rejeição</VQE_Technophobia.symbolPacks.4.theme>
+
+  <VQE_Technophobia.symbolPacks.5.adjective>sobrevivencialista</VQE_Technophobia.symbolPacks.5.adjective>
+  <VQE_Technophobia.symbolPacks.5.ideoName>Sobrevivencialismo</VQE_Technophobia.symbolPacks.5.ideoName>
+  <VQE_Technophobia.symbolPacks.5.member>sobrevivencialista</VQE_Technophobia.symbolPacks.5.member>
+  <VQE_Technophobia.symbolPacks.5.theme>sobrevivência</VQE_Technophobia.symbolPacks.5.theme>
+
+  <VQE_Technophobia.symbolPacks.6.adjective>simplista</VQE_Technophobia.symbolPacks.6.adjective>
+  <VQE_Technophobia.symbolPacks.6.ideoName>Simplicidade</VQE_Technophobia.symbolPacks.6.ideoName>
+  <VQE_Technophobia.symbolPacks.6.member>simplista</VQE_Technophobia.symbolPacks.6.member>
+  <VQE_Technophobia.symbolPacks.6.theme>simplicidade</VQE_Technophobia.symbolPacks.6.theme>
+  
+</LanguageData>
