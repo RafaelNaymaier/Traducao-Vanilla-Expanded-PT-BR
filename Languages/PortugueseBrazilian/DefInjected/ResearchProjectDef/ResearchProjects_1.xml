@@ -73,7 +73,7 @@
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/PawnKindDef[defName="VFEI2_RoyalMegaspider"]/label</xpath>
-          <value><label>mega-aranha real</label></value>
+          <value><label>megaranha real</label></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/PawnKindDef[defName="VFEI2_RoyalSpelopede"]/label</xpath>
