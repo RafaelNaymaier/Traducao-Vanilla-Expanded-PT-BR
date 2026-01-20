@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Vanilla Quests Expanded - The Generator</li>
+			<li>vanillaquestsexpanded.generator</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/PreceptDef[defName="VQE_ARCGenerators_Abhorrent"]/label</xpath>
+					<value>
+						<label>abominável</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/PreceptDef[defName="VQE_ARCGenerators_Abhorrent"]/description</xpath>
+					<value>
+						<description>Os ARCs são abominações perigosas, símbolos da dependência imprudente da humanidade pela tecnologia. Sua existência traz inquietação e seu uso corre o risco de atrair catástrofes.\n\n&lt;color=#E5E54C&gt;Efeitos no jogo:&lt;/color&gt;\n- Surtos de fúria terão como alvo o ARC, se ele estiver alcançável.</description>
+					</value>
+				</li>
+
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/PreceptDef[defName="VQE_ARCGenerators_Exalted"]/label</xpath>
+					<value>
+						<label>exaltado</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/PreceptDef[defName="VQE_ARCGenerators_Exalted"]/description</xpath>
+					<value>
+						<description>Os ARCs são a maior conquista da humanidade, um símbolo de progresso e sobrevivência. Danificar ou negligenciar um ARC é um sacrilégio, enquanto sua presença inspira esperança e propósito em todos.</description>
+					</value>
+				</li>
+
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/PreceptDef[defName="VQE_Technology_Rejected"]/label</xpath>
+					<value>
+						<label>rejeitada</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/PreceptDef[defName="VQE_Technology_Rejected"]/description</xpath>
+					<value>
+						<description>A tecnologia moderna é uma força corruptora que separa a humanidade de seu caminho natural. Usá-la é vergonhoso e leva apenas à ruína e à discórdia.\n\n&lt;color=#E5E54C&gt;Efeitos no jogo:&lt;/color&gt;\n- Os colonos se recusarão a equipar ou vestir itens de nível tecnológico industrial ou superior.\n- Surtos de fúria terão como alvo itens e construções de nível tecnológico industrial ou superior.</description>
+					</value>
+				</li>
+
+			</operations>
+		</match>
+	</Operation>
+</Patch>
