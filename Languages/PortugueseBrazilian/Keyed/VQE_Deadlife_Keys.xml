@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VQED_KickstartedSuccess>{0} acionou o gerador com sucesso</VQED_KickstartedSuccess>
+  <VQED_KickStartTimer>Parará de funcionar em {0}</VQED_KickStartTimer>
+  <VQED_DebugNextSpawn>DEBUG: Surgindo trôpegos em {0}</VQED_DebugNextSpawn>
+  <VQED_StudyAncientPlansLabel>Estudar planos antigos</VQED_StudyAncientPlansLabel>
+  <VQED_StudyAncientPlansDesc>Estude os planos antigos para descobrir a localização de outro silo antigo.</VQED_StudyAncientPlansDesc>
+  <VQED_MissingKinoProjector>Faltando: projetor de cinema antigo</VQED_MissingKinoProjector>
+  <VQED_KinoProjectorUnpowered>Não funciona: projetor de cinema antigo está sem energia</VQED_KinoProjectorUnpowered>
+  <VQED_KinoScreenWrongRotation>Não funciona: o projetor de cinema antigo não está voltado para a tela de cinema</VQED_KinoScreenWrongRotation>
+  <VQED_KinoScreenRequiresProjector>A tela de cinema antiga requer um projetor de cinema antigo posicionado à sua frente para funcionar.</VQED_KinoScreenRequiresProjector>
+  <VQED_WeaponDeterioratedMessage>{0}, equipado por {1}, deteriorou-se completamente.</VQED_WeaponDeterioratedMessage>
+  <VQED_WeaponDeteriorationInfo>Esta arma se deteriorará após um certo número de disparos.</VQED_WeaponDeteriorationInfo>
+  <VQED_ShotRemaining>Disparos restantes: {0}</VQED_ShotRemaining>
+  <VQE_EnterSilo>Entrar no silo</VQE_EnterSilo>
+  <VQE_ExitSilo>Sair do silo</VQE_ExitSilo>
+  <VQE_ViewSilo>Ver silo</VQE_ViewSilo>
+  <VQE_ViewSiloDesc>Ver o silo antigo abaixo.</VQE_ViewSiloDesc>
+  <VQED_FillPit>Enterrar o fosso da morte</VQED_FillPit>
+  <VQED_FillPitDesc>Cubra o fosso da morte com escórias de metal retorcido para evitar que qualquer coisa rasteje para fora.</VQED_FillPitDesc>
+  <VQED_GeneralAwakensLabel>{PAWN_nameFull} desperta</VQED_GeneralAwakensLabel>
+  <VQED_GeneralAwakensText>O sarcófago selado se abre com um sibilo, liberando uma nuvem de poeira mortal, e de dentro surge o(a) {PAWN_title} {PAWN_nameFull}.
+
+Outrora o comandante da Operação: Mortal, {PAWN_nameFull} é agora um remanescente de uma guerra esquecida, preso ao estado de trôpego. Ao despertar, {PAWN_pronoun} começa a reativar os sistemas de defesa há muito adormecidos da base: aberturas de podridão, grades de torretas, canis de trôpegos e fossos de contenção cheios de mortos.
+
+Seu objetivo final é claro: iniciar a sequência de lançamento dos ICBMs Mortais: ogivas orbitais projetadas para cobrir o planeta com a morte. Se lançados, hordas de trôpegos surgirão por todo o mundo, destruindo assentamentos e emboscando caravanas.
+
+Você deve chegar ao centro de comando e destruir o Terminal de Lançamento de ICBM antes que {PAWN_nameFull} complete sua tarefa sombria.</VQED_GeneralAwakensText>
+  <VQED_GeneralUnsealedDeathPit>Para proteger o local de lançamento, o General {0} abriu um dos fossos da morte.</VQED_GeneralUnsealedDeathPit>
+  <VQED_GeneralOpenedChutes>Para proteger o local de lançamento, o General {0} abriu as calhas por todo o complexo.</VQED_GeneralOpenedChutes>
+  <VQED_GeneralAwakenedOfficers>Para proteger o local de lançamento, o General {0} despertou vários oficiais de alta patente de seu sono.</VQED_GeneralAwakenedOfficers>
+  <VQED_GeneralActivatedTurrets>Para proteger o local de lançamento, o General {0} reativou as torretas militares por todo o complexo.</VQED_GeneralActivatedTurrets>
+  <VQED_GeneralOpenedRotstinkVents>Para proteger o local de lançamento, o General {0} abriu as aberturas de biomassa que inundarão o complexo com podridão.</VQED_GeneralOpenedRotstinkVents>
+  <VQED_GeneralReleasedAnimals>Para proteger o local de lançamento, o General {0} soltou os animais dos canis.</VQED_GeneralReleasedAnimals>
+  <VQED_FactionBaseOverrun>{0} foi dominada por uma horda de trôpegos.</VQED_FactionBaseOverrun>
+  <VQED_ShamblersDefeated>A horda de trôpegos foi derrotada.</VQED_ShamblersDefeated>
+  <VQED_GeneralReactivatedDeadlifeVents>Para proteger o local de lançamento, o General {0} reativou as ventilações mortais em uma tentativa de ressurgir quaisquer trôpegos derrotados.</VQED_GeneralReactivatedDeadlifeVents>
+</LanguageData>

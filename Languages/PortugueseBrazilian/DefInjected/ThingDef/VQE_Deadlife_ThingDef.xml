@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VQED_Gun_Autopistol_Ancient.label>pistola automática antiga</VQED_Gun_Autopistol_Ancient.label>
+  <VQED_Gun_Autopistol_Ancient.description>Uma arma secundária de armação de ferro, castigada pelo tempo, vinda de um exército há muito esquecido. Embora o ferrolho chocalhe e o acabamento tenha sumido, ela ainda dispara com confiabilidade. Baixo poder de parada e curto alcance, mas rápida no saque. Devido à grave deterioração, esta arma só pode disparar um número limitado de tiros antes de quebrar sem possibilidade de reparo.</VQED_Gun_Autopistol_Ancient.description>
+  <VQED_Gun_Autopistol_Ancient.tools.grip.label>empunhadura</VQED_Gun_Autopistol_Ancient.tools.grip.label>
+  <VQED_Gun_Autopistol_Ancient.tools.barrel.label>cano</VQED_Gun_Autopistol_Ancient.tools.barrel.label>
+  <VQED_Gun_Autopistol_Ancient.verbs.Verb_Shoot.label>pistola automática antiga</VQED_Gun_Autopistol_Ancient.verbs.Verb_Shoot.label>
+  
+  <VQED_Gun_LMG_Ancient.label>metralhadora leve antiga</VQED_Gun_LMG_Ancient.label>
+  <VQED_Gun_LMG_Ancient.description>Uma metralhadora leve alimentada por fita envelhecida, coberta de sujeira e timbrada com as marcações de militares de outrora. Seu recuo é forte e sua precisão é baixa, mas o puro volume de fogo pode suprimir ou retalhar grupos de inimigos enquanto ela se mantiver inteira. Devido à grave deterioração, esta arma só pode disparar um número limitado de tiros antes de quebrar sem possibilidade de reparo.</VQED_Gun_LMG_Ancient.description>
+  <VQED_Gun_LMG_Ancient.tools.stock.label>coronha</VQED_Gun_LMG_Ancient.tools.stock.label>
+  <VQED_Gun_LMG_Ancient.tools.barrel.label>cano</VQED_Gun_LMG_Ancient.tools.barrel.label>
+  <VQED_Gun_LMG_Ancient.verbs.Verb_Shoot.label>metralhadora leve antiga</VQED_Gun_LMG_Ancient.verbs.Verb_Shoot.label>
+  
+  <VQED_Gun_MachinePistol_Ancient.label>submetralhadora antiga</VQED_Gun_MachinePistol_Ancient.label>
+  <VQED_Gun_MachinePistol_Ancient.description>Uma relíquia do design inicial de pistolas automáticas, outrora entregue a oficiais de infantaria. Sua construção bruta e peças gastas limitam a precisão, mas seu tamanho compacto e alta cadência de tiro conferem uma letalidade surpreendente em combates de curta distância. Devido à grave deterioração, esta arma só pode disparar um número limitado de tiros antes de quebrar sem possibilidade de reparo.</VQED_Gun_MachinePistol_Ancient.description>
+  <VQED_Gun_MachinePistol_Ancient.tools.grip.label>empunhadura</VQED_Gun_MachinePistol_Ancient.tools.grip.label>
+  <VQED_Gun_MachinePistol_Ancient.tools.barrel.label>cano</VQED_Gun_MachinePistol_Ancient.tools.barrel.label>
+  <VQED_Gun_MachinePistol_Ancient.verbs.Verb_Shoot.label>submetralhadora antiga</VQED_Gun_MachinePistol_Ancient.verbs.Verb_Shoot.label>
+  
+  <VQED_Gun_PumpShotgun_Ancient.label>espingarda antiga</VQED_Gun_PumpShotgun_Ancient.label>
+  <VQED_Gun_PumpShotgun_Ancient.description>Uma espingarda de combate pesada e corroída pela ferrugem, construída para a guerra de trincheiras. Dispara uma propagação brutal de chumbo a curto alcance. Embora incômoda e lenta para ciclar, permanece mortal em espaços confinados. Devido à grave deterioração, esta arma só pode disparar um número limitado de tiros antes de quebrar sem possibilidade de reparo.</VQED_Gun_PumpShotgun_Ancient.description>
+  <VQED_Gun_PumpShotgun_Ancient.tools.stock.label>coronha</VQED_Gun_PumpShotgun_Ancient.tools.stock.label>
+  <VQED_Gun_PumpShotgun_Ancient.tools.barrel.label>cano</VQED_Gun_PumpShotgun_Ancient.tools.barrel.label>
+  <VQED_Gun_PumpShotgun_Ancient.verbs.Verb_Shoot.label>espingarda antiga</VQED_Gun_PumpShotgun_Ancient.verbs.Verb_Shoot.label>
+
+  <VQED_Apparel_GeneralsCap.label>quepe de general</VQED_Apparel_GeneralsCap.label>
+  <VQED_Apparel_GeneralsCap.description>Um quepe distinto com aba rígida, adornado com insígnias bordadas e uma faixa dourada. Embora ofereça pouca proteção física, seu design imponente realça a presença do usuário, melhorando significativamente a habilidade de negociação.</VQED_Apparel_GeneralsCap.description>
+  
+  <VQED_Apparel_GeneralsInsignia.label>insígnia de general</VQED_Apparel_GeneralsInsignia.label>
+  <VQED_Apparel_GeneralsInsignia.description>Dragonas douradas decorativas adornadas com cordões trançados e um fecho cerimonial polido. Outrora usadas por oficiais de alto escalão, estas insígnias instilam um senso de dever e compostura, tornando o usuário menos propenso a colapsos mentais.</VQED_Apparel_GeneralsInsignia.description>
+  
+  <VQED_Apparel_MilitaryCoat.label>casaco militar</VQED_Apparel_MilitaryCoat.label>
+  <VQED_Apparel_MilitaryCoat.description>Um casaco militar pesado projetado para condições severas, oferecendo proteção contra o frio, vento e detritos no campo de batalha. Torna o usuário mais confiante. Como o casaco foi produzido em massa, os itens individuais não variam em qualidade.</VQED_Apparel_MilitaryCoat.description>
+
+  <VQED_AncientSiloDoor.label>porta de silo antiga</VQED_AncientSiloDoor.label>
+  <VQED_AncientSiloDoor.description>Uma porta fortemente reforçada. É lenta para abrir, mas muito resistente. A porta requer paredes em ambos os lados para funcionar.</VQED_AncientSiloDoor.description>
+  
+  <VQED_LockedSiloHatch.label>escotilha de silo trancada</VQED_LockedSiloHatch.label>
+  <VQED_LockedSiloHatch.description>Uma entrada selada para as profundezas da instalação. Ainda estruturalmente sólida, mas sob forte pressão. Pode ser forçada para permitir o acesso.</VQED_LockedSiloHatch.description>
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.activateDescString>Escolha alguém para forçar a abertura da porta, permitindo o acesso ao silo subterrâneo.</VQED_LockedSiloHatch.comps.CompJammedAirlock.activateDescString>
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.activateLabelString>Forçar abertura da porta do silo</VQED_LockedSiloHatch.comps.CompJammedAirlock.activateLabelString>
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.activatingString>forçando a abertura da porta: {1}s</VQED_LockedSiloHatch.comps.CompJammedAirlock.activatingString>
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.activatingStringPending>forçando a abertura da porta</VQED_LockedSiloHatch.comps.CompJammedAirlock.activatingStringPending>
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.guiLabelString>Escolha quem deve fazer isto</VQED_LockedSiloHatch.comps.CompJammedAirlock.guiLabelString>
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.jobString>Forçar a abertura desta porta</VQED_LockedSiloHatch.comps.CompJammedAirlock.jobString>
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.messageCompletedString>{PAWN_nameDef} forçou a abertura da porta com sucesso.</VQED_LockedSiloHatch.comps.CompJammedAirlock.messageCompletedString>
+  
+  <VQED_SiloExitStaircase.label>escadaria de saída do silo</VQED_SiloExitStaircase.label>
+  <VQED_SiloExitStaircase.description>Uma rota de retorno vertical para a superfície. Raramente usada, mas ainda transitável.</VQED_SiloExitStaircase.description>
+  
+  <VQED_SiloStaircase.label>escadaria do silo</VQED_SiloStaircase.label>
+  <VQED_SiloStaircase.description>Uma via de acesso reforçada para os níveis inferiores. Coberta de poeira e ar viciado.</VQED_SiloStaircase.description>
+  
+  <VQED_StuckAncientSiloDoor.label>porta de silo antiga emperrada</VQED_StuckAncientSiloDoor.label>
+  <VQED_StuckAncientSiloDoor.description>Uma porta fortemente reforçada. Devido a mau funcionamento ou danos, precisa ser forçada para abrir. É lenta para abrir, mas muito resistente. A porta requer paredes em ambos os lados para funcionar.</VQED_StuckAncientSiloDoor.description>
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activateDescString>Escolha alguém para forçar a abertura desta porta de silo antiga.</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activateDescString>
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activateLabelString>Forçar abertura...</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activateLabelString>
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activatingString>forçando a abertura da porta do silo antiga: {1}s</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activatingString>
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activatingStringPending>forçando a abertura da porta do silo antiga</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activatingStringPending>
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.guiLabelString>Escolha quem deve fazer isto</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.guiLabelString>
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.jobString>Forçar a abertura desta porta de silo antiga</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.jobString>
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.messageCompletedString>{PAWN_nameDef} forçou a abertura da porta do silo antiga com sucesso.</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.messageCompletedString>
+
+  <VQED_AncientPassiveLamp.label>lâmpada passiva antiga</VQED_AncientPassiveLamp.label>
+  <VQED_AncientPassiveLamp.description>Um dispositivo de iluminação passiva. Emite um brilho fraco graças a células de longa duração em decomposição.</VQED_AncientPassiveLamp.description>
+  
+  <VQED_AncientSiloFloodlight.label>projetor de luz de silo antigo</VQED_AncientSiloFloodlight.label>
+  <VQED_AncientSiloFloodlight.description>Um projetor de alta potência instalado para iluminação de emergência. Escurece rapidamente sem uma fonte de energia confiável.</VQED_AncientSiloFloodlight.description>
+  
+  <VQED_AncientSiloLamp.label>lâmpada de silo antiga</VQED_AncientSiloLamp.label>
+  <VQED_AncientSiloLamp.description>Uma fonte de luz com fiação direta instalada na instalação. Ainda é capaz de emitir uma luz fraca.</VQED_AncientSiloLamp.description>
+
+  <VQED_EmptyAncientWeaponBox.label>caixa de armas aberta</VQED_EmptyAncientWeaponBox.label>
+  <VQED_EmptyAncientWeaponBox.description>Uma caixa de madeira longa e apodrecida que geralmente armazena armas. Esta está vazia.</VQED_EmptyAncientWeaponBox.description>
+  
+  <VQED_EmptyMilitaryCrate.label>caixote militar vazio</VQED_EmptyMilitaryCrate.label>
+  <VQED_EmptyMilitaryCrate.description>Um caixote militar vazio e enferrujado. Seu conteúdo desapareceu há muito tempo.</VQED_EmptyMilitaryCrate.description>
+  
+  <VQED_EmptyMilitaryPallet.label>palete militar vazio</VQED_EmptyMilitaryPallet.label>
+  <VQED_EmptyMilitaryPallet.description>Um palete militar vazio. Se continha algo de valor, já se foi.</VQED_EmptyMilitaryPallet.description>
+  
+  <VQED_EmptySmallMilitaryCrate.label>caixa militar vazia</VQED_EmptySmallMilitaryCrate.label>
+  <VQED_EmptySmallMilitaryCrate.description>Uma caixa militar pequena, enferrujada e vazia. Qualquer coisa de valor desapareceu.</VQED_EmptySmallMilitaryCrate.description>
+  
+  <VQED_MilitaryCrateOfBioferrite.label>caixote militar de bioferrita</VQED_MilitaryCrateOfBioferrite.label>
+  <VQED_MilitaryCrateOfBioferrite.description>Um caixote militar enferrujado, cheio até a borda com bioferrita, extraída de alguma fonte misteriosa pelos militares antigos.</VQED_MilitaryCrateOfBioferrite.description>
+  
+  <VQED_MilitaryCrateOfDeadlifeShells.label>caixote militar de granadas mortais</VQED_MilitaryCrateOfDeadlifeShells.label>
+  <VQED_MilitaryCrateOfDeadlifeShells.description>Um caixote militar enferrujado com granadas mortais. Estas granadas de artilharia são preenchidas com uma substância semelhante a poeira que, após explodir em uma nuvem, se deposita em cadáveres humanos e animais próximos e os ergue como trôpegos. Muitas dessas granadas perderam sua potência, mas algumas ainda podem funcionar.</VQED_MilitaryCrateOfDeadlifeShells.description>
+  
+  <VQED_MilitaryCrateOfGold.label>caixote militar de ouro</VQED_MilitaryCrateOfGold.label>
+  <VQED_MilitaryCrateOfGold.description>Um caixote militar enferrujado contendo ouro. O fato de o silo ter sido selado por gerações evitou que fosse roubado.</VQED_MilitaryCrateOfGold.description>
+  
+  <VQED_MilitaryCrateOfHemogen.label>caixote militar de hemogênio</VQED_MilitaryCrateOfHemogen.label>
+  <VQED_MilitaryCrateOfHemogen.description>Um caixote militar enferrujado contendo alguns pacotes antigos de hemogênio, a maioria vencida. Com a mentalidade certa, é possível extrair alguns pacotes de hemogênio dele.</VQED_MilitaryCrateOfHemogen.description>
+  
+  <VQED_MilitaryCrateOfMedicine.label>caixote militar de medicamentos</VQED_MilitaryCrateOfMedicine.label>
+  <VQED_MilitaryCrateOfMedicine.description>Um caixote militar enferrujado contendo medicamentos avançados de um mundo cintilante. Embora parte deles possa não ser mais utilizável, é possível recuperar algumas caixas intactas do caixote.</VQED_MilitaryCrateOfMedicine.description>
+  
+  <VQED_MilitaryCrateOfSilver.label>caixote militar de prata</VQED_MilitaryCrateOfSilver.label>
+  <VQED_MilitaryCrateOfSilver.description>Um caixote militar enferrujado contendo prata. O fato de o silo ter sido selado por gerações evitou que fosse roubado.</VQED_MilitaryCrateOfSilver.description>
+  
+  <VQED_MilitaryPalletOfAdvancedCarParts.label>palete militar de peças de veículo avançadas</VQED_MilitaryPalletOfAdvancedCarParts.label>
+  <VQED_MilitaryPalletOfAdvancedCarParts.description>Peças de precisão para veículos, embaladas com extremo cuidado. Estes componentes nunca foram destinados a serem usados de ânimo leve.</VQED_MilitaryPalletOfAdvancedCarParts.description>
+  
+  <VQED_MilitaryPalletOfAdvancedComponents.label>palete militar de componentes avançados</VQED_MilitaryPalletOfAdvancedComponents.label>
+  <VQED_MilitaryPalletOfAdvancedComponents.description>Um estoque raro de componentes de engenharia de precisão, cuidadosamente preservados para uso em sistemas de alta tecnologia. Notavelmente intactos.</VQED_MilitaryPalletOfAdvancedComponents.description>
+  
+  <VQED_MilitaryPalletOfApparel.label>palete militar de vestuário</VQED_MilitaryPalletOfApparel.label>
+  <VQED_MilitaryPalletOfApparel.description>Um palete de casacos militares antigos. Apesar do tecido rasgado e do cheiro estranho, eles parecem utilizáveis.</VQED_MilitaryPalletOfApparel.description>
+  
+  <VQED_MilitaryPalletOfBasicCarParts.label>palete militar de peças de veículo básicas</VQED_MilitaryPalletOfBasicCarParts.label>
+  <VQED_MilitaryPalletOfBasicCarParts.description>Uma pilha de componentes de veículos etiquetados, construídos para unidades de transporte padrão. Corrosão leve nas armações externas.</VQED_MilitaryPalletOfBasicCarParts.description>
+  
+  <VQED_MilitaryPalletOfBooks.label>palete militar de livros</VQED_MilitaryPalletOfBooks.label>
+  <VQED_MilitaryPalletOfBooks.description>Um caixote de livros antigos, muitos de cunho militar. As páginas estão levemente empenadas, mas legíveis, repletas de dados técnicos e táticos.</VQED_MilitaryPalletOfBooks.description>
+  
+  <VQED_MilitaryPalletOfChemfuel.label>palete militar de combustível químico</VQED_MilitaryPalletOfChemfuel.label>
+  <VQED_MilitaryPalletOfChemfuel.description>Um palete fortemente marcado com recipientes selados de combustível químico. O líquido lá dentro agita-se com uma consistência preocupante.</VQED_MilitaryPalletOfChemfuel.description>
+  
+  <VQED_MilitaryPalletOfComponents.label>palete militar de componentes industriais</VQED_MilitaryPalletOfComponents.label>
+  <VQED_MilitaryPalletOfComponents.description>Um palete reforçado de componentes de grau industrial. Cada peça parece estar intocada desde o armazenamento.</VQED_MilitaryPalletOfComponents.description>
+  
+  <VQED_MilitaryPalletOfHEShells.label>palete militar de granadas altamente explosivas</VQED_MilitaryPalletOfHEShells.label>
+  <VQED_MilitaryPalletOfHEShells.description>Um palete de munição carregado com granadas de artilharia altamente explosivas. Armado e perigoso.</VQED_MilitaryPalletOfHEShells.description>
+  
+  <VQED_MilitaryPalletOfHyperweave.label>palete militar de hiper tecido</VQED_MilitaryPalletOfHyperweave.label>
+  <VQED_MilitaryPalletOfHyperweave.description>Um palete de tecido de alta segurança contendo rolos de hiper tecido. A trama densa ainda resiste a rasgos ou decomposição.</VQED_MilitaryPalletOfHyperweave.description>
+  
+  <VQED_MilitaryPalletOfIncendiaryShells.label>palete militar de granadas incendiárias</VQED_MilitaryPalletOfIncendiaryShells.label>
+  <VQED_MilitaryPalletOfIncendiaryShells.description>Um estoque de granadas incendiárias embaladas em estojos isolados. Voláteis, mesmo após anos de armazenamento.</VQED_MilitaryPalletOfIncendiaryShells.description>
+  
+  <VQED_MilitaryPalletOfMedicine.label>palete militar de medicamentos</VQED_MilitaryPalletOfMedicine.label>
+  <VQED_MilitaryPalletOfMedicine.description>Caixas de suprimentos médicos padrão, seladas contra a decomposição. Algumas embalagens mostram desgaste, mas o conteúdo permanece viável.</VQED_MilitaryPalletOfMedicine.description>
+  
+  <VQED_MilitaryPalletOfPlasteel.label>palete militar de plastiaço</VQED_MilitaryPalletOfPlasteel.label>
+  <VQED_MilitaryPalletOfPlasteel.description>Um palete bem compactado de plastiaço denso e leve. Ainda em condições de uso.</VQED_MilitaryPalletOfPlasteel.description>
+  
+  <VQED_MilitaryPalletOfRations.label>palete militar de rações</VQED_MilitaryPalletOfRations.label>
+  <VQED_MilitaryPalletOfRations.description>Pilhas de refeições de sobrevivência embaladas, rotuladas para uso emergencial de longo prazo. Ainda seladas, ainda comestíveis. Provavelmente.</VQED_MilitaryPalletOfRations.description>
+  
+  <VQED_MilitaryPalletOfSteel.label>palete militar de aço</VQED_MilitaryPalletOfSteel.label>
+  <VQED_MilitaryPalletOfSteel.description>Um palete de armazenamento empilhado com vigas de aço. O metal mostra sinais de oxidação superficial, mas permanece estruturalmente sólido.</VQED_MilitaryPalletOfSteel.description>
+  
+  <VQED_MilitaryPalletOfSynthread.label>palete militar de fibra sintética</VQED_MilitaryPalletOfSynthread.label>
+  <VQED_MilitaryPalletOfSynthread.description>Rolos de tecido de fibra sintética embrulhados e rotulados para logística. Um leve odor químico sugere que está armazenado há décadas.</VQED_MilitaryPalletOfSynthread.description>
+  
+  <VQED_MysteriousAncientWeaponBox.label>caixa de armas misteriosa</VQED_MysteriousAncientWeaponBox.label>
+  <VQED_MysteriousAncientWeaponBox.description>Uma caixa de madeira longa e apodrecida que geralmente armazena armas. Pode ser aberta, mas não há como dizer qual arma está dentro.</VQED_MysteriousAncientWeaponBox.description>
+  
+  <VQED_SmallMilitaryCrateOfFlares.label>caixa militar de sinalizadores</VQED_SmallMilitaryCrateOfFlares.label>
+  <VQED_SmallMilitaryCrateOfFlares.description>Uma caixa militar pequena e enferrujada. Parece conter alguns sinalizadores disruptores valiosos.</VQED_SmallMilitaryCrateOfFlares.description>
+  
+  <VQED_SmallMilitaryCrateWithATome.label>caixa militar com um tomo antigo</VQED_SmallMilitaryCrateWithATome.label>
+  <VQED_SmallMilitaryCrateWithATome.description>Uma caixa militar pequena e enferrujada. Parece conter algum conhecimento antigo e sinistro na forma de um tomo.</VQED_SmallMilitaryCrateWithATome.description>
+
+  <VQED_AncientBurnoutGenerator.label>gerador de queima antigo</VQED_AncientBurnoutGenerator.label>
+  <VQED_AncientBurnoutGenerator.description>Um gerador compacto construído para uso a curto prazo. Precisa ser acionado para funcionar e operará apenas por um período limitado antes de desligar. Ele pode então ser acionado novamente.</VQED_AncientBurnoutGenerator.description>
+  <VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activateDescString>Escolha alguém para acionar o gerador de queima, criando uma fonte de energia temporária.</VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activateDescString>
+  <VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activateLabelString>Acionar gerador de queima</VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activateLabelString>
+  <VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activatingString>acionando gerador de queima: {1}s</VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activatingString>
+  <VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activatingStringPending>acionando gerador de queima</VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.activatingStringPending>
+  <VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.guiLabelString>Escolha quem deve fazer isto</VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.guiLabelString>
+  <VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.jobString>Acionando gerador de queima</VQED_AncientBurnoutGenerator.comps.CompInteractablePowerPlant.jobString>
+  
+  <VQED_IndustrialBurnoutGenerator.label>gerador de queima industrial</VQED_IndustrialBurnoutGenerator.label>
+  <VQED_IndustrialBurnoutGenerator.description>Um grande gerador de emergência armazenado nas profundezas do subsolo. Precisa ser acionado para funcionar e operará apenas por um período limitado antes de desligar. Ele pode então ser acionado novamente.</VQED_IndustrialBurnoutGenerator.description>
+  <VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activateDescString>Escolha alguém para acionar o gerador de queima, criando uma fonte de energia temporária.</VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activateDescString>
+  <VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activateLabelString>Acionar gerador de queima</VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activateLabelString>
+  <VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activatingString>acionando gerador de queima: {1}s</VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activatingString>
+  <VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activatingStringPending>acionando gerador de queima</VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.activatingStringPending>
+  <VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.guiLabelString>Escolha quem deve fazer isto</VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.guiLabelString>
+  <VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.jobString>Acionando gerador de queima</VQED_IndustrialBurnoutGenerator.comps.CompInteractablePowerPlant.jobString>
+
+  <VQED_AncientFuelPipeline.label>oleoduto antigo</VQED_AncientFuelPipeline.label>
+  <VQED_AncientFuelPipeline.description>Um grande oleoduto para transporte de combustível químico. Agora está enferrujado e gravemente danificado.</VQED_AncientFuelPipeline.description>
+  
+  <VQED_AncientHawk.label>hawk antigo</VQED_AncientHawk.label>
+  <VQED_AncientHawk.description>Um antigo jato de combate armazenado para conflitos futuros. O tempo e a corrosão o tornaram inoperante.</VQED_AncientHawk.description>
+  
+  <VQED_AncientHoldingPlatform.label>plataforma de contenção antiga</VQED_AncientHoldingPlatform.label>
+  <VQED_AncientHoldingPlatform.description>Uma plataforma reforçada destinada a prender entidades. As restrições agora estão inoperantes.</VQED_AncientHoldingPlatform.description>
+  
+  <VQED_AncientLandship.label>navio terrestre antigo</VQED_AncientLandship.label>
+  <VQED_AncientLandship.description>Um veículo terrestre massivo armazenado para um propósito peculiar, talvez para a guerra. Seus sistemas estão mortos e decadentes.</VQED_AncientLandship.description>
+  
+  <VQED_AncientMilitaryBox.label>caixa militar antiga</VQED_AncientMilitaryBox.label>
+  <VQED_AncientMilitaryBox.description>Uma caixa de suprimentos compacta, outrora pronta para uso de emergência. Agora está empenada por décadas de exposição.</VQED_AncientMilitaryBox.description>
+  
+  <VQED_AncientMilitaryCrate.label>caixote militar antigo</VQED_AncientMilitaryCrate.label>
+  <VQED_AncientMilitaryCrate.description>Um caixote de armazenamento selado de um estoque militar. O conteúdo degradou-se ou fundiu-se ao fechar.</VQED_AncientMilitaryCrate.description>
+  
+  <VQED_AncientOminousMachinery.label>maquinário sinistro antigo</VQED_AncientOminousMachinery.label>
+  <VQED_AncientOminousMachinery.description>Equipamento complexo armazenado sem documentação. Obstruído por poeira e inerte após anos de dormência.</VQED_AncientOminousMachinery.description>
+  
+  <VQED_AncientSpool.label>carretel antigo</VQED_AncientSpool.label>
+  <VQED_AncientSpool.description>Um grande carretel industrial para cabos ou mangueiras. A corrosão o tornou quebradiço e inutilizável.</VQED_AncientSpool.description>
+  
+  <VQED_AncientTank.label>tanque antigo</VQED_AncientTank.label>
+  <VQED_AncientTank.description>Um veículo blindado preservado. Seus sistemas eletrônicos e hidráulicos deterioraram-se com o tempo.</VQED_AncientTank.description>
+  
+  <VQED_BuriedDeathPit.label>fosso da morte enterrado</VQED_BuriedDeathPit.label>
+  <VQED_BuriedDeathPit.description>Um antigo fosso de contenção, agora completamente coberto por metal retorcido e sucata, impedindo que qualquer coisa que estivesse adormecida lá dentro rasteje para fora.</VQED_BuriedDeathPit.description>
+  
+  <VQED_BustedMinigunTurret.label>torreta metralhadora giratória destruída</VQED_BustedMinigunTurret.label>
+  <VQED_BustedMinigunTurret.description>Um antigo invólucro de torreta rasgado por impactos pesados. O sistema de armas em seu interior está estilhaçado e inerte.</VQED_BustedMinigunTurret.description>
+  
+  <VQED_BustedVehicleElevator.label>elevador de veículos destruído</VQED_BustedVehicleElevator.label>
+  <VQED_BustedVehicleElevator.description>Uma antiga plataforma de elevador projetada para mover veículos pesados. Não funcional devido a falha mecânica.</VQED_BustedVehicleElevator.description>
+  
+  <VQED_DamagedTire.label>pneu danificado</VQED_DamagedTire.label>
+  <VQED_DamagedTire.description>Um pneu sobressalente armazenado por muito tempo em condições secas. Sua borracha rachou e falhou.</VQED_DamagedTire.description>
+  
+  <VQED_DefunctTerminal.label>terminal extinto</VQED_DefunctTerminal.label>
+  <VQED_DefunctTerminal.description>Um antigo terminal de computador. Está desconectado da energia ou simplesmente não funciona.</VQED_DefunctTerminal.description>
+  
+  <VQED_DefunctTerminalBank.label>banco de terminais extinto</VQED_DefunctTerminalBank.label>
+  <VQED_DefunctTerminalBank.description>Um conjunto antigo de terminais de computador. Está desconectado da energia ou simplesmente não funciona.</VQED_DefunctTerminalBank.description>
+  
+  <VQED_EmptyAncientKennel.label>canil antigo vazio</VQED_EmptyAncientKennel.label>
+  <VQED_EmptyAncientKennel.description>Um canil grande que poderia abrigar vários animais suspensos em um coma induzido por poeira mortal. Está completamente vazio.</VQED_EmptyAncientKennel.description>
+  
+  <VQED_LargeRottenCrate.label>caixote podre grande</VQED_LargeRottenCrate.label>
+  <VQED_LargeRottenCrate.description>Um caixote de armazenamento de alta resistência que empenou e lascou com o tempo.</VQED_LargeRottenCrate.description>
+  
+  <VQED_MountainOfCasings.label>montanha de cartuchos</VQED_MountainOfCasings.label>
+  <VQED_MountainOfCasings.description>Uma massa de detritos de munição enferrujados. Abandonados após um evento desconhecido de treinamento ou mau funcionamento.</VQED_MountainOfCasings.description>
+  
+  <VQED_OldShippingContainer.label>contêiner de carga antigo</VQED_OldShippingContainer.label>
+  <VQED_OldShippingContainer.description>Um contêiner de carga pesado, outrora trancado por segurança. As dobradiças estão fundidas devido à ferrugem.</VQED_OldShippingContainer.description>
+  
+  <VQED_OpenDeadlifeCasket.label>sarcófago mortal vazio</VQED_OpenDeadlifeCasket.label>
+  <VQED_OpenDeadlifeCasket.description>Um antigo sarcófago militar que suspende um soldado de alta patente usando partículas mortais. O que quer que estivesse lá dentro não está mais lá.</VQED_OpenDeadlifeCasket.description>
+  
+  <VQED_PileOfCasings.label>pilha de cartuchos</VQED_PileOfCasings.label>
+  <VQED_PileOfCasings.description>Cartuchos de artilharia antigos varridos em uma pilha. Provavelmente remanescentes de testes de tiro real no nível de armazenamento.</VQED_PileOfCasings.description>
+  
+  <VQED_RottenCrate.label>caixote podre</VQED_RottenCrate.label>
+  <VQED_RottenCrate.description>Um caixote de madeira armazenado muito próximo à umidade. Colapsou sob seu próprio peso.</VQED_RottenCrate.description>
+  
+  <VQED_RuinedInhibitorLeft.label>grande inibidor arruinado (esquerda)</VQED_RuinedInhibitorLeft.label>
+  <VQED_RuinedInhibitorLeft.description>Uma estrutura de contenção de função desconhecida. Sistemas críticos falharam devido à inatividade prolongada.</VQED_RuinedInhibitorLeft.description>
+  
+  <VQED_RuinedInhibitorRight.label>grande inibidor arruinado (direita)</VQED_RuinedInhibitorRight.label>
+  <VQED_RuinedInhibitorRight.description>Uma estrutura de contenção de função desconhecida. Sistemas críticos falharam devido à inatividade prolongada.</VQED_RuinedInhibitorRight.description>
+  
+  <VQED_RustedAncientCot.label>maca antiga enferrujada</VQED_RustedAncientCot.label>
+  <VQED_RustedAncientCot.description>Uma maca militar enferrujada. Oferece pouco conforto.</VQED_RustedAncientCot.description>
+  
+  <VQED_RustedBarrel.label>barril enferrujado</VQED_RustedBarrel.label>
+  <VQED_RustedBarrel.description>Um barril industrial selado. Seu conteúdo secou ou evaporou há muito tempo.</VQED_RustedBarrel.description>
+  
+  <VQED_RustedImmobilizer.label>imobilizador enferrujado</VQED_RustedImmobilizer.label>
+  <VQED_RustedImmobilizer.description>Uma estrutura de restrição vertical com tiras de metal e manchas escuras. O que quer que tenha sido mantido aqui não saiu por vontade própria.</VQED_RustedImmobilizer.description>
+  
+  <VQED_RustedStepladder.label>escada de mão enferrujada</VQED_RustedStepladder.label>
+  <VQED_RustedStepladder.description>Uma escada de manutenção colocada aqui há muito tempo. A fadiga do metal tornou seu uso inseguro.</VQED_RustedStepladder.description>
+  
+  <VQED_RustedToolbox.label>caixa de ferramentas enferrujada</VQED_RustedToolbox.label>
+  <VQED_RustedToolbox.description>Uma caixa de ferramentas pesada mantida em reserva. As ferramentas no interior fundiram-se com ferrugem e poeira.</VQED_RustedToolbox.description>
+  
+  <VQED_TirePallet.label>palete de pneus</VQED_TirePallet.label>
+  <VQED_TirePallet.description>Um conjunto organizado de pneus sobressalentes. O tempo os tornou quebradiços e inseguros.</VQED_TirePallet.description>
+  
+  <VQED_UnwrappedAncientTank.label>tanque antigo</VQED_UnwrappedAncientTank.label>
+  <VQED_UnwrappedAncientTank.description>Um veículo blindado preservado. Seus sistemas eletrônicos e hidráulicos deterioraram-se com o tempo.</VQED_UnwrappedAncientTank.description>
+  
+  <VQED_UselessScripPallet.label>palete de bônus inútil</VQED_UselessScripPallet.label>
+  <VQED_UselessScripPallet.description>Um palete apodrecendo empilhado com tiras de papel úmidas. Possivelmente moeda, embora seu propósito tenha se perdido no tempo.</VQED_UselessScripPallet.description>
+
+  <VQED_ActiveTerminal.label>terminal ativo</VQED_ActiveTerminal.label>
+  <VQED_ActiveTerminal.description>Um antigo terminal de computador. Parece ainda estar conectado à energia, com alguns protocolos defensivos enigmáticos prontos para serem ativados por uma pessoa no comando.</VQED_ActiveTerminal.description>
+  
+  <VQED_AncientDesk.label>mesa antiga</VQED_AncientDesk.label>
+  <VQED_AncientDesk.description>Uma antiga mesa militar. Nada de útil resta nela.</VQED_AncientDesk.description>
+  
+  <VQED_AncientKennel.label>canil antigo</VQED_AncientKennel.label>
+  <VQED_AncientKennel.description>Um canil grande que poderia abrigar vários animais suspensos em um coma induzido por poeira mortal. Parece seguro o suficiente, por enquanto.\n\nO General pode ativar esta armadilha a partir de um dos terminais na sala de comando.</VQED_AncientKennel.description>
+  
+  <VQED_AncientPlanningDesk.label>mesa de planejamento antiga</VQED_AncientPlanningDesk.label>
+  <VQED_AncientPlanningDesk.description>Uma antiga mesa militar contendo mapas e planos de batalha. Estudá-la pode revelar a localização de outro silo antigo.</VQED_AncientPlanningDesk.description>
+  
+  <VQED_ClosedChute.label>calha fechada</VQED_ClosedChute.label>
+  <VQED_ClosedChute.description>Uma calha fechada com um propósito desconhecido.\n\nO General pode ativar esta armadilha a partir de um dos terminais na sala de comando.</VQED_ClosedChute.description>
+  
+  <VQED_ClosedDeadlifeCasket.label>sarcófago mortal fechado</VQED_ClosedDeadlifeCasket.label>
+  <VQED_ClosedDeadlifeCasket.description>Um antigo sarcófago militar que suspende um soldado de alta patente usando partículas mortais.\n\nO General pode ativar esta armadilha a partir de um dos terminais na sala de comando.</VQED_ClosedDeadlifeCasket.description>
+  
+  <VQED_ClosedRotstinkVent.label>ventilação de podridão fechada</VQED_ClosedRotstinkVent.label>
+  <VQED_ClosedRotstinkVent.description>Uma grande abertura de ventilação conectada a algum armazenamento revoltante de biomassa. Parece estar desligada por enquanto.\n\nO General pode ativar esta armadilha a partir de um dos terminais na sala de comando.</VQED_ClosedRotstinkVent.description>
+  
+  <VQED_DormantMilitaryTurret.label>torreta militar adormecida</VQED_DormantMilitaryTurret.label>
+  <VQED_DormantMilitaryTurret.description>Uma torreta automática adormecida. A munição alimentada por fita garante que ela possa disparar continuamente por longos períodos, mas seu cérebro de IA burra não pode ser controlado diretamente, o que torna o fogo amigo provável. Parece estar inativa, por enquanto.\n\nO General pode ativar esta armadilha a partir de um dos terminais na sala de comando.</VQED_DormantMilitaryTurret.description>
+  
+  <VQED_EerieSarcophagus.label>sarcófago sinistro</VQED_EerieSarcophagus.label>
+  <VQED_EerieSarcophagus.description>Um sarcófago preto selado. Apresenta sinais de pressão interna, mas sem pontos de acesso visíveis.</VQED_EerieSarcophagus.description>
+  
+  <VQED_EmptyEerieSarcophagus.label>sarcófago sinistro vazio</VQED_EmptyEerieSarcophagus.label>
+  <VQED_EmptyEerieSarcophagus.description>Um sarcófago preto vazio.</VQED_EmptyEerieSarcophagus.description>
+  
+  <VQED_EmptyICBMSilo.label>silo de ICBM vazio</VQED_EmptyICBMSilo.label>
+  <VQED_EmptyICBMSilo.description>Um suporte de míssil sem carga útil. As portas de manutenção estão seladas e fundidas.</VQED_EmptyICBMSilo.description>
+  
+  <VQED_ICBMLaunchTerminal.label>terminal de lançamento de ICBM</VQED_ICBMLaunchTerminal.label>
+  <VQED_ICBMLaunchTerminal.description>Um conjunto antigo de terminais de computador. As telas contêm informações sobre a preparação para lançar uma série de ICBMs contendo cargas mortais. Uma vez iniciada a sequência de lançamento, ela não pode ser interrompida. Parece que apenas a pessoa no comando do complexo pode iniciar o lançamento.</VQED_ICBMLaunchTerminal.description>
+  
+  <VQED_ICBMSiloLid.label>tampa de silo de ICBM</VQED_ICBMSiloLid.label>
+  <VQED_ICBMSiloLid.description>Uma tampa sólida projetada para proteger uma ogiva armada. O sistema de liberação emperrou.</VQED_ICBMSiloLid.description>
+  
+  <VQED_InactiveDeadlifeVent.label>ventilação mortal inativa</VQED_InactiveDeadlifeVent.label>
+  <VQED_InactiveDeadlifeVent.description>Uma ventilação independente conectada a um sistema subterrâneo de distribuição de partículas mortais. Se reativada, inundará rapidamente a área com poeira mortal.\n\nO General pode ativar esta armadilha a partir de um dos terminais na sala de comando.</VQED_InactiveDeadlifeVent.description>
+  
+  <VQED_InertDarkObelisk.label>obelisco sombrio inerte</VQED_InertDarkObelisk.label>
+  <VQED_InertDarkObelisk.description>Um obelisco massivo e denteado, sem marcações ou costuras visíveis. Sua superfície absorve a luz de forma não natural, e a proximidade induz dores de cabeça e mal-estar. Embora inerte por enquanto, vibrações ocasionais sugerem que pode não permanecer adormecido para sempre.</VQED_InertDarkObelisk.description>
+  
+  <VQED_InertDarkPillar.label>pilar sombrio inerte</VQED_InertDarkPillar.label>
+  <VQED_InertDarkPillar.description>Um pilar preto imponente de uma liga desconhecida. Embora pareça inativo, ele zumbe levemente com uma ressonância profunda e quase imperceptível. O ar ao redor parece mais pesado perto dele, e as leituras de equipamentos frequentemente falham sem motivo. Nenhuma função óbvia pode ser determinada, mas sua presença é profundamente perturbadora.</VQED_InertDarkPillar.description>
+  
+  <VQED_InertDeathDoorway.label>portal da morte inerte</VQED_InertDeathDoorway.label>
+  <VQED_InertDeathDoorway.description>Um portal monolítico sombrio selado na própria estrutura. De dentro, finos fluxos de poeira mortal flutuam para fora, desafiando o fluxo de ar. Sem dobradiças, sem mecanismos, apenas a sensação de que algo espera do outro lado.</VQED_InertDeathDoorway.description>
+  
+  <VQED_LoadedICBMSilo.label>silo de ICBM carregado</VQED_LoadedICBMSilo.label>
+  <VQED_LoadedICBMSilo.description>Um míssil ainda intacto repousa dentro deste silo. Sem sinais de ativação ou manutenção em décadas.</VQED_LoadedICBMSilo.description>
+  
+  <VQED_LockedICBMSilo.label>silo de ICBM trancado</VQED_LockedICBMSilo.label>
+  <VQED_LockedICBMSilo.description>Uma escotilha de silo que nunca recebeu um sinal de lançamento. O mecanismo, desde então, travou firmemente.</VQED_LockedICBMSilo.description>
+  
+  <VQED_SealedDeathPit.label>fosso da morte selado</VQED_SealedDeathPit.label>
+  <VQED_SealedDeathPit.description>Um fosso de contenção selado revestido com restrições antigas. Rastros fracos de poeira mortal escapam pelas fendas, e algo lá dentro se mexe constantemente, empurrando, raspando, tentando rastejar para fora. Portas blindadas pesadas impedem que a escuridão se espalhe, mas o mecanismo parece bem mantido.\n\nO General pode ativar esta armadilha a partir de um dos terminais na sala de comando.</VQED_SealedDeathPit.description>
+
+  <VQED_AncientKinoProjector.label>projetor de cinema antigo</VQED_AncientKinoProjector.label>
+  <VQED_AncientKinoProjector.description>Uma antiga unidade de projeção posicionada para uso com uma tela correspondente. Funciona quando ligada à energia, mas apenas se estiver apontada para a tela de cinema.</VQED_AncientKinoProjector.description>
+  
+  <VQED_AncientKinoScreen.label>tela de cinema antiga</VQED_AncientKinoScreen.label>
+  <VQED_AncientKinoScreen.description>Uma tela massiva do velho mundo, outrora usada para exibições comunitárias. Visuais granulados ganham vida apenas quando combinados com um projetor de cinema funcional. Ainda é estranhamente cativante, apesar da estática e distorção.</VQED_AncientKinoScreen.description>
+
+  <VQED_ActiveDeadlifeVent.label>ventilação mortal</VQED_ActiveDeadlifeVent.label>
+  <VQED_ActiveDeadlifeVent.description>Uma ventilação independente conectada a um sistema subterrâneo de distribuição de partículas mortais. Um suprimento infinito de poeira mortal jorra da saída.</VQED_ActiveDeadlifeVent.description>
+  
+  <VQED_AncientMilitaryTurret.label>torreta militar antiga</VQED_AncientMilitaryTurret.label>
+  <VQED_AncientMilitaryTurret.description>Uma torreta automática. A munição alimentada por fita garante que ela possa disparar continuamente por longos períodos, mas seu cérebro de IA burra não pode ser controlado diretamente, o que torna o fogo amigo provável.</VQED_AncientMilitaryTurret.description>
+  
+  <VQED_AncientMilitaryTurret_Bullet.label>bala de minitorreta</VQED_AncientMilitaryTurret_Bullet.label>
+  
+  <VQED_AncientMilitaryTurret_Gun.label>torreta militar antiga</VQED_AncientMilitaryTurret_Gun.label>
+  <VQED_AncientMilitaryTurret_Gun.description>Uma arma automática simples feita para ser montada em uma torreta.</VQED_AncientMilitaryTurret_Gun.description>
+  <VQED_AncientMilitaryTurret_Gun.verbs.Verb_Shoot.label>disparo de torreta militar antiga</VQED_AncientMilitaryTurret_Gun.verbs.Verb_Shoot.label>
+  
+  <VQED_DeadlifeNode.label>nó mortal</VQED_DeadlifeNode.label>
+  <VQED_DeadlifeNode.description>Um nó volátil enterrado na instalação. Proximidade ou movimento causa instabilidade e descarga de partículas mortais.</VQED_DeadlifeNode.description>
+  
+  <VQED_DeathHole.label>buraco da morte</VQED_DeathHole.label>
+  <VQED_DeathHole.description>Um pequeno buraco de contenção onde experimentos fracassados eram jogados, com a intenção de serem posteriormente enterrados em concreto. Rastros fracos de poeira mortal escapam, e algo lá dentro se mexe constantemente, empurrando, raspando, tentando rastejar para fora.</VQED_DeathHole.description>
+  
+  <VQED_DeathPit.label>fosso da morte</VQED_DeathPit.label>
+  <VQED_DeathPit.description>Um fosso de contenção selado revestido com restrições antigas. Rastros fracos de poeira mortal escapam pelas fendas, e algo lá dentro se mexe constantemente, empurrando, raspando, tentando rastejar para fora.</VQED_DeathPit.description>
+  
+  <VQED_OpenChute.label>calha</VQED_OpenChute.label>
+  <VQED_OpenChute.description>Uma calha aberta com um propósito desconhecido. Alguns sons sinistros podem ser ouvidos lá embaixo, mas ninguém sabe quão fundo ela vai.</VQED_OpenChute.description>
+  
+  <VQED_OpenRotstinkVent.label>ventilação de podridão</VQED_OpenRotstinkVent.label>
+  <VQED_OpenRotstinkVent.description>Uma grande abertura de ventilação conectada a algum armazenamento revoltante de biomassa. Ejeta grandes quantidades de gás de podridão.</VQED_OpenRotstinkVent.description>
+
+  <VQE_DisruptorFlare.label>sinalizador disruptor</VQE_DisruptorFlare.label>
+  <VQE_DisruptorFlare.description>Tubos de plástico cheios de bioferrita. Ao impacto, o sinalizador queima, criando um flash brilhante e uma disrupção psíquica local. Isso atordoa criaturas psiquicamente sensíveis, revelando aquelas que estão invisíveis e reduzindo sua consciência e velocidade de movimento por um curto período. Depois disso, o sinalizador continua a queimar, iluminando uma ampla área por algum tempo.</VQE_DisruptorFlare.description>
+  <VQE_DisruptorFlare.verbs.throw_disruptor_flare.label>arremessar sinalizador disruptor</VQE_DisruptorFlare.verbs.throw_disruptor_flare.label>
+
+  <VQED_DistantICBMExplosion.label>explosão de ICBM distante</VQED_DistantICBMExplosion.label>
+  
+  <VQED_PawnFlyer_Stun.label>voando</VQED_PawnFlyer_Stun.label>
+
+  <VQED_ICBMSkyfaller.label>ICBM mortal</VQED_ICBMSkyfaller.label>
+  
+</LanguageData>
