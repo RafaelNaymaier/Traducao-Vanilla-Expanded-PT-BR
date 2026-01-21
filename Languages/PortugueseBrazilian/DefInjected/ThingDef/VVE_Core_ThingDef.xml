@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VVE_GarageCabinet.label>armário de garagem</VVE_GarageCabinet.label>
+  <VVE_GarageCabinet.description>Um armário prático que contém um monte de ferramentas extras de vários tamanhos e funções. Aumenta a velocidade de trabalho quando colocado perto de uma bancada de garagem. Uma bancada pode usar até dois armários de garagem.</VVE_GarageCabinet.description>
+
+  <VVE_RefuelingPump.label>bomba de reabastecimento</VVE_RefuelingPump.label>
+  <VVE_RefuelingPump.description>Uma bomba de reabastecimento que reabastecerá automaticamente veículos movidos a combustível parados no local de interação. Precisa ser abastecida com combustível.</VVE_RefuelingPump.description>
+
+  <VVE_GarageBench.label>bancada de garagem</VVE_GarageBench.label>
+  <VVE_GarageBench.description>Uma estação de trabalho especializada para montar peças de veículos. Para aqueles que estão desesperados, carros enferrujados e blocos de motor podem ser desmontados em busca de quaisquer peças funcionais restantes.</VVE_GarageBench.description>
+
+  <VVE_TankTrap.label>obstáculo para tanques</VVE_TankTrap.label>
+  <VVE_TankTrap.description>Uma fortificação defensiva para parar veículos. Fornece uma pequena quantidade de cobertura e pode ser atravessada a pé, mas não é transponível por veículos.</VVE_TankTrap.description>
+
+  <VVE_GarageAutoDoor.label>porta de garagem automática (1x4)</VVE_GarageAutoDoor.label>
+  <VVE_GarageAutoDoor.description>Divide quartos. A operação elétrica permite que a porta se abra sem interação manual, permitindo a passagem de veículos.</VVE_GarageAutoDoor.description>
+
+  <VVE_GarageAutoDoorLarge.label>porta de garagem automática (1x5)</VVE_GarageAutoDoorLarge.label>
+  <VVE_GarageAutoDoorLarge.description>Divide quartos. A operação elétrica permite que a porta se abra sem interação manual, permitindo a passagem de veículos.</VVE_GarageAutoDoorLarge.description>
+
+  <VVE_GarageAutoDoorLargeOpened.label>porta de garagem automática aberta (1x5)</VVE_GarageAutoDoorLargeOpened.label>
+  <VVE_GarageAutoDoorLargeOpened.description>Divide quartos. A operação elétrica permite que a porta se abra sem interação manual, permitindo a passagem de veículos.</VVE_GarageAutoDoorLargeOpened.description>
+
+  <VVE_GarageAutoDoorOpened.label>porta de garagem automática aberta (1x4)</VVE_GarageAutoDoorOpened.label>
+  <VVE_GarageAutoDoorOpened.description>Divide quartos. A operação elétrica permite que a porta se abra sem interação manual, permitindo a passagem de veículos.</VVE_GarageAutoDoorOpened.description>
+
+  <VVE_GarageDoor.label>porta de garagem (1x4)</VVE_GarageDoor.label>
+  <VVE_GarageDoor.description>Divide quartos. A operação manual permite que as pessoas a abram, permitindo a passagem de veículos.</VVE_GarageDoor.description>
+
+  <VVE_GarageDoorLarge.label>porta de garagem (1x5)</VVE_GarageDoorLarge.label>
+  <VVE_GarageDoorLarge.description>Divide quartos. A operação manual permite que as pessoas a abram, permitindo a passagem de veículos.</VVE_GarageDoorLarge.description>
+
+  <VVE_GarageDoorLargeOpened.label>porta de garagem aberta (1x5)</VVE_GarageDoorLargeOpened.label>
+  <VVE_GarageDoorLargeOpened.description>Divide quartos. A operação manual permite que as pessoas a abram, permitindo a passagem de veículos.</VVE_GarageDoorLargeOpened.description>
+
+  <VVE_GarageDoorOpened.label>porta de garagem aberta (1x4)</VVE_GarageDoorOpened.label>
+  <VVE_GarageDoorOpened.description>Divide quartos. A operação manual permite que as pessoas a abram, permitindo a passagem de veículos.</VVE_GarageDoorOpened.description>
+
+  <VVE_BangBus.label>Bang Bus</VVE_BangBus.label>
+  <VVE_BangBus.description>Um transporte de passageiros básico, o Bangbus é uma peça de maquinaria relativamente barata para construir e transportar pessoas por estradas de terreno plano. Não é recomendado para uso na estação de inverno ou em terreno com neve, ou ambos, pois as leves placas de blindagem que protegem os passageiros afetam negativamente sua aceleração.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x5\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_BangBus.description>
+  <VVE_BangBus.components.0.label>Motor</VVE_BangBus.components.0.label>
+  <VVE_BangBus.components.1.label>Roda dianteira esquerda</VVE_BangBus.components.1.label>
+  <VVE_BangBus.components.2.label>Roda dianteira direita</VVE_BangBus.components.2.label>
+  <VVE_BangBus.components.3.label>Roda traseira esquerda</VVE_BangBus.components.3.label>
+  <VVE_BangBus.components.4.label>Roda traseira direita</VVE_BangBus.components.4.label>
+  <VVE_BangBus.components.5.label>Suspensão dianteira esquerda</VVE_BangBus.components.5.label>
+  <VVE_BangBus.components.6.label>Suspensão dianteira direita</VVE_BangBus.components.6.label>
+  <VVE_BangBus.components.7.label>Caixa de câmbio</VVE_BangBus.components.7.label>
+  <VVE_BangBus.components.8.label>Painel lateral esquerdo</VVE_BangBus.components.8.label>
+  <VVE_BangBus.components.9.label>Painel lateral direito</VVE_BangBus.components.9.label>
+  <VVE_BangBus.components.10.label>Tanque de combustível</VVE_BangBus.components.10.label>
+  <VVE_BangBus.components.11.label>Para-choque dianteiro</VVE_BangBus.components.11.label>
+  <VVE_BangBus.components.12.label>Para-choque traseiro</VVE_BangBus.components.12.label>
+  <VVE_BangBus.components.13.label>Estofamento</VVE_BangBus.components.13.label>
+  <VVE_BangBus.components.14.label>Painel</VVE_BangBus.components.14.label>
+  <VVE_BangBus.components.15.label>Volante</VVE_BangBus.components.15.label>
+  <VVE_BangBus.components.16.label>Alternador</VVE_BangBus.components.16.label>
+  <VVE_BangBus.components.17.label>Capô</VVE_BangBus.components.17.label>
+  <VVE_BangBus.components.18.label>Teto</VVE_BangBus.components.18.label>
+  <VVE_BangBus.properties.roles.0.label>Motorista</VVE_BangBus.properties.roles.0.label>
+  <VVE_BangBus.properties.roles.1.label>Carona (Shotgun)</VVE_BangBus.properties.roles.1.label>
+  <VVE_BangBus.properties.roles.2.label>Passageiro traseiro</VVE_BangBus.properties.roles.2.label>
+
+  <Bullet_Bulldog_MainTurret.label>projétil altamente explosivo</Bullet_Bulldog_MainTurret.label>
+
+  <VVE_Bulldog.label>Bulldog</VVE_Bulldog.label>
+  <VVE_Bulldog.description>Um tanque de batalha principal geral, o Bulldog é um veículo de combate aprimorado que apresenta bom desempenho em qualquer combate. Possui melhor performance em terrenos menos favoráveis com todos os lados blindados, sendo a blindagem mais fina na parte traseira, próxima ao motor.\n\nDiferente de outros veículos de nível 2, este possui eficiência de combustível regular e é bastante visível, o que ainda é uma melhoria em relação ao tanque de nível 1.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Atirador x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Bulldog.description>
+  
+  <VVE_Bulldog.components.0.label>Motor</VVE_Bulldog.components.0.label>
+  <VVE_Bulldog.components.1.label>Lagarta esquerda</VVE_Bulldog.components.1.label>
+  <VVE_Bulldog.components.2.label>Lagarta direita</VVE_Bulldog.components.2.label>
+  <VVE_Bulldog.components.3.label>Roda dentada dianteira esq.</VVE_Bulldog.components.3.label>
+  <VVE_Bulldog.components.4.label>Roda dentada dianteira dir.</VVE_Bulldog.components.4.label>
+  <VVE_Bulldog.components.5.label>Roda dentada traseira esq.</VVE_Bulldog.components.5.label>
+  <VVE_Bulldog.components.6.label>Roda dentada traseira dir.</VVE_Bulldog.components.6.label>
+  <VVE_Bulldog.components.7.label>Caixa de câmbio</VVE_Bulldog.components.7.label>
+  <VVE_Bulldog.components.8.label>Placa de blindagem frontal</VVE_Bulldog.components.8.label>
+  <VVE_Bulldog.components.9.label>Placa de blindagem esquerda</VVE_Bulldog.components.9.label>
+  <VVE_Bulldog.components.10.label>Placa de blindagem direita</VVE_Bulldog.components.10.label>
+  <VVE_Bulldog.components.11.label>Placa de blindagem traseira</VVE_Bulldog.components.11.label>
+  <VVE_Bulldog.components.12.label>Tanque de combustível</VVE_Bulldog.components.12.label>
+  <VVE_Bulldog.components.13.label>Painel</VVE_Bulldog.components.13.label>
+  <VVE_Bulldog.components.14.label>Aparelho de direção</VVE_Bulldog.components.14.label>
+  <VVE_Bulldog.components.15.label>Alternador</VVE_Bulldog.components.15.label>
+  <VVE_Bulldog.components.16.label>Teto</VVE_Bulldog.components.16.label>
+  <VVE_Bulldog.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Torre principal</VVE_Bulldog.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+  <VVE_Bulldog.properties.roles.0.label>Motorista</VVE_Bulldog.properties.roles.0.label>
+  <VVE_Bulldog.properties.roles.1.label>Atirador</VVE_Bulldog.properties.roles.1.label>
+
+  <VVE_Bullet_Bunsen.label>jorro</VVE_Bullet_Bunsen.label>
+
+  <VVE_Bunsen.label>Bunsen</VVE_Bunsen.label>
+  <VVE_Bunsen.description>Um tanque leve básico, o Bunsen é um veículo blindado modificado adequado para enfrentar fortificações inimigas e infantaria exposta. Blindagem leve especial para evitar a autoimolação, combinada com sua arma principal que extrai combustível diretamente de seus tanques ampliados, o tornam um modelo muito precário para o campo de batalha.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias, no entanto, também é menos eficiente em termos de combustível no mapa mundial.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Atirador x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Bunsen.description>
+  <VVE_Bunsen.components.0.label>Motor</VVE_Bunsen.components.0.label>
+  <VVE_Bunsen.components.1.label>Lagarta esquerda</VVE_Bunsen.components.1.label>
+  <VVE_Bunsen.components.2.label>Lagarta direita</VVE_Bunsen.components.2.label>
+  <VVE_Bunsen.components.3.label>Roda dentada dianteira esq.</VVE_Bunsen.components.3.label>
+  <VVE_Bunsen.components.4.label>Roda dentada dianteira dir.</VVE_Bunsen.components.4.label>
+  <VVE_Bunsen.components.5.label>Roda dentada traseira esq.</VVE_Bunsen.components.5.label>
+  <VVE_Bunsen.components.6.label>Roda dentada traseira dir.</VVE_Bunsen.components.6.label>
+  <VVE_Bunsen.components.7.label>Caixa de câmbio</VVE_Bunsen.components.7.label>
+  <VVE_Bunsen.components.8.label>Placa de blindagem esquerda</VVE_Bunsen.components.8.label>
+  <VVE_Bunsen.components.9.label>Placa de blindagem direita</VVE_Bunsen.components.9.label>
+  <VVE_Bunsen.components.10.label>Placa de blindagem frontal</VVE_Bunsen.components.10.label>
+  <VVE_Bunsen.components.11.label>Placa de blindagem traseira</VVE_Bunsen.components.11.label>
+  <VVE_Bunsen.components.12.label>Tanque de combustível</VVE_Bunsen.components.12.label>
+  <VVE_Bunsen.components.13.label>Painel</VVE_Bunsen.components.13.label>
+  <VVE_Bunsen.components.14.label>Aparelho de direção</VVE_Bunsen.components.14.label>
+  <VVE_Bunsen.components.15.label>Alternador</VVE_Bunsen.components.15.label>
+  <VVE_Bunsen.components.16.label>Teto</VVE_Bunsen.components.16.label>
+  <VVE_Bunsen.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Torre principal</VVE_Bunsen.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+  <VVE_Bunsen.properties.roles.0.label>Motorista</VVE_Bunsen.properties.roles.0.label>
+  <VVE_Bunsen.properties.roles.1.label>Atirador</VVE_Bunsen.properties.roles.1.label>
+
+  <VVE_Charley.label>Charley</VVE_Charley.label>
+  <VVE_Charley.description>Uma motocicleta versátil, a Charley é um veículo individual muito eficaz com uma pequena capacidade de carga. Apresenta bom desempenho em qualquer estrada, exceto durante a estação de inverno ou terreno com neve, ou ambos, com uma velocidade aumentada no mapa mundial.\n\nSemelhante a outros veículos de nível 2, esta possui o dobro da eficiência de combustível no mapa mundial, o que os torna mais eficientes do que os veículos de nível 1. Também são menos visíveis devido à fabricação aprimorada.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Charley.description>
+  <VVE_Charley.components.0.label>Roda dianteira</VVE_Charley.components.0.label>
+  <VVE_Charley.components.1.label>Roda traseira</VVE_Charley.components.1.label>
+  <VVE_Charley.components.2.label>Motor</VVE_Charley.components.2.label>
+  <VVE_Charley.components.3.label>Suspensão dianteira</VVE_Charley.components.3.label>
+  <VVE_Charley.components.4.label>Suspensão traseira</VVE_Charley.components.4.label>
+  <VVE_Charley.properties.roles.0.label>Motociclista</VVE_Charley.properties.roles.0.label>
+
+  <VVE_Dinghy.label>Bote</VVE_Dinghy.label>
+  <VVE_Dinghy.description>Um barco motorizado muito básico, o Bote é um método de transporte sobre a água incrivelmente barato e discreto. Possui uma boa capacidade de carga, no entanto, é provável que congele completamente nos períodos de inverno e se mova lentamente em rios. O motor exposto montado na traseira é vulnerável a ataques e não se deve esperar que a blindagem do casco resista a armas de projéteis.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x5\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Dinghy.description>
+  <VVE_Dinghy.components.0.label>Motor</VVE_Dinghy.components.0.label>
+  <VVE_Dinghy.components.1.label>Painel lateral esquerdo</VVE_Dinghy.components.1.label>
+  <VVE_Dinghy.components.2.label>Painel lateral direito</VVE_Dinghy.components.2.label>
+  <VVE_Dinghy.properties.roles.0.label>Motorista</VVE_Dinghy.properties.roles.0.label>
+  <VVE_Dinghy.properties.roles.1.label>Passageiro 1</VVE_Dinghy.properties.roles.1.label>
+  <VVE_Dinghy.properties.roles.2.label>Passageiro 2</VVE_Dinghy.properties.roles.2.label>
+  <VVE_Dinghy.properties.roles.3.label>Passageiro 3</VVE_Dinghy.properties.roles.3.label>
+  <VVE_Dinghy.properties.roles.4.label>Passageiro 4</VVE_Dinghy.properties.roles.4.label>
+  <VVE_Dinghy.properties.roles.5.label>Passageiro 5</VVE_Dinghy.properties.roles.5.label>
+
+  <VVE_Dirtbike.label>Dirtbike</VVE_Dirtbike.label>
+  <VVE_Dirtbike.description>Uma motocicleta off-road básica, a Dirtbike é um veículo muito barato que permite a um único usuário viajar de forma rápida, eficiente e silenciosa. Incrivelmente leve e com blindagem praticamente inexistente, apresenta baixo desempenho no inverno ou na neve, ou ambos, e não possui absolutamente nenhuma capacidade de carga.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Dirtbike.description>
+  <VVE_Dirtbike.components.0.label>Roda dianteira</VVE_Dirtbike.components.0.label>
+  <VVE_Dirtbike.components.1.label>Roda traseira</VVE_Dirtbike.components.1.label>
+  <VVE_Dirtbike.components.2.label>Motor</VVE_Dirtbike.components.2.label>
+  <VVE_Dirtbike.components.3.label>Suspensão dianteira</VVE_Dirtbike.components.3.label>
+  <VVE_Dirtbike.components.4.label>Suspensão traseira</VVE_Dirtbike.components.4.label>
+  <VVE_Dirtbike.properties.roles.0.label>Motociclista</VVE_Dirtbike.properties.roles.0.label>
+
+  <VVE_Frog.label>Frog</VVE_Frog.label>
+  <VVE_Frog.description>Uma cápsula de transporte reutilizável básica, o Frog é um veículo relativamente barato que serve como a primeira opção quando se trata de voar sem colidir com o solo. Diversas vezes mais rápido que as cápsulas de transporte convencionais e com blindagem aceitável para seu único passageiro, tornando-o um veículo de emboscada ideal.\n\nAinda pior que outros veículos de nível 1, a eficiência de combustível não existe com este transporte. Deve-se ter cuidado para reabastecer no local de pouso ou viajar com combustível reserva suficiente para fazer a viagem de volta.\n\nSendo um veículo voador, é extremamente óbvio quando está em movimento.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Frog.description>
+  <VVE_Frog.components.0.label>Motor</VVE_Frog.components.0.label>
+  <VVE_Frog.components.1.label>Primeiro propulsor</VVE_Frog.components.1.label>
+  <VVE_Frog.components.2.label>Segundo propulsor</VVE_Frog.components.2.label>
+  <VVE_Frog.components.3.label>Terceiro propulsor</VVE_Frog.components.3.label>
+  <VVE_Frog.components.4.label>Estabilizadores</VVE_Frog.components.4.label>
+  <VVE_Frog.properties.roles.0.label>Operador</VVE_Frog.properties.roles.0.label>
+
+  <VVE_Highwayman.label>Highwayman</VVE_Highwayman.label>
+  <VVE_Highwayman.description>Um veículo de combate de infantaria básico, o Highwayman é a opção armada mais barata para transportar três pessoas. Reforçado contra fogo de armas pequenas, mas muito vulnerável na traseira, destina-se a fornecer suporte de fogo móvel para a infantaria e viajar rapidamente por estradas pavimentadas.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias, no entanto, também é menos eficiente em termos de combustível no mapa mundial.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Atirador x1, Passageiro x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Highwayman.description>
+  <VVE_Highwayman.components.0.label>Motor</VVE_Highwayman.components.0.label>
+  <VVE_Highwayman.components.1.label>Roda dianteira esquerda</VVE_Highwayman.components.1.label>
+  <VVE_Highwayman.components.2.label>Roda dianteira direita</VVE_Highwayman.components.2.label>
+  <VVE_Highwayman.components.3.label>Roda traseira esquerda</VVE_Highwayman.components.3.label>
+  <VVE_Highwayman.components.4.label>Roda traseira direita</VVE_Highwayman.components.4.label>
+  <VVE_Highwayman.components.5.label>Suspensão dianteira esquerda</VVE_Highwayman.components.5.label>
+  <VVE_Highwayman.components.6.label>Suspensão dianteira direita</VVE_Highwayman.components.6.label>
+  <VVE_Highwayman.components.7.label>Suspensão traseira esquerda</VVE_Highwayman.components.7.label>
+  <VVE_Highwayman.components.8.label>Suspensão traseira direita</VVE_Highwayman.components.8.label>
+  <VVE_Highwayman.components.9.label>Caixa de câmbio</VVE_Highwayman.components.9.label>
+  <VVE_Highwayman.components.10.label>Placa de blindagem frontal</VVE_Highwayman.components.10.label>
+  <VVE_Highwayman.components.11.label>Placa de blindagem esquerda</VVE_Highwayman.components.11.label>
+  <VVE_Highwayman.components.12.label>Placa de blindagem direita</VVE_Highwayman.components.12.label>
+  <VVE_Highwayman.components.13.label>Tanque de combustível</VVE_Highwayman.components.13.label>
+  <VVE_Highwayman.components.14.label>Para-choque dianteiro</VVE_Highwayman.components.14.label>
+  <VVE_Highwayman.components.15.label>Estofamento</VVE_Highwayman.components.15.label>
+  <VVE_Highwayman.components.16.label>Painel</VVE_Highwayman.components.16.label>
+  <VVE_Highwayman.components.17.label>Volante</VVE_Highwayman.components.17.label>
+  <VVE_Highwayman.components.18.label>Alternador</VVE_Highwayman.components.18.label>
+  <VVE_Highwayman.components.19.label>Teto</VVE_Highwayman.components.19.label>
+  <VVE_Highwayman.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Torre principal</VVE_Highwayman.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+  <VVE_Highwayman.properties.roles.0.label>Motorista</VVE_Highwayman.properties.roles.0.label>
+  <VVE_Highwayman.properties.roles.1.label>Atirador</VVE_Highwayman.properties.roles.1.label>
+  <VVE_Highwayman.properties.roles.2.label>Passageiro</VVE_Highwayman.properties.roles.2.label>
+
+  <VVE_CarAlternator.label>alternador automotivo</VVE_CarAlternator.label>
+  <VVE_CarAlternator.description>O alternador é uma peça do motor extremamente vital para qualquer veículo que possua sistemas elétricos. Alguns sistemas muito básicos podem prescindir dele, enquanto veículos mais complexos podem exigir mais de um.</VVE_CarAlternator.description>
+
+  <VVE_CarBattery.label>bateria automotiva</VVE_CarBattery.label>
+  <VVE_CarBattery.description>Uma bateria recarregável isolada e fiação que alimenta inúmeras funções eletrônicas. Atua como um protetor contra surtos para sistemas eletrônicos; múltiplas baterias podem aumentar ou até substituir o motor de um veículo.</VVE_CarBattery.description>
+
+  <VVE_CarExhaust.label>escapamento automotivo</VVE_CarExhaust.label>
+  <VVE_CarExhaust.description>Uma série de tubos, catalisadores e conexões que transferem a exaustão do motor do carro para longe da cabine do motorista. Motores que serão submetidos a muito esforço exigem mais escapamentos.</VVE_CarExhaust.description>
+
+  <VVE_CarFuelTank.label>tanque de combustível automotivo</VVE_CarFuelTank.label>
+  <VVE_CarFuelTank.description>Sistemas de armazenamento e injeção de combustível fabricados cuidadosamente. Ideal para veículos que exigem maior capacidade de combustível ou até mesmo maior consumo sem aumentar a probabilidade de vazamentos ou danos ao motor.</VVE_CarFuelTank.description>
+
+  <VVE_CarRadiator.label>radiador automotivo</VVE_CarRadiator.label>
+  <VVE_CarRadiator.description>Uma série de canos, tubos, ventoinhas, bombas e o próprio radiador, prontos para serem instalados em um veículo do qual se espera suportar cargas pesadas. Quanto mais o motor tiver que trabalhar, mais radiadores serão necessários para mantê-lo resfriado.</VVE_CarRadiator.description>
+
+  <VVE_CarSuspension.label>suspensão automotiva</VVE_CarSuspension.label>
+  <VVE_CarSuspension.description>Uma série de transmissões, molas e amortecedores que redirecionam ou reduzem as forças transferidas através das rodas. Geralmente, quanto maior a massa e a capacidade de carga do veículo, mais suspensões são necessárias.</VVE_CarSuspension.description>
+
+  <VVE_CarTransmission.label>transmissão automotiva</VVE_CarTransmission.label>
+  <VVE_CarTransmission.description>Um sistema de transmissão automática dedicado, delicadamente usinado a partir de materiais endurecidos e duráveis. Devido ao seu design comparativamente complexo, são necessários em veículos que exigem torque imenso ou velocidades de rotação excessivas.</VVE_CarTransmission.description>
+
+  <VVE_CarWheel.label>roda automotiva</VVE_CarWheel.label>
+  <VVE_CarWheel.description>Uma das tecnologias mais antigas desenvolvidas pelo homem, a roda recebe a potência do motor e a traduz em movimento. Como as rodas não devem apenas mover o veículo em qualquer direção necessária, mas também suportar o peso combinado, veículos maiores e mais pesados podem precisar de várias ou dezenas delas.</VVE_CarWheel.description>
+
+  <VVE_CarWiring.label>fiação automotiva</VVE_CarWiring.label>
+  <VVE_CarWiring.description>Peças de fiação reforçadas e usinadas para melhorar a condução de eletricidade. Tipicamente necessária em veículos que possuem muitos sistemas eletrônicos sincronizados ou delicados.</VVE_CarWiring.description>
+
+  <VVE_EngineBlock.label>bloco de motor</VVE_EngineBlock.label>
+  <VVE_EngineBlock.description>Literalmente a peça que faz o veículo se mover em primeiro lugar; nenhum veículo pode ser montado sem um destes. Veículos excessivamente grandes ou pesados podem exigir mais de um.</VVE_EngineBlock.description>
+  <!-- SIM -->
+  <VVE_Mosquito.label>Mosquito</VVE_Mosquito.label>
+  <VVE_Mosquito.description>Uma aeronave de uso geral, o Mosquito é um modo de transporte extremamente rápido e móvel. Embora não exija uma pista de pouso, é mais lento que aviões e tem menos capacidade de carga.\n\nSemelhante a outros veículos de nível 2, este possui o dobro da eficiência de combustível no mapa mundial, o que os torna mais eficientes que os veículos de nível 1.\n\nSendo um veículo voador, é extremamente óbvio quando está em movimento.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Piloto x1, Passageiro x3\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Mosquito.description>
+  <VVE_Mosquito.components.0.label>Esqui de pouso esquerdo</VVE_Mosquito.components.0.label>
+  <VVE_Mosquito.components.1.label>Esqui de pouso direito</VVE_Mosquito.components.1.label>
+  <VVE_Mosquito.components.2.label>Estabilizador horizontal esquerdo</VVE_Mosquito.components.2.label>
+  <VVE_Mosquito.components.3.label>Estabilizador horizontal direito</VVE_Mosquito.components.3.label>
+  <VVE_Mosquito.components.4.label>Motor</VVE_Mosquito.components.4.label>
+  <VVE_Mosquito.components.5.label>Entrada de combustível</VVE_Mosquito.components.5.label>
+  <VVE_Mosquito.components.6.label>Transmissão</VVE_Mosquito.components.6.label>
+  <VVE_Mosquito.components.7.label>Leme</VVE_Mosquito.components.7.label>
+  <VVE_Mosquito.components.8.label>Painel lateral esquerdo</VVE_Mosquito.components.8.label>
+  <VVE_Mosquito.components.9.label>Painel lateral direito</VVE_Mosquito.components.9.label>
+  <VVE_Mosquito.components.10.label>Tanque de combustível</VVE_Mosquito.components.10.label>
+  <VVE_Mosquito.components.11.label>Mastro do rotor</VVE_Mosquito.components.11.label>
+  <VVE_Mosquito.components.12.label>Estofamento</VVE_Mosquito.components.12.label>
+  <VVE_Mosquito.components.13.label>Painel</VVE_Mosquito.components.13.label>
+  <VVE_Mosquito.components.14.label>Caixa de câmbio</VVE_Mosquito.components.14.label>
+  <VVE_Mosquito.components.15.label>Servomotores</VVE_Mosquito.components.15.label>
+  <VVE_Mosquito.properties.roles.0.label>Piloto</VVE_Mosquito.properties.roles.0.label>
+  <VVE_Mosquito.properties.roles.1.label>Passageiro</VVE_Mosquito.properties.roles.1.label>
+
+  <VVE_Mule.label>Mule</VVE_Mule.label>
+  <VVE_Mule.description>Um transporte de carga básico, o Mule é um veículo relativamente barato que pode carregar uma grande quantidade de carga por estradas suaves de terreno plano. Não recomendado para uso na estação de inverno ou em terreno com neve, ou ambos, e possui blindagem muito leve para economizar peso.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias. Ao contrário de outros veículos de nível 1, este apresenta melhor desempenho no mapa mundial por ser ligeiramente mais rápido e mais eficiente em combustível.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Mule.description>
+  <VVE_Mule.components.0.label>Motor</VVE_Mule.components.0.label>
+  <VVE_Mule.components.1.label>Roda dianteira esquerda</VVE_Mule.components.1.label>
+  <VVE_Mule.components.2.label>Roda dianteira direita</VVE_Mule.components.2.label>
+  <VVE_Mule.components.3.label>Roda traseira esquerda</VVE_Mule.components.3.label>
+  <VVE_Mule.components.4.label>Roda traseira direita</VVE_Mule.components.4.label>
+  <VVE_Mule.components.5.label>Suspensão dianteira esquerda</VVE_Mule.components.5.label>
+  <VVE_Mule.components.6.label>Suspensão dianteira direita</VVE_Mule.components.6.label>
+  <VVE_Mule.components.7.label>Suspensão traseira esquerda</VVE_Mule.components.7.label>
+  <VVE_Mule.components.8.label>Suspensão traseira direita</VVE_Mule.components.8.label>
+  <VVE_Mule.components.9.label>Caixa de câmbio</VVE_Mule.components.9.label>
+  <VVE_Mule.components.10.label>Painel lateral esquerdo</VVE_Mule.components.10.label>
+  <VVE_Mule.components.11.label>Painel lateral direito</VVE_Mule.components.11.label>
+  <VVE_Mule.components.12.label>Tanque de combustível</VVE_Mule.components.12.label>
+  <VVE_Mule.components.13.label>Para-choque dianteiro</VVE_Mule.components.13.label>
+  <VVE_Mule.components.14.label>Para-choque traseiro</VVE_Mule.components.14.label>
+  <VVE_Mule.components.15.label>Estofamento</VVE_Mule.components.15.label>
+  <VVE_Mule.components.16.label>Painel</VVE_Mule.components.16.label>
+  <VVE_Mule.components.17.label>Volante</VVE_Mule.components.17.label>
+  <VVE_Mule.components.18.label>Alternador</VVE_Mule.components.18.label>
+  <VVE_Mule.components.19.label>Capô</VVE_Mule.components.19.label>
+  <VVE_Mule.components.20.label>Teto</VVE_Mule.components.20.label>
+  <VVE_Mule.properties.roles.0.label>Motorista</VVE_Mule.properties.roles.0.label>
+  <VVE_Mule.properties.roles.1.label>Passageiro</VVE_Mule.properties.roles.1.label>
+
+  <VVE_Prowler.label>Prowler</VVE_Prowler.label>
+  <VVE_Prowler.description>Um veículo de exploração off-road básico, o Prowler é relativamente barato de construir e é uma opção eficaz para qualquer clima para viagens eficientes em terrenos íngremes. Com blindagem muito leve e um motor vulnerável montado na traseira, é melhor manter este automóvel de usuário único longe do combate.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Prowler.description>
+  <VVE_Prowler.components.0.label>Motor</VVE_Prowler.components.0.label>
+  <VVE_Prowler.components.1.label>Roda dianteira esquerda</VVE_Prowler.components.1.label>
+  <VVE_Prowler.components.2.label>Roda dianteira direita</VVE_Prowler.components.2.label>
+  <VVE_Prowler.components.3.label>Roda traseira esquerda</VVE_Prowler.components.3.label>
+  <VVE_Prowler.components.4.label>Roda traseira direita</VVE_Prowler.components.4.label>
+  <VVE_Prowler.components.5.label>Suspensão dianteira esquerda</VVE_Prowler.components.5.label>
+  <VVE_Prowler.components.6.label>Suspensão dianteira direita</VVE_Prowler.components.6.label>
+  <VVE_Prowler.components.7.label>Suspensão traseira esquerda</VVE_Prowler.components.7.label>
+  <VVE_Prowler.components.8.label>Suspensão traseira direita</VVE_Prowler.components.8.label>
+  <VVE_Prowler.components.9.label>Caixa de câmbio</VVE_Prowler.components.9.label>
+  <VVE_Prowler.components.10.label>Painel lateral esquerdo</VVE_Prowler.components.10.label>
+  <VVE_Prowler.components.11.label>Painel lateral direito</VVE_Prowler.components.11.label>
+  <VVE_Prowler.components.12.label>Tanque de combustível</VVE_Prowler.components.12.label>
+  <VVE_Prowler.components.13.label>Para-choque dianteiro</VVE_Prowler.components.13.label>
+  <VVE_Prowler.components.14.label>Para-choque traseiro</VVE_Prowler.components.14.label>
+  <VVE_Prowler.components.15.label>Estofamento</VVE_Prowler.components.15.label>
+  <VVE_Prowler.components.16.label>Painel</VVE_Prowler.components.16.label>
+  <VVE_Prowler.components.17.label>Volante</VVE_Prowler.components.17.label>
+  <VVE_Prowler.components.18.label>Alternador</VVE_Prowler.components.18.label>
+  <VVE_Prowler.components.19.label>Capô</VVE_Prowler.components.19.label>
+  <VVE_Prowler.components.20.label>Teto</VVE_Prowler.components.20.label>
+  <VVE_Prowler.properties.roles.0.label>Motorista</VVE_Prowler.properties.roles.0.label>
+
+  <Bullet_Roadkill_MainTurret.label>obus de alto explosivo</Bullet_Roadkill_MainTurret.label>
+
+  <VVE_Roadkill.label>Roadkill</VVE_Roadkill.label>
+  <VVE_Roadkill.description>Um tanque médio básico, o Roadkill é um veículo blindado comparativamente barato, adequado para engajamentos curtos. Muito bem blindado contra ataques frontais, no entanto, ataques laterais podem desativar o movimento e o motor exposto montado na traseira o torna vulnerável a flanqueamentos.\n\nEnquanto outros veículos de nível 1 são gastadores de combustível, este queima combustível a uma taxa alarmante e é extremamente lento para reparar.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Roadkill.description>
+  <VVE_Roadkill.components.0.label>Motor</VVE_Roadkill.components.0.label>
+  <VVE_Roadkill.components.1.label>Lagarta esquerda</VVE_Roadkill.components.1.label>
+  <VVE_Roadkill.components.2.label>Lagarta direita</VVE_Roadkill.components.2.label>
+  <VVE_Roadkill.components.3.label>Roda dentada dianteira esq.</VVE_Roadkill.components.3.label>
+  <VVE_Roadkill.components.4.label>Roda dentada dianteira dir.</VVE_Roadkill.components.4.label>
+  <VVE_Roadkill.components.5.label>Roda dentada traseira esq.</VVE_Roadkill.components.5.label>
+  <VVE_Roadkill.components.6.label>Roda dentada traseira dir.</VVE_Roadkill.components.6.label>
+  <VVE_Roadkill.components.7.label>Caixa de câmbio</VVE_Roadkill.components.7.label>
+  <VVE_Roadkill.components.8.label>Placa de blindagem esquerda</VVE_Roadkill.components.8.label>
+  <VVE_Roadkill.components.9.label>Placa de blindagem direita</VVE_Roadkill.components.9.label>
+  <VVE_Roadkill.components.10.label>Placa de blindagem frontal</VVE_Roadkill.components.10.label>
+  <VVE_Roadkill.components.11.label>Tanque de combustível</VVE_Roadkill.components.11.label>
+  <VVE_Roadkill.components.12.label>Painel</VVE_Roadkill.components.12.label>
+  <VVE_Roadkill.components.13.label>Aparelho de direção</VVE_Roadkill.components.13.label>
+  <VVE_Roadkill.components.14.label>Alternador</VVE_Roadkill.components.14.label>
+  <VVE_Roadkill.components.15.label>Teto</VVE_Roadkill.components.15.label>
+  <VVE_Roadkill.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Torre principal</VVE_Roadkill.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+  <VVE_Roadkill.properties.roles.0.label>Motorista</VVE_Roadkill.properties.roles.0.label> 
+
+  <VVE_Roadrunner.label>Roadrunner</VVE_Roadrunner.label>
+  <VVE_Roadrunner.description>Um transportador de carga geral, o Roadrunner é um excelente veículo para levar muito material de um local para outro. Mais adequado para estradas planas e terá certa dificuldade em colinas, neve ou áreas de inverno.\n\nSemelhante a outros veículos de nível 2, este possui o dobro da eficiência de combustível no mapa mundial, o que os torna mais eficientes do que os veículos de nível 1. Também são menos visíveis devido à fabricação aprimorada.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Roadrunner.description>
+  <VVE_Roadrunner.components.0.label>Motor</VVE_Roadrunner.components.0.label>
+  <VVE_Roadrunner.components.1.label>Roda dianteira esquerda</VVE_Roadrunner.components.1.label>
+  <VVE_Roadrunner.components.2.label>Roda dianteira direita</VVE_Roadrunner.components.2.label>
+  <VVE_Roadrunner.components.3.label>Roda traseira esquerda</VVE_Roadrunner.components.3.label>
+  <VVE_Roadrunner.components.4.label>Roda traseira direita</VVE_Roadrunner.components.4.label>
+  <VVE_Roadrunner.components.5.label>Suspensão dianteira esquerda</VVE_Roadrunner.components.5.label>
+  <VVE_Roadrunner.components.6.label>Suspensão dianteira direita</VVE_Roadrunner.components.6.label>
+  <VVE_Roadrunner.components.7.label>Suspensão traseira esquerda</VVE_Roadrunner.components.7.label>
+  <VVE_Roadrunner.components.8.label>Suspensão traseira direita</VVE_Roadrunner.components.8.label>
+  <VVE_Roadrunner.components.9.label>Caixa de câmbio</VVE_Roadrunner.components.9.label>
+  <VVE_Roadrunner.components.10.label>Painel lateral esquerdo</VVE_Roadrunner.components.10.label>
+  <VVE_Roadrunner.components.11.label>Painel lateral direito</VVE_Roadrunner.components.11.label>
+  <VVE_Roadrunner.components.12.label>Tanque de combustível</VVE_Roadrunner.components.12.label>
+  <VVE_Roadrunner.components.13.label>Para-choque dianteiro</VVE_Roadrunner.components.13.label>
+  <VVE_Roadrunner.components.14.label>Para-choque traseiro</VVE_Roadrunner.components.14.label>
+  <VVE_Roadrunner.components.15.label>Estofamento</VVE_Roadrunner.components.15.label>
+  <VVE_Roadrunner.components.16.label>Painel</VVE_Roadrunner.components.16.label>
+  <VVE_Roadrunner.components.17.label>Volante</VVE_Roadrunner.components.17.label>
+  <VVE_Roadrunner.components.18.label>Alternador</VVE_Roadrunner.components.18.label>
+  <VVE_Roadrunner.components.19.label>Capô</VVE_Roadrunner.components.19.label>
+  <VVE_Roadrunner.components.20.label>Teto</VVE_Roadrunner.components.20.label>
+  <VVE_Roadrunner.properties.roles.0.label>Motorista</VVE_Roadrunner.properties.roles.0.label>
+  <VVE_Roadrunner.properties.roles.1.label>Passageiro</VVE_Roadrunner.properties.roles.1.label>
+
+  <Rocket_Scytheman_MainTurret.label>roquete de enxame</Rocket_Scytheman_MainTurret.label>
+
+  <VVE_Scytheman.label>Scytheman</VVE_Scytheman.label>
+  <VVE_Scytheman.description>Um sistema de lançamento múltiplo de foguetes improvisado, o Scytheman é um veículo agrícola reaproveitado destinado a saturar um local com salvas imprecisas de explosivos. Devido ao design, não se destina a disparar salvas sucessivas ou ser exposto ao fogo inimigo.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias. Apresenta pior desempenho no inverno, mas ligeiramente melhor em estradas planas e abertas.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Scytheman.description>
+  <VVE_Scytheman.components.0.label>Motor</VVE_Scytheman.components.0.label>
+  <VVE_Scytheman.components.1.label>Roda dianteira esquerda</VVE_Scytheman.components.1.label>
+  <VVE_Scytheman.components.2.label>Roda dianteira direita</VVE_Scytheman.components.2.label>
+  <VVE_Scytheman.components.3.label>Roda central esquerda</VVE_Scytheman.components.3.label>
+  <VVE_Scytheman.components.4.label>Roda central direita</VVE_Scytheman.components.4.label>
+  <VVE_Scytheman.components.5.label>Roda traseira esquerda</VVE_Scytheman.components.5.label>
+  <VVE_Scytheman.components.6.label>Roda traseira direita</VVE_Scytheman.components.6.label>
+  <VVE_Scytheman.components.7.label>Suspensão dianteira esquerda</VVE_Scytheman.components.7.label>
+  <VVE_Scytheman.components.8.label>Suspensão dianteira direita</VVE_Scytheman.components.8.label>
+  <VVE_Scytheman.components.9.label>Suspensão central esquerda</VVE_Scytheman.components.9.label>
+  <VVE_Scytheman.components.10.label>Suspensão central direita</VVE_Scytheman.components.10.label>
+  <VVE_Scytheman.components.11.label>Suspensão traseira esquerda</VVE_Scytheman.components.11.label>
+  <VVE_Scytheman.components.12.label>Suspensão traseira direita</VVE_Scytheman.components.12.label>
+  <VVE_Scytheman.components.13.label>Caixa de câmbio</VVE_Scytheman.components.13.label>
+  <VVE_Scytheman.components.14.label>Painel lateral esquerdo</VVE_Scytheman.components.14.label>
+  <VVE_Scytheman.components.15.label>Painel lateral direito</VVE_Scytheman.components.15.label>
+  <VVE_Scytheman.components.16.label>Tanque de combustível</VVE_Scytheman.components.16.label>
+  <VVE_Scytheman.components.17.label>Painel</VVE_Scytheman.components.17.label>
+  <VVE_Scytheman.components.18.label>Volante</VVE_Scytheman.components.18.label>
+  <VVE_Scytheman.components.19.label>Alternador</VVE_Scytheman.components.19.label>
+  <VVE_Scytheman.components.20.label>Capô</VVE_Scytheman.components.20.label>
+  <VVE_Scytheman.components.21.label>Teto</VVE_Scytheman.components.21.label>
+  <VVE_Scytheman.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Salva de foguetes</VVE_Scytheman.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+  <VVE_Scytheman.properties.roles.0.label>Motorista</VVE_Scytheman.properties.roles.0.label>
+
+  <VVE_Smuggler.label>Smuggler</VVE_Smuggler.label>
+  <VVE_Smuggler.description>Uma aeronave de uso geral, o Smuggler é um meio de transporte extremamente rápido e eficaz. Embora seja mais veloz e possa carregar mais carga do que helicópteros, ele requer uma pista de pouso tanto para decolar quanto para pousar.\n\nDiferente de outros veículos de nível 2, este possui eficiência de combustível regular no mapa mundial, mas em troca se move significativamente mais rápido.\n\nPor ser um veículo voador, é extremamente óbvio quando está em movimento.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Piloto x1, Passageiro x3\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Smuggler.description>
+  <VVE_Smuggler.components.0.label>Motor</VVE_Smuggler.components.0.label>
+  <VVE_Smuggler.components.1.label>Roda de pouso esquerda</VVE_Smuggler.components.1.label>
+  <VVE_Smuggler.components.2.label>Roda de pouso direita</VVE_Smuggler.components.2.label>
+  <VVE_Smuggler.components.3.label>Roda de pouso central</VVE_Smuggler.components.3.label>
+  <VVE_Smuggler.components.4.label>Estabilizador horizontal esquerdo</VVE_Smuggler.components.4.label>
+  <VVE_Smuggler.components.5.label>Estabilizador horizontal direito</VVE_Smuggler.components.5.label>
+  <VVE_Smuggler.components.6.label>Admissão de combustível</VVE_Smuggler.components.6.label>
+  <VVE_Smuggler.components.7.label>Transmissão</VVE_Smuggler.components.7.label>
+  <VVE_Smuggler.components.8.label>Leme de direção</VVE_Smuggler.components.8.label>
+  <VVE_Smuggler.components.9.label>Fuselagem</VVE_Smuggler.components.9.label>
+  <VVE_Smuggler.components.10.label>Tanque de combustível</VVE_Smuggler.components.10.label>
+  <VVE_Smuggler.components.11.label>Asa esquerda</VVE_Smuggler.components.11.label>
+  <VVE_Smuggler.components.12.label>Asa direita</VVE_Smuggler.components.12.label>
+  <VVE_Smuggler.components.13.label>Estofamento</VVE_Smuggler.components.13.label>
+  <VVE_Smuggler.components.14.label>Painel</VVE_Smuggler.components.14.label>
+  <VVE_Smuggler.components.15.label>Servomotores</VVE_Smuggler.components.15.label>
+  <VVE_Smuggler.properties.roles.0.label>Piloto</VVE_Smuggler.properties.roles.0.label>
+  <VVE_Smuggler.properties.roles.1.label>Passageiro</VVE_Smuggler.properties.roles.1.label>
+
+  <VVE_Snatcher.label>Snatcher</VVE_Snatcher.label>
+  <VVE_Snatcher.description>Um transportador de passageiros geral, o Snatcher é um veículo sólido para transportar pessoas para diferentes locais. Mais adequado para estradas planas e terá sérias dificuldades na neve ou em colinas.\n\nSemelhante a outros veículos de nível 2, possui o dobro da eficiência de combustível no mapa mundial, o que os torna mais eficientes do que os veículos de nível 1. Também são menos visíveis devido à fabricação aprimorada.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x5\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Snatcher.description>
+  <VVE_Snatcher.components.0.label>Motor</VVE_Snatcher.components.0.label>
+  <VVE_Snatcher.components.1.label>Roda dianteira esquerda</VVE_Snatcher.components.1.label>
+  <VVE_Snatcher.components.2.label>Roda dianteira direita</VVE_Snatcher.components.2.label>
+  <VVE_Snatcher.components.3.label>Roda traseira esquerda</VVE_Snatcher.components.3.label>
+  <VVE_Snatcher.components.4.label>Roda traseira direita</VVE_Snatcher.components.4.label>
+  <VVE_Snatcher.components.5.label>Suspensão dianteira esquerda</VVE_Snatcher.components.5.label>
+  <VVE_Snatcher.components.6.label>Suspensão dianteira direita</VVE_Snatcher.components.6.label>
+  <VVE_Snatcher.components.7.label>Caixa de câmbio</VVE_Snatcher.components.7.label>
+  <VVE_Snatcher.components.8.label>Painel lateral esquerdo</VVE_Snatcher.components.8.label>
+  <VVE_Snatcher.components.9.label>Painel lateral direito</VVE_Snatcher.components.9.label>
+  <VVE_Snatcher.components.10.label>Tanque de combustível</VVE_Snatcher.components.10.label>
+  <VVE_Snatcher.components.11.label>Para-choque dianteiro</VVE_Snatcher.components.11.label>
+  <VVE_Snatcher.components.12.label>Para-choque traseiro</VVE_Snatcher.components.12.label>
+  <VVE_Snatcher.components.13.label>Estofamento</VVE_Snatcher.components.13.label>
+  <VVE_Snatcher.components.14.label>Painel</VVE_Snatcher.components.14.label>
+  <VVE_Snatcher.components.15.label>Volante</VVE_Snatcher.components.15.label>
+  <VVE_Snatcher.components.16.label>Alternador</VVE_Snatcher.components.16.label>
+  <VVE_Snatcher.components.17.label>Capô</VVE_Snatcher.components.17.label>
+  <VVE_Snatcher.components.18.label>Teto</VVE_Snatcher.components.18.label>
+  <VVE_Snatcher.properties.roles.0.label>Motorista</VVE_Snatcher.properties.roles.0.label>
+  <VVE_Snatcher.properties.roles.1.label>Passageiro</VVE_Snatcher.properties.roles.1.label> 
+
+  <VVE_Tango.label>Tango</VVE_Tango.label>
+  <VVE_Tango.description>Um veículo blindado de transporte de pessoal (APC) de uso geral, o Tango é um transporte de tropas lento, porém resistente. Com amplos porões de carga, blindagem reforçada, capacidade off-road e uma torre que pode disparar em movimento ou estacionada, a principal desvantagem é o consumo de combustível e a blindagem ligeiramente mais fina na traseira.\n\nDiferente de outros veículos de nível 2, este possui eficiência de combustível regular e é bastante visível, com sua alta taxa de consumo limitando o alcance efetivo.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Artilheiro x1, Passageiro x4\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Tango.description>
+  <VVE_Tango.components.0.label>Motor</VVE_Tango.components.0.label>
+  <VVE_Tango.components.1.label>Lagarta esquerda</VVE_Tango.components.1.label>
+  <VVE_Tango.components.2.label>Lagarta direita</VVE_Tango.components.2.label>
+  <VVE_Tango.components.3.label>Roda dentada dianteira esq.</VVE_Tango.components.3.label>
+  <VVE_Tango.components.4.label>Roda dentada dianteira dir.</VVE_Tango.components.4.label>
+  <VVE_Tango.components.5.label>Roda dentada traseira esq.</VVE_Tango.components.5.label>
+  <VVE_Tango.components.6.label>Roda dentada traseira dir.</VVE_Tango.components.6.label>
+  <VVE_Tango.components.7.label>Caixa de câmbio</VVE_Tango.components.7.label>
+  <VVE_Tango.components.8.label>Placa de blindagem frontal</VVE_Tango.components.8.label>
+  <VVE_Tango.components.9.label>Placa de blindagem esquerda</VVE_Tango.components.9.label>
+  <VVE_Tango.components.10.label>Placa de blindagem direita</VVE_Tango.components.10.label>
+  <VVE_Tango.components.11.label>Placa de blindagem traseira</VVE_Tango.components.11.label>
+  <VVE_Tango.components.12.label>Tanque de combustível</VVE_Tango.components.12.label>
+  <VVE_Tango.components.13.label>Painel</VVE_Tango.components.13.label>
+  <VVE_Tango.components.14.label>Aparelho de direção</VVE_Tango.components.14.label>
+  <VVE_Tango.components.15.label>Alternador</VVE_Tango.components.15.label>
+  <VVE_Tango.components.16.label>Teto</VVE_Tango.components.16.label>
+  <VVE_Tango.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Torre principal</VVE_Tango.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+  <VVE_Tango.properties.roles.0.label>Motorista</VVE_Tango.properties.roles.0.label>
+  <VVE_Tango.properties.roles.1.label>Artilheiro</VVE_Tango.properties.roles.1.label>
+  <VVE_Tango.properties.roles.2.label>Passageiro</VVE_Tango.properties.roles.2.label>
+
+  <VVE_Toad.label>Toad</VVE_Toad.label>
+  <VVE_Toad.description>Uma cápsula de implantação de esquadrão e morteiro, o Toad é um veículo um tanto caro para montar rapidamente um cerco em um local próximo sem expor seus artilheiros ao perigo. Com mais blindagem do que um tanque e um design feito para ser lançado de órbita, ele serve como um veículo de assalto semi-descartável.\n\nEficiência de combustível não faz parte do design deste veículo; considere utilizá-lo apenas em distâncias curtas com combustível suficiente para retornar.\n\nPor ser um veículo voador, é extremamente óbvio quando está em movimento.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Operador x1, Passageiro x3\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Toad.description>
+  <VVE_Toad.components.0.label>Motor</VVE_Toad.components.0.label>
+  <VVE_Toad.components.1.label>Primeiro propulsor</VVE_Toad.components.1.label>
+  <VVE_Toad.components.2.label>Segundo propulsor</VVE_Toad.components.2.label>
+  <VVE_Toad.components.3.label>Terceiro propulsor</VVE_Toad.components.3.label>
+  <VVE_Toad.components.4.label>Quarto propulsor</VVE_Toad.components.4.label>
+  <VVE_Toad.components.5.label>Tanque de combustível</VVE_Toad.components.5.label>
+  <VVE_Toad.components.6.label>Casco</VVE_Toad.components.6.label>
+  <VVE_Toad.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Torre principal</VVE_Toad.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+  <VVE_Toad.properties.roles.0.label>Operador</VVE_Toad.properties.roles.0.label>
+  <VVE_Toad.properties.roles.1.label>Passageiro</VVE_Toad.properties.roles.1.label>
+
+  <VVE_Traveller.label>Traveller</VVE_Traveller.label>
+  <VVE_Traveller.description>Um veículo rodoviário básico adequado para terrenos planos, o Traveller é uma opção relativamente barata e rápida que ainda tem um desempenho bastante amigável em climas frios e condições de neve. A blindagem leve e o motor exposto montado na frente reforçam sua tendência de fugir de problemas em vez de enfrentá-los.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias. A velocidade e aceleração extras o tornam ainda menos eficiente em combustível, além de exigir mais tempo para reparos.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Traveller.description>
+  <VVE_Traveller.components.0.label>Motor</VVE_Traveller.components.0.label>
+  <VVE_Traveller.components.1.label>Roda dianteira esquerda</VVE_Traveller.components.1.label>
+  <VVE_Traveller.components.2.label>Roda dianteira direita</VVE_Traveller.components.2.label>
+  <VVE_Traveller.components.3.label>Roda traseira esquerda</VVE_Traveller.components.3.label>
+  <VVE_Traveller.components.4.label>Roda traseira direita</VVE_Traveller.components.4.label>
+  <VVE_Traveller.components.5.label>Suspensão dianteira esquerda</VVE_Traveller.components.5.label>
+  <VVE_Traveller.components.6.label>Suspensão dianteira direita</VVE_Traveller.components.6.label>
+  <VVE_Traveller.components.7.label>Suspensão traseira esquerda</VVE_Traveller.components.7.label>
+  <VVE_Traveller.components.8.label>Suspensão traseira direita</VVE_Traveller.components.8.label>
+  <VVE_Traveller.components.9.label>Caixa de câmbio</VVE_Traveller.components.9.label>
+  <VVE_Traveller.components.10.label>Painel lateral esquerdo</VVE_Traveller.components.10.label>
+  <VVE_Traveller.components.11.label>Painel lateral direito</VVE_Traveller.components.11.label>
+  <VVE_Traveller.components.12.label>Tanque de combustível</VVE_Traveller.components.12.label>
+  <VVE_Traveller.components.13.label>Para-choque dianteiro</VVE_Traveller.components.13.label>
+  <VVE_Traveller.components.14.label>Para-choque traseiro</VVE_Traveller.components.14.label>
+  <VVE_Traveller.components.15.label>Estofamento</VVE_Traveller.components.15.label>
+  <VVE_Traveller.components.16.label>Painel</VVE_Traveller.components.16.label>
+  <VVE_Traveller.components.17.label>Volante</VVE_Traveller.components.17.label>
+  <VVE_Traveller.components.18.label>Alternador</VVE_Traveller.components.18.label>
+  <VVE_Traveller.components.19.label>Capô</VVE_Traveller.components.19.label>
+  <VVE_Traveller.components.20.label>Teto</VVE_Traveller.components.20.label>
+  <VVE_Traveller.properties.roles.0.label>Motorista</VVE_Traveller.properties.roles.0.label>
+  <VVE_Traveller.properties.roles.1.label>Passageiro</VVE_Traveller.properties.roles.1.label>
+
+  <VVE_Trawler.label>Trawler</VVE_Trawler.label>
+  <VVE_Trawler.description>Um barco de uso geral, o Trawler é um transporte eficaz de longa distância em águas abertas. Possui um desempenho medíocre em rios e deve navegar lentamente durante a temporada de inverno.\n\nSemelhante a outros veículos de nível 2, possui o dobro da eficiência de combustível no mapa mundial, o que os torna mais eficientes do que os veículos de nível 1. Também são menos visíveis devido à fabricação aprimorada.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Condutor x1, Passageiro x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Trawler.description>
+  <VVE_Trawler.components.0.label>Motor</VVE_Trawler.components.0.label>
+  <VVE_Trawler.components.1.label>Costado esquerdo</VVE_Trawler.components.1.label>
+  <VVE_Trawler.components.2.label>Costado direito</VVE_Trawler.components.2.label>
+  <VVE_Trawler.properties.roles.0.label>Condutor</VVE_Trawler.properties.roles.0.label>
+  <VVE_Trawler.properties.roles.1.label>Passageiro</VVE_Trawler.properties.roles.1.label>
+
+  <VVE_Wagon.label>Wagon</VVE_Wagon.label>
+  <VVE_Wagon.description>Um veículo versátil de uso geral, o Wagon tem um bom desempenho em todas as categorias, com boa capacidade de carga e de passageiros. Mais adequado para estradas planas e terá certa dificuldade em colinas, neve ou biomas de inverno.\n\nSemelhante a outros veículos de nível 2, possui o dobro da eficiência de combustível no mapa mundial, o que os torna mais eficientes do que os veículos de nível 1. Também são menos visíveis devido à fabricação aprimorada.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x3\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Wagon.description>
+  <VVE_Wagon.components.0.label>Motor</VVE_Wagon.components.0.label>
+  <VVE_Wagon.components.1.label>Roda dianteira esquerda</VVE_Wagon.components.1.label>
+  <VVE_Wagon.components.2.label>Roda dianteira direita</VVE_Wagon.components.2.label>
+  <VVE_Wagon.components.3.label>Roda traseira esquerda</VVE_Wagon.components.3.label>
+  <VVE_Wagon.components.4.label>Roda traseira direita</VVE_Wagon.components.4.label>
+  <VVE_Wagon.components.5.label>Suspensão dianteira esquerda</VVE_Wagon.components.5.label>
+  <VVE_Wagon.components.6.label>Suspensão dianteira direita</VVE_Wagon.components.6.label>
+  <VVE_Wagon.components.7.label>Suspensão traseira esquerda</VVE_Wagon.components.7.label>
+  <VVE_Wagon.components.8.label>Suspensão traseira direita</VVE_Wagon.components.8.label>
+  <VVE_Wagon.components.9.label>Caixa de câmbio</VVE_Wagon.components.9.label>
+  <VVE_Wagon.components.10.label>Painel lateral esquerdo</VVE_Wagon.components.10.label>
+  <VVE_Wagon.components.11.label>Painel lateral direito</VVE_Wagon.components.11.label>
+  <VVE_Wagon.components.12.label>Tanque de combustível</VVE_Wagon.components.12.label>
+  <VVE_Wagon.components.13.label>Para-choque dianteiro</VVE_Wagon.components.13.label>
+  <VVE_Wagon.components.14.label>Para-choque traseiro</VVE_Wagon.components.14.label>
+  <VVE_Wagon.components.15.label>Estofamento</VVE_Wagon.components.15.label>
+  <VVE_Wagon.components.16.label>Painel</VVE_Wagon.components.16.label>
+  <VVE_Wagon.components.17.label>Volante</VVE_Wagon.components.17.label>
+  <VVE_Wagon.components.18.label>Alternador</VVE_Wagon.components.18.label>
+  <VVE_Wagon.components.19.label>Capô</VVE_Wagon.components.19.label>
+  <VVE_Wagon.components.20.label>Teto</VVE_Wagon.components.20.label>
+  <VVE_Wagon.properties.roles.0.label>Motorista</VVE_Wagon.properties.roles.0.label>
+  <VVE_Wagon.properties.roles.1.label>Passageiro</VVE_Wagon.properties.roles.1.label>
+
+  <VVE_Warbird.label>Warbird</VVE_Warbird.label>
+  <VVE_Warbird.description>Um avião de caça de uso geral, o Warbird é uma aeronave de ataque incrivelmente rápida e eficaz. Com carga mínima destinada apenas a equipamentos de manutenção e combustível, seu objetivo principal é engajar outras aeronaves e iniciar manobras de metralhamento (strafing).\n\nDiferente de outros veículos de nível 2, este possui eficiência de combustível regular no mapa mundial, mas em troca se move significativamente mais rápido.\n\nPor ser um veículo voador, é extremamente óbvio quando está em movimento.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Piloto x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Warbird.description>
+  <VVE_Warbird.components.0.label>Motor</VVE_Warbird.components.0.label>
+  <VVE_Warbird.components.1.label>Roda de pouso esquerda</VVE_Warbird.components.1.label>
+  <VVE_Warbird.components.2.label>Roda de pouso direita</VVE_Warbird.components.2.label>
+  <VVE_Warbird.components.3.label>Roda de pouso central</VVE_Warbird.components.3.label>
+  <VVE_Warbird.components.4.label>Estabilizador horizontal esquerdo</VVE_Warbird.components.4.label>
+  <VVE_Warbird.components.5.label>Estabilizador horizontal direito</VVE_Warbird.components.5.label>
+  <VVE_Warbird.components.6.label>Admissão de combustível</VVE_Warbird.components.6.label>
+  <VVE_Warbird.components.7.label>Transmissão</VVE_Warbird.components.7.label>
+  <VVE_Warbird.components.8.label>Leme de direção</VVE_Warbird.components.8.label>
+  <VVE_Warbird.components.9.label>Fuselagem</VVE_Warbird.components.9.label>
+  <VVE_Warbird.components.10.label>Tanque de combustível</VVE_Warbird.components.10.label>
+  <VVE_Warbird.components.11.label>Asa esquerda</VVE_Warbird.components.11.label>
+  <VVE_Warbird.components.12.label>Asa direita</VVE_Warbird.components.12.label>
+  <VVE_Warbird.components.13.label>Estofamento</VVE_Warbird.components.13.label>
+  <VVE_Warbird.components.14.label>Painel</VVE_Warbird.components.14.label>
+  <VVE_Warbird.components.15.label>Servomotores</VVE_Warbird.components.15.label>
+  <VVE_Warbird.properties.roles.0.label>Piloto</VVE_Warbird.properties.roles.0.label>
+
+  <VVE_Wisent.label>Wisent</VVE_Wisent.label>
+  <VVE_Wisent.description>Um transportador de uso geral de nível militar, o Wisent é um caminhão potente capaz de transportar tanto cargas abundantes quanto soldados para território hostil. Possui uma péssima economia de combustível, porém pode navegar rapidamente por terrenos acidentados.\n\nAo contrário de outros veículos de nível 2, este é menos eficiente, mas mais eficaz ao viajar fora das estradas. Os passageiros sentados na parte traseira ficarão expostos ao fogo inimigo e a blindagem é adequada apenas para fogo mínimo de armas leves.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x7\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Wisent.description>
+  <VVE_Wisent.components.0.label>Motor</VVE_Wisent.components.0.label>
+  <VVE_Wisent.components.1.label>Roda dianteira esquerda</VVE_Wisent.components.1.label>
+  <VVE_Wisent.components.2.label>Roda dianteira direita</VVE_Wisent.components.2.label>
+  <VVE_Wisent.components.3.label>Roda central esquerda</VVE_Wisent.components.3.label>
+  <VVE_Wisent.components.4.label>Roda central direita</VVE_Wisent.components.4.label>
+  <VVE_Wisent.components.5.label>Roda traseira esquerda</VVE_Wisent.components.5.label>
+  <VVE_Wisent.components.6.label>Roda traseira direita</VVE_Wisent.components.6.label>
+  <VVE_Wisent.components.7.label>Suspensão dianteira esquerda</VVE_Wisent.components.7.label>
+  <VVE_Wisent.components.8.label>Suspensão dianteira direita</VVE_Wisent.components.8.label>
+  <VVE_Wisent.components.9.label>Suspensão central esquerda</VVE_Wisent.components.9.label>
+  <VVE_Wisent.components.10.label>Suspensão central direita</VVE_Wisent.components.10.label>
+  <VVE_Wisent.components.11.label>Suspensão traseira esquerda</VVE_Wisent.components.11.label>
+  <VVE_Wisent.components.12.label>Suspensão traseira direita</VVE_Wisent.components.12.label>
+  <VVE_Wisent.components.13.label>Caixa de câmbio</VVE_Wisent.components.13.label>
+  <VVE_Wisent.components.14.label>Placa de blindagem esquerda</VVE_Wisent.components.14.label>
+  <VVE_Wisent.components.15.label>Placa de blindagem direita</VVE_Wisent.components.15.label>
+  <VVE_Wisent.components.16.label>Tanque de combustível esquerdo</VVE_Wisent.components.16.label>
+  <VVE_Wisent.components.17.label>Tanque de combustível direito</VVE_Wisent.components.17.label>
+  <VVE_Wisent.components.18.label>Placa traseira esquerda</VVE_Wisent.components.18.label>
+  <VVE_Wisent.components.19.label>Placa traseira direita</VVE_Wisent.components.19.label>
+  <VVE_Wisent.components.20.label>Para-choque dianteiro</VVE_Wisent.components.20.label>
+  <VVE_Wisent.components.21.label>Para-choque traseiro</VVE_Wisent.components.21.label>
+  <VVE_Wisent.components.22.label>Estofamento</VVE_Wisent.components.22.label>
+  <VVE_Wisent.components.23.label>Painel</VVE_Wisent.components.23.label>
+  <VVE_Wisent.components.24.label>Volante</VVE_Wisent.components.24.label>
+  <VVE_Wisent.components.25.label>Alternador</VVE_Wisent.components.25.label>
+  <VVE_Wisent.components.26.label>Capô</VVE_Wisent.components.26.label>
+  <VVE_Wisent.components.27.label>Teto</VVE_Wisent.components.27.label>
+  <VVE_Wisent.properties.roles.0.label>Motorista</VVE_Wisent.properties.roles.0.label>
+  <VVE_Wisent.properties.roles.1.label>Passageiro 1</VVE_Wisent.properties.roles.1.label>
+  <VVE_Wisent.properties.roles.2.label>Passageiro 2</VVE_Wisent.properties.roles.2.label>
+  <VVE_Wisent.properties.roles.3.label>Passageiro 3</VVE_Wisent.properties.roles.3.label>
+  <VVE_Wisent.properties.roles.4.label>Passageiro 4</VVE_Wisent.properties.roles.4.label>
+  <VVE_Wisent.properties.roles.5.label>Passageiro 5</VVE_Wisent.properties.roles.5.label>
+  <VVE_Wisent.properties.roles.6.label>Passageiro 6</VVE_Wisent.properties.roles.6.label>
+  <VVE_Wisent.properties.roles.7.label>Passageiro 7</VVE_Wisent.properties.roles.7.label>
+  <VVE_Wisent.properties.roles.8.label>Passageiro 8</VVE_Wisent.properties.roles.8.label>
+  <VVE_Wisent.properties.roles.9.label>Passageiro 9</VVE_Wisent.properties.roles.9.label>
+
+
+</LanguageData>

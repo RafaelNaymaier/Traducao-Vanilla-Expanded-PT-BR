@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VF_Caravan_MoveSpeed>Quantidade de blocos percorridos em 1 dia.</VF_Caravan_MoveSpeed>
+
+  <VF_Caravan_Dismounted>Desembarcado</VF_Caravan_Dismounted>
+  <VF_Caravan_Cargo>Carga</VF_Caravan_Cargo>
+  <VF_Sailing>Navegando</VF_Sailing>
+  <VF_ShowVehicleProperties>Mostrar propriedades</VF_ShowVehicleProperties>
+
+  <VF_DockToCaravan>Itens para levar</VF_DockToCaravan>
+  <VF_ImpassableBiome>Bioma intransponível para este veículo.</VF_ImpassableBiome>
+  <VF_CaravanDisabled>Caravana desativada.</VF_CaravanDisabled>
+  <VF_CaravanCantMove>Incapaz de se mover.</VF_CaravanCantMove>
+  <VF_CantMergeAerialVehicle>Não é possível fundir veículos aéreos.</VF_CantMergeAerialVehicle>
+
+  <VF_RecoverVehicles>Recuperar veículos</VF_RecoverVehicles>
+  <VF_CommandDisembark>Ocultar veículos</VF_CommandDisembark>
+  <VF_CommandDisembarkDesc>Deixe todos os veículos para trás e siga a pé. Os veículos permanecerão no mapa-múndi por 20 a 30 dias.</VF_CommandDisembarkDesc>
+  <VF_ToggleRepairVehicle>Reparar veículos</VF_ToggleRepairVehicle>
+  <VF_ToggleRepairVehicleDesc>Descansar e realizar reparos nos veículos dentro da caravana.</VF_ToggleRepairVehicleDesc>
+
+  <VF_CommandDisembarkImpassableBiome>Não é possível desembarcar, o bloco é intransponível para os colonos.</VF_CommandDisembarkImpassableBiome>
+  <VF_CommandAttackDockDisable>Não é possível atacar {0} enquanto estiver atracado.</VF_CommandAttackDockDisable>
+  <VF_CommandTradeDockDisable>Não é possível negociar com {0}. É necessário atracar o barco primeiro.</VF_CommandTradeDockDisable>
+
+  <VF_CaravanMustHaveEnoughSpaceOnShip>Não há espaço suficiente a bordo para todos os colonos.</VF_CaravanMustHaveEnoughSpaceOnShip>
+  <VF_CaravanMustHaveEnoughPawnsToOperate>Não há colonos selecionados suficientes para zarpar. Necessário {0}.</VF_CaravanMustHaveEnoughPawnsToOperate>
+
+  <VF_CaravanMustHaveAtLeastOneVehicle>Pelo menos um veículo deve ser selecionado para escolher uma rota.</VF_CaravanMustHaveAtLeastOneVehicle>
+  <VF_CommandFormVehicleCaravan>Formar caravana de veículos</VF_CommandFormVehicleCaravan>
+  <VF_CommandFormVehicleCaravanDesc>Formar uma caravana incluindo veículos.</VF_CommandFormVehicleCaravanDesc>
+
+  <VF_CommandReformVehicleCaravan>Reformar caravana de veículos</VF_CommandReformVehicleCaravan>
+  <VF_CommandReformVehicleCaravanDesc>Reformar a caravana com os veículos selecionados.</VF_CommandReformVehicleCaravanDesc>
+
+  <VF_RoutePlannerToggleVehicleDefs>VehicleDefs</VF_RoutePlannerToggleVehicleDefs>
+  <VF_RoutePlannerToggleVehicles>Veículos</VF_RoutePlannerToggleVehicles>
+
+  <NotAllowed>Desativado</NotAllowed>
+  <DriverNeeded>Conduzido por Colono</DriverNeeded>
+  <NoDriverNeeded>Conduzido por IA</NoDriverNeeded>
+
+  <Misc>Outros</Misc>
+  <Transport>Transporte</Transport>
+  <Trader>Comerciante</Trader>
+  <Combat>Combate</Combat>
+  <Hybrid>Híbrido</Hybrid>
+
+  <Manual>Manual</Manual>
+  <Opportunistic>Oportunista</Opportunistic>
+  <Automatic>Automático</Automatic>
+
+  <VF_VehicleTracksNone>Nenhum</VF_VehicleTracksNone>
+  <VF_VehicleTracksVanilla>Vanilla</VF_VehicleTracksVanilla>
+  <VF_VehicleTracksFull>Completo</VF_VehicleTracksFull>
+
+  <VF_RoadType_Prioritize>Priorizar</VF_RoadType_Prioritize>
+  <VF_RoadType_Avoid>Evitar</VF_RoadType_Avoid>
+
+  <VF_BoardVehicle>Embarcar como {0}  [{1}]</VF_BoardVehicle>
+  <VF_BoardVehicleGroup>Embarcar em {0}</VF_BoardVehicleGroup>
+  <VF_BoardVehicleGroupFail>Não é possível embarcar em {0}. {1}</VF_BoardVehicleGroupFail>
+  <VF_BoardFailureTooMany>Muitos selecionados</VF_BoardFailureTooMany>
+  <VF_BoardFailureNonCombatant>{0} é incapaz de violência</VF_BoardFailureNonCombatant>
+
+  <VF_ActivityIconOnBoardShip>A bordo do {0}</VF_ActivityIconOnBoardShip>
+  <VF_IsIncapableOfRamming>Atropelar {0}</VF_IsIncapableOfRamming>
+  <VF_CannotMoveToCell>{0} não consegue alcançar esta área.</VF_CannotMoveToCell>
+
+  <VF_LandVehicleHere>Pousar veículo aqui</VF_LandVehicleHere>
+  <VF_LandVehicleEdge>Pousar em {0} na borda do mapa.</VF_LandVehicleEdge>
+  <VF_LandVehicleCenter>Pousar em {0} no centro.</VF_LandVehicleCenter>
+  <VF_LandVehicleTargetedLanding>Pousar em {0} e escolher local de pouso.</VF_LandVehicleTargetedLanding>
+  <VF_AttackAndTargetLanding>Atacar {0}: Escolher local de pouso</VF_AttackAndTargetLanding>
+
+  <VF_StrafeRun>Metralhar</VF_StrafeRun>
+  <VF_AerialReconSite>Reconhecimento</VF_AerialReconSite>
+
+  <VF_CantEnterVehicle_IdeoligionForbids>Não é possível entrar no veículo. Proibido pela ideologia.</VF_CantEnterVehicle_IdeoligionForbids>
+
+  <VehicleFramework>Vehicle Framework</VehicleFramework>
+  <VF_Vehicles>Veículos</VF_Vehicles>
+
+  <VF_LoadCargo>Carregar carga</VF_LoadCargo>
+  <VF_HaulPawnToVehicle>Carregar colonos</VF_HaulPawnToVehicle>
+  <VF_DisembarkAllPawns>Desembarcar todos os colonos</VF_DisembarkAllPawns>
+  <VF_DisembarkSinglePawn>Desembarcar {0}</VF_DisembarkSinglePawn>
+  <VF_GearForward>Frente</VF_GearForward>
+  <VF_GearReverse>Ré</VF_GearReverse>
+  <VF_DisembarkNoExit>Não foi possível sair do veículo. Não há células válidas para desembarque.</VF_DisembarkNoExit>
+  <VF_DisabledByVehicleUpgrading>{0} está sendo aprimorado.</VF_DisabledByVehicleUpgrading>
+
+  <VF_StopVehicle>Parar</VF_StopVehicle>
+  <VF_UndraftVehicle>Desligar ignição</VF_UndraftVehicle>
+  <VF_DraftVehicleDesc>Liga o motor do veículo, permitindo que ele se mova. Isso consumirá combustível, se aplicável, mesmo que o veículo esteja parado.</VF_DraftVehicleDesc>
+  <VF_StopVehicleDesc>Para o veículo imediatamente.</VF_StopVehicleDesc>
+  <VF_UndraftVehicleDesc>Desliga o motor do veículo, desativando o consumo de combustível e impedindo o movimento.</VF_UndraftVehicleDesc>
+  <VF_RefuelFromInventoryCount>Reabastecer com {0}x {1}</VF_RefuelFromInventoryCount>
+  <VF_RefuelFromInventoryDesc>Reabastece {0} usando o combustível armazenado em sua carga.</VF_RefuelFromInventoryDesc>
+  <VF_VehicleFullyFueled>{0} já está totalmente abastecido.</VF_VehicleFullyFueled>
+  <VF_NoFuelInVehicle>Sem combustível em {0}.</VF_NoFuelInVehicle>
+  <VF_CantRefuelWhileFlying>Não é possível reabastecer {0} em voo.</VF_CantRefuelWhileFlying>
+  <VF_VehicleFuelCost>Combustível: {0}</VF_VehicleFuelCost>
+  <VF_TransferToVehicle_Order>Transferir para o veículo</VF_TransferToVehicle_Order>
+  <VF_TransferToVehicle_Order_Desc>Transfere o(s) item(ns) selecionado(s) para a carga do veículo alvo.</VF_TransferToVehicle_Order_Desc>
+  <VF_TransferToVehicle_Cancel>Cancelar transferência</VF_TransferToVehicle_Cancel>
+  <VF_TransferToVehicle_Cancel_Desc>Cancela a transferência do(s) item(ns) selecionado(s) para a carga de qualquer veículo.</VF_TransferToVehicle_Cancel_Desc>
+
+  <VF_RandomVehicle>Veículo aleatório</VF_RandomVehicle>
+  <VF_ShowAllItemsOnMap>Mostrar todos os itens no mapa</VF_ShowAllItemsOnMap>
+  <VF_ResetColorPalettes>Redefinir todas as paletas</VF_ResetColorPalettes>
+  <VF_ResetColorPalettesConfirmation>Tem certeza de que deseja redefinir todas as paletas salvas para as configurações padrão? Esta ação não pode ser desfeita.</VF_ResetColorPalettesConfirmation>
+  <VF_RotateVehicleRendering>Girar veículo</VF_RotateVehicleRendering>
+  <VF_SaveColorPalette>Salvar paleta</VF_SaveColorPalette>
+
+  <VF_ColorOne>Cor 1</VF_ColorOne>
+  <VF_ColorTwo>Cor 2</VF_ColorTwo>
+  <VF_ColorThree>Cor 3</VF_ColorThree>
+  <VF_ColorPickerHex>Hex</VF_ColorPickerHex>
+
+  <VF_JobSettings>Configurações de trabalho</VF_JobSettings>
+  <VF_VehicleAgeReadout>Produzido em: {0}</VF_VehicleAgeReadout>
+
+  <VF_StatsReport_CargoWeight>Carga: {0}</VF_StatsReport_CargoWeight>
+  <VF_StatsReport_Deployed>Implantado</VF_StatsReport_Deployed>
+
+  <VF_CrewCount>Tripulação</VF_CrewCount>
+  <VF_CrewCountDesc>Número de tripulantes e passageiros que podem caber dentro deste veículo.</VF_CrewCountDesc>
+  <VF_PaintableDesc>O veículo pode ser pintado através do menu de cores.</VF_PaintableDesc>
+  <VF_Upgradeable>Aprimorável</VF_Upgradeable>
+  <VF_UpgradeableDesc>O veículo pode ser modificado através de uma árvore de aprimoramentos.</VF_UpgradeableDesc>
+  <VF_FuelType>Tipo de combustível</VF_FuelType>
+  <VF_FuelTypeDesc>Qual recurso este veículo consome para operar.</VF_FuelTypeDesc>
+  <VF_CancelUpgrade>Cancelar o aprimoramento em progresso para {0}.</VF_CancelUpgrade>
+
+  <VF_RoadZoneExpand>Zona de estrada</VF_RoadZoneExpand>
+  <VF_RoadZoneExpandDesc>Cria uma área por onde os veículos terão prioridade ou evitarão passar.\n\nÁreas de 'Prioridade' aplicadas na borda do mapa designarão por onde as caravanas de veículos devem entrar.</VF_RoadZoneExpandDesc>
+  <VF_RoadZoneClear>Remover zona de estrada</VF_RoadZoneClear>
+  <VF_RoadZoneClearDesc>Remove a zona de estrada. Os veículos não terão mais o movimento modificado sobre a área.</VF_RoadZoneClearDesc>
+
+  <VF_RenameVehicleTooltip>Atribuir ou limpar nome.</VF_RenameVehicleTooltip>
+  <VF_RecolorTooltip>Pintar veículo ou mudar o padrão.</VF_RecolorTooltip>
+  <VF_DoubleClickShuttleTarget>Clique para confirmar o destino</VF_DoubleClickShuttleTarget>
+  <VF_SwapColors>Alterna as cores entre si.\nCor 1 -> Cor 2 -> Cor 3</VF_SwapColors>
+  <VF_StartFishing>Pescar</VF_StartFishing>
+  <VF_StartFishingDesc>Coleta peixes da água. A profundidade da água afeta a chance de sucesso.</VF_StartFishingDesc>
+  <VF_NoFishermenTooltip>Não há colonos a bordo capazes de pescar.</VF_NoFishermenTooltip>
+  <VF_NoFishAtSpot>Sem peixes neste local.</VF_NoFishAtSpot>
+  <VF_ExplosiveComponent>Explosivo</VF_ExplosiveComponent>
+  <VF_EditPawnOverlayRendererTooltip>Editar sobreposição de colonos</VF_EditPawnOverlayRendererTooltip>
+  <VF_ComponentClickMoreInfoTooltip>Clique para obter informações detalhadas.</VF_ComponentClickMoreInfoTooltip>
+
+  <VF_Deploy>Implantar</VF_Deploy>
+  <VF_Undeploy>Recolher</VF_Undeploy>
+  <VF_DeployDescription>Implanta o veículo para permitir o uso de torres.</VF_DeployDescription>
+  <VF_MustBeDeployed>Deve estar implantado.</VF_MustBeDeployed>
+  <VF_MustBeUndeployed>Não deve estar implantado.</VF_MustBeUndeployed>
+  <VF_VehicleRestriction_Stationary>Não é possível disparar em movimento.</VF_VehicleRestriction_Stationary>
+  <VF_TurretComponentDisabled>{0} precisa de reparos.</VF_TurretComponentDisabled>
+
+  <VF_Patterns>Padrões</VF_Patterns>
+  <VF_Skins>Visuais</VF_Skins>
+  <VF_PatternZoom>Zoom</VF_PatternZoom>
+  <VF_PatternZoomTooltip>Aumenta ou diminui a escala do padrão.</VF_PatternZoomTooltip>
+  <VF_PatternDisplacementX>Eixo: X</VF_PatternDisplacementX>
+  <VF_PatternDisplacementY>Eixo: Y</VF_PatternDisplacementY>
+  <VF_PatternDisplacementXTooltip>Move a textura ao longo do eixo horizontal.</VF_PatternDisplacementXTooltip>
+  <VF_PatternDisplacementYTooltip>Move a textura ao longo do eixo vertical.</VF_PatternDisplacementYTooltip>
+
+  <VF_Electricity>Eletricidade</VF_Electricity>
+  <VF_ElectricFlick>Ativar/desativar conexão com a rede elétrica.</VF_ElectricFlick>
+  <VF_ElectricFlickDesc>Quando sobre um condutor de energia, conecta-se à rede elétrica e transfere energia para recarregar sua bateria.\n\nConectado atualmente: {0}</VF_ElectricFlickDesc>
+  <VF_OutOfFuel>Impossível mover. {0_labelShort} precisa de mais combustível.</VF_OutOfFuel>
+
+  <VF_AutoAssign>Auto-atribuir</VF_AutoAssign>
+  <VF_Assigned>Atribuído</VF_Assigned>
+  <VF_ApplyButton>Aplicar</VF_ApplyButton>
+  <VF_Colonists>Colonos</VF_Colonists>
+  <VF_ClearSeats>Limpar</VF_ClearSeats>
+  <VF_RemoveFromRole>Remover</VF_RemoveFromRole>
+  <VF_AddToRole>Adicionar</VF_AddToRole>
+  <VF_RoutePlannerButtonTip>Clique para entrar no modo de planejamento de veículos, onde você pode selecionar veículos específicos que possui e planejar sua jornada. O trajeto é ajustado com base nos veículos selecionados.</VF_RoutePlannerButtonTip>
+  <VF_SelectVehiclesForPlanner>Selecionar veículos</VF_SelectVehiclesForPlanner>
+  <VF_StartVehicleRoutePlanner>Iniciar rota</VF_StartVehicleRoutePlanner>
+  <VF_OkName>Confirmar nome</VF_OkName>
+  <VF_RemoveName>Remover nome</VF_RemoveName>
+
+  <VF_NoFlightSpeed>Não é possível decolar com velocidade de voo = 0.</VF_NoFlightSpeed>
+  <VF_CannotLaunchWhileMoving>Não é possível decolar enquanto {0} estiver em movimento.</VF_CannotLaunchWhileMoving>
+  <VF_CannotLaunchImmobile>{0} não pode decolar sem ser capaz de se mover.</VF_CannotLaunchImmobile>
+  <VF_CannotLaunchRotated>{0} não pode decolar inclinado.</VF_CannotLaunchRotated>
+  <VF_CannotLaunchOverEncumbered>{0} não pode decolar estando sobrecarregado.</VF_CannotLaunchOverEncumbered>
+
+  <VF_TabCargo>Carga</VF_TabCargo>
+  <VF_TabPassengers>Passageiros</VF_TabPassengers>
+  <VF_TabComponents>Saúde</VF_TabComponents>
+  <VF_TabUpgrades>Personalizar</VF_TabUpgrades>
+
+  <VF_ComponentHealth>Saúde</VF_ComponentHealth>
+  <VF_ComponentEfficiency>Eficiência</VF_ComponentEfficiency>
+  <VF_ComponentArmor>Blindagem</VF_ComponentArmor>
+  <VF_Depth>Profundidade</VF_Depth>
+  <VF_Depth_Internal>Interna</VF_Depth_Internal>
+  <VF_Depth_External>Externa</VF_Depth_External>
+  <VF_Depth_Undefined>Indefinido</VF_Depth_Undefined>
+  <VF_EfficiencyEffector>Atributos afetados</VF_EfficiencyEffector>
+  <VF_BaseArmorRating>Nível de blindagem base: {0}</VF_BaseArmorRating>
+
+  <VF_NoFuelReturnTrip>Sem combustível para volta</VF_NoFuelReturnTrip>
+  <VF_NotEnoughFuel>Fora de alcance</VF_NotEnoughFuel>
+  <VF_NoSpaceFlight>{0} é incapaz de voo espacial.</VF_NoSpaceFlight>
+  <VF_ConfirmationCancelLanding>Cancelar pouso neste mapa? O veículo aéreo será enviado para o mapa-múndi.</VF_ConfirmationCancelLanding>
+  <VF_PawnsLeftBehindConfirm>Assentos insuficientes</VF_PawnsLeftBehindConfirm>
+  <VF_PawnsLeftBehindConfirmDesc>Não há assentos suficientes para todos os colonos, alguns serão deixados para trás. Tem certeza de que deseja decolar?</VF_PawnsLeftBehindConfirmDesc>
+
+  <VF_Cargo>Carga</VF_Cargo>
+  <VF_Properties>Propriedades</VF_Properties>
+  <VF_LauncherProperties>Propriedades de lançamento</VF_LauncherProperties>
+  <VF_FueledTravelPropertes>Combustível</VF_FueledTravelPropertes>
+  <VF_JobLimitations>Trabalhadores máx. por tarefa</VF_JobLimitations>
+
+  <VF_IncidentCrashedSiteLabel_Crashing>{0} caiu</VF_IncidentCrashedSiteLabel_Crashing>
+  <VF_IncidentCrashedSiteLabel_ShotDown>{1} abateu {0}</VF_IncidentCrashedSiteLabel_ShotDown>
+
+  <VF_IncidentReasonLister>\n\nRazão:\n {0}</VF_IncidentReasonLister>
+  <VF_IncidentCrashedSite_Crashing>{0} caiu.</VF_IncidentCrashedSite_Crashing>
+  <VF_IncidentCrashedSite_ShotDown>{0} foi abatido por {1}.</VF_IncidentCrashedSite_ShotDown>
+  <VF_IncidentCrashedSiteReason_OutOfFuel>Acabou o combustível</VF_IncidentCrashedSiteReason_OutOfFuel>
+  <VF_IncidentCrashedSiteReason_FlightControl>Perda total de controle de voo</VF_IncidentCrashedSiteReason_FlightControl>
+
+  <VF_ReinforcementsArrivedLabel>Reforços</VF_ReinforcementsArrivedLabel>
+  <VF_ReinforcementsArrived>{0} chegou com reforços para investigar o local da queda.</VF_ReinforcementsArrived>
+
+  <VF_BoatSunk>Barco Naufragado</VF_BoatSunk>
+  <VF_BoatSunkDesc>{0} afundou nas profundezas do oceano.</VF_BoatSunkDesc>
+  <VF_BoatSunkWithPawnsDesc>{0} afundou nas profundezas do oceano.\n\nLevou os seguintes colonos consigo:\n{1}</VF_BoatSunkWithPawnsDesc>
+
+  <VF_IdleInVehicle>Estes colonos estão ociosos dentro de um veículo:\n{0}\n\nVocê provavelmente deve encontrar algo produtivo para eles fazerem.</VF_IdleInVehicle>
+
+  <VF_MustSelectColorPalette>Uma paleta deve ser selecionada para salvar por cima.</VF_MustSelectColorPalette>
+
+  <VF_VehicleUnableToMove>{0_labelShort} é incapaz de se mover.</VF_VehicleUnableToMove>
+  <VF_VehicleImmobileDeployed>{0_labelShort} está implantado e incapaz de se mover.</VF_VehicleImmobileDeployed>
+  <VF_HandlerNotEnoughRoom>Falha ao adicionar {0} em {1}. Não há mais espaço disponível.</VF_HandlerNotEnoughRoom>
+
+  <VF_NotEnoughToOperate>Não é possível mover. Precisa de mais tripulação para operar.</VF_NotEnoughToOperate>
+  <VF_UpgradeInProgress>Não é possível ligar a ignição enquanto {0_labelShort} está sendo aprimorado.</VF_UpgradeInProgress>
+  <VF_NotEnoughCrew>Não há colonos suficientes em {0} para operar {1}.</VF_NotEnoughCrew>
+
+  <VF_CannotFit>Espaço insuficiente.</VF_CannotFit>
+  <VF_NoPathForVehicle>Não é possível traçar rota por aqui.</VF_NoPathForVehicle>
+  <VF_IncapableStatusForRole>{0} é incapaz de cumprir esta função.</VF_IncapableStatusForRole>
+  <VF_CannotAddToCargo>{0} não pode ser adicionado à carga.</VF_CannotAddToCargo>
+
+  <VF_InvalidName>Nome inválido para o veículo.</VF_InvalidName>
+  <VF_OutOfFood>Sem comida em {0} com colonos a bordo.</VF_OutOfFood>
+
+  <VF_NoAmmoLoadedTurret>Nenhuma munição carregada.</VF_NoAmmoLoadedTurret>
+  <VF_NoAmmoAvailable>Nenhuma munição disponível no inventário.</VF_NoAmmoAvailable>
+
+  <VF_VehicleCaravanMentalBreakMovementRole>{0} não é mais capaz de cumprir sua função na caravana de veículos.</VF_VehicleCaravanMentalBreakMovementRole>
+  <VF_PawnBoardedFormingCaravan>{0} embarcou no {1} e está pronto para a partida.</VF_PawnBoardedFormingCaravan>
+  <VF_CantAssignVehicle>Colonos insuficientes para {0}.</VF_CantAssignVehicle>
+  <VF_AssignFailure>Falha ao atribuir assentos. {0}</VF_AssignFailure>
+  <VF_PackingSpotNotFound>Local de carregamento não encontrado para a caravana de veículos. Recomenda-se colocar um local de atracagem da aba Diversos.</VF_PackingSpotNotFound>
+  <VF_ForceLeaveCaravan>Forçar partida</VF_ForceLeaveCaravan>
+  <VF_ForceLeaveCaravanDesc>Força a caravana de veículos a deixar o mapa. Ignorará o carregamento de quaisquer itens que não estejam a bordo no momento.</VF_ForceLeaveCaravanDesc>
+  <VF_ForceLeaveConfirmation>A tripulação está se preparando para partir.</VF_ForceLeaveConfirmation>
+  <VF_CaravanTerminatedNoVehicles>O processo de caravana foi encerrado. Nenhum veículo restante.</VF_CaravanTerminatedNoVehicles>
+  <VF_LandAndSeaRoutePlannerRestriction>Não é possível planejar rotas para veículos marítimos e terrestres simultaneamente. Os caminhos não serão registrados.</VF_LandAndSeaRoutePlannerRestriction>
+  <VF_LeaveVehicleBehindCaravan>Tem certeza de que deseja deixar veículos para trás? Veículos abandonados: {0}</VF_LeaveVehicleBehindCaravan>
+  <VF_MustAssignEnoughToVehicle>Deve-se atribuir colonos suficientes para tripular o veículo.</VF_MustAssignEnoughToVehicle>
+
+  <VF_AerialVehicleArrived>{0} chegou ao seu destino.</VF_AerialVehicleArrived>
+  <VF_AerialVehicleLeft>{0} deixou o mapa.</VF_AerialVehicleLeft>
+  <VF_AerialVehicleLaunchNotValid>Não é possível decolar, as condições não são adequadas.</VF_AerialVehicleLaunchNotValid>
+  <VF_LaunchOutOfFuel>Não é possível decolar. Sem combustível.</VF_LaunchOutOfFuel>
+  <VF_FlightPathMaxNodes>O número máximo de nós para a trajetória de voo de {0} foi atingido.</VF_FlightPathMaxNodes>
+  <VF_MustTargetLanding>Um destino de pouso deve ser escolhido.</VF_MustTargetLanding>
+
+  <VF_DevMode>Modo Dev</VF_DevMode>
+  <VF_DevMode_Logging>Registros (Logs)</VF_DevMode_Logging>
+  <VF_DevMode_Troubleshooting>Solução de Problemas</VF_DevMode_Troubleshooting>
+  <VF_DevMode_Drawers>Ajuda Visual</VF_DevMode_Drawers>
+  <VF_DevMode_Pathing>Traçado de Rotas</VF_DevMode_Pathing>
+  <VF_DevMode_ShowRecentNews>Mostrar Notícias Recentes</VF_DevMode_ShowRecentNews>
+  <VF_DevMode_OpenQuickTestSettings>Menu de Teste Rápido</VF_DevMode_OpenQuickTestSettings>
+  <VF_DevMode_GraphEditor>Editor Gráfico</VF_DevMode_GraphEditor>
+
+  <VF_DevMode_ResetAll>Redefinir Todas as Configurações</VF_DevMode_ResetAll>
+  <VF_DevMode_ResetVehicle>Redefinir {0}</VF_DevMode_ResetVehicle>
+  <VF_DevMode_ResetAllVehicles>Redefinir Todos os Veículos</VF_DevMode_ResetAllVehicles>
+  <VF_DevMode_ResetPage>Redefinir Página</VF_DevMode_ResetPage>
+  <VF_DevMode_ResetAllConfirmation>Tem certeza de que deseja redefinir todas as configurações para os valores originais? Se você foi bloqueado nas Configurações do Mod devido a uma exceção, será necessário reiniciar após a redefinição.</VF_DevMode_ResetAllConfirmation>
+
+  <VF_DevMode_DebugLogging>Registrar informações de depuração.</VF_DevMode_DebugLogging>
+  <VF_DevMode_DebugLoggingTooltip>Ativa o registro de mensagens para exibir valores específicos e informações úteis para depuração de Veículos. Use apenas se estiver criando um add-on de Veículos.</VF_DevMode_DebugLoggingTooltip>
+  <VF_DevMode_DebugPathCostRecalculationLogging>Depurar Registro de Recálculo de Custo de Caminho</VF_DevMode_DebugPathCostRecalculationLogging>
+  <VF_DevMode_DebugPathCostRecalculationLoggingTooltip>Registra um resumo das alterações de custo de caminho para todos os veículos afetados por alterações de região.</VF_DevMode_DebugPathCostRecalculationLoggingTooltip>
+  <VF_DevMode_LogThreadActivity>Registrar Atividade de Thread</VF_DevMode_LogThreadActivity>
+  <VF_DevMode_LogThreadActivityTooltip>Registra as ações assíncronas em andamento na thread dedicada do mapa atualmente visível.</VF_DevMode_LogThreadActivityTooltip>
+
+  <VF_DevMode_DebugDraftAnyVehicle>Mobilizar Qualquer Veículo</VF_DevMode_DebugDraftAnyVehicle>
+  <VF_DevMode_DebugDraftAnyVehicleTooltip>Permite mobilizar e mover qualquer veículo, independentemente dos passageiros. Útil para barcos vazios em águas profundas ou para agilizar testes.</VF_DevMode_DebugDraftAnyVehicleTooltip>
+  <VF_DevMode_DebugInstantSendOff>Lançamento Aéreo Instantâneo</VF_DevMode_DebugInstantSendOff>
+  <VF_DevMode_DebugInstantSendOffTooltip>Envia instantaneamente veículos aéreos para o mapa, pulando animações e qualquer outro tempo de espera.</VF_DevMode_DebugInstantSendOffTooltip>
+  <VF_DevMode_DebugShootAnyTurret>Disparar Qualquer Torre</VF_DevMode_DebugShootAnyTurret>
+  <VF_DevMode_DebugShootAnyTurretTooltip>Permite disparar com qualquer torre, independentemente de haver alguém operando-a.</VF_DevMode_DebugShootAnyTurretTooltip>
+  <VF_DevMode_DebugSpawnVehiclesGodMode>Criar Edifícios de Veículos (Modo Deus)</VF_DevMode_DebugSpawnVehiclesGodMode>
+  <VF_DevMode_DebugSpawnVehiclesGodModeTooltip>Projetos de veículos colocados no modo deus criarão a variante de Edifício, em vez de gerar um peão de veículo (VehiclePawn).</VF_DevMode_DebugSpawnVehiclesGodModeTooltip>
+
+  <VF_DevMode_DebugDrawUpgradeNodeGrid>Desenhar Grade de Árvore de Aprimoramentos</VF_DevMode_DebugDrawUpgradeNodeGrid>
+  <VF_DevMode_DebugDrawUpgradeNodeGridTooltip>Desenha a grade da árvore de aprimoramentos para posicionamento nos eixos (x,y).</VF_DevMode_DebugDrawUpgradeNodeGridTooltip>
+  <VF_DevMode_DebugDrawHitbox>Desenhar Hitbox</VF_DevMode_DebugDrawHitbox>
+  <VF_DevMode_DebugDrawHitboxTooltip>Desenha a hitbox do veículo, destacando as células do mapa que o veículo ocupa.</VF_DevMode_DebugDrawHitboxTooltip>
+  <VF_DevMode_DebugDrawVehicleTracks>Desenhar Rastros de Veículo</VF_DevMode_DebugDrawVehicleTracks>
+  <VF_DevMode_DebugDrawVehicleTracksTooltip>Desenha as células ocupadas pelos rastros do veículo que marcam quais células serão danificadas a cada ação de movimento.</VF_DevMode_DebugDrawVehicleTracksTooltip>
+  <VF_DevMode_DebugDrawBumpers>Desenhar Para-choques</VF_DevMode_DebugDrawBumpers>
+  <VF_DevMode_DebugDrawBumpersTooltip>Desenha as células imediatamente à frente do veículo que indicam quando o veículo colide com algo e interrompe o trajeto.</VF_DevMode_DebugDrawBumpersTooltip>
+  <VF_DevMode_DebugDrawLordMeetingPoint>Desenhar Ponto de Encontro da Caravana</VF_DevMode_DebugDrawLordMeetingPoint>
+  <VF_DevMode_DebugDrawLordMeetingPointTooltip>Destaca a célula onde o ponto de encontro da formação de caravana de veículos foi definido.</VF_DevMode_DebugDrawLordMeetingPointTooltip>
+  <VF_DevMode_DebugDrawFleePoints>Desenhar Pontos de Fuga</VF_DevMode_DebugDrawFleePoints>
+  <VF_DevMode_DebugDrawFleePointsTooltip>Desenha as tentativas dos colonos de fugir de colisões iminentes com veículos.</VF_DevMode_DebugDrawFleePointsTooltip>
+  <VF_DevMode_DebugDrawGrid>Desenhar Grade de Depuração</VF_DevMode_DebugDrawGrid>
+  <VF_DevMode_DebugDrawGridTooltip>Desenha os valores da grade de depuração para o tipo selecionado.</VF_DevMode_DebugDrawGridTooltip>
+
+  <VF_DevMode_DebugPathfinderDebugging>Traçado de Rota Local</VF_DevMode_DebugPathfinderDebugging>
+  <VF_DevMode_DebugPathfinderDebuggingTooltip>Abre o menu para depurar várias saídas do localizador de caminhos (baseado em células e em regiões).</VF_DevMode_DebugPathfinderDebuggingTooltip>
+  <VF_DevMode_DebugWorldPathfinderDebugging>Traçado de Rota Mundial</VF_DevMode_DebugWorldPathfinderDebugging>
+  <VF_DevMode_DebugWorldPathfinderDebuggingTooltip>Abre o menu para depurar a Grade de Caminho Mundial (WorldPathGrid) de qualquer definição de veículo.</VF_DevMode_DebugWorldPathfinderDebuggingTooltip>
+  <VF_DevMode_DebugDrawVehiclePathingCosts>Desenhar Custos de Caminho</VF_DevMode_DebugDrawVehiclePathingCosts>
+  <VF_DevMode_DebugDrawVehiclePathingCostsTooltip>Desenha os custos por célula/bloco calculados pelo localizador de caminhos. Mostra o custo acumulado.</VF_DevMode_DebugDrawVehiclePathingCostsTooltip>
+  <VF_DevMode_DebugDrawPathfinderSearch>Desenhar Busca do Localizador</VF_DevMode_DebugDrawPathfinderSearch>
+  <VF_DevMode_DebugDrawPathfinderSearchTooltip>Desenha a busca do localizador de caminhos conforme ele abre e fecha nós procurando uma rota. Também mostrará a busca por pedaços (chunks) se o traçado hierárquico estiver ativado. O processo é intencionalmente retardado para permitir a visualização, já que a busca assíncrona é rápida demais na maioria dos casos.</VF_DevMode_DebugDrawPathfinderSearchTooltip>
+
+  <VF_VehicleEnabled>Ativado</VF_VehicleEnabled>
+  <VF_VehicleDisabled>Desativado</VF_VehicleDisabled>
+  <VF_VehiclePlayerOnly>Apenas Jogador</VF_VehiclePlayerOnly>
+  <VF_VehicleRaiderOnly>Apenas NPC</VF_VehicleRaiderOnly>
+
+  <VF_EnableButtonTooltip>Se desativado, este veículo não estará disponível no jogo. Aplica-se tanto às facções do jogador quanto às de NPCs.</VF_EnableButtonTooltip>
+
+  <VF_MovementPermissions>Conduzido por:</VF_MovementPermissions>
+  <VF_NavigationType>Navegação:</VF_NavigationType>
+  <VF_NavigationTypeTooltip>Categoria de navegação para o mapa-múndi. Dita quando o veículo pode se mover no mapa-múndi.</VF_NavigationTypeTooltip>
+
+  <VF_Nameable>Renomear veículo</VF_Nameable>
+  <VF_NameableTooltip>Permite dar um nome a este veículo. O nome aparecerá sobre o veículo e substituirá o rótulo exibido.</VF_NameableTooltip>
+
+  <VF_CombatPower>Poder de Combate</VF_CombatPower>
+  <VF_CombatPowerTooltip>O custo em pontos de combate para o veículo ser gerado em um evento.</VF_CombatPowerTooltip>
+
+  <VF_CanCaravan>Caravana</VF_CanCaravan>
+  <VF_CanCaravanTooltip>O veículo pode ser levado em caravanas.</VF_CanCaravanTooltip>
+
+  <VF_SaveableFieldDisabledConditionTooltip>Desativado. {0}</VF_SaveableFieldDisabledConditionTooltip>
+  <VF_DisabledSingleModDependencyTooltip>Desativado. Mod compatível não está na lista de mods ativos: {0}</VF_DisabledSingleModDependencyTooltip>
+  <VF_DisabledMultipleModsDependencyTooltip>Desativado. Mods compatíveis não estão na lista de mods ativos: {0}</VF_DisabledMultipleModsDependencyTooltip>
+  <VF_SaveableFieldDisabledTooltip>Desativado para este tipo de veículo.</VF_SaveableFieldDisabledTooltip>
+  <VF_SaveableFieldLockedTooltip>A configuração está bloqueada para este veículo.</VF_SaveableFieldLockedTooltip>
+  <VF_DebugDisabledTooltip>Desativado para todos os veículos no momento.</VF_DebugDisabledTooltip>
+  <VF_GizmoDisabledTooltip>Desativado nas configurações do mod.</VF_GizmoDisabledTooltip>
+
+  <VF_CollisionMultiplier>Dano a Colonos</VF_CollisionMultiplier>
+  <VF_CollisionMultiplierTooltip>Multiplicador de dano aplicado a colonos atropelados por veículos.</VF_CollisionMultiplierTooltip>
+  <VF_CollisionVehicleMultiplier>Dano ao Veículo</VF_CollisionVehicleMultiplier>
+  <VF_CollisionVehicleMultiplierTooltip>Multiplicador de dano aplicado ao veículo ao atropelar um peão.</VF_CollisionVehicleMultiplierTooltip>
+
+  <VF_ManhunterTargetsVehicle>Alvo de Caçador de Homens</VF_ManhunterTargetsVehicle>
+  <VF_ManhunterTargetsVehicleTooltip>Animais caçadores de homens (manhunters) atacarão este veículo.</VF_ManhunterTargetsVehicleTooltip>
+  <VF_EMPStuns>Atordoamento por PEM</VF_EMPStuns>
+  <VF_EMPStunsTooltip>Armas de PEM (IEM) desativarão temporariamente este veículo.</VF_EMPStunsTooltip>
+  <VF_CanAdaptToEMP>Pode se Adaptar</VF_CanAdaptToEMP>
+  <VF_CanAdaptToEMPTooltip>Pode se adaptar ao dano de PEM e tornar-se temporariamente imune a atordoamentos.</VF_CanAdaptToEMPTooltip>
+  <VF_VehicleCannotStun>O veículo não possui componentes que possam ser atordoados.</VF_VehicleCannotStun>
+  <VF_FishingEnabled>Pode Pescar</VF_FishingEnabled>
+  <VF_FishingEnabledTooltip>Permite pescar quando estiver parado sobre a água.</VF_FishingEnabledTooltip>
+
+  <VF_JobLimitations>Trabalhos no Veículo</VF_JobLimitations>
+  <VF_MaxWorkers>Máx. de Trabalhadores</VF_MaxWorkers>
+
+  <VF_OffRoadMultiplier>Multiplicador Fora de Estrada</VF_OffRoadMultiplier>
+  <VF_OffRoadMultiplierTooltip>Multiplicador de custo de caminho (PathCost) ao viajar em estradas.</VF_OffRoadMultiplierTooltip>
+  <VF_WinterSpeedMultiplier>Mult. de Velocidade no Inverno</VF_WinterSpeedMultiplier>
+  <VF_WinterSpeedMultiplierTooltip>Multiplicador de custo de caminho ao viajar durante o inverno.</VF_WinterSpeedMultiplierTooltip>
+  <VF_WorldSpeedMultiplier>Mult. de Velocidade Global</VF_WorldSpeedMultiplier>
+  <VF_WorldSpeedMultiplierTooltip>Multiplicador da velocidade de movimento quando estiver no mapa-múndi em uma caravana.</VF_WorldSpeedMultiplierTooltip>
+
+  <VF_DeployTime>Tempo de Implantação</VF_DeployTime>
+
+  <VF_DischargePerTick>Taxa de Descarga</VF_DischargePerTick>
+  <VF_DischargePerTickTooltip>Quantidade por tick em que a bateria perde sua carga.</VF_DischargePerTickTooltip>
+  <VF_TicksPerCharge>Taxa de Carga</VF_TicksPerCharge>
+  <VF_TicksPerChargeTooltip>Quantidade de carga por tick aplicada à bateria.</VF_TicksPerChargeTooltip>
+  <VF_NotElectricPowered>Não é movido a eletricidade.</VF_NotElectricPowered>
+  <VF_PerDay>/ dia</VF_PerDay>
+  <VF_Fuel>Combustível</VF_Fuel>
+  <VF_FuelConsumptionRate>Consumo de Combustível</VF_FuelConsumptionRate>
+  <VF_FuelConsumptionRateTooltip>Combustível consumido por dia. Veículos ociosos consomem 50% menos.</VF_FuelConsumptionRateTooltip>
+  <VF_FuelCapacity>Capacidade de Combustível</VF_FuelCapacity>
+  <VF_FuelCapacityTooltip>A quantidade de combustível que pode ser armazenada.</VF_FuelCapacityTooltip>
+  <VF_FuelConsumptionRateWorldMultiplier>Mult. Combustível no Mundo</VF_FuelConsumptionRateWorldMultiplier>
+  <VF_FuelConsumptionRateWorldMultiplierTooltip>Multiplicador de consumo de combustível no mapa-múndi.</VF_FuelConsumptionRateWorldMultiplierTooltip>
+  <VF_AutoRefuelPercent>% Reabastecimento Auto</VF_AutoRefuelPercent>
+  <VF_AutoRefuelPercentTooltip>Os colonos tentarão reabastecer o veículo quando o combustível estiver abaixo desta porcentagem.</VF_AutoRefuelPercentTooltip>
+  <VF_TargetFuelConfigurable>Nível de Combustível Configurável</VF_TargetFuelConfigurable>
+  <VF_TargetFuelConfigurableTooltip>O nível máximo de combustível pode ser configurado.</VF_TargetFuelConfigurableTooltip>
+  <VF_AmbientHeat>Calor Ambiente</VF_AmbientHeat>
+  <VF_AmbientHeatTooltip>Calor emitido quando o combustível está sendo consumido.</VF_AmbientHeatTooltip>
+
+  <VF_ReconDistance>Distância de Reconhecimento</VF_ReconDistance>
+  <VF_ReconDistanceTooltip>Distância em blocos que a nave poderá realizar o reconhecimento de um local ou assentamento.</VF_ReconDistanceTooltip>
+  <VF_FuelConsumptionWorld>Consumo de Combustível %</VF_FuelConsumptionWorld>
+  <VF_FuelConsumptionWorldTooltip>Multiplicador de consumo de combustível no mapa-múndi.</VF_FuelConsumptionWorldTooltip>
+  <VF_LaunchFixedMaxDistance>Distância Máx. Fixa</VF_LaunchFixedMaxDistance>
+  <VF_LaunchFixedMaxDistanceTooltip>Define uma distância máxima fixa que este veículo pode voar, independentemente do nível de combustível.</VF_LaunchFixedMaxDistanceTooltip>
+  <VF_LaunchFixedMaxDistanceDisabled>Nenhuma</VF_LaunchFixedMaxDistanceDisabled>
+  <VF_ControlInFlight>Controle em Voo</VF_ControlInFlight>
+  <VF_ControlInFlightTooltip>Controla o veículo aéreo enquanto ele está em voo. Permite alterar as rotas no meio do voo, escolher o local de pouso após carregar um mapa e metralhar mapas que ainda não foram carregados.</VF_ControlInFlightTooltip>
+  <VF_CanRoofPunch>Perfurar Telhado</VF_CanRoofPunch>
+  <VF_CanRoofPunchTooltip>O veículo pode atravessar telhados ao pousar.</VF_CanRoofPunchTooltip>
+  <VF_SpaceFlight>Voo Espacial</VF_SpaceFlight>
+  <VF_SpaceFlightTooltip>O veículo é capaz de ser lançado e decolar de objetos no espaço.</VF_SpaceFlightTooltip>
+  <VF_SignalJamming>Bloqueador de Sinal</VF_SignalJamming>
+  <VF_SignalJammingTooltip>O veículo é capaz de bloquear sinais para visitar certas plataformas orbitais.</VF_SignalJammingTooltip>
+  <VF_RateOfClimb>Taxa de Subida</VF_RateOfClimb>
+  <VF_RateOfClimbTooltip>A quantidade que o veículo sobe por tick.</VF_RateOfClimbTooltip>
+  <VF_MaxAltitude>Altitude Máxima</VF_MaxAltitude>
+  <VF_MaxAltitudeTooltip>Altitude máxima que este veículo pode atingir em voo.</VF_MaxAltitudeTooltip>
+  <VF_MaxFallRate>Taxa de Queda Máxima</VF_MaxFallRate>
+  <VF_MaxFallRateTooltip>Quantidade máxima que este veículo descerá quando abatido ou sem combustível.</VF_MaxFallRateTooltip>
+  <VF_Instant>Instantâneo</VF_Instant>
+
+  <VF_Rotatable>Rotativa</VF_Rotatable>
+  <VF_RotatableTooltip>Indica se a torre pode girar para mirar no alvo ou se é estática e só atira na direção para a qual está voltada.</VF_RotatableTooltip>
+  <VF_MagazineCapacity>Capacidade do Pente</VF_MagazineCapacity>
+  <VF_MagazineCapacityTooltip>Quantos disparos esta torre pode fazer antes de precisar recarregar.</VF_MagazineCapacityTooltip>
+  <VF_MinRange>Alcance Mínimo</VF_MinRange>
+  <VF_MinRangeTooltip>O alcance mínimo desta torre.</VF_MinRangeTooltip>
+  <VF_MaxRange>Alcance Máximo</VF_MaxRange>
+  <VF_MaxRangeTooltip>O alcance máximo desta torre.</VF_MaxRangeTooltip>
+  <VF_WarmupTime>Tempo de Preparação</VF_WarmupTime>
+  <VF_WarmupTimeValue>{0}s</VF_WarmupTimeValue>
+  <VF_WarmupTimeTooltip>Tempo necessário para esta torre disparar.</VF_WarmupTimeTooltip>
+  <VF_ReloadTime>Tempo de Recarga</VF_ReloadTime>
+  <VF_ReloadTimeValue>{0}s</VF_ReloadTimeValue>
+  <VF_ReloadTimeTooltip>Tempo necessário para recarregar esta torre.</VF_ReloadTimeTooltip>
+  <VF_RotationSpeed>Velocidade de Rotação</VF_RotationSpeed>
+  <VF_RotationSpeedValue>{0} graus/s</VF_RotationSpeedValue>
+  <VF_RotationSpeedTooltip>A rapidez com que esta torre gira para encarar seu alvo.</VF_RotationSpeedTooltip>
+  <VF_FireModes>Modos de Disparo</VF_FireModes>
+  <VF_FireModesTooltip>Cadências de tiro que podem ser configuradas para esta torre.</VF_FireModesTooltip>
+  <VF_RateOfFire>Cadência de Tiro</VF_RateOfFire>
+  <VF_RateOfFireValue>{0} tiros / minuto</VF_RateOfFireValue>
+  <VF_ShotsPerBurst>Tiros por rajada</VF_ShotsPerBurst>
+  <VF_ShotGroup>Grupo de Tiro</VF_ShotGroup>
+  <VF_ShotGroupValue>{0} célula{0_multiple ? s : }</VF_ShotGroupValue>
+
+  <VF_MainSettings>Principal</VF_MainSettings>
+  <VF_ListSearchText>Buscar...</VF_ListSearchText>
+  <VF_SettingsDisabledTooltip>As configurações foram bloqueadas para este veículo e não podem ser modificadas.</VF_SettingsDisabledTooltip>
+  <VF_NonUpgradeableSettingsTooltip>Este veículo não pode ser aprimorado.</VF_NonUpgradeableSettingsTooltip>
+  <VF_RecolorDefaultMaskTooltip>Alterar padrão padrão</VF_RecolorDefaultMaskTooltip>
+
+  <VF_WorldMapGen>Geração de Mapa/Mundo</VF_WorldMapGen>
+  <VF_BeachGenMultiplier>Multiplicador de Tamanho de Praia</VF_BeachGenMultiplier>
+  <VF_BeachGenMultiplierTooltip>Aumenta a quantidade de água no litoral.</VF_BeachGenMultiplierTooltip>
+  <VF_RiverGenMultiplier>Multiplicador de Tamanho de Rio</VF_RiverGenMultiplier>
+  <VF_RiverGenMultiplierTooltip>Aumenta a largura dos rios nos mapas.</VF_RiverGenMultiplierTooltip>
+  <VF_AdjustSettlementRadius>Relocação de Assentamentos</VF_AdjustSettlementRadius>
+  <VF_AdjustSettlementRadiusTooltip>Ajusta os assentamentos para características próximas do terreno para facilitar o trajeto de veículos.</VF_AdjustSettlementRadiusTooltip>
+  <VF_AdjustCoastWeight>Peso costeiro</VF_AdjustCoastWeight>
+  <VF_AdjustRiverWeight>Peso fluvial</VF_AdjustRiverWeight>
+  <VF_WorldTiles>blocos</VF_WorldTiles>
+
+  <VF_SettingsGeneral>Geral</VF_SettingsGeneral>
+  <VF_WillRequireRestart>Esta ação requer a reinicialização para surtir efeito.</VF_WillRequireRestart>
+  <VF_ModifiableSettings>Configurações Modificáveis</VF_ModifiableSettings>
+  <VF_ModifiableSettingsTooltip>Alternar configurações modificáveis. Reiniciar com isso desativado ignorará a geração de configurações modificáveis.\n\nDetermina se os Veículos devem usar valores das configurações do mod ou das Defs originais.</VF_ModifiableSettingsTooltip>
+  <VF_CustomShaders>Usar Shaders RGB</VF_CustomShaders>
+  <VF_CustomShadersTooltip>Ativa o uso de shaders personalizados fornecidos pelo framework.</VF_CustomShadersTooltip>
+  <VF_DiagonalVehicleRendering>Permitir Renderização Diagonal</VF_DiagonalVehicleRendering>
+  <VF_DiagonalVehicleRenderingTooltip>Veículos que suportam renderização diagonal o farão quando configurados em rotações diagonais (Nordeste, Sudeste, Sudoeste, Noroeste).</VF_DiagonalVehicleRenderingTooltip>
+
+  <VF_FullVehiclePathing>Traçado Completo de Veículo</VF_FullVehiclePathing>
+  <VF_FullVehiclePathingTooltip>Usa toda a hitbox do veículo ao determinar o caminho mais curto. O veículo ainda será limitado pelo seu tamanho real.</VF_FullVehiclePathingTooltip>
+  <VF_SmoothVehiclePathing>Traçados Suaves de Veículo</VF_SmoothVehiclePathing>
+  <VF_SmoothVehiclePathingTooltip>O traçado de veículos terá um custo adicional de "curva", evitando padrões de zigue-zague desnecessários ao buscar o caminho mais curto.</VF_SmoothVehiclePathingTooltip>
+  <VF_HierarchalPathfinding>Traçado Hierárquico (Exp.)</VF_HierarchalPathfinding>
+  <VF_HierarchalPathfindingTooltip>Usa HPA* em vez de A* para um traçado mais rápido. Sacrifica uma pequena quantidade de precisão por um processamento substancialmente mais rápido em grandes distâncias.</VF_HierarchalPathfindingTooltip>
+
+  <VF_RoadBiomeCostPathing>Ignorar Biomas em Estradas</VF_RoadBiomeCostPathing>
+  <VF_RoadBiomeCostPathingTooltip>Caravanas de veículos movendo-se sobre estradas no mapa-múndi ignorarão os custos de caminho do bioma.</VF_RoadBiomeCostPathingTooltip>
+  <VF_MultiplePawnsPerJob>Trabalhos de Multi-Colonos</VF_MultiplePawnsPerJob>
+  <VF_MultiplePawnsPerJobTooltip>Permite que trabalhos relacionados a veículos autorizem mais de 1 colono a reservar e trabalhar nele. O máximo permitido é determinado pelos criadores do mod.</VF_MultiplePawnsPerJobTooltip>
+
+  <VF_GraphicsSettings>Gráficos</VF_GraphicsSettings>
+  <VF_PerformanceSettings>Performance</VF_PerformanceSettings>
+  <VF_PassiveWaterWaves>Ondas de Água Passivas</VF_PassiveWaterWaves>
+  <VF_PassiveWaterWavesTooltip>Gera ondas passivas quando o barco está ocioso.</VF_PassiveWaterWavesTooltip>
+  <VF_AerialVehicleEffects>Efeitos de Veículos Aéreos</VF_AerialVehicleEffects>
+  <VF_AerialVehicleEffectsTooltip>Quando veículos aéreos decolam e pousam, geram partículas e renderizam texturas de sobreposição.</VF_AerialVehicleEffectsTooltip>
+
+  <VF_MeleeDamageMultiplier>Mult. de Dano Corpo a Corpo</VF_MeleeDamageMultiplier>
+  <VF_RangedDamageMultiplier>Mult. de Dano à Distância</VF_RangedDamageMultiplier>
+  <VF_ExplosiveDamageMultiplier>Mult. de Dano Explosivo</VF_ExplosiveDamageMultiplier>
+
+  <VF_VehicleTurrets>Torres de Veículos</VF_VehicleTurrets>
+  <VF_TurretOverheatMechanics>Superaquecimento de Torres</VF_TurretOverheatMechanics>
+  <VF_TurretOverheatMechanicsTooltip>Algumas torres possuem mecânicas de superaquecimento para evitar disparos contínuos sem consequências. Manter isso ativado?</VF_TurretOverheatMechanicsTooltip>
+
+  <VF_Fishing>Pesca</VF_Fishing>
+  <VF_FishingInactive>Pesca (Inativa)</VF_FishingInactive>
+  <VF_FishingMultiplier>Multiplicador de Pesca</VF_FishingMultiplier>
+  <VF_FishingMultiplierTooltip>Ajusta a quantidade de peixes coletados por barcos de pesca.</VF_FishingMultiplierTooltip>
+  <VF_FishingSkill>Habilidade de Pesca</VF_FishingSkill>
+  <VF_FishingSkillTooltip>Quanta experiência é concedida ao pescar em um barco.</VF_FishingSkillTooltip>
+
+  <VF_AerialVehicles>Aéreo</VF_AerialVehicles>
+  <VF_DrawLandingGhost>Desenhar Local de Pouso</VF_DrawLandingGhost>
+  <VF_DrawLandingGhostTooltip>Desenha um projeto transparente onde um veículo aéreo irá pousar.</VF_DrawLandingGhostTooltip>
+  <VF_RocketsBurnRadius>Queima de Foguetes</VF_RocketsBurnRadius>
+  <VF_RocketsBurnRadiusTooltip>Permite que veículos aéreos que suportam este recurso queimem tudo em um pequeno raio ao decolar e pousar.</VF_RocketsBurnRadiusTooltip>
+  <VF_DynamicDrawing>Ícone Dinâmico</VF_DynamicDrawing>
+  <VF_DynamicDrawingTooltip>Renderiza veículos aéreos no mapa-múndi quando o zoom é aproximado.</VF_DynamicDrawingTooltip>
+  <VF_DeployOnLanding>Desembarcar ao Pousar</VF_DeployOnLanding>
+  <VF_DeployOnLandingTooltip>Quando um veículo aéreo pousa, todos os colonos a bordo serão desembarcados.</VF_DeployOnLandingTooltip>
+  <VF_DelayOnLanding>Atraso no Desembarque</VF_DelayOnLanding>
+  <VF_DelayOnLandingTooltip>Quando um veículo aéreo pousa, o desembarque de todos os colonos será atrasado.</VF_DelayOnLandingTooltip>
+  <VF_DelaySeconds>segundos</VF_DelaySeconds>
+  <VF_AirDefensesActive>Defesas Aéreas</VF_AirDefensesActive>
+  <VF_AirDefensesActiveTooltip>Certos objetos do mundo podem utilizar defesas aéreas para abater aeronaves próximas.</VF_AirDefensesActiveTooltip>
+
+  <VF_CombatSettings>Combat</VF_CombatSettings>
+  <VF_ShellExplosionsOnWater>Reduzir Explosões na Água</VF_ShellExplosionsOnWater>
+  <VF_ShellExplosionsOnWaterTooltip>Projéteis explosivos sobre a água têm seu raio de explosão reduzido e o efeito sonoro alterado para um respingo.</VF_ShellExplosionsOnWaterTooltip>
+  <VF_RunOverPawns>Atropelar Colonos</VF_RunOverPawns>
+  <VF_RunOverPawnsTooltip>Veículos podem atropelar colonos e aplicar dano de contusão com base na massa e velocidade.</VF_RunOverPawnsTooltip>
+  <VF_ChanceToRunOverFriendlies>Chance de Atropelar Aliados</VF_ChanceToRunOverFriendlies>
+  <VF_ChanceToRunOverFriendliesTooltip>Probabilidade de atropelar colonos aliados.</VF_ChanceToRunOverFriendliesTooltip>
+
+  <VF_VehicleStats>Estatísticas</VF_VehicleStats>
+
+  <VF_Upgrades>Aprimoramentos</VF_Upgrades>
+  <VF_OverrideDrawColor>Sobrescrever Cor de Exibição</VF_OverrideDrawColor>
+  <VF_OverrideDrawColorTooltip>Quando qualquer aprimoramento que inclua um padrão ou cor for aplicado, a pintura anterior será sobrescrita.</VF_OverrideDrawColorTooltip>
+
+  <ST_Copy>Copiar</ST_Copy>
+  <ST_Paste>Colar</ST_Paste>
+  <ST_Delete>Excluir</ST_Delete>
+
+  <ST_AnimationWindow>Animador</ST_AnimationWindow>
+  <ST_ControllerWindow>Controlador</ST_ControllerWindow>
+  <ST_CreateNewClip>Criar Novo Clipe...</ST_CreateNewClip>
+
+  <ST_RemoveProperties>Remover Propriedades</ST_RemoveProperties>
+  <ST_AddKey>Adicionar Chave</ST_AddKey>
+  <ST_RemoveKey>Excluir Chave</ST_RemoveKey>
+
+  <ST_PreviewAnimation>Visualização</ST_PreviewAnimation>
+  <ST_PreviewAnimationTooltip>Ativa/desativa o modo de visualização da animação da entidade no jogo.</ST_PreviewAnimationTooltip>
+  <ST_PlayAnimationTooltip>Reproduzir a animação</ST_PlayAnimationTooltip>
+  <ST_PauseAnimationTooltip>Pausar a animação</ST_PauseAnimationTooltip>
+  <ST_SkipFrameBeginningTooltip>Ir para o início da animação</ST_SkipFrameBeginningTooltip>
+  <ST_SkipFramePreviousTooltip>Ir para o quadro-chave (keyframe) anterior</ST_SkipFramePreviousTooltip>
+  <ST_SkipFrameNextTooltip>Ir para o próximo quadro-chave (keyframe)</ST_SkipFrameNextTooltip>
+  <ST_SkipFrameEndTooltip>Ir para o fim da animação</ST_SkipFrameEndTooltip>
+
+  <ST_AddKeyFrame>Adicionar quadro-chave</ST_AddKeyFrame>
+  <ST_AddAnimationEvent>Adicionar evento</ST_AddAnimationEvent>
+  <ST_AddProperty>Adicionar Propriedade</ST_AddProperty>
+  <ST_Injected>Injetado</ST_Injected>
+  <ST_UnsupportedType>Tipo não suportado</ST_UnsupportedType>
+  <ST_NoFunctionSelected>Nenhuma Função Selecionada</ST_NoFunctionSelected>
+  <ST_NoControllerParameters>Sem Parâmetros de Controlador</ST_NoControllerParameters>
+
+  <ST_DopesheetTab>Dopesheet</ST_DopesheetTab>
+  <ST_CurvesTab>Curvas</ST_CurvesTab>
+
+  <ST_Layers>Camadas</ST_Layers>
+  <ST_Parameters>Parâmetros</ST_Parameters>
+  <ST_Conditions>Condições</ST_Conditions>
+  <ST_CreateState>Criar Estado</ST_CreateState>
+  <ST_CreateSubState>Criar Máquina de Sub-Estados</ST_CreateSubState>
+  <ST_MakeTransition>Criar Transição</ST_MakeTransition>
+  <ST_SetStateDefault>Definir como Estado Padrão da Camada</ST_SetStateDefault>
+  <ST_CreateBlendTree>Criar novo BlendTree no Estado</ST_CreateBlendTree>
+
+  <ST_Loop>Loop</ST_Loop>
+  <ST_MotionFile>Movimento (Motion)</ST_MotionFile>
+  <ST_MotionSpeed>Velocidade</ST_MotionSpeed>
+  <ST_MotionSpeedMultiplier>Multiplicador</ST_MotionSpeedMultiplier>
+  <ST_MotionTime>Tempo de Movimento</ST_MotionTime>
+  <ST_Mirror>Espelhar</ST_Mirror>
+  <ST_CycleOffset>Deslocamento de Ciclo (Offset)</ST_CycleOffset>
+  <ST_WriteDefaults>Gravar Padrões</ST_WriteDefaults>
+  <ST_TransitionList>Transições</ST_TransitionList>
+  <ST_TransitionSolo>Solo</ST_TransitionSolo>
+  <ST_TransitionMute>Mudo</ST_TransitionMute>
+
+  <VF_FormingCaravanStatus_RopingAnimals>Amarrando animais aos veículos.</VF_FormingCaravanStatus_RopingAnimals>
+  <VF_FormingCaravanStatus_RopingAnimals_Pause>Amarrando animais aos veículos (aguardando).</VF_FormingCaravanStatus_RopingAnimals_Pause>
+  <VF_FormingCaravanStatus_BoardVehicles>Embarcando.</VF_FormingCaravanStatus_BoardVehicles>
+  <VF_FormingCaravanStatus_BoardVehicles_Pause>Embarcando (aguardando).</VF_FormingCaravanStatus_BoardVehicles_Pause>
+  <VF_FormingCaravanStatus_Leaving_Vehicles>Partindo.</VF_FormingCaravanStatus_Leaving_Vehicles>
+  <VF_FormingCaravanStatus_Leaving_Vehicles_Pause>Partindo (aguardando).</VF_FormingCaravanStatus_Leaving_Vehicles_Pause>
+
+  <VF_draftLabel>Ligar Motor</VF_draftLabel>
+  <VF_healthLabel_Healthy>Operacional</VF_healthLabel_Healthy>
+  <VF_healthLabel_Injured>Necessita Reparos</VF_healthLabel_Injured>
+  <VF_healthLabel_Immobile>Inoperante</VF_healthLabel_Immobile>
+  <VF_healthLabel_Dead>Arruinado</VF_healthLabel_Dead>
+  <VF_healthLabel_Beached>Encalhado</VF_healthLabel_Beached>
+
+  <VF_GeneratingPathData>Gerando Dados de Rota do Veículo</VF_GeneratingPathData>
+  <VF_GeneratingPathGrids>Gerando Grades de Caminho</VF_GeneratingPathGrids>
+  <VF_GeneratingRegions>Gerando Regiões de Veículo</VF_GeneratingRegions>
+
+  <VF_ReloadVehicleTurret>Recarregar</VF_ReloadVehicleTurret>
+
+  <VF_ToggleAutoTargeting>Alternar mira automática</VF_ToggleAutoTargeting>
+  <VF_ToggleAutoTargetingDesc>Isso determina se a torre mirará automaticamente em inimigos. Se ativado, quaisquer inimigos dentro do alcance serão atacados.\n\nA mira automática está atualmente {0}.</VF_ToggleAutoTargetingDesc>
+  <VF_AutoTargetingDisabled>Mira automática não é permitida para esta torre.</VF_AutoTargetingDisabled>
+
+  <VF_VehicleTurrets_NoAmmoToReload>Sem munição utilizável.</VF_VehicleTurrets_NoAmmoToReload>
+
+  <VF_SetReloadLevel>Definir nível de recarga automática para {0}.</VF_SetReloadLevel>
+  <VF_SetReloadLevelTooltip>Configurar Nível de Munição</VF_SetReloadLevelTooltip>
+
+  <VF_Upgrade>Aprimorar</VF_Upgrade>
+  <VF_DisabledFromOtherNode>Inacessível, desativado por outro aprimoramento.</VF_DisabledFromOtherNode>
+  <VF_MissingPrerequisiteUpgrade>Pré-requisitos ausentes.</VF_MissingPrerequisiteUpgrade>
+  <VF_RemoveUpgrade>Remover</VF_RemoveUpgrade>
+
+</LanguageData>

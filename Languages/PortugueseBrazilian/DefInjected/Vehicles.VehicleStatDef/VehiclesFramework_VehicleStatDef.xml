@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <FlightControl.label>Controle de Voo</FlightControl.label>
+  <FlightControl.description>Capacidade de voo do veículo. Se o valor chegar a 0, o veículo será forçado a fazer um pouso de emergência.</FlightControl.description>
+  
+  <FlightSpeed.label>Velocidade de Voo</FlightSpeed.label>
+  <FlightSpeed.description>Velocidade de movimento no mapa-múndi enquanto estiver voando.</FlightSpeed.description>
+  <FlightSpeed.formatString>{0} q/s</FlightSpeed.formatString>
+
+  <BodyIntegrity.label>Integridade da Estrutura</BodyIntegrity.label>
+  <BodyIntegrity.description>A média da saúde de todas as peças do veículo. Se a integridade do veículo chegar a 0, ele se desintegrará em uma fração do seu custo de construção.</BodyIntegrity.description>
+  
+  <CargoCapacity.label>Carga</CargoCapacity.label>
+  <CargoCapacity.description>A quantidade de peso que este veículo pode carregar como carga.</CargoCapacity.description>
+  <CargoCapacity.formatString>{0} kg</CargoCapacity.formatString>
+  
+  <Mass.label>Massa</Mass.label>
+  <Mass.description>A massa física deste veículo.</Mass.description>
+  <Mass.formatString>{0} kg</Mass.formatString>
+  
+  <MoveSpeed.label>Velocidade de Movimento</MoveSpeed.label>
+  <MoveSpeed.description>Velocidade de movimento em quadrados por segundo.</MoveSpeed.description>
+  <MoveSpeed.formatString>{0} q/s</MoveSpeed.formatString>
+  <MoveSpeed.parts.0.formatString>{0} / {1}</MoveSpeed.parts.0.formatString>
+  
+  <RepairRate.label>Taxa de Reparo</RepairRate.label>
+  <RepairRate.description>A quantidade de pontos de vida que são reparados por segundo.</RepairRate.description>
+  <RepairRate.formatString>{0} pv/s</RepairRate.formatString>
+  
+  <WorkToSabotage.label>Trabalho para Sabotagem</WorkToSabotage.label>
+  <WorkToSabotage.description>A quantidade base de trabalho necessária para sabotar um veículo.</WorkToSabotage.description>
+
+  <AccelerationRate.label>Taxa de aceleração</AccelerationRate.label>
+  <AccelerationRate.description>A taxa na qual o carro acelera, em células por segundo. Uma taxa mais alta significa que o veículo atingirá sua velocidade máxima mais rapidamente. Isso também afeta a taxa de desaceleração, que é o dobro da taxa de aceleração.</AccelerationRate.description>
+  <AccelerationRate.formatString>{0} c/s²</AccelerationRate.formatString>
+  
+</LanguageData>

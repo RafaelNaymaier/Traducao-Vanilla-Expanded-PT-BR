@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VVE_Nauticals.label>náuticos</VVE_Nauticals.label>
+  <VVE_Nauticals.description>Abraçar a imensidão das águas oferece uma conexão profunda com os mistérios da vida.</VVE_Nauticals.description>
+  <VVE_Nauticals.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Nauticals)        ->[deity0_name] fez com que todos os seus seguidores olhassem para os mares infinitos.</li>
+    <li>episode(uses=1,tag=meme_Nauticals)  ->Falando aos fiéis, [deity0_name] disse: "Somente conquistando os mares vocês alcançarão a verdadeira iluminação".</li>
+    <li>intro(tag=meme_Nauticals)           ->[place_summary] [place_name] estava sempre repleto de conflitos. Os [memberNamePlural] eram sitiados constantemente por seus inimigos, e isso entristecia profundamente [deity0_name].</li>
+    <li>conflict(tag=meme_Nauticals)        ->[deity0_name] testemunhou os ataques constantes de um terrível [foeLeader], um senhor da guerra, e decidiu dar velas aos seus seguidores, para que pudessem navegar pelos mares para evitar e emboscar seus inimigos.</li>
+    <li>founderJoin(tag=meme_Nauticals)     ->[founderName], o maior entre nossos navegadores, foi avisado do plano de [foeLeader] por [deity0_name], e quando [foeLeader_pronoun] os atacou, uma enorme marinha de navios colossais estava pronta e esperando por [foeLeader_objective].</li>
+    <li>victory(tag=meme_Nauticals)         ->O [foeLeader] foi rapidamente atacado a partir dos mares, tudo em nome de [deity0_name].</li>
+    <li>setup(tag=meme_Nauticals)           ->[founderName] era um navegador, o melhor de sua classe. [founder_pronoun] passou décadas de sua vida velejando em todos os tipos de embarcações, tanto civis quanto militares.</li>
+    <li>story(uses=1,tag=meme_Nauticals)    ->[founderName] entendia melhor do que ninguém que a verdadeira liberdade reside em navegar pelos mares, pois as águas podem ser caprichosas, mas também são justas.</li>
+    <li>lessonIntro(tag=meme_Nauticals)         ->Os antigos navegadores da Terra estavam absolutamente certos. Eles nos ensinaram que</li>
+    <li>lesson(tag=meme_Nauticals)              ->a única liberdade verdadeira reside em navegar pelos mares infinitos</li>
+    <li>lessonReinforcement(tag=meme_Nauticals) ->Nós cairemos sobre nossos inimigos a partir das águas indomáveis, como uma justiça rápida e divina.</li>
+    <li>archistBasis(tag=meme_Nauticals)    ->As mentes puras dos arquotécnicos são fluidas como a água, seres de inconstância e mutabilidade.</li>
+    <li>archistFact(tag=meme_Nauticals)     ->Ao navegar pelos mares, prestamos homenagem à sua natureza imprevisível e caprichosa.</li>
+    <li>archistProphecy(tag=meme_Nauticals) ->[inTheEnd], apenas aqueles que transcendem os limites da terra também serão capazes de transcender seus corpos físicos.</li>
+    <li>animistBasis(tag=meme_Nauticals)    ->Os espíritos nos ensinam que a imprevisibilidade dos mares guarda o segredo para uma existência pura.</li>
+    <li>animistFact(tag=meme_Nauticals)     ->Apenas navegando pelos mares podemos nos aproximar dos espíritos.</li>
+    <li>animistProphecy(tag=meme_Nauticals) ->[itIsSaid] apenas aqueles que transcendem os limites da terra também serão capazes de comungar com o mundo espiritual.</li>
+  </VVE_Nauticals.descriptionMaker.rules.rulesStrings>
+  <VVE_Nauticals.generalRules.rulesStrings>
+    <li>memeAdjective->velejador</li>
+    <li>memeAdjective->navegante</li>
+    <li>memeAdjective->navegável</li>
+    <li>memeLeaderNoun->navegador</li>
+    <li>memeMoralist->vidente das águas</li>
+    <li>memeConcept->navegação</li>
+  </VVE_Nauticals.generalRules.rulesStrings>
+  <VVE_Nauticals.symbolPacks.0.adjective>náutico</VVE_Nauticals.symbolPacks.0.adjective>
+  <VVE_Nauticals.symbolPacks.0.ideoName>Náuticos</VVE_Nauticals.symbolPacks.0.ideoName>
+  <VVE_Nauticals.symbolPacks.0.member>marinheiro</VVE_Nauticals.symbolPacks.0.member>
+  <VVE_Nauticals.symbolPacks.0.theme>náutica</VVE_Nauticals.symbolPacks.0.theme>
+  
+  <VVE_Roadragers.label>fúria da estrada</VVE_Roadragers.label>
+  <VVE_Roadragers.description>Para nós, a estrada é sagrada, e o domínio veicular é tanto uma crença quanto um testamento do nosso poder. Consideramos sagrados o rugido dos nossos motores e a corrida do asfalto sob nossos pneus.</VVE_Roadragers.description>
+  <VVE_Roadragers.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Roadragers)        ->[deity0_name] importava-se apenas com o rugido dos motores. [deity0_pronoun] ordenou a todos os fiéis que caíssem na estrada.</li>
+    <li>episode(uses=1,tag=meme_Roadragers)  ->Falando aos seus crentes, [deity0_name] disse: "Eu mesmo carregarei vocês pelos portões de Valhalla. Vocês rodarão eternos, brilhantes e cromados!".</li>
+    <li>intro(tag=meme_Roadragers)           ->[place_summary] [place_name] brilhava com o óleo de motor fresco que pingava de nossos veículos sagrados, um testamento da glória de [deity0_name].</li>
+    <li>conflict(tag=meme_Roadragers)        ->Um [foeLeader] raivoso, querendo colocar as mãos em nossos carros, tentou atacar com a ajuda de seus muitos [foeSoldiers].</li>
+    <li>founderJoin(tag=meme_Roadragers)     ->[deity0_name] concedeu ao nosso fundador, [founderName], a [relic0_name], e [founder_pronoun] a usou para ungir e aumentar o motor V8 de seu carro de guerra personalizado, resistindo ao ataque.</li>
+    <li>victory(tag=meme_Roadragers)         ->O massacre foi sublime. [founderName] massacrou inúmeros inimigos, e nós celebramos caindo na estrada montados em todos os nossos veículos.</li>
+    <li>setup(tag=meme_Roadragers)           ->[founderName] entendeu que o rugido de um motor é a única medida verdadeira de poder.</li>
+    <li>story(uses=1,tag=meme_Roadragers)    ->[founderName] sempre repetia a mesma lição repetidamente: "Eu mesmo carregarei vocês pelos portões de Valhalla. Vocês rodarão eternos, brilhantes e cromados!".</li>
+    <li>lessonIntro(tag=meme_Roadragers)         ->É apenas pelo rugido de nossos motores que se chega ao prazer. Você precisa entender que</li>
+    <li>lesson(tag=meme_Roadragers)              ->eu sou seu redentor. É pela minha mão que vocês renascerão das cinzas deste mundo</li>
+    <li>lessonReinforcement(tag=meme_Roadragers) ->Eu mesmo carregarei vocês pelos portões de Valhalla. Vocês rodarão eternos, brilhantes e cromados!</li>
+    <li>archistBasis(tag=meme_Roadragers)    ->Os arquotécnicos entendem que o poder não é apenas um meio para um fim. O poder é um fim em si mesmo.</li>
+    <li>archistFact(tag=meme_Roadragers)     ->Os arquotécnicos ficarão admirados com o poderoso rugido de nossos motores. É pela mão deles que renasceremos das cinzas deste mundo.</li>
+    <li>archistProphecy(tag=meme_Roadragers) ->[inTheEnd], eles nos carregarão pelos portões de Valhalla. Nós rodaremos eternos, brilhantes e cromados!</li>
+    <li>animistBasis(tag=meme_Roadragers)    ->Os espíritos entendem que o poder não é apenas um meio para um fim. O poder é um fim em si mesmo.</li>
+    <li>animistFact(tag=meme_Roadragers)     ->É pela mão deles que renasceremos das cinzas deste mundo.</li>
+    <li>animistProphecy(tag=meme_Roadragers) ->[itIsSaid] apenas aqueles que deixarem o rugido de seus motores ser ouvido acima de tudo serão carregados pelos espíritos através dos portões de Valhalla. Eles rodarão eternos, brilhantes e cromados!</li>
+  </VVE_Roadragers.descriptionMaker.rules.rulesStrings>
+  <VVE_Roadragers.generalRules.rulesStrings>
+    <li>memeAdjective->enfurecido na estrada</li>
+    <li>memeAdjective->saqueador</li>
+    <li>memeAdjective->demolidor</li>
+    <li>memeLeaderNoun->senhor da guerra</li>
+    <li>memeMoralist->sacerdote da octanagem</li>
+    <li>memeConcept->carros</li>
+  </VVE_Roadragers.generalRules.rulesStrings>
+  <VVE_Roadragers.symbolPacks.0.adjective>estradeiro</VVE_Roadragers.symbolPacks.0.adjective>
+  <VVE_Roadragers.symbolPacks.0.ideoName>Estradeiros</VVE_Roadragers.symbolPacks.0.ideoName>
+  <VVE_Roadragers.symbolPacks.0.member>estradeiro</VVE_Roadragers.symbolPacks.0.member>
+  <VVE_Roadragers.symbolPacks.0.theme>estrada furiosa</VVE_Roadragers.symbolPacks.0.theme>
+  
+  <VVE_Skyseekers.label>buscadores do céu</VVE_Skyseekers.label>
+  <VVE_Skyseekers.description>A elevação, tanto física quanto espiritual, é alcançada voando pelos céus.</VVE_Skyseekers.description>
+  <VVE_Skyseekers.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Skyseekers)        ->[deity0_name] fez com que todos os seus seguidores olhassem para os céus infinitos.</li>
+    <li>episode(uses=1,tag=meme_Skyseekers)  ->Falando aos fiéis, [deity0_name] disse: "Somente conquistando os céus vocês alcançarão a verdadeira iluminação".</li>
+    <li>intro(tag=meme_Skyseekers)           ->[place_summary] [place_name] estava sempre repleto de conflitos. Os [memberNamePlural] eram sitiados constantemente por seus inimigos, e isso entristecia profundamente [deity0_name].</li>
+    <li>conflict(tag=meme_Skyseekers)        ->[deity0_name] testemunhou os ataques constantes de um terrível [foeLeader], um senhor da guerra, e decidiu dar naves aladas aos seus seguidores, para que pudessem voar pelos céus acima de seus inimigos.</li>
+    <li>founderJoin(tag=meme_Skyseekers)     ->[founderName], o maior entre nossos aviadores, foi avisado do plano de [foeLeader] por [deity0_name], e quando [foeLeader_pronoun] os atacou, um enorme esquadrão de caças estava pronto e esperando por [foeLeader_objective].</li>
+    <li>victory(tag=meme_Skyseekers)         ->O [foeLeader] foi rapidamente bombardeado dos céus, tudo em nome de [deity0_name].</li>
+    <li>setup(tag=meme_Skyseekers)           ->[founderName] era um piloto, o melhor de sua classe. [founder_pronoun] passou décadas de sua vida pilotando todos os tipos de aeronaves, tanto civis quanto militares.</li>
+    <li>story(uses=1,tag=meme_Skyseekers)    ->[founderName] entendia melhor do que ninguém que a verdadeira liberdade reside em planar pelos céus infinitos, muito acima de qualquer problema.</li>
+    <li>lessonIntro(tag=meme_Skyseekers)         ->Os antigos aviadores da Terra estavam absolutamente certos. Eles nos ensinaram que</li>
+    <li>lesson(tag=meme_Skyseekers)              ->a única liberdade verdadeira reside em planar pelos céus infinitos</li>
+    <li>lessonReinforcement(tag=meme_Skyseekers) ->Nós cairemos sobre nossos inimigos dos céus inalcançáveis, como uma justiça rápida e divina.</li>
+    <li>archistBasis(tag=meme_Skyseekers)    ->arquotécnicos são mentes puras, seres do céu.</li>
+    <li>archistFact(tag=meme_Skyseekers)     ->Ao voar pelos céus, nos aproximamos dos arquotécnicos.</li>
+    <li>archistProphecy(tag=meme_Skyseekers) ->[inTheEnd], apenas aqueles que transcendem os limites da terra também serão capazes de transcender seus corpos físicos.</li>
+    <li>animistBasis(tag=meme_Skyseekers)    ->Os espíritos nos ensinam que os céus infinitos guardam o segredo para uma existência pura.</li>
+    <li>animistFact(tag=meme_Skyseekers)     ->Apenas voando pelos céus podemos nos aproximar dos espíritos.</li>
+    <li>animistProphecy(tag=meme_Skyseekers) ->[itIsSaid] apenas aqueles que transcendem os limites da terra também serão capazes de comungar com o mundo espiritual.</li>
+  </VVE_Skyseekers.descriptionMaker.rules.rulesStrings>
+  <VVE_Skyseekers.generalRules.rulesStrings>
+    <li>memeAdjective->voador</li>
+    <li>memeAdjective->planador</li>
+    <li>memeAdjective->livre</li>
+    <li>memeLeaderNoun->aviador</li>
+    <li>memeMoralist->vidente do céu</li>
+    <li>memeConcept->voo</li>
+  </VVE_Skyseekers.generalRules.rulesStrings>
+  <VVE_Skyseekers.symbolPacks.0.adjective>buscador do céu</VVE_Skyseekers.symbolPacks.0.adjective>
+  <VVE_Skyseekers.symbolPacks.0.ideoName>Buscadores do Céu</VVE_Skyseekers.symbolPacks.0.ideoName>
+  <VVE_Skyseekers.symbolPacks.0.member>piloto</VVE_Skyseekers.symbolPacks.0.member>
+  <VVE_Skyseekers.symbolPacks.0.theme>buscadores do céu</VVE_Skyseekers.symbolPacks.0.theme>
+  
+  <VVE_Travelers.label>viajantes</VVE_Travelers.label>
+  <VVE_Travelers.description>O mundo é vasto e destinado a ser explorado em todas as suas facetas.</VVE_Travelers.description>
+  <VVE_Travelers.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Traveler)         ->[deity0_name] escreveu seus mandamentos em onze tábuas de plastiaço. O quinto mandamento dizia: "Não me absterei de explorar o mundo."</li>
+    <li>episode(uses=1,tag=meme_Traveler)   ->De acordo com os preceitos de [deity0_name], viajamos alegremente para o exterior, para longe de nossos assentamentos, para ver tudo o que nosso mundo tem a oferecer.</li>
+    <li>intro(tag=meme_Traveler)            ->Os [memberNamePlural] estavam inquietos, pois [deity0_name] havia ordenado que explorassem as terras vizinhas, e eles estavam cansados de vagar vivendo da terra.</li>
+    <li>conflict(tag=meme_Traveler)         ->Um dos anciãos queria desafiar os mandamentos de [deity0_name] e fechar os assentamentos para exploração futura.</li>
+    <li>founderJoin(tag=meme_Traveler)      ->[founderName], o Grande Explorador, cansou-se da insolência do ancião e usurpou seu poder. A partir desse ponto, os [memberNamePlural] seriam os exploradores mais habilidosos da terra, aventurando-se longe.</li>
+    <li>victory(tag=meme_Traveler)          ->Foi assim que nos apaixonamos pelo desejo de viajar e viajamos pelo mundo inteiro explorando até seus confins mais distantes.</li>
+    <li>setup(tag=meme_Traveler)            ->[founderName] era um explorador habilidoso. [founder_pronoun] ansiava pela descoberta, viajando para os confins do mundo.</li>
+    <li>story(uses=1,tag=meme_Traveler)     ->Buscando a emoção da aventura, [founderName] reuniu um pequeno grupo de seus seguidores e fretou uma nave para viajar para a Orla. Suas descobertas se tornaram lendas, mapeando uma infinidade de novos mundos estranhos e novas civilizações, audaciosamente indo onde... errr, desculpe, me empolguei um pouco.</li>
+    <li>lessonIntro(tag=meme_Traveler)         ->Humanos temem o desconhecido, é um fato. Está abundantemente claro que</li>
+    <li>lesson(tag=meme_Traveler)              ->precisamos explorar nossos arredores. Desconhecer o que está ao nosso redor é uma receita para o desastre</li>
+    <li>lessonReinforcement(tag=meme_Traveler) ->Apenas verdadeiros exploradores nunca podem ser pegos desprevenidos.</li>
+    <li>archistBasis(tag=meme_Traveler)     ->Arquotécnicos estão sempre cientes de tudo. Desconhecer seus arredores é quase obsceno para eles.</li>
+    <li>archistFact(tag=meme_Traveler)      ->Os arquotécnicos nos ensinam que explorar e viajar são um caminho para a transcendência.</li>
+    <li>archistProphecy(tag=meme_Traveler)  ->[inTheEnd], aqueles que passam a vida inteira se escondendo não transcenderão, enquanto aqueles infundidos pelo espírito de viagem se juntarão aos arquotécnicos.</li>
+    <li>animistBasis(tag=meme_Traveler)     ->Espíritos governam tudo, desde os conceitos mais abstratos até os concretos. Especificamente, cada lugar tem seu próprio espírito, e é por isso que descobrir e viajar para todos esses lugares nos aproxima dos espíritos.</li>
+    <li>animistFact(tag=meme_Traveler)      ->O espírito de viagem é poderoso e instila paixão pela liberdade, pela exploração: você nunca sabe o que a estrada à frente pode trazer.</li>
+    <li>animistProphecy(tag=meme_Traveler)  ->[itIsSaid] apenas aqueles que são capazes de viver sem raízes e vagar livres podem realmente apaziguar os espíritos.</li>
+  </VVE_Travelers.descriptionMaker.rules.rulesStrings>
+  <VVE_Travelers.generalRules.rulesStrings>
+    <li>memeAdjective->explorador</li>
+    <li>memeAdjective->viajante</li>
+    <li>memeAdjective->transeunte</li>
+    <li>memeConcept->viagem</li>
+    <li>memeLeaderNoun->explorador</li>
+    <li>memeLeaderNoun->viajante</li>
+  </VVE_Travelers.generalRules.rulesStrings>
+  <VVE_Travelers.symbolPacks.0.adjective>viajante</VVE_Travelers.symbolPacks.0.adjective>
+  <VVE_Travelers.symbolPacks.0.ideoName>Viajantes</VVE_Travelers.symbolPacks.0.ideoName>
+  <VVE_Travelers.symbolPacks.0.member>viajante</VVE_Travelers.symbolPacks.0.member>
+  <VVE_Travelers.symbolPacks.0.theme>viagem</VVE_Travelers.symbolPacks.0.theme>
+  
+</LanguageData>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <VVE_AccelerationSundayDriver>Aceleração: preceito de motorista de domingo</VVE_AccelerationSundayDriver>
+  <VVE_AccelerationHigh>Aceleração: preceito alto</VVE_AccelerationHigh>
+  <VVE_MaxSpeed_Increased>Velocidade máxima: preceito aumentado</VVE_MaxSpeed_Increased>
+  <VVE_HandbrakeDealsDamage>Freio de mão causa dano</VVE_HandbrakeDealsDamage>
+  <VVE_StatsReport_AccelerationRate>Taxa de aceleração: {0}\nVelocidade atual: {1} c/s</VVE_StatsReport_AccelerationRate>
+  <VVE_HandbrakeWarning>{VEHICLE_nameDef} não terá espaço suficiente para desacelerar e precisará usar o freio de mão. Isso causará danos aos pneus.</VVE_HandbrakeWarning>
+  <VVE_Open>Abrir</VVE_Open>
+  <VVE_Close>Fechar</VVE_Close>
+  <VVE_OpenDescription>Designar a porta da garagem para ser aberta.</VVE_OpenDescription>
+  <VVE_CloseDescription>Designar a porta da garagem para ser fechada.</VVE_CloseDescription>
+  <VVE_OpenDescription_AutoDoor>Abre a porta automática da garagem.</VVE_OpenDescription_AutoDoor>
+  <VVE_CloseDescription_AutoDoor>Fecha a porta automática da garagem.</VVE_CloseDescription_AutoDoor>
+  <VVE_VehicleObstructingClosingGarage>O veículo está bloqueando a garagem.</VVE_VehicleObstructingClosingGarage>
+
+  <VVE_VehicleTier>Nível</VVE_VehicleTier>
+  <VVE_Tier0>Nível 0</VVE_Tier0>
+  <VVE_Tier1>Nível 1</VVE_Tier1>
+  <VVE_Tier2>Nível 2</VVE_Tier2>
+  <VVE_Tier3>Nível 3</VVE_Tier3>
+  <VVE_Tier4>Nível 4</VVE_Tier4>
+
+
+  <VVE_Tier0Desc>Veículos de Nível 0 são os mais básicos e fáceis de acessar. Eles não exigem recursos para serem construídos, nem projetos de pesquisa, ou ambos.</VVE_Tier0Desc>
+  <VVE_Tier1Desc>Veículos de Nível 1 exigem um projeto de pesquisa básico e um baixo custo de recursos para serem construídos. Eles são ineficientes, não são ideais e possuem muitas desvantagens, mas são baratos e estão disponíveis no início do jogo.</VVE_Tier1Desc>
+  <VVE_Tier2Desc>Veículos de Nível 2 estão bloqueados atrás de projetos de pesquisa mais especializados e exigem recursos que só estão disponíveis mais tarde no jogo. O Nível 2 é considerado a "base" para todos os veículos.</VVE_Tier2Desc>
+  <VVE_Tier3Desc>Veículos de Nível 3 só podem ser obtidos se uma condição específica for atendida — por exemplo, eles são encontrados primeiro em forma de destroços e restaurados. Eles exigem recursos de fim de jogo e geralmente servem a um propósito muito específico.</VVE_Tier3Desc>
+  <VVE_Tier4Desc>Veículos de Nível 4 não podem ser construídos pelo jogador, mas ainda podem ser encontrados, comprados ou gerados de outras formas. Eles geralmente representam tecnologia além do que é alcançável no cenário de RimWorld.</VVE_Tier4Desc>
+
+  <VVE_RestoreWreck>Restaurar destroços</VVE_RestoreWreck>
+  <VVE_RestoreWreckDesc>Entrega os componentes de veículo necessários para restaurar completamente estes destroços, transformando-os em um veículo funcional.</VVE_RestoreWreckDesc>
+  <VVE_WreckNotRestored>{0} ainda não foi encontrado e restaurado</VVE_WreckNotRestored>
+  <VVE_CannotBeResearched>{0} não pode ser pesquisado até que você encontre e restaure os destroços desse veículo.</VVE_CannotBeResearched>
+  <VVE_Reload>Recarregar {0} com {AMMO_label}</VVE_Reload>
+  <VVE_CannotReloadNotEnoughAmmo>Não é possível recarregar {0} com {1} (munição {1} insuficiente)</VVE_CannotReloadNotEnoughAmmo>
+  <VVE_CannotReloadFullAmmo>Não é possível recarregar {0} com {1} (munição cheia)</VVE_CannotReloadFullAmmo>
+
+</LanguageData>

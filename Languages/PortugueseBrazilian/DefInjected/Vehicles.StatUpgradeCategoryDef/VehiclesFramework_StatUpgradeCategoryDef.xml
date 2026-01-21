@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <ChargeRate.label>Taxa de Carga</ChargeRate.label>
+  <ChargeRate.formatString>{0} /dia</ChargeRate.formatString>
+  
+  <DischargeRate.label>Taxa de Descarga</DischargeRate.label>
+  <DischargeRate.formatString>{0} /dia</DischargeRate.formatString>
+  
+  <FuelCapacity.label>Capacidade de Combustível</FuelCapacity.label>
+  
+  <FuelConsumptionRate.label>Consumo de Combustível</FuelConsumptionRate.label>
+  <FuelConsumptionRate.formatString>{0}/dia</FuelConsumptionRate.formatString>
+  
+  <OffRoadMultiplier.label>Custo Fora de Estrada</OffRoadMultiplier.label>
+  
+  <PawnCollisionMultiplier.label>Dano de Impacto</PawnCollisionMultiplier.label>
+  
+  <PawnCollisionRecoilMultiplier.label>Dano de Impacto Recebido</PawnCollisionRecoilMultiplier.label>
+  
+  <WinterCostMultiplier.label>Custo de Inverno</WinterCostMultiplier.label>
+  
+  <WorldSpeedMultiplier.label>Velocidade Global</WorldSpeedMultiplier.label>
+  
+</LanguageData>

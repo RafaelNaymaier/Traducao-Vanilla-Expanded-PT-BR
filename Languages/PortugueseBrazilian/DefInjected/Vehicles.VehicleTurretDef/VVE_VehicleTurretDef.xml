@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bulldog_MainTurret.label>canhão bulldog</Bulldog_MainTurret.label>
+  <Bulldog_MainTurret.description>Um canhão grande de longo alcance capaz de disparar projéteis explosivos a uma distância média. Geralmente montado em tanques Bulldog.</Bulldog_MainTurret.description>
+  <Bulldog_MainTurret.fireModes.0.label>Tiro Único</Bulldog_MainTurret.fireModes.0.label>
+  <Bulldog_MainTurret.gizmoDescription>Selecionar Alvo.\n\nFogo para efeito</Bulldog_MainTurret.gizmoDescription>
+
+
+  <VVE_Bunsen_MainTurret.label>lança-chamas bunsen</VVE_Bunsen_MainTurret.label>
+  <VVE_Bunsen_MainTurret.description>Uma torre lança-chamas de médio alcance com blindagem leve, geralmente montada em tanques Bunsen. Consome combustível diretamente do tanque do veículo. Bastante devastador contra infantaria, o lança-chamas Bunsen tem dificuldade contra alvos blindados.</VVE_Bunsen_MainTurret.description>
+  <VVE_Bunsen_MainTurret.fireModes.0.label>Jorro de Fogo</VVE_Bunsen_MainTurret.fireModes.0.label>
+  <VVE_Bunsen_MainTurret.gizmoDescription>Selecionar Alvo.\n\nFogo para efeito</VVE_Bunsen_MainTurret.gizmoDescription>
+
+
+  <Highwayman_MainTurret.label>torreta highwayman</Highwayman_MainTurret.label>
+  <Highwayman_MainTurret.description>Um canhão de torreta dupla com blindagem leve. Geralmente montado em transportes blindados de pessoal Highwayman. Precisa ser recarregado com aço. Só pode disparar a curto alcance, mas não tem problemas em disparar contra inimigos que engajam o veículo em combate corpo a corpo.</Highwayman_MainTurret.description>
+  <Highwayman_MainTurret.fireModes.0.label>Rajada</Highwayman_MainTurret.fireModes.0.label>
+  <Highwayman_MainTurret.gizmoDescription>Selecionar Alvo.\n\nFogo para efeito</Highwayman_MainTurret.gizmoDescription>
+
+
+  <Roadkill_MainTurret.label>canhão roadkill</Roadkill_MainTurret.label>
+  <Roadkill_MainTurret.description>Um canhão capaz de disparar projéteis explosivos de tanque a uma distância média. Geralmente montado em tanques Roadkill. Precisa ser recarregado com aço. Não pode disparar enquanto se move. Tem um alcance decente, mas não pode atingir inimigos muito próximos.</Roadkill_MainTurret.description>
+  <Roadkill_MainTurret.fireModes.0.label>Tiro Único</Roadkill_MainTurret.fireModes.0.label>
+  <Roadkill_MainTurret.gizmoDescription>Selecionar Alvo.\n\nFogo para efeito</Roadkill_MainTurret.gizmoDescription>
+
+
+  <Scytheman_MainTurret.label>torre de enxame de foguetes</Scytheman_MainTurret.label>
+  <Scytheman_MainTurret.description>Um lançador impreciso capaz de disparar duas barragens de foguetes cobrindo uma grande área. A torre não dispara até que alguém ordene o fogo. É muito eficaz contra grandes grupos de combatentes fracos, mas menos eficaz contra um pequeno número de alvos blindados. O uso extensivo pode superaquecer e desativar a torre.</Scytheman_MainTurret.description>
+  <Scytheman_MainTurret.fireModes.0.label>Rajada</Scytheman_MainTurret.fireModes.0.label>
+  <Scytheman_MainTurret.gizmoDescription>Selecionar Alvo.\n\nFogo para efeito</Scytheman_MainTurret.gizmoDescription>
+
+
+  <Tango_MainTurret.label>autocanhão tango</Tango_MainTurret.label>
+  <Tango_MainTurret.description>Uma torre automática pesada montada em um blindado Tango. Seus projéteis de grosso calibre causam danos pesados em alcances significativos, mas é imprecisa e consome muita munição.</Tango_MainTurret.description>
+  <Tango_MainTurret.fireModes.0.label>Único</Tango_MainTurret.fireModes.0.label>
+  <Tango_MainTurret.fireModes.1.label>Rajada</Tango_MainTurret.fireModes.1.label>
+  <Tango_MainTurret.gizmoDescription>Selecionar Alvo.\n\nFogo para efeito</Tango_MainTurret.gizmoDescription>
+
+
+  <Toad_MainTurret.label>artilharia toad</Toad_MainTurret.label>
+  <Toad_MainTurret.description>Uma torre de morteiro que lança todos os tipos de projéteis, tipicamente montada em cápsulas de cerco Toad. Embora possa infligir danos devastadores, a imprecisão inerente do morteiro o torna mais útil para atacar grandes fortificações do que grupos de inimigos em campo aberto.</Toad_MainTurret.description>
+  <Toad_MainTurret.fireModes.0.label>Único</Toad_MainTurret.fireModes.0.label>
+  <Toad_MainTurret.gizmoDescription>Selecionar Alvo.\n\nFogo para efeito</Toad_MainTurret.gizmoDescription>
+
+</LanguageData>
