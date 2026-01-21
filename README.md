@@ -38,7 +38,7 @@ A tradução já abrange os seguintes módulos do Vanilla Expanded. Para cada um
 | **Vanilla Furniture Expanded - Medical** | Equipamentos e mobília hospitalar. |
 | **Vanilla Furniture Expanded - Art** | Esculturas e itens de decoração artística. |
 | **Vanilla Furniture Expanded - Spacer Module** | Mobiliário de alta tecnologia e ficção científica. |
-| **Vanilla Factions Expanded - Insectoids 2** | Facções, itens e mecânicas de insetóides. |
+| **Vanilla Factions Expanded - Insectoids 2** | Facções, itens e mecânicas de insetoides. |
 | **Vanilla Factions Expanded - Pirates** | Facção de piratas, armaduras e sistema de mercenários. |
 | **Vanilla Gravship Expanded - Chapter 1** | Gravinaves, projetos de pesquisa e construções. |
 | **Vanilla Plants Expanded - Core** | Novos cultivos, árvores e flora. |
