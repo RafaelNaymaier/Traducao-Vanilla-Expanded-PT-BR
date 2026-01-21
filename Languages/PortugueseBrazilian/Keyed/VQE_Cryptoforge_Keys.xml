@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <VQE_AirlockJammed>Eclusa emperrada. Deve ser forçada para abrir.</VQE_AirlockJammed>
+  <VQE_ScavengeDesc>Limpar o(a) {0} enquanto procura por materiais valiosos.</VQE_ScavengeDesc>
+  <VQE_Scavenge>Vasculhar {0}</VQE_Scavenge>
+  <VQE_CancelScavenge>Cancelar</VQE_CancelScavenge>
+  <VQE_CancelScavengeDesc>Cancelar a busca por materiais neste objeto.</VQE_CancelScavengeDesc>
+  <VQE_StudyBlueprints>Estudar diagramas antigos</VQE_StudyBlueprints>
+  <VQE_StudyBlueprintsDesc>Estudar os diagramas e esquemas antigos para ganhar inspiração para o próximo projeto de fabricação.</VQE_StudyBlueprintsDesc>
+  <VQE_StudyBlackBox>Estudar caixa preta antiga</VQE_StudyBlackBox>
+  <VQE_StudyBlackBoxDesc>Acessar os dados na caixa preta para descobrir o que transcorreu.</VQE_StudyBlackBoxDesc>
+  <VQE_InitiateScan>Iniciar escaneamento</VQE_InitiateScan>
+  <VQE_InitiateScanDesc>Iniciar o escaneamento de proximidade para encontrar assinaturas grandes na área. O escaneamento certamente gerará uma assinatura de energia forte o suficiente para atrair uma colmeia mecanoide.</VQE_InitiateScanDesc>
+  <VQE_RestartGenerator>Reiniciar gerador</VQE_RestartGenerator>
+  <VQE_RestartGeneratorDesc>Reiniciar o criptogerador. Ele possui combustível suficiente para funcionar continuamente por três dias, após os quais sofrerá um colapso crítico. A forte assinatura de energia certamente atrairá a colmeia mecanoide.</VQE_RestartGeneratorDesc>
+  <VQE_RestartWarning>Reiniciar o criptogerador causará ataques mecanoides contínuos.</VQE_RestartWarning>
+  <VQE_LootChunk>Vasculhar</VQE_LootChunk>
+  <VQE_ScanStarted>O escaneamento levará algum tempo para ser concluído. Deixar o local cancelará o escaneamento.</VQE_ScanStarted>
+  <VQE_ScanComplete>O escaneamento foi concluído.</VQE_ScanComplete>
+
+  <VQE_Alert_CriticalCryptoGenerators>Criptogerador acabando</VQE_Alert_CriticalCryptoGenerators>
+  <VQE_Alert_CriticalCryptoGenerators_Desc>Um criptogerador só tem combustível restante para menos de um dia. Quando o combustível acabar, ele entrará em colapso, destruindo tudo ao redor.</VQE_Alert_CriticalCryptoGenerators_Desc>
+  <VQE_QuestCompletedMessage>Esta é a única oportunidade de fabricar mais equipamentos cripto lendários, desde que você tenha os recursos para isso. Você pode proteger o local e enviar mais recursos, mas assim que sair, nunca mais poderá encontrá-lo.</VQE_QuestCompletedMessage>
+  <VQE_HeroJoins>{PAWN_nameDef} se junta</VQE_HeroJoins>
+  <VQE_HeroJoinsDesc>O(A) {PAWN_title} conhecido(a) como {PAWN_nameDef} emergiu de um sarcófago de criptosono em transe. Assim que recuperar os sentidos, ele(a) se juntará à sua colônia.\n\n{PAWN_nameFull} é um lendário ferreiro de uma renomada civilização espacial, famoso por sua maestria na tecnologia de criptopartículas. Um artesão talentoso e um guerreiro experiente, {PAWN_labelShort} veste um conjunto de armadura de criptotecnologia de seu povo perdido. Mas por trás de sua habilidade e força reside um pesado fardo de culpa, uma condição psicológica única nascida da tristeza esmagadora de ser o último membro vivo de sua civilização. Esse luto corrói sua mente com o tempo, aprofundando-se lentamente em desespero. No entanto, envolver-se em trabalhos que se alinhem com suas paixões: especialmente a fabricação, pode retardar a progressão. Se gerida com cuidado, a culpa eventualmente se transformará em aceitação e, com o tempo, começará a desaparecer.</VQE_HeroJoinsDesc>
+
+  <VQE_Scavenge_Metal>Vasculhar metal retorcido</VQE_Scavenge_Metal>
+  <VQE_Scavenge_LargeMetal>Vasculhar metal retorcido grande</VQE_Scavenge_LargeMetal>
+  <VQE_Scavenge_HugeMetal>Vasculhar metal retorcido imenso</VQE_Scavenge_HugeMetal>
+  <VQE_Scavenge_Components>Vasculhar componentes</VQE_Scavenge_Components>
+  <VQE_Scavenge_Plasteel>Vasculhar plastiaço retorcido</VQE_Scavenge_Plasteel>
+  <VQE_Scavenge_Gold>Vasculhar pilha de ouro</VQE_Scavenge_Gold>
+  <VQE_Scavenge_AdvComponents>Vasculhar componentes avançados retorcidos</VQE_Scavenge_AdvComponents>
+
+</LanguageData>

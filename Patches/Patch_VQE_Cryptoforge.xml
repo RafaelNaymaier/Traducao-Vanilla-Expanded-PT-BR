@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Vanilla Quests Expanded - Cryptoforge</li>
+            <li>vanillaquestsexpanded.cryptoforge</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <operations>
+                
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[defName="VQE_TwistedMetal"]/modExtensions/li[@Class="VEF.Buildings.LootableBuildingDetails"]/gizmoText</xpath>
+                    <value>
+                        <gizmoText>VQE_Scavenge_Metal</gizmoText>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[defName="VQE_LargeTwistedMetal"]/modExtensions/li[@Class="VEF.Buildings.LootableBuildingDetails"]/gizmoText</xpath>
+                    <value>
+                        <gizmoText>VQE_Scavenge_LargeMetal</gizmoText>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[defName="VQE_HugeTwistedMetal"]/modExtensions/li[@Class="VEF.Buildings.LootableBuildingDetails"]/gizmoText</xpath>
+                    <value>
+                        <gizmoText>VQE_Scavenge_HugeMetal</gizmoText>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[defName="VQE_TwistedComponents"]/modExtensions/li[@Class="VEF.Buildings.LootableBuildingDetails"]/gizmoText</xpath>
+                    <value>
+                        <gizmoText>VQE_Scavenge_Components</gizmoText>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[defName="VQE_TwistedPlasteel"]/modExtensions/li[@Class="VEF.Buildings.LootableBuildingDetails"]/gizmoText</xpath>
+                    <value>
+                        <gizmoText>VQE_Scavenge_Plasteel</gizmoText>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[defName="VQE_GoldPile"]/modExtensions/li[@Class="VEF.Buildings.LootableBuildingDetails"]/gizmoText</xpath>
+                    <value>
+                        <gizmoText>VQE_Scavenge_Gold</gizmoText>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[defName="VQE_TwistedAdvancedComponents"]/modExtensions/li[@Class="VEF.Buildings.LootableBuildingDetails"]/gizmoText</xpath>
+                    <value><gizmoText>VQE_Scavenge_AdvComponents</gizmoText></value>
+                </li>
+
+            </operations>
+        </match>
+    </Operation>
+</Patch>
