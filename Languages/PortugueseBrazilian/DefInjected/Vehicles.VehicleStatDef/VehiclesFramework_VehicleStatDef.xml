@@ -8,7 +8,7 @@
   <FlightSpeed.description>Velocidade de movimento no mapa-múndi enquanto estiver voando.</FlightSpeed.description>
   <FlightSpeed.formatString>{0} q/s</FlightSpeed.formatString>
 
-  <BodyIntegrity.label>Integridade da Estrutura</BodyIntegrity.label>
+  <BodyIntegrity.label>Integridade Estrutural</BodyIntegrity.label>
   <BodyIntegrity.description>A média da saúde de todas as peças do veículo. Se a integridade do veículo chegar a 0, ele se desintegrará em uma fração do seu custo de construção.</BodyIntegrity.description>
   
   <CargoCapacity.label>Carga</CargoCapacity.label>

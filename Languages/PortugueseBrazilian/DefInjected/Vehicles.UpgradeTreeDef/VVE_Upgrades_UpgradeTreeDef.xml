@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VVE_BangBus_UpgradeTree.nodes.0.label>Pneus Off-Road</VVE_BangBus_UpgradeTree.nodes.0.label>
+  <VVE_BangBus_UpgradeTree.nodes.0.description>Substitui os pneus por modelos com sulcos profundos que proporcionam mais tração e permitem que o veículo se mova significativamente mais rápido fora de estrada.</VVE_BangBus_UpgradeTree.nodes.0.description>
+  <VVE_BangBus_UpgradeTree.nodes.1.label>Espaço de Carga Expandido</VVE_BangBus_UpgradeTree.nodes.1.label>
+  <VVE_BangBus_UpgradeTree.nodes.1.description>Aumenta a quantidade de carga que pode ser transportada por este veículo.</VVE_BangBus_UpgradeTree.nodes.1.description>
+  <VVE_BangBus_UpgradeTree.nodes.2.label>Blindagem Reforçada</VVE_BangBus_UpgradeTree.nodes.2.label>
+  <VVE_BangBus_UpgradeTree.nodes.2.description>Solda uma camada de chapas de aço reforçado ao veículo, aumentando seu valor de blindagem ao custo de aumentar a massa do veículo e diminuir a aceleração.</VVE_BangBus_UpgradeTree.nodes.2.description>
+  <VVE_BangBus_UpgradeTree.nodes.3.label>Escapamento Melhorado</VVE_BangBus_UpgradeTree.nodes.3.label>
+  <VVE_BangBus_UpgradeTree.nodes.3.description>Altera o sistema de exaustão do veículo para um mais eficiente, diminuindo a visibilidade do veículo e melhorando a eficiência de combustível.</VVE_BangBus_UpgradeTree.nodes.3.description>
+  <VVE_BangBus_UpgradeTree.nodes.4.label>Motor Estendido</VVE_BangBus_UpgradeTree.nodes.4.label>
+  <VVE_BangBus_UpgradeTree.nodes.4.description>Melhora o motor para aumentar significativamente a taxa de aceleração do veículo.</VVE_BangBus_UpgradeTree.nodes.4.description>
+  <VVE_BangBus_UpgradeTree.nodes.5.label>Capacidade de Carga</VVE_BangBus_UpgradeTree.nodes.5.label>
+  <VVE_BangBus_UpgradeTree.nodes.5.description>Melhora ligeiramente a capacidade de carga do veículo.</VVE_BangBus_UpgradeTree.nodes.5.description>
+  <VVE_BangBus_UpgradeTree.nodes.6.label>Blindagem</VVE_BangBus_UpgradeTree.nodes.6.label>
+  <VVE_BangBus_UpgradeTree.nodes.6.description>Reforça ligeiramente a blindagem do veículo.</VVE_BangBus_UpgradeTree.nodes.6.description>
+  <VVE_BangBus_UpgradeTree.nodes.7.label>Velocidade</VVE_BangBus_UpgradeTree.nodes.7.label>
+  <VVE_BangBus_UpgradeTree.nodes.7.description>Melhora o motor do veículo, permitindo que ele atinja uma velocidade máxima maior.</VVE_BangBus_UpgradeTree.nodes.7.description>
+  <VVE_BangBus_UpgradeTree.nodes.8.label>Aceleração</VVE_BangBus_UpgradeTree.nodes.8.label>
+  <VVE_BangBus_UpgradeTree.nodes.8.description>Melhora as capacidades de troca da transmissão para aumentar ligeiramente a velocidade de aceleração do veículo.</VVE_BangBus_UpgradeTree.nodes.8.description>
+  <VVE_BangBus_UpgradeTree.nodes.9.label>Consumo de Combustível</VVE_BangBus_UpgradeTree.nodes.9.label>
+  <VVE_BangBus_UpgradeTree.nodes.9.description>Melhora o sistema de exaustão do veículo, aumentando ligeiramente a eficiência de combustível.</VVE_BangBus_UpgradeTree.nodes.9.description>
+  <VVE_BangBus_UpgradeTree.nodes.10.label>Capacidade de Combustível</VVE_BangBus_UpgradeTree.nodes.10.label>
+  <VVE_BangBus_UpgradeTree.nodes.10.description>Aumenta ligeiramente o tamanho do tanque de combustível.</VVE_BangBus_UpgradeTree.nodes.10.description>
+
+  <VVE_Bunsen_UpgradeTree.nodes.0.label>Cobertura do Motor</VVE_Bunsen_UpgradeTree.nodes.0.label>
+  <VVE_Bunsen_UpgradeTree.nodes.0.description>Cobre o motor com chapas de blindagem estendidas, protegendo-o de disparos.</VVE_Bunsen_UpgradeTree.nodes.0.description>
+  <VVE_Bunsen_UpgradeTree.nodes.1.label>Blindagem Reforçada</VVE_Bunsen_UpgradeTree.nodes.1.label>
+  <VVE_Bunsen_UpgradeTree.nodes.1.description>Solda uma camada de chapas de aço reforçado ao veículo, aumentando seu valor de blindagem ao custo de aumentar a massa e reduzir a aceleração.</VVE_Bunsen_UpgradeTree.nodes.1.description>
+  <VVE_Bunsen_UpgradeTree.nodes.2.label>Lagartas Blindadas</VVE_Bunsen_UpgradeTree.nodes.2.label>
+  <VVE_Bunsen_UpgradeTree.nodes.2.description>Melhora a proteção das lagartas cobrindo-as com chapas grossas de aço.</VVE_Bunsen_UpgradeTree.nodes.2.description>
+  <VVE_Bunsen_UpgradeTree.nodes.3.label>Cano Longo</VVE_Bunsen_UpgradeTree.nodes.3.label>
+  <VVE_Bunsen_UpgradeTree.nodes.3.description>Aumenta o comprimento do cano do tanque, permitindo tiros mais precisos a distâncias significativamente maiores, mas diminuindo a velocidade de rotação do canhão.</VVE_Bunsen_UpgradeTree.nodes.3.description>
+  <VVE_Bunsen_UpgradeTree.nodes.3.upgrades.0.turrets.0.gizmoLabel>Torre</VVE_Bunsen_UpgradeTree.nodes.3.upgrades.0.turrets.0.gizmoLabel>
+  <VVE_Bunsen_UpgradeTree.nodes.4.label>Cano Lançador</VVE_Bunsen_UpgradeTree.nodes.4.label>
+  <VVE_Bunsen_UpgradeTree.nodes.4.description>Altera o sistema de injeção de combustível e instala um estrangulador no bocal para permitir que o tanque dispare projéteis de chamas explosivos de longo alcance em vez de um fluxo contínuo de fogo.</VVE_Bunsen_UpgradeTree.nodes.4.description>
+  <VVE_Bunsen_UpgradeTree.nodes.4.upgrades.0.turrets.0.gizmoLabel>Torre</VVE_Bunsen_UpgradeTree.nodes.4.upgrades.0.turrets.0.gizmoLabel>
+  <VVE_Bunsen_UpgradeTree.nodes.5.label>Cano Curto</VVE_Bunsen_UpgradeTree.nodes.5.label>
+  <VVE_Bunsen_UpgradeTree.nodes.5.description>Diminui o comprimento do cano do tanque, permitindo disparos mais rápidos ao custo de precisão e alcance. O peso reduzido da torre permite uma rotação mais veloz.</VVE_Bunsen_UpgradeTree.nodes.5.description>
+  <VVE_Bunsen_UpgradeTree.nodes.5.upgrades.0.turrets.0.gizmoLabel>Torre</VVE_Bunsen_UpgradeTree.nodes.5.upgrades.0.turrets.0.gizmoLabel>
+  <VVE_Bunsen_UpgradeTree.nodes.6.label>Capacidade de Carga</VVE_Bunsen_UpgradeTree.nodes.6.label>
+  <VVE_Bunsen_UpgradeTree.nodes.6.description>Melhora ligeiramente a capacidade de carga do veículo.</VVE_Bunsen_UpgradeTree.nodes.6.description>
+  <VVE_Bunsen_UpgradeTree.nodes.7.label>Blindagem</VVE_Bunsen_UpgradeTree.nodes.7.label>
+  <VVE_Bunsen_UpgradeTree.nodes.7.description>Reforça ligeiramente a blindagem do veículo.</VVE_Bunsen_UpgradeTree.nodes.7.description>
+  <VVE_Bunsen_UpgradeTree.nodes.8.label>Velocidade</VVE_Bunsen_UpgradeTree.nodes.8.label>
+  <VVE_Bunsen_UpgradeTree.nodes.8.description>Melhora o motor do veículo, permitindo atingir velocidades máximas maiores.</VVE_Bunsen_UpgradeTree.nodes.8.description>
+  <VVE_Bunsen_UpgradeTree.nodes.9.label>Aceleração</VVE_Bunsen_UpgradeTree.nodes.9.label>
+  <VVE_Bunsen_UpgradeTree.nodes.9.description>Melhora as capacidades de troca da transmissão para aumentar ligeiramente a aceleração do veículo.</VVE_Bunsen_UpgradeTree.nodes.9.description>
+  <VVE_Bunsen_UpgradeTree.nodes.10.label>Consumo de Combustível</VVE_Bunsen_UpgradeTree.nodes.10.label>
+  <VVE_Bunsen_UpgradeTree.nodes.10.description>Melhora o sistema de exaustão do veículo, aumentando ligeiramente a eficiência energética.</VVE_Bunsen_UpgradeTree.nodes.10.description>
+  <VVE_Bunsen_UpgradeTree.nodes.11.label>Capacidade de Combustível</VVE_Bunsen_UpgradeTree.nodes.11.label>
+  <VVE_Bunsen_UpgradeTree.nodes.11.description>Aumenta ligeiramente o tamanho do tanque de combustível.</VVE_Bunsen_UpgradeTree.nodes.11.description>
+
+  <VVE_Highwayman_UpgradeTree.nodes.0.label>Cobertura do Motor</VVE_Highwayman_UpgradeTree.nodes.0.label>
+  <VVE_Highwayman_UpgradeTree.nodes.0.description>Cobre o motor com chapas de blindagem estendidas, protegendo-o de disparos.</VVE_Highwayman_UpgradeTree.nodes.0.description>
+  <VVE_Highwayman_UpgradeTree.nodes.1.label>Para-choque Reforçado</VVE_Highwayman_UpgradeTree.nodes.1.label>
+  <VVE_Highwayman_UpgradeTree.nodes.1.description>Reforça o para-choque dianteiro para permitir que este veículo cause mais dano durante colisões.</VVE_Highwayman_UpgradeTree.nodes.1.description>
+  <VVE_Highwayman_UpgradeTree.nodes.2.label>Cabine Ampliada</VVE_Highwayman_UpgradeTree.nodes.2.label>
+  <VVE_Highwayman_UpgradeTree.nodes.2.description>Estende a cabine adicionando espaço para um passageiro adicional.</VVE_Highwayman_UpgradeTree.nodes.2.description>
+  <VVE_Highwayman_UpgradeTree.nodes.3.label>Pneus Off-Road</VVE_Highwayman_UpgradeTree.nodes.3.label>
+  <VVE_Highwayman_UpgradeTree.nodes.3.description>Substitui os pneus por modelos com sulcos profundos para maior tração e velocidade fora de estrada.</VVE_Highwayman_UpgradeTree.nodes.3.description>
+  <VVE_Highwayman_UpgradeTree.nodes.4.label>Torre Aprimorada</VVE_Highwayman_UpgradeTree.nodes.4.label>
+  <VVE_Highwayman_UpgradeTree.nodes.4.description>Melhora a torre com um mecanismo de disparo e sistema de alimentação de munição mais eficientes, permitindo disparos mais rápidos e precisos. Adicionalmente, instala lançadores de fumaça na torre.</VVE_Highwayman_UpgradeTree.nodes.4.description>
+  <VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.chargeNoun>fumaça</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.chargeNoun>
+  <VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.commandDescriptions.0>Uma cortina de fumaça defensiva. Quando ativada, libera uma nuvem de fumaça, dificultando disparos recebidos e impedindo o travamento de torres. Possui três cargas e requer reabastecimento com quimifuel. Clique com o botão direito para recarregar.</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.commandDescriptions.0>
+  <VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.cooldownGerund>em recarga</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.cooldownGerund>
+  <VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.verbs.pop_smoke.label>fumaça</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.0.activate.CompReloadableWithVerbs.verbs.pop_smoke.label>
+  <VVE_Highwayman_UpgradeTree.nodes.4.upgrades.1.turrets.0.gizmoLabel>Torre</VVE_Highwayman_UpgradeTree.nodes.4.upgrades.1.turrets.0.gizmoLabel>
+  <VVE_Highwayman_UpgradeTree.nodes.5.label>Capacidade de Carga</VVE_Highwayman_UpgradeTree.nodes.5.label>
+  <VVE_Highwayman_UpgradeTree.nodes.5.description>Melhora ligeiramente a capacidade de carga do veículo.</VVE_Highwayman_UpgradeTree.nodes.5.description>
+  <VVE_Highwayman_UpgradeTree.nodes.6.label>Blindagem</VVE_Highwayman_UpgradeTree.nodes.6.label>
+  <VVE_Highwayman_UpgradeTree.nodes.6.description>Reforça ligeiramente a blindagem do veículo.</VVE_Highwayman_UpgradeTree.nodes.6.description>
+  <VVE_Highwayman_UpgradeTree.nodes.7.label>Velocidade</VVE_Highwayman_UpgradeTree.nodes.7.label>
+  <VVE_Highwayman_UpgradeTree.nodes.7.description>Melhora o motor do veículo, permitindo que ele atinja uma velocidade máxima maior.</VVE_Highwayman_UpgradeTree.nodes.7.description>
+  <VVE_Highwayman_UpgradeTree.nodes.8.label>Aceleração</VVE_Highwayman_UpgradeTree.nodes.8.label>
+  <VVE_Highwayman_UpgradeTree.nodes.8.description>Melhora as capacidades de troca da transmissão para aumentar ligeiramente a velocidade de aceleração do veículo.</VVE_Highwayman_UpgradeTree.nodes.8.description>
+  <VVE_Highwayman_UpgradeTree.nodes.9.label>Consumo de Combustível</VVE_Highwayman_UpgradeTree.nodes.9.label>
+  <VVE_Highwayman_UpgradeTree.nodes.9.description>Melhora o sistema de exaustão do veículo, aumentando ligeiramente a eficiência de combustível.</VVE_Highwayman_UpgradeTree.nodes.9.description>
+  <VVE_Highwayman_UpgradeTree.nodes.10.label>Capacidade de Combustível</VVE_Highwayman_UpgradeTree.nodes.10.label>
+  <VVE_Highwayman_UpgradeTree.nodes.10.description>Aumenta ligeiramente o tamanho do tanque de combustível.</VVE_Highwayman_UpgradeTree.nodes.10.description>
+
+  <VVE_Mule_UpgradeTree.nodes.0.label>Tanques Grandes</VVE_Mule_UpgradeTree.nodes.0.label>
+  <VVE_Mule_UpgradeTree.nodes.0.description>Acopla dois grandes galões de quimifuel na parte inferior do veículo para permitir viagens a distâncias maiores sem o risco de ficar sem combustível.</VVE_Mule_UpgradeTree.nodes.0.description>
+  <VVE_Mule_UpgradeTree.nodes.1.label>Espaço de Carga Expandido</VVE_Mule_UpgradeTree.nodes.1.label>
+  <VVE_Mule_UpgradeTree.nodes.1.description>Aumenta a quantidade de carga que pode ser transportada e adiciona dois assentos extras para passageiros.</VVE_Mule_UpgradeTree.nodes.1.description>
+  <VVE_Mule_UpgradeTree.nodes.2.label>Blindagem Reforçada</VVE_Mule_UpgradeTree.nodes.2.label>
+  <VVE_Mule_UpgradeTree.nodes.2.description>Solda uma camada de chapas de aço reforçado ao veículo, aumentando a blindagem ao custo de maior massa e menor aceleração.</VVE_Mule_UpgradeTree.nodes.2.description>
+  <VVE_Mule_UpgradeTree.nodes.3.label>Pneus Off-Road</VVE_Mule_UpgradeTree.nodes.3.label>
+  <VVE_Mule_UpgradeTree.nodes.3.description>Substitui os pneus por modelos com sulcos profundos para melhor tração e velocidade significativamente maior em terrenos acidentados.</VVE_Mule_UpgradeTree.nodes.3.description>
+  <VVE_Mule_UpgradeTree.nodes.4.label>Motor Externo</VVE_Mule_UpgradeTree.nodes.4.label>
+  <VVE_Mule_UpgradeTree.nodes.4.description>Eleva o motor para melhorar sua eficiência, ao custo de expô-lo a danos.</VVE_Mule_UpgradeTree.nodes.4.description>
+  <VVE_Mule_UpgradeTree.nodes.5.label>Capacidade de Carga</VVE_Mule_UpgradeTree.nodes.5.label>
+  <VVE_Mule_UpgradeTree.nodes.5.description>Melhora ligeiramente a capacidade de carga do veículo.</VVE_Mule_UpgradeTree.nodes.5.description>
+  <VVE_Mule_UpgradeTree.nodes.6.label>Blindagem</VVE_Mule_UpgradeTree.nodes.6.label>
+  <VVE_Mule_UpgradeTree.nodes.6.description>Reforça ligeiramente a blindagem do veículo.</VVE_Mule_UpgradeTree.nodes.6.description>
+  <VVE_Mule_UpgradeTree.nodes.7.label>Velocidade</VVE_Mule_UpgradeTree.nodes.7.label>
+  <VVE_Mule_UpgradeTree.nodes.7.description>Melhora o motor do veículo, permitindo que ele atinja uma velocidade máxima maior.</VVE_Mule_UpgradeTree.nodes.7.description>
+  <VVE_Mule_UpgradeTree.nodes.8.label>Aceleração</VVE_Mule_UpgradeTree.nodes.8.label>
+  <VVE_Mule_UpgradeTree.nodes.8.description>Melhora as capacidades de troca da transmissão para aumentar ligeiramente a velocidade de aceleração do veículo.</VVE_Mule_UpgradeTree.nodes.8.description>
+  <VVE_Mule_UpgradeTree.nodes.9.label>Consumo de Combustível</VVE_Mule_UpgradeTree.nodes.9.label>
+  <VVE_Mule_UpgradeTree.nodes.9.description>Melhora o sistema de exaustão do veículo, aumentando ligeiramente a eficiência de combustível.</VVE_Mule_UpgradeTree.nodes.9.description>
+  <VVE_Mule_UpgradeTree.nodes.10.label>Capacidade de Combustível</VVE_Mule_UpgradeTree.nodes.10.label>
+  <VVE_Mule_UpgradeTree.nodes.10.description>Aumenta ligeiramente o tamanho do tanque de combustível.</VVE_Mule_UpgradeTree.nodes.10.description>
+
+  <VVE_Prowler_UpgradeTree.nodes.0.label>Blindagem Reforçada</VVE_Prowler_UpgradeTree.nodes.0.label>
+  <VVE_Prowler_UpgradeTree.nodes.0.description>Solda uma camada de chapas de aço reforçado ao veículo, aumentando seu valor de blindagem ao custo de aumentar a massa do veículo e diminuir a aceleração.</VVE_Prowler_UpgradeTree.nodes.0.description>
+  <VVE_Prowler_UpgradeTree.nodes.1.label>Pneus Off-Road</VVE_Prowler_UpgradeTree.nodes.1.label>
+  <VVE_Prowler_UpgradeTree.nodes.1.description>Substitui os pneus por modelos com sulcos profundos que proporcionam mais tração e permitem que o veículo se mova significativamente mais rápido fora de estrada.</VVE_Prowler_UpgradeTree.nodes.1.description>
+  <VVE_Prowler_UpgradeTree.nodes.2.label>Pneus com Correntes</VVE_Prowler_UpgradeTree.nodes.2.label>
+  <VVE_Prowler_UpgradeTree.nodes.2.description>Monta correntes de aço espessas ao redor dos pneus, evitando que deslizem em superfícies geladas e melhorando muito a velocidade de viagem no inverno. A aderência adicional aumenta ligeiramente a aceleração.</VVE_Prowler_UpgradeTree.nodes.2.description>
+  <VVE_Prowler_UpgradeTree.nodes.3.label>Aerofólio</VVE_Prowler_UpgradeTree.nodes.3.label>
+  <VVE_Prowler_UpgradeTree.nodes.3.description>Instala um aerofólio para aumentar ligeiramente a velocidade máxima do veículo.</VVE_Prowler_UpgradeTree.nodes.3.description>
+  <VVE_Prowler_UpgradeTree.nodes.4.label>Mini-Torre</VVE_Prowler_UpgradeTree.nodes.4.label>
+  <VVE_Prowler_UpgradeTree.nodes.4.description>Instala uma mini-torre autônoma na frente do veículo. Requer aço para recondicionamento.</VVE_Prowler_UpgradeTree.nodes.4.description>
+  <VVE_Prowler_UpgradeTree.nodes.4.upgrades.0.turrets.0.gizmoLabel>Torre</VVE_Prowler_UpgradeTree.nodes.4.upgrades.0.turrets.0.gizmoLabel>
+  <VVE_Prowler_UpgradeTree.nodes.5.label>Capacidade de Carga</VVE_Prowler_UpgradeTree.nodes.5.label>
+  <VVE_Prowler_UpgradeTree.nodes.5.description>Melhora ligeiramente a capacidade de carga do veículo.</VVE_Prowler_UpgradeTree.nodes.5.description>
+  <VVE_Prowler_UpgradeTree.nodes.6.label>Blindagem</VVE_Prowler_UpgradeTree.nodes.6.label>
+  <VVE_Prowler_UpgradeTree.nodes.6.description>Reforça ligeiramente a blindagem do veículo.</VVE_Prowler_UpgradeTree.nodes.6.description>
+  <VVE_Prowler_UpgradeTree.nodes.7.label>Velocidade</VVE_Prowler_UpgradeTree.nodes.7.label>
+  <VVE_Prowler_UpgradeTree.nodes.7.description>Melhora o motor do veículo, permitindo que ele atinja uma velocidade máxima maior.</VVE_Prowler_UpgradeTree.nodes.7.description>
+  <VVE_Prowler_UpgradeTree.nodes.8.label>Aceleração</VVE_Prowler_UpgradeTree.nodes.8.label>
+  <VVE_Prowler_UpgradeTree.nodes.8.description>Melhora as capacidades de troca da transmissão para aumentar ligeiramente a velocidade de aceleração do veículo.</VVE_Prowler_UpgradeTree.nodes.8.description>
+  <VVE_Prowler_UpgradeTree.nodes.9.label>Consumo de Combustível</VVE_Prowler_UpgradeTree.nodes.9.label>
+  <VVE_Prowler_UpgradeTree.nodes.9.description>Melhora o sistema de exaustão do veículo, aumentando ligeiramente a eficiência de combustível.</VVE_Prowler_UpgradeTree.nodes.9.description>
+  <VVE_Prowler_UpgradeTree.nodes.10.label>Capacidade de Combustível</VVE_Prowler_UpgradeTree.nodes.10.label>
+  <VVE_Prowler_UpgradeTree.nodes.10.description>Aumenta ligeiramente o tamanho do tanque de combustível.</VVE_Prowler_UpgradeTree.nodes.10.description>
+
+  <VVE_Roadkill_UpgradeTree.nodes.0.label>Cobertura do Motor</VVE_Roadkill_UpgradeTree.nodes.0.label>
+  <VVE_Roadkill_UpgradeTree.nodes.0.description>Cobre o motor com chapas de blindagem estendidas, protegendo-o de disparos.</VVE_Roadkill_UpgradeTree.nodes.0.description>
+  <VVE_Roadkill_UpgradeTree.nodes.1.label>Blindagem Reforçada</VVE_Roadkill_UpgradeTree.nodes.1.label>
+  <VVE_Roadkill_UpgradeTree.nodes.1.description>Solda uma camada de chapas de aço reforçado ao veículo, aumentando seu valor de blindagem ao custo de aumentar a massa do veículo e diminuir a aceleração.</VVE_Roadkill_UpgradeTree.nodes.1.description>
+  <VVE_Roadkill_UpgradeTree.nodes.2.label>Assento do Atirador</VVE_Roadkill_UpgradeTree.nodes.2.label>
+  <VVE_Roadkill_UpgradeTree.nodes.2.description>Amplia a cabine adicionando espaço para um atirador adicional, com todo o aparato necessário.</VVE_Roadkill_UpgradeTree.nodes.2.description>
+  <VVE_Roadkill_UpgradeTree.nodes.3.label>Lagartas Blindadas</VVE_Roadkill_UpgradeTree.nodes.3.label>
+  <VVE_Roadkill_UpgradeTree.nodes.3.description>Melhora a blindagem das lagartas cobrindo-as com chapas grossas de aço.</VVE_Roadkill_UpgradeTree.nodes.3.description>
+  <VVE_Roadkill_UpgradeTree.nodes.4.label>Cano Longo</VVE_Roadkill_UpgradeTree.nodes.4.label>
+  <VVE_Roadkill_UpgradeTree.nodes.4.description>Aumenta o comprimento do cano do tanque, permitindo tiros mais precisos a distâncias significativamente maiores, mas diminuindo a velocidade de rotação do canhão.</VVE_Roadkill_UpgradeTree.nodes.4.description>
+  <VVE_Roadkill_UpgradeTree.nodes.4.upgrades.0.turrets.0.gizmoLabel>Torre</VVE_Roadkill_UpgradeTree.nodes.4.upgrades.0.turrets.0.gizmoLabel>
+  <VVE_Roadkill_UpgradeTree.nodes.5.label>Cano Curto</VVE_Roadkill_UpgradeTree.nodes.5.label>
+  <VVE_Roadkill_UpgradeTree.nodes.5.description>Diminui o comprimento do cano do tanque, permitindo disparos mais rápidos ao custo de precisão e alcance. O peso reduzido da torre permite uma velocidade de rotação maior.</VVE_Roadkill_UpgradeTree.nodes.5.description>
+  <VVE_Roadkill_UpgradeTree.nodes.5.upgrades.0.turrets.0.gizmoLabel>Torre</VVE_Roadkill_UpgradeTree.nodes.5.upgrades.0.turrets.0.gizmoLabel>
+  <VVE_Roadkill_UpgradeTree.nodes.6.label>Capacidade de Carga</VVE_Roadkill_UpgradeTree.nodes.6.label>
+  <VVE_Roadkill_UpgradeTree.nodes.6.description>Melhora ligeiramente a capacidade de carga do veículo.</VVE_Roadkill_UpgradeTree.nodes.6.description>
+  <VVE_Roadkill_UpgradeTree.nodes.7.label>Blindagem</VVE_Roadkill_UpgradeTree.nodes.7.label>
+  <VVE_Roadkill_UpgradeTree.nodes.7.description>Reforça ligeiramente a blindagem do veículo.</VVE_Roadkill_UpgradeTree.nodes.7.description>
+  <VVE_Roadkill_UpgradeTree.nodes.8.label>Velocidade</VVE_Roadkill_UpgradeTree.nodes.8.label>
+  <VVE_Roadkill_UpgradeTree.nodes.8.description>Melhora o motor do veículo, permitindo que ele atinja uma velocidade máxima maior.</VVE_Roadkill_UpgradeTree.nodes.8.description>
+  <VVE_Roadkill_UpgradeTree.nodes.9.label>Aceleração</VVE_Roadkill_UpgradeTree.nodes.9.label>
+  <VVE_Roadkill_UpgradeTree.nodes.9.description>Melhora as capacidades de troca da transmissão para aumentar ligeiramente a velocidade de aceleração do veículo.</VVE_Roadkill_UpgradeTree.nodes.9.description>
+  <VVE_Roadkill_UpgradeTree.nodes.10.label>Consumo de Combustível</VVE_Roadkill_UpgradeTree.nodes.10.label>
+  <VVE_Roadkill_UpgradeTree.nodes.10.description>Melhora o sistema de exaustão do veículo, aumentando ligeiramente a eficiência de combustível.</VVE_Roadkill_UpgradeTree.nodes.10.description>
+  <VVE_Roadkill_UpgradeTree.nodes.11.label>Capacidade de Combustível</VVE_Roadkill_UpgradeTree.nodes.11.label>
+  <VVE_Roadkill_UpgradeTree.nodes.11.description>Aumenta ligeiramente o tamanho do tanque de combustível.</VVE_Roadkill_UpgradeTree.nodes.11.description>
+
+  <VVE_Traveller_UpgradeTree.nodes.0.label>Para-choque Reforçado</VVE_Traveller_UpgradeTree.nodes.0.label>
+  <VVE_Traveller_UpgradeTree.nodes.0.description>Reforça o para-choque dianteiro para permitir que este veículo cause mais dano durante colisões.</VVE_Traveller_UpgradeTree.nodes.0.description>
+
+  <VVE_Traveller_UpgradeTree.nodes.1.label>Rack de Carga</VVE_Traveller_UpgradeTree.nodes.1.label>
+  <VVE_Traveller_UpgradeTree.nodes.1.description>Constrói um rack de carga leve de aço no teto do veículo para aumentar a capacidade de carga.</VVE_Traveller_UpgradeTree.nodes.1.description>
+
+  <VVE_Traveller_UpgradeTree.nodes.2.label>Blindagem Reforçada</VVE_Traveller_UpgradeTree.nodes.2.label>
+  <VVE_Traveller_UpgradeTree.nodes.2.description>Solda uma camada de chapas de aço reforçado ao veículo, aumentando seu valor de blindagem ao custo de aumentar a massa do veículo e diminuir a aceleração.</VVE_Traveller_UpgradeTree.nodes.2.description>
+
+  <VVE_Traveller_UpgradeTree.nodes.3.label>Pneus Off-Road</VVE_Traveller_UpgradeTree.nodes.3.label>
+  <VVE_Traveller_UpgradeTree.nodes.3.description>Substitui os pneus por modelos com sulcos profundos que proporcionam mais tração e permitem que o veículo se mova significativamente mais rápido fora de estrada.</VVE_Traveller_UpgradeTree.nodes.3.description>
+
+  <VVE_Traveller_UpgradeTree.nodes.4.label>Aerofólio</VVE_Traveller_UpgradeTree.nodes.4.label>
+  <VVE_Traveller_UpgradeTree.nodes.4.description>Instala um aerofólio para aumentar ligeiramente a velocidade máxima do veículo.</VVE_Traveller_UpgradeTree.nodes.4.description>
+
+  <VVE_Traveller_UpgradeTree.nodes.5.label>Motor de Supercarro</VVE_Traveller_UpgradeTree.nodes.5.label>
+  <VVE_Traveller_UpgradeTree.nodes.5.description>Instala um motor de supercarro, aumentando significativamente a velocidade de movimento e a aceleração do veículo, ao custo da eficiência de combustível.</VVE_Traveller_UpgradeTree.nodes.5.description>
+
+  <VVE_Traveller_UpgradeTree.nodes.6.label>Capacidade de Carga</VVE_Traveller_UpgradeTree.nodes.6.label>
+  <VVE_Traveller_UpgradeTree.nodes.6.description>Melhora ligeiramente a capacidade de carga do veículo.</VVE_Traveller_UpgradeTree.nodes.6.description>
+
+  <VVE_Traveller_UpgradeTree.nodes.7.label>Blindagem</VVE_Traveller_UpgradeTree.nodes.7.label>
+  <VVE_Traveller_UpgradeTree.nodes.7.description>Reforça ligeiramente a blindagem do veículo.</VVE_Traveller_UpgradeTree.nodes.7.description>
+
+  <VVE_Traveller_UpgradeTree.nodes.8.label>Velocidade</VVE_Traveller_UpgradeTree.nodes.8.label>
+  <VVE_Traveller_UpgradeTree.nodes.8.description>Melhora o motor do veículo, permitindo que ele atinja uma velocidade máxima maior.</VVE_Traveller_UpgradeTree.nodes.8.description>
+
+  <VVE_Traveller_UpgradeTree.nodes.9.label>Aceleração</VVE_Traveller_UpgradeTree.nodes.9.label>
+  <VVE_Traveller_UpgradeTree.nodes.9.description>Melhora as capacidades de troca da transmissão para aumentar ligeiramente a velocidade de aceleração do veículo.</VVE_Traveller_UpgradeTree.nodes.9.description>
+
+  <VVE_Traveller_UpgradeTree.nodes.10.label>Consumo de Combustível</VVE_Traveller_UpgradeTree.nodes.10.label>
+  <VVE_Traveller_UpgradeTree.nodes.10.description>Melhora o sistema de exaustão do veículo, aumentando ligeiramente a eficiência de combustível.</VVE_Traveller_UpgradeTree.nodes.10.description>
+
+  <VVE_Traveller_UpgradeTree.nodes.11.label>Capacidade de Combustível</VVE_Traveller_UpgradeTree.nodes.11.label>
+  <VVE_Traveller_UpgradeTree.nodes.11.description>Aumenta ligeiramente o tamanho do tanque de combustível.</VVE_Traveller_UpgradeTree.nodes.11.description>
+
+</LanguageData>

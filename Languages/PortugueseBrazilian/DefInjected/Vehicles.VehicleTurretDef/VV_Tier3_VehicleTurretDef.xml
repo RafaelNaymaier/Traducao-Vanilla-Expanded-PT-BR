@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Badger_MainTurret.label>canhão de correntes do badger</Badger_MainTurret.label>
+  <Badger_MainTurret.description>Uma poderosa torre montada em um Veículo de Combate de Infantaria Badger. Seus tiros explosivos causam danos significativos à infantaria inimiga, mas sua baixa perfuração de blindagem a torna ineficaz contra alvos blindados, além de consumir muita munição.</Badger_MainTurret.description>
+  <Badger_MainTurret.fireModes.0.label>Único</Badger_MainTurret.fireModes.0.label>
+  <Badger_MainTurret.fireModes.1.label>Rajada</Badger_MainTurret.fireModes.1.label>
+  <Badger_MainTurret.gizmoDescription>Selecionar Alvo.\n\nFogo para efeito.</Badger_MainTurret.gizmoDescription>
+
+  <Burya_MainTurret.label>enxame de foguetes do burya</Burya_MainTurret.label>
+  <Burya_MainTurret.description>Um poderoso sistema de lançamento múltiplo de foguetes geralmente montado no Burya, capaz de disparar poderosas barragens de foguetes cobrindo uma grande área. A torre não dispara até que alguém ordene. É muito eficaz contra grandes grupos de combatentes fracos, mas menos eficaz contra poucos alvos blindados. O disparo extensivo pode superaquecer e desativar a torre.</Burya_MainTurret.description>
+  <Burya_MainTurret.fireModes.0.label>Rajada</Burya_MainTurret.fireModes.0.label>
+  <Burya_MainTurret.fireModes.1.label>Único</Burya_MainTurret.fireModes.1.label>
+  <Burya_MainTurret.gizmoDescription>Selecionar Alvo.\n\nFogo para efeito.</Burya_MainTurret.gizmoDescription>
+
+  <Goliath_MilitaryTurret.label>torre militar do goliath</Goliath_MilitaryTurret.label>
+  <Goliath_MilitaryTurret.description>Uma torre automática de cano duplo de nível militar, geralmente montada em cápsulas de cerco Goliath. Requer aço para recondicionar seus canos após uso intenso. Pode explodir quando danificada. Possui um ângulo de disparo limitado.</Goliath_MilitaryTurret.description>
+  <Goliath_MilitaryTurret.fireModes.0.label>Rajada</Goliath_MilitaryTurret.fireModes.0.label>
+  <Goliath_MilitaryTurret.gizmoDescription>Selecionar Alvo.\n\nFogo para efeito.</Goliath_MilitaryTurret.gizmoDescription>
+
+  <Goliath_SwarmTurret.label>artilharia do goliath</Goliath_SwarmTurret.label>
+  <Goliath_SwarmTurret.description>Um lançador impreciso capaz de disparar duas barragens de foguetes cobrindo uma grande área. A torre não dispara até que alguém ordene. É muito eficaz contra grandes grupos de combatentes fracos, mas menos eficaz contra pequenos números de alvos blindados. O disparo extensivo pode superaquecer e desativar a torre.</Goliath_SwarmTurret.description>
+  <Goliath_SwarmTurret.gizmoDescription>Selecionar Alvo.\n\nFogo para efeito.</Goliath_SwarmTurret.gizmoDescription>
+
+  <Marshal_MainTurret.label>canhão principal do marshal</Marshal_MainTurret.label>
+  <Marshal_MainTurret.description>Um grande e poderoso canhão de tanque capaz de disparar projéteis explosivos a longa distância. Geralmente montado em tanques Marshal.</Marshal_MainTurret.description>
+  <Marshal_MainTurret.fireModes.0.label>Único</Marshal_MainTurret.fireModes.0.label>
+  <Marshal_MainTurret.gizmoDescription>Selecionar Alvo.\n\nFogo para efeito.</Marshal_MainTurret.gizmoDescription>
+
+  <Marshal_MountedTurret.label>metralhadora montada do marshal</Marshal_MountedTurret.label>
+  <Marshal_MountedTurret.description>Uma pequena metralhadora montada em um tanque Marshal. Precisa ser recarregada com aço. Só pode disparar a curto alcance, mas não tem problemas em disparar contra inimigos que engajem o veículo em combate corpo a corpo.</Marshal_MountedTurret.description>
+  <Marshal_MountedTurret.fireModes.0.label>Rajada</Marshal_MountedTurret.fireModes.0.label>
+  <Marshal_MountedTurret.gizmoDescription>Selecionar Alvo.\n\nFogo para efeito.</Marshal_MountedTurret.gizmoDescription>
+
+  <Paladin_MainTurret.label>lança-granadas de fumaça do paladino</Paladin_MainTurret.label>
+  <Paladin_MainTurret.description>Um lançador de granadas de fumaça montado em um Paladino LAV. Excelente para fornecer cobertura de fumaça para a infantaria, esta torre não possui capacidades ofensivas.</Paladin_MainTurret.description>
+  <Paladin_MainTurret.fireModes.0.label>Único</Paladin_MainTurret.fireModes.0.label>
+  <Paladin_MainTurret.fireModes.1.label>Rajada</Paladin_MainTurret.fireModes.1.label>
+  <Paladin_MainTurret.gizmoDescription>Selecionar Alvo.\n\nFogo para efeito.</Paladin_MainTurret.gizmoDescription>
+
+  <Udar_MainTurret.label>artilharia do udar</Udar_MainTurret.label>
+  <Udar_MainTurret.description>Uma artilharia gigantesca capaz de disparar vários tipos de projéteis em distâncias médias. Embora não possa disparar para outros ladrilhos do mundo, o fato de estar montada em uma plataforma móvel blindada lhe confere grande versatilidade. Pode girar apenas 35 graus em ambas as direções. Geralmente montada na unidade de artilharia Udar.</Udar_MainTurret.description>
+  <Udar_MainTurret.fireModes.0.label>Único</Udar_MainTurret.fireModes.0.label>
+  <Udar_MainTurret.gizmoDescription>Selecionar Alvo.\n\nFogo para efeito.</Udar_MainTurret.gizmoDescription>
+
+</LanguageData>

@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VVE_ArtilleryWreck.label>destroços de artilharia</VVE_ArtilleryWreck.label>
+  <VVE_ArtilleryWreck.description>Uma antiga artilharia autopropulsada quebrada. Tudo o que não enferrujou foi saqueado há muito tempo. Com recursos suficientes, pode ser restaurada em um Udar.</VVE_ArtilleryWreck.description>
+
+  <VVE_BattleTankWreck.label>destroços de tanque de guerra</VVE_BattleTankWreck.label>
+  <VVE_BattleTankWreck.description>Um antigo tanque de guerra quebrado. Tudo o que não enferrujou foi saqueado há muito tempo. Com recursos suficientes, pode ser restaurado em um Marshal.</VVE_BattleTankWreck.description>
+
+  <VVE_CargoHelicopterWreck.label>destroços de helicóptero de carga</VVE_CargoHelicopterWreck.label>
+  <VVE_CargoHelicopterWreck.description>Um antigo helicóptero de carga acidentado. Tudo o que não enferrujou foi saqueado há muito tempo. Com recursos suficientes, pode ser restaurado em um Cherokee.</VVE_CargoHelicopterWreck.description>
+
+  <VVE_ClassicCarWreck.label>destroços de carro clássico</VVE_ClassicCarWreck.label>
+  <VVE_ClassicCarWreck.description>Um antigo carro clássico quebrado. Tudo o que não enferrujou foi saqueado há muito tempo. Com recursos suficientes, pode ser restaurado em um Springbok.</VVE_ClassicCarWreck.description>
+
+  <VVE_HelicopterWreck.label>destroços de helicóptero</VVE_HelicopterWreck.label>
+  <VVE_HelicopterWreck.description>Um antigo helicóptero quebrado. Tudo o que não enferrujou foi saqueado há muito tempo. Com recursos suficientes, pode ser restaurado em um Louie.</VVE_HelicopterWreck.description>
+
+  <VVE_InfantryFightingVehicleWreck.label>destroços de veículo de combate de infantaria</VVE_InfantryFightingVehicleWreck.label>
+  <VVE_InfantryFightingVehicleWreck.description>Um antigo veículo de combate de infantaria quebrado. Tudo o que não enferrujou foi saqueado há muito tempo. Com recursos suficientes, pode ser restaurado em um Badger.</VVE_InfantryFightingVehicleWreck.description>
+
+  <VVE_LightArmoredVehicleWreck.label>destroços de blindado leve</VVE_LightArmoredVehicleWreck.label>
+  <VVE_LightArmoredVehicleWreck.description>Um antigo veículo blindado leve quebrado. Tudo o que não enferrujou foi saqueado há muito tempo. Com recursos suficientes, pode ser restaurado em um Paladin.</VVE_LightArmoredVehicleWreck.description>
+
+  <VVE_OffroadJeepWreck.label>destroços de jeep off-road</VVE_OffroadJeepWreck.label>
+  <VVE_OffroadJeepWreck.description>Um antigo jeep off-road quebrado. Tudo o que não enferrujou foi saqueado há muito tempo. Com recursos suficientes, pode ser restaurado em um Nomad.</VVE_OffroadJeepWreck.description>
+
+  <VVE_RefrigeratedTruckWreck.label>destroços de caminhão frigorífico</VVE_RefrigeratedTruckWreck.label>
+  <VVE_RefrigeratedTruckWreck.description>Um antigo caminhão frigorífico quebrado. Tudo o que não enferrujou foi saqueado há muito tempo. Com recursos suficientes, pode ser restaurado em um Hermano.</VVE_RefrigeratedTruckWreck.description>
+
+  <VVE_RocketArtilleryWreck.label>destroços de artilharia de foguetes</VVE_RocketArtilleryWreck.label>
+  <VVE_RocketArtilleryWreck.description>Um antigo caminhão de artilharia de foguetes quebrado. Tudo o que não enferrujou foi saqueado há muito tempo. Com recursos suficientes, pode ser restaurado em um Burya.</VVE_RocketArtilleryWreck.description>
+
+  <VVE_SiegePodWreck.label>destroços de cápsula de cerco</VVE_SiegePodWreck.label>
+  <VVE_SiegePodWreck.description>Uma antiga cápsula de cerco destruída. Tudo o que não enferrujou foi saqueado há muito tempo. Com recursos suficientes, pode ser restaurada em um Goliath.</VVE_SiegePodWreck.description>
+
+  <VVE_SupercarWreck.label>destroços de supercarro</VVE_SupercarWreck.label>
+  <VVE_SupercarWreck.description>Um antigo supercarro quebrado. Tudo o que não enferrujou foi saqueado há muito tempo. Com recursos suficientes, pode ser restaurado em uma Lightning.</VVE_SupercarWreck.description>
+
+  <VVE_TruckWreck.label>destroços de caminhão</VVE_TruckWreck.label>
+  <VVE_TruckWreck.description>Um antigo caminhão quebrado. Tudo o que não enferrujou foi saqueado há muito tempo. Com recursos suficientes, pode ser restaurado em um Big Rig.</VVE_TruckWreck.description>
+
+  <Bullet_Badger_MainTurret.label>projétil anti-infantaria</Bullet_Badger_MainTurret.label>
+  <VVE_Badger.label>Badger</VVE_Badger.label>
+  <VVE_Badger.description>Um veículo de combate blindado sobre lagartas, o Badger foi projetado para transportar batedores e infantaria enquanto fornece fogo de cobertura para suprimir tropas inimigas. Placas de blindagem lateral reforçadas, capacidade de implantar fumaça cegante e uma poderosa metralhadora automatizada anti-infantaria o tornam um veículo formidável em pequenos combates. É relativamente vulnerável a ataques por trás, e o curto alcance da torre significa que ele é superado pela maioria dos tanques dedicados.\n\nComparado às gerações anteriores, este VCI é projetado para deixar a infantaria rapidamente em um local desejado e fornecer fogo de cobertura leve. A falta de perfuração de blindagem em seus projéteis o torna fraco contra tanques inimigos.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Atirador x1, Passageiro x4\n&lt;color=#bb8f04&gt;Combustível:&lt;/color&gt; combustível químico</VVE_Badger.description>
+  <VVE_Badger.components.0.label>Motor</VVE_Badger.components.0.label>
+  <VVE_Badger.components.1.label>Lagarta esquerda</VVE_Badger.components.1.label>
+  <VVE_Badger.components.2.label>Lagarta direita</VVE_Badger.components.2.label>
+  <VVE_Badger.components.3.label>Roda motriz frontal esquerda</VVE_Badger.components.3.label>
+  <VVE_Badger.components.4.label>Roda motriz frontal direita</VVE_Badger.components.4.label>
+  <VVE_Badger.components.5.label>Roda motriz traseira esquerda</VVE_Badger.components.5.label>
+  <VVE_Badger.components.6.label>Roda motriz traseira direita</VVE_Badger.components.6.label>
+  <VVE_Badger.components.7.label>Caixa de câmbio</VVE_Badger.components.7.label>
+  <VVE_Badger.components.8.label>Blindagem lateral esquerda</VVE_Badger.components.8.label>
+  <VVE_Badger.components.9.label>Blindagem lateral direita</VVE_Badger.components.9.label>
+  <VVE_Badger.components.10.label>Blindagem frontal</VVE_Badger.components.10.label>
+  <VVE_Badger.components.11.label>Blindagem traseira</VVE_Badger.components.11.label>
+  <VVE_Badger.components.12.label>Tanque de combustível</VVE_Badger.components.12.label>
+  <VVE_Badger.components.13.label>Painel</VVE_Badger.components.13.label>
+  <VVE_Badger.components.14.label>Aparelho de direção</VVE_Badger.components.14.label>
+  <VVE_Badger.components.15.label>Alternador</VVE_Badger.components.15.label>
+  <VVE_Badger.components.16.label>Teto</VVE_Badger.components.16.label>
+  <VVE_Badger.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Torre Principal</VVE_Badger.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+  <VVE_Badger.comps.CompReloadableWithVerbs.chargeNoun>fumaça</VVE_Badger.comps.CompReloadableWithVerbs.chargeNoun>
+  <VVE_Badger.comps.CompReloadableWithVerbs.commandDescriptions.0>Uma cortina de fumaça defensiva. Quando ativada, libera uma nuvem de fumaça, obscurecendo disparos recebidos e impedindo que torres inimigas travem o alvo. Possui três cargas e requer reabastecimento de combustível químico após o uso.</VVE_Badger.comps.CompReloadableWithVerbs.commandDescriptions.0>
+  <VVE_Badger.comps.CompReloadableWithVerbs.cooldownGerund>em recarga</VVE_Badger.comps.CompReloadableWithVerbs.cooldownGerund>
+  <VVE_Badger.comps.CompReloadableWithVerbs.verbs.pop_smoke.label>lançar fumaça</VVE_Badger.comps.CompReloadableWithVerbs.verbs.pop_smoke.label>
+  <VVE_Badger.properties.roles.0.label>Motorista</VVE_Badger.properties.roles.0.label>
+  <VVE_Badger.properties.roles.1.label>Atirador</VVE_Badger.properties.roles.1.label>
+  <VVE_Badger.properties.roles.2.label>Passageiro</VVE_Badger.properties.roles.2.label>
+
+  <VVE_BigRig.label>Big Rig</VVE_BigRig.label>
+  <VVE_BigRig.description>Um transportador de carga dedicado, o Big Rig é o epítome do transporte de materiais a granel. Embora seja mais adequado para estradas planas, possui um motor potente o suficiente para avançar efetivamente através de terrenos difíceis.\n\nUm transportador surpreendentemente rápido e sedento por combustível que tem uma aceleração terrível, mas pouco pode detê-lo uma vez que atinge sua velocidade de cruzeiro.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x1\n&lt;color=#bb8f04&gt;Combustível:&lt;/color&gt; combustível químico</VVE_BigRig.description>
+  <VVE_BigRig.components.0.label>Motor</VVE_BigRig.components.0.label>
+  <VVE_BigRig.components.1.label>Roda frontal esquerda</VVE_BigRig.components.1.label>
+  <VVE_BigRig.components.2.label>Roda frontal direita</VVE_BigRig.components.2.label>
+  <VVE_BigRig.components.3.label>Roda central esquerda</VVE_BigRig.components.3.label>
+  <VVE_BigRig.components.4.label>Roda central direita</VVE_BigRig.components.4.label>
+  <VVE_BigRig.components.5.label>Roda traseira esquerda</VVE_BigRig.components.5.label>
+  <VVE_BigRig.components.6.label>Roda traseira direita</VVE_BigRig.components.6.label>
+  <VVE_BigRig.components.7.label>Suspensão frontal esquerda</VVE_BigRig.components.7.label>
+  <VVE_BigRig.components.8.label>Suspensão frontal direita</VVE_BigRig.components.8.label>
+  <VVE_BigRig.components.9.label>Suspensão central esquerda</VVE_BigRig.components.9.label>
+  <VVE_BigRig.components.10.label>Suspensão central direita</VVE_BigRig.components.10.label>
+  <VVE_BigRig.components.11.label>Suspensão traseira esquerda</VVE_BigRig.components.11.label>
+  <VVE_BigRig.components.12.label>Suspensão traseira direita</VVE_BigRig.components.12.label>
+  <VVE_BigRig.components.13.label>Caixa de câmbio</VVE_BigRig.components.13.label>
+  <VVE_BigRig.components.14.label>Painel lateral esquerdo</VVE_BigRig.components.14.label>
+  <VVE_BigRig.components.15.label>Painel lateral direito</VVE_BigRig.components.15.label>
+  <VVE_BigRig.components.16.label>Tanque de combustível químico esquerdo</VVE_BigRig.components.16.label>
+  <VVE_BigRig.components.17.label>Tanque de combustível químico direito</VVE_BigRig.components.17.label>
+  <VVE_BigRig.components.18.label>Para-choque dianteiro</VVE_BigRig.components.18.label>
+  <VVE_BigRig.components.19.label>Para-choque traseiro</VVE_BigRig.components.19.label>
+  <VVE_BigRig.components.20.label>Estofamento</VVE_BigRig.components.20.label>
+  <VVE_BigRig.components.21.label>Painel de controle</VVE_BigRig.components.21.label>
+  <VVE_BigRig.components.22.label>Volante</VVE_BigRig.components.22.label>
+  <VVE_BigRig.components.23.label>Alternador</VVE_BigRig.components.23.label>
+  <VVE_BigRig.components.24.label>Capô</VVE_BigRig.components.24.label>
+  <VVE_BigRig.components.25.label>Teto</VVE_BigRig.components.25.label>
+  <VVE_BigRig.properties.roles.0.label>Motorista</VVE_BigRig.properties.roles.0.label>
+  <VVE_BigRig.properties.roles.1.label>Passageiro</VVE_BigRig.properties.roles.1.label>
+
+  <VVE_Burya.label>Burya</VVE_Burya.label>
+  <VVE_Burya.description>Uma plataforma dedicada de sistema de lançamento múltiplo de foguetes, o Burya é uma arma de cerco e negação de área de longo alcance que pode ser operada por uma tripulação de dois homens para velocidades de carregamento mais rápidas. Capaz de disparar salvas contínuas de mísseis de longo alcance, o Burya pode cobrir áreas inteiras com explosões de foguetes anti-infantaria.\n\nLento e vulnerável ao fogo inimigo, o Burya precisa se posicionar antes de abrir fogo, o que pode deixá-lo isolado em território inimigo.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Atirador x2\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Chemfuel</VVE_Burya.description>
+  <VVE_Burya.components.0.label>Motor</VVE_Burya.components.0.label>
+  <VVE_Burya.components.1.label>Roda frontal esquerda</VVE_Burya.components.1.label>
+  <VVE_Burya.components.2.label>Roda frontal direita</VVE_Burya.components.2.label>
+  <VVE_Burya.components.3.label>Roda central esquerda</VVE_Burya.components.3.label>
+  <VVE_Burya.components.4.label>Roda central direita</VVE_Burya.components.4.label>
+  <VVE_Burya.components.5.label>Roda traseira esquerda</VVE_Burya.components.5.label>
+  <VVE_Burya.components.6.label>Roda traseira direita</VVE_Burya.components.6.label>
+  <VVE_Burya.components.7.label>Suspensão frontal esquerda</VVE_Burya.components.7.label>
+  <VVE_Burya.components.8.label>Suspensão frontal direita</VVE_Burya.components.8.label>
+  <VVE_Burya.components.9.label>Suspensão central esquerda</VVE_Burya.components.9.label>
+  <VVE_Burya.components.10.label>Suspensão central direita</VVE_Burya.components.10.label>
+  <VVE_Burya.components.11.label>Suspensão traseira esquerda</VVE_Burya.components.11.label>
+  <VVE_Burya.components.12.label>Suspensão traseira direita</VVE_Burya.components.12.label>
+  <VVE_Burya.components.13.label>Caixa de câmbio</VVE_Burya.components.13.label>
+  <VVE_Burya.components.14.label>Blindagem lateral esquerda</VVE_Burya.components.14.label>
+  <VVE_Burya.components.15.label>Blindagem lateral direita</VVE_Burya.components.15.label>
+  <VVE_Burya.components.16.label>Blindagem frontal</VVE_Burya.components.16.label>
+  <VVE_Burya.components.17.label>Tanque de combustível esquerdo</VVE_Burya.components.17.label>
+  <VVE_Burya.components.18.label>Tanque de combustível direito</VVE_Burya.components.18.label>
+  <VVE_Burya.components.19.label>Painel</VVE_Burya.components.19.label>
+  <VVE_Burya.components.20.label>Volante</VVE_Burya.components.20.label>
+  <VVE_Burya.components.21.label>Alternador</VVE_Burya.components.21.label>
+  <VVE_Burya.components.22.label>Teto</VVE_Burya.components.22.label>
+  <VVE_Burya.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Salva de Foguetes</VVE_Burya.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+  <VVE_Burya.properties.roles.0.label>Motorista</VVE_Burya.properties.roles.0.label>
+  <VVE_Burya.properties.roles.1.label>Atirador</VVE_Burya.properties.roles.1.label>
+
+  <VVE_Cherokee.label>Cherokee</VVE_Cherokee.label>
+  <VVE_Cherokee.description>Uma aeronave de transporte pesado, o Cherokee é uma monstruosidade da engenharia aeronáutica. Muito lento devido ao seu tamanho, igualmente sedento por combustível e ostenta uma capacidade de carga massiva. Planeje adequadamente.\n\nUm helicóptero de transporte dedicado com um compartimento de carga modificado, requer dois pilotos para operar e reabastecimento frequente. No entanto, nada chega perto do seu nível de transporte de carga bruta em seu nível tecnológico.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Piloto x2\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Chemfuel</VVE_Cherokee.description>
+  <VVE_Cherokee.components.0.label>Motor dianteiro</VVE_Cherokee.components.0.label>
+  <VVE_Cherokee.components.1.label>Motor traseiro</VVE_Cherokee.components.1.label>
+  <VVE_Cherokee.components.2.label>Roda de pouso frontal esq.</VVE_Cherokee.components.2.label>
+  <VVE_Cherokee.components.3.label>Roda de pouso frontal dir.</VVE_Cherokee.components.3.label>
+  <VVE_Cherokee.components.4.label>Roda de pouso tras. esq.</VVE_Cherokee.components.4.label>
+  <VVE_Cherokee.components.5.label>Roda de pouso tras. dir.</VVE_Cherokee.components.5.label>
+  <VVE_Cherokee.components.6.label>Suspensão dianteira esquerda</VVE_Cherokee.components.6.label>
+  <VVE_Cherokee.components.7.label>Capa do motor dianteiro</VVE_Cherokee.components.7.label>
+  <VVE_Cherokee.components.8.label>Capa do motor traseiro</VVE_Cherokee.components.8.label>
+  <VVE_Cherokee.components.9.label>Entrada de combustível esq.</VVE_Cherokee.components.9.label>
+  <VVE_Cherokee.components.10.label>Entrada de combustível dir.</VVE_Cherokee.components.10.label>
+  <VVE_Cherokee.components.11.label>Transmissão dianteira</VVE_Cherokee.components.11.label>
+  <VVE_Cherokee.components.12.label>Transmissão traseira</VVE_Cherokee.components.12.label>
+  <VVE_Cherokee.components.13.label>Eixo turbo esquerdo</VVE_Cherokee.components.13.label>
+  <VVE_Cherokee.components.14.label>Eixo turbo direito</VVE_Cherokee.components.14.label>
+  <VVE_Cherokee.components.15.label>Painel frontal esquerdo</VVE_Cherokee.components.15.label>
+  <VVE_Cherokee.components.16.label>Painel frontal direito</VVE_Cherokee.components.16.label>
+  <VVE_Cherokee.components.17.label>Painel traseiro esquerdo</VVE_Cherokee.components.17.label>
+  <VVE_Cherokee.components.18.label>Painel traseiro direito</VVE_Cherokee.components.18.label>
+  <VVE_Cherokee.components.19.label>Tanque de combustível</VVE_Cherokee.components.19.label>
+  <VVE_Cherokee.components.20.label>Mastro do rotor dianteiro</VVE_Cherokee.components.20.label>
+  <VVE_Cherokee.components.21.label>Mastro do rotor traseiro</VVE_Cherokee.components.21.label>
+  <VVE_Cherokee.components.22.label>Estofamento</VVE_Cherokee.components.22.label>
+  <VVE_Cherokee.components.23.label>Painel de controle</VVE_Cherokee.components.23.label>
+  <VVE_Cherokee.components.24.label>Caixa de câmbio</VVE_Cherokee.components.24.label>
+  <VVE_Cherokee.components.25.label>Servomotores frontais</VVE_Cherokee.components.25.label>
+  <VVE_Cherokee.components.26.label>Servomotores traseiros</VVE_Cherokee.components.26.label>
+  <VVE_Cherokee.properties.roles.0.label>Piloto</VVE_Cherokee.properties.roles.0.label>
+
+  <VVE_Goliath.label>Goliath</VVE_Goliath.label>
+  <VVE_Goliath.description>Mais uma mini-base móvel do que uma cápsula de implantação, o Goliath é uma solução cara, mas poderosa, para qualquer objeto inimigo imóvel. Equipado com quatro estações de torres militares e uma torre de enxame de foguetes de longo alcance no topo, esta cápsula de cerco é capaz de fazer chover fogo em um raio de 360 graus. Quase impenetrável, pode servir como base de operações portátil, mantendo todas as tropas seguras em seu interior.\n\nÉ incrivelmente pesado e a decolagem requer propulsores de uso único que se separam assim que a trajetória e a velocidade são atingidas. Para decolar novamente, os propulsores precisam ser reconstruídos.\n\nSendo um veículo voador, é extremamente visível quando está em movimento.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Operador x1, Atirador de Enxame x1, Artilheiro x4, Passageiro x4\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Chemfuel</VVE_Goliath.description>
+  <VVE_Goliath.components.0.label>Motor</VVE_Goliath.components.0.label>
+  <VVE_Goliath.components.1.label>Primeiro propulsor</VVE_Goliath.components.1.label>
+  <VVE_Goliath.components.2.label>Segundo propulsor</VVE_Goliath.components.2.label>
+  <VVE_Goliath.components.3.label>Terceiro propulsor</VVE_Goliath.components.3.label>
+  <VVE_Goliath.components.4.label>Quarto propulsor</VVE_Goliath.components.4.label>
+  <VVE_Goliath.components.5.label>Primeiro booster</VVE_Goliath.components.5.label>
+  <VVE_Goliath.components.6.label>Segundo booster</VVE_Goliath.components.6.label>
+  <VVE_Goliath.components.7.label>Terceiro booster</VVE_Goliath.components.7.label>
+  <VVE_Goliath.components.8.label>Quarto booster</VVE_Goliath.components.8.label>
+  <VVE_Goliath.components.9.label>Tanque de combustível</VVE_Goliath.components.9.label>
+  <VVE_Goliath.components.10.label>Casco</VVE_Goliath.components.10.label>
+  <VVE_Goliath.components.11.label>Escudo defletor</VVE_Goliath.components.11.label>
+  <VVE_Goliath.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Torre de Enxame</VVE_Goliath.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+  <VVE_Goliath.comps.CompVehicleTurrets.turrets.1.gizmoLabel>Torre Militar 1</VVE_Goliath.comps.CompVehicleTurrets.turrets.1.gizmoLabel>
+  <VVE_Goliath.comps.CompVehicleTurrets.turrets.2.gizmoLabel>Torre Militar 2</VVE_Goliath.comps.CompVehicleTurrets.turrets.2.gizmoLabel>
+  <VVE_Goliath.comps.CompVehicleTurrets.turrets.3.gizmoLabel>Torre Militar 3</VVE_Goliath.comps.CompVehicleTurrets.turrets.3.gizmoLabel>
+  <VVE_Goliath.comps.CompVehicleTurrets.turrets.4.gizmoLabel>Torre Militar 4</VVE_Goliath.comps.CompVehicleTurrets.turrets.4.gizmoLabel>
+  <VVE_Goliath.properties.roles.0.label>Operador</VVE_Goliath.properties.roles.0.label>
+  <VVE_Goliath.properties.roles.1.label>Atirador de Enxame</VVE_Goliath.properties.roles.1.label>
+  <VVE_Goliath.properties.roles.2.label>Artilheiro 1</VVE_Goliath.properties.roles.2.label>
+  <VVE_Goliath.properties.roles.3.label>Artilheiro 2</VVE_Goliath.properties.roles.3.label>
+  <VVE_Goliath.properties.roles.4.label>Artilheiro 3</VVE_Goliath.properties.roles.4.label>
+  <VVE_Goliath.properties.roles.5.label>Artilheiro 4</VVE_Goliath.properties.roles.5.label>
+  <VVE_Goliath.properties.roles.6.label>Passageiro</VVE_Goliath.properties.roles.6.label>
+
+  <VVE_Hermano.label>Hermano</VVE_Hermano.label>
+  <VVE_Hermano.description>Um veículo de refrigeração dedicado, o Hermano é um transportador de carga decente com um nicho específico no transporte de mercadorias perecíveis. Decente em viagens de longa distância por estradas, ele tem um desempenho terrível em condições off-road ou de inverno.\n\nEmbora existam transportadores de carga melhores mesmo em níveis inferiores, este caminhão pode transportar carga em estado congelado, evitando que estrague. Devido ao maquinário extra, o desempenho é prejudicado e ele deve ficar longe de zonas de conflito.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Chemfuel</VVE_Hermano.description>
+  <VVE_Hermano.components.0.label>Motor</VVE_Hermano.components.0.label>
+  <VVE_Hermano.components.1.label>Roda dianteira esquerda</VVE_Hermano.components.1.label>
+  <VVE_Hermano.components.2.label>Roda dianteira direita</VVE_Hermano.components.2.label>
+  <VVE_Hermano.components.3.label>Roda traseira esquerda</VVE_Hermano.components.3.label>
+  <VVE_Hermano.components.4.label>Roda traseira direita</VVE_Hermano.components.4.label>
+  <VVE_Hermano.components.5.label>Suspensão dianteira esquerda</VVE_Hermano.components.5.label>
+  <VVE_Hermano.components.6.label>Suspensão dianteira direita</VVE_Hermano.components.6.label>
+  <VVE_Hermano.components.7.label>Suspensão traseira esquerda</VVE_Hermano.components.7.label>
+  <VVE_Hermano.components.8.label>Suspensão traseira direita</VVE_Hermano.components.8.label>
+  <VVE_Hermano.components.9.label>Caixa de câmbio</VVE_Hermano.components.9.label>
+  <VVE_Hermano.components.10.label>Painel lateral esquerdo</VVE_Hermano.components.10.label>
+  <VVE_Hermano.components.11.label>Painel lateral direito</VVE_Hermano.components.11.label>
+  <VVE_Hermano.components.12.label>Tanque de combustível esquerdo</VVE_Hermano.components.12.label>
+  <VVE_Hermano.components.13.label>Para-choque dianteiro</VVE_Hermano.components.13.label>
+  <VVE_Hermano.components.14.label>Para-choque traseiro</VVE_Hermano.components.14.label>
+  <VVE_Hermano.components.15.label>Estofamento</VVE_Hermano.components.15.label>
+  <VVE_Hermano.components.16.label>Painel de controle</VVE_Hermano.components.16.label>
+  <VVE_Hermano.components.17.label>Volante</VVE_Hermano.components.17.label>
+  <VVE_Hermano.components.18.label>Alternador</VVE_Hermano.components.18.label>
+  <VVE_Hermano.components.19.label>Grade</VVE_Hermano.components.19.label>
+  <VVE_Hermano.components.20.label>Teto</VVE_Hermano.components.20.label>
+  <VVE_Hermano.comps.CompRefrigerator.label>refrigerar</VVE_Hermano.comps.CompRefrigerator.label>
+  <VVE_Hermano.comps.CompRefrigerator.description>Habilita ou desabilita a refrigeração de carga neste caminhão frigorífico. A refrigeração impedirá que os itens estraguem, mas consumirá combustível continuamente.</VVE_Hermano.comps.CompRefrigerator.description>
+  <VVE_Hermano.properties.roles.0.label>Motorista</VVE_Hermano.properties.roles.0.label>
+  <VVE_Hermano.properties.roles.1.label>Passageiro</VVE_Hermano.properties.roles.1.label>
+
+  <VVE_Lightning.label>Lightning</VVE_Lightning.label>
+  <VVE_Lightning.description>Um transportador rápido de uso geral, o Lightning é um excelente veículo de estrada para levar uma quantidade apreciável de carga em um curto espaço de tempo. Incrivelmente rápido em estradas planas, ele terá dificuldades em colinas, neve ou biomas de inverno.\n\nComo foi projetado para velocidade, as viagens devem sempre ser planejadas para permanecer em estradas e ter combustível extra, que pode ocupar a maior parte do espaço de carga adicional. Ele tem uma eficiência de combustível terrível devido ao seu alto desempenho, então planeje de acordo.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Chemfuel</VVE_Lightning.description>
+  <VVE_Lightning.components.0.label>Motor</VVE_Lightning.components.0.label>
+  <VVE_Lightning.components.1.label>Roda dianteira esquerda</VVE_Lightning.components.1.label>
+  <VVE_Lightning.components.2.label>Roda dianteira direita</VVE_Lightning.components.2.label>
+  <VVE_Lightning.components.3.label>Roda traseira esquerda</VVE_Lightning.components.3.label>
+  <VVE_Lightning.components.4.label>Roda traseira direita</VVE_Lightning.components.4.label>
+  <VVE_Lightning.components.5.label>Suspensão dianteira esquerda</VVE_Lightning.components.5.label>
+  <VVE_Lightning.components.6.label>Suspensão dianteira direita</VVE_Lightning.components.6.label>
+  <VVE_Lightning.components.7.label>Suspensão traseira esquerda</VVE_Lightning.components.7.label>
+  <VVE_Lightning.components.8.label>Suspensão traseira direita</VVE_Lightning.components.8.label>
+  <VVE_Lightning.components.9.label>Caixa de câmbio</VVE_Lightning.components.9.label>
+  <VVE_Lightning.components.10.label>Painel lateral esquerdo</VVE_Lightning.components.10.label>
+  <VVE_Lightning.components.11.label>Painel lateral direito</VVE_Lightning.components.11.label>
+  <VVE_Lightning.components.12.label>Tanque de combustível</VVE_Lightning.components.12.label>
+  <VVE_Lightning.components.13.label>Para-choque dianteiro</VVE_Lightning.components.13.label>
+  <VVE_Lightning.components.14.label>Para-choque traseiro</VVE_Lightning.components.14.label>
+  <VVE_Lightning.components.15.label>Estofamento</VVE_Lightning.components.15.label>
+  <VVE_Lightning.components.16.label>Painel de controle</VVE_Lightning.components.16.label>
+  <VVE_Lightning.components.17.label>Volante</VVE_Lightning.components.17.label>
+  <VVE_Lightning.components.18.label>Alternador</VVE_Lightning.components.18.label>
+  <VVE_Lightning.components.19.label>Capô</VVE_Lightning.components.19.label>
+  <VVE_Lightning.components.20.label>Teto</VVE_Lightning.components.20.label>
+  <VVE_Lightning.properties.roles.0.label>Motorista</VVE_Lightning.properties.roles.0.label>
+  <VVE_Lightning.properties.roles.1.label>Passageiro</VVE_Lightning.properties.roles.1.label>
+
+  <VVE_Louie.label>Louie</VVE_Louie.label>
+  <VVE_Louie.description>Uma aeronave de transporte blindada, o Louie é um modo de transporte móvel robusto e ágil. Não requer pista de pouso e não se despedaçará ao primeiro sinal de fogo.\n\nUm helicóptero de uso relativamente geral, possui excelente capacidade de carga e de passageiros. Tem alguma blindagem para uma aeronave, permitindo que ele se desloque e extraia tropas de zonas de conflito.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Piloto x1, Passageiro x5\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Chemfuel</VVE_Louie.description>
+  <VVE_Louie.components.0.label>Patim de pouso esquerdo</VVE_Louie.components.0.label>
+  <VVE_Louie.components.1.label>Patim de pouso direito</VVE_Louie.components.1.label>
+  <VVE_Louie.components.2.label>Estabilizador horizontal esquerdo</VVE_Louie.components.2.label>
+  <VVE_Louie.components.3.label>Estabilizador horizontal direito</VVE_Louie.components.3.label>
+  <VVE_Louie.components.4.label>Motor</VVE_Louie.components.4.label>
+  <VVE_Louie.components.5.label>Entrada de combustível</VVE_Louie.components.5.label>
+  <VVE_Louie.components.6.label>Transmissão</VVE_Louie.components.6.label>
+  <VVE_Louie.components.7.label>Leme</VVE_Louie.components.7.label>
+  <VVE_Louie.components.8.label>Painel lateral esquerdo</VVE_Louie.components.8.label>
+  <VVE_Louie.components.9.label>Painel lateral direito</VVE_Louie.components.9.label>
+  <VVE_Louie.components.10.label>Tanque de combustível</VVE_Louie.components.10.label>
+  <VVE_Louie.components.11.label>Mastro do rotor</VVE_Louie.components.11.label>
+  <VVE_Louie.components.12.label>Estofamento</VVE_Louie.components.12.label>
+  <VVE_Louie.components.13.label>Painel de controle</VVE_Louie.components.13.label>
+  <VVE_Louie.components.14.label>Caixa de câmbio</VVE_Louie.components.14.label>
+  <VVE_Louie.components.15.label>Servomotores</VVE_Louie.components.15.label>
+  <VVE_Louie.properties.roles.0.label>Piloto</VVE_Louie.properties.roles.0.label>
+  <VVE_Louie.properties.roles.1.label>Passageiro</VVE_Louie.properties.roles.1.label>
+
+  <Bullet_Marshal_MainTurret.label>projétil de alto explosivo</Bullet_Marshal_MainTurret.label>
+  <VVE_Marshal.label>Marshal</VVE_Marshal.label>
+  <VVE_Marshal.description>Um tanque de guerra principal de uso geral, o Marshal é um veículo de combate aprimorado que se sai bem em qualquer combate. Tem melhor desempenho em terrenos menos favoráveis, com todos os lados blindados, sendo a chapa mais fina na parte traseira, perto do motor.\n\nMelhorias mínimas de blindagem em relação aos tanques de nível anterior; em vez disso, possui um canhão principal mais potente e uma arma secundária. Pode disparar enquanto se move, pois requer um motorista e dois atiradores: um para cada sistema de armas.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Atirador x1, Atirador de metralhadora x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Chemfuel</VVE_Marshal.description>
+  <VVE_Marshal.components.0.label>Motor</VVE_Marshal.components.0.label>
+  <VVE_Marshal.components.1.label>Lagarta esquerda</VVE_Marshal.components.1.label>
+  <VVE_Marshal.components.2.label>Lagarta direita</VVE_Marshal.components.2.label>
+  <VVE_Marshal.components.3.label>Roda motriz dianteira esquerda</VVE_Marshal.components.3.label>
+  <VVE_Marshal.components.4.label>Roda motriz dianteira direita</VVE_Marshal.components.4.label>
+  <VVE_Marshal.components.5.label>Roda tensora traseira esquerda</VVE_Marshal.components.5.label>
+  <VVE_Marshal.components.6.label>Roda tensora traseira direita</VVE_Marshal.components.6.label>
+  <VVE_Marshal.components.7.label>Caixa de câmbio</VVE_Marshal.components.7.label>
+  <VVE_Marshal.components.8.label>Blindagem frontal</VVE_Marshal.components.8.label>
+  <VVE_Marshal.components.9.label>Blindagem lateral esquerda</VVE_Marshal.components.9.label>
+  <VVE_Marshal.components.10.label>Blindagem lateral direita</VVE_Marshal.components.10.label>
+  <VVE_Marshal.components.11.label>Blindagem traseira</VVE_Marshal.components.11.label>
+  <VVE_Marshal.components.12.label>Tanque de combustível</VVE_Marshal.components.12.label>
+  <VVE_Marshal.components.13.label>Painel de controle</VVE_Marshal.components.13.label>
+  <VVE_Marshal.components.14.label>Aparelho de direção</VVE_Marshal.components.14.label>
+  <VVE_Marshal.components.15.label>Alternador</VVE_Marshal.components.15.label>
+  <VVE_Marshal.components.16.label>Teto</VVE_Marshal.components.16.label>
+  <VVE_Marshal.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Torre Principal</VVE_Marshal.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+  <VVE_Marshal.comps.CompVehicleTurrets.turrets.1.gizmoLabel>Metralhadora Montada</VVE_Marshal.comps.CompVehicleTurrets.turrets.1.gizmoLabel>
+  <VVE_Marshal.comps.CompReloadableWithVerbs.chargeNoun>fumaça</VVE_Marshal.comps.CompReloadableWithVerbs.chargeNoun>
+  <VVE_Marshal.comps.CompReloadableWithVerbs.commandDescriptions.0>Uma cortina de fumaça defensiva. Quando ativada, libera uma nuvem de fumaça, obscurecendo disparos recebidos e impedindo que torres inimigas travem o alvo. Possui três cargas e requer reabastecimento de chemfuel.</VVE_Marshal.comps.CompReloadableWithVerbs.commandDescriptions.0>
+  <VVE_Marshal.comps.CompReloadableWithVerbs.cooldownGerund>em recarga</VVE_Marshal.comps.CompReloadableWithVerbs.cooldownGerund>
+  <VVE_Marshal.comps.CompReloadableWithVerbs.verbs.pop_smoke.label>lançar fumaça</VVE_Marshal.comps.CompReloadableWithVerbs.verbs.pop_smoke.label>
+  <VVE_Marshal.properties.roles.0.label>Motorista</VVE_Marshal.properties.roles.0.label>
+  <VVE_Marshal.properties.roles.1.label>Atirador</VVE_Marshal.properties.roles.1.label>
+  <VVE_Marshal.properties.roles.2.label>Atirador de Metralhadora</VVE_Marshal.properties.roles.2.label>
+
+  <VVE_Nomad.label>Nômade</VVE_Nomad.label>
+  <VVE_Nomad.description>Um veículo blindado versátil, o Nômade tem um desempenho notável em todas as categorias, com excelente capacidade de carga e de passageiros. Funciona bem em qualquer tipo de terreno, com apenas alguns problemas menores no frio.\n\nUm veículo de nível 3 de propósito relativamente geral, sendo efetivamente um APC (Transporte Blindado de Pessoal) levemente blindado. Embora se destaque em capacidades off-road e funcione bem em todas as situações, outros veículos apresentam desempenho superior em estradas ou em tarefas especializadas.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x3\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Chemfuel</VVE_Nomad.description>
+  <VVE_Nomad.components.0.label>Motor</VVE_Nomad.components.0.label>
+  <VVE_Nomad.components.1.label>Roda dianteira esquerda</VVE_Nomad.components.1.label>
+  <VVE_Nomad.components.2.label>Roda dianteira direita</VVE_Nomad.components.2.label>
+  <VVE_Nomad.components.3.label>Roda traseira esquerda</VVE_Nomad.components.3.label>
+  <VVE_Nomad.components.4.label>Roda traseira direita</VVE_Nomad.components.4.label>
+  <VVE_Nomad.components.5.label>Suspensão dianteira esquerda</VVE_Nomad.components.5.label>
+  <VVE_Nomad.components.6.label>Suspensão dianteira direita</VVE_Nomad.components.6.label>
+  <VVE_Nomad.components.7.label>Suspensão traseira esquerda</VVE_Nomad.components.7.label>
+  <VVE_Nomad.components.8.label>Suspensão traseira direita</VVE_Nomad.components.8.label>
+  <VVE_Nomad.components.9.label>Caixa de câmbio</VVE_Nomad.components.9.label>
+  <VVE_Nomad.components.10.label>Painel lateral esquerdo</VVE_Nomad.components.10.label>
+  <VVE_Nomad.components.11.label>Painel lateral direito</VVE_Nomad.components.11.label>
+  <VVE_Nomad.components.12.label>Painel frontal</VVE_Nomad.components.12.label>
+  <VVE_Nomad.components.13.label>Tanque de combustível</VVE_Nomad.components.13.label>
+  <VVE_Nomad.components.14.label>Para-choque dianteiro</VVE_Nomad.components.14.label>
+  <VVE_Nomad.components.15.label>Para-choque traseiro</VVE_Nomad.components.15.label>
+  <VVE_Nomad.components.16.label>Estofamento</VVE_Nomad.components.16.label>
+  <VVE_Nomad.components.17.label>Painel de controle</VVE_Nomad.components.17.label>
+  <VVE_Nomad.components.18.label>Volante</VVE_Nomad.components.18.label>
+  <VVE_Nomad.components.19.label>Alternador</VVE_Nomad.components.19.label>
+  <VVE_Nomad.components.20.label>Capô</VVE_Nomad.components.20.label>
+  <VVE_Nomad.components.21.label>Teto</VVE_Nomad.components.21.label>
+  <VVE_Nomad.properties.roles.0.label>Motorista</VVE_Nomad.properties.roles.0.label>
+  <VVE_Nomad.properties.roles.1.label>Passageiro</VVE_Nomad.properties.roles.1.label>
+
+  <VVE_Paladin.label>Paladino</VVE_Paladin.label>
+  <VVE_Paladin.description>Um transporte blindado de pessoal de uso geral, o Paladino é um transporte de tropas rápido e resistente. Possui compartimentos de carga decentes, placas de blindagem reforçadas, capacidade para todos os terrenos e uma torre de granadas de fumaça para cobrir o destacamento de tropas. As principais desvantagens são a falta de lagartas para melhor navegação no terreno e a blindagem mais fina na parte traseira.\n\nComparado às gerações anteriores, este APC foi projetado para deixar a infantaria rapidamente em um local desejado e recuar logo em seguida. Pode atuar como cobertura temporária, mas idealmente deve ser capaz de implantar sua carga e retornar em segurança.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Atirador x1, Passageiro x6\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Chemfuel</VVE_Paladin.description>
+  <VVE_Paladin.components.0.label>Motor</VVE_Paladin.components.0.label>
+  <VVE_Paladin.components.1.label>Primeira roda esquerda</VVE_Paladin.components.1.label>
+  <VVE_Paladin.components.2.label>Segunda roda esquerda</VVE_Paladin.components.2.label>
+  <VVE_Paladin.components.3.label>Terceira roda esquerda</VVE_Paladin.components.3.label>
+  <VVE_Paladin.components.4.label>Quarta roda esquerda</VVE_Paladin.components.4.label>
+  <VVE_Paladin.components.5.label>Primeira roda direita</VVE_Paladin.components.5.label>
+  <VVE_Paladin.components.6.label>Segunda roda direita</VVE_Paladin.components.6.label>
+  <VVE_Paladin.components.7.label>Terceira roda direita</VVE_Paladin.components.7.label>
+  <VVE_Paladin.components.8.label>Quarta roda direita</VVE_Paladin.components.8.label>
+  <VVE_Paladin.components.9.label>Primeira suspensão esquerda</VVE_Paladin.components.9.label>
+  <VVE_Paladin.components.10.label>Segunda suspensão esquerda</VVE_Paladin.components.10.label>
+  <VVE_Paladin.components.11.label>Terceira suspensão esquerda</VVE_Paladin.components.11.label>
+  <VVE_Paladin.components.12.label>Quarta suspensão esquerda</VVE_Paladin.components.12.label>
+  <VVE_Paladin.components.13.label>Primeira suspensão direita</VVE_Paladin.components.13.label>
+  <VVE_Paladin.components.14.label>Segunda suspensão direita</VVE_Paladin.components.14.label>
+  <VVE_Paladin.components.15.label>Terceira suspensão direita</VVE_Paladin.components.15.label>
+  <VVE_Paladin.components.16.label>Quarta suspensão direita</VVE_Paladin.components.16.label>
+  <VVE_Paladin.components.17.label>Caixa de câmbio</VVE_Paladin.components.17.label>
+  <VVE_Paladin.components.18.label>Blindagem frontal</VVE_Paladin.components.18.label>
+  <VVE_Paladin.components.19.label>Blindagem lateral esquerda</VVE_Paladin.components.19.label>
+  <VVE_Paladin.components.20.label>Blindagem lateral direita</VVE_Paladin.components.20.label>
+  <VVE_Paladin.components.21.label>Blindagem traseira</VVE_Paladin.components.21.label>
+  <VVE_Paladin.components.22.label>Tanque de combustível</VVE_Paladin.components.22.label>
+  <VVE_Paladin.components.23.label>Painel de controle</VVE_Paladin.components.23.label>
+  <VVE_Paladin.components.24.label>Aparelho de direção</VVE_Paladin.components.24.label>
+  <VVE_Paladin.components.25.label>Alternador</VVE_Paladin.components.25.label>
+  <VVE_Paladin.components.26.label>Teto</VVE_Paladin.components.26.label>
+  <VVE_Paladin.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Torre Lança-Granadas</VVE_Paladin.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+  <VVE_Paladin.properties.roles.0.label>Motorista</VVE_Paladin.properties.roles.0.label>
+  <VVE_Paladin.properties.roles.1.label>Atirador</VVE_Paladin.properties.roles.1.label>
+  <VVE_Paladin.properties.roles.2.label>Passageiro</VVE_Paladin.properties.roles.2.label>
+
+  <VVE_Springbok.label>Springbok</VVE_Springbok.label>
+  <VVE_Springbok.description>Um veículo utilitário geral, o Springbok tem um bom desempenho em todas as categorias, com boa capacidade de carga e de passageiros. A construção antiga e robusta e o motor barulhento afetam negativamente sua eficiência de combustível e visibilidade. É mais adequado para estradas planas e terá certa dificuldade em colinas, neve ou biomas de inverno.\n\nCom um desempenho ligeiramente inferior aos veículos de nível 2, é, por outro lado, um veículo estiloso para dirigir e proporcionará um bônus de humor a todos os passageiros.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x3\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Chemfuel</VVE_Springbok.description>
+  <VVE_Springbok.components.0.label>Motor</VVE_Springbok.components.0.label>
+  <VVE_Springbok.components.1.label>Roda dianteira esquerda</VVE_Springbok.components.1.label>
+  <VVE_Springbok.components.2.label>Roda dianteira direita</VVE_Springbok.components.2.label>
+  <VVE_Springbok.components.3.label>Roda traseira esquerda</VVE_Springbok.components.3.label>
+  <VVE_Springbok.components.4.label>Roda traseira direita</VVE_Springbok.components.4.label>
+  <VVE_Springbok.components.5.label>Suspensão dianteira esquerda</VVE_Springbok.components.5.label>
+  <VVE_Springbok.components.6.label>Suspensão dianteira direita</VVE_Springbok.components.6.label>
+  <VVE_Springbok.components.7.label>Suspensão traseira esquerda</VVE_Springbok.components.7.label>
+  <VVE_Springbok.components.8.label>Suspensão traseira direita</VVE_Springbok.components.8.label>
+  <VVE_Springbok.components.9.label>Caixa de câmbio</VVE_Springbok.components.9.label>
+  <VVE_Springbok.components.10.label>Painel lateral esquerdo</VVE_Springbok.components.10.label>
+  <VVE_Springbok.components.11.label>Painel lateral direito</VVE_Springbok.components.11.label>
+  <VVE_Springbok.components.12.label>Tanque de combustível</VVE_Springbok.components.12.label>
+  <VVE_Springbok.components.13.label>Para-choque dianteiro</VVE_Springbok.components.13.label>
+  <VVE_Springbok.components.14.label>Para-choque traseiro</VVE_Springbok.components.14.label>
+  <VVE_Springbok.components.15.label>Estofamento</VVE_Springbok.components.15.label>
+  <VVE_Springbok.components.16.label>Painel de controle</VVE_Springbok.components.16.label>
+  <VVE_Springbok.components.17.label>Volante</VVE_Springbok.components.17.label>
+  <VVE_Springbok.components.18.label>Alternador</VVE_Springbok.components.18.label>
+  <VVE_Springbok.components.19.label>Capô</VVE_Springbok.components.19.label>
+  <VVE_Springbok.components.20.label>Teto</VVE_Springbok.components.20.label>
+  <VVE_Springbok.properties.roles.0.label>Motorista</VVE_Springbok.properties.roles.0.label>
+  <VVE_Springbok.properties.roles.1.label>Passageiro</VVE_Springbok.properties.roles.1.label>
+
+  <VVE_Udar.label>Udar</VVE_Udar.label>
+  <VVE_Udar.description>Uma unidade de artilharia dedicada, o Udar é uma arma de cerco de longo alcance que pode ser operada por uma tripulação de dois homens para velocidades de carregamento mais rápidas. Reservas de combustível pequenas e ineficientes são seu fator limitante, já que ele pode dirigir por qualquer terreno sem problemas.\n\nUm alvo prioritário e indefeso por si só ou em curto alcance, especialmente com sua blindagem traseira fina, um Udar bem defendido pode lançar barragens rápidas de morteiros e se reposicionar fora de perigo.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Atirador x2\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Chemfuel</VVE_Udar.description>
+  <VVE_Udar.components.0.label>Motor</VVE_Udar.components.0.label>
+  <VVE_Udar.components.1.label>Lagarta esquerda</VVE_Udar.components.1.label>
+  <VVE_Udar.components.2.label>Lagarta direita</VVE_Udar.components.2.label>
+  <VVE_Udar.components.3.label>Roda motriz dianteira esquerda</VVE_Udar.components.3.label>
+  <VVE_Udar.components.4.label>Roda motriz dianteira direita</VVE_Udar.components.4.label>
+  <VVE_Udar.components.5.label>Roda tensora traseira esquerda</VVE_Udar.components.5.label>
+  <VVE_Udar.components.6.label>Roda tensora traseira direita</VVE_Udar.components.6.label>
+  <VVE_Udar.components.7.label>Caixa de câmbio</VVE_Udar.components.7.label>
+  <VVE_Udar.components.8.label>Blindagem frontal</VVE_Udar.components.8.label>
+  <VVE_Udar.components.9.label>Blindagem lateral esquerda</VVE_Udar.components.9.label>
+  <VVE_Udar.components.10.label>Blindagem lateral direita</VVE_Udar.components.10.label>
+  <VVE_Udar.components.11.label>Blindagem traseira</VVE_Udar.components.11.label>
+  <VVE_Udar.components.12.label>Tanque de combustível</VVE_Udar.components.12.label>
+  <VVE_Udar.components.13.label>Painel de controle</VVE_Udar.components.13.label>
+  <VVE_Udar.components.14.label>Aparelho de direção</VVE_Udar.components.14.label>
+  <VVE_Udar.components.15.label>Alternador</VVE_Udar.components.15.label>
+  <VVE_Udar.components.16.label>Teto</VVE_Udar.components.16.label>
+  <VVE_Udar.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Torre de Artilharia</VVE_Udar.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
+  <VVE_Udar.properties.roles.0.label>Motorista</VVE_Udar.properties.roles.0.label>
+  <VVE_Udar.properties.roles.1.label>Atirador</VVE_Udar.properties.roles.1.label>
+
+</LanguageData>

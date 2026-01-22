@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VVE_BattleTanks.label>tanques de guerra</VVE_BattleTanks.label>
+  <VVE_BattleTanks.description>Aprenda a construir tanques de batalha pesadamente blindados, como o Marshal, equipados com uma variedade de armas. Para pesquisar este projeto, os destroços de um Marshal precisam ser encontrados e restaurados.</VVE_BattleTanks.description>
+  <VVE_BattleTanks.generalRules.rulesStrings>
+    <li>subject->produção de tanques de batalha</li>
+    <li>subject_story->iniciou a era da guerra blindada ao ressuscitar a proeza dos destroços de um Marshal</li>
+    <li>subject_story->combinou poder de fogo devastador com blindagem impenetrável para dominar o campo de batalha</li>
+    <li>subject_gerund->dominando com poderio blindado</li>
+  </VVE_BattleTanks.generalRules.rulesStrings>
+
+  <VVE_BigRigs.label>caminhões pesados</VVE_BigRigs.label>
+  <VVE_BigRigs.description>Aprenda a construir caminhões de grande porte e longa distância, como o Big Rig ou o Hermano, capazes de entregar grandes quantidades de carga em distâncias extremamente longas. Para pesquisar este projeto, os destroços de um Big Rig ou Hermano precisam ser encontrados e restaurados.</VVE_BigRigs.description>
+  <VVE_BigRigs.generalRules.rulesStrings>
+    <li>subject->transporte de carga pesada</li>
+    <li>subject_story->avançou para a construção de caminhões monumentais de longo curso como o Big Rig ou Hermano, após a recuperação e estudo de destroços</li>
+    <li>subject_story->aumentou drasticamente a capacidade de carga e o alcance operacional para transporte terrestre</li>
+    <li>subject_gerund->revolucionando a entrega de carga por terra</li>
+  </VVE_BigRigs.generalRules.rulesStrings>
+
+  <VVE_Cherokee.label>cherokee</VVE_Cherokee.label>
+  <VVE_Cherokee.description>Aprenda a construir um helicóptero de carga de rotor duplo chamado Cherokee, capaz de entregar milhares de quilos de recursos via rotas aéreas. Para pesquisar este projeto, os destroços de um Cherokee precisam ser encontrados e restaurados.</VVE_Cherokee.description>
+  <VVE_Cherokee.generalRules.rulesStrings>
+    <li>subject->criação do helicóptero Cherokee</li>
+    <li>subject_story->expandiu as capacidades logísticas aéreas ao projetar o Cherokee, um helicóptero de carga de rotor duplo, exigindo a reconstrução de destroços</li>
+    <li>subject_story->facilitou o movimento de cargas massivas por via aérea, ignorando obstáculos terrestres</li>
+    <li>subject_gerund->elevando a logística a novas alturas</li>
+  </VVE_Cherokee.generalRules.rulesStrings>
+
+  <VVE_ClassicCars.label>carros clássicos</VVE_ClassicCars.label>
+  <VVE_ClassicCars.description>Aprenda a construir carros clássicos e luxuosos, como o Springbok. Para pesquisar este projeto, os destroços de um Springbok precisam ser encontrados e restaurados.</VVE_ClassicCars.description>
+  <VVE_ClassicCars.generalRules.rulesStrings>
+    <li>subject->restauração de carros clássicos</li>
+    <li>subject_story->começou a jornada de trazer a elegância de volta às estradas restaurando destroços de um Springbok</li>
+    <li>subject_story->fundiu designs atemporais com engenharia moderna para recriar o charme dos carros clássicos</li>
+    <li>subject_gerund->revivendo a elegância automotiva</li>
+  </VVE_ClassicCars.generalRules.rulesStrings>
+
+  <VVE_LightArmoredVehicles.label>veículos blindados leves</VVE_LightArmoredVehicles.label>
+  <VVE_LightArmoredVehicles.description>Aprenda a construir veículos blindados leves, como o Paladin ou o Badger, que podem transportar soldados de forma eficiente e eficaz, fornecendo-lhes apoio de fogo. Para pesquisar este projeto, os destroços de um Paladin ou Badger precisam ser encontrados e restaurados.</VVE_LightArmoredVehicles.description>
+  <VVE_LightArmoredVehicles.generalRules.rulesStrings>
+    <li>subject->mobilidade blindada leve</li>
+    <li>subject_story->entrou no reino da versatilidade táctica ao restaurar destroços como o Paladin ou Badger</li>
+    <li>subject_story->projetou veículos que equilibram velocidade, proteção e poder de fogo para apoiar tropas em movimento</li>
+    <li>subject_gerund->melhorando a mobilidade no campo de batalha</li>
+  </VVE_LightArmoredVehicles.generalRules.rulesStrings>
+
+  <VVE_Louie.label>louie</VVE_Louie.label>
+  <VVE_Louie.description>Aprenda a construir um grande helicóptero de transporte chamado Louie, que pode entregar tanto carga quanto tropas em longas distâncias com facilidade. Para pesquisar este projeto, os destroços de um Louie precisam ser encontrados e restaurados.</VVE_Louie.description>
+  <VVE_Louie.generalRules.rulesStrings>
+    <li>subject->desenvolvimento do helicóptero Louie</li>
+    <li>subject_story->aventurou-se na logística aérea aprendendo a construir o Louie, um grande helicóptero de transporte, começando a partir de destroços</li>
+    <li>subject_story->permitiu o transporte rápido e flexível de carga e tropas em vastas distâncias</li>
+    <li>subject_gerund->dominando o transporte aéreo</li>
+  </VVE_Louie.generalRules.rulesStrings>
+
+  <VVE_OffroadJeeps.label>jeeps off-road</VVE_OffroadJeeps.label>
+  <VVE_OffroadJeeps.description>Aprenda a construir jeeps off-road como o Nomad, que podem atravessar qualquer terreno com facilidade. Para pesquisar este projeto, os destroços de um Nomad precisam ser encontrados e restaurados.</VVE_OffroadJeeps.description>
+  <VVE_OffroadJeeps.generalRules.rulesStrings>
+    <li>subject->construção de jeeps off-road</li>
+    <li>subject_story->começou a dominar a arte de construir jeeps off-road versáteis como o Nomad, exigindo a restauração de destroços</li>
+    <li>subject_story->desbloqueou o potencial para explorar e operar em terrenos anteriormente inacessíveis</li>
+    <li>subject_gerund->navegando em paisagens acidentadas</li>
+  </VVE_OffroadJeeps.generalRules.rulesStrings>
+
+  <VVE_RocketArtillery.label>artilharia de foguetes</VVE_RocketArtillery.label>
+  <VVE_RocketArtillery.description>Aprenda a construir sistemas de lançamento múltiplo de foguetes com a capacidade de cobrir uma área inteira com mísseis. Para pesquisar este projeto, os destroços de um Burya precisam ser encontrados e restaurados.</VVE_RocketArtillery.description>
+  <VVE_RocketArtillery.generalRules.rulesStrings>
+    <li>subject->desenvolvimento de artilharia de foguetes</li>
+    <li>subject_story->progrediu para a montagem de sistemas de lançamento múltiplo de foguetes como o Burya, necessitando da reconstrução de destroços</li>
+    <li>subject_story->introduziu capacidades de saturação de área com salvas de mísseis, transformando táticas de negação de área e supressão</li>
+    <li>subject_gerund->concentrando assalto aéreo</li>
+  </VVE_RocketArtillery.generalRules.rulesStrings>
+
+  <VVE_SelfpropelledArtillery.label>artilharia autopropulsada</VVE_SelfpropelledArtillery.label>
+  <VVE_SelfpropelledArtillery.description>Aprenda a construir uma poderosa artilharia autopropulsada, como o famoso Udar, capaz de fazer chover fogo de artilharia sobre os inimigos no mapa local. Para pesquisar este projeto, os destroços de um Udar precisam ser encontrados e restaurados.</VVE_SelfpropelledArtillery.description>
+  <VVE_SelfpropelledArtillery.generalRules.rulesStrings>
+    <li>subject->construção de artilharia autopropulsada</li>
+    <li>subject_story->embarcou na criação do Udar, uma formidável peça de artilharia autopropulsada, após restaurar destroços</li>
+    <li>subject_story->melhorou o suporte no campo de batalha com artilharia móvel capaz de bombardeios precisos de longo alcance em mapas locais</li>
+    <li>subject_gerund->implantando poder de fogo estratégico</li>
+  </VVE_SelfpropelledArtillery.generalRules.rulesStrings>
+
+  <VVE_SiegePods.label>cápsulas de cerco</VVE_SiegePods.label>
+  <VVE_SiegePods.description>Aprenda a construir cápsulas de cerco poderosas que atuam como bases móveis temporárias durante assaltos em território inimigo. Para pesquisar este projeto, os destroços de um Goliath precisam ser encontrados e restaurados.</VVE_SiegePods.description>
+  <VVE_SiegePods.generalRules.rulesStrings>
+    <li>subject->engenharia de cápsulas de cerco</li>
+    <li>subject_story->avançou para a fabricação de cápsulas de cerco para bases de assalto dinâmicas, após o resgate dos destroços de um Goliath</li>
+    <li>subject_story->criou bases móveis que podem ser implantadas durante assaltos, fornecendo suporte logístico e de combate em território inimigo</li>
+    <li>subject_gerund->estabelecendo fortalezas móveis</li>
+  </VVE_SiegePods.generalRules.rulesStrings>
+
+  <VVE_SuperCars.label>supercarros</VVE_SuperCars.label>
+  <VVE_SuperCars.description>Aprenda a construir supercarros velozes e luxuosos como o Lightning. Para pesquisar este projeto, os destroços de um Lightning precisam ser encontrados e restaurados.</VVE_SuperCars.description>
+  <VVE_SuperCars.generalRules.rulesStrings>
+    <li>subject->engenharia de supercarros</li>
+    <li>subject_story->avançou para a criação de veículos que simbolizam velocidade e luxo, começando com a restauração dos destroços de um Lightning</li>
+    <li>subject_story->levou os limites de desempenho e estética ao extremo para criar as máquinas de direção definitivas</li>
+    <li>subject_gerund->moldando velocidade e luxo</li>
+  </VVE_SuperCars.generalRules.rulesStrings>
+
+</LanguageData>
