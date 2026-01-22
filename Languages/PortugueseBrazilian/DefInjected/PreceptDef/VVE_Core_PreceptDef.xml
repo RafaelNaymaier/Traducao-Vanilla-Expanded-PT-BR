@@ -2,13 +2,13 @@
 <LanguageData>
   
   <VVE_Acceleration_High.label>alta</VVE_Acceleration_High.label>
-  <VVE_Acceleration_High.description>Com uma aceleração veloz, avançamos aos saltos, aproveitando o dia com paixão.\n\n<color=#E5E54C>Efeito no jogo:</color>\n - Todos os veículos têm Multiplicador de Velocidade Global: x1.25</VVE_Acceleration_High.description>
+  <VVE_Acceleration_High.description>Com uma aceleração veloz, avançamos aos saltos, aproveitando o dia com paixão.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt;\n - Todos os veículos têm Multiplicador de Velocidade Global: x1.25</VVE_Acceleration_High.description>
   
   <VVE_Acceleration_Standard.label>padrão</VVE_Acceleration_Standard.label>
   <VVE_Acceleration_Standard.description>Nossos veículos se movem com equilíbrio, nem muito rápidos, nem muito lentos.</VVE_Acceleration_Standard.description>
   
   <VVE_Acceleration_SundayDriver.label>motorista de domingo</VVE_Acceleration_SundayDriver.label>
-  <VVE_Acceleration_SundayDriver.description>Um ritmo comedido mantém o mundo em equilíbrio e nos concede tempo para saborear a jornada.\n\n<color=#E5E54C>Efeito no jogo:</color>\n - Todos os veículos têm Multiplicador de Velocidade Global: x0.8</VVE_Acceleration_SundayDriver.description>
+  <VVE_Acceleration_SundayDriver.description>Um ritmo comedido mantém o mundo em equilíbrio e nos concede tempo para saborear a jornada.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt;\n - Todos os veículos têm Multiplicador de Velocidade Global: x0.8</VVE_Acceleration_SundayDriver.description>
 
   <VVE_Driving_Allowed.label>permitido</VVE_Driving_Allowed.label>
   <VVE_Driving_Allowed.description>Navegar pelo mundo em veículos é uma prática aceita em nossa comunidade.</VVE_Driving_Allowed.description>
@@ -53,19 +53,19 @@
   <VVE_Flying_Required.comps.1.thoughtStageDescriptions.3>Aerofilia (20 dias sem voar)</VVE_Flying_Required.comps.1.thoughtStageDescriptions.3>
 
   <VVE_FuelEfficiency_Efficient.label>eficiente</VVE_FuelEfficiency_Efficient.label>
-  <VVE_FuelEfficiency_Efficient.description>Nossos veículos são otimizados para o uso mínimo de combustível.\n\n<color=#E5E54C>Efeito no jogo:</color>\n - Este preceito diminui a Taxa de Consumo de Combustível (se presente) no veículo em 50%.</VVE_FuelEfficiency_Efficient.description>
+  <VVE_FuelEfficiency_Efficient.description>Nossos veículos são otimizados para o uso mínimo de combustível.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt;\n - Este preceito diminui a Taxa de Consumo de Combustível (se presente) no veículo em 50%.</VVE_FuelEfficiency_Efficient.description>
   
   <VVE_FuelEfficiency_Inefficient.label>ineficiente</VVE_FuelEfficiency_Inefficient.label>
-  <VVE_FuelEfficiency_Inefficient.description>Nossos veículos têm um apetite maior por combustível.\n\n<color=#E5E54C>Efeito no jogo:</color>\n - Este preceito aumenta a Taxa de Consumo de Combustível (se presente) no veículo em 50%.</VVE_FuelEfficiency_Inefficient.description>
+  <VVE_FuelEfficiency_Inefficient.description>Nossos veículos têm um apetite maior por combustível.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt;\n - Este preceito aumenta a Taxa de Consumo de Combustível (se presente) no veículo em 50%.</VVE_FuelEfficiency_Inefficient.description>
   
   <VVE_FuelEfficiency_Standard.label>padrão</VVE_FuelEfficiency_Standard.label>
   <VVE_FuelEfficiency_Standard.description>Nosso consumo de combustível permanece tradicional.</VVE_FuelEfficiency_Standard.description>
 
   <VVE_ImpactDamage_High.label>alto</VVE_ImpactDamage_High.label>
-  <VVE_ImpactDamage_High.description>Em nossa crença, o poder de um veículo é verdadeiramente sentido em seu impacto formidável.\n\n<color=#E5E54C>Efeito no jogo:</color>\n - O dano causado ao atropelar pessoas é multiplicado adicionalmente por x1.25</VVE_ImpactDamage_High.description>
+  <VVE_ImpactDamage_High.description>Em nossa crença, o poder de um veículo é verdadeiramente sentido em seu impacto formidável.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt;\n - O dano causado ao atropelar pessoas é multiplicado adicionalmente por x1.25</VVE_ImpactDamage_High.description>
 
   <VVE_MaxSpeed_Increased.label>aumentada</VVE_MaxSpeed_Increased.label>
-  <VVE_MaxSpeed_Increased.description>Valorizamos veículos que transcendem os limites tradicionais.\n\n<color=#E5E54C>Efeito no jogo:</color>\n - A velocidade máxima dos veículos é aumentada por um multiplicador de x1.2.</VVE_MaxSpeed_Increased.description>
+  <VVE_MaxSpeed_Increased.description>Valorizamos veículos que transcendem os limites tradicionais.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt;\n - A velocidade máxima dos veículos é aumentada por um multiplicador de x1.2.</VVE_MaxSpeed_Increased.description>
 
   <VVE_Sailing_Allowed.label>permitido</VVE_Sailing_Allowed.label>
   <VVE_Sailing_Allowed.description>Os oceanos e rios são caminhos que nos é permitido trilhar, desde que respeitemos suas profundezas.</VVE_Sailing_Allowed.description>
@@ -89,15 +89,15 @@
   <VVE_Sailing_Required.comps.1.thoughtStageDescriptions.3>Canto da sereia (20 dias sem navegar)</VVE_Sailing_Required.comps.1.thoughtStageDescriptions.3>
 
   <VVE_SmallSpaces_Horrible.label>horrível</VVE_SmallSpaces_Horrible.label>
-  <VVE_SmallSpaces_Horrible.description>Estar em locais apertados é uma afronta às nossas liberdades.\n\n<color=#E5E54C>Efeito no jogo:</color>\n - Dobra os pensamentos negativos sobre espaços pequenos. Pensamentos positivos sobre áreas espaçosas não são afetados.</VVE_SmallSpaces_Horrible.description>
+  <VVE_SmallSpaces_Horrible.description>Estar em locais apertados é uma afronta às nossas liberdades.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt;\n - Dobra os pensamentos negativos sobre espaços pequenos. Pensamentos positivos sobre áreas espaçosas não são afetados.</VVE_SmallSpaces_Horrible.description>
 
   <VVE_VehicleRepairs_Fast.label>rápido</VVE_VehicleRepairs_Fast.label>
-  <VVE_VehicleRepairs_Fast.description>Consertamos com urgência, compreendendo o papel vital que nossos veículos desempenham em nossas vidas.\n\n<color=#E5E54C>Efeito no jogo:</color>\n - Adiciona +1 ao Limite de Trabalho de Reparo em um veículo (desde que "Múltiplos peões por trabalho" esteja ativo nas configurações do Mod).</VVE_VehicleRepairs_Fast.description>
+  <VVE_VehicleRepairs_Fast.description>Consertamos com urgência, compreendendo o papel vital que nossos veículos desempenham em nossas vidas.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt;\n - Adiciona +1 ao Limite de Trabalho de Reparo em um veículo (desde que "Múltiplos colonos por trabalho" esteja ativo nas configurações do Mod).</VVE_VehicleRepairs_Fast.description>
   
   <VVE_VehicleRepairs_Slow.label>lento</VVE_VehicleRepairs_Slow.label>
   <VVE_VehicleRepairs_Slow.description>Os reparos são um ritual cuidadoso, não para serem apressados, mas para serem realizados com reverência.</VVE_VehicleRepairs_Slow.description>
   
   <VVE_VehicleRepairs_Standard.label>padrão</VVE_VehicleRepairs_Standard.label>
-  <VVE_VehicleRepairs_Standard.description>Nossa abordagem aos reparos é equilibrada, garantindo que os veículos sejam restaurados ao seu estado de direito.</VVE_VehicleRepairs_Standard.description>
+  <VVE_VehicleRepairs_Standard.description>Nossa abordagem aos reparos é equilibrada, garantindo que os veículos sejam restaurados ao seu estado original.</VVE_VehicleRepairs_Standard.description>
   
 </LanguageData>
