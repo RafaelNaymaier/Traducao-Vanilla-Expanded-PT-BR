@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VFESecurity.Submerged>submerso</VFESecurity.Submerged>
+
+  <VFESecurity.WorldTileRange>Alcance de blocos mundiais</VFESecurity.WorldTileRange>
+
+  <VFESecurity.TargetWorldTile>Alvejar bloco mundial</VFESecurity.TargetWorldTile>
+  <VFESecurity.TargetWorldTile_Description>Selecione um bloco no mundo para este {0} disparar.</VFESecurity.TargetWorldTile_Description>
+  <VFESecurity.TargetWorldTile_DescriptionShort>Selecione um bloco no mundo para disparar.</VFESecurity.TargetWorldTile_DescriptionShort>
+  <VFESecurity.CommandTargetTileFailNoArtillery>Este {0} não possui nenhuma artilharia adequada.</VFESecurity.CommandTargetTileFailNoArtillery>
+
+  <VFESecurity.TargetWorldTileOutOfRange>O bloco está fora de alcance.</VFESecurity.TargetWorldTileOutOfRange>
+  <VFESecurity.TargetMap>Mapa alvo</VFESecurity.TargetMap>
+  <VFESecurity.TargetPeaceTalks>Alvejar negociações de paz</VFESecurity.TargetPeaceTalks>
+  <VFESecurity.TargetSettlement>Alvejar assentamento</VFESecurity.TargetSettlement>
+  <VFESecurity.TargetOutpost>Alvejar posto avançado</VFESecurity.TargetOutpost>
+  <VFESecurity.TargetSite>Alvejar local</VFESecurity.TargetSite>
+  <VFESecurity.TargetWorldTileEmpty>Alvejar área (não terá efeito)</VFESecurity.TargetWorldTileEmpty>
+  <VFESecurity.TargetWorldFlyingObject>Não é possível alvejar objetos voadores.</VFESecurity.TargetWorldFlyingObject>
+  <VFESecurity.TargetWorldTileSameTile>Não é possível alvejar o mesmo bloco.</VFESecurity.TargetWorldTileSameTile>
+
+  <VFESecurity.MessageTargetWorldTileInvalid>A área alvejada é inválida.</VFESecurity.MessageTargetWorldTileInvalid>
+  <VFESecurity.Settlement>assentamento</VFESecurity.Settlement>
+  <VFESecurity.MessageTargetWorldTileOutOfRange>A área alvejada está fora do alcance do {0}.</VFESecurity.MessageTargetWorldTileOutOfRange>
+
+  <VFESecurity.GoodwillChangedReason_ArtilleryStrike>atacado por artilharia</VFESecurity.GoodwillChangedReason_ArtilleryStrike>
+  <VFESecurity.Message_ArtilleryBombardmentEnded>Os {0} de {1} pararam de bombardear seus assentamentos.</VFESecurity.Message_ArtilleryBombardmentEnded>
+
+  <VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>{0} Provocado</VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>
+  <VFESecurity.ArtilleryStrikePeaceTalks_LetterText>Ao enviar um ataque de artilharia contra o grupo de negociações de paz, as relações entre você e {0} azedaram. Eles podem enviar um grupo de invasão em retaliação.</VFESecurity.ArtilleryStrikePeaceTalks_LetterText>
+
+  <VFESecurity.ArtilleryStrikeSettlement_Letter>Retaliação de artilharia</VFESecurity.ArtilleryStrikeSettlement_Letter>
+  <VFESecurity.ArtilleryStrikeSettlement_LetterText>Devido à sua provocação via ataque de artilharia, os {0} em {1} decidiram retribuir o fogo contra seus assentamentos usando sua própria artilharia!\n\nEste bombardeio continuará por alguns dias, ou até que você destrua o assentamento deles.</VFESecurity.ArtilleryStrikeSettlement_LetterText>
+
+  <VFESecurity.LetterFactionBaseDefeatedStrike>A base inimiga {0} foi destruída.</VFESecurity.LetterFactionBaseDefeatedStrike>
+
+  <VFESecurity.PsychicPylonExposure>Exposição ao pilar psíquico</VFESecurity.PsychicPylonExposure>
+
+  <VFESecurity.AmmoCrate>Caixa de munição</VFESecurity.AmmoCrate>
+
+  <VFESecurity.Armed>Armada</VFESecurity.Armed>
+  <VFESecurity.NeedsRearming>Necessita rearmamento</VFESecurity.NeedsRearming>
+  <VFESecurity.DesignatorRearmTraps>Rearmar</VFESecurity.DesignatorRearmTraps>
+  <VFESecurity.DesignatorRearmTraps_Description>Marca armadilhas desarmadas para serem rearmadas pelos seus colonos.</VFES_RearmTraps_Description>
+  <VFESecurity.MessageMustDesignateRearmables>Você deve designar armadilhas rearmáveis que estejam desarmadas.</VFESecurity.MessageMustDesignateRearmables>
+  <VFESecurity.ArtileryHitMessage>Um projétil de artilharia atingiu o local {0}. ({1} de destruição).</VFESecurity.ArtileryHitMessage>
+  <VFESecurity.ArtileryDestruction>{0} de destruição por artilharia</VFESecurity.ArtileryDestruction>
+  <VFESecurity.ArtileryHitDestroyedMessage>Um projétil de artilharia destruiu o local {0}.</VFESecurity.ArtileryHitDestroyedMessage>
+
+</LanguageData>

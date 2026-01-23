@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFES_Gun_PointDefense.label>arma de defesa de ponto</VFES_Gun_PointDefense.label>
+  <VFES_Gun_PointDefense.description>Uma arma de tiro rápido para aplicações de defesa de proximidade.</VFES_Gun_PointDefense.description>
+  <VFES_Gun_PointDefense.verbs.Verb_Shoot.label>arma de defesa de ponto</VFES_Gun_PointDefense.verbs.Verb_Shoot.label>
+  
+  <VFES_Turret_AntiAir.label>torreta antiaérea</VFES_Turret_AntiAir.label>
+  <VFES_Turret_AntiAir.description>Uma torreta defensiva especializada que intercepta projéteis explosivos e cápsulas de transporte dentro do seu raio de proteção, mas não pode atacar alvos terrestres. A chance de interceptação aumenta de acordo com a velocidade do alvo. Requer aço para recondicionar seus canos após uso intenso.</VFES_Turret_AntiAir.description>
+  <VFES_Turret_AntiAir.comps.CompRefuelable.fuelGizmoLabel>Munição</VFES_Turret_AntiAir.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_AntiAir.comps.CompRefuelable.fuelLabel>Munição</VFES_Turret_AntiAir.comps.CompRefuelable.fuelLabel>
+
+  <Gun_AutomatedMortar.label>morteiro automatizado</Gun_AutomatedMortar.label>
+  <Gun_AutomatedMortar.verbs.Verb_Shoot.label>morteiro automatizado</Gun_AutomatedMortar.verbs.Verb_Shoot.label>
+  
+  <VFES_Artillery_ArtilleryGun.label>peça de artilharia</VFES_Artillery_ArtilleryGun.label>
+  <VFES_Artillery_ArtilleryGun.description>Uma peça de artilharia capaz de lançar projéteis por cima de paredes. Possui longo alcance e boa precisão.</VFES_Artillery_ArtilleryGun.description>
+  <VFES_Artillery_ArtilleryGun.verbs.Verb_ShootWithWorldTargeting.label>peça de artilharia</VFES_Artillery_ArtilleryGun.verbs.Verb_ShootWithWorldTargeting.label>
+
+  
+  <VFES_Turret_Artillery.label>artilharia</VFES_Turret_Artillery.label>
+  <VFES_Turret_Artillery.description>Um poderoso canhão de artilharia operado, projetado para bombardeios de longo alcance. Embora dispare mais lentamente que um morteiro, seus sistemas de mira aprimorados permitem uma precisão muito maior, tornando-o ideal para ataques precisos contra estruturas inimigas ou alvos de alto valor. Pode ser operado por duas pessoas para dobrar sua velocidade de disparo. Capaz de fornecer suporte de fogo em todo o mapa mundial, mas apenas em locais revelados.</VFES_Turret_Artillery.description>
+  <VFES_Turret_Artillery.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_Artillery.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_Artillery.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_Artillery.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_Artillery.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano reforçado</VFES_Turret_Artillery.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Turret_AutomatedMortar.label>morteiro automatizado</VFES_Turret_AutomatedMortar.label>
+  <VFES_Turret_AutomatedMortar.description>Um morteiro automatizado que dispara granadas altamente explosivas. Embora possa causar danos devastadores, a imprecisão inerente do morteiro o torna mais útil para atacar grandes fortificações do que grupos de inimigos no campo. Devido a um mecanismo de disparo delicado, ele só é calibrado para disparar granadas de alto explosivo.</VFES_Turret_AutomatedMortar.description>
+  <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.fuelGizmoLabel>
+  <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.fuelLabel>Disparos até a troca do cano</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.fuelLabel>
+  <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.outOfFuelMessage>Necessita de novo cano reforçado</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.outOfFuelMessage>
+  <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.outOfSecondaryFuelMessage>Sem granadas</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.outOfSecondaryFuelMessage>
+  <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.secondaryFuelGizmoLabel>Granadas carregadas</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.secondaryFuelGizmoLabel>
+  <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.secondaryFuelLabel>Munição</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.secondaryFuelLabel>
+
+  <VFES_Complex_HeavyIncineratorComplex.label>complexo de incinerador pesado</VFES_Complex_HeavyIncineratorComplex.label>
+  <VFES_Complex_HeavyIncineratorComplex.description>Um incinerador pesado montado em uma barricada para fornecer cobertura. Precisa ser operado por um colono para disparar. É equipado com um poderoso mega-queimador que requer bioferrita para recarregar.</VFES_Complex_HeavyIncineratorComplex.description>
+  <VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelGizmoLabel>Bioferrita restante</VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelLabel>Bioferrita restante</VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelLabel>
+  <VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.outOfFuelMessage>Necessita de bioferrita</VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_ComplexHeavyIncinerator_Top.label>incinerador pesado</VFES_ComplexHeavyIncinerator_Top.label>
+  <VFES_ComplexHeavyIncinerator_Top.description>Um incinerador pesado projetado para ser acoplado a uma torre.</VFES_ComplexHeavyIncinerator_Top.description>
+  <VFES_ComplexHeavyIncinerator_Top.verbs.Verb_BurnerFireSpew.label>incinerador pesado</VFES_ComplexHeavyIncinerator_Top.verbs.Verb_BurnerFireSpew.label>
+
+  <VFES_Bullet_ConcealedTurret.label>projétil de mini-torreta oculta</VFES_Bullet_ConcealedTurret.label>
+  
+  <VFES_ConcealedBarrier.label>barreira oculta</VFES_ConcealedBarrier.label>
+  <VFES_ConcealedBarrier.description>Uma barreira retrátil na altura da cintura para ser usada como cobertura contra disparos. Oferece uma cobertura forte quando ativada e é quase invisível quando submersa. As barricadas bloqueiam certos tipos de animais da mesma forma que cercas fazem. Requer energia.</VFES_ConcealedBarrier.description>
+  
+  <VFES_Gun_ConcealedTurret.label>metralhadora de mini-torreta oculta</VFES_Gun_ConcealedTurret.label>
+  <VFES_Gun_ConcealedTurret.description>Uma arma automática simples feita para ser montada em uma torre.</VFES_Gun_ConcealedTurret.description>
+  <VFES_Gun_ConcealedTurret.verbs.Verb_Shoot.label>metralhadora de mini-torreta oculta</VFES_Gun_ConcealedTurret.verbs.Verb_Shoot.label>
+  
+  <VFES_Turret_Concealed.label>mini-torreta oculta</VFES_Turret_Concealed.label>
+  <VFES_Turret_Concealed.description>Uma mini-torreta automática compacta equipada com placas de blindagem retráteis e um mecanismo de submersão. É capaz de submergir no solo, tornando-se impossível de ser visada. Requer aço para recondicionar seu cano após uso intenso. Pode explodir quando danificada. Sua IA rudimentar não pode ser controlada diretamente, portanto, cuidado com o fogo amigo.</VFES_Turret_Concealed.description>
+  <VFES_Turret_Concealed.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_Concealed.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_Concealed.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_Concealed.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_Concealed.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Turret_Concealed.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_Complex_GraserCannon.label>complexo de canhão graser</VFES_Complex_GraserCannon.label>
+  <VFES_Complex_GraserCannon.description>Um devastador laser de raios gama montado em uma barricada para fornecer cobertura. Ele dispara um feixe de varredura capaz de perfurar armaduras e incendiar alvos. Precisa ser operado por um colono para disparar. Requer plastiaço para recondicionar sua matriz emissora após uso intenso.</VFES_Complex_GraserCannon.description>
+  <VFES_Complex_GraserCannon.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do emissor</VFES_Complex_GraserCannon.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Complex_GraserCannon.comps.CompRefuelable.fuelLabel>Disparos até a troca do emissor</VFES_Complex_GraserCannon.comps.CompRefuelable.fuelLabel>
+  <VFES_Complex_GraserCannon.comps.CompRefuelable.outOfFuelMessage>Necessita de novo emissor</VFES_Complex_GraserCannon.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_ComplexGraserCannon_Top.label>canhão graser</VFES_ComplexGraserCannon_Top.label>
+  <VFES_ComplexGraserCannon_Top.description>Um canhão graser projetado para ser acoplado a uma torre.</VFES_ComplexGraserCannon_Top.description>
+  <VFES_ComplexGraserCannon_Top.verbs.Verb_ShootBeam.label>canhão graser</VFES_ComplexGraserCannon_Top.verbs.Verb_ShootBeam.label>
+  
+  <VFES_Mote_WideGraserBeamBase.label>Partícula</VFES_Mote_WideGraserBeamBase.label>
+
+  <VFES_LargeRepulsor.label>repulsor grande</VFES_LargeRepulsor.label>
+  <VFES_LargeRepulsor.description>Um grande dispositivo ultratecnológico que projeta um campo de energia extremamente vasto ao seu redor para proteger tudo o que estiver dentro, mas consome uma enorme quantidade de energia quando ativo. Funciona através de paredes.\n\nOs repulsores só são ativados quando há uma ameaça ativa presente, como uma invasão ou bombardeio de artilharia. Caso contrário, permanecem em estado inativo e consomem muito menos energia.\n\nPode incendiar a área circundante se dano suficiente for absorvido em um curto período de tempo.</VFES_LargeRepulsor.description>
+  
+  <VFES_SmallRepulsor.label>repulsor pequeno</VFES_SmallRepulsor.label>
+  <VFES_SmallRepulsor.description>Um dispositivo ultratecnológico que projeta um potente campo de energia ao seu redor para proteger tudo o que estiver dentro, mas consome uma enorme quantidade de energia quando ativo. Funciona através de paredes.\n\nOs repulsores só são ativados quando há uma ameaça ativa presente, como uma invasão ou bombardeio de artilharia. Caso contrário, permanecem em estado inativo e consomem muito menos energia.\n\nPode incendiar a área circundante se dano suficiente for absorvido em um curto período de tempo.</VFES_SmallRepulsor.description>
+
+  <VEFS_TrapLandmine.label>mina terrestre</VEFS_TrapLandmine.label>
+  <VEFS_TrapLandmine.description>Uma carga explosiva sofisticada conectada a um gatilho de placa de pressão que detona imediatamente ao ser tocada. Por estar escondida no terreno ao redor, não pode ser colocada adjacente a outras armadilhas. Animais podem senti-las quando estão calmos.</VEFS_TrapLandmine.description>
+  
+  <VEFS_TrapShockmine.label>mina de choque</VEFS_TrapShockmine.label>
+  <VEFS_TrapShockmine.description>Uma armadilha de alta tecnologia oculta que libera um pulso EMP localizado quando ativada. Ela se redefine automaticamente após um curto período de recarga. Por estar escondida no terreno ao redor, não pode ser colocada adjacente a outras armadilhas. Animais podem senti-las quando estão calmos.</VEFS_TrapShockmine.description>
+  
+  <VFES_BearTrap.label>armadilha de urso</VFES_BearTrap.label>
+  <VFES_BearTrap.description>Duas mandíbulas de metal pesado mantidas abertas sob tensão, conectadas a um gatilho sensível à pressão. Quando pisada, as mandíbulas se fecham com grande força, causando danos graves. Por estar escondida no terreno ao redor, não pode ser colocada adjacente a outras armadilhas. Quando ativada, pode ser rearmada.</VFES_BearTrap.description>
+  
+  <VFES_CavalrySpikes.label>espetos de cavalaria</VFES_CavalrySpikes.label>
+  <VFES_CavalrySpikes.description>Uma fileira de espetos afiados posicionados rente ao chão. Projetada para mutilar ou aleijar aqueles que tentam avançar em alta velocidade, especialmente animais velozes ou unidades montadas. Pode ser colocada ao lado de outros espetos de cavalaria. Após a ativação, os espetos precisam ser reconstruídos.</VFES_CavalrySpikes.description>
+
+
+  <VFES_AmmoCrate.label>caixa de munição</VFES_AmmoCrate.label>
+  <VFES_AmmoCrate.description>Uma pequena caixa de munição que melhora a velocidade de recarga de todos por perto. Explodirá se for danificada.</VFES_AmmoCrate.description>
+  
+  <VFES_BarbedWire.label>arame farpado</VFES_BarbedWire.label>
+  <VFES_BarbedWire.description>Uma cerca de arame farpado composta por bordas e pontas afiadas dispostas em intervalos. Além de retardar o movimento dos inimigos, também causa cortes e ferimentos perfurantes. O arame farpado bloqueia certos tipos de animais da mesma forma que as cercas fazem.</VFES_BarbedWire.description>
+  
+  <VFES_Dugout.label>vala defensiva</VFES_Dugout.label>
+  <VFES_Dugout.description>Um fosso longo e estreito cavado no chão. Atravessá-lo exige subir e descer, portanto, reduz significativamente a velocidade de movimento. Pessoas dentro da vala sofrem uma penalidade no alcance das armas, mas ganham cobertura significativa e proteção contra danos explosivos.</VFES_Dugout.description>
+  
+  <VFES_Platform.label>plataforma</VFES_Platform.label>
+  <VFES_Platform.description>Uma plataforma longa e estreita. Atravessá-la exige subir e descer, portanto, reduz significativamente a velocidade de movimento. Pessoas na plataforma recebem um bônus no alcance das armas, mas sofrem com uma cobertura menor.</VFES_Platform.description>
+  
+  <VFES_Trench.label>trincheira</VFES_Trench.label>
+  <VFES_Trench.description>Uma trincheira longa, reforçada e resistente a danos. Atravessá-la exige subir e descer, portanto, reduz significativamente a velocidade de movimento. Pessoas dentro da trincheira sofrem uma penalidade no alcance das armas, mas ganham cobertura significativa e proteção contra danos explosivos.</VFES_Trench.description>
+
+  <Bullet_TeslaBlaster.label>disparo de canhão tesla</Bullet_TeslaBlaster.label>
+  
+  <Gun_TeslaBlaster.label>canhão tesla</Gun_TeslaBlaster.label>
+  <Gun_TeslaBlaster.description>Uma arma elétrica especializada projetada para ser instalada em uma torre.</Gun_TeslaBlaster.description>
+  <Gun_TeslaBlaster.verbs.Verb_Shoot.label>canhão tesla</Gun_TeslaBlaster.verbs.Verb_Shoot.label>
+  
+  <VFES_Artillery_Catapult.label>catapulta</VFES_Artillery_Catapult.label>
+  <VFES_Artillery_Catapult.description>Um dispositivo balístico usado para lançar um projétil a uma grande distância sem o auxílio de pólvora ou outros propelentes.</VFES_Artillery_Catapult.description>
+  <VFES_Artillery_Catapult.verbs.Verb_Shoot.label>catapulta</VFES_Artillery_Catapult.verbs.Verb_Shoot.label>
+  
+  <VFES_Bullet_Ballista.label>virote de balista</VFES_Bullet_Ballista.label>
+  
+  <VFES_Bullet_Catapult.label>pedregulho maciço</VFES_Bullet_Catapult.label>
+  
+  <VFES_Bullet_ChargeComplex.label>tiro de carga</VFES_Bullet_ChargeComplex.label>
+  
+  <VFES_Bullet_ChargeRailgunShot.label>tiro de canhão eletromagnético</VFES_Bullet_ChargeRailgunShot.label>
+  
+  <VFES_Bullet_ChargeTurretShot.label>tiro de carga</VFES_Bullet_ChargeTurretShot.label>
+  
+  <VFES_Bullet_FlameTurret.label>tiro de lança-chamas</VFES_Bullet_FlameTurret.label>
+  
+  <VFES_Bullet_HMG.label>projétil de metralhadora pesada</VFES_Bullet_HMG.label>
+  
+  <VFES_Complex_Charge.label>complexo de carga</VFES_Complex_Charge.label>
+  <VFES_Complex_Charge.description>Um canhão pesado de tiro rápido com carga de pulso montado em uma barricada para fornecer cobertura. Precisa ser operado por um colono para disparar. Requer plastiaço para recondicionar seu cano após uso intenso.</VFES_Complex_Charge.description>
+  <VFES_Complex_Charge.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Complex_Charge.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Complex_Charge.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Complex_Charge.comps.CompRefuelable.fuelLabel>
+  <VFES_Complex_Charge.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Complex_Charge.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Complex_Hmg.label>complexo de metralhadora pesada</VFES_Complex_Hmg.label>
+  <VFES_Complex_Hmg.description>Uma metralhadora pesada montada sobre sacos de areia para fornecer cobertura. Precisa ser operada por um colono para disparar. Requer aço para recondicionar seu cano após uso intenso.</VFES_Complex_Hmg.description>
+  <VFES_Complex_Hmg.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Complex_Hmg.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Complex_Hmg.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Complex_Hmg.comps.CompRefuelable.fuelLabel>
+  <VFES_Complex_Hmg.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Complex_Hmg.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Complex_Minigun.label>complexo de minigun</VFES_Complex_Minigun.label>
+  <VFES_Complex_Minigun.description>Uma metralhadora de vários canos montada sobre sacos de areia para garantir cobertura e estabilidade. Enquanto a maioria das armas autocarregáveis é alimentada pela energia da pólvora, a minigun usa um motor elétrico para ciclar cartuchos rapidamente através da arma. Precisa ser operada por um colono para disparar. Requer aço para recondicionar seus canos após uso intenso.</VFES_Complex_Minigun.description>
+  <VFES_Complex_Minigun.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Complex_Minigun.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Complex_Minigun.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Complex_Minigun.comps.CompRefuelable.fuelLabel>
+  <VFES_Complex_Minigun.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Complex_Minigun.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_ComplexCharge_Top.label>minigun</VFES_ComplexCharge_Top.label>
+  <VFES_ComplexCharge_Top.description>Uma minigun autocarregável projetada para ser acoplada a uma torre.</VFES_ComplexCharge_Top.description>
+  <VFES_ComplexCharge_Top.verbs.Verb_Shoot.label>minigun</VFES_ComplexCharge_Top.verbs.Verb_Shoot.label>
+  
+  <VFES_ComplexHmg_Top.label>MP</VFES_ComplexHmg_Top.label>
+  <VFES_ComplexHmg_Top.description>Uma metralhadora pesada autocarregável projetada para ser acoplada a uma torre.</VFES_ComplexHmg_Top.description>
+  <VFES_ComplexHmg_Top.verbs.Verb_Shoot.label>MP</VFES_ComplexHmg_Top.verbs.Verb_Shoot.label>
+  
+  <VFES_ComplexMinigun_Top.label>minigun</VFES_ComplexMinigun_Top.label>
+  <VFES_ComplexMinigun_Top.description>Uma minigun autocarregável projetada para ser acoplada a uma torre.</VFES_ComplexMinigun_Top.description>
+  <VFES_ComplexMinigun_Top.verbs.Verb_Shoot.label>minigun</VFES_ComplexMinigun_Top.verbs.Verb_Shoot.label>
+  
+  <VFES_Gun_ArmoredTurret.label>arma de mini-torreta militar</VFES_Gun_ArmoredTurret.label>
+  <VFES_Gun_ArmoredTurret.description>Uma arma automática refinada feita para ser montada em uma torre.</VFES_Gun_ArmoredTurret.description>
+  <VFES_Gun_ArmoredTurret.verbs.Verb_Shoot.label>arma de mini-torreta militar</VFES_Gun_ArmoredTurret.verbs.Verb_Shoot.label>
+  
+  <VFES_Gun_BallistaTurret.label>balista</VFES_Gun_BallistaTurret.label>
+  <VFES_Gun_BallistaTurret.description>Um antigo engenho de cerco militar na forma de uma besta montada em uma estrutura de madeira.</VFES_Gun_BallistaTurret.description>
+  <VFES_Gun_BallistaTurret.verbs.Verb_Shoot.label>balista</VFES_Gun_BallistaTurret.verbs.Verb_Shoot.label>
+  
+  <VFES_Gun_ChargeTurret.label>arma de mini-torreta de carga</VFES_Gun_ChargeTurret.label>
+  <VFES_Gun_ChargeTurret.description>Um fuzil de carga feito para ser montado em uma torre.</VFES_Gun_ChargeTurret.description>
+  <VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>arma de mini-torreta de carga</VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>
+  
+  <VFES_Gun_FlameTurret.label>arma de mini-torreta de chamas</VFES_Gun_FlameTurret.label>
+  <VFES_Gun_FlameTurret.description>Um lança-chamas feito para ser montado em uma torre.</VFES_Gun_FlameTurret.description>
+  <VFES_Gun_FlameTurret.verbs.Verb_Shoot.label>arma de mini-torreta de chamas</VFES_Gun_FlameTurret.verbs.Verb_Shoot.label>
+  
+  <VFES_Gun_MilitaryTurret.label>arma de mini-torreta militar</VFES_Gun_MilitaryTurret.label>
+  <VFES_Gun_MilitaryTurret.description>Uma arma automática refinada feita para ser montada em uma torre.</VFES_Gun_MilitaryTurret.description>
+  <VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>arma de mini-torreta militar</VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>
+  
+  <VFES_Gun_RailgunTurret.label>arma de torreta de canhão eletromagnético</VFES_Gun_RailgunTurret.label>
+  <VFES_Gun_RailgunTurret.description>Um canhão eletromagnético avançado projetado para lançar projéteis acelerados eletromagneticamente.</VFES_Gun_RailgunTurret.description>
+  <VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>arma de torreta de canhão eletromagnético</VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>
+  
+  <VFES_Gun_Searchlight.label>projetor de luz</VFES_Gun_Searchlight.label>
+  <VFES_Gun_Searchlight.description>Um holofote para uma torre.</VFES_Gun_Searchlight.description>
+  <VFES_Gun_Searchlight.verbs.Verb_Dazzle.label>ofuscar</VFES_Gun_Searchlight.verbs.Verb_Dazzle.label>
+  
+  <VFES_Gun_ShotgunTurret.label>arma de mini-torreta de escopeta</VFES_Gun_ShotgunTurret.label>
+  <VFES_Gun_ShotgunTurret.description>Uma escopeta automática feita para ser montada em uma torre.</VFES_Gun_ShotgunTurret.description>
+  <VFES_Gun_ShotgunTurret.verbs.Verb_Shoot.label>arma de mini-torreta de escopeta</VFES_Gun_ShotgunTurret.verbs.Verb_Shoot.label>
+  
+  <VFES_Turret_ArmoredTurret.label>mini-torreta blindada</VFES_Turret_ArmoredTurret.label>
+  <VFES_Turret_ArmoredTurret.description>Uma mini-torreta automática blindada e portátil. Requer aço para recondicionar seu cano após uso intenso. A blindagem extra permite que a mini-torreta forneça alguma cobertura, tornando-a mais resistente ao fogo inimigo e evitando explosões em caso de danos graves. Sua IA rudimentar não pode ser controlada diretamente, portanto, cuidado com o fogo amigo.</VFES_Turret_ArmoredTurret.description>
+  <VFES_Turret_ArmoredTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_ArmoredTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_ArmoredTurret.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_ArmoredTurret.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_ArmoredTurret.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Turret_ArmoredTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Turret_AutocannonDouble.label>torreta de canhão duplo</VFES_Turret_AutocannonDouble.label>
+  <VFES_Turret_AutocannonDouble.description>Uma variante de cano duplo da torreta de canhão. Embora seja menos precisa e tenha um alcance ligeiramente menor que sua prima de cano único, ela compensa com um alto volume de fogo. Não pode disparar em alvos próximos e pode explodir quando danificada.</VFES_Turret_AutocannonDouble.description>
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Turret_AutocannonDouble.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Turret_Ballista.label>balista</VFES_Turret_Ballista.label>
+  <VFES_Turret_Ballista.description>Um antigo engenho de cerco militar na forma de uma besta montada em uma estrutura de madeira. Os virotes disparados por esta máquina explodem em lascas no impacto. Precisa ser operada por um colono para disparar.</VFES_Turret_Ballista.description>
+  <VFES_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>Virotes de balista</VFES_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_Ballista.comps.CompRefuelable.fuelLabel>Virotes de balista</VFES_Turret_Ballista.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>Necessita de virotes de balista</VFES_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Turret_Catapult.label>catapulta</VFES_Turret_Catapult.label>
+  <VFES_Turret_Catapult.description>Um dispositivo balístico usado para lançar um projétil a uma grande distância sem o auxílio de pólvora ou outros propelentes. Em uso desde os tempos antigos, a catapulta provou ser um dos mecanismos mais persistentemente eficazes na guerra.</VFES_Turret_Catapult.description>
+  
+  <VFES_Turret_ChargeRailgun.label>canhão eletromagnético</VFES_Turret_ChargeRailgun.label>
+  <VFES_Turret_ChargeRailgun.description>Um sistema de arma de ponta, assistido por trilhos e carregado por pulso que dispara uma curta rajada de projéteis de alta velocidade, energizados com plasma instável ao saírem do trilho. Os tiros resultantes perfuram armaduras e corpos igualmente, mas a torreta requer um novo cano de plastiaço após o uso. Não pode disparar a curta distância e pode explodir quando danificada.</VFES_Turret_ChargeRailgun.description>
+  <VFES_Turret_ChargeRailgun.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_ChargeRailgun.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_ChargeRailgun.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_ChargeRailgun.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_ChargeRailgun.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Turret_ChargeRailgun.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Turret_ChargeTurret.label>mini-torreta de carga</VFES_Turret_ChargeTurret.label>
+  <VFES_Turret_ChargeTurret.description>Uma mini-torreta automática portátil de tiros de carga. A tecnologia de carga de pulso carrega cada tiro com energia instável conforme ele sai do cano. Requer plastiaço para recondicionar seu cano após uso intenso. Pode explodir quando danificada. Sua IA rudimentar não pode ser controlada diretamente, portanto, cuidado com o fogo amigo.</VFES_Turret_ChargeTurret.description>
+  <VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_ChargeTurret.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Turret_ChargeTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Turret_Flame.label>mini-torreta de chamas</VFES_Turret_Flame.label>
+  <VFES_Turret_Flame.description>Uma mini-torreta lança-chamas portátil, capaz de expelir um cone de chamas que envolve inimigos e o terreno. Pode explodir quando danificada. Sua IA rudimentar não pode ser controlada diretamente, portanto, cuidado com o fogo amigo.</VFES_Turret_Flame.description>
+  <VFES_Turret_Flame.comps.CompRefuelable.fuelGizmoLabel>Combustível restante</VFES_Turret_Flame.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>Combustível restante</VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>Necessita de combustível químico</VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Turret_MilitaryTurret.label>mini-torreta militar</VFES_Turret_MilitaryTurret.label>
+  <VFES_Turret_MilitaryTurret.description>Uma mini-torreta refinada com estabilização de grau militar, rotinas de mira e carcaça endurecida. Requer aço para recondicionar seu cano após uso intenso. Pode explodir quando danificada. Sua IA rudimentar não pode ser controlada diretamente, portanto, cuidado com o fogo amigo.</VFES_Turret_MilitaryTurret.description>
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Turret_Minigun.label>torreta minigun</VFES_Turret_Minigun.label>
+  <VFES_Turret_Minigun.description>Uma torreta automática pesada. Seu mecanismo de vários canos libera fogo sustentado em alta velocidade, retalhando alvos levemente blindados a médio alcance. Pode explodir quando danificada. Requer aço para recondicionar seus canos após uso intenso.</VFES_Turret_Minigun.description>
+  <VFES_Turret_Minigun.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_Minigun.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_Minigun.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_Minigun.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_Minigun.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Turret_Minigun.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Turret_Searchlight.label>holofote</VFES_Turret_Searchlight.label>
+  <VFES_Turret_Searchlight.description>Um aparato que combina uma lâmpada extremamente luminosa e um refletor parabólico espelhado, útil para iluminar e ofuscar alvos.</VFES_Turret_Searchlight.description>
+  
+  <VFES_Turret_ShotgunTurret.label>mini-torreta de escopeta</VFES_Turret_ShotgunTurret.label>
+  <VFES_Turret_ShotgunTurret.description>Uma mini-torreta automática compacta equipada com uma escopeta semiautomática. Requer aço para recondicionar seu cano após uso intenso. Pode explodir quando danificada. Sua IA rudimentar não pode ser controlada diretamente, portanto, cuidado com o fogo amigo.</VFES_Turret_ShotgunTurret.description>
+  <VFES_Turret_ShotgunTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_ShotgunTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VFES_Turret_ShotgunTurret.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_ShotgunTurret.comps.CompRefuelable.fuelLabel>
+  <VFES_Turret_ShotgunTurret.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Turret_ShotgunTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFES_Turret_TeslaBlaster.label>canhão tesla</VFES_Turret_TeslaBlaster.label>
+  <VFES_Turret_TeslaBlaster.description>Uma torreta utilitária de ponta projetada para conter os avanços mecanoides. Quatro capacitores são carregados para liberar um raio de eletricidade. No impacto, o surto de energia atordoa o mecanoide afetado, antes de tentar saltar para outro. Mirará apenas em mecanoides.</VFES_Turret_TeslaBlaster.description>
+  
+  <VFES_TurretDoubleAutocannon_Top.label>autocanhão duplo</VFES_TurretDoubleAutocannon_Top.label>
+  <VFES_TurretDoubleAutocannon_Top.description>Um canhão duplo autocarregável de grosso calibre projetado para ser acoplado a uma torre.</VFES_TurretDoubleAutocannon_Top.description>
+  <VFES_TurretDoubleAutocannon_Top.verbs.Verb_Shoot.label>autocanhão duplo</VFES_TurretDoubleAutocannon_Top.verbs.Verb_Shoot.label>
+  
+  <VFES_TurretMinigun_Top.label>minigun</VFES_TurretMinigun_Top.label>
+  <VFES_TurretMinigun_Top.description>Uma minigun autocarregável projetada para ser acoplada a uma torre.</VFES_TurretMinigun_Top.description>
+  <VFES_TurretMinigun_Top.verbs.Verb_Shoot.label>minigun</VFES_TurretMinigun_Top.verbs.Verb_Shoot.label>
+
+  <VFES_Mote_SpotLight.label>Partícula</VFES_Mote_SpotLight.label>
+  
+</LanguageData>
