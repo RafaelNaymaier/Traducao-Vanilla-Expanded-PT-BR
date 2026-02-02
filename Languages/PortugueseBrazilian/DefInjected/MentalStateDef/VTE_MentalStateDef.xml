@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VTE_Kleptomaniac.label>cleptomaníaco</VTE_Kleptomaniac.label>
+  <VTE_Kleptomaniac.baseInspectLine>Estado mental: Cleptomaníaco</VTE_Kleptomaniac.baseInspectLine>
+  <VTE_Kleptomaniac.beginLetter>{0} está roubando itens de visitantes.</VTE_Kleptomaniac.beginLetter>
+  <VTE_Kleptomaniac.beginLetterLabel>Cleptomaníaco</VTE_Kleptomaniac.beginLetterLabel>
+  <VTE_Kleptomaniac.recoveryMessage>{0} não está mais roubando itens de visitantes.</VTE_Kleptomaniac.recoveryMessage>
+  
+  <VTE_PanicFreezing.label>em pânico</VTE_PanicFreezing.label>
+  <VTE_PanicFreezing.baseInspectLine>Estado mental: Em pânico</VTE_PanicFreezing.baseInspectLine>
+  <VTE_PanicFreezing.beginLetter>{0} paralisou de pânico.</VTE_PanicFreezing.beginLetter>
+  <VTE_PanicFreezing.beginLetterLabel>ataque de pânico</VTE_PanicFreezing.beginLetterLabel>
+  <VTE_PanicFreezing.recoveryMessage>{0} não está mais sofrendo um ataque de pânico.</VTE_PanicFreezing.recoveryMessage>
+  
+  <VTE_TechnophobeTantrum.label>surto tecnofóbico</VTE_TechnophobeTantrum.label>
+  <VTE_TechnophobeTantrum.baseInspectLine>Estado mental: Surto tecnofóbico</VTE_TechnophobeTantrum.baseInspectLine>
+  <VTE_TechnophobeTantrum.beginLetter>{0} entrou em um surto tecnofóbico.\n\n[PAWN_pronoun] vai descarregar [PAWN_possessive] raiva na tecnologia.</VTE_TechnophobeTantrum.beginLetter>
+  <VTE_TechnophobeTantrum.recoveryMessage>{0} não está mais em um surto tecnofóbico.</VTE_TechnophobeTantrum.recoveryMessage>
+  
+</LanguageData>
