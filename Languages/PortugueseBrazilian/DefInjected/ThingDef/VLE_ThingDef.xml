@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VEE_RadioactiveBarrel.label>barril radioativo</VEE_RadioactiveBarrel.label>
+  <VEE_RadioactiveBarrel.description>Um barril enferrujado vazando combustível nuclear descartado.</VEE_RadioactiveBarrel.description>
+
+  <VEE_Cenote.label>cenote</VEE_Cenote.label>
+  <VEE_Cenote.description>Um sumidouro profundo cheio de água esculpido na rocha. A superfície parece calma. Devido à sua profundidade, não pode ser preenchido.</VEE_Cenote.description>
+  
+  <VEE_Cenote_Small.label>cenote pequeno</VEE_Cenote_Small.label>
+  <VEE_Cenote_Small.description>Um sumidouro profundo cheio de água esculpido na rocha. A superfície parece calma. Devido à sua profundidade, não pode ser preenchido.</VEE_Cenote_Small.description>
+  
+  <VEE_Coral.label>coral</VEE_Coral.label>
+  <VEE_Coral.description>Uma colônia colorida e calcificada de minúsculos organismos marinhos, formando estruturas de recife intrincadas e repletas de vida.</VEE_Coral.description>
+  
+  <VEE_DeadlifeVent.label>gêiser de poeira mortal</VEE_DeadlifeVent.label>
+  <VEE_DeadlifeVent.description>Um gêiser sinistro que exala uma poeira estranha, semelhante a cinzas, capaz de despertar os mortos sob sua influência.</VEE_DeadlifeVent.description>
+  
+  <VEE_DenseSnow.label>neve densa</VEE_DenseSnow.label>
+  <VEE_DenseSnow.description>Uma camada pesada e compactada de neve que resiste ao movimento e abafa o som. Pode ser minerada para ser removida.</VEE_DenseSnow.description>
+  
+  <VEE_DriftwoodChunk.label>madeira à deriva</VEE_DriftwoodChunk.label>
+  <VEE_DriftwoodChunk.description>Um fragmento de madeira branqueado pelo sol, suavizado pelas ondas e pelo tempo, levado à costa de alguma origem distante e desconhecida.</VEE_DriftwoodChunk.description>
+  
+  <VEE_DryWheat.label>trigo seco</VEE_DryWheat.label>
+  <VEE_DryWheat.description>Uma planta de cereal âmbar que leva quase toda uma estação de cultivo para frutificar. Este trigo foi submetido a condições de seca por muito tempo e murchou.</VEE_DryWheat.description>
+  
+  <VEE_InertPitGate.label>portão do abismo</VEE_InertPitGate.label>
+  <VEE_InertPitGate.description>Um buraco enorme e pressagiador que conecta a superfície a uma rede escura de cavernas subterrâneas. É possível descer até as cavernas abaixo.</VEE_InertPitGate.description>
+  <VEE_InertPitGate.portal.enteredLetterLabel>Covil de Feras de Carne</VEE_InertPitGate.portal.enteredLetterLabel>
+  <VEE_InertPitGate.portal.enteredLetterText>Nas profundezas do portão do abismo, você descobriu um enorme sistema de cavernas infestado de feras de carne.\n\nO sistema de cavernas está obstruído por massas de carne viva que bloqueiam seu progresso. Ataque a massa de carne para destruí-la.\n\nTodo o sistema de cavernas parece instável. Se você encontrar o que está por trás da massa de carne, poderá colapsar os túneis e fechar o portão do abismo.</VEE_InertPitGate.portal.enteredLetterText>
+  
+  <VEE_JadeChunk.label>pedaço de jadeíta</VEE_JadeChunk.label>
+  <VEE_JadeChunk.description>Um pedaço de jadeíta. Pode ser desconstruído para adquirir jade.</VEE_JadeChunk.description>
+  
+  <VEE_MineableComponentSpacer.label>maquinário compactado avançado</VEE_MineableComponentSpacer.label>
+  <VEE_MineableComponentSpacer.description>Eletrônicos antigos avançados, compactados ao longo do tempo. Podem ser minerados para obter componentes avançados úteis.</VEE_MineableComponentSpacer.description>
+  
+  <VEE_MineableJadeite.label>jadeíta</VEE_MineableJadeite.label>
+  <VEE_MineableJadeite.description>Um mineral de silicato da família do piroxênio que é uma das duas formas de jade.</VEE_MineableJadeite.description>
+  
+  <VEE_ObsidianChunk.label>pedaço de obsidiana</VEE_ObsidianChunk.label>
+  <VEE_ObsidianChunk.description>Um pedaço de obsidiana. Pode ser desconstruído para adquirir obsidiana.</VEE_ObsidianChunk.description>
+  
+  <VEE_RotstinkVent.label>gêiser de podridão</VEE_RotstinkVent.label>
+  <VEE_RotstinkVent.description>Um gêiser imundo que vomita intermitentemente nuvens de miasma oriundo de cadáveres, sufocando o ar com o fedor de decomposição.</VEE_RotstinkVent.description>
+  
+  <VEE_Sinkhole.label>sumidouro</VEE_Sinkhole.label>
+  <VEE_Sinkhole.description>Um colapso repentino no solo formando um poço profundo e instável, muitas vezes expondo a rocha nua sob a superfície.</VEE_Sinkhole.description>
+  
+  <VEE_SmokeVent.label>gêiser de fumaça</VEE_SmokeVent.label>
+  <VEE_SmokeVent.description>Uma fissura fumegante que exala intermitentemente fumaça espessa e acre, reduzindo a visibilidade e sufocando os pulmões.</VEE_SmokeVent.description>
+  
+  <VEE_SmoothedJadeite.label>jadeíta polida</VEE_SmoothedJadeite.label>
+  <VEE_SmoothedJadeite.description>Um mineral de silicato da família do piroxênio que é uma das duas formas de jade.</VEE_SmoothedJadeite.description>
+  
+  <VEE_SulfurVent.label>fissura de enxofre</VEE_SulfurVent.label>
+  <VEE_SulfurVent.description>Uma ruptura natural no solo de onde escapam gases sulfúricos. O gás produzido nestas fissuras fede a ovos podres.</VEE_SulfurVent.description>
+  
+  <VEE_ToxicVent.label>gêiser tóxico</VEE_ToxicVent.label>
+  <VEE_ToxicVent.description>Uma fissura volátil que periodicamente expele gás verde nocivo, envenenando o ar e adoecendo qualquer coisa que o respire.</VEE_ToxicVent.description>
+
+  <VEE_Filth_Seashells.label>conchas</VEE_Filth_Seashells.label>
+
+  <VEE_AnimaPearls.label>pérola de anima</VEE_AnimaPearls.label>
+  <VEE_AnimaPearls.description>Uma pérola lisa e brilhante formada dentro de flores de anima, zumbindo levemente com ressonância psíquica. Pérolas de anima podem ser consumidas para aumentar a sensibilidade psíquica por algum tempo.</VEE_AnimaPearls.description>
+
+  <VEE_RawDates.label>tâmaras</VEE_RawDates.label>
+  <VEE_RawDates.description>Tâmaras cruas. Saborosas de comer, mesmo quando cruas. São frutas doces e ricas em nutrientes colhidas de tamareiras. Elas se conservam bem em climas quentes e fornecem uma fonte confiável de energia.</VEE_RawDates.description>
+
+  <VEE_DeadlifeMote.label>Partícula</VEE_DeadlifeMote.label>
+  
+  <VEE_RotstinkMote.label>Partícula</VEE_RotstinkMote.label>
+  
+  <VEE_SmokeMote.label>Partícula</VEE_SmokeMote.label>
+  
+  <VEE_ToxicMote.label>Partícula</VEE_ToxicMote.label>
+
+  <VEE_Plant_AnimaBell.label>sino de anima</VEE_Plant_AnimaBell.label>
+  <VEE_Plant_AnimaBell.description>Aglomerados de trepadeiras que brotam do solo para florescer em belas flores. Acredita-se que façam parte de grandes raízes coletivas que se espalham profundamente sob o terreno, rompendo ocasionalmente a superfície para polinizar. As qualidades atraentes das flores incentivam os humanos a não removê-las.</VEE_Plant_AnimaBell.description>
+  
+  <VEE_Plant_AnimaBrambles.label>sarças de anima</VEE_Plant_AnimaBrambles.label>
+  <VEE_Plant_AnimaBrambles.description>Trepadeiras espinhosas de crescimento rápido infundidas com uma fraca energia de anima. Seus espinhos zumbem suavemente ao toque.</VEE_Plant_AnimaBrambles.description>
+  
+  <VEE_Plant_AnimaBush.label>arbusto de anima</VEE_Plant_AnimaBush.label>
+  <VEE_Plant_AnimaBush.description>Um arbusto baixo. Ele fala, mas apenas quando você não está por perto.</VEE_Plant_AnimaBush.description>
+  
+  <VEE_Plant_AnimaHeartBlossom.label>flor de coração de anima</VEE_Plant_AnimaHeartBlossom.label>
+  <VEE_Plant_AnimaHeartBlossom.description>Uma flor delicada e de brilho suave que floresce perto de árvores de anima, ressonando levemente com energia psíquica. Pode ser colhida para obter pérolas de anima.</VEE_Plant_AnimaHeartBlossom.description>
+  
+  <VEE_Plant_AnimaHusk.label>casca de anima</VEE_Plant_AnimaHusk.label>
+  <VEE_Plant_AnimaHusk.description>Uma árvore de anima murcha cuja casca endureceu em uma concha cinzenta e sem vida sob poluição implacável. Sua presença psíquica está abafada e distorcida, mas um eco obstinado de anima ainda se apega à casca, recusando-se a desaparecer totalmente.</VEE_Plant_AnimaHusk.description>
+  
+  <VEE_Plant_AnimaRoot.label>raiz de anima</VEE_Plant_AnimaRoot.label>
+  <VEE_Plant_AnimaRoot.description>Raízes pálidas e retorcidas atravessadas por um brilho interior suave, extraídas de solo tocado por anima. Pode ser colhida para obter madeira.</VEE_Plant_AnimaRoot.description>
+  
+  <VEE_Plant_FakeAnimaTree.label>árvore de anima</VEE_Plant_FakeAnimaTree.label>
+  <VEE_Plant_FakeAnimaTree.description>Uma árvore tocada por anima. Falta-lhe a potência psíquica de uma verdadeira árvore de anima, mas ainda zumbe fracamente com vida psíquica.</VEE_Plant_FakeAnimaTree.description>
+  
+  <VEE_Plant_GrandAnimaTree.label>árvore de anima majestosa</VEE_Plant_GrandAnimaTree.label>
+  <VEE_Plant_GrandAnimaTree.description>Uma majestosa árvore tocada por anima. Falta-lhe a potência psíquica de uma verdadeira árvore de anima, mas ainda zumbe fracamente com vida psíquica.</VEE_Plant_GrandAnimaTree.description>
+  
+  <VEE_Plant_MysticCap.label>cogumelo místico</VEE_Plant_MysticCap.label>
+  <VEE_Plant_MysticCap.description>Um cogumelo pequeno e de cores vivas com um chapéu levemente iridescente. Pode ser colhido para obter fungo cru.</VEE_Plant_MysticCap.description>
+  
+  <VEE_Plant_TreeAnima_Ancient.label>árvore de anima antiga</VEE_Plant_TreeAnima_Ancient.label>
+  <VEE_Plant_TreeAnima_Ancient.description>Uma árvore rara e enorme com casca quente e lisa como a pele, e longas folhas iridescentes. Infundidas com microrganismos bioluminescentes, as árvores de anima antigas desenvolvem uma forma única de simbiose psíquica com as formas de vida circundantes.\n\nSe uma pessoa (psinjurador ou não) meditar perto de uma árvore de anima antiga, a grama de anima crescerá em torno de sua base. Uma vez que grama suficiente tenha crescido, torna-se possível realizar um ritual de vínculo psíquico com a árvore e aprimorar os poderes psíquicos de uma pessoa. Apenas povos tribais conhecem o segredo deste ritual. Psinjurador tribais também são capazes de extrair foco psíquico de árvores de anima antigas enquanto meditam para elas.\n\nAs propriedades psíquicas das árvores de anima antigas são enfraquecidas se estruturas artificiais forem colocadas por perto. Elas se recusam a ser enclausuradas ou estudadas, devendo permanecer como parte da natureza.\n\nA maioria das tribos acredita que as árvores de anima antigas não são simplesmente árvores, mas sim as extremidades físicas de um único espírito mundial.</VEE_Plant_TreeAnima_Ancient.description>
+  <VEE_Plant_TreeAnima_Ancient.comps.CompPsylinkable.enoughPlantsLetterLabel>Sobre: Vínculo com árvore de anima antiga</VEE_Plant_TreeAnima_Ancient.comps.CompPsylinkable.enoughPlantsLetterLabel>
+  <VEE_Plant_TreeAnima_Ancient.comps.CompPsylinkable.enoughPlantsLetterText>A árvore de anima antiga agora tem {0} de grama de anima ao seu redor. Isso é o suficiente para que uma pessoa tribal comece seu primeiro ritual de vínculo!\n\nO ritual de vínculo concede um nível de vínculo psíquico e a habilidade de usar poderes psíquicos. Aprimorar para um nível superior requer 20 de grama.\n\nOs requisitos de grama de anima para rituais de vínculo para aprimorar psinjuradores são:\n\n{1}\n\nNota: Apenas aqueles com o tipo de foco "natureza" podem meditar ou se vincular a árvores de anima antigas. Você pode ver os tipos de foco de uma pessoa olhando em seu cartão de informações com o botão 'i'.</VEE_Plant_TreeAnima_Ancient.comps.CompPsylinkable.enoughPlantsLetterText>
+  <VEE_Plant_TreeAnima_Ancient.comps.CompGiveThoughtToAllMapPawnsOnDestroy.message>A árvore de anima antiga morreu e emitiu um grito psíquico perturbador.</VEE_Plant_TreeAnima_Ancient.comps.CompGiveThoughtToAllMapPawnsOnDestroy.message>
+  
+  <VEE_Plant_YoungAnimaTree.label>muda de anima</VEE_Plant_YoungAnimaTree.label>
+  <VEE_Plant_YoungAnimaTree.description>Uma pequena árvore tocada por anima. Falta-lhe a potência psíquica de uma verdadeira árvore de anima, mas ainda zumbe fracamente com vida psíquica.</VEE_Plant_YoungAnimaTree.description>
+
+  <VEE_Plant_Fern.label>samambaia</VEE_Plant_Fern.label>
+  <VEE_Plant_Fern.description>Uma planta que prefere a sombra, com frondes largas que se espalham pelo solo úmido da floresta e terrenos protegidos.</VEE_Plant_Fern.description>
+  
+  <VEE_Plant_JuniperBush.label>arbusto de zimbro</VEE_Plant_JuniperBush.label>
+  <VEE_Plant_JuniperBush.description>Um arbusto resistente de baixo crescimento com agulhas aromáticas e bagas densas. Seus galhos se retorcem e se espalham, suportando ventos fortes e condições expostas.</VEE_Plant_JuniperBush.description>
+
+  <VEE_Plant_BarrelCactus.label>cacto-barril</VEE_Plant_BarrelCactus.label>
+  <VEE_Plant_BarrelCactus.description>Um cacto grande nativo de ambientes áridos da Terra. Embora não seja uma árvore, produz uma pequena quantidade de material fibroso que pode ser usado como madeira.</VEE_Plant_BarrelCactus.description>
+  
+  <VEE_Plant_BeavertailCactus.label>cacto-rabo-de-castor</VEE_Plant_BeavertailCactus.label>
+  <VEE_Plant_BeavertailCactus.description>Um cacto grande nativo de ambientes áridos da Terra. Embora não seja uma árvore, produz uma pequena quantidade de material fibroso que pode ser usado como madeira.</VEE_Plant_BeavertailCactus.description>
+  
+  <VEE_Plant_ChollaCactus.label>cacto-cholla</VEE_Plant_ChollaCactus.label>
+  <VEE_Plant_ChollaCactus.description>Um cacto grande nativo de ambientes áridos da Terra. Embora não seja uma árvore, produz uma pequena quantidade de material fibroso que pode ser usado como madeira.</VEE_Plant_ChollaCactus.description>
+  
+  <VEE_Plant_HedgehogCactus.label>cacto-ouriço</VEE_Plant_HedgehogCactus.label>
+  <VEE_Plant_HedgehogCactus.description>Um cacto grande nativo de ambientes áridos da Terra. Embora não seja uma árvore, produz uma pequena quantidade de material fibroso que pode ser usado como madeira.</VEE_Plant_HedgehogCactus.description>
+  
+  <VEE_Plant_HoodiaCactus.label>cacto-hoodia</VEE_Plant_HoodiaCactus.label>
+  <VEE_Plant_HoodiaCactus.description>Um cacto grande nativo de ambientes áridos da Terra. Embora não seja uma árvore, produz uma pequena quantidade de material fibroso que pode ser usado como madeira.</VEE_Plant_HoodiaCactus.description>
+  
+  <VEE_Plant_OrganPipeCactus.label>cacto-tubo-de-órgão</VEE_Plant_OrganPipeCactus.label>
+  <VEE_Plant_OrganPipeCactus.description>Um cacto grande nativo de ambientes áridos da Terra. Embora não seja uma árvore, produz uma pequena quantidade de material fibroso que pode ser usado como madeira.</VEE_Plant_OrganPipeCactus.description>
+
+  <VEE_DayBoomshroom.label>coguboom resistente à luz</VEE_DayBoomshroom.label>
+  <VEE_DayBoomshroom.description>Esses cogumelos produzem produtos químicos voláteis como medida defensiva. Eles podem ser colhidos para obter combustível químico. No entanto, isso deve ser feito com extrema cautela, pois os cogumelos podem explodir se forem destruídos.\n\nPesquisadores de Mundos Cintilantes usaram material genético de cogubooms para bioengenharia de vários animais produtores de combustível químico.</VEE_DayBoomshroom.description>
+  
+  <VEE_DayPsilocap.label>psicocap resistente à luz</VEE_DayPsilocap.label>
+  <VEE_DayPsilocap.description>Um fungo que libera esporos alucinógenos. Ficar perto deles é o suficiente para produzir alucinações leves. Os psicocaps podem ser colhidos e ingeridos para produzir uma experiência sensorial vívida que melhora o humor do usuário.</VEE_DayPsilocap.description>
+  
+  <VEE_DayWillowgill.label>branquia-de-salgueiro resistente à luz</VEE_DayWillowgill.label>
+  <VEE_DayWillowgill.description>Um cogumelo alto, esguio e de crescimento lento, com lamelas que caem como as de um salgueiro.</VEE_DayWillowgill.description>
+
+  <VEE_ButtercupFlower.label>botão-de-ouro</VEE_ButtercupFlower.label>
+  <VEE_ButtercupFlower.description>Uma bela flor silvestre.</VEE_ButtercupFlower.description>
+  
+  <VEE_ForgetMeNot.label>miosótis</VEE_ForgetMeNot.label>
+  <VEE_ForgetMeNot.description>Uma bela flor silvestre.</VEE_ForgetMeNot.description>
+  
+  <VEE_Gorse.label>tojo</VEE_Gorse.label>
+  <VEE_Gorse.description>Um arbusto espinhoso e perene coberto de flores amarelas brilhantes. Seus galhos grossos e emaranhados fornecem abrigo enquanto resistem ao vento e às condições severas.</VEE_Gorse.description>
+  
+  <VEE_Heather.label>urze</VEE_Heather.label>
+  <VEE_Heather.description>Um arbusto rasteiro e florido com densos aglomerados de pequenas flores. Ele cobre a paisagem com cores suaves e suporta o vento e a exposição com facilidade.</VEE_Heather.description>
+  
+  <VEE_Knapweed.label>centáurea-negra</VEE_Knapweed.label>
+  <VEE_Knapweed.description>Uma planta silvestre robusta, semelhante a uma erva daninha.</VEE_Knapweed.description>
+  
+  <VEE_Loosestrife.label>lisimáquia</VEE_Loosestrife.label>
+  <VEE_Loosestrife.description>Uma bela planta silvestre herbácea perene.</VEE_Loosestrife.description>
+
+  <VEE_Plant_DatePalm.label>tamareira</VEE_Plant_DatePalm.label>
+  <VEE_Plant_DatePalm.description>Uma palmeira alta que prospera ao longo de costas quentes, produzindo cachos de frutas doces e ricas em energia. Suas raízes profundas e tronco flexível ajudam-na a suportar a névoa salina e os ventos costeiros.</VEE_Plant_DatePalm.description>
+  
+  <VEE_Plant_Firewood.label>árvore de lenha</VEE_Plant_Firewood.label>
+  <VEE_Plant_Firewood.description>Uma árvore resistente adaptada para crescer em solo vulcânico. Está entre as primeiras plantas a colonizar a lava resfriada, ajudando a vida a retornar à rocha negra.</VEE_Plant_Firewood.description>
+  
+  <VEE_Plant_Firewood_ChoppedStump.label>toco cortado</VEE_Plant_Firewood_ChoppedStump.label>
+  <VEE_Plant_Firewood_ChoppedStump.description>Um toco deixado para trás após uma árvore de lenha ter sido derrubada. O toco pode ser extraído, mas rende muito pouca madeira utilizável. Deixado ao ar livre, o toco se deteriorará com o tempo.</VEE_Plant_Firewood_ChoppedStump.description>
+  
+  <VEE_Plant_Firewood_SmashedStump.label>toco esmagado</VEE_Plant_Firewood_SmashedStump.label>
+  <VEE_Plant_Firewood_SmashedStump.description>Os remanescentes de uma árvore de lenha destruída por danos. É feio. O toco pode ser extraído, mas rende muito pouca madeira utilizável. Deixado ao ar livre, o toco se deteriorará com o tempo.</VEE_Plant_Firewood_SmashedStump.description>
+  
+  <VEE_Plant_GnarledPine.label>pinheiro retorcido</VEE_Plant_GnarledPine.label>
+  <VEE_Plant_GnarledPine.description>Um pinheiro retorcido e desgastado, moldado pelo vento e solo pobre. Seus galhos nodosos e agulhas esparsas dão-lhe uma aparência rústica e resistente.</VEE_Plant_GnarledPine.description>
+  
+  <VEE_Plant_Laurel.label>loureiro</VEE_Plant_Laurel.label>
+  <VEE_Plant_Laurel.description>Uma árvore perene de folhas largas com folhagem densa e folhas aromáticas, bem adaptada a climas amenos e úmidos.</VEE_Plant_Laurel.description>
+  
+  <VEE_Plant_LaurelTree_ChoppedStump.label>toco cortado</VEE_Plant_LaurelTree_ChoppedStump.label>
+  <VEE_Plant_LaurelTree_ChoppedStump.description>Um toco deixado para trás após um loureiro ter sido derrubado. O toco pode ser extraído, mas rende muito pouca madeira utilizável. Deixado ao ar livre, o toco se deteriorará com o tempo.</VEE_Plant_LaurelTree_ChoppedStump.description>
+  
+  <VEE_Plant_LaurelTree_SmashedStump.label>toco esmagado</VEE_Plant_LaurelTree_SmashedStump.label>
+  <VEE_Plant_LaurelTree_SmashedStump.description>Os remanescentes de um loureiro destruído por danos. É feio. O toco pode ser extraído, mas rende muito pouca madeira utilizável. Deixado ao ar livre, o toco se deteriorará com o tempo.</VEE_Plant_LaurelTree_SmashedStump.description>
+  
+  <VEE_Plant_ScrewPine.label>pandano</VEE_Plant_ScrewPine.label>
+  <VEE_Plant_ScrewPine.description>Uma árvore costeira resistente com folhas em espiral e raízes expostas, adaptada ao vento, sal e areia movediça.</VEE_Plant_ScrewPine.description>
+  
+  <VEE_Plant_ScrewPine_ChoppedStump.label>toco cortado</VEE_Plant_ScrewPine_ChoppedStump.label>
+  <VEE_Plant_ScrewPine_ChoppedStump.description>Um toco deixado para trás após um pandano ter sido derrubado. O toco pode ser extraído, mas rende muito pouca madeira utilizável. Deixado ao ar livre, o toco se deteriorará com o tempo.</VEE_Plant_ScrewPine_ChoppedStump.description>
+  
+  <VEE_Plant_ScrewPine_SmashedStump.label>toco esmagado</VEE_Plant_ScrewPine_SmashedStump.label>
+  <VEE_Plant_ScrewPine_SmashedStump.description>Os remanescentes de um pandano destruído por danos. É feio. O toco pode ser extraído, mas rende muito pouca madeira utilizável. Deixado ao ar livre, o toco se deteriorará com o tempo.</VEE_Plant_ScrewPine_SmashedStump.description>
+  
+  <VEE_Plant_TreeBirch_Auburn.label>bétula outonal</VEE_Plant_TreeBirch_Auburn.label>
+  <VEE_Plant_TreeBirch_Auburn.description>Uma árvore de bioma temperado conhecida por sua casca fina, branca e semelhante a papel.</VEE_Plant_TreeBirch_Auburn.description>
+  
+  <VEE_Plant_TreeMaple_Auburn.label>bordo outonal</VEE_Plant_TreeMaple_Auburn.label>
+  <VEE_Plant_TreeMaple_Auburn.description>Uma árvore comum de médio porte, facilmente identificável por sua folha distinta de três pontas.</VEE_Plant_TreeMaple_Auburn.description>
+  
+  <VEE_Plant_TreeOak_Auburn.label>carvalho outonal</VEE_Plant_TreeOak_Auburn.label>
+  <VEE_Plant_TreeOak_Auburn.description>Uma árvore de madeira de lei. Carvalhos levam muito tempo para crescer, mas sua madeira é tão forte que "carvalho" é usado como metáfora para força em muitas culturas.</VEE_Plant_TreeOak_Auburn.description>
+  
+  <VEE_Plant_TreePoplar_Auburn.label>álamo outonal</VEE_Plant_TreePoplar_Auburn.label>
+  <VEE_Plant_TreePoplar_Auburn.description>Uma árvore de madeira macia que cresce muito rápido. Infelizmente, sua madeira é fraca e, por isso, rende menos material útil do que as árvores de madeira de lei.</VEE_Plant_TreePoplar_Auburn.description>
+
+  <VEE_Mangrove.label>mangue</VEE_Mangrove.label>
+  <VEE_Mangrove.description>Uma árvore tolerante ao sal, adaptada à vida em áreas úmidas salobras. Suas raízes emaranhadas a fixam na lama movediça e fornecem abrigo para a vida aquática.</VEE_Mangrove.description>
+  
+  <VEE_Mangrove_ChoppedStump.label>toco de mangue cortado</VEE_Mangrove_ChoppedStump.label>
+  <VEE_Mangrove_ChoppedStump.description>Um toco deixado para trás após um mangue ter sido derrubado. O toco pode ser extraído, mas rende muito pouca madeira utilizável. Deixado ao ar livre, o toco se deteriorará com o tempo.</VEE_Mangrove_ChoppedStump.description>
+  
+  <VEE_Mangrove_SmashedStump.label>toco de mangue esmagado</VEE_Mangrove_SmashedStump.label>
+  <VEE_Mangrove_SmashedStump.description>Os remanescentes de um mangue destruído por danos. É feio. O toco pode ser extraído, mas rende muito pouca madeira utilizável. Deixado ao ar livre, o toco se deteriorará com o tempo.</VEE_Mangrove_SmashedStump.description>
+
+</LanguageData>

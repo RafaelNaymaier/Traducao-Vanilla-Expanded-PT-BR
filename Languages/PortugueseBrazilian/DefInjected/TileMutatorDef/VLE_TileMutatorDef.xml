@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VEE_AbundantPredators.label>predadores abundantes</VEE_AbundantPredators.label>
+  <VEE_AbundantPredators.description>Animais considerados predadores aparecem em maior número aqui.</VEE_AbundantPredators.description>
+  
+  <VEE_AbundantPrey.label>presas abundantes</VEE_AbundantPrey.label>
+  <VEE_AbundantPrey.description>Animais considerados presas aparecem em maior número aqui.</VEE_AbundantPrey.description>
+  
+  <VEE_AggressiveHerds.label>manadas agressivas</VEE_AggressiveHerds.label>
+  <VEE_AggressiveHerds.description>Os animais desta região têm chances aumentadas de se tornarem caçadores de homens ao sofrerem danos.</VEE_AggressiveHerds.description>
+  
+  <VEE_Alphabeavers.label>alfacastores</VEE_Alphabeavers.label>
+  <VEE_Alphabeavers.description>Alfacastores foram avistados nesta região.</VEE_Alphabeavers.description>
+  
+  <VEE_ColossalFauna.label>fauna colossal</VEE_ColossalFauna.label>
+  <VEE_ColossalFauna.description>Toda a fauna nesta área é muito maior do que o normal.</VEE_ColossalFauna.description>
+  
+  <VEE_DistressedWildlife.label>vida selvagem agitada</VEE_DistressedWildlife.label>
+  <VEE_DistressedWildlife.description>Todos os animais nesta região têm a selvageria aumentada.</VEE_DistressedWildlife.description>
+  
+  <VEE_DomesticatedEscapees.label>fugitivos domesticados</VEE_DomesticatedEscapees.label>
+  <VEE_DomesticatedEscapees.description>Animais de fazenda como galinhas, porcos e vacas aparecerão na natureza em pequenas manadas, remanescentes de assentamentos ou fazendas perdidas.</VEE_DomesticatedEscapees.description>
+  
+  <VEE_FeralKinship.label>afinidade feral</VEE_FeralKinship.label>
+  <VEE_FeralKinship.description>Todos os animais nesta região têm a selvageria diminuída.</VEE_FeralKinship.description>
+  
+  <VEE_IncreasedInfestations.label>infestações aumentadas</VEE_IncreasedInfestations.label>
+  <VEE_IncreasedInfestations.description>Infestações de insetoides são mais comuns nesta região.</VEE_IncreasedInfestations.description>
+  
+  <VEE_MarineSanctuary.label>santuário marinho</VEE_MarineSanctuary.label>
+  <VEE_MarineSanctuary.description>Animais costeiros aparecem em maior número aqui.</VEE_MarineSanctuary.description>
+  
+  <VEE_Megafauna.label>megafauna abundante</VEE_Megafauna.label>
+  <VEE_Megafauna.description>Esta região possui abundância de megafauna, trazida de volta à vida por engenharia genética.</VEE_Megafauna.description>
+  
+  <VEE_Microfauna.label>microfauna</VEE_Microfauna.label>
+  <VEE_Microfauna.description>Toda a fauna nesta área é muito menor do que o normal.</VEE_Microfauna.description>
+  
+  <VEE_MigratoryHerds.label>manadas migratórias</VEE_MigratoryHerds.label>
+  <VEE_MigratoryHerds.description>Grupos de animais de manada cruzarão periodicamente esta região.</VEE_MigratoryHerds.description>
+  
+  <VEE_NaturalAerie.label>ninho natural</VEE_NaturalAerie.label>
+  <VEE_NaturalAerie.description>Animais voadores aparecem em maior número aqui.</VEE_NaturalAerie.description>
+  
+  <VEE_NobleSteeds.label>corcéis nobres</VEE_NobleSteeds.label>
+  <VEE_NobleSteeds.description>Cavalos e burros aparecerão nesta área.</VEE_NobleSteeds.description>
+  
+  <VEE_ReducedPredators.label>predadores reduzidos</VEE_ReducedPredators.label>
+  <VEE_ReducedPredators.description>Animais considerados predadores aparecem em menor número aqui.</VEE_ReducedPredators.description>
+  
+  <VEE_ReducedPrey.label>presas reduzidas</VEE_ReducedPrey.label>
+  <VEE_ReducedPrey.description>Animais considerados presas aparecem em menor número aqui.</VEE_ReducedPrey.description>
+  
+  <VEE_RodentPlagues.label>praga de roedores</VEE_RodentPlagues.label>
+  <VEE_RodentPlagues.description>Esta área está infestada de ratos.</VEE_RodentPlagues.description>
+  
+  <VEE_VenomousEcosystem.label>ecossistema venenoso</VEE_VenomousEcosystem.label>
+  <VEE_VenomousEcosystem.description>Animais venenosos aparecem em maior número aqui.</VEE_VenomousEcosystem.description>
+  
+  <VEE_WanderingCompanions.label>companheiros errantes</VEE_WanderingCompanions.label>
+  <VEE_WanderingCompanions.description>Os animais estão mais acostumados com humanos nesta região, tornando mais fácil para os colonos criarem laços com eles.</VEE_WanderingCompanions.description>
+
+  
+  <VEE_DustStorms.label>tempestades de poeira</VEE_DustStorms.label>
+  <VEE_DustStorms.description>Tempestades de poeira que impedem a visão são muito mais fortes nesta área.</VEE_DustStorms.description>
+  
+  <VEE_FertileRains.label>chuvas férteis</VEE_FertileRains.label>
+  <VEE_FertileRains.description>Esta região está sujeita a chuvas incomumente ricas em nutrientes, impulsionando o crescimento das plantas durante sua duração.</VEE_FertileRains.description>
+  
+  <VEE_FrequentAuroras.label>auroras frequentes</VEE_FrequentAuroras.label>
+  <VEE_FrequentAuroras.description>Auroras acontecem com muito mais frequência nesta região.</VEE_FrequentAuroras.description>
+  
+  <VEE_GeomagneticStorm.label>tempestade geomagnética</VEE_GeomagneticStorm.label>
+  <VEE_GeomagneticStorm.description>Um evento geomagnético intenso cobre a região, desativando completamente todos os dispositivos elétricos.</VEE_GeomagneticStorm.description>
+  
+  <VEE_LessSolarPower.label>exposição solar reduzida</VEE_LessSolarPower.label>
+  <VEE_LessSolarPower.description>A insolação é mais fraca nesta área, reduzindo a produção de energia solar em 25%.</VEE_LessSolarPower.description>
+  
+  <VEE_MoreSolarPower.label>exposição solar aumentada</VEE_MoreSolarPower.label>
+  <VEE_MoreSolarPower.description>A insolação é mais forte nesta área, aumentando a produção de energia solar em 25%.</VEE_MoreSolarPower.description>
+  
+  <VEE_NoWind.label>sem vento</VEE_NoWind.label>
+  <VEE_NoWind.description>Os ventos são virtualmente ausentes nesta região.</VEE_NoWind.description>
+  
+  <VEE_RagingWind.label>ventos furiosos</VEE_RagingWind.label>
+  <VEE_RagingWind.description>Os ventos são extraordinariamente mais fortes nesta área.</VEE_RagingWind.description>
+  
+  <VEE_RottenStench.label>fedor de podridão</VEE_RottenStench.label>
+  <VEE_RottenStench.description>Vapores ocres brotam do solo, cobrindo a área com um cheiro imundo que queima os pulmões e azeda o humor.</VEE_RottenStench.description>
+  
+  <VEE_Sandstorms.label>tempestades de areia</VEE_Sandstorms.label>
+  <VEE_Sandstorms.description>Tempestades de areia são muito mais frequentes nesta área.</VEE_Sandstorms.description>
+  
+  <VEE_SkygazingSpot.label>ponto de contemplação do céu</VEE_SkygazingSpot.label>
+  <VEE_SkygazingSpot.description>Um fenômeno atmosférico sereno incentiva os colonos a passarem mais tempo contemplando o céu. Aumenta a chance de observar o céu e potencializa a alegria que isso proporciona.</VEE_SkygazingSpot.description>
+  
+  <VEE_TornadoAlley.label>corredor de tornados</VEE_TornadoAlley.label>
+  <VEE_TornadoAlley.description>Tornados frequentes e intensos varrem esta região, ameaçando a colônia.</VEE_TornadoAlley.description>
+
+  <VEE_AuburnTree_Birches.label>bétulas outonais</VEE_AuburnTree_Birches.label>
+  <VEE_AuburnTree_Birches.description>Nesta área florestal, muitas árvores permanecem presas em tons de vermelho e dourado, como se o outono nunca passasse totalmente.</VEE_AuburnTree_Birches.description>
+  
+  <VEE_AuburnTree_Maples.label>bordos outonais</VEE_AuburnTree_Maples.label>
+  <VEE_AuburnTree_Maples.description>Nesta área florestal, muitas árvores permanecem presas em tons de vermelho e dourado, como se o outono nunca passasse totalmente.</VEE_AuburnTree_Maples.description>
+  
+  <VEE_AuburnTree_Oaks.label>carvalhos outonais</VEE_AuburnTree_Oaks.label>
+  <VEE_AuburnTree_Oaks.description>Nesta área florestal, muitas árvores permanecem presas em tons de vermelho e dourado, como se o outono nunca passasse totalmente.</VEE_AuburnTree_Oaks.description>
+  
+  <VEE_AuburnTree_Poplars.label>álamos outonais</VEE_AuburnTree_Poplars.label>
+  <VEE_AuburnTree_Poplars.description>Nesta área florestal, muitas árvores permanecem presas em tons de vermelho e dourado, como se o outono nunca passasse totalmente.</VEE_AuburnTree_Poplars.description>
+  
+  <VEE_Blooming_Buttercup.label>botões-de-ouro em flor</VEE_Blooming_Buttercup.label>
+  <VEE_Blooming_Buttercup.description>Esta área pode cultivar um grande número de botões-de-ouro silvestres coloridos.</VEE_Blooming_Buttercup.description>
+  
+  <VEE_Blooming_ForgetMeNot.label>miosótis em flor</VEE_Blooming_ForgetMeNot.label>
+  <VEE_Blooming_ForgetMeNot.description>Esta área pode cultivar um grande número de miosótis silvestres coloridos.</VEE_Blooming_ForgetMeNot.description>
+  
+  <VEE_Blooming_Knapweed.label>centáureas-negras em flor</VEE_Blooming_Knapweed.label>
+  <VEE_Blooming_Knapweed.description>Esta área pode cultivar um grande número de centáureas-negras silvestres coloridas.</VEE_Blooming_Knapweed.description>
+  
+  <VEE_Blooming_Loosestrife.label>lisimáquias em flor</VEE_Blooming_Loosestrife.label>
+  <VEE_Blooming_Loosestrife.description>Esta área pode cultivar um grande número de lisimáquias silvestres coloridas.</VEE_Blooming_Loosestrife.description>
+  
+  <VEE_Cactus_Barrel.label>cactos-barril</VEE_Cactus_Barrel.label>
+  <VEE_Cactus_Barrel.description>Esta área pode cultivar um grande número de cactos-barril silvestres.</VEE_Cactus_Barrel.description>
+  
+  <VEE_Cactus_Beavertail.label>cactos-rabo-de-castor</VEE_Cactus_Beavertail.label>
+  <VEE_Cactus_Beavertail.description>Esta área pode cultivar um grande número de cactos-rabo-de-castor silvestres.</VEE_Cactus_Beavertail.description>
+  
+  <VEE_Cactus_Hedgehog.label>cactos-ouriço</VEE_Cactus_Hedgehog.label>
+  <VEE_Cactus_Hedgehog.description>Esta área pode cultivar um grande número de cactos-ouriço silvestres.</VEE_Cactus_Hedgehog.description>
+  
+  <VEE_Cactus_OrganPipe.label>cactos-tubo-de-órgão</VEE_Cactus_OrganPipe.label>
+  <VEE_Cactus_OrganPipe.description>Esta área pode cultivar um grande número de cactos-tubo-de-órgão silvestres.</VEE_Cactus_OrganPipe.description>
+  
+  <VEE_MangroveTrees.label>mangues</VEE_MangroveTrees.label>
+  <VEE_MangroveTrees.description>Esta área está repleta de grandes quantidades de mangues cujas raízes podem prosperar em águas salobras.</VEE_MangroveTrees.description>
+  
+  <VEE_Mycelium.label>micélio</VEE_Mycelium.label>
+  <VEE_Mycelium.description>Uma variedade de cogumelos resistentes à luz, semelhantes aos que crescem em florestas brilhantes, são comuns nesta área.</VEE_Mycelium.description>
+  
+  <VEE_NoTrees.label>falta de árvores</VEE_NoTrees.label>
+  <VEE_NoTrees.description>Árvores de qualquer tipo não crescem aqui naturalmente.</VEE_NoTrees.description>
+  
+  <VEE_PlantLife_Decimated.label>flora dizimada</VEE_PlantLife_Decimated.label>
+  <VEE_PlantLife_Decimated.description>A vida vegetal é extremamente escassa aqui.</VEE_PlantLife_Decimated.description>
+  
+  <VEE_PlantLife_Overgrown.label>flora exuberante</VEE_PlantLife_Overgrown.label>
+  <VEE_PlantLife_Overgrown.description>A vida vegetal é extremamente mais abundante aqui.</VEE_PlantLife_Overgrown.description>
+  
+  <VEE_PlentifulGrass.label>grama abundante</VEE_PlentifulGrass.label>
+  <VEE_PlentifulGrass.description>A grama é muito comum nesta região.</VEE_PlentifulGrass.description>
+  
+  <VEE_PoisonousFlora.label>flora venenosa</VEE_PoisonousFlora.label>
+  <VEE_PoisonousFlora.description>Colher qualquer flora nesta área causará acúmulo tóxico. Plantações feitas pelos colonos não serão afetadas.</VEE_PoisonousFlora.description>
+  
+  <VEE_WildRice.label>arroz silvestre</VEE_WildRice.label>
+  <VEE_WildRice.description>Esta área pode cultivar um grande número de {0} silvestres.</VEE_WildRice.description>
+
+  <VEE_LargerRegion.label>região ampliada</VEE_LargerRegion.label>
+  <VEE_LargerRegion.description>Esta região é 30% maior que o normal.</VEE_LargerRegion.description>
+  
+  <VEE_SmallerRegion.label>região reduzida</VEE_SmallerRegion.label>
+  <VEE_SmallerRegion.description>Esta região é 30% menor que o normal.</VEE_SmallerRegion.description>
+  
+  <VEE_BombardedSurface.label>superfície bombardeada</VEE_BombardedSurface.label>
+  <VEE_BombardedSurface.description>Esta região foi alvo de bombardeio orbital ou de artilharia em um passado distante, e as crateras desse bombardeio ainda estão presentes.</VEE_BombardedSurface.description>
+  
+  <VEE_MechanoidShipChunks.label>destroços mecanoides</VEE_MechanoidShipChunks.label>
+  <VEE_MechanoidShipChunks.description>Destroços de uma nave mecanoide acidentada são encontrados por esta região.</VEE_MechanoidShipChunks.description>
+
+  <VEE_AlluvialFan.label>leque aluvial</VEE_AlluvialFan.label>
+  <VEE_AlluvialFan.description>Uma ampla extensão de sedimento rico em forma de leque, depositada onde a água corrente de um rio perde velocidade e se dispersa pela terra.</VEE_AlluvialFan.description>
+  
+  <VEE_AnimaFauna.label>fauna anima</VEE_AnimaFauna.label>
+  <VEE_AnimaFauna.description>O ambiente plácido da floresta anima atrai alguns animais tocados pelo poder anima.</VEE_AnimaFauna.description>
+  
+  <VEE_AnimaFlora.label>flora anima</VEE_AnimaFlora.label>
+  <VEE_AnimaFlora.description>Esta região contém uma floresta densa com árvores anima e crescimentos anima menores, ressoando silenciosamente com energia psíquica. O ar parece atento, como se a própria terra estivesse ouvindo.</VEE_AnimaFlora.description>
+  
+  <VEE_AnimaSoils.label>solos anima</VEE_AnimaSoils.label>
+  <VEE_AnimaSoils.description>Esta área contém solo infundido com energia anima latente, influenciando sutilmente plantas, animais e mentes.</VEE_AnimaSoils.description>
+  
+  <VEE_AnimaSoils_Coast.label>solos anima costeiros</VEE_AnimaSoils_Coast.label>
+  <VEE_AnimaSoils_Coast.description>Esta área contém solo infundido com energia anima latente, influenciando sutilmente plantas, animais e mentes.</VEE_AnimaSoils_Coast.description>
+  
+  <VEE_BasaltCape.label>cabo de basalto</VEE_BasaltCape.label>
+  <VEE_BasaltCape.description>Um promontório saliente de basalto escuro, fraturado em colunas afiadas por fluxos de lava antigos. Rico em rochas vulcânicas.</VEE_BasaltCape.description>
+  
+  <VEE_BurnedForest.label>floresta queimada</VEE_BurnedForest.label>
+  <VEE_BurnedForest.description>Uma área florestal que foi recentemente afetada por um incêndio florestal severo.</VEE_BurnedForest.description>
+  
+  <VEE_CalmBasin.label>bacia calma</VEE_CalmBasin.label>
+  <VEE_CalmBasin.description>Uma cratera larga e rasa cheia de areia fina e imperturbada. Protegida do vento por sua borda inclinada, a bacia permanece estranhamente imóvel.</VEE_CalmBasin.description>
+  
+  <VEE_Cenotes.label>cenotes</VEE_Cenotes.label>
+  <VEE_Cenotes.description>Uma rede dispersa de dolinas profundas e cheias de água, formadas pelo colapso de rochas.</VEE_Cenotes.description>
+  
+  <VEE_ContaminatedCoast.label>costa contaminada</VEE_ContaminatedCoast.label>
+  <VEE_ContaminatedCoast.description>Um trecho de orla onde águas irradiadas banham a terra, envenenando as áreas rasas e perturbando toda a vida próxima.</VEE_ContaminatedCoast.description>
+  
+  <VEE_ContaminatedReservoir.label>reservatório contaminado</VEE_ContaminatedReservoir.label>
+  <VEE_ContaminatedReservoir.description>Um corpo de água estagnado saturado com radiação persistente; suas profundezas são inseguras para beber ou pescar e suas margens são hostis à vida.</VEE_ContaminatedReservoir.description>
+  
+  <VEE_ContaminatedRiver.label>rio contaminado</VEE_ContaminatedRiver.label>
+  <VEE_ContaminatedRiver.description>Um curso de água corrente maculado por radiação persistente, espalhando contaminação rio abaixo e tornando suas águas inseguras para o uso.</VEE_ContaminatedRiver.description>
+  
+  <VEE_CoralReef.label>recife de coral</VEE_CoralReef.label>
+  <VEE_CoralReef.description>Um grande atol separado da costa com um anel de corais crescendo ao seu redor.</VEE_CoralReef.description>
+  
+  <VEE_CraterLake.label>lago de cratera</VEE_CraterLake.label>
+  <VEE_CraterLake.description>Um vasto anel de paredes rochosas circunda um lago sereno de azul profundo.</VEE_CraterLake.description>
+  
+  <VEE_DetachedIceberg.label>iceberg isolado</VEE_DetachedIceberg.label>
+  <VEE_DetachedIceberg.description>Uma massa flutuante de gelo, separada da calota de gelo principal e bastante distante da costa.</VEE_DetachedIceberg.description>
+  
+  <VEE_DriftwoodShore.label>costa de madeira flutuante</VEE_DriftwoodShore.label>
+  <VEE_DriftwoodShore.description>Um trecho de costa repleto de troncos descoloridos e madeiras quebradas, depositados por marés e tempestades de margens distantes.</VEE_DriftwoodShore.description>
+  
+  <VEE_DryRiver.label>rio seco</VEE_DryRiver.label>
+  <VEE_DryRiver.description>Uma seção deste rio que secou, presumivelmente devido à ausência de precipitação rio acima.</VEE_DryRiver.description>
+  
+  <VEE_DustBowl.label>bacia de poeira</VEE_DustBowl.label>
+  <VEE_DustBowl.description>Um deserto castigado pelo sol, sufocado por poeira e ventos secos. A vegetação quase desapareceu e tempestades de areia implacáveis tornam a sobrevivência árdua e impiedosa.</VEE_DustBowl.description>
+  
+  <VEE_FirewoodTrees.label>árvores de lenha</VEE_FirewoodTrees.label>
+  <VEE_FirewoodTrees.description>Esta região é rica em árvores de lenha, adaptadas ao terreno vulcânico fértil.</VEE_FirewoodTrees.description>
+  
+  <VEE_FleshPits.label>poços de carne</VEE_FleshPits.label>
+  <VEE_FleshPits.description>Uma rede dispersa de entradas de cavernas anômalas, levando a um reino subterrâneo de carne pulsante e abominações grotescas.</VEE_FleshPits.description>
+  
+  <VEE_FloodPlains.label>planícies de inundação</VEE_FloodPlains.label>
+  <VEE_FloodPlains.description>Um trecho de terra baixa moldado por inundações sazonais, onde águas ricas em nutrientes transbordam periodicamente das margens e recuam, deixando solo fértil em seu rastro.</VEE_FloodPlains.description>
+  
+  <VEE_GlacialMoraine.label>moraina glacial</VEE_GlacialMoraine.label>
+  <VEE_GlacialMoraine.description>Longas cristas de rocha e sedimento deixadas para trás pelo recuo do gelo. O terreno é irregular e instável, repleto de poças de água glacial derretida.</VEE_GlacialMoraine.description>
+  
+  <VEE_GravelBeach.label>praia de cascalho</VEE_GravelBeach.label>
+  <VEE_GravelBeach.description>Uma orla rigorosa de cascalho solto e pedras arredondadas, onde as ondas moem rocha contra rocha.</VEE_GravelBeach.description>
+  
+  <VEE_IceAndFire.label>gelo e fogo</VEE_IceAndFire.label>
+  <VEE_IceAndFire.description>Uma massa flutuante de gelo com um lago de lava ativo em seu interior. Não existe nada mais "metal" do que isso.</VEE_IceAndFire.description>
+  
+  <VEE_IceSpires.label>agulhas de gelo</VEE_IceSpires.label>
+  <VEE_IceSpires.description>Colunas de gelo altas e estreitas erguem-se do solo congelado, moldadas pelo vento e pelo frio extremo.</VEE_IceSpires.description>
+  
+  <VEE_JadeChunks.label>pedaços de jadeíta</VEE_JadeChunks.label>
+  <VEE_JadeChunks.description>Esta área contém pequenos depósitos de jadeíta.</VEE_JadeChunks.description>
+  
+  <VEE_JadeiteMountains.label>montanhas de jadeíta</VEE_JadeiteMountains.label>
+  <VEE_JadeiteMountains.description>A rocha encontrada nesta região é um mineral rico em jade.</VEE_JadeiteMountains.description>
+  
+  <VEE_JaggedRocks.label>rochas pontiagudas</VEE_JaggedRocks.label>
+  <VEE_JaggedRocks.description>Cristas rochosas finas cruzam esta região.</VEE_JaggedRocks.description>
+  
+  <VEE_LaurelForest.label>laurissilva</VEE_LaurelForest.label>
+  <VEE_LaurelForest.description>Uma floresta densa e perene que prospera em temperaturas amenas e umidade constante. Árvores de folhas largas retêm a umidade das nuvens passageiras, mantendo o solo sombreado e úmido o ano todo.</VEE_LaurelForest.description>
+  
+  <VEE_LittoralDunes.label>dunas litorâneas</VEE_LittoralDunes.label>
+  <VEE_LittoralDunes.description>Uma faixa de dunas férteis moldadas pelo vento que corre ao longo da orla, formada pela areia trazida do mar para o interior.</VEE_LittoralDunes.description>
+  
+  <VEE_LoneIsland.label>ilha costeira isolada</VEE_LoneIsland.label>
+  <VEE_LoneIsland.description>Uma grande ilha separada da costa.</VEE_LoneIsland.description>
+  
+  <VEE_LoneIslandWithLake.label>ilha com lago central</VEE_LoneIslandWithLake.label>
+  <VEE_LoneIslandWithLake.description>Uma grande ilha separada da costa com um lago de água doce em seu interior.</VEE_LoneIslandWithLake.description>
+  
+  <VEE_LoneIslandWithMountain.label>ilha ressurgente</VEE_LoneIslandWithMountain.label>
+  <VEE_LoneIslandWithMountain.description>Uma grande ilha separada da costa com um pico alto em seu centro.</VEE_LoneIslandWithMountain.description>
+  
+  <VEE_LushLavaFields.label>campos de lava exuberantes</VEE_LushLavaFields.label>
+  <VEE_LushLavaFields.description>Fluxos de lava antigos, rompidos por fendas e rochas resfriadas, agora sustentam uma vegetação densa. O calor persiste abaixo da superfície, criando uma paisagem estranha onde o crescimento vivo se espalha sobre a rocha negra.</VEE_LushLavaFields.description>
+  
+  <VEE_MangroveTerrain.label>pântano costeiro</VEE_MangroveTerrain.label>
+  <VEE_MangroveTerrain.description>Grandes piscinas interconectadas de água salobra dominam a área.</VEE_MangroveTerrain.description>
+  
+  <VEE_MeteorCrater.label>cratera de meteoro</VEE_MeteorCrater.label>
+  <VEE_MeteorCrater.description>Um vasto local de impacto com bordas rochosas irregulares e uma bacia repleta de detritos.</VEE_MeteorCrater.description>
+  
+  <VEE_Moor.label>charneca</VEE_Moor.label>
+  <VEE_Moor.description>Uma paisagem aberta e fustigada pelo vento, composta por arbustos baixos e gramíneas que crescem sobre solo encharcado. O terreno é turfoso e irregular, moldado pela exposição constante e pela má drenagem.</VEE_Moor.description>
+  
+  <VEE_MoorFlora.label>flora de charneca</VEE_MoorFlora.label>
+  <VEE_MoorFlora.description>Esta região é rica em arbustos baixos e resistentes e gramíneas misturadas com pinheiros retorcidos, todos adaptados ao solo ácido e encharcado e ao vento constante.</VEE_MoorFlora.description>
+  
+  <VEE_Mossy.label>musgoso</VEE_Mossy.label>
+  <VEE_Mossy.description>Esta área contém grandes manchas de solo musgoso.</VEE_Mossy.description>
+  
+  <VEE_ObsidianChunks.label>pedaços de obsidiana</VEE_ObsidianChunks.label>
+  <VEE_ObsidianChunks.description>Esta área contém pequenos pedaços de obsidiana.</VEE_ObsidianChunks.description>
+  
+  <VEE_PebbleDunes.label>dunas de seixos</VEE_PebbleDunes.label>
+  <VEE_PebbleDunes.description>Dunas baixas de seixos arredondados moldadas pelo vento constante e pelo terreno instável.</VEE_PebbleDunes.description>
+  
+  <VEE_PermafrostBasin.label>bacia de permafrost</VEE_PermafrostBasin.label>
+  <VEE_PermafrostBasin.description>Uma bacia rasa onde o solo permanece permanentemente congelado abaixo de um fino degelo superficial.</VEE_PermafrostBasin.description>
+  
+  <VEE_QuicksandDunes.label>dunas de areia movediça</VEE_QuicksandDunes.label>
+  <VEE_QuicksandDunes.description>Uma vasta extensão árida de areia e areia movediça rasa que impede o movimento. Esta área é extremamente inóspita.</VEE_QuicksandDunes.description>
+  
+  <VEE_QuicksandPits.label>poços de areia movediça</VEE_QuicksandPits.label>
+  <VEE_QuicksandPits.description>Esta região contém poças de areia movediça rasa que impedem o movimento.</VEE_QuicksandPits.description>
+  
+  <VEE_RedDesert.label>deserto vermelho</VEE_RedDesert.label>
+  <VEE_RedDesert.description>Um vasto deserto de areia rica em ferro, tingida de vermelho pelo lento desgaste de rochas antigas.</VEE_RedDesert.description>
+  
+  <VEE_RedDesertPlants.label>cactos do deserto vermelho</VEE_RedDesertPlants.label>
+  <VEE_RedDesertPlants.description>Esta região contém alguns cactos adaptados às areias vermelhas.</VEE_RedDesertPlants.description>
+  
+  <VEE_RelictDelta.label>delta relicto</VEE_RelictDelta.label>
+  <VEE_RelictDelta.description>Um leque de canais secos e depósitos de silte, moldados por um rio que outrora se dividia e fluía por aqui há muito tempo.</VEE_RelictDelta.description>
+  
+  <VEE_ResurgentCaldera.label>caldeira ressurgente</VEE_ResurgentCaldera.label>
+  <VEE_ResurgentCaldera.description>Antiga zona de colapso vulcânico com paredes de cratera íngremes, uma cúpula rochosa central e ecos de erupções passadas.</VEE_ResurgentCaldera.description>
+  
+  <VEE_RisingWaters.label>águas ascendentes</VEE_RisingWaters.label>
+  <VEE_RisingWaters.description>Uma planície costeira extremamente plana onde as marés avançam muito para o interior. Grandes extensões de terra são submersas regularmente.</VEE_RisingWaters.description>
+  
+  <VEE_RockRidge.label>crista rochosa</VEE_RockRidge.label>
+  <VEE_RockRidge.description>Uma crista rochosa que separa esta região em duas.</VEE_RockRidge.description>
+  
+  <VEE_SaltPlains.label>planícies de sal</VEE_SaltPlains.label>
+  <VEE_SaltPlains.description>A superfície seca de um oceano interior. Estéril e difícil de atravessar.</VEE_SaltPlains.description>
+  
+  <VEE_SerpentineCanyons.label>cânions serpentinos</VEE_SerpentineCanyons.label>
+  <VEE_SerpentineCanyons.description>Movimentos geológicos causaram diversas fissuras profundas nesta montanha.</VEE_SerpentineCanyons.description>
+  
+  <VEE_StagnantRivulet.label>riacho estagnado</VEE_StagnantRivulet.label>
+  <VEE_StagnantRivulet.description>Um rio de movimento lento onde a água mal flui, com seu curso obstruído por silte e poças rasas.</VEE_StagnantRivulet.description>
+  
+  <VEE_StoneForest.label>floresta de pedra</VEE_StoneForest.label>
+  <VEE_StoneForest.description>Uma estranha extensão de agulhas de pedra imponentes e formações rochosas irregulares, erguendo-se do solo como árvores gigantescas e petrificadas.</VEE_StoneForest.description>
+  
+  <VEE_SulfuricLake.label>lago sulfúrico</VEE_SulfuricLake.label>
+  <VEE_SulfuricLake.description>Um lago vulcânico estagnado com um forte e desagradável odor sulfúrico. Embora a água seja levemente tóxica, o solo ao redor é rico em nutrientes, sustentando uma vida vegetal resistente e tolerante ao enxofre.</VEE_SulfuricLake.description>
+  
+  <VEE_SulfuricRiver.label>rio sulfúrico</VEE_SulfuricRiver.label>
+  <VEE_SulfuricRiver.description>Um rio malcheiroso que carrega águas ácidas e carregadas de enxofre; suas margens são calcinadas e inóspitas para a maioria das formas de vida.</VEE_SulfuricRiver.description>
+  
+  <VEE_ToxicCrater.label>cratera tóxica</VEE_ToxicCrater.label>
+  <VEE_ToxicCrater.description>Um anel de pedra detonado circunda uma poça estagnada e malcheirosa. A água brilha fracamente...</VEE_ToxicCrater.description>
+  
+  <VEE_TropicalBeach.label>praia tropical</VEE_TropicalBeach.label>
+  <VEE_TropicalBeach.description>Uma região costeira quente moldada por marés constantes e tempestades sazonais. Praias arenosas e águas rasas sustentam uma vegetação densa ao longo da orla.</VEE_TropicalBeach.description>
+  
+  <VEE_TropicalBeachFlora.label>flora de praia tropical</VEE_TropicalBeachFlora.label>
+  <VEE_TropicalBeachFlora.description>Esta região é rica em palmeiras, incluindo cacaueiros, pandanos e tamareiras.</VEE_TropicalBeachFlora.description>
+  
+  <VEE_VolcanicSandDesert.label>deserto de areia vulcânica</VEE_VolcanicSandDesert.label>
+  <VEE_VolcanicSandDesert.description>Um deserto árido de areia vulcânica negra, originado de erupções há muito extintas.</VEE_VolcanicSandDesert.description>
+  
+  <VEE_VolcanicSandDesertFlora.label>flora de areia vulcânica</VEE_VolcanicSandDesertFlora.label>
+  <VEE_VolcanicSandDesertFlora.description>Esta região contém alguns cactos adaptados às areias vulcânicas e ausência de grama.</VEE_VolcanicSandDesertFlora.description>
+  
+  <VEE_Volcano.label>vulcão</VEE_Volcano.label>
+  <VEE_Volcano.description>Cristas de pedra carbonizada formam a borda de uma caldeira antiga, com seu coração brilhando em fúria derretida.</VEE_Volcano.description>
+
+  <VEE_AbandonedFarmland.label>terras agrícolas abandonadas</VEE_AbandonedFarmland.label>
+  <VEE_AbandonedFarmland.description>Esta região contém fazendas antigas que foram abandonadas há muito tempo devido à presença de secas.</VEE_AbandonedFarmland.description>
+
+  <VEE_DeadlifeVents.label>gêiseres de poeira mortal</VEE_DeadlifeVents.label>
+  <VEE_DeadlifeVents.description>Gêiseres sinistros que exalam uma poeira estranha, semelhante a cinzas — capaz de despertar os mortos sob sua influência assustadora.</VEE_DeadlifeVents.description>
+  
+  <VEE_DeepOreDevoid.label>sem minérios profundos</VEE_DeepOreDevoid.label>
+  <VEE_DeepOreDevoid.description>Esta área é tão pobre em minérios profundos que eles são quase inexistentes.</VEE_DeepOreDevoid.description>
+  
+  <VEE_DeepOrePoor.label>pobre em minérios profundos</VEE_DeepOrePoor.label>
+  <VEE_DeepOrePoor.description>Esta área é pobre em minérios profundos, diminuindo o rendimento das brocas profundas em 25%.</VEE_DeepOrePoor.description>
+  
+  <VEE_DeepOreRich.label>rico em minérios profundos</VEE_DeepOreRich.label>
+  <VEE_DeepOreRich.description>Esta área é rica em minérios profundos, aumentando o rendimento das brocas profundas em 25%.</VEE_DeepOreRich.description>
+  
+  <VEE_DeepSnow.label>neve sólida</VEE_DeepSnow.label>
+  <VEE_DeepSnow.description>Esta região está coberta por camadas pesadas e compactas de neve que dificultam o movimento e abafam o som.</VEE_DeepSnow.description>
+  
+  <VEE_EasyToTraverse.label>fácil de atravessar</VEE_EasyToTraverse.label>
+  <VEE_EasyToTraverse.description>Certas características geográficas nesta região facilitam a travessia.</VEE_EasyToTraverse.description>
+  
+  <VEE_Fertility_Reduced.label>fertilidade do solo reduzida</VEE_Fertility_Reduced.label>
+  <VEE_Fertility_Reduced.description>Esta área não contém solos férteis.</VEE_Fertility_Reduced.description>
+  
+  <VEE_HardToTraverse.label>difícil de atravessar</VEE_HardToTraverse.label>
+  <VEE_HardToTraverse.description>Certas características geográficas nesta região tornam a travessia mais difícil.</VEE_HardToTraverse.description>
+  
+  <VEE_LargeRiverBanks.label>margens de rio largas</VEE_LargeRiverBanks.label>
+  <VEE_LargeRiverBanks.description>O rio presente nesta região possui margens mais largas.</VEE_LargeRiverBanks.description>
+  
+  <VEE_MineableComponentSpacer.label>depósitos de componentes avançados</VEE_MineableComponentSpacer.label>
+  <VEE_MineableComponentSpacer.description>Esta área possui depósitos de maquinário antigo avançado, que podem ser minerados para obter componentes avançados.</VEE_MineableComponentSpacer.description>
+  
+  <VEE_MineralDevoid.label>sem minerais</VEE_MineralDevoid.label>
+  
+  <VEE_RotstinkVents.label>gêiseres de fedor de podridão</VEE_RotstinkVents.label>
+  <VEE_RotstinkVents.description>Gêiseres imundos que periodicamente expelem nuvens de miasma cadavérico, sufocando o ar com o fedor de decomposição.</VEE_RotstinkVents.description>
+  
+  <VEE_Sinkholes.label>dolinas</VEE_Sinkholes.label>
+  <VEE_Sinkholes.description>Esta região contém vários colapsos no solo formando poços profundos e instáveis, frequentemente expondo a rocha nua sob a superfície.</VEE_Sinkholes.description>
+  
+  <VEE_SmokeVents.label>gêiseres de fumaça</VEE_SmokeVents.label>
+  <VEE_SmokeVents.description>Fissuras fumegantes que exalam intermitentemente uma fumaça espessa e acre, reduzindo a visibilidade e sufocando os pulmões.</VEE_SmokeVents.description>
+  
+  <VEE_SteamGeysers_Decreased.label>sem atividade geotérmica</VEE_SteamGeysers_Decreased.label>
+  <VEE_SteamGeysers_Decreased.description>Gêiseres de vapor estão ausentes desta área.</VEE_SteamGeysers_Decreased.description>
+  
+  <VEE_ToxicVents.label>gêiseres tóxicos</VEE_ToxicVents.label>
+  <VEE_ToxicVents.description>Fissuras voláteis que periodicamente cospem gás verde nocivo, envenenando o ar e adoecendo qualquer coisa que o respire.</VEE_ToxicVents.description>
+  
+  <VEE_VolcanicRichSoil.label>solo vulcânico rico</VEE_VolcanicRichSoil.label>
+  <VEE_VolcanicRichSoil.description>Esta área possui manchas de solo vulcânico que têm uma fertilidade acima da média.</VEE_VolcanicRichSoil.description>
+
+  <VEE_IncreasedDiseases.label>doenças aumentadas</VEE_IncreasedDiseases.label>
+  <VEE_IncreasedDiseases.description>As doenças são 25% mais comuns nesta região.</VEE_IncreasedDiseases.description>
+  
+  <VEE_NoDiseases.label>sem doenças</VEE_NoDiseases.label>
+  <VEE_NoDiseases.description>Doenças raramente ocorrem nesta região, tornando-as uma ameaça quase inexistente.</VEE_NoDiseases.description>
+  
+  <VEE_ReducedDiseases.label>doenças reduzidas</VEE_ReducedDiseases.label>
+  <VEE_ReducedDiseases.description>As doenças são 25% menos comuns nesta região.</VEE_ReducedDiseases.description>
+  
+  
+</LanguageData>
