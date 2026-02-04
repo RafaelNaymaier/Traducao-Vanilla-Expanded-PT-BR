@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEC_DramaAndComedy.label>drama e comédia</VFEC_DramaAndComedy.label>
+  <VFEC_DramaAndComedy.description>Realize várias peças no palco do teatro como uma atividade recreativa.</VFEC_DramaAndComedy.description>
+  <VFEC_DramaAndComedy.generalRules.rulesStrings>
+    <li>subject->o palco da vida</li>
+    <li>subject_story->reavivou as artes atemporais do drama e da comédia, enriquecendo a alma da república através de performances e peças</li>
+    <li>subject_gerund->espelhando a condição humana, da tragédia à farsa, no palco comunitário</li>
+  </VFEC_DramaAndComedy.generalRules.rulesStrings>
+  
+  <VFEC_MeatDrying.label>secagem de carne</VFEC_MeatDrying.label>
+  <VFEC_MeatDrying.description>Construa varais de secagem de carne, permitindo preservar alimentos e criar uma iguaria romana.</VFEC_MeatDrying.description>
+  <VFEC_MeatDrying.generalRules.rulesStrings>
+    <li>subject->legado da preservação</li>
+    <li>subject_story->reavivou a antiga arte da secagem de carne, garantindo o sustento e deliciando palates com sabores aprimorados pelo tempo</li>
+    <li>subject_gerund->estendendo a fartura da caça através da sabedoria dos antigos</li>
+  </VFEC_MeatDrying.generalRules.rulesStrings>
+  
+  <VFEC_Mosaics.label>mosaicos</VFEC_Mosaics.label>
+  <VFEC_Mosaics.description>Construa excelentes mosaicos de pedra, utilizando diferentes cores e formas para expressar beleza. Lento para construir.</VFEC_Mosaics.description>
+  <VFEC_Mosaics.generalRules.rulesStrings>
+    <li>subject->mosaico da civilização</li>
+    <li>subject_story->criou mosaicos de pedra que capturam a essência da beleza e da narrativa através da cor e da forma</li>
+    <li>subject_gerund->incorporando a história de um povo nas próprias pedras que pavimentam seu caminho</li>
+  </VFEC_Mosaics.generalRules.rulesStrings>
+  
+  <VFEC_TemperatureControl.label>controle de temperatura</VFEC_TemperatureControl.label>
+  <VFEC_TemperatureControl.description>Crie grandes resfriadores passivos, uma forma de resfriar ambientes abaixo do ponto de congelamento sem eletricidade, ou pedras quentes, um aquecedor primitivo.</VFEC_TemperatureControl.description>
+  <VFEC_TemperatureControl.generalRules.rulesStrings>
+    <li>subject->mestres dos elementos</li>
+    <li>subject_story->dominou métodos naturais para desafiar os caprichos do clima, criando espaços de conforto através de resfriadores passivos e pedras quentes</li>
+    <li>subject_gerund->cultivando refúgios de calor e frescor, em desafio ao mundo exterior</li>
+  </VFEC_TemperatureControl.generalRules.rulesStrings>
+  
+  <VFEC_Thermaebath.label>termas</VFEC_Thermaebath.label>
+  <VFEC_Thermaebath.description>Construa grandes termas que usam gueisers de vapor para aquecer a água, permitindo que até 8 pessoas se banhem juntas, com uma chance ocasional de diversão em grupo.</VFEC_Thermaebath.description>
+  <VFEC_Thermaebath.generalRules.rulesStrings>
+    <li>subject->santuários de vapor</li>
+    <li>subject_story->construiu termas, refúgios comunitários de relaxamento e calor alimentados pelo sopro da terra</li>
+    <li>subject_gerund->promovendo o bem-estar comunitário e a intimidade no abraço do calor da natureza</li>
+  </VFEC_Thermaebath.generalRules.rulesStrings>
+  
+  <VFEC_Togas.label>togas</VFEC_Togas.label>
+  <VFEC_Togas.description>Fabrique togas, o traje cotidiano dos cidadãos da república.</VFEC_Togas.description>
+  <VFEC_Togas.generalRules.rulesStrings>
+    <li>subject->o tecido da sociedade</li>
+    <li>subject_story->recuperou a elegância e simplicidade da toga, o símbolo da cidadania e do gosto refinado</li>
+    <li>subject_gerund->envolvendo a república na dignidade e graça de seus ancestrais</li>
+  </VFEC_Togas.generalRules.rulesStrings>
+
+  <VFEC_BronzeWorking.label>trabalho em bronze</VFEC_BronzeWorking.label>
+  <VFEC_BronzeWorking.description>Mistura aço com pedaços de rocha para criar um metal um pouco mais fraco em grandes quantidades.</VFEC_BronzeWorking.description>
+  <VFEC_BronzeWorking.generalRules.rulesStrings>
+    <li>subject->a liga da antiguidade</li>
+    <li>subject_story->descobriu a alquimia de combinar aço com pedra para produzir bronze, marcando o amanhecer de uma nova era na metalurgia</li>
+    <li>subject_gerund->inaugurando uma era onde o metal se torna a espinha dorsal do progresso e do poder</li>
+  </VFEC_BronzeWorking.generalRules.rulesStrings>
+  
+  <VFEC_CementMaking.label>fabricação de cimento</VFEC_CementMaking.label>
+  <VFEC_CementMaking.description>Constrói uma prensa de cimento, que permite criar um material de pedra extremamente durável a partir de pedaços de rocha.</VFEC_CementMaking.description>
+  <VFEC_CementMaking.generalRules.rulesStrings>
+    <li>subject->o alicerce da civilização</li>
+    <li>subject_story->inovou na criação do cimento, transformando a pedra na base durável sobre a qual impérios são construídos</li>
+    <li>subject_gerund->lançando as bases para estruturas e monumentos duradouros com a força do cimento</li>
+  </VFEC_CementMaking.generalRules.rulesStrings>
+  
+  <VFEC_CraftingBench.label>bancada de artesanato</VFEC_CraftingBench.label>
+  <VFEC_CraftingBench.description>Constrói uma bancada para fabricar itens simples como porretes ou arcos.</VFEC_CraftingBench.description>
+  <VFEC_CraftingBench.generalRules.rulesStrings>
+    <li>subject->a base do artesão</li>
+    <li>subject_story->estabeleceu bancadas de artesanato como o coração da produção, onde matérias-primas são transformadas em ferramentas e tesouros</li>
+    <li>subject_gerund->esculpindo o futuro com cada item fabricado, do mais simples porrete ao arco mais preciso</li>
+  </VFEC_CraftingBench.generalRules.rulesStrings>
+  
+  <VFEC_RoadBuilding.label>construção de estradas</VFEC_RoadBuilding.label>
+  <VFEC_RoadBuilding.description>Constrói caminhos, estradas de terra e estradas de pedra diretamente no mapa-múndi, permitindo viagens de caravana mais rápidas.</VFEC_RoadBuilding.description>
+  <VFEC_RoadBuilding.generalRules.rulesStrings>
+    <li>subject->vias do progresso</li>
+    <li>subject_story->pavimentou o caminho para a expansão da civilização com a construção de estradas, conectando comunidades e fomentando o comércio</li>
+    <li>subject_gerund->traçando as artérias de comércio e comunicação a cada estrada construída, impulsionando a civilização adiante</li>
+  </VFEC_RoadBuilding.generalRules.rulesStrings>
+  
+  <VFEC_TyrianProduction.label>produção de púrpura tíria</VFEC_TyrianProduction.label>
+  <VFEC_TyrianProduction.description>Cria uma fazenda de púrpura tíria - uma estrutura de beira de rio que tinge tecidos, que podem então ser extraídos na forma de um tecido real extremamente valioso.</VFEC_TyrianProduction.description>
+  <VFEC_TyrianProduction.generalRules.rulesStrings>
+    <li>subject->o matiz da realeza</li>
+    <li>subject_story->cultivou fazendas de púrpura tíria ao longo das margens dos rios, dominando a arte de tingir tecidos em trajes reais, um símbolo de riqueza e status</li>
+    <li>subject_gerund->tecendo o tecido da sociedade com cores que impõem respeito e admiração</li>
+  </VFEC_TyrianProduction.generalRules.rulesStrings>
+  
+  <VFEC_WoodfiredCrematorium.label>crematório a lenha</VFEC_WoodfiredCrematorium.label>
+  <VFEC_WoodfiredCrematorium.description>Constrói um enorme crematório de pedra a lenha que vaporiza cadáveres com altas temperaturas.</VFEC_WoodfiredCrematorium.description>
+  <VFEC_WoodfiredCrematorium.generalRules.rulesStrings>
+    <li>subject->purificação pelas chamas</li>
+    <li>subject_story->concebeu o crematório a lenha, um testemunho de como lidar com os falecidos de uma maneira que respeita tanto os costumes culturais quanto as necessidades sanitárias</li>
+    <li>subject_gerund->abraçando o ciclo de vida e morte através da pureza elemental do fogo</li>
+  </VFEC_WoodfiredCrematorium.generalRules.rulesStrings>
+
+  <VFEC_Beacons.label>sinalizadores</VFEC_Beacons.label>
+  <VFEC_Beacons.description>Constrói grandes piras de madeira que, quando acesas, garantem a convocação de reforços aliados.</VFEC_Beacons.description>
+  <VFEC_Beacons.generalRules.rulesStrings>
+    <li>subject->piras de convocação</li>
+    <li>subject_story->construiu grandes piras de madeira, um sinal para os céus que convoca aliados para o campo de batalha</li>
+    <li>subject_gerund->unindo o destino dos aliados com chamas que os guiam para o combate</li>
+  </VFEC_Beacons.generalRules.rulesStrings>
+  
+  <VFEC_CenturionArmor.label>armadura de centurião</VFEC_CenturionArmor.label>
+  <VFEC_CenturionArmor.description>Forja conjuntos de armadura de centurião, excelentes para liderar homens em batalhas heroicas.</VFEC_CenturionArmor.description>
+  <VFEC_CenturionArmor.generalRules.rulesStrings>
+    <li>subject->manto de comando</li>
+    <li>subject_story->forjou conjuntos de armadura de centurião, imbuindo líderes com proteção e uma presença distinta</li>
+    <li>subject_gerund->vestindo as patentes de liderança com armaduras condizentes com seu valor e virtude</li>
+  </VFEC_CenturionArmor.generalRules.rulesStrings>
+  
+  <VFEC_HeavyShieldMaking.label>fabricação de escudos pesados</VFEC_HeavyShieldMaking.label>
+  <VFEC_HeavyShieldMaking.description>Cria os pesados escudos scutum, tipicamente associados aos legionários.</VFEC_HeavyShieldMaking.description>
+  <VFEC_HeavyShieldMaking.generalRules.rulesStrings>
+    <li>subject->baluartes da legião</li>
+    <li>subject_story->reinvigorou a tradição de fabricar escudos pesados, fornecendo proteção inigualável para aqueles que mantêm a linha</li>
+    <li>subject_gerund->forjando os escudos scutum, os guardiões inabaláveis dos legionários</li>
+  </VFEC_HeavyShieldMaking.generalRules.rulesStrings>
+  
+  <VFEC_LegionaryArmaments.label>armamentos legionários</VFEC_LegionaryArmaments.label>
+  <VFEC_LegionaryArmaments.description>Fabrica tendas, dardos, espatas e adagas, constituindo o arsenal legionário.</VFEC_LegionaryArmaments.description>
+  <VFEC_LegionaryArmaments.generalRules.rulesStrings>
+    <li>subject->arsenal dos antigos</li>
+    <li>subject_story->dominou a fabricação de dardos, espatas e adagas, garantindo a versatilidade e prontidão da legião na batalha</li>
+    <li>subject_gerund->equipando as legiões com um arsenal diversificado para conquista e defesa</li>
+  </VFEC_LegionaryArmaments.generalRules.rulesStrings>
+  
+  <VFEC_LegionnaireArmor.label>armadura legionária</VFEC_LegionnaireArmor.label>
+  <VFEC_LegionnaireArmor.description>Cria a armadura pesada dos legionários, capaz de suportar um alto grau de dano de corte.</VFEC_LegionnaireArmor.description>
+  <VFEC_LegionnaireArmor.generalRules.rulesStrings>
+    <li>subject->a pele de ferro</li>
+    <li>subject_story->fabricou armaduras pesadas que transformam guerreiros em forças indomáveis no campo de batalha, capazes de suportar os golpes mais ferozes</li>
+    <li>subject_gerund->revestindo os legionários com armaduras que tecem a invencibilidade com os fios da guerra</li>
+  </VFEC_LegionnaireArmor.generalRules.rulesStrings>
+  
+  <VFEC_Scorpion.label>escorpião</VFEC_Scorpion.label>
+  <VFEC_Scorpion.description>Constrói escorpiões, uma peça de artilharia de campo portátil que funciona como uma besta pesada semiautomática.</VFEC_Scorpion.description>
+  <VFEC_Scorpion.generalRules.rulesStrings>
+    <li>subject->ferrão da legião</li>
+    <li>subject_story->projetou escorpiões, unindo a precisão de uma besta com a força destrutiva da artilharia de campo</li>
+    <li>subject_gerund->liberando a precisão letal de antigas máquinas de guerra no campo de batalha moderno</li>
+  </VFEC_Scorpion.generalRules.rulesStrings>
+  
+</LanguageData>

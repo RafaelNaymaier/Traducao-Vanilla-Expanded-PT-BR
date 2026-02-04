@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEC_CentralRepublic.label>república central</VFEC_CentralRepublic.label>
+  <VFEC_CentralRepublic.description>Estas pessoas estão aqui há muito tempo. Sua civilização começou como uma reunião de tribos, mas rapidamente desenvolveu habilidades como escrita, alvenaria e serviço civil. \n\nApesar de sua aparente fraqueza tecnológica, a República pode ser uma inimiga perigosa ou uma amiga valiosa devido à sua habilidade em guerras de baixa tecnologia, seus números e sua resistência.\n\nEsta parte específica da República valoriza muito a produção e o desenvolvimento da cidade. Ganhar o apoio deles desbloqueará várias vantagens focadas em melhorar o bem-estar do povo.</VFEC_CentralRepublic.description>
+  <VFEC_CentralRepublic.leaderTitle>patrício</VFEC_CentralRepublic.leaderTitle>
+  <VFEC_CentralRepublic.messageDefendersAttacking>{0} de {1} estão atacando seu(s) {2}.</VFEC_CentralRepublic.messageDefendersAttacking>
+  <VFEC_CentralRepublic.pawnSingular>plebeu</VFEC_CentralRepublic.pawnSingular>
+  <VFEC_CentralRepublic.pawnsPlural>plebeus</VFEC_CentralRepublic.pawnsPlural>
+  
+  <VFEC_EasternRepublic.label>república oriental</VFEC_EasternRepublic.label>
+  <VFEC_EasternRepublic.description>Estas pessoas estão aqui há muito tempo. Sua civilização começou como uma reunião de tribos, mas rapidamente desenvolveu habilidades como escrita, alvenaria e serviço civil. \n\nApesar de sua aparente fraqueza tecnológica, o Império pode ser um inimigo perigoso ou um amigo valioso devido à sua habilidade em guerras de baixa tecnologia, seus números e sua resistência.\n\nEsta parte específica da República valoriza o trabalho duro e a produção em detrimento de brigas e intelecto. Ganhar o apoio deles desbloqueará várias vantagens focadas em pesquisa e progresso.</VFEC_EasternRepublic.description>
+  <VFEC_EasternRepublic.leaderTitle>patrício</VFEC_EasternRepublic.leaderTitle>
+  <VFEC_EasternRepublic.messageDefendersAttacking>{0} de {1} estão atacando seu(s) {2}.</VFEC_EasternRepublic.messageDefendersAttacking>
+  <VFEC_EasternRepublic.pawnSingular>plebeu</VFEC_EasternRepublic.pawnSingular>
+  <VFEC_EasternRepublic.pawnsPlural>plebeus</VFEC_EasternRepublic.pawnsPlural>
+  
+  <VFEC_WesternRepublic.label>república ocidental</VFEC_WesternRepublic.label>
+  <VFEC_WesternRepublic.description>Estas pessoas estão aqui há muito tempo. Sua civilização começou como uma reunião de tribos, mas rapidamente desenvolveu habilidades como escrita, alvenaria e serviço civil. \n\nApesar de sua aparente fraqueza tecnológica, o Império pode ser um inimigo perigoso ou um amigo valioso devido à sua habilidade em guerras de baixa tecnologia, seus números e sua resistência.\n\nEsta parte específica da República considera a honra e a superioridade na batalha como o que há de mais valioso. Ganhar o apoio deles desbloqueará várias vantagens focadas em táticas de guerra e exército.</VFEC_WesternRepublic.description>
+  <VFEC_WesternRepublic.leaderTitle>patrício</VFEC_WesternRepublic.leaderTitle>
+  <VFEC_WesternRepublic.messageDefendersAttacking>{0} de {1} estão atacando seu(s) {2}.</VFEC_WesternRepublic.messageDefendersAttacking>
+  <VFEC_WesternRepublic.pawnSingular>plebeu</VFEC_WesternRepublic.pawnSingular>
+  <VFEC_WesternRepublic.pawnsPlural>plebeus</VFEC_WesternRepublic.pawnsPlural>
+
+  <VFEC_NewEmpire.label>novo império</VFEC_NewEmpire.label>
+  <VFEC_NewEmpire.description>Um novo império.</VFEC_NewEmpire.description>
+  <VFEC_NewEmpire.leaderTitle>líder</VFEC_NewEmpire.leaderTitle>
+  <VFEC_NewEmpire.messageDefendersAttacking>{0} de {1} estão atacando seu(s) {2}.</VFEC_NewEmpire.messageDefendersAttacking>
+  <VFEC_NewEmpire.pawnSingular>plebeu</VFEC_NewEmpire.pawnSingular>
+  <VFEC_NewEmpire.pawnsPlural>plebeus</VFEC_NewEmpire.pawnsPlural>
+  
+</LanguageData>

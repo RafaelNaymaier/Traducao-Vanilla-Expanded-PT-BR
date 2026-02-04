@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEC_CenturionArmor.label>armadura de centurião</VFEC_CenturionArmor.label>
+  <VFEC_CenturionArmor.description>A presença da armadura de centurião encoraja os combatentes aliados próximos a ignorarem a dor durante a luta.</VFEC_CenturionArmor.description>
+  
+  <VFEC_CenturionArmorBuff.label>bônus de armadura de centurião</VFEC_CenturionArmorBuff.label>
+  <VFEC_CenturionArmorBuff.description>A habilidade de suportar a dor é aumentada graças à proximidade de alguém vestindo uma armadura de centurião.</VFEC_CenturionArmorBuff.description>
+
+  <VFEC_OpiumAddiction.label>vício em ópio</VFEC_OpiumAddiction.label>
+  <VFEC_OpiumAddiction.description>Um vício químico em ópio. A presença de longo prazo do ópio causou adaptações neurológicas em nível celular, de modo que o cérebro não consegue mais funcionar corretamente sem a droga.\n\nSem doses regulares de ópio, os sintomas de abstinência começarão. No entanto, a abstinência prolongada forçará o cérebro a se adaptar de volta ao seu estado normal, resolvendo o vício.</VFEC_OpiumAddiction.description>
+  <VFEC_OpiumAddiction.stages.withdrawal.label>abstinência</VFEC_OpiumAddiction.stages.withdrawal.label>
+  
+  <VFEC_OpiumHigh.label>sob efeito de ópio</VFEC_OpiumHigh.label>
+  <VFEC_OpiumHigh.description>Ópio ativo na corrente sanguínea. Suprime a dor completamente.</VFEC_OpiumHigh.description>
+  <VFEC_OpiumHigh.labelNoun>um barato de ópio</VFEC_OpiumHigh.labelNoun>
+  
+  <VFEC_OpiumTolerance.label>tolerância a ópio</VFEC_OpiumTolerance.label>
+  <VFEC_OpiumTolerance.description>Uma tolerância acumulada ao ópio. Quanto mais grave for esta tolerância, mais ópio será necessário para obter o mesmo efeito.</VFEC_OpiumTolerance.description>
+  <VFEC_OpiumTolerance.stages.small.label>pequena</VFEC_OpiumTolerance.stages.small.label>
+  <VFEC_OpiumTolerance.stages.large.label>grande</VFEC_OpiumTolerance.stages.large.label>
+  <VFEC_OpiumTolerance.stages.massive.label>massiva</VFEC_OpiumTolerance.stages.massive.label>
+  
+</LanguageData>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEC_MeatDryingRackNotWorking>Este varal de secagem de carne não está funcionando no momento</VFEC_MeatDryingRackNotWorking>
+  <VFEC_ConcretePressNotWorking>Esta prensa de cimento não está funcionando no momento</VFEC_ConcretePressNotWorking>
+  <VFEC_TyrianFarmNotWorking>Esta fazenda de púrpura tíria não está funcionando no momento</VFEC_TyrianFarmNotWorking>
+
+  <VFEC.Letters.SenatorJoins>Senador se junta a nós: {0}</VFEC.Letters.SenatorJoins>
+  <VFEC.Letters.SenatorJoins.Desc>{0}, senador de {1}, aceitou se aliar a você. A vantagem "{2}" agora está ativa.</VFEC.Letters.SenatorJoins.Desc>
+  <VFEC.Letters.SenatorJoins.Desc.Research>Ele também trouxe conhecimentos valiosos, concluindo a pesquisa de {0}.</VFEC.Letters.SenatorJoins.Desc.Research>
+  <VFEC.Letters.SenatorJoins.Desc.All>Com o apoio de todos os senadores de {0}, você desbloqueou o bônus "{1}". Além disso, agora os bônus são permanentes e não serão perdidos se um senador morrer.</VFEC.Letters.SenatorJoins.Desc.All>
+  <VFEC.Letters.SenatorJoins.Desc.All.Research>O esforço conjunto dos {0} senadores permitiu que vocês dominassem a tecnologia de {1}.</VFEC.Letters.SenatorJoins.Desc.All.Research>
+
+  <VFEC.Letters.SenatorLost>Senador perdido: {0}</VFEC.Letters.SenatorLost>
+  <VFEC.Letters.SenatorLost.Desc>{0}, senador de {1}, morreu sob sua responsabilidade. {1} elegerá um sucessor e você precisará reconquistar o favor dele. A vantagem "{2}" foi perdida.</VFEC.Letters.SenatorLost.Desc>
+
+  <VFEC.Letters.Donation>Tributo de {0}</VFEC.Letters.Donation>
+  <VFEC.Letters.Donation.Desc>{0} enviou um tributo de {1}.</VFEC.Letters.Donation.Desc>
+  <VFEC.Letters.Researched>Tecnologia Adquirida: {0}</VFEC.Letters.Researched>
+  <VFEC.Letters.Researched.Desc>{1} alcançou um novo patamar tecnológico e compartilhou os segredos com você.\n\nTecnologia desbloqueada: {0}</VFEC.Letters.Researched.Desc>
+
+  <VFEC.Senators.Open>Abrir painel do senado</VFEC.Senators.Open>
+  <VFEC.Senators.GainFavor>Você ganhou o favor do Senador {0} de {1}.</VFEC.Senators.GainFavor>
+  <VFEC.Senators.FavorOf>Favor de {0}</VFEC.Senators.FavorOf>
+  <VFEC.Senators.FavorTip>Você receberá o favor de {0}, que se juntará à sua colônia. Isso ativará sua vantagem exclusiva e concluirá automaticamente sua pesquisa associada.</VFEC.Senators.FavorTip>
+  <VFEC.TransferToColony>Transferir para a Colônia</VFEC.TransferToColony>
+  <VFEC.PerkUnlocked>A vantagem "{0}" foi desbloqueada.</VFEC.PerkUnlocked>
+
+  <VFEC.Scorpion.PickUp>Recolher Escorpião</VFEC.Scorpion.PickUp>
+  <VFEC.Scorpion.SetUp>Montar Escorpião</VFEC.Scorpion.SetUp>
+
+  <VFEC.LightTheBeacon>Acender o Farol</VFEC.LightTheBeacon>
+  <VFEC.LightTheBeacon.Desc>Acenda este farol para convocar reforços.</VFEC.LightTheBeacon.Desc>
+  <VFEC.Cooldown>Ainda em recarga.</VFEC.Cooldown>
+  <VFEC.NoAllies>Sem aliados.</VFEC.NoAllies>
+  <VFEC.NoReinforce>Sem reforços disponíveis.</VFEC.NoReinforce>
+  <VFEC.NoHostiles>aliados não encontraram inimigos</VFEC.NoHostiles>
+  <VFEC.ReinforcementLegionFailed>A legião de reforço não pôde ajudar: {0}.</VFEC.ReinforcementLegionFailed>
+
+  <VFEC.BuildingRoad>Construindo estrada: {0}, progresso: {1}, ({2}/{3})</VFEC.BuildingRoad>
+  <VFEC.RoadFinished>{0} terminou de construir {1}</VFEC.RoadFinished>
+
+  <VFEC.Unknown>Desconhecido</VFEC.Unknown>
+
+  <Outposts.MustBeMade>Deve ser estabelecido em: {0}</Outposts.MustBeMade>
+  <Outposts.MustBeMade.Hill>Deve ser estabelecido em montanhas ou colinas</Outposts.MustBeMade.Hill>
+  <Outposts.SkillTooLow>Habilidade total muito baixa, necessário: {0}</Outposts.SkillTooLow>
+  <Outposts.Settings.Shooting>Importância de Tiro</Outposts.Settings.Shooting>
+  <Outposts.Settings.Animals>Importância de Animais</Outposts.Settings.Animals>
+  <Outposts.Settings.NeedPods>Exigir Tecnologia de Cápsulas de Transporte para Enviar Reforços?</Outposts.Settings.NeedPods>
+  <Outposts.Settings.Leather>Multiplicador de Couro</Outposts.Settings.Leather>
+  <Outposts.Settings.Meat>Multiplicador de Carne</Outposts.Settings.Meat>
+
+  <VFEC.UI.SenatorsOf>Senadores de {0}</VFEC.UI.SenatorsOf>
+  <VFEC.UI.GainingFavor>Ganhar o favor deste senador desbloqueará:</VFEC.UI.GainingFavor>
+  <VFEC.UI.Perk>Vantagem: {0}</VFEC.UI.Perk>
+  <VFEC.UI.Research>Projeto de pesquisa: {0}</VFEC.UI.Research>
+  <VFEC.UI.ReQuest>Solicitar uma missão</VFEC.UI.ReQuest>
+  <VFEC.UI.Bribe>Subornar ({0} de prata)</VFEC.UI.Bribe>
+  <VFEC.UI.GainingFavorAll>Ganhar o favor de todos os senadores desbloqueará:</VFEC.UI.GainingFavorAll>
+  <VFEC.UI.SenatorsInFavor>Senadores a favor: {0}/{1}</VFEC.UI.SenatorsInFavor>
+  <VFEC.UI.Info>Ganhar o favor de um senador fará com que ele se junte à sua colônia. Perder esse senador forçará você a impressionar um novo. Por isso, você deve tentar mantê-los vivos.\n\nObtenha o apoio de todos os senadores para desbloquear vantagens únicas e, eventualmente, unir as Repúblicas sob o seu comando. Assim que ganhar o favor de todos os 5 senadores de qualquer República, as vantagens serão suas para sempre, não importa o que aconteça com os senadores.</VFEC.UI.Info>
+  <VFEC.UI.NotEnoughMoney>Você não tem dinheiro suficiente com você para fazer isso.</VFEC.UI.NotEnoughMoney>
+  <VFEC.UI.BribeReject>{0} rejeitou seu suborno e não pode mais ser subornado.</VFEC.UI.BribeReject>
+  <VFEC.UI.AlreadyQuest>Você já tem uma missão ativa para este senador.</VFEC.UI.AlreadyQuest>
+  <VFEC.UI.ViewPerks>Ver Vantagens</VFEC.UI.ViewPerks>
+  <VFEC.UI.ViewSenators>Ver Senadores</VFEC.UI.ViewSenators>
+  
+</LanguageData>

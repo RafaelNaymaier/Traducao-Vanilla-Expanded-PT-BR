@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Outpost_Farming.label>posto avançado de agricultura</Outpost_Farming.label>
+  <Outpost_Farming.description>Estabelece um acampamento temporário e autônomo especializado em semear e colher vegetação de fácil cultivo. Não pode ser colocado em desertos. Quando uma quantidade ampla for coletada, uma entrega será feita nos arredores da colônia principal da facção.</Outpost_Farming.description>
+  <Outpost_Farming.modExtensions.0.ChooseDesc>Escolha qual planta este posto avançado deve cultivar</Outpost_Farming.modExtensions.0.ChooseDesc>
+  <Outpost_Farming.modExtensions.0.ChooseLabel>Escolher planta</Outpost_Farming.modExtensions.0.ChooseLabel>
+  
+  <Outpost_Hunting.label>posto avançado de caça</Outpost_Hunting.label>
+  <Outpost_Hunting.description>Estabelece um acampamento temporário e autônomo especializado em caçar e abater a vida selvagem. Quando uma quantidade ampla for coletada, uma entrega será feita nos arredores da colônia principal da facção.</Outpost_Hunting.description>
+  <Outpost_Hunting.modExtensions.0.ChooseDesc>Escolha qual animal caçar neste posto avançado</Outpost_Hunting.modExtensions.0.ChooseDesc>
+  <Outpost_Hunting.modExtensions.0.ChooseLabel>Caçando {0}</Outpost_Hunting.modExtensions.0.ChooseLabel>
+  
+  <Outpost_Logging.label>posto avançado de extração de madeira</Outpost_Logging.label>
+  <Outpost_Logging.description>Estabelece um acampamento temporário e autônomo especializado em coletar madeira das árvores da região. Não pode ser colocado em desertos. Quando uma quantidade ampla for coletada, uma entrega será feita nos arredores da colônia principal da facção.</Outpost_Logging.description>
+  
+  <Outpost_Mining.label>posto avançado de mineração</Outpost_Mining.label>
+  <Outpost_Mining.description>Estabelece um acampamento temporário e autônomo especializado em coletar e processar pedra ou metal. Só pode ser colocado em colinas ou montanhas. Quando uma quantidade ampla for coletada, uma entrega será feita nos arredores da colônia principal da facção.</Outpost_Mining.description>
+  <Outpost_Mining.modExtensions.0.ChooseDesc>Clique para alterar o alvo da mineração.</Outpost_Mining.modExtensions.0.ChooseDesc>
+  <Outpost_Mining.modExtensions.0.ChooseLabel>Minerando {0}</Outpost_Mining.modExtensions.0.ChooseLabel>
+  
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEC_LeaderTitleMaker_Classical.rulePack.rulesStrings>
+    <li>r_leaderTitle->Senador</li>
+  </VFEC_LeaderTitleMaker_Classical.rulePack.rulesStrings>
+  
+  <VFEC_NamerFactionCentral.rulePack.rulesStrings>
+    <li>r_name->República Central</li>
+  </VFEC_NamerFactionCentral.rulePack.rulesStrings>
+  
+  <VFEC_NamerFactionEastern.rulePack.rulesStrings>
+    <li>r_name->República Oriental</li>
+  </VFEC_NamerFactionEastern.rulePack.rulesStrings>
+  
+  <VFEC_NamerFactionWestern.rulePack.rulesStrings>
+    <li>r_name->República Ocidental</li>
+  </VFEC_NamerFactionWestern.rulePack.rulesStrings>
+  
+  <VFEC_NamerPersonClassical.rulePack.rulesStrings>
+    <li>r_name(p=2)->[Classical_First_Male] [Classical_Last]</li>
+  </VFEC_NamerPersonClassical.rulePack.rulesStrings>
+  
+  <VFEC_NamerPersonClassicalFemale.rulePack.rulesStrings>
+    <li>r_name(p=2)->[Classical_First_Female] [Classical_Last]</li>
+  </VFEC_NamerPersonClassicalFemale.rulePack.rulesStrings>
+  
+  <VFEC_NamerSettlementClassical.rulePack.rulesStrings>
+    <li>r_name->[ClassicalName]</li>
+  </VFEC_NamerSettlementClassical.rulePack.rulesStrings>
+  
+</LanguageData>
