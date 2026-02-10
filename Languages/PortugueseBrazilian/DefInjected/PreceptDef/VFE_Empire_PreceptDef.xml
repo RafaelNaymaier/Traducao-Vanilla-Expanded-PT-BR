@@ -1,0 +1,16 @@
+﻿<VFEE_BestowHonor.description>Concede honrarias a um colono digno.</VFEE_BestowHonor.description><?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VFEE_BestowHonor.label>conceder honra</VFEE_BestowHonor.label>
+  <VFEE_BestowHonor.description>Concede honrarias a um colono digno.</VFEE_BestowHonor.description>
+
+  <VFEE_BestowTitle.label>conceder título</VFEE_BestowTitle.label>
+  <VFEE_BestowTitle.description>Concede um título real a um colono digno.</VFEE_BestowTitle.description>
+
+  <VFEE_ParadePrecept.label>Desfile</VFEE_ParadePrecept.label>
+  <VFEE_ParadePrecept.description>Desfile</VFEE_ParadePrecept.description>
+
+  <VFEE_RoyalAddress.label>discurso real</VFEE_RoyalAddress.label>
+  <VFEE_RoyalAddress.description>Inicia um discurso real a partir do trono. {ORGANIZER_labelShort} está proferindo um discurso real no trono. Se tudo correr bem, cada participante com título ganhará uma pequena quantidade de honra, e {ORGANIZER_labelShort} ganhará honra por cada participante titulado. Se correr mal, o discurso causará dano social e {ORGANIZER_labelShort} perderá honra por cada participante titulado. O resultado depende das habilidades sociais de {ORGANIZER_labelShort}. A nobreza imperial residindo atualmente na área participará do discurso e contará como participantes titulados.</VFEE_RoyalAddress.description>
+
+</LanguageData>

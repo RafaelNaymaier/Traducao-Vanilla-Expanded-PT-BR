@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEE_BestowHonor_Behavior.roles.0.label>outorgante</VFEE_BestowHonor_Behavior.roles.0.label>
+  <VFEE_BestowHonor_Behavior.roles.1.label>destinatário</VFEE_BestowHonor_Behavior.roles.1.label>
+
+  <VFEE_BestowTitle_Behavior.roles.0.label>organizador</VFEE_BestowTitle_Behavior.roles.0.label>
+  <VFEE_BestowTitle_Behavior.roles.1.label>destinatário</VFEE_BestowTitle_Behavior.roles.1.label>
+
+  <VFEE_Parade_Behavior.roles.0.label>estelar</VFEE_Parade_Behavior.roles.0.label>
+  <VFEE_Parade_Behavior.roles.1.label>guarda</VFEE_Parade_Behavior.roles.1.label>
+  <VFEE_Parade_Behavior.spectatorFilter.description>Nobres com Títulos</VFEE_Parade_Behavior.spectatorFilter.description>
+  <VFEE_Parade_Behavior.spectatorGerund>Nobres</VFEE_Parade_Behavior.spectatorGerund>
+  <VFEE_Parade_Behavior.spectatorsLabel>Nobres</VFEE_Parade_Behavior.spectatorsLabel>
+
+  <VFEE_RoyalAddres_Behavior.letterText>{ORGANIZER_labelShort} está proferindo um discurso real do trono. \n\nSe tudo correr bem, cada participante com título ganhará uma pequena quantidade de honra, e {ORGANIZER_labelShort} ganhará honra por cada participante titulado. Se correr mal, o discurso causará dano social e {ORGANIZER_labelShort} perderá honra por cada participante titulado. O resultado depende das habilidades sociais de {ORGANIZER_labelShort}. A nobreza imperial residindo atualmente na área se juntará ao discurso e contará como participantes titulados.</VFEE_RoyalAddres_Behavior.letterText>
+  <VFEE_RoyalAddres_Behavior.letterTitle>Discurso real do trono</VFEE_RoyalAddres_Behavior.letterTitle>
+  <VFEE_RoyalAddres_Behavior.roles.0.label>organizador</VFEE_RoyalAddres_Behavior.roles.0.label>
+  <VFEE_RoyalAddres_Behavior.roles.1.label>detentores de títulos</VFEE_RoyalAddres_Behavior.roles.1.label>
+
+</LanguageData>

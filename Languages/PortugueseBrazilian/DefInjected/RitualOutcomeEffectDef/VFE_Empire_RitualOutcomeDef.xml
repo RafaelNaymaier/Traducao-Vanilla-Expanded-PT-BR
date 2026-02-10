@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VFEE_ArtExhibit_Outcome.description>Dependendo da qualidade do ritual, os participantes receberão entre {MINMOOD} e {MAXMOOD} de humor por {MOODDAYS} dias.</VFEE_ArtExhibit_Outcome.description>
+  <VFEE_ArtExhibit_Outcome.comps.0.label>contagem de participantes</VFEE_ArtExhibit_Outcome.comps.0.label>
+  <VFEE_ArtExhibit_Outcome.comps.1.label>impressionabilidade da sala</VFEE_ArtExhibit_Outcome.comps.1.label>
+  <VFEE_ArtExhibit_Outcome.outcomeChances.0.label>Terrível</VFEE_ArtExhibit_Outcome.outcomeChances.0.label>
+  <VFEE_ArtExhibit_Outcome.outcomeChances.1.label>Tedioso</VFEE_ArtExhibit_Outcome.outcomeChances.1.label>
+  <VFEE_ArtExhibit_Outcome.outcomeChances.2.label>Agradável</VFEE_ArtExhibit_Outcome.outcomeChances.2.label>
+  <VFEE_ArtExhibit_Outcome.outcomeChances.3.label>Incrível</VFEE_ArtExhibit_Outcome.outcomeChances.3.label>
+
+  <VFEE_BestowHonor_Outcome.description>{ORGANIZER} ganhará {HONORS}.</VFEE_BestowHonor_Outcome.description>
+  <VFEE_BestowHonor_Outcome.comps.0.label>teste</VFEE_BestowHonor_Outcome.comps.0.label>
+
+  <VFEE_BestowTitle_Outcome.description>Dependendo da qualidade do ritual, os participantes receberão entre {MINMOOD} e {MAXMOOD} de humor por {MOODDAYS} dias.</VFEE_BestowTitle_Outcome.description>
+  <VFEE_BestowTitle_Outcome.comps.0.label>impacto social de {PAWN_labelShort}</VFEE_BestowTitle_Outcome.comps.0.label>
+  <VFEE_BestowTitle_Outcome.comps.0.labelAbstract>impacto social do destinatário</VFEE_BestowTitle_Outcome.comps.0.labelAbstract>
+  <VFEE_BestowTitle_Outcome.comps.1.label>contagem de participantes</VFEE_BestowTitle_Outcome.comps.1.label>
+  <VFEE_BestowTitle_Outcome.comps.2.label>trono disponível</VFEE_BestowTitle_Outcome.comps.2.label>
+  <VFEE_BestowTitle_Outcome.outcomeChances.0.label>Estranho</VFEE_BestowTitle_Outcome.outcomeChances.0.label>
+  <VFEE_BestowTitle_Outcome.outcomeChances.1.label>Bom</VFEE_BestowTitle_Outcome.outcomeChances.1.label>
+  <VFEE_BestowTitle_Outcome.outcomeChances.2.label>Incrível</VFEE_BestowTitle_Outcome.outcomeChances.2.label>
+
+  <VFEE_Parade_Outcome.description>Após a conclusão do desfile, o Estelar e seus companheiros escolhidos ascenderão para servir ao império!</VFEE_Parade_Outcome.description>
+  <VFEE_Parade_Outcome.outcomeChances.0.label>Incrível</VFEE_Parade_Outcome.outcomeChances.0.label>
+
+  <VFEE_RoyalAddres_Outcome.description>Dependendo da qualidade do ritual, os participantes receberão entre {MINMOOD} e {MAXMOOD} de humor por {MOODDAYS} dias.</VFEE_RoyalAddres_Outcome.description>
+  <VFEE_RoyalAddres_Outcome.comps.0.label>impacto social de {PAWN_labelShort}</VFEE_RoyalAddres_Outcome.comps.0.label>
+  <VFEE_RoyalAddres_Outcome.comps.0.labelAbstract>impacto social do orador</VFEE_RoyalAddres_Outcome.comps.0.labelAbstract>
+  <VFEE_RoyalAddres_Outcome.comps.1.label>contagem de participantes</VFEE_RoyalAddres_Outcome.comps.1.label>
+  <VFEE_RoyalAddres_Outcome.comps.2.label>impressionabilidade da sala</VFEE_RoyalAddres_Outcome.comps.2.label>
+  <VFEE_RoyalAddres_Outcome.outcomeChances.0.label>Terrível</VFEE_RoyalAddres_Outcome.outcomeChances.0.label>
+  <VFEE_RoyalAddres_Outcome.outcomeChances.1.label>Sem Inspiração</VFEE_RoyalAddres_Outcome.outcomeChances.1.label>
+  <VFEE_RoyalAddres_Outcome.outcomeChances.2.label>Encorajador</VFEE_RoyalAddres_Outcome.outcomeChances.2.label>
+  <VFEE_RoyalAddres_Outcome.outcomeChances.3.label>Inspirador</VFEE_RoyalAddres_Outcome.outcomeChances.3.label>
+
+  <VFEE_GrandBall_Outcome.description>Dependendo da qualidade do ritual, os participantes receberão entre {MINMOOD} e {MAXMOOD} de humor por {MOODDAYS} dias.</VFEE_GrandBall_Outcome.description>
+  <VFEE_GrandBall_Outcome.comps.0.label>contagem de participantes</VFEE_GrandBall_Outcome.comps.0.label>
+  <VFEE_GrandBall_Outcome.comps.1.label>impressionabilidade da sala</VFEE_GrandBall_Outcome.comps.1.label>
+  <VFEE_GrandBall_Outcome.outcomeChances.0.label>Terrível</VFEE_GrandBall_Outcome.outcomeChances.0.label>
+  <VFEE_GrandBall_Outcome.outcomeChances.1.label>Tedioso</VFEE_GrandBall_Outcome.outcomeChances.1.label>
+  <VFEE_GrandBall_Outcome.outcomeChances.2.label>Agradável</VFEE_GrandBall_Outcome.outcomeChances.2.label>
+  <VFEE_GrandBall_Outcome.outcomeChances.3.label>Incrível</VFEE_GrandBall_Outcome.outcomeChances.3.label>
+
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VFEE_JanissaryGear.label>equipamento de janízaro</VFEE_JanissaryGear.label>
+  <VFEE_JanissaryGear.description>Fabrique a armadura de janízaro, uma armadura energizada leve comumente usada por tropas de reconhecimento imperiais. Note que estas também exigem componentes avançados.</VFEE_JanissaryGear.description>
+  <VFEE_JanissaryGear.generalRules.rulesStrings>
+    <li>subject->engenharia de guerra de elite</li>
+    <li>subject_story->projetou armaduras que mesclavam tradições guerreiras antigas com o ápice da tecnologia de defesa moderna</li>
+    <li>subject_story->equipou batedores com equipamentos que mudaram o rumo de operações secretas</li>
+    <li>subject_story->criou um legado de guerreiros temidos tanto por sua proeza quanto por seu equipamento inigualável</li>
+    <li>subject_gerund->forjando o futuro do traje militar</li>
+  </VFEE_JanissaryGear.generalRules.rulesStrings>
+  
+  <VFEE_NobleDecorations.label>decorações nobres</VFEE_NobleDecorations.label>
+  <VFEE_NobleDecorations.description>Construa decorações nobres como tapetes reais, espelhos, cadeiras suntuosas, placas imperiais, candelabros e muito mais.</VFEE_NobleDecorations.description>
+  <VFEE_NobleDecorations.generalRules.rulesStrings>
+    <li>subject->elegância aristocrática</li>
+    <li>subject_story->projetou espaços de convivência dignos de reis e rainhas</li>
+    <li>subject_story->trouxe beleza e luxo para as vidas austeras da nobreza</li>
+    <li>subject_story->estabeleceu os padrões de opulência na decoração que duraram séculos</li>
+    <li>subject_gerund->elevando interiores aos padrões reais</li>
+  </VFEE_NobleDecorations.generalRules.rulesStrings>
+  
+  <VFEE_PipeOrgans.label>órgãos de tubos</VFEE_PipeOrgans.label>
+  <VFEE_PipeOrgans.description>Fabrique órgãos de tubos, um instrumento musical estacionário incrivelmente avançado e intrincado.</VFEE_PipeOrgans.description>
+  <VFEE_PipeOrgans.generalRules.rulesStrings>
+    <li>subject->maestria musical</li>
+    <li>subject_story->fabricou instrumentos que ecoaram tanto em catedrais quanto em salas de concerto</li>
+    <li>subject_story->combinou conhecimento antigo com acústica moderna para criar uma sinfonia de som</li>
+    <li>subject_story->inventou um órgão com tubos que imitavam a voz do divino</li>
+    <li>subject_gerund->harmonizando artesanato e arte</li>
+  </VFEE_PipeOrgans.generalRules.rulesStrings>
+  
+  <VFEE_StellicThrone.label>trono estelar</VFEE_StellicThrone.label>
+  <VFEE_StellicThrone.description>Construa o trono estelar mais grandioso e belo para a sua nobreza de alto escalão.</VFEE_StellicThrone.description>
+  <VFEE_StellicThrone.generalRules.rulesStrings>
+    <li>subject->artesanato régio</li>
+    <li>subject_story->forjou um trono do coração de uma estrela caída, simbolizando o domínio eterno</li>
+    <li>subject_story->criou não apenas um assento, mas um legado, garantindo que a presença do governante seja sentida mesmo em sua ausência</li>
+    <li>subject_story->fundiu a arte da ferraria com materiais celestiais para criar um trono digno de lendas</li>
+    <li>subject_gerund->criando o ápice do poder da nobreza</li>
+  </VFEE_StellicThrone.generalRules.rulesStrings>
+  
+</LanguageData>

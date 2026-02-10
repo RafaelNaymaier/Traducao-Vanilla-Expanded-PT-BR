@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEE_BestowAcolyte.label>outorgar: Acólito</VFEE_BestowAcolyte.label>
+  <VFEE_BestowAcolyte.description>Concede o título de Acólito a um colono selecionado. Esse colono agora terá 13 de honra. Não pode ser conjurado em um colono que já seja um Acólito ou superior. Possui um tempo de recarga de 3 dias.</VFEE_BestowAcolyte.description>
+  
+  <VFEE_BestowBaron.label>outorgar: Barão</VFEE_BestowBaron.label>
+  <VFEE_BestowBaron.description>Concede o título de Barão/Baronesa a um colono selecionado. Esse colono agora terá 45 de honra. Não pode ser conjurado em um colono que já seja um Barão/Baronesa ou superior. Possui um tempo de recarga de 3 dias.</VFEE_BestowBaron.description>
+  
+  <VFEE_BestowCount.label>outorgar: Conde</VFEE_BestowCount.label>
+  <VFEE_BestowCount.description>Concede o título de Conde/Condessa a um colono selecionado. Esse colono agora terá 45 de honra. Não pode ser conjurado em um colono que já seja um Conde/Condessa ou superior. Possui um tempo de recarga de 3 dias.</VFEE_BestowCount.description>
+  
+  <VFEE_BestowFreeholder.label>outorgar: Proprietário Livre</VFEE_BestowFreeholder.label>
+  <VFEE_BestowFreeholder.description>Concede o título de Proprietário Livre a um colono selecionado. Esse colono recebe 1 de honra. Não pode ser conjurado em um colono que já seja um Proprietário Livre ou superior. Possui um tempo de recarga de 3 dias.</VFEE_BestowFreeholder.description>
+  
+  <VFEE_BestowKnight.label>outorgar: Cavaleiro</VFEE_BestowKnight.label>
+  <VFEE_BestowKnight.description>Concede o título de Cavaleiro/Dama a um colono selecionado. Esse colono agora terá 21 de honra. Não pode ser conjurado em um colono que já seja um Cavaleiro/Dama ou superior. Possui um tempo de recarga de 3 dias.</VFEE_BestowKnight.description>
+  
+  <VFEE_BestowPraetor.label>outorgar: Pretor</VFEE_BestowPraetor.label>
+  <VFEE_BestowPraetor.description>Concede o título de Pretor a um colono selecionado. Esse colono agora terá 31 de honra. Não pode ser conjurado em um colono que já seja um Pretor ou superior. Possui um tempo de recarga de 3 dias.</VFEE_BestowPraetor.description>
+  
+  <VFEE_BestowYeoman.label>outorgar: Noviço</VFEE_BestowYeoman.label>
+  <VFEE_BestowYeoman.description>Concede o título de Noviço a um colono selecionado. Esse colono agora terá 7 de honra. Não pode ser conjurado em um colono que já seja um Noviço ou superior. Possui um tempo de recarga de 3 dias.</VFEE_BestowYeoman.description>
+  
+  <VFEE_RoyalAddress.label>discurso real</VFEE_RoyalAddress.label>
+  <VFEE_RoyalAddress.description>está fazendo um discurso real do trono. Se tudo correr bem, cada participante com título ganhará uma pequena quantidade de honra, e ganharão honra para cada participante intitulado presente. Se correr mal, o discurso causará dano social e perderão honra por cada participante intitulado. O resultado depende das habilidades sociais do orador. A nobreza imperial residindo na área no momento participará do discurso e contará como participantes intitulados.</VFEE_RoyalAddress.description>
+  
+</LanguageData>

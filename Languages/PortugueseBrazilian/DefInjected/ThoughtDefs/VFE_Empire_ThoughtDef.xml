@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VFEE_Chosen.stages.Chosen.label>Escolhido(a)</VFEE_Chosen.stages.Chosen.label>
+
+  <VFEE_FirstOfName.stages.First_of_Name.label>Primeiro(a) de Seu Nome</VFEE_FirstOfName.stages.First_of_Name.label>
+  <VFEE_FirstOfName.stages.First_of_Name.description>{OTHERPAWN_name} é o(a) primeiro(a) de seu nome.</VFEE_FirstOfName.stages.First_of_Name.description>
+
+  <VFEE_TheGreat.stages.Great_honor.label>Grande Honra</VFEE_TheGreat.stages.Great_honor.label>
+  <VFEE_TheGreat.stages.Great_honor.description>Eu sou o destinatário da Grande Honra.</VFEE_TheGreat.stages.Great_honor.description>
+
+  <VFEE_AmazingBall.stages.amazing_ball.label>baile incrível</VFEE_AmazingBall.stages.amazing_ball.label>
+  <VFEE_AmazingBall.stages.amazing_ball.description>Eu me diverti tanto naquele baile. Foi tudo o que imaginei e muito mais!</VFEE_AmazingBall.stages.amazing_ball.description>
+  
+  <VFEE_AmazingExhibit.stages.amazing_exhibit.label>exposição incrível</VFEE_AmazingExhibit.stages.amazing_exhibit.label>
+  <VFEE_AmazingExhibit.stages.amazing_exhibit.description>Eu não conseguia acreditar que a arte que já vi tantas vezes ainda pudesse ser tão fascinante, e a nobreza estava tão interessante.</VFEE_AmazingExhibit.stages.amazing_exhibit.description>
+  
+  <VFEE_BoringBall.stages.boring_ball.label>baile entediante</VFEE_BoringBall.stages.boring_ball.label>
+  <VFEE_BoringBall.stages.boring_ball.description>Eu esperava um momento grandioso. O que recebi deixou muito a desejar.</VFEE_BoringBall.stages.boring_ball.description>
+  
+  <VFEE_BoringExhibit.stages.boring_exhibit.label>exposição entediante</VFEE_BoringExhibit.stages.boring_exhibit.label>
+  <VFEE_BoringExhibit.stages.boring_exhibit.description>Eu esperava peças muito mais interessantes e uma apresentação melhor.</VFEE_BoringExhibit.stages.boring_exhibit.description>
+  
+  <VFEE_EnjoyableBall.stages.enjoyable_ball.label>baile agradável</VFEE_EnjoyableBall.stages.enjoyable_ball.label>
+  <VFEE_EnjoyableBall.stages.enjoyable_ball.description>Eu me diverti muito dançando naquele baile!</VFEE_EnjoyableBall.stages.enjoyable_ball.description>
+  
+  <VFEE_EnjoyableExhibit.stages.enjoyable_exhibit.label>exposição agradável</VFEE_EnjoyableExhibit.stages.enjoyable_exhibit.label>
+  <VFEE_EnjoyableExhibit.stages.enjoyable_exhibit.description>Foi muito interessante ver nossa coleção exibida desta forma. Foi um ótimo momento!</VFEE_EnjoyableExhibit.stages.enjoyable_exhibit.description>
+  
+  <VFEE_TerribleBall.stages.terrible_ball.label>baile terrível</VFEE_TerribleBall.stages.terrible_ball.label>
+  <VFEE_TerribleBall.stages.terrible_ball.description>Estou envergonhado por fazer parte daquele desastre. Só espero que ninguém faça fofoca sobre isso.</VFEE_TerribleBall.stages.terrible_ball.description>
+  
+  <VFEE_TerribleExhibit.stages.terrible_exhibit.label>exposição terrível</VFEE_TerribleExhibit.stages.terrible_exhibit.label>
+  <VFEE_TerribleExhibit.stages.terrible_exhibit.description>Estou envergonhado por termos sediado uma exposição de arte tão terrível. Nossa arte nunca mais será respeitada no império agora!</VFEE_TerribleExhibit.stages.terrible_exhibit.description>
+
+  <VFEE_BadVisit.stages.terrible_visit.label>visita terrível</VFEE_BadVisit.stages.terrible_visit.label>
+  <VFEE_BadVisit.stages.terrible_visit.description>Tive uma experiência terrível com aquele anfitrião.</VFEE_BadVisit.stages.terrible_visit.description>
+
+  <VFEE_LackingNobleCourt.stages.lacking_noble_court.label>corte nobre insuficiente</VFEE_LackingNobleCourt.stages.lacking_noble_court.label>
+  <VFEE_LackingNobleCourt.stages.lacking_noble_court.description>Minha corte nobre está insuficiente. Os requisitos formais do meu título devem ser sempre respeitados. Eu exijo estar cercado por: \n\n{0}</VFEE_LackingNobleCourt.stages.lacking_noble_court.description>
+
+  <VFEE_TitleBallroomRequirementsNotMet.stages.undignified_ballroom.label>salão de baile indigno</VFEE_TitleBallroomRequirementsNotMet.stages.undignified_ballroom.label>
+  <VFEE_TitleBallroomRequirementsNotMet.stages.undignified_ballroom.description>Eu sou {TITLE_indefinite} e deveria ter estes itens em meu salão de baile:\n\n{0}</VFEE_TitleBallroomRequirementsNotMet.stages.undignified_ballroom.description>
+
+  <VFEE_TitleGalleryRequirementsNotMet.stages.undignified_gallery.label>galeria indigna</VFEE_TitleGalleryRequirementsNotMet.stages.undignified_gallery.label>
+  <VFEE_TitleGalleryRequirementsNotMet.stages.undignified_gallery.description>Eu sou {TITLE_indefinite} e deveria ter estes itens em minha galeria:\n\n{0}</VFEE_TitleGalleryRequirementsNotMet.stages.undignified_gallery.description>
+
+  <VFEE_TitleNoBallroom.stages.no_ballroom.label>sem salão de baile</VFEE_TitleNoBallroom.stages.no_ballroom.label>
+  <VFEE_TitleNoBallroom.stages.no_ballroom.description>O que é um membro da realeza sem um salão de baile?</VFEE_TitleNoBallroom.stages.no_ballroom.description>
+
+  <VFEE_TitleNoGallery.stages.no_gallery.label>sem galeria</VFEE_TitleNoGallery.stages.no_gallery.label>
+  <VFEE_TitleNoGallery.stages.no_gallery.description>O que é um membro da realeza sem uma galeria real?</VFEE_TitleNoGallery.stages.no_gallery.description>
+
+</LanguageData>

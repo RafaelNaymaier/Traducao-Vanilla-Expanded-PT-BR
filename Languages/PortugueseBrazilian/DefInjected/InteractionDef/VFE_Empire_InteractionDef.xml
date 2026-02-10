@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VFEE_RoyalGossip.label>fofoca real</VFEE_RoyalGossip.label>
+  <VFEE_RoyalGossip.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [THIRDPARTY_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [THIRDPARTY_nameDef] com [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)->fofocaram sobre</li>
+    <li>talkedabout->trocaram palavras sobre</li>
+    <li>talkedabout->falaram sobre</li>
+    <li>talkedabout->tagarelaram sobre</li>
+    <li>talkedabout->conversaram sobre</li>
+    <li>talkedabout->fizeram piada sobre</li>
+    <li>talkedabout->debocharam de</li>
+  </VFEE_RoyalGossip.logRulesInitiator.rulesStrings>
+
+</LanguageData>

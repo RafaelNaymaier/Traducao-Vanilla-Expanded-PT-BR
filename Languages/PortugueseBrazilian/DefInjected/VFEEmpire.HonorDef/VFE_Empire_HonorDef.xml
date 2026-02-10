@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEE_Architect.label>O Arquiteto</VFEE_Architect.label>
+  <VFEE_Architect.description>A habilidade de construção nunca diminui.</VFEE_Architect.description>
+  
+  <VFEE_Artist.label>O Artista</VFEE_Artist.label>
+  <VFEE_Artist.description>A habilidade artística nunca diminui.</VFEE_Artist.description>
+  
+  <VFEE_Chef.label>O Chef</VFEE_Chef.label>
+  <VFEE_Chef.description>A habilidade de culinária nunca diminui.</VFEE_Chef.description>
+  
+  <VFEE_ChildOf.label>{CHILD} de {PARENT_labelShort}</VFEE_ChildOf.label>
+  <VFEE_ChildOf.description>A opinião de {PARENT_labelShort} sobre {PAWN_labelShort} está travada em 100. A opinião de {PAWN_labelShort} sobre {PARENT_labelShort} está travada em 100.</VFEE_ChildOf.description>
+  
+  <VFEE_Chosen.label>Escolhido de {FACTION_name}</VFEE_Chosen.label>
+  <VFEE_Chosen.description>+10 de opinião de cada membro de {FACTION_name}. +10 de opinião sobre cada membro de {FACTION_name}.</VFEE_Chosen.description>
+  
+  <VFEE_Craftsman.label>O Artesão</VFEE_Craftsman.label>
+  <VFEE_Craftsman.description>A habilidade de artesanato nunca diminui.</VFEE_Craftsman.description>
+  
+  <VFEE_Destroyer.label>Destruidor de {FACTION_name}</VFEE_Destroyer.label>
+  <VFEE_Destroyer.description>+10% de melhora no preço de negociação com inimigos de {FACTION_name}.</VFEE_Destroyer.description>
+  
+  <VFEE_FirstOfName.label>Primeiro de Seu Nome</VFEE_FirstOfName.label>
+  <VFEE_FirstOfName.description>Toda pessoa nobre tem +5 de opinião sobre este colono.</VFEE_FirstOfName.description>
+  
+  <VFEE_Gardener.label>O Jardineiro</VFEE_Gardener.label>
+  <VFEE_Gardener.description>A habilidade de plantas nunca diminui.</VFEE_Gardener.description>
+  
+  <VFEE_Healer.label>O Curandeiro</VFEE_Healer.label>
+  <VFEE_Healer.description>A habilidade de medicina nunca diminui.</VFEE_Healer.description>
+  
+  <VFEE_Intellectual.label>O Intelectual</VFEE_Intellectual.label>
+  <VFEE_Intellectual.description>A habilidade intelectual nunca diminui.</VFEE_Intellectual.description>
+  
+  <VFEE_LordOf.label>{RANK} de {SETTLEMENT_label}</VFEE_LordOf.label>
+  <VFEE_LordOf.description>+1 de Honra a cada 5 dias quando {PAWN_pronoun} estiver em {SETTLEMENT_label}.</VFEE_LordOf.description>
+  
+  <VFEE_Marksman.label>O Atirador</VFEE_Marksman.label>
+  <VFEE_Marksman.description>A habilidade de tiro nunca diminui.</VFEE_Marksman.description>
+  
+  <VFEE_Miner.label>O Minerador</VFEE_Miner.label>
+  <VFEE_Miner.description>A habilidade de mineração nunca diminui.</VFEE_Miner.description>
+  
+  <VFEE_Negotiator.label>O Negociador</VFEE_Negotiator.label>
+  <VFEE_Negotiator.description>A habilidade social nunca diminui.</VFEE_Negotiator.description>
+  
+  <VFEE_PatronOfArts.label>Patrono das Artes</VFEE_PatronOfArts.label>
+  <VFEE_PatronOfArts.description>+3 de Honra após uma exposição de arte bem-sucedida.</VFEE_PatronOfArts.description>
+  
+  <VFEE_Rancher.label>O Pecuarista</VFEE_Rancher.label>
+  <VFEE_Rancher.description>A habilidade de animais nunca diminui.</VFEE_Rancher.description>
+  
+  <VFEE_RulerOf.label>Governante de {SETTLEMENT_label}</VFEE_RulerOf.label>
+  <VFEE_RulerOf.description>A velocidade de coleta de dízimo de {SETTLEMENT_label} é dobrada.</VFEE_RulerOf.description>
+  
+  <VFEE_TheGreat.label>O Grande</VFEE_TheGreat.label>
+  <VFEE_TheGreat.description>+5 de humor</VFEE_TheGreat.description>
+  
+  <VFEE_Warrior.label>O Guerreiro</VFEE_Warrior.label>
+  <VFEE_Warrior.description>A habilidade corpo a corpo nunca diminui.</VFEE_Warrior.description>
+  
+  <VFEE_WieldOfWeapon.label>Portador de {WEAPON_label}</VFEE_WieldOfWeapon.label>
+  <VFEE_WieldOfWeapon.description>50% de chance de +1 de Honra para cada abate com {WEAPON_label}.</VFEE_WieldOfWeapon.description>
+  
+</LanguageData>
