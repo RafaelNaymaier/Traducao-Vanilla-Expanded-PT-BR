@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData> 
+
+  <VAEI_JoinCult.label>entrando para o culto</VAEI_JoinCult.label>
+  <VAEI_JoinCult.baseInspectLine>Estado mental: Entrando para o culto</VAEI_JoinCult.baseInspectLine>
+  <VAEI_JoinCult.beginLetter>{0} sucumbiu à influência do vazio.\n\n[PAWN_pronoun] decidiu partir e se juntar ao culto do vazio. Você pode tentar prendê-l[PAWN_objective] enquanto [PAWN_pronoun] sai. Caso contrário, você ainda poderá vê-l[PAWN_objective] na próxima vez que os cultistas decidirem atacar você.</VAEI_JoinCult.beginLetter>
+  <VAEI_JoinCult.beginLetterLabel>entrando para o culto</VAEI_JoinCult.beginLetterLabel>
+  <VAEI_JoinCult.recoveryMessage>{0} mudou de ideia e está voltando para a colônia.</VAEI_JoinCult.recoveryMessage>
+  
+  <VAEI_Madness.label>Loucura</VAEI_Madness.label>
+  <VAEI_Madness.baseInspectLine>Estado mental: Loucura</VAEI_Madness.baseInspectLine>
+  <VAEI_Madness.beginLetter>{PAWN_nameDef} perdeu a última conexão com quem {PAWN_pronoun} costumava ser. Seu apreço pela saúde, família, amizade e amor foi despedaçado pela exposição contínua às forças psíquicas sombrias e corruptoras do vazio.\n\n{PAWN_pronoun} agora entrará em um período severo de loucura por vários dias enquanto luta contra seu estado mental alterado e a percepção sombria do pesadelo que se aprofunda. Embora haja uma chance de que {PAWN_pronoun} supere esta crise e restaure sua sanidade, é muito mais provável que {PAWN_pronoun} seja completamente desumanizado(a).</VAEI_Madness.beginLetter>
+  
+  <VAEI_Sacrificial.label>sacrificial</VAEI_Sacrificial.label>
+  <VAEI_Sacrificial.baseInspectLine>Estado mental: Sacrificial</VAEI_Sacrificial.baseInspectLine>
+  
+  <VAEI_ViciousMockery.label>surto de zombaria</VAEI_ViciousMockery.label>
+  <VAEI_ViciousMockery.baseInspectLine>Estado mental: Surto de zombaria</VAEI_ViciousMockery.baseInspectLine>
+  <VAEI_ViciousMockery.beginLetter>{0} está em um surto de zombaria.\n\n[PAWN_pronoun] vagará por aí, zombando aleatoriamente de outros.</VAEI_ViciousMockery.beginLetter>
+  <VAEI_ViciousMockery.recoveryMessage>{0} não está mais em um surto de zombaria.</VAEI_ViciousMockery.recoveryMessage>
+  
+  <VAEI_VoidDrawing.label>desenho do vazio</VAEI_VoidDrawing.label>
+  <VAEI_VoidDrawing.baseInspectLine>Estado mental: Desenho do Vazio</VAEI_VoidDrawing.baseInspectLine>
+
+</LanguageData>

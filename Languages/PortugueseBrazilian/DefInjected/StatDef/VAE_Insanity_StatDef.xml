@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData> 
+
+  <VAEI_SanityGainMultiplier.label>multiplicador de ganho de sanidade</VAEI_SanityGainMultiplier.label>
+  <VAEI_SanityGainMultiplier.description>A quantidade de sanidade que esta pessoa ganhará por dia será multiplicada por este fator.</VAEI_SanityGainMultiplier.description>
+  
+  <VAEI_SanityGainPerDay.label>ganho de sanidade por dia</VAEI_SanityGainPerDay.label>
+  <VAEI_SanityGainPerDay.description>Quantidade de sanidade que esta pessoa ganhará por dia.</VAEI_SanityGainPerDay.description>
+  
+  <VAEI_SanityLossMultiplier.label>multiplicador de perda de sanidade</VAEI_SanityLossMultiplier.label>
+  <VAEI_SanityLossMultiplier.description>A quantidade de sanidade que esta pessoa perderá por dia será multiplicada por este fator.</VAEI_SanityLossMultiplier.description>
+  
+  <VAEI_SanityMultiplier.label>multiplicador de sanidade</VAEI_SanityMultiplier.label>
+  <VAEI_SanityMultiplier.description>Um multiplicador fixo para todos os ganhos e perdas de sanidade desta pessoa.</VAEI_SanityMultiplier.description>
+
+</LanguageData>

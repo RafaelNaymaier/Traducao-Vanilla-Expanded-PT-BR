@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VAEI_Sanity>Sanidade</VAEI_Sanity>
+  <VAEI_SanityLetterDesc>A sanidade de {PAWN_nameDef} foi testada por eventos recentes. O nível de sanidade de seus colonos agora pode ser visto na aba Necessidades.</VAEI_SanityLetterDesc>
+  <VAEI_SanityLossMessage>{PAWN_nameDef} perdeu sanidade devido a: {0}. A sanidade de {PAWN_nameDef} agora é {1}</VAEI_SanityLossMessage>
+  <VAEI_SanityGainMessage>{PAWN_nameDef} recuperou sanidade devido a: {0}. A sanidade de {PAWN_nameDef} agora é {1}</VAEI_SanityGainMessage>
+  <VAEI_PassiveEffects>Efeitos passivos:</VAEI_PassiveEffects>
+  <VAEI_MostRecentEvents>Efeitos mais recentes:</VAEI_MostRecentEvents>
+  <VAEI_PassiveSanityGain>Ganho passivo de sanidade: {0} - {1}</VAEI_PassiveSanityGain>
+  <VEAI_AnomalyStudy>Estudando {0}</VEAI_AnomalyStudy>
+  <VEAI_EatingTwistedMeat>Comendo carne distorcida</VEAI_EatingTwistedMeat>
+  <VEAI_EatingTwistedMeatAsIngredient>Comendo carne distorcida como ingrediente</VEAI_EatingTwistedMeatAsIngredient>
+  <VAEI_SuppressingEntity>Suprimindo {0}</VAEI_SuppressingEntity>
+  <VAEI_OccultTeaching>Ensinamento oculto por {PAWN_nameDef}</VAEI_OccultTeaching>
+  <VAEI_SanityRecord>{0} atrás: {1}: {2}</VAEI_SanityRecord>
+  <VAEI_DisturbingInteraction>{0} perturbador(a) de {PAWN_nameDef}</VAEI_DisturbingInteraction>
+  <VAEI_Interaction>{0} de {PAWN_nameDef}</VAEI_Interaction>
+  <VAEI_StatsReport_SanityGainPerDay>Ganho de sanidade por dia: {0}</VAEI_StatsReport_SanityGainPerDay>
+  <VAEI_LowSanity>Sanidade baixa</VAEI_LowSanity>
+  <VAEI_HighSanity>Sanidade alta</VAEI_HighSanity>
+  <VAEI_AnomalyBodypart>Parte do corpo anômala ({0})</VAEI_AnomalyBodypart>
+  <VAEI_BeingInLabyrinth>No labirinto</VAEI_BeingInLabyrinth>
+  <VAEI_BeingInUnnaturalDarkness>Na escuridão sobrenatural</VAEI_BeingInUnnaturalDarkness>
+  <VAEI_UnnaturalCorpse>Cadáver sobrenatural</VAEI_UnnaturalCorpse>
+  <VAEI_InvokerEffect>Invocação do ritual {0}</VAEI_InvokerEffect>
+  <VAEI_TargetEffect>Alvo do ritual {0}</VAEI_TargetEffect>
+  <VAEI_ChanterEffect>Cantando no ritual {0}</VAEI_ChanterEffect>
+  <VAEI_BeingDuplicated>Sendo duplicado(a)</VAEI_BeingDuplicated>
+  <VAEI_UsingThing>Usando {0}</VAEI_UsingThing>
+  <VAEI_KillingThing>Matando {0}</VAEI_KillingThing>
+  <VAEI_ReadingTome>Lendo tomo</VAEI_ReadingTome>
+  <VAEI_WeKilledNociosphere>a Nociosfera foi destruída</VAEI_WeKilledNociosphere>
+  <VAEI_PitgateCollapsed>o portão do abismo colapsou</VAEI_PitgateCollapsed>
+  <VAEI_Attending>Assistindo {0}</VAEI_Attending>
+  <VAEI_Meditating>Meditando</VAEI_Meditating>
+  <VAEI_VoidClosing>o Vazio se fechando</VAEI_VoidClosing>
+  <VAEI_SanityLoss>Ocorreu devido à perda total de sanidade (0%).</VAEI_SanityLoss>
+  <VAEI_Inhumanized>Desumanizado: {PAWN_nameDef}</VAEI_Inhumanized>
+  <VAEI_InhumanizedDesc>A conexão de {PAWN_nameDef} com a humanidade foi rompida. Sua transformação [PAWN_objective] deixou desapegado(a) das sensibilidades humanas, não sendo mais afetado(a) pela dor ou interações sociais, e tornando-se indiferente à estética da beleza ou ao ar livre. Sua mente, agora sintonizada com o vazio, ignora a maioria das emoções, encontrando consolo na meditação do vazio e em uma alegria misteriosa e inabalável que permeia sua existência.\n\n{PAWN_pronoun} ganhou o traço Desumanizado.\n\nEmbora drasticamente alterado(a), {PAWN_nameDef} ainda faz parte da sua facção, apenas desconectado(a) das experiências humanas típicas.</VAEI_InhumanizedDesc>
+  <VAEI_Recovered>Recuperado: {PAWN_nameDef}</VAEI_Recovered>
+  <VAEI_RecoveredDesc>{PAWN_nameDef} emergiu das profundezas da loucura, passando por uma catarse que restaurou parte da sanidade em sua mente. O aperto sufocante do vazio que antes dominava seus pensamentos afrouxou, concedendo-lhe uma paz frágil. Embora a jornada de volta à sanidade plena seja longa, {PAWN_pronoun} recuperou aspectos cruciais de sua clareza mental.\n\n{PAWN_pronoun} começou o lento processo de recuperação e não se tornou desumanizado(a) desta vez.</VAEI_RecoveredDesc>
+  <VEAI_RecoveringFromMadness>Recuperando-se da loucura</VEAI_RecoveringFromMadness>
+  <VAEI_Sacrificial>Sacrificial: {PAWN_nameDef}</VAEI_Sacrificial>
+  <VAEI_SacrificialDesc>A conexão de {PAWN_nameDef} com a humanidade foi rompida. Sua transformação [PAWN_objective] deixou desapegado(a) das sensibilidades humanas, imune à dor ou interações sociais. Sua mente, sintonizada ao vazio, ignora emoções e busca consolo na meditação sombria. Compelido(a) pelo chamado das trevas, {PAWN_pronoun} agora busca encerrar sua própria existência em um ato final de sacrifício ao vazio.\n\n{PAWN_pronoun} ganhou o traço Desumanizado.\n\n{PAWN_nameDef} está em um caminho de autodestruição, mas ainda pode ser contido(a) se você prendê-l[PAWN_objective] a tempo.</VAEI_SacrificialDesc>
+  <VAEI_EnableSelfHarmContent>Habilitar conteúdo de autoflagelação (estado mental sacrificial, interações de dano próprio)</VAEI_EnableSelfHarmContent>
+  <VAEI_ModSettingsName>VAE - Insanity</VAEI_ModSettingsName>
+  <VAEI_SanityFactorExplanation>Sanidade ({0}): {1}</VAEI_SanityFactorExplanation>
+  <VAEI_SanityOffsetExplanation>Sanidade ({0}): {1}</VAEI_SanityOffsetExplanation>
+  <VAEI_ObservingVoidDrawings>Observando desenhos do vazio</VAEI_ObservingVoidDrawings>
+  <VAEI_Wearing>Vestindo {0}</VAEI_Wearing>
+  <VAEI_Rehumanized>Reumanizado: {PAWN_nameDef}</VAEI_Rehumanized>
+  <VAEI_RehumanizedDesc>Como {PAWN_nameDef} recuperou sua sanidade, {PAWN_pronoun} foi reumanizado(a). O traço Desumanizado foi substituído por: {0}.
+
+{1}
+
+Infelizmente, {PAWN_nameDef} permanecerá para sempre propenso(a) a perder o juízo novamente, ainda mais que os outros. Qualquer efeito negativo na sanidade será dobrado, o que pode fazer com que {PAWN_nameDef} se torne desumanizado(a) novamente.</VAEI_RehumanizedDesc>
+  <VAEI_SanityLossEffects>Efeitos de perda/ganho de sanidade:</VAEI_SanityLossEffects>
+  <VAEI_SuppressingEntities>Suprimindo entidades (sanidade por dia):</VAEI_SuppressingEntities>
+  <VAEI_StudyingEntities>Estudando entidades:</VAEI_StudyingEntities>
+  <VAEI_KillingEntities>Matando entidades:</VAEI_KillingEntities>
+  <VAEI_DisturbingInitiatorEffects>Interações perturbadoras (iniciador):</VAEI_DisturbingInitiatorEffects>
+  <VAEI_InteractionEffects>Interações:</VAEI_InteractionEffects>
+  <VAEI_NonDisturbingInitiatorEffects>Interações não-perturbadoras (iniciador):</VAEI_NonDisturbingInitiatorEffects>
+  <VAEI_HediffEffects>Condições de saúde (sanidade por dia):</VAEI_HediffEffects>
+  <VAEI_UsedThingsEffects>Usando objetos:</VAEI_UsedThingsEffects>
+  <VAEI_RitualEffects>Participando de rituais:</VAEI_RitualEffects>
+  <VAEI_InvokerEffects>Ritual psíquico (invocador):</VAEI_InvokerEffects>
+  <VAEI_TargetEffects>Ritual psíquico (alvo):</VAEI_TargetEffects>
+  <VAEI_ChanterEffects>Ritual psíquico (cantor):</VAEI_ChanterEffects>
+  <VAEI_MarriageCeremony>Cerimônia de casamento</VAEI_MarriageCeremony>
+  <VAEI_Party>Festejando</VAEI_Party>
+  <VAEI_General>Geral</VAEI_General>
+  <VAEI_KillingShambler>Andarilho Cadavérico</VAEI_KillingShambler>
+  <VAEI_KillingNociosphere>Nociosfera</VAEI_KillingNociosphere>
+  <VAEI_PerformingJobs>Realizando trabalhos (sanidade por dia):</VAEI_PerformingJobs>
+  <VAEI_PitGateCollapsing>Colapso do portão do abismo</VAEI_PitGateCollapsing>
+  <VAEI_RecoveringFromMadness>Recuperando-se da loucura</VAEI_RecoveringFromMadness>
+  <VAEI_PassiveEffectsPerDay>Efeitos passivos (sanidade por dia):</VAEI_PassiveEffectsPerDay>
+  
+</LanguageData>

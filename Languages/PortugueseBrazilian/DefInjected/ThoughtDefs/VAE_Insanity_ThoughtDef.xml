@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData> 
+
+  <VAEI_DeepTalkQuestion.stages.deep_talk.label>conversa profunda?</VAEI_DeepTalkQuestion.stages.deep_talk.label>
+  
+  <VAEI_DirtyRoom.stages.slightly_dirty_surroundings.label>arredores levemente sujos</VAEI_DirtyRoom.stages.slightly_dirty_surroundings.label>
+  <VAEI_DirtyRoom.stages.slightly_dirty_surroundings.description>O quarto em que estou está um pouco sujo. Isso me assusta.</VAEI_DirtyRoom.stages.slightly_dirty_surroundings.description>
+  <VAEI_DirtyRoom.stages.dirty_surroundings.label>arredores sujos</VAEI_DirtyRoom.stages.dirty_surroundings.label>
+  <VAEI_DirtyRoom.stages.dirty_surroundings.description>O quarto em que estou está sujo. Isso me causa repulsa.</VAEI_DirtyRoom.stages.dirty_surroundings.description>
+  <VAEI_DirtyRoom.stages.very_dirty_surroundings.label>arredores muito sujos</VAEI_DirtyRoom.stages.very_dirty_surroundings.label>
+  <VAEI_DirtyRoom.stages.very_dirty_surroundings.description>O quarto em que estou está incrivelmente sujo. Preciso sair daqui o mais rápido possível.</VAEI_DirtyRoom.stages.very_dirty_surroundings.description>
+  
+  <VAEI_Gagged.stages.gagged.label>amordaçado(a)</VAEI_Gagged.stages.gagged.label>
+  <VAEI_Gagged.stages.gagged.description>Hmpff, huff hmphhhh</VAEI_Gagged.stages.gagged.description>
+  
+  <VAEI_KindWordsQuestion.stages.kind_words.label>palavras gentis?</VAEI_KindWordsQuestion.stages.kind_words.label>
+  <VAEI_KindWordsQuestion.stages.kind_words.description>Acho que fui agraciado com palavras gentis. Eu acho.</VAEI_KindWordsQuestion.stages.kind_words.description>
+  
+  <VAEI_KindWordsQuestionMemory.stages.kind_words.label>palavras gentis?</VAEI_KindWordsQuestionMemory.stages.kind_words.label>
+  
+  <VAEI_MockedMemory.stages.mocked.label>alvo de zombaria</VAEI_MockedMemory.stages.mocked.label>
+  
+  <VAEI_MockedMood.stages.mocked.label>zombado(a)</VAEI_MockedMood.stages.mocked.label>
+  <VAEI_MockedMood.stages.mocked.description>Zombaram das minhas inseguranças! Que pessoa maligna!</VAEI_MockedMood.stages.mocked.description>
+  
+  <VAEI_MoodSwing.stages.happy_thoughts.label>pensamentos felizes</VAEI_MoodSwing.stages.happy_thoughts.label>
+  <VAEI_MoodSwing.stages.happy_thoughts.description>Sinto uma felicidade suave, como um sorriso silencioso se espalhando pelo meu dia.</VAEI_MoodSwing.stages.happy_thoughts.description>
+  <VAEI_MoodSwing.stages.very_happy_thoughts.label>pensamentos muito felizes</VAEI_MoodSwing.stages.very_happy_thoughts.label>
+  <VAEI_MoodSwing.stages.very_happy_thoughts.description>Estou em uma onda de alegria e positividade, sentindo-me verdadeiramente feliz e contente.</VAEI_MoodSwing.stages.very_happy_thoughts.description>
+  <VAEI_MoodSwing.stages.sad_thoughts.label>pensamentos tristes</VAEI_MoodSwing.stages.sad_thoughts.label>
+  <VAEI_MoodSwing.stages.sad_thoughts.description>Sinto-me sobrecarregado por uma tristeza que é difícil de afastar.</VAEI_MoodSwing.stages.sad_thoughts.description>
+  <VAEI_MoodSwing.stages.very_sad_thoughts.label>pensamentos muito tristes</VAEI_MoodSwing.stages.very_sad_thoughts.label>
+  <VAEI_MoodSwing.stages.very_sad_thoughts.description>Meu coração parece esmagado por uma tristeza intensa e profunda, quase insuportável.</VAEI_MoodSwing.stages.very_sad_thoughts.description>
+  
+  <VAEI_Rehumanized.stages.rehumanized.label>reumanizado(a)</VAEI_Rehumanized.stages.rehumanized.label>
+  <VAEI_Rehumanized.stages.rehumanized.description>É tão bom finalmente me sentir normal de novo. Bem, quase normal.</VAEI_Rehumanized.stages.rehumanized.description>
+  
+  <VAEI_Restrained.stages.restrained.label>contido(a)</VAEI_Restrained.stages.restrained.label>
+  <VAEI_Restrained.stages.restrained.description>Eu quero tirar essa camisa de força! Não consigo fazer nada!</VAEI_Restrained.stages.restrained.description>
+  
+  <VAEI_SanityEffectWithInhumanized.stages.sane_thoughts.label>pensamentos sãos</VAEI_SanityEffectWithInhumanized.stages.sane_thoughts.label>
+  <VAEI_SanityEffectWithInhumanized.stages.sane_thoughts.description>A clareza perfura como uma faca. A verdade mundana é dolorosamente monótona.</VAEI_SanityEffectWithInhumanized.stages.sane_thoughts.description>
+  <VAEI_SanityEffectWithInhumanized.stages.sane_doubts.label>dúvidas sãs</VAEI_SanityEffectWithInhumanized.stages.sane_doubts.label>
+  <VAEI_SanityEffectWithInhumanized.stages.sane_doubts.description>A dúvida se aproxima, questionando o caos. Por que esta clareza parece correntes?</VAEI_SanityEffectWithInhumanized.stages.sane_doubts.description>
+  <VAEI_SanityEffectWithInhumanized.stages.sane_feelings.label>sentimentos sãos</VAEI_SanityEffectWithInhumanized.stages.sane_feelings.label>
+  <VAEI_SanityEffectWithInhumanized.stages.sane_feelings.description>Sentimentos de normalidade corroem minha mente, apagando a bela loucura.</VAEI_SanityEffectWithInhumanized.stages.sane_feelings.description>
+  
+  <VAEI_SanityEffectWithoutInhumanized.stages.sanity_affected.label>sanidade afetada</VAEI_SanityEffectWithoutInhumanized.stages.sanity_affected.label>
+  <VAEI_SanityEffectWithoutInhumanized.stages.sanity_affected.description>O mundo começa a se dobrar nas bordas; a realidade parece menos certa.</VAEI_SanityEffectWithoutInhumanized.stages.sanity_affected.description>
+  <VAEI_SanityEffectWithoutInhumanized.stages.sanity_degraded.label>sanidade degradada</VAEI_SanityEffectWithoutInhumanized.stages.sanity_degraded.label>
+  <VAEI_SanityEffectWithoutInhumanized.stages.sanity_degraded.description>As coisas estão escapando, e sussurros ecoam nos cantos da minha mente.</VAEI_SanityEffectWithoutInhumanized.stages.sanity_degraded.description>
+  <VAEI_SanityEffectWithoutInhumanized.stages.sanity_crumbling.label>sanidade desmoronando</VAEI_SanityEffectWithoutInhumanized.stages.sanity_crumbling.label>
+  <VAEI_SanityEffectWithoutInhumanized.stages.sanity_crumbling.description>Meu controle enfraquece; as sombras dançam e o mundo gira incontrolavelmente.</VAEI_SanityEffectWithoutInhumanized.stages.sanity_crumbling.description>
+  <VAEI_SanityEffectWithoutInhumanized.stages.sanity_lost.label>sanidade perdida</VAEI_SanityEffectWithoutInhumanized.stages.sanity_lost.label>
+  <VAEI_SanityEffectWithoutInhumanized.stages.sanity_lost.description>Estou à deriva no vazio, desatado das âncoras da realidade e da razão.</VAEI_SanityEffectWithoutInhumanized.stages.sanity_lost.description>
+  
+  <VAEI_Suspicious.stages.suspicious.label>suspeito(a)</VAEI_Suspicious.stages.suspicious.label>
+  
+  <VAEI_VileSlanderMemory.stages.vile_slander.label>calúnia vil</VAEI_VileSlanderMemory.stages.vile_slander.label>
+  
+  <VAEI_VileSlanderMood.stages.vile_slander.label>calúnia vil</VAEI_VileSlanderMood.stages.vile_slander.label>
+  <VAEI_VileSlanderMood.stages.vile_slander.description>Fui acusado(a) de algo absolutamente vil! Como puderam dizer aquilo?</VAEI_VileSlanderMood.stages.vile_slander.description>
+  
+  <VAEI_VoidDrawings.stages.observed_void_drawings.label>desenhos do vazio observados</VAEI_VoidDrawings.stages.observed_void_drawings.label>
+  <VAEI_VoidDrawings.stages.observed_void_drawings.description>Presenciei um desenho muito sinistro. Parece que ele fala comigo.</VAEI_VoidDrawings.stages.observed_void_drawings.description>
+  
+  <VAEI_VoidHarmed.stages.void_harmed.label>ferido(a) pelo vazio</VAEI_VoidHarmed.stages.void_harmed.label>
+  <VAEI_VoidHarmed.stages.void_harmed.description>Eu me feri pelo vazio. Posso sentir o doce abraço das trevas.</VAEI_VoidHarmed.stages.void_harmed.description>
+
+</LanguageData>

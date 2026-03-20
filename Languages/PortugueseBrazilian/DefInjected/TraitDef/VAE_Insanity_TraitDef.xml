@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VAEI_Distractable.label>Distraído</VAEI_Distractable.label>
+  <VAEI_Distractable.degreeDatas.distractable.label>Distraído</VAEI_Distractable.degreeDatas.distractable.label>
+  <VAEI_Distractable.degreeDatas.distractable.description>{PAWN_nameDef} tem hiperfoco em certas coisas quando sente vontade, mas na maior parte do tempo {PAWN_pronoun} terá dificuldade em se concentrar em suas tarefas, afetando severamente sua velocidade de trabalho.</VAEI_Distractable.degreeDatas.distractable.description>
+  
+  <VAEI_Germaphobe.label>Germafóbico</VAEI_Germaphobe.label>
+  <VAEI_Germaphobe.degreeDatas.germaphobe.label>Germafóbico</VAEI_Germaphobe.degreeDatas.germaphobe.label>
+  <VAEI_Germaphobe.degreeDatas.germaphobe.description>{PAWN_nameDef} tem pavor de germes e contaminação, o que leva a uma limpeza excessivamente lenta e meticulosa, mas devido à sua natureza cuidadosa, nunca contrairá gripe, malária ou peste.</VAEI_Germaphobe.degreeDatas.germaphobe.description>
+  
+  <VAEI_Inhumanized.degreeDatas.inhumanized.label>Desumanizado</VAEI_Inhumanized.degreeDatas.inhumanized.label>
+  <VAEI_Inhumanized.degreeDatas.inhumanized.description>A mente de {PAWN_nameDef} é dominada pelos padrões psíquicos do vazio. {PAWN_pronoun} está completamente desconectado(a) das preocupações humanas de família, amizade e amor. Sua experiência da realidade é distante e silenciosa, guiada pelo ritmo psíquico de uma hiperinteligência sombria.</VAEI_Inhumanized.degreeDatas.inhumanized.description>
+  
+  <VAEI_MoodSwings.label>Instável</VAEI_MoodSwings.label>
+  <VAEI_MoodSwings.degreeDatas.mood_swings.label>Instável</VAEI_MoodSwings.degreeDatas.mood_swings.label>
+  <VAEI_MoodSwings.degreeDatas.mood_swings.description>{PAWN_nameDef} sofre de graves oscilações de humor que podem durar entre um dia e um quadrum. Em um dia {PAWN_pronoun} pode estar extremamente feliz, enquanto no dia seguinte, extremamente triste.</VAEI_MoodSwings.degreeDatas.mood_swings.description>
+  
+  <VAEI_Noncommittal.label>Descompromissado</VAEI_Noncommittal.label>
+  <VAEI_Noncommittal.degreeDatas.noncommittal.label>Descompromissado</VAEI_Noncommittal.degreeDatas.noncommittal.label>
+  <VAEI_Noncommittal.degreeDatas.noncommittal.description>{PAWN_nameDef} tem um medo desesperado de compromisso. {PAWN_pronoun} recusará ativamente qualquer apego a outros e nunca formará novos relacionamentos.</VAEI_Noncommittal.degreeDatas.noncommittal.description>
+  
+  <VAEI_Unstable.label>Impulsivo</VAEI_Unstable.label>
+  <VAEI_Unstable.degreeDatas.impulsive.label>Impulsivo</VAEI_Unstable.degreeDatas.impulsive.label>
+  <VAEI_Unstable.degreeDatas.impulsive.description>A base emocional de {PAWN_nameDef} é frágil, tornando-[PAWN_objective] significativamente mais propenso(a) a desmoronar sob estresse. {PAWN_pronoun} tem dificuldade em lidar com a pressão, o que frequentemente leva a colapsos em situações desafiadoras.</VAEI_Unstable.degreeDatas.impulsive.description>
+  
+  <VAEI_VoidTouched.degreeDatas.void_touched.label>Tocado pelo Vazio</VAEI_VoidTouched.degreeDatas.void_touched.label>
+  <VAEI_VoidTouched.degreeDatas.void_touched.description>{PAWN_nameDef} viu as profundezas do vazio e bebeu de sua essência. Ele ainda vive dentro de {PAWN_objective}, guiando suas ações e distorcendo sua carne. Tornou seu cabelo quebradiço e branco. {PAWN_pronoun} não precisa mais de sono ou conforto. O vazio provê por {PAWN_objective}.</VAEI_VoidTouched.degreeDatas.void_touched.description>
+  
+</LanguageData>
