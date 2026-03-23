@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEM2_Make_Must.label>preparar mosto de uva</VFEM2_Make_Must.label>
+  <VFEM2_Make_Must.description>Prepara o mosto a partir de uvas.</VFEM2_Make_Must.description>
+  <VFEM2_Make_Must.jobString>Preparando mosto.</VFEM2_Make_Must.jobString>
+  
+  <VFEM2_Make_Sweetroll.label>fazer pães doces</VFEM2_Make_Sweetroll.label>
+  <VFEM2_Make_Sweetroll.description>Faz pães doces utilizando mel e ovos.</VFEM2_Make_Sweetroll.description>
+  <VFEM2_Make_Sweetroll.jobString>Fazendo pães doces.</VFEM2_Make_Sweetroll.jobString>
+
+  <VFEM2_Make_ChemfuelFromOrganics.label>produzir combustível químico de orgânicos</VFEM2_Make_ChemfuelFromOrganics.label>
+  <VFEM2_Make_ChemfuelFromOrganics.description>Produz um lote de combustível químico extraindo biocombustível de matérias-primas orgânicas.</VFEM2_Make_ChemfuelFromOrganics.description>
+  <VFEM2_Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>matéria-prima</VFEM2_Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>
+  <VFEM2_Make_ChemfuelFromOrganics.jobString>Refinando combustível químico de orgânicos.</VFEM2_Make_ChemfuelFromOrganics.jobString>
+  
+  <VFEM2_Make_ChemfuelFromWood.label>produzir combustível químico de madeira</VFEM2_Make_ChemfuelFromWood.label>
+  <VFEM2_Make_ChemfuelFromWood.description>Produz um lote de combustível químico extraindo e condensando gás de madeira de toras.</VFEM2_Make_ChemfuelFromWood.description>
+  <VFEM2_Make_ChemfuelFromWood.jobString>Refinando combustível químico de madeira.</VFEM2_Make_ChemfuelFromWood.jobString>
+  
+  <VFEM2_Make_Hardweave.label>tecer trama-rígida de folhas de folha de fumo</VFEM2_Make_Hardweave.label>
+  <VFEM2_Make_Hardweave.description>Tece fios de folha de fumo para criar uma alternativa resistente ao tecido comum.</VFEM2_Make_Hardweave.description>
+  <VFEM2_Make_Hardweave.jobString>Tecendo trama-rígida.</VFEM2_Make_Hardweave.jobString>
+  
+  <VFEM2_Make_Hayweave.label>tecer trama-feno de feno</VFEM2_Make_Hayweave.label>
+  <VFEM2_Make_Hayweave.description>Tece fios de feno para criar um tecido frágil e inferior conhecido como trama-feno.</VFEM2_Make_Hayweave.description>
+  <VFEM2_Make_Hayweave.jobString>Tecendo trama-feno.</VFEM2_Make_Hayweave.jobString>
+  
+  <VFEM2_MakeHerbalMedicine.label>produzir medicina herbal x3</VFEM2_MakeHerbalMedicine.label>
+  <VFEM2_MakeHerbalMedicine.description>Produz um pequeno lote de medicina herbal a partir de diferentes ingredientes alquímicos.</VFEM2_MakeHerbalMedicine.description>
+  <VFEM2_MakeHerbalMedicine.jobString>Produzindo medicina herbal.</VFEM2_MakeHerbalMedicine.jobString>
+  
+</LanguageData>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEM2_CivilClan.label>clã civilizado</VFEM2_CivilClan.label>
+  <VFEM2_CivilClan.description>Estes membros do clã estão aqui há muito tempo. Talvez seus ancestrais tenham caído aqui há mil anos, como sugerem suas lendas. Em todo caso, os nórdicos são um povo feroz que vive do trabalho alheio e não tem medo de usar a força para tomar o que não lhes pertence.\n\nEmbora não sejam tão avançados tecnologicamente quanto outras facções, os nórdicos podem ser um aliado valioso ou um inimigo terrível devido à sua resistência e aos seus costumes selvagens e pagãos.\n\nEste clã em particular é mais progressista que os outros e é mais propenso a se envolver em comércio e diplomacia com outras facções.</VFEM2_CivilClan.description>
+  <VFEM2_CivilClan.leaderTitle>jarl</VFEM2_CivilClan.leaderTitle>
+  <VFEM2_CivilClan.messageDefendersAttacking>{0} de {1} estão atacando seu {2}.</VFEM2_CivilClan.messageDefendersAttacking>
+  <VFEM2_CivilClan.pawnSingular>nórdico</VFEM2_CivilClan.pawnSingular>
+  <VFEM2_CivilClan.pawnsPlural>nórdicos</VFEM2_CivilClan.pawnsPlural>
+  
+  <VFEM2_ClanRough.label>clã rústico</VFEM2_ClanRough.label>
+  <VFEM2_ClanRough.description>Estes membros do clã estão aqui há muito tempo. Talvez seus ancestrais tenham caído aqui há mil anos, como sugerem suas lendas. Em todo caso, os nórdicos são um povo feroz que vive do trabalho alheio e não tem medo de usar a força para tomar o que não lhes pertence.\n\nEmbora não sejam tão avançados tecnologicamente quanto outras facções, os nórdicos podem ser um aliado valioso ou um inimigo terrível devido à sua resistência e aos seus costumes selvagens e pagãos.\n\nEste clã em particular valoriza a dominância bélica; pode ser difícil torná-los um aliado.</VFEM2_ClanRough.description>
+  <VFEM2_ClanRough.leaderTitle>jarl</VFEM2_ClanRough.leaderTitle>
+  <VFEM2_ClanRough.messageDefendersAttacking>{0} de {1} estão atacando seu {2}.</VFEM2_ClanRough.messageDefendersAttacking>
+  <VFEM2_ClanRough.pawnSingular>nórdico</VFEM2_ClanRough.pawnSingular>
+  <VFEM2_ClanRough.pawnsPlural>nórdicos</VFEM2_ClanRough.pawnsPlural>
+  
+  <VFEM2_ClanSavage.label>clã selvagem</VFEM2_ClanSavage.label>
+  <VFEM2_ClanSavage.description>Estes membros do clã estão aqui há muito tempo. Talvez seus ancestrais tenham caído aqui há mil anos, como sugerem suas lendas. Em todo caso, os nórdicos são um povo feroz que vive do trabalho alheio e não tem medo de usar a força para tomar o que não lhes pertence.\n\nEmbora não sejam tão avançados tecnologicamente quanto outras facções, os nórdicos podem ser um aliado valioso ou um inimigo terrível devido à sua resistência e aos seus costumes selvagens e pagãos.\n\nEste clã em particular causa estragos em assentamentos vizinhos e escraviza quaisquer sobreviventes - será impossível tornar-se aliado deles!</VFEM2_ClanSavage.description>
+  <VFEM2_ClanSavage.leaderTitle>jarl</VFEM2_ClanSavage.leaderTitle>
+  <VFEM2_ClanSavage.messageDefendersAttacking>{0} de {1} estão atacando seu {2}.</VFEM2_ClanSavage.messageDefendersAttacking>
+  <VFEM2_ClanSavage.pawnSingular>nórdico</VFEM2_ClanSavage.pawnSingular>
+  <VFEM2_ClanSavage.pawnsPlural>nórdicos</VFEM2_ClanSavage.pawnsPlural>
+
+  <VFEM2_KingdomCivil.label>reino civilizado</VFEM2_KingdomCivil.label>
+  <VFEM2_KingdomCivil.description>Estas pessoas estão aqui há menos tempo do que seus irmãos neolíticos. Acredita-se que alguns membros de tribos e forasteiros passaram a adotar o estilo de vida medieval e decidiram se unir.\n\nEmbora ainda sejam tecnologicamente inferiores a muitas outras facções, os súditos deste reino são conhecidos por usar fortificações imponentes para proteger seus bens, bem como por adotar o uso de escudos em combate e lutar de maneira particularmente ordeira.\n\nEste reino em particular está aberto a manter boas relações comerciais com outros assentamentos para reforçar sua posição econômica.</VFEM2_KingdomCivil.description>
+  <VFEM2_KingdomCivil.leaderTitle>rei</VFEM2_KingdomCivil.leaderTitle>
+  <VFEM2_KingdomCivil.messageDefendersAttacking>{0} de {1} estão atacando seu {2}.</VFEM2_KingdomCivil.messageDefendersAttacking>
+  <VFEM2_KingdomCivil.pawnSingular>súdito</VFEM2_KingdomCivil.pawnSingular>
+  <VFEM2_KingdomCivil.pawnsPlural>súditos</VFEM2_KingdomCivil.pawnsPlural>
+  
+  <VFEM2_KingdomRough.label>reino rústico</VFEM2_KingdomRough.label>
+  <VFEM2_KingdomRough.description>Estas pessoas estão aqui há menos tempo do que seus irmãos neolíticos. Acredita-se que alguns membros de tribos e forasteiros passaram a adotar o estilo de vida medieval e decidiram se unir.\n\nEmbora ainda sejam tecnologicamente inferiores a muitas outras facções, os súditos deste reino são conhecidos por usar fortificações imponentes para proteger seus bens, bem como por adotar o uso de escudos em combate e lutar de maneira particularmente ordeira.\n\nEste reino em particular é governado com mão de ferro e deseja se expandir devastando os menos afortunados - embora ainda seja possível tornar-se amigo deles.</VFEM2_KingdomRough.description>
+  <VFEM2_KingdomRough.leaderTitle>rei</VFEM2_KingdomRough.leaderTitle>
+  <VFEM2_KingdomRough.messageDefendersAttacking>{0} de {1} estão atacando seu {2}.</VFEM2_KingdomRough.messageDefendersAttacking>
+  <VFEM2_KingdomRough.pawnSingular>súdito</VFEM2_KingdomRough.pawnSingular>
+  <VFEM2_KingdomRough.pawnsPlural>súditos</VFEM2_KingdomRough.pawnsPlural>
+  
+  <VFEM2_KingdomSavage.label>reino selvagem</VFEM2_KingdomSavage.label>
+  <VFEM2_KingdomSavage.description>Estas pessoas estão aqui há menos tempo do que seus irmãos neolíticos. Acredita-se que alguns membros de tribos e forasteiros passaram a adotar o estilo de vida medieval e decidiram se unir.\n\nEmbora ainda sejam tecnologicamente inferiores a muitas outras facções, os súditos deste reino são conhecidos por usar fortificações imponentes para proteger seus bens, bem como por adotar o uso de escudos em combate e lutar de maneira particularmente ordeira.\n\nEste reino em particular é movido por uma cultura de bando de guerra; você não poderá se aliar a eles!</VFEM2_KingdomSavage.description>
+  <VFEM2_KingdomSavage.leaderTitle>rei</VFEM2_KingdomSavage.leaderTitle>
+  <VFEM2_KingdomSavage.messageDefendersAttacking>{0} de {1} estão atacando seu {2}.</VFEM2_KingdomSavage.messageDefendersAttacking>
+  <VFEM2_KingdomSavage.pawnSingular>súdito</VFEM2_KingdomSavage.pawnSingular>
+  <VFEM2_KingdomSavage.pawnsPlural>súditos</VFEM2_KingdomSavage.pawnsPlural>
+
+  <VFEM2_MerchantGuild.label>guilda dos mercadores</VFEM2_MerchantGuild.label>
+  <VFEM2_MerchantGuild.description>Estas pessoas estão aqui há menos tempo do que seus irmãos neolíticos. Estes mercadores errantes e negociadores habilidosos formam uma vasta rede de caravanas itinerantes e mercados temporários. Originários de uma coalizão informal de forasteiros e antigos habitantes da cidade, eles abandonaram os assentamentos estáticos em favor do movimento constante, buscando a prosperidade através do comércio em vez da conquista.\n\nAo contrário da maioria das facções, a Guilda opera em uma economia de puro escambo — a prata não tem valor para eles, apenas bens e serviços. Seus comerciantes viajam por toda parte, estabelecendo centros de mercado movimentados onde quer que parem, oferecendo mercadorias raras e bens exóticos em troca do que consideram útil.\n\nEmbora evitem o conflito direto e prefiram a diplomacia, seus guardas bem armados garantem que suas caravanas permaneçam a salvo de saqueadores oportunistas.</VFEM2_MerchantGuild.description>
+  <VFEM2_MerchantGuild.leaderTitle>mestre da guilda</VFEM2_MerchantGuild.leaderTitle>
+  <VFEM2_MerchantGuild.messageDefendersAttacking>{0} de {1} estão atacando seu {2}.</VFEM2_MerchantGuild.messageDefendersAttacking>
+  <VFEM2_MerchantGuild.pawnSingular>membro</VFEM2_MerchantGuild.pawnSingular>
+  <VFEM2_MerchantGuild.pawnsPlural>membros</VFEM2_MerchantGuild.pawnsPlural>
+
+  <VFEM2_PlayerKingdom.label>Novo Reino</VFEM2_PlayerKingdom.label>
+  <VFEM2_PlayerKingdom.description>Um pequeno reino.</VFEM2_PlayerKingdom.description>
+  <VFEM2_PlayerKingdom.leaderTitle>líder</VFEM2_PlayerKingdom.leaderTitle>
+  <VFEM2_PlayerKingdom.messageDefendersAttacking>{0} de {1} estão atacando seu {2}.</VFEM2_PlayerKingdom.messageDefendersAttacking>
+  <VFEM2_PlayerKingdom.pawnSingular>súdito</VFEM2_PlayerKingdom.pawnSingular>
+  <VFEM2_PlayerKingdom.pawnsPlural>súditos</VFEM2_PlayerKingdom.pawnsPlural>
+  
+</LanguageData>

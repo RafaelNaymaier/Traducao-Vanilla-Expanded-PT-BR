@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <VFEM2_NeedTend>O apiário precisa de cuidados</VFEM2_NeedTend>
+  <VFEM2_Resting>O apiário está em repouso porque a temperatura ambiente está abaixo de 10°C</VFEM2_Resting>
+  <VFEM2_Ready>Mel pronto</VFEM2_Ready>
+  <VFEM2_NeedFlower>O apiário precisa de mais {0} flores ao redor para que as abelhas possam coletar pólen.</VFEM2_NeedFlower>
+  <VFEM2_NeedTIn>O apiário precisará de cuidados em {0}</VFEM2_NeedTIn>
+  <VFEM2_PlaceWorker>O apiário deve estar a pelo menos três células de distância de outros apiários</VFEM2_PlaceWorker>
+  <VFEM2_PlaceWorkerNoRoof>O apiário não pode ser construído sob um telhado</VFEM2_PlaceWorkerNoRoof>
+  <VFEM2_BelowAnimalSkill>Habilidade de Animais muito baixa, requer 5</VFEM2_BelowAnimalSkill>
+  <VFEM2_TendingFailed>Os cuidados falharam</VFEM2_TendingFailed>
+  
+  <VFEM2_MeadFermentingBarrelNotWorking>Este barril de fermentação de hidromel não está funcionando no momento</VFEM2_MeadFermentingBarrelNotWorking>
+  
+  <VFEM2_WineBarrelNotWorking>Este barril de fermentação de vinho não está funcionando no momento</VFEM2_WineBarrelNotWorking>
+  
+  <VFEM2_BoilPotNotWorking>Este caldeirão de fervura não está funcionando no momento</VFEM2_BoilPotNotWorking>
+  
+  <VFEM2_StyleHeraldics>Editar Heráldica</VFEM2_StyleHeraldics>
+  <VFEM2_SetPattern>Padrão</VFEM2_SetPattern>
+  <VFEM2_SetSymbol>Símbolo</VFEM2_SetSymbol>
+  <VFEM2_EditFactionHeraldry>Editar Heráldica da Facção</VFEM2_EditFactionHeraldry>
+  <VFEM2_EditThingHeraldry>Editar Heráldica do Objeto</VFEM2_EditThingHeraldry>
+  <VFEM2_ResetToFaction>Redefinir para a Facção</VFEM2_ResetToFaction>
+
+  <VFEM2_StatsReport_Flammability>Parede enxaimel: +50%</VFEM2_StatsReport_Flammability>
+  <VFEM2_ItemImproved_Anvil>{0} foi melhorado para o nível de qualidade {1} devido à bigorna de ferreiro.</VFEM2_ItemImproved_Anvil>
+  <VFEM2_ItemImproved_Polisher>{0} foi melhorado para o nível de qualidade {1} devido ao polidor de pedras.</VFEM2_ItemImproved_Polisher>
+  <VFEM2_MerchantCaravanSpawnCount>Contagem de surgimento de caravanas de mercadores (escalável com a população do mundo)</VFEM2_MerchantCaravanSpawnCount>
+  <VFEM2_MerchantCaravanStayPeriod>A Guilda dos Mercadores partirá em: {0}</VFEM2_MerchantCaravanStayPeriod>
+  <VFEM2_BarterWith>Escambo com {0}</VFEM2_BarterWith>
+  <VFEM2_BarterFairness>Justiça do escambo</VFEM2_BarterFairness>
+  <VFEM2_BarterExplanation>Para fechar um acordo com a Guilda dos Mercadores, você precisa fornecer mercadorias suficientes para que a troca seja justa. O valor de cada item oscila levemente de forma aleatória. Uma maior habilidade de negociação aumentará o valor dos seus itens.</VFEM2_BarterExplanation>
+  <VFEM2_CommandBarter>Escambo</VFEM2_CommandBarter>
+  <VFEM2_CommandBarterDesc>Realizar escambo com esta guilda de mercadores.</VFEM2_CommandBarterDesc>
+
+  <VFEM2_LetterLabelFactionBaseDefeated>Acampamento da guilda dos mercadores destruído</VFEM2_LetterLabelFactionBaseDefeated>
+  <VFEM2_LetterFactionBaseDefeated>O acampamento da guilda dos mercadores foi destruído.</VFEM2_LetterFactionBaseDefeated>
+  <VFEM2_LetterFactionBaseDefeated_FactionDestroyed>Como este era seu último acampamento, a facção {0} foi derrotada.</VFEM2_LetterFactionBaseDefeated_FactionDestroyed>
+  <VFEM_MaynardMedievalResearchModifier>Devido à quantidade de projetos de pesquisa concluídos, o custo de pesquisa aumentou para: {0}</VFEM_MaynardMedievalResearchModifier>
+  <VFEM_PillageRaidDesc>Um grupo de vikings de {0} chegou por perto.\nEles tentarão queimar sua colônia, roubando o que puderem antes de partirem.\nPrepare uma defesa ou ataque-os preventivamente.</VFEM_PillageRaidDesc>
+
+</LanguageData>

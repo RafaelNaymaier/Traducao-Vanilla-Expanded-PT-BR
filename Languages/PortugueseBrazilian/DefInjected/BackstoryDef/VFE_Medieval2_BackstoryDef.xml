@@ -1,0 +1,687 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VFEM_Archer22.description>[PAWN_nameDef] recebeu treinamento para lutar no exército do senhor como arqueiro, passando inúmeras horas praticando sua mira. [PAWN_pronoun] tornou-se especialista em disparar flechas com precisão e rapidez, mesmo sob pressão. No entanto, a falta de experiência em combate próximo fez com que [PAWN_pronoun] dependesse de outros para proteção.</VFEM_Archer22.description>
+  <VFEM_Archer22.title>arqueiro</VFEM_Archer22.title>
+  <VFEM_Archer22.titleShort>arqueiro</VFEM_Archer22.titleShort>
+
+  <VFEM_Baker14.description>[PAWN_nameDef] acordava cedo todas as manhãs para sovar a massa e assar pães para a vila. Com os anos, desenvolveu um dom para criar fornadas perfeitas e gerenciar o calor do forno. No entanto, a natureza repetitiva do trabalho tirou o interesse de [PAWN_objective] por outros ofícios ou estudos.</VFEM_Baker14.description>
+  <VFEM_Baker14.title>padeiro</VFEM_Baker14.title>
+  <VFEM_Baker14.titleShort>padeiro</VFEM_Baker14.titleShort>
+
+  <VFEM_Bandit48.description>[PAWN_nameDef] vagava pelo campo com um bando de foras da lei, emboscando viajantes e saqueando vilas. [PAWN_pronoun] tornou-se hábil em combate corpo a corpo e intimidação, mas ganhou a reputação de um bandido perigoso. A vida de fuga endureceu [PAWN_objective] e trouxe uma profunda desconfiança sobre os outros.</VFEM_Bandit48.description>
+  <VFEM_Bandit48.title>bandido</VFEM_Bandit48.title>
+  <VFEM_Bandit48.titleShort>bandido</VFEM_Bandit48.titleShort>
+
+  <VFEM_Beggar31.description>[PAWN_nameDef] sobreviveu implorando nas ruas, dependendo da caridade alheia para comida e abrigo. [PAWN_pronoun] tornou-se hábil em ler o humor das pessoas e persuadi-las a ajudar, mas a vida dura deixou [PAWN_objective] com fragilidade física e falta de habilidades manuais.</VFEM_Beggar31.description>
+  <VFEM_Beggar31.title>mendigo</VFEM_Beggar31.title>
+  <VFEM_Beggar31.titleShort>mendigo</VFEM_Beggar31.titleShort>
+
+  <VFEM_Blacksmith37.description>[PAWN_nameDef] trabalhou na forja, moldando metal em ferramentas, armas e armaduras. [PAWN_pronoun] ganhou a admiração da vila por sua habilidade e confiabilidade. O calor constante e o trabalho pesado trouxeram força e foco para [PAWN_objective], embora sem muito interesse por leitura.</VFEM_Blacksmith37.description>
+  <VFEM_Blacksmith37.title>ferreiro</VFEM_Blacksmith37.title>
+  <VFEM_Blacksmith37.titleShort>ferreiro</VFEM_Blacksmith37.titleShort>
+
+  <VFEM_Brickmaker10.description>[PAWN_nameDef] moldava e queimava tijolos de argila para projetos de construção na vila. O trabalho intenso fortaleceu seu corpo e trouxe uma compreensão aguçada de técnicas de construção. Anos trabalhando perto de fornos quentes deixaram [PAWN_objective] com pouca estamina para longos dias de esforço físico severo.</VFEM_Brickmaker10.description>
+  <VFEM_Brickmaker10.title>oleiro</VFEM_Brickmaker10.title>
+  <VFEM_Brickmaker10.titleShort>oleiro</VFEM_Brickmaker10.titleShort>
+
+  <VFEM_Butler45.description>[PAWN_nameDef] serviu ao senhor e sua família diretamente, garantindo que suas necessidades fossem atendidas com prontidão e discrição. [PAWN_pronoun] tornou-se hábil em etiqueta e na gestão da criadagem. O cargo deu a [PAWN_objective] um olhar atento aos detalhes, mas pouca paciência para o trabalho braçal.</VFEM_Butler45.description>
+  <VFEM_Butler45.title>mordomo</VFEM_Butler45.title>
+  <VFEM_Butler45.titleShort>mordomo</VFEM_Butler45.titleShort>
+
+  <VFEM_CampFollower28.description>[PAWN_nameDef] viajava com exércitos, mantendo o acampamento e preparando suprimentos. [PAWN_pronoun] tornou-se hábil em sobrevivência básica e culinária, garantindo que os soldados estivessem alimentados. Apesar de viver perto do combate, raramente entrava em ação direta, focando em funções de apoio.</VFEM_CampFollower28.description>
+  <VFEM_CampFollower28.title>seguidor de acampamento</VFEM_CampFollower28.title>
+  <VFEM_CampFollower28.titleShort>apoio</VFEM_CampFollower28.titleShort>
+
+  <VFEM_CandleMaker08.description>[PAWN_nameDef] passou anos fabricando velas de sebo e cera para iluminar a vila vizinha. O trabalho exigia paciência e precisão, qualidades nas quais [PAWN_pronoun] se destacou. No entanto, a natureza repetitiva do ofício deixou [PAWN_objective] sem interesse por atividades mais criativas.</VFEM_CandleMaker08.description>
+  <VFEM_CandleMaker08.title>fabricante de velas</VFEM_CandleMaker08.title>
+  <VFEM_CandleMaker08.titleShort>veloeiro</VFEM_CandleMaker08.titleShort>
+
+  <VFEM_Carpenter40.description>[PAWN_nameDef] fabricava móveis, ferramentas e estruturas de madeira para a vila. [PAWN_pronoun] ganhava a vida com precisão e técnica, moldando madeira em criações práticas e belas. Embora fosse excelente em seu ofício, sobrou pouco tempo para buscas intelectuais em sua rotina.</VFEM_Carpenter40.description>
+  <VFEM_Carpenter40.title>carpinteiro</VFEM_Carpenter40.title>
+  <VFEM_Carpenter40.titleShort>carpinteiro</VFEM_Carpenter40.titleShort>
+
+  <VFEM_Chamberlain42.description>[PAWN_nameDef] administrava os aposentos da fortaleza, supervisionando servos e garantindo que os quartos do senhor fossem bem cuidados. [PAWN_pronoun] tornou-se adepto em organizar e gerir recursos, mas frequentemente se via em meio às intrigas políticas da casa.</VFEM_Chamberlain42.description>
+  <VFEM_Chamberlain42.title>chambelão</VFEM_Chamberlain42.title>
+  <VFEM_Chamberlain42.titleShort>chambelão</VFEM_Chamberlain42.titleShort>
+
+  <VFEM_Cooper15.description>[PAWN_nameDef] fabricava barris e tonéis para a vila, usando ferramentas simples para moldar e montar aduelas de madeira. O trabalho exigia paciência, uma habilidade que [PAWN_pronoun] mestreou com os anos. Apesar de sua perícia, raramente se aventurava além da oficina para socializar ou buscar outros interesses.</VFEM_Cooper15.description>
+  <VFEM_Cooper15.title>tanoeiro</VFEM_Cooper15.title>
+  <VFEM_Cooper15.titleShort>tanoeiro</VFEM_Cooper15.titleShort>
+
+  <VFEM_Counterfeiter50.description>[PAWN_nameDef] forjava moedas e documentos, enganando mercadores e nobres. [PAWN_pronoun] tornou-se hábil em criar réplicas convincentes, embora evitasse o trabalho físico sempre que possível. O risco constante de exposição forçou [PAWN_objective] a se mudar com frequência.</VFEM_Counterfeiter50.description>
+  <VFEM_Counterfeiter50.title>falsificador</VFEM_Counterfeiter50.title>
+  <VFEM_Counterfeiter50.titleShort>falsificador</VFEM_Counterfeiter50.titleShort>
+
+  <VFEM_Fence47.description>[PAWN_nameDef] negociava bens roubados, transformando itens ilícitos em moedas enquanto evitava a atenção das autoridades. [PAWN_pronoun] tornou-se hábil em barganhar e avaliar o valor dos itens, mas evitava o envolvimento direto no roubo. A farsa constante aprimorou sua percepção sobre as intenções alheias.</VFEM_Fence47.description>
+  <VFEM_Fence47.title>receptador</VFEM_Fence47.title>
+  <VFEM_Fence47.titleShort>receptador</VFEM_Fence47.titleShort>
+
+  <VFEM_FieldHand02.description>[PAWN_nameDef] trabalhou como lavrador nos campos desde cedo, plantando e colhendo sob o olhar atento de feitores. O esforço de carregar sacos de grãos trouxe força e conhecimento básico sobre plantas. No entanto, o trabalho extenuante deixou pouco tempo para outras atividades, impedindo o aprendizado da leitura ou escrita.</VFEM_FieldHand02.description>
+  <VFEM_FieldHand02.title>trabalhador de campo</VFEM_FieldHand02.title>
+  <VFEM_FieldHand02.titleShort>lavrador</VFEM_FieldHand02.titleShort>
+
+  <VFEM_Fisher04.description>[PAWN_nameDef] ganhava a vida pescando nos rios e lagos perto de sua vila. [PAWN_pronoun] aprendeu a fabricar redes e armadilhas simples, mas passava a maior parte do tempo em solidão na água. O trabalho repetitivo trouxe perícia para [PAWN_objective], mas pouco interesse por outras tarefas.</VFEM_Fisher04.description>
+  <VFEM_Fisher04.title>pescador</VFEM_Fisher04.title>
+  <VFEM_Fisher04.titleShort>pescador</VFEM_Fisher04.titleShort>
+
+  <VFEM_Footman21.description>[PAWN_nameDef] serviu como soldado de infantaria no exército do senhor local, marchando para a batalha com espada e escudo. Os confrontos brutais ensinaram o valor da resistência e disciplina. Anos de combate trouxeram habilidade com armas brancas, mas deixaram [PAWN_objective] sem treinamento em combate à distância.</VFEM_Footman21.description>
+  <VFEM_Footman21.title>infante</VFEM_Footman21.title>
+  <VFEM_Footman21.titleShort>infante</VFEM_Footman21.titleShort>
+
+  <VFEM_Gravedigger13.description>[PAWN_nameDef] passava as noites cavando sepulturas e mantendo o cemitério da vila. O trabalho era sombrio e solitário, mas trouxe força física para lidar com ferramentas pesadas. A exposição constante à morte resultou em um desapego emocional em relação aos outros.</VFEM_Gravedigger13.description>
+  <VFEM_Gravedigger13.title>coveiro</VFEM_Gravedigger13.title>
+  <VFEM_Gravedigger13.titleShort>coveiro</VFEM_Gravedigger13.titleShort>
+
+  <VFEM_Healer39.description>[PAWN_nameDef] cuidava de doentes e feridos, aplicando conhecimento em medicina e remédios herbais. [PAWN_pronoun] ganhou respeito por sua capacidade de salvar vidas, embora frequentemente tivesse que encarar a dura realidade daqueles que não podiam ser salvos. A vila dependia de [PAWN_objective] como fonte primária de cuidados.</VFEM_Healer39.description>
+  <VFEM_Healer39.title>curandeiro</VFEM_Healer39.title>
+  <VFEM_Healer39.titleShort>curandeiro</VFEM_Healer39.titleShort>
+
+  <VFEM_Herbalist36.description>[PAWN_nameDef] vivia perto da floresta, coletando plantas para criar remédios e unguentos. [PAWN_pronoun] desenvolveu uma compreensão profunda da natureza e seus usos, mas costumava manter o isolamento para focar em seu ofício. Os aldeões respeitavam seu conhecimento e buscavam sua ajuda em tempos de necessidade.</VFEM_Herbalist36.description>
+  <VFEM_Herbalist36.title>herborista</VFEM_Herbalist36.title>
+  <VFEM_Herbalist36.titleShort>herborista</VFEM_Herbalist36.titleShort>
+
+  <VFEM_KitchenServant41.description>[PAWN_nameDef] trabalhava longas horas nas cozinhas da fortaleza, preparando comida para nobres e convidados. [PAWN_pronoun] aprendeu a cozinhar grandes refeições com poucos recursos, aprimorando dotes culinários. Embora o trabalho fosse exaustivo, sentia orgulho pela capacidade de alimentar os outros.</VFEM_KitchenServant41.description>
+  <VFEM_KitchenServant41.title>servo de cozinha</VFEM_KitchenServant41.title>
+  <VFEM_KitchenServant41.titleShort>ajudante</VFEM_KitchenServant41.titleShort>
+
+  <VFEM_Mason38.description>[PAWN_nameDef] era um pedreiro habilidoso, moldando pedras em paredes resistentes e edifícios magníficos. Ganhou boa reputação por sua precisão e criatividade na construção. Raramente participava de caçadas ou agricultura, focando inteiramente em seu ofício.</VFEM_Mason38.description>
+  <VFEM_Mason38.title>pedreiro</VFEM_Mason38.title>
+  <VFEM_Mason38.titleShort>pedreiro</VFEM_Mason38.titleShort>
+
+  <VFEM_Mercenary29.description>[PAWN_nameDef] vendeu sua espada para quem pagasse mais, lutando em conflitos por toda a terra. Anos de batalha trouxeram endurecimento e perícia em combate corpo a corpo, mas [PAWN_pronoun] nunca confiou em ninguém o suficiente para formar laços duradouros. Carrega cicatrizes tanto físicas quanto emocionais.</VFEM_Mercenary29.description>
+  <VFEM_Mercenary29.title>mercenário</VFEM_Mercenary29.title>
+  <VFEM_Mercenary29.titleShort>mercenário</VFEM_Mercenary29.titleShort>
+
+  <VFEM_Miller12.description>[PAWN_nameDef] operava o moinho da vila, moendo grãos para a comunidade. O trabalho exigia entendimento de maquinário e mão firme para manter tudo funcionando. Anos em um ambiente empoeirado deixaram [PAWN_objective] com propensão a tosses e outros males respiratórios.</VFEM_Miller12.description>
+  <VFEM_Miller12.title>moleiro</VFEM_Miller12.title>
+  <VFEM_Miller12.titleShort>moleiro</VFEM_Miller12.titleShort>
+
+  <VFEM_MudDigger20.description>[PAWN_nameDef] extraía argila de margens de rios para cerâmica e construções. O trabalho exaustivo trouxe costas fortes e braços robustos, mas pouco interesse por buscas intelectuais. Raramente interagia com outros, passando os dias com lama até os joelhos.</VFEM_MudDigger20.description>
+  <VFEM_MudDigger20.title>escavador de lama</VFEM_MudDigger20.title>
+  <VFEM_MudDigger20.titleShort>escavador</VFEM_MudDigger20.titleShort>
+
+  <VFEM_Outlaw33.description>[PAWN_nameDef] viveu fora da lei, sobrevivendo através do roubo e violência. [PAWN_pronoun] tornou-se hábil em lutar e evitar capturas, mas sofreu rejeição da sociedade, dependendo apenas da própria astúcia para viver. A vida marginal trouxe endurecimento e desconfiança sobre os outros.</VFEM_Outlaw33.description>
+  <VFEM_Outlaw33.title>fora da lei</VFEM_Outlaw33.title>
+  <VFEM_Outlaw33.titleShort>fora da lei</VFEM_Outlaw33.titleShort>
+
+  <VFEM_Pickpocket46.description>[PAWN_nameDef] sobreviveu movendo-se por mercados lotados, furtando moedas e bugigangas de aldeões distraídos. Desenvolveu dedos ágeis e um olhar atento para oportunidades, mas sempre viveu com o medo da captura. Anos de pequenos furtos resultaram em uma natureza desconfiada e reservada.</VFEM_Pickpocket46.description>
+  <VFEM_Pickpocket46.title>batedor de carteira</VFEM_Pickpocket46.title>
+  <VFEM_Pickpocket46.titleShort>ladrão</VFEM_Pickpocket46.titleShort>
+
+  <VFEM_Pikeman26.description>[PAWN_nameDef] lutava em linhas cerradas, empunhando uma longa pica para defender contra cargas de cavalaria. O trabalho exigia coordenação com camaradas para formar uma parede de aço impenetrável. Embora excelente em combate de formação, tem dificuldades com tarefas que exigem criatividade individual.</VFEM_Pikeman26.description>
+  <VFEM_Pikeman26.title>piqueiro</VFEM_Pikeman26.title>
+  <VFEM_Pikeman26.titleShort>piqueiro</VFEM_Pikeman26.titleShort>
+
+  <VFEM_Poacher32.description>[PAWN_nameDef] caçava ilegalmente nas florestas do senhor, arriscando a vida para alimentar sua família. [PAWN_pronoun] tornou-se hábil com o arco e aprendeu a se mover silenciosamente, mas sempre viveu com o temor de ser pego pelos homens do senhor.</VFEM_Poacher32.description>
+  <VFEM_Poacher32.title>caçador ilegal</VFEM_Poacher32.title>
+  <VFEM_Poacher32.titleShort>caçador</VFEM_Poacher32.titleShort>
+
+  <VFEM_RatCatcher19.description>[PAWN_nameDef] ganhava a vida livrando a vila de pragas, armando armadilhas e caçando ratos com as próprias mãos. O trabalho era perigoso e sujo, mas aprimorou seus reflexos. Anos em porões escuros deixaram [PAWN_objective] com dificuldades de socialização.</VFEM_RatCatcher19.description>
+  <VFEM_RatCatcher19.title>caçador de ratos</VFEM_RatCatcher19.title>
+  <VFEM_RatCatcher19.titleShort>ratoeiro</VFEM_RatCatcher19.titleShort>
+
+  <VFEM_Scavenger34.description>[PAWN_nameDef] sobreviveu vasculhando campos de batalha abandonados e vilas arruinadas em busca de qualquer valor. [PAWN_pronoun] tornou-se adepto em encontrar itens úteis e evitar perigos, mas a vida precária deixou [PAWN_objective] com pouco senso de ordem ou higiene.</VFEM_Scavenger34.description>
+  <VFEM_Scavenger34.title>sucateiro</VFEM_Scavenger34.title>
+  <VFEM_Scavenger34.titleShort>sucateiro</VFEM_Scavenger34.titleShort>
+
+  <VFEM_Scullion43.description>[PAWN_nameDef] passava os dias lavando pratos e esfregando panelas nas cozinhas da fortaleza. O trabalho era sujo e ingrato, mas trouxe uma forte ética profissional e capacidade de suportar longas horas de esforço. Raramente interagia com alguém fora da equipe da cozinha.</VFEM_Scullion43.description>
+  <VFEM_Scullion43.title>ajudante de cozinha</VFEM_Scullion43.title>
+  <VFEM_Scullion43.titleShort>ajudante</VFEM_Scullion43.titleShort>
+
+  <VFEM_Shepherd06.description>[PAWN_nameDef] passava os dias cuidando de ovelhas nas colinas ao redor da vila. [PAWN_pronoun] tornou-se hábil em manejar o gado e defender o rebanho de predadores. A vida tranquila trouxe uma natureza reflexiva para [PAWN_objective], mas pouca preparação para esforços físicos extremos.</VFEM_Shepherd06.description>
+  <VFEM_Shepherd06.title>pastor</VFEM_Shepherd06.title>
+  <VFEM_Shepherd06.titleShort>pastor</VFEM_Shepherd06.titleShort>
+
+  <VFEM_Shieldbearer27.description>[PAWN_nameDef] tinha a tarefa de carregar um grande escudo para a batalha, protegendo aliados de projéteis. A posição exigia resistência e disciplina para manter-se firme sob fogo pesado. O papel deixou [PAWN_objective] com pouca oportunidade para praticar combate à distância.</VFEM_Shieldbearer27.description>
+  <VFEM_Shieldbearer27.title>portador de escudo</VFEM_Shieldbearer27.title>
+  <VFEM_Shieldbearer27.titleShort>escudeiro</VFEM_Shieldbearer27.titleShort>
+
+  <VFEM_SiegeEngineer30.description>[PAWN_nameDef] trabalhou operando máquinas de cerco durante assaltos a castelos. O papel exigia engenhosidade e força para projetar e disparar armas massivas. Embora fosse hábil em engenharia, encontrou dificuldades em situações de combate próximo.</VFEM_SiegeEngineer30.description>
+  <VFEM_SiegeEngineer30.title>engenheiro de cerco</VFEM_SiegeEngineer30.title>
+  <VFEM_SiegeEngineer30.titleShort>engenheiro</VFEM_SiegeEngineer30.titleShort>
+
+  <VFEM_Smuggler49.description>[PAWN_nameDef] transportava contrabando pelas fronteiras, usando caminhos ocultos e subornos para evitar detecção. [PAWN_pronoun] tornou-se adepto em navegar e negociar sob pressão, embora o risco de captura tenha abalado seus nervos. A vida de segredos trouxe cautela perante estranhos.</VFEM_Smuggler49.description>
+  <VFEM_Smuggler49.title>contrabandista</VFEM_Smuggler49.title>
+  <VFEM_Smuggler49.titleShort>contrabandista</VFEM_Smuggler49.titleShort>
+
+  <VFEM_Spearman25.description>[PAWN_nameDef] recebeu treinamento para manter a linha de frente com uma lança, usando o alcance para afastar inimigos. Aprendeu a trabalhar em formação, dependendo de coordenação para repelir cavalaria. Anos de combate endureceram [PAWN_objective], embora falte habilidade em tarefas delicadas ou artesanais.</VFEM_Spearman25.description>
+  <VFEM_Spearman25.title>lanceiro</VFEM_Spearman25.title>
+  <VFEM_Spearman25.titleShort>lanceiro</VFEM_Spearman25.titleShort>
+
+  <VFEM_Squire23.description>[PAWN_nameDef] serviu como escudeiro para um cavaleiro local, aprendendo os caminhos da batalha e auxiliando seu mestre. Ganhou perícia com armas e armaduras, embora suas funções principais fossem manutenção e transporte. A experiência trouxe disciplina e força, mas pouco espaço para pensamento independente.</VFEM_Squire23.description>
+  <VFEM_Squire23.title>escudeiro</VFEM_Squire23.title>
+  <VFEM_Squire23.titleShort>escudeiro</VFEM_Squire23.titleShort>
+
+  <VFEM_Stablehand16.description>[PAWN_nameDef] passava os dias limpando estábulos e cuidando de cavalos na vila. Com o tempo, desenvolveu uma compreensão profunda sobre animais e uma mão firme para acalmar criaturas ariscas. O trabalho pesado deixou pouco tempo para buscas intelectuais.</VFEM_Stablehand16.description>
+  <VFEM_Stablehand16.title>estribeiro</VFEM_Stablehand16.title>
+  <VFEM_Stablehand16.titleShort>estribeiro</VFEM_Stablehand16.titleShort>
+
+  <VFEM_StableServant44.description>[PAWN_nameDef] cuidava dos cavalos do senhor, alimentando e escovando os animais. A compreensão sobre o cuidado animal trouxe músculos fortes devido ao esforço físico. O isolamento dos estábulos resultou em habilidades sociais limitadas para [PAWN_objective].</VFEM_StableServant44.description>
+  <VFEM_StableServant44.title>servo de estábulo</VFEM_StableServant44.title>
+  <VFEM_StableServant44.titleShort>estribeiro</VFEM_StableServant44.titleShort>
+
+  <VFEM_StoneHauler05.description>[PAWN_nameDef] trabalhou em uma pedreira, transportando blocos pesados para locais de construção. O esforço interminável trouxe grande força, mas pouca paciência para assuntos intelectuais. A vida dura na pedreira também aguçou seus instintos de sobrevivência.</VFEM_StoneHauler05.description>
+  <VFEM_StoneHauler05.title>carregador de pedras</VFEM_StoneHauler05.title>
+  <VFEM_StoneHauler05.titleShort>carregador</VFEM_StoneHauler05.titleShort>
+
+  <VFEM_Tanner07.description>[PAWN_nameDef] trabalhou em um curtume, transformando couros crus em couro para roupas e armaduras. O trabalho era sujo e desagradável, mas trouxe atenção aos detalhes e mãos fortes. Anos de exposição a produtos químicos agressivos prejudicaram a saúde de [PAWN_objective].</VFEM_Tanner07.description>
+  <VFEM_Tanner07.title>curtidor</VFEM_Tanner07.title>
+  <VFEM_Tanner07.titleShort>curtidor</VFEM_Tanner07.titleShort>
+
+  <VFEM_Thatcher17.description>[PAWN_nameDef] reparava e construía telhados de palha para a vila. O trabalho exigia habilidade e resistência, equilibrando-se em telhados por horas. Anos de esforço trouxeram força e precisão para [PAWN_objective], que raramente buscou atividades criativas.</VFEM_Thatcher17.description>
+  <VFEM_Thatcher17.title>telhador</VFEM_Thatcher17.title>
+  <VFEM_Thatcher17.titleShort>telhador</VFEM_Thatcher17.titleShort>
+
+  <VFEM_Vagabond35.description>[PAWN_nameDef] vagava de vila em vila, aceitando trabalhos estranhos e dormindo onde encontrasse abrigo. [PAWN_pronoun] aprendeu a sobreviver com pouco e a se adaptar rapidamente, mas nunca ficou em um lugar o suficiente para formar relacionamentos significativos.</VFEM_Vagabond35.description>
+  <VFEM_Vagabond35.title>vagabundo</VFEM_Vagabond35.title>
+  <VFEM_Vagabond35.titleShort>vagabundo</VFEM_Vagabond35.titleShort>
+
+  <VFEM_VillageBrewer18.description>[PAWN_nameDef] produzia cerveja para a vila, aperfeiçoando receitas passadas por gerações. O processo ensinou paciência e atenção aos detalhes, já que cada lote exigia controle rigoroso. Passou tanto tempo na cervejaria que negligenciou o treinamento físico.</VFEM_VillageBrewer18.description>
+  <VFEM_VillageBrewer18.title>cervejeiro da vila</VFEM_VillageBrewer18.title>
+  <VFEM_VillageBrewer18.titleShort>cervejeiro</VFEM_VillageBrewer18.titleShort>
+
+  <VFEM_VillageCook09.description>[PAWN_nameDef] preparava refeições para os aldeões, usando ingredientes simples para ensopados fartos. Aprimorou suas habilidades sobre fogueiras e aprendeu a esticar recursos em tempos de escassez. A cozinha, contudo, não deixou tempo para atividades artísticas ou intelectuais.</VFEM_VillageCook09.description>
+  <VFEM_VillageCook09.title>cozinheiro da vila</VFEM_VillageCook09.title>
+  <VFEM_VillageCook09.titleShort>cozinheiro</VFEM_VillageCook09.titleShort>
+
+  <VFEM_VillageHunter01.description>[PAWN_nameDef] cresceu em uma pequena vila e passava os dias caçando para prover comida à comunidade. Tornou-se hábil em rastrear e armar armadilhas, mas raramente interagia com outros, preferindo a solidão da floresta. Ganhou reputação como um provedor confiável, apesar da falta de traquejo social.</VFEM_VillageHunter01.description>
+  <VFEM_VillageHunter01.title>caçador da vila</VFEM_VillageHunter01.title>
+  <VFEM_VillageHunter01.titleShort>caçador</VFEM_VillageHunter01.titleShort>
+
+  <VFEM_Watchman24.description>[PAWN_nameDef] vigiava os portões e muros da vila contra bandidos e outras ameaças. O trabalho exigia vigilância e mão firme, qualidades desenvolvidas em longas patrulhas. Embora tivesse experiência com armas à distância, raramente enfrentou uma batalha real.</VFEM_Watchman24.description>
+  <VFEM_Watchman24.title>vigilante</VFEM_Watchman24.title>
+  <VFEM_Watchman24.titleShort>vigilante</VFEM_Watchman24.titleShort>
+
+  <VFEM_Weaver11.description>[PAWN_nameDef] trabalhava em um tear, transformando fios em tecidos para a vila. O trabalho delicado exigia foco e destreza, qualidades desenvolvidas com anos de prática. No entanto, a natureza sedentária da tecelagem resultou em pouca força física para [PAWN_objective].</VFEM_Weaver11.description>
+  <VFEM_Weaver11.title>tecelão</VFEM_Weaver11.title>
+  <VFEM_Weaver11.titleShort>tecelão</VFEM_Weaver11.titleShort>
+
+  <VFEM_Woodcutter03.description>[PAWN_nameDef] passou a vida nas florestas, cortando árvores para fornecer madeira à vila local. O trabalho era exaustivo, mas trouxe força e habilidade com ferramentas. Embora a solidão das matas agradasse [PAWN_objective], pouco foi aprendido sobre socialização ou artes refinadas.</VFEM_Woodcutter03.description>
+  <VFEM_Woodcutter03.title>lenhador</VFEM_Woodcutter03.title>
+  <VFEM_Woodcutter03.titleShort>lenhador</VFEM_Woodcutter03.titleShort>
+
+  <VFEM_AlleySneak128.description>[PAWN_nameDef] passou a maior parte da infância escapulindo por becos e sombras, evitando a atenção de adultos e valentões. As ruas ensinaram a [PAWN_objective] como se mover silenciosamente e se misturar às multidões. Embora fosse furtivo e inteligente, a falta de confiança nos outros impediu a criação de laços.</VFEM_AlleySneak128.description>
+  <VFEM_AlleySneak128.title>furtivo de beco</VFEM_AlleySneak128.title>
+  <VFEM_AlleySneak128.titleShort>furtivo</VFEM_AlleySneak128.titleShort>
+
+  <VFEM_BakersChild109.description>[PAWN_nameDef] passou a infância sovando massa e cuidando de fornos na padaria da família. Desenvolveu um senso aguçado de tempo e um dom para criar refeições simples, porém satisfatórias. As madrugadas e as longas horas resultaram em uma forte ética de trabalho, mas pouco tempo livre.</VFEM_BakersChild109.description>
+  <VFEM_BakersChild109.title>filho de padeiro</VFEM_BakersChild109.title>
+  <VFEM_BakersChild109.titleShort>padeiro</VFEM_BakersChild109.titleShort>
+
+  <VFEM_BeggarChild126.description>[PAWN_nameDef] passou os primeiros anos em ruas lamacentas, implorando por moedas ou restos de comida. A vida ensinou a ler as emoções das pessoas e apelar para a simpatia alheia, mas também gerou um profundo receio de rejeição. Mendigar para sobreviver trouxe desenvoltura, mas também desconfiança.</VFEM_BeggarChild126.description>
+  <VFEM_BeggarChild126.title>criança mendiga</VFEM_BeggarChild126.title>
+  <VFEM_BeggarChild126.titleShort>mendigo</VFEM_BeggarChild126.titleShort>
+
+  <VFEM_BlacksmithsApprentice103.description>[PAWN_nameDef] passou os primeiros anos em uma forja esfumaçada, auxiliando a família em tarefas pequenas, como bombear foles e carregar carvão. O calor e o ruído tornaram-se constantes em sua vida, trazendo a compreensão básica de fabricação e esforço. Embora o trabalho fosse cansativo, despertou o apreço pela precisão técnica.</VFEM_BlacksmithsApprentice103.description>
+  <VFEM_BlacksmithsApprentice103.title>aprendiz de ferreiro</VFEM_BlacksmithsApprentice103.title>
+  <VFEM_BlacksmithsApprentice103.titleShort>aprendiz</VFEM_BlacksmithsApprentice103.titleShort>
+
+  <VFEM_ClanStoryteller140.description>[PAWN_nameDef] cresceu aprendendo as sagas e lendas de seus ancestrais, memorizando as histórias que uniam o clã. Desenvolveu um dom para a narrativa e para inspirar os outros com palavras. Embora não fosse combatente, [PAWN_pronoun] desempenhou um papel vital na preservação da história e cultura de seu povo.</VFEM_ClanStoryteller140.description>
+  <VFEM_ClanStoryteller140.title>contador de histórias do clã</VFEM_ClanStoryteller140.title>
+  <VFEM_ClanStoryteller140.titleShort>narrador</VFEM_ClanStoryteller140.titleShort>
+
+  <VFEM_EarlyLaborer115.description>[PAWN_nameDef] começou a trabalhar nos campos assim que conseguiu carregar uma ferramenta, passando dias inteiros no plantio e na colheita. O trabalho extenuante trouxe força e resiliência, mas deixou pouco tempo para brincadeiras ou educação. Apesar das dificuldades, aprendeu a valorizar os frutos do esforço árduo.</VFEM_EarlyLaborer115.description>
+  <VFEM_EarlyLaborer115.title>trabalhador precoce</VFEM_EarlyLaborer115.title>
+  <VFEM_EarlyLaborer115.titleShort>trabalhador</VFEM_EarlyLaborer115.titleShort>
+
+  <VFEM_FarmersChild104.description>[PAWN_nameDef] cresceu trabalhando nos campos com a família, cuidando do plantio e do gado. Tornou-se hábil no uso de ferramentas simples e na compreensão dos ritmos das estações. O trabalho pesado instilou uma forte disciplina, mas restou pouco tempo para o aprendizado formal.</VFEM_FarmersChild104.description>
+  <VFEM_FarmersChild104.title>filho de fazendeiro</VFEM_FarmersChild104.title>
+  <VFEM_FarmersChild104.titleShort>lavrador</VFEM_FarmersChild104.titleShort>
+
+  <VFEM_FarmsteadHand138.description>[PAWN_nameDef] cresceu em uma propriedade viking, ajudando a cuidar do gado e a cultivar o solo durante as curtas estações de crescimento. Aprendeu os ciclos de cultivo enquanto se preparava para os meses mais frios. A vida na fazenda ensinou o valor do trabalho duro e como suportar os desafios da natureza.</VFEM_FarmsteadHand138.description>
+  <VFEM_FarmsteadHand138.title>ajudante de fazenda</VFEM_FarmsteadHand138.title>
+  <VFEM_FarmsteadHand138.titleShort>lavrador</VFEM_FarmsteadHand138.titleShort>
+
+  <VFEM_FieldWatcher117.description>[PAWN_nameDef] passava horas sentado perto das plantações, vigiando corvos, coelhos ou qualquer ameaça às colheitas. Aprendeu paciência e vigilância, mas o trabalho solitário gerou um anseio constante por interação humana. Desenvolveu desenvoltura ao usar ferramentas simples para afastar pragas.</VFEM_FieldWatcher117.description>
+  <VFEM_FieldWatcher117.title>vigia de campo</VFEM_FieldWatcher117.title>
+  <VFEM_FieldWatcher117.titleShort>vigia</VFEM_FieldWatcher117.titleShort>
+
+  <VFEM_FieldWorker131.description>[PAWN_nameDef] passou os primeiros anos ajudando nos campos, aprendendo a plantar e colher. O trabalho era repetitivo, mas recompensador, ensinando o valor da paciência e do empenho. Cresceu com um perfil forte e prático, possuindo uma profunda apreciação pela terra.</VFEM_FieldWorker131.description>
+  <VFEM_FieldWorker131.title>trabalhador rural</VFEM_FieldWorker131.title>
+  <VFEM_FieldWorker131.titleShort>trabalhador</VFEM_FieldWorker131.titleShort>
+
+  <VFEM_FishermansChild105.description>[PAWN_nameDef] passou a juventude lançando redes e puxando peixes ao lado da família. O cheiro do sal e o som da água tornaram-se parte de sua essência, assim como a paciência e a mão firme. A vida na água trouxe uma mentalidade prática e a capacidade de se adaptar a desafios inesperados.</VFEM_FishermansChild105.description>
+  <VFEM_FishermansChild105.title>filho de pescador</VFEM_FishermansChild105.title>
+  <VFEM_FishermansChild105.titleShort>pescador</VFEM_FishermansChild105.titleShort>
+
+  <VFEM_FjordFisher136.description>[PAWN_nameDef] passou a infância pescando ao longo de fiordes rochosos, aprendendo a manusear redes e remar barcos em águas gélidas. A vida ensinou resiliência e respeito pelo poder do mar. Embora o trabalho fosse frio e exaustivo, cresceu com força e capacidade para lidar com condições adversas.</VFEM_FjordFisher136.description>
+  <VFEM_FjordFisher136.title>pescador de fiorde</VFEM_FjordFisher136.title>
+  <VFEM_FjordFisher136.titleShort>pescador</VFEM_FjordFisher136.titleShort>
+
+  <VFEM_ForestForager111.description>[PAWN_nameDef] passou a infância vasculhando os bosques em busca de bagas, ervas e cogumelos para ajudar a alimentar a vila. Aprendeu a identificar plantas comestíveis e a navegar por florestas densas com facilidade. Embora raramente interagisse com outros, desenvolveu uma sintonia profunda com a natureza.</VFEM_ForestForager111.description>
+  <VFEM_ForestForager111.title>coletor florestal</VFEM_ForestForager111.title>
+  <VFEM_ForestForager111.titleShort>coletor</VFEM_ForestForager111.titleShort>
+
+  <VFEM_HearthKeeper134.description>[PAWN_nameDef] cresceu cuidando da lareira e ajudando a preparar as refeições da família. Aprendeu o básico da culinária e a importância de manter o fogo aceso durante a noite. Embora o trabalho fosse simples, ensinou o valor do cuidado constante e da consistência.</VFEM_HearthKeeper134.description>
+  <VFEM_HearthKeeper134.title>zelador do lar</VFEM_HearthKeeper134.title>
+  <VFEM_HearthKeeper134.titleShort>zelador</VFEM_HearthKeeper134.titleShort>
+
+  <VFEM_HuntersChild108.description>[PAWN_nameDef] seguia a família pelas florestas, aprendendo a rastrear animais e a usar o arco. Cresceu em sintonia com a vida selvagem, possuindo instintos aguçados e mãos firmes. Embora hábil em sobrevivência, passou pouco tempo com outras crianças e costumava ser solitário.</VFEM_HuntersChild108.description>
+  <VFEM_HuntersChild108.title>filho de caçador</VFEM_HuntersChild108.title>
+  <VFEM_HuntersChild108.titleShort>caçador</VFEM_HuntersChild108.titleShort>
+
+  <VFEM_LongboatPaddler139.description>[PAWN_nameDef] cresceu ouvindo contos de terras distantes e passou a juventude remando em barcos vikings. Ganhou força e resistência com o remo constante, enquanto aprendia os ritmos do mar. Embora ainda não fosse combatente, preparou-se bem para uma vida de exploração e aventura.</VFEM_LongboatPaddler139.description>
+  <VFEM_LongboatPaddler139.title>remador de barco</VFEM_LongboatPaddler139.title>
+  <VFEM_LongboatPaddler139.titleShort>remador</VFEM_LongboatPaddler139.titleShort>
+
+  <VFEM_MarketHelper118.description>[PAWN_nameDef] passou a infância ajudando mercadores a montar barracas, carregar mercadorias e pechinchar com clientes. O mercado movimentado ensinou a ler as pessoas e a negociar com eficácia. Embora fosse perspicaz, teve pouco tempo para trabalho físico fora do ambiente comercial.</VFEM_MarketHelper118.description>
+  <VFEM_MarketHelper118.title>ajudante de mercado</VFEM_MarketHelper118.title>
+  <VFEM_MarketHelper118.titleShort>ajudante</VFEM_MarketHelper118.titleShort>
+
+  <VFEM_MillersChild107.description>[PAWN_nameDef] cresceu em meio ao ruído constante do moinho, ajudando a família a transformar grãos em farinha. Aprendeu a importância da precisão e eficiência para manter o maquinário operando. Também ganhou jeito para resolver problemas básicos quando reparos eram necessários.</VFEM_MillersChild107.description>
+  <VFEM_MillersChild107.title>filho de moleiro</VFEM_MillersChild107.title>
+  <VFEM_MillersChild107.titleShort>moleiro</VFEM_MillersChild107.titleShort>
+
+  <VFEM_Outcast122.description>[PAWN_nameDef] foi evitado pelas outras crianças da vila por motivos que nunca compreendeu totalmente. Forçado a se virar, passava os dias sozinho na natureza ou nos arredores da vila. Desenvolveu um forte senso de independência e uma desconfiança natural em relação aos outros.</VFEM_Outcast122.description>
+  <VFEM_Outcast122.title>excluído</VFEM_Outcast122.title>
+  <VFEM_Outcast122.titleShort>excluído</VFEM_Outcast122.titleShort>
+
+  <VFEM_Pickpocket123.description>[PAWN_nameDef] recorreu a pequenos furtos para sobreviver em um mundo que pouco se importava com sua existência. Aprendeu rapidamente a se mover sem ser visto e a surrupiar objetos de valor. Embora fosse habilidoso, ganhou fama de desonesto e nunca gozou da confiança alheia.</VFEM_Pickpocket123.description>
+  <VFEM_Pickpocket123.title>batedor de carteira</VFEM_Pickpocket123.title>
+  <VFEM_Pickpocket123.titleShort>ladrão</VFEM_Pickpocket123.titleShort>
+
+
+  <VFEM_PlayfulExplorer133.description>[PAWN_nameDef] adorava vagar pelos bosques e colinas perto da vila, descobrindo riachos e subindo em árvores. Frequentemente voltava com joelhos ralados e bolsos cheios de pedras ou bagas interessantes. Embora fosse mais brincalhão do que produtivo, cresceu com espírito de aventura e conexão com a natureza.</VFEM_PlayfulExplorer133.description>
+  <VFEM_PlayfulExplorer133.title>explorador brincalhão</VFEM_PlayfulExplorer133.title>
+  <VFEM_PlayfulExplorer133.titleShort>explorador</VFEM_PlayfulExplorer133.titleShort>
+
+  <VFEM_QuietObserver114.description>[PAWN_nameDef] passou a infância observando o mundo de longe, sem ser notado, mas sempre atento. Aprendeu a ouvir, ler emoções e prever comportamentos para evitar problemas e ganhar favores. Embora entendesse bem as pessoas, evitava o trabalho braçal sempre que possível.</VFEM_QuietObserver114.description>
+  <VFEM_QuietObserver114.title>observador silencioso</VFEM_QuietObserver114.title>
+  <VFEM_QuietObserver114.titleShort>observador</VFEM_QuietObserver114.titleShort>
+
+  <VFEM_RatCatcher124.description>[PAWN_nameDef] tinha a tarefa de livrar depósitos de comida e casas de pragas, entrando nos cantos mais sujos da vila. Desenvolveu reflexos rápidos e um jeito incomum com armadilhas, mas o trabalho gerou isolamento. O cheiro de seu ofício parecia acompanhá-lo por onde passava.</VFEM_RatCatcher124.description>
+  <VFEM_RatCatcher124.title>caçador de ratos</VFEM_RatCatcher124.title>
+  <VFEM_RatCatcher124.titleShort>ratoeiro</VFEM_RatCatcher124.titleShort>
+
+  <VFEM_RiverWader112.description>[PAWN_nameDef] passou horas intermináveis na beira do rio, capturando peixes com armadilhas e redes. Tornou-se hábil em avistar presas e entender o fluxo da água, o que garantiu alimento mesmo em épocas de escassez. A vida ribeirinha trouxe praticidade, mas limitou suas habilidades sociais.</VFEM_RiverWader112.description>
+  <VFEM_RiverWader112.title>pescador de rio</VFEM_RiverWader112.title>
+  <VFEM_RiverWader112.titleShort>pescador</VFEM_RiverWader112.titleShort>
+
+  <VFEM_RuntOfThePack130.description>[PAWN_nameDef] era o menor e mais frágil entre seus pares, sendo frequentemente alvo de chacotas. Para sobreviver, aprendeu a raciocinar rápido e evitar conflitos diretos, usando a astúcia para superar seus algozes. Embora perspicaz, cresceu com desconfiança e uma independência feroz.</VFEM_RuntOfThePack130.description>
+  <VFEM_RuntOfThePack130.title>caçula da matilha</VFEM_RuntOfThePack130.title>
+  <VFEM_RuntOfThePack130.titleShort>franzino</VFEM_RuntOfThePack130.titleShort>
+
+  <VFEM_ScrapHoarder127.description>[PAWN_nameDef] coletava ferramentas quebradas, madeiras descartadas e outros restos, transformando-os em brinquedos ou utensílios improvisados. Embora provocado por seus hábitos peculiares, tornou-se adepto em encontrar valor no que outros ignoravam. Ganhou habilidades práticas, mas teve dificuldade em se conectar com outros.</VFEM_ScrapHoarder127.description>
+  <VFEM_ScrapHoarder127.title>acumulador de sucatas</VFEM_ScrapHoarder127.title>
+  <VFEM_ScrapHoarder127.titleShort>acumulador</VFEM_ScrapHoarder127.titleShort>
+
+  <VFEM_ShepherdsChild102.description>[PAWN_nameDef] passou a infância ajudando a família a cuidar de ovelhas nas encostas perto da vila. Aprendeu paciência, vigilância e uma compreensão profunda do comportamento animal. A vida tranquila também proporcionou muito tempo para sonhar e observar o mundo ao redor.</VFEM_ShepherdsChild102.description>
+  <VFEM_ShepherdsChild102.title>filho de pastor</VFEM_ShepherdsChild102.title>
+  <VFEM_ShepherdsChild102.titleShort>pastor</VFEM_ShepherdsChild102.titleShort>
+
+  <VFEM_ShieldBearer137.description>[PAWN_nameDef] recebeu treinamento desde cedo para carregar escudos e auxiliar guerreiros durante saques e batalhas. Aprendeu a suportar cargas pesadas e seguir ordens, observando de perto os combatentes mais velhos. A experiência preparou [PAWN_objective] para uma vida de conflito e lealdade ao clã.</VFEM_ShieldBearer137.description>
+  <VFEM_ShieldBearer137.title>portador de escudo</VFEM_ShieldBearer137.title>
+  <VFEM_ShieldBearer137.titleShort>escudeiro</VFEM_ShieldBearer137.titleShort>
+
+  <VFEM_StablehandsChild110.description>[PAWN_nameDef] cresceu nos estábulos, ajudando a cuidar de cavalos e mantendo as baias limpas. Aprendeu o básico do trato animal e o valor do trabalho constante e confiável. Embora estivesse à vontade com animais, frequentemente sentia dificuldade em se relacionar com outras crianças.</VFEM_StablehandsChild110.description>
+  <VFEM_StablehandsChild110.title>filho de estribeiro</VFEM_StablehandsChild110.title>
+  <VFEM_StablehandsChild110.titleShort>estribeiro</VFEM_StablehandsChild110.titleShort>
+
+  <VFEM_StreetEntertainer120.description>[PAWN_nameDef] apresentava-se na praça da vila como malabarista, cantor ou contador de histórias, esperando ganhar moedas ou comida. Aprendeu a capturar a atenção do público e trazer alegria aos outros, mesmo em tempos difíceis. Embora talentoso nas artes, teve dificuldade com habilidades práticas.</VFEM_StreetEntertainer120.description>
+  <VFEM_StreetEntertainer120.title>artista de rua</VFEM_StreetEntertainer120.title>
+  <VFEM_StreetEntertainer120.titleShort>artista</VFEM_StreetEntertainer120.titleShort>
+
+  <VFEM_StreetScavenger121.description>[PAWN_nameDef] cresceu revirando lixo e descartes, procurando qualquer coisa que pudesse comer ou vender. A vida dura ensinou a sobreviver com quase nada, mas gerou desconfiança sobre os outros. Tornou-se ágil para evitar confrontos por causa de restos.</VFEM_StreetScavenger121.description>
+  <VFEM_StreetScavenger121.title>catador de rua</VFEM_StreetScavenger121.title>
+  <VFEM_StreetScavenger121.titleShort>catador</VFEM_StreetScavenger121.titleShort>
+
+  <VFEM_Troublemaker125.description>[PAWN_nameDef] era conhecido por causar travessuras e semear o caos, muitas vezes às custas dos outros. Gostava de pregar peças, arranjar brigas e testar limites sempre que possível. Embora malvisto por adultos e colegas, desenvolveu astúcia e reflexos rápidos para evitar punições.</VFEM_Troublemaker125.description>
+  <VFEM_Troublemaker125.title>arruaceiro</VFEM_Troublemaker125.title>
+  <VFEM_Troublemaker125.titleShort>arruaceiro</VFEM_Troublemaker125.titleShort>
+
+  <VFEM_VillageGatherer135.description>[PAWN_nameDef] passou grande parte da infância coletando lenha, ervas e outras necessidades para a vila. Os longos dias ao ar livre trouxeram um olhar atento para plantas úteis e uma mão firme para ferramentas simples. Cresceu com perfil prático e capaz, adaptando-se bem à vida no campo.</VFEM_VillageGatherer135.description>
+  <VFEM_VillageGatherer135.title>coletor da vila</VFEM_VillageGatherer135.title>
+  <VFEM_VillageGatherer135.titleShort>coletor</VFEM_VillageGatherer135.titleShort>
+
+  <VFEM_VillageHelper132.description>[PAWN_nameDef] passou a infância realizando tarefas e ajudando em pequenos trabalhos pela vila. Seja entregando mercadorias, buscando água ou consertando cercas, sempre estava disposto a ajudar. Essas tarefas simples instilaram uma forte ética de trabalho e habilidades práticas.</VFEM_VillageHelper132.description>
+  <VFEM_VillageHelper132.title>ajudante da vila</VFEM_VillageHelper132.title>
+  <VFEM_VillageHelper132.titleShort>ajudante</VFEM_VillageHelper132.titleShort>
+
+  <VFEM_VillageRunner116.description>[PAWN_nameDef] tinha a tarefa frequente de entregar mensagens e pequenos pacotes entre os aldeões. Passou inúmeras horas correndo por trilhas de terra, aprendendo as rotas mais rápidas e como evitar perigos. O movimento constante trouxe agilidade, mas deixou pouco tempo para descanso ou estudos.</VFEM_VillageRunner116.description>
+  <VFEM_VillageRunner116.title>mensageiro da vila</VFEM_VillageRunner116.title>
+  <VFEM_VillageRunner116.titleShort>mensageiro</VFEM_VillageRunner116.titleShort>
+
+  <VFEM_VillageScapegoat129.description>[PAWN_nameDef] era culpado por toda ferramenta quebrada, moeda perdida ou colheita estragada na vila, muitas vezes sem qualquer envolvimento real. As constantes acusações ensinaram a suportar adversidades e evitar confrontos. Cresceu com desenvoltura, mas com profunda desconfiança das autoridades.</VFEM_VillageScapegoat129.description>
+  <VFEM_VillageScapegoat129.title>bode expiatório da vila</VFEM_VillageScapegoat129.title>
+  <VFEM_VillageScapegoat129.titleShort>bode expiatório</VFEM_VillageScapegoat129.titleShort>
+
+  <VFEM_VillageUrchin101.description>[PAWN_nameDef] cresceu como uma criança de rua em uma pequena vila, sobrevivendo do furto de sobras e implorando aos transeuntes. Aprendeu rapidamente a navegar por mercados lotados e evitar o olhar vigilante dos guardas. Embora sem educação formal, tornou-se perspicaz e engenhoso.</VFEM_VillageUrchin101.description>
+  <VFEM_VillageUrchin101.title>mendigo da vila</VFEM_VillageUrchin101.title>
+  <VFEM_VillageUrchin101.titleShort>mendigo</VFEM_VillageUrchin101.titleShort>
+
+  <VFEM_WanderingHelper113.description>[PAWN_nameDef] cresceu ajudando onde podia, movendo-se de fazenda em fazenda realizando biscates. De cuidar de plantações a consertar cercas, aprendeu um pouco de tudo, mas não dominou nada. Constantemente em movimento, nunca formou amizades próximas, mas ganhou muita experiência prática.</VFEM_WanderingHelper113.description>
+  <VFEM_WanderingHelper113.title>ajudante errante</VFEM_WanderingHelper113.title>
+  <VFEM_WanderingHelper113.titleShort>ajudante</VFEM_WanderingHelper113.titleShort>
+
+  <VFEM_WellTender119.description>[PAWN_nameDef] era responsável por manter o poço da vila limpo e buscar água para a comunidade. Ganhou força carregando baldes pesados e aprendeu a manter os mecanismos que facilitavam o trabalho. A rotina repetitiva resultou em pouca variedade, mas em um conjunto de habilidades confiáveis.</VFEM_WellTender119.description>
+  <VFEM_WellTender119.title>zelador do poço</VFEM_WellTender119.title>
+  <VFEM_WellTender119.titleShort>zelador</VFEM_WellTender119.titleShort>
+
+  <VFEM_WoodcuttersChild106.description>[PAWN_nameDef] cresceu ajudando a família a derrubar árvores e carregar toras da floresta próxima. Aprendeu rapidamente a manusear machados e serras, desenvolvendo força e técnica. Embora acostumado ao trabalho pesado, raramente teve tempo para algo além de trabalhar e descansar.</VFEM_WoodcuttersChild106.description>
+  <VFEM_WoodcuttersChild106.title>filho de lenhador</VFEM_WoodcuttersChild106.title>
+  <VFEM_WoodcuttersChild106.titleShort>lenhador</VFEM_WoodcuttersChild106.titleShort>
+
+  <VFEM_Armorer57.description>[PAWN_nameDef] fabricava armas e armaduras finas para cavaleiros e nobres, aperfeiçoando seu ofício na forja. Desenvolveu uma habilidade inigualável em moldar o aço em obras de arte e ferramentas de guerra. Embora fosse um mestre artesão, muitas vezes negligenciava outros aspectos da vida para focar apenas em sua arte.</VFEM_Armorer57.description>
+  <VFEM_Armorer57.title>armoeiro</VFEM_Armorer57.title>
+  <VFEM_Armorer57.titleShort>armoeiro</VFEM_Armorer57.titleShort>
+
+  <VFEM_Baron67.description>[PAWN_nameDef] recebeu o título de barão e governou uma pequena região a serviço de seu senhor. Administrava impostos, aplicava leis e liderava a milícia local quando necessário. Embora se destacasse na liderança, via o trabalho braçal como algo destinado apenas aos camponeses.</VFEM_Baron67.description>
+  <VFEM_Baron67.title>barão</VFEM_Baron67.title>
+  <VFEM_Baron67.titleShort>barão</VFEM_Baron67.titleShort>
+
+  <VFEM_BaronOfTheWoodlands91.description>[PAWN_nameDef] presidia uma vasta propriedade florestal, gerenciando madeira, caça e as pessoas que viviam sob a copa das árvores. Era hábil em equilibrar a exploração de recursos com a conservação. Embora entendesse a terra e seus usos, raramente participava das políticas da corte.</VFEM_BaronOfTheWoodlands91.description>
+  <VFEM_BaronOfTheWoodlands91.title>barão das florestas</VFEM_BaronOfTheWoodlands91.title>
+  <VFEM_BaronOfTheWoodlands91.titleShort>barão florestal</VFEM_BaronOfTheWoodlands91.titleShort>
+
+  <VFEM_BeastTamer78.description>[PAWN_nameDef] era conhecido por sua capacidade de domar e treinar até os animais mais selvagens. Frequentemente era chamado para lidar com feras perigosas, uma habilidade que lhe rendeu admiração e medo. Os anos passados com as criaturas deixaram [PAWN_objective] mais à vontade com animais do que com pessoas.</VFEM_BeastTamer78.description>
+  <VFEM_BeastTamer78.title>domador de feras</VFEM_BeastTamer78.title>
+  <VFEM_BeastTamer78.titleShort>domador</VFEM_BeastTamer78.titleShort>
+
+  <VFEM_Castellan56.description>[PAWN_nameDef] foi encarregado da gestão do castelo de um nobre, garantindo que suas defesas fossem mantidas e seus residentes bem cuidados. Tornou-se especialista em logística e liderança, coordenando reparos e supervisionando a guarnição. Embora hábil em administração, deixava as tarefas manuais para os servos.</VFEM_Castellan56.description>
+  <VFEM_Castellan56.title>castelão</VFEM_Castellan56.title>
+  <VFEM_Castellan56.titleShort>castelão</VFEM_Castellan56.titleShort>
+
+  <VFEM_CastellanOfArms62.description>[PAWN_nameDef] era o encarregado da armaria de um grande castelo, supervisionando a manutenção e distribuição de armas e armaduras. Tornou-se especialista no design e conservação de equipamentos, garantindo que a guarnição estivesse sempre pronta. Embora mestre em seu ofício, deixava o combate para os cavaleiros a quem servia.</VFEM_CastellanOfArms62.description>
+  <VFEM_CastellanOfArms62.title>mestre de armas</VFEM_CastellanOfArms62.title>
+  <VFEM_CastellanOfArms62.titleShort>armoeiro</VFEM_CastellanOfArms62.titleShort>
+
+  <VFEM_CommanderOfTheWatch73.description>[PAWN_nameDef] liderou um bando de guerreiros juramentados encarregados de guardar as fronteiras contra ameaças externas. Era hábil em tática, inspirando lealdade em seus homens enquanto mantinha a disciplina em condições severas. Embora excelente em combate, permanecia isolado das intrigas da corte.</VFEM_CommanderOfTheWatch73.description>
+  <VFEM_CommanderOfTheWatch73.title>comandante da guarda</VFEM_CommanderOfTheWatch73.title>
+  <VFEM_CommanderOfTheWatch73.titleShort>comandante</VFEM_CommanderOfTheWatch73.titleShort>
+
+  <VFEM_CourtBard54.description>[PAWN_nameDef] entretinha as cortes de lordes e reis com contos poéticos, música e inteligência afiada. Tornou-se mestre em performance e especialista em ler a dinâmica social da nobreza. Embora elogiado pelo brilho artístico, evitava o trabalho braçal e confiava em seu charme para navegar pela vida.</VFEM_CourtBard54.description>
+  <VFEM_CourtBard54.title>bardo da corte</VFEM_CourtBard54.title>
+  <VFEM_CourtBard54.titleShort>bardo</VFEM_CourtBard54.titleShort>
+
+  <VFEM_CourtPhysician60.description>[PAWN_nameDef] servia na corte nobre, tratando das doenças e ferimentos da família governante. Ganhou experiência em medicina e remédios fitoterápicos, tornando-se um conselheiro de confiança em assuntos de saúde. Embora valorizado por suas habilidades, tinha pouca paciência para o trabalho físico.</VFEM_CourtPhysician60.description>
+  <VFEM_CourtPhysician60.title>médico da corte</VFEM_CourtPhysician60.title>
+  <VFEM_CourtPhysician60.titleShort>médico</VFEM_CourtPhysician60.titleShort>
+
+  <VFEM_CourtSchemer74.description>[PAWN_nameDef] prosperou no mundo implacável da corte real, manipulando aliados e inimigos para avançar suas ambições. Tornou-se mestre em decepção, política e em ler os motivos ocultos das pessoas. Embora raramente fosse ao campo de batalha, empunhava palavras com a mesma eficácia que outros empunhavam espadas.</VFEM_CourtSchemer74.description>
+  <VFEM_CourtSchemer74.title>intrigante da corte</VFEM_CourtSchemer74.title>
+  <VFEM_CourtSchemer74.titleShort>intrigante</VFEM_CourtSchemer74.titleShort>
+
+  <VFEM_DebauchedAristocrat83.description>[PAWN_nameDef] esbanjou a riqueza de sua família em festas luxuosas e prazeres indulgentes, ganhando a ira de seus pares. Embora versado em etiqueta e manipulação, afastou aliados e deixou sua família lutando para manter o status. [PAWN_pronoun] permanece charmoso, porém indigno de confiança.</VFEM_DebauchedAristocrat83.description>
+  <VFEM_DebauchedAristocrat83.title>aristocrata libertino</VFEM_DebauchedAristocrat83.title>
+  <VFEM_DebauchedAristocrat83.titleShort>libertino</VFEM_DebauchedAristocrat83.titleShort>
+
+  <VFEM_Diplomat58.description>[PAWN_nameDef] viajava entre cortes, negociando tratados e mediando disputas entre casas nobres. Destacava-se na persuasão e na compreensão das complexidades políticas, ganhando fama por seu tato e sabedoria. Deixava tarefas físicas para outros, confiando em seu intelecto para ter sucesso.</VFEM_Diplomat58.description>
+  <VFEM_Diplomat58.title>diplomata</VFEM_Diplomat58.title>
+  <VFEM_Diplomat58.titleShort>diplomata</VFEM_Diplomat58.titleShort>
+
+  <VFEM_DisgracedHeir81.description>[PAWN_nameDef] estava prestes a herdar um título nobre, mas um escândalo a despojou de seu direito de primogenitura. Expulso da família, tornou-se uma sombra do que era, sobrevivendo através da astúcia e de restos de sua antiga riqueza. Embora mantivesse os modos de nobre, era evitado pela alta sociedade.</VFEM_DisgracedHeir81.description>
+  <VFEM_DisgracedHeir81.title>herdeiro desonrado</VFEM_DisgracedHeir81.title>
+  <VFEM_DisgracedHeir81.titleShort>desonrado</VFEM_DisgracedHeir81.titleShort>
+
+  <VFEM_ExiledNoble82.description>[PAWN_nameDef] foi banido de sua terra natal após perder uma disputa de poder dentro da própria família. Forçado a fugir, viveu na obscuridade, usando seu charme e inteligência para sobreviver em terras estrangeiras. Embora mantivesse a postura nobre, lutava para recuperar os privilégios de nascimento.</VFEM_ExiledNoble82.description>
+  <VFEM_ExiledNoble82.title>nobre exilado</VFEM_ExiledNoble82.title>
+  <VFEM_ExiledNoble82.titleShort>exilado</VFEM_ExiledNoble82.titleShort>
+
+  <VFEM_Falconer76.description>[PAWN_nameDef] treinava e cuidava de aves de rapina, guiando-as para rastrear presas para seu senhor. Desenvolveu uma compreensão profunda do comportamento animal e conquistou respeito por sua habilidade na falcoaria. Embora hábil com animais, tinha pouca experiência com tarefas alheias ao seu ofício.</VFEM_Falconer76.description>
+  <VFEM_Falconer76.title>falcoeiro</VFEM_Falconer76.title>
+  <VFEM_Falconer76.titleShort>falcoeiro</VFEM_Falconer76.titleShort>
+
+  <VFEM_FallenKnight85.description>[PAWN_nameDef] outrora fez um juramento de lealdade como cavaleiro, mas quebrou seus votos em busca de ganho pessoal. Desonrado e despojado de seu título, agora vaga como um mercenário, assombrado pela desonra. Embora mantenha suas habilidades de combate, luta para recuperar o respeito que antes comandava.</VFEM_FallenKnight85.description>
+  <VFEM_FallenKnight85.title>cavaleiro caído</VFEM_FallenKnight85.title>
+  <VFEM_FallenKnight85.titleShort>cavaleiro caído</VFEM_FallenKnight85.titleShort>
+
+  <VFEM_Guildmaster59.description>[PAWN_nameDef] liderou uma guilda próspera, coordenando os esforços de artesãos e mercadores qualificados. Tornou-se um líder e negociador perspicaz, equilibrando comércio e política. Embora brilhante na liderança, raramente se envolvia na fabricação manual do que supervisionava.</VFEM_Guildmaster59.description>
+  <VFEM_Guildmaster59.title>mestre da guilda</VFEM_Guildmaster59.title>
+  <VFEM_Guildmaster59.titleShort>mestre de guilda</VFEM_Guildmaster59.titleShort>
+
+  <VFEM_HighNoble68.description>[PAWN_nameDef] nasceu em uma das famílias nobres mais poderosas da terra, crescendo cercado por luxo e intrigas. Dominou a arte da diplomacia e as sutilezas da política de corte, ganhando fama como negociador hábil. Embora proficiente em questões sociais, dependia inteiramente de servos para tarefas físicas.</VFEM_HighNoble68.description>
+  <VFEM_HighNoble68.title>alta nobreza</VFEM_HighNoble68.title>
+  <VFEM_HighNoble68.titleShort>nobre</VFEM_HighNoble68.titleShort>
+
+  <VFEM_HighPriest96.description>[PAWN_nameDef] servia como líder espiritual de uma ideologia influente, presidindo rituais e interpretando textos sagrados. Tornou-se mestre em oratória e filosofia, guiando seguidores em tempos de prosperidade e dificuldade. Embora reverenciado pela sabedoria, raramente se envolvia em trabalho braçal.</VFEM_HighPriest96.description>
+  <VFEM_HighPriest96.title>sumo sacerdote</VFEM_HighPriest96.title>
+  <VFEM_HighPriest96.titleShort>sacerdote</VFEM_HighPriest96.titleShort>
+
+  <VFEM_IdeologicalCrusader99.description>[PAWN_nameDef] lutou para espalhar sua ideologia pela força, liderando exércitos em seu nome. Era um guerreiro temível e um líder inspirador, unindo outros à sua causa com fervor. Embora habilidoso em combate e persuasão, faltava-lhe paciência para atividades intelectuais.</VFEM_IdeologicalCrusader99.description>
+  <VFEM_IdeologicalCrusader99.title>cruzado ideológico</VFEM_IdeologicalCrusader99.title>
+  <VFEM_IdeologicalCrusader99.titleShort>cruzado</VFEM_IdeologicalCrusader99.titleShort>
+
+  <VFEM_IdeologicalOrator100.description>[PAWN_nameDef] viajava de vila em vila, proferindo sermões e espalhando os dogmas de sua ideologia. Era um orador carismático, capaz de inspirar devoção ou incitar rebelião. Embora hábil em mobilizar outros, tinha pouca experiência com trabalho braçal ou habilidades práticas.</VFEM_IdeologicalOrator100.description>
+  <VFEM_IdeologicalOrator100.title>orador ideológico</VFEM_IdeologicalOrator100.title>
+  <VFEM_IdeologicalOrator100.titleShort>orador</VFEM_IdeologicalOrator100.titleShort>
+
+  <VFEM_IdeologicalScholar97.description>[PAWN_nameDef] dedicou sua vida ao estudo dos dogmas de sua ideologia, escrevendo tratados e debatendo seus princípios. Tornou-se respeitado por seu intelecto e percepção, muitas vezes aconselhando líderes em questões éticas. Embora brilhante em seu campo, evitava o trabalho manual.</VFEM_IdeologicalScholar97.description>
+  <VFEM_IdeologicalScholar97.title>estudioso ideológico</VFEM_IdeologicalScholar97.title>
+  <VFEM_IdeologicalScholar97.titleShort>estudioso</VFEM_IdeologicalScholar97.titleShort>
+
+  <VFEM_KeeperOfRelics98.description>[PAWN_nameDef] foi encarregado de salvaguardar os artefatos sagrados de sua ideologia, protegendo-os e garantindo seu uso correto em rituais. Desenvolveu uma atenção meticulosa aos detalhes e uma profunda reverência por seus deveres. No entanto, carecia de habilidades fora da preservação de relíquias.</VFEM_KeeperOfRelics98.description>
+  <VFEM_KeeperOfRelics98.title>guardião de relíquias</VFEM_KeeperOfRelics98.title>
+  <VFEM_KeeperOfRelics98.titleShort>guardião</VFEM_KeeperOfRelics98.titleShort>
+
+  <VFEM_KeeperOfTheHerds93.description>[PAWN_nameDef] gerenciava vastos rebanhos de ovelhas e gado para sua família nobre, garantindo que os animais prosperassem. Desenvolveu uma compreensão inigualável de cuidados e criação, supervisionando os trabalhadores sob seu comando. Embora respeitado em seu domínio rural, tinha pouca experiência militar.</VFEM_KeeperOfTheHerds93.description>
+  <VFEM_KeeperOfTheHerds93.title>guardião dos rebanhos</VFEM_KeeperOfTheHerds93.title>
+  <VFEM_KeeperOfTheHerds93.titleShort>pastor mestre</VFEM_KeeperOfTheHerds93.titleShort>
+
+  <VFEM_KennelMaster77.description>[PAWN_nameDef] cuidava dos cães de caça do senhor, treinando-os para a perseguição e mantendo-os saudáveis. Tornou-se hábil em lidar com o temperamento dos animais, ganhando confiança como manejador especialista. Costumava passar mais tempo com cães do que com pessoas, tornando-se socialmente retraído.</VFEM_KennelMaster77.description>
+  <VFEM_KennelMaster77.title>mestre do canil</VFEM_KennelMaster77.title>
+  <VFEM_KennelMaster77.titleShort>mestre do canil</VFEM_KennelMaster77.titleShort>
+
+  <VFEM_Knight51.description>[PAWN_nameDef] subiu na hierarquia de escudeiros para conquistar seu título como cavaleiro através de coragem e dedicação. Tornou-se mestre na esgrima e no combate montado, protegendo o reino com honra. Embora hábil na guerra, considerava o trabalho manual abaixo de sua dignidade.</VFEM_Knight51.description>
+  <VFEM_Knight51.title>cavaleiro</VFEM_Knight51.title>
+  <VFEM_Knight51.titleShort>cavaleiro</VFEM_Knight51.titleShort>
+
+  <VFEM_KnightCommander61.description>[PAWN_nameDef] liderou uma companhia de cavaleiros em batalha, ganhando seu título através de anos de habilidade e estratégia. Destacava-se na coordenação de tropas e na criação de planos de batalha. Embora imbatível em liderança e combate, considerava o trabalho manual inferior.</VFEM_KnightCommander61.description>
+  <VFEM_KnightCommander61.title>cavaleiro comandante</VFEM_KnightCommander61.title>
+  <VFEM_KnightCommander61.titleShort>comandante</VFEM_KnightCommander61.titleShort>
+
+  <VFEM_KnightErrant63.description>[PAWN_nameDef] vagou pelas terras como um cavaleiro andante, buscando provar seu valor através do combate e atos de cavalaria. Dominou a esgrima e ganhou reputação por sua bravura destemida. Embora hábil em combate e diplomacia, negligenciou habilidades práticas durante suas viagens.</VFEM_KnightErrant63.description>
+  <VFEM_KnightErrant63.title>cavaleiro andante</VFEM_KnightErrant63.title>
+  <VFEM_KnightErrant63.titleShort>andante</VFEM_KnightErrant63.titleShort>
+
+  <VFEM_LandedKnight87.description>[PAWN_nameDef] recebeu uma pequena propriedade como recompensa por seu serviço em batalha. Equilibrava a gestão da terra e a proteção dos camponeses locais, mantendo suas habilidades de luta enquanto supervisionava as operações diárias. Embora guerreiro capaz, faltava-lhe o refinamento da vida na corte.</VFEM_LandedKnight87.description>
+  <VFEM_LandedKnight87.title>cavaleiro de posses</VFEM_LandedKnight87.title>
+  <VFEM_LandedKnight87.titleShort>cavaleiro</VFEM_LandedKnight87.titleShort>
+
+  <VFEM_LordsHeir66.description>[PAWN_nameDef] nasceu como o filho mais velho de uma família nobre, destinado a herdar a propriedade e o título. Recebeu a melhor educação em governança, diplomacia e guerra. Embora hábil em estratégia e liderança, evitava o trabalho físico, vendo-o como algo abaixo de sua posição.</VFEM_LordsHeir66.description>
+  <VFEM_LordsHeir66.title>herdeiro do lorde</VFEM_LordsHeir66.title>
+  <VFEM_LordsHeir66.titleShort>herdeiro</VFEM_LordsHeir66.titleShort>
+
+  <VFEM_ManorLord86.description>[PAWN_nameDef] governava uma mansão rural, supervisionando o trabalho dos servos e garantindo a produtividade de suas terras. Era hábil em gerenciar pessoas e recursos, mediando disputas e coletando impostos. Embora respeitado localmente, tinha pouca exposição à alta política nobre.</VFEM_ManorLord86.description>
+  <VFEM_ManorLord86.title>senhor da mansão</VFEM_ManorLord86.title>
+  <VFEM_ManorLord86.titleShort>lorde</VFEM_ManorLord86.titleShort>
+
+  <VFEM_MasterOfWhispers72.description>[PAWN_nameDef] serviu como mestre dos sussurros para um grande senhor, reunindo informações através de uma rede de informantes. Tornou-se especialista em intriga, manipulação e descoberta de segredos, usando a informação como arma. Embora hábil no subterfúgio, preferia trabalhar nos bastidores.</VFEM_MasterOfWhispers72.description>
+  <VFEM_MasterOfWhispers72.title>mestre dos sussurros</VFEM_MasterOfWhispers72.title>
+  <VFEM_MasterOfWhispers72.titleShort>mestre espião</VFEM_MasterOfWhispers72.titleShort>
+
+  <VFEM_Merchant52.description>[PAWN_nameDef] construiu sua fortuna através de trocas astutas, viajando por regiões para comercializar bens exóticos e garantir acordos lucrativos. Tornou-se altamente qualificado em negociação e logística. Embora bem-sucedido financeiramente, dependia de outros para o trabalho físico pesado.</VFEM_Merchant52.description>
+  <VFEM_Merchant52.title>mercador</VFEM_Merchant52.title>
+  <VFEM_Merchant52.titleShort>mercador</VFEM_Merchant52.titleShort>
+
+  <VFEM_NobleDiplomat69.description>[PAWN_nameDef] era enviado a cortes estrangeiras como representante de sua família, negociando alianças e tratados. Tornou-se hábil na diplomacia, ganhando admiração por sua eloquência e charme. No entanto, dependia de servos para o trabalho físico e raramente realizava tarefas manuais.</VFEM_NobleDiplomat69.description>
+  <VFEM_NobleDiplomat69.title>nobre diplomata</VFEM_NobleDiplomat69.title>
+  <VFEM_NobleDiplomat69.titleShort>diplomata</VFEM_NobleDiplomat69.titleShort>
+
+  <VFEM_NobleHeir53.description>[PAWN_nameDef] cresceu rodeado de riqueza e privilégios, treinado desde cedo para governar terras e liderar pessoas. Dominou a arte da diplomacia e aprimorou suas habilidades em arquearia e estratégia para assumir suas responsabilidades. No entanto, considerava o trabalho manual inferior e delegava tais tarefas.</VFEM_NobleHeir53.description>
+  <VFEM_NobleHeir53.title>herdeiro nobre</VFEM_NobleHeir53.title>
+  <VFEM_NobleHeir53.titleShort>nobre</VFEM_NobleHeir53.titleShort>
+
+  <!-- pra cima funciona -->
+
+  <VFEM_PastoralGuardian90.description>[PAWN_nameDef] protegia as propriedades rurais e vilas próximas contra bandidos e feras selvagens. Servia como uma ponte entre a nobreza e o povo comum, mantendo a ordem através da diplomacia e da força. Embora hábil em combate, permaneceu enraizado na simplicidade da vida rural.</VFEM_PastoralGuardian90.description>
+  <VFEM_PastoralGuardian90.title>guardião pastoral</VFEM_PastoralGuardian90.title>
+  <VFEM_PastoralGuardian90.titleShort>guardião</VFEM_PastoralGuardian90.titleShort>
+
+  <VFEM_RiverWarden94.description>[PAWN_nameDef] era responsável por patrulhar e proteger os rios que fluíam pelas terras de sua família. Garantia que o comércio e a pesca fossem conduzidos legalmente, sendo um supervisor justo e capaz. Embora mantivesse a ordem, carecia de habilidades diplomáticas fora de seu domínio.</VFEM_RiverWarden94.description>
+  <VFEM_RiverWarden94.title>vigilante do rio</VFEM_RiverWarden94.title>
+  <VFEM_RiverWarden94.titleShort>vigilante</VFEM_RiverWarden94.titleShort>
+
+  <VFEM_RoyalGuard64.description>[PAWN_nameDef] serviu como um dos guardas de elite jurados a proteger o rei e sua família. Treinado em combate corpo a corpo e à distância, tornou-se altamente qualificado em defesa pessoal e lealdade. A posição prestigiosa o deixou desacostumado a tarefas triviais, focando apenas no dever.</VFEM_RoyalGuard64.description>
+  <VFEM_RoyalGuard64.title>guarda real</VFEM_RoyalGuard64.title>
+  <VFEM_RoyalGuard64.titleShort>guarda</VFEM_RoyalGuard64.titleShort>
+
+  <VFEM_RoyalKnight70.description>[PAWN_nameDef] foi treinado desde jovem para servir ao rei diretamente como membro de sua guarda pessoal. Tornou-se mestre em combate montado e corpo a corpo, ganhando o respeito de pares e comandantes. Embora excelente no campo de batalha, evitava tarefas servis por considerá-las indignas.</VFEM_RoyalKnight70.description>
+  <VFEM_RoyalKnight70.title>cavaleiro real</VFEM_RoyalKnight70.title>
+  <VFEM_RoyalKnight70.titleShort>cavaleiro real</VFEM_RoyalKnight70.titleShort>
+
+  <VFEM_RuralCastellan92.description>[PAWN_nameDef] supervisionava uma fortaleza remota, servindo como representante da família nobre no interior. Mantinha a cidadela, organizava a defesa das vilas locais e gerenciava disputas entre servos. Era hábil em construção e liderança, mas carecia da sofisticação da alta corte.</VFEM_RuralCastellan92.description>
+  <VFEM_RuralCastellan92.title>castelão rural</VFEM_RuralCastellan92.title>
+  <VFEM_RuralCastellan92.titleShort>castelão</VFEM_RuralCastellan92.titleShort>
+
+  <VFEM_Shepherd79.description>[PAWN_nameDef] passava os dias guiando rebanhos de ovelhas pelas pastagens, protegendo-os de predadores e garantindo seu bem-estar. Aprendeu a viver da terra e ganhou uma afinidade natural com os animais. Embora adepto do trato animal, tinha pouco interesse em outras atividades.</VFEM_Shepherd79.description>
+  <VFEM_Shepherd79.title>pastor do rebanho</VFEM_Shepherd79.title>
+  <VFEM_Shepherd79.titleShort>pastor</VFEM_Shepherd79.titleShort>
+
+  <VFEM_SouthernLord75.description>[PAWN_nameDef] governava uma região quente e fértil, mantendo a ordem e a riqueza através da agricultura e do comércio. Desenvolveu fortes habilidades diplomáticas para navegar pelas alianças e rivalidades de casas vizinhas. Embora político experiente, dependia de outros para a guerra.</VFEM_SouthernLord75.description>
+  <VFEM_SouthernLord75.title>lorde do sul</VFEM_SouthernLord75.title>
+  <VFEM_SouthernLord75.titleShort>lorde</VFEM_SouthernLord75.titleShort>
+
+  <VFEM_Steward55.description>[PAWN_nameDef] gerenciava as propriedades de um nobre, supervisionando finanças, organizando eventos e garantindo o funcionamento da casa. Destacava-se na administração e diplomacia, tornando-se indispensável. Embora proficiente intelectualmente, via o trabalho físico como algo inferior.</VFEM_Steward55.description>
+  <VFEM_Steward55.title>administrador</VFEM_Steward55.title>
+  <VFEM_Steward55.titleShort>administrador</VFEM_Steward55.titleShort>
+
+  <VFEM_StewardOfTheFields89.description>[PAWN_nameDef] era responsável por gerenciar a produção agrícola de uma grande propriedade, garantindo que os campos fossem trabalhados e as colheitas recolhidas. Desenvolveu profunda compreensão do cultivo e organização. Embora hábil no campo, carecia de treinamento militar ou refinamento de corte.</VFEM_StewardOfTheFields89.description>
+  <VFEM_StewardOfTheFields89.title>administrador dos campos</VFEM_StewardOfTheFields89.title>
+  <VFEM_StewardOfTheFields89.titleShort>administrador</VFEM_StewardOfTheFields89.titleShort>
+
+  <VFEM_Strategist65.description>[PAWN_nameDef] era um mestre tático, aconselhando lordes e generais sobre os melhores caminhos para a vitória. Destacava-se em ler o campo de batalha e antecipar movimentos inimigos. Embora raramente lutasse diretamente, impunha respeito por sua mente brilhante e língua afiada.</VFEM_Strategist65.description>
+  <VFEM_Strategist65.title>estrategista</VFEM_Strategist65.title>
+  <VFEM_Strategist65.titleShort>estrategista</VFEM_Strategist65.titleShort>
+
+  <VFEM_UsurpersKin84.description>[PAWN_nameDef] nasceu em uma família que tomou o poder por meio da traição, ganhando o desprezo da sociedade nobre. Cresceu isolado e sob desconfiança, forçado a confiar na astúcia para navegar na corte. Embora hábil em intriga, carecia de aliados e do respeito das casas legítimas.</VFEM_UsurpersKin84.description>
+  <VFEM_UsurpersKin84.title>parente de usurpador</VFEM_UsurpersKin84.title>
+  <VFEM_UsurpersKin84.titleShort>família desonrada</VFEM_UsurpersKin84.titleShort>
+
+  <VFEM_VillageElder88.description>[PAWN_nameDef] era uma figura respeitada em uma comunidade rural, resolvendo disputas e orientando decisões para o benefício da vila. Desenvolveu sabedoria através de anos de experiência, ganhando a confiança de todos. Embora excelente na diplomacia, deixava as tarefas físicas para os mais jovens.</VFEM_VillageElder88.description>
+  <VFEM_VillageElder88.title>ancião da vila</VFEM_VillageElder88.title>
+  <VFEM_VillageElder88.titleShort>ancião</VFEM_VillageElder88.titleShort>
+
+  <VFEM_VillagePatron95.description>[PAWN_nameDef] servia como benfeitor de uma vila local, financiando melhorias na infraestrutura e garantindo o bem-estar dos inquilinos. Aprendeu a equilibrar generosidade com praticidade. Embora respeitado pelos aldeões, tinha pouca experiência com guerra ou intrigas de corte.</VFEM_VillagePatron95.description>
+  <VFEM_VillagePatron95.title>patrono da vila</VFEM_VillagePatron95.title>
+  <VFEM_VillagePatron95.titleShort>patrono</VFEM_VillagePatron95.titleShort>
+
+  <VFEM_WarBeastTrainer80.description>[PAWN_nameDef] treinava cães de guerra e outras feras para lutar ao lado de soldados em batalha. Especializou-se em ensinar os animais a obedecer comandos mesmo no caos do combate. Embora hábil com animais, tinha dificuldades com os detalhes da diplomacia e negociação.</VFEM_WarBeastTrainer80.description>
+  <VFEM_WarBeastTrainer80.title>treinador de feras de guerra</VFEM_WarBeastTrainer80.title>
+  <VFEM_WarBeastTrainer80.titleShort>treinador</VFEM_WarBeastTrainer80.titleShort>
+
+  <VFEM_WardenOfTheNorth71.description>[PAWN_nameDef] foi encarregado da defesa de um vasto e gélido reino do norte, gerenciando tanto seu povo quanto seus exércitos. Destacou-se na liderança e na criação de alianças para manter as terras unidas. As condições rigorosas forjaram [PAWN_objective] em uma figura endurecida e resoluta.</VFEM_WardenOfTheNorth71.description>
+  <VFEM_WardenOfTheNorth71.title>guardião do norte</VFEM_WardenOfTheNorth71.title>
+  <VFEM_WardenOfTheNorth71.titleShort>guardião</VFEM_WardenOfTheNorth71.titleShort>
+  
+  <VFEM_ArcherTrainee155.description>[PAWN_nameDef] começou a treinar com o arco desde cedo, buscando a habilidade e a precisão exigidas dos guerreiros nobres. [PAWN_pronoun] passava horas desenhando alvos no pátio e praticando tiros de longa distância. O treinamento aprimorou seu foco e lhe deu uma vantagem no combate à distância.</VFEM_ArcherTrainee155.description>
+  <VFEM_ArcherTrainee155.title>arqueiro aprendiz</VFEM_ArcherTrainee155.title>
+  <VFEM_ArcherTrainee155.titleShort>arqueiro</VFEM_ArcherTrainee155.titleShort>
+  
+  <VFEM_AspiringDiplomat150.description>[PAWN_nameDef] foi preparado para um futuro na diplomacia, estudando idiomas, geografia e os costumes das cortes estrangeiras. [PAWN_pronoun] praticava discursos e mediava pequenas disputas entre seus pares. Embora ainda jovem, demonstrava promessa como um negociador e tático habilidoso.</VFEM_AspiringDiplomat150.description>
+  <VFEM_AspiringDiplomat150.title>aspirante a diplomata</VFEM_AspiringDiplomat150.title>
+  <VFEM_AspiringDiplomat150.titleShort>diplomata</VFEM_AspiringDiplomat150.titleShort>
+  
+  <VFEM_AspiringKnight145.description>[PAWN_nameDef] treinou desde cedo na arte do combate, preparando-se para o dia em que pudesse conquistar seu lugar entre os cavaleiros de sua casa. [PAWN_pronoun] praticava com espadas de madeira e duelava com instrutores, aprendendo disciplina e honra. Apesar de jovem, já mostrava promessa como guerreiro.</VFEM_AspiringKnight145.description>
+  <VFEM_AspiringKnight145.title>aspirante a cavaleiro</VFEM_AspiringKnight145.title>
+  <VFEM_AspiringKnight145.titleShort>cavaleiro</VFEM_AspiringKnight145.titleShort>
+  
+  <VFEM_BannerBearer154.description>[PAWN_nameDef] carregava o estandarte da família em exercícios e desfiles, aprendendo a representar sua casa com orgulho. [PAWN_pronoun] passava horas praticando formações de marcha e mantendo a compostura sob olhar atento. Embora não fosse um combatente de linha de frente, aprendeu lições valiosas de disciplina e liderança.</VFEM_BannerBearer154.description>
+  <VFEM_BannerBearer154.title>porta-estandarte</VFEM_BannerBearer154.title>
+  <VFEM_BannerBearer154.titleShort>porta-estandarte</VFEM_BannerBearer154.titleShort>
+  
+  <VFEM_BuddingPoet170.description>[PAWN_nameDef] compôs um poema épico ainda jovem que se espalhou por toda a região, rendendo-lhe fama e admiração. Nobres e plebeus recitavam seus versos, elogiando sua profundidade emocional. O sucesso trouxe convites para cortes em todas as terras.</VFEM_BuddingPoet170.description>
+  <VFEM_BuddingPoet170.title>poeta promissor</VFEM_BuddingPoet170.title>
+  <VFEM_BuddingPoet170.titleShort>poeta</VFEM_BuddingPoet170.titleShort>
+  
+  <VFEM_CastleDefender153.description>[PAWN_nameDef] foi criado em um castelo fortificado e passava seus dias treinando com guardas e aprendendo o básico da defesa de cerco. Praticava com arcos nas ameias e treinava com lanças no pátio. Essa vida lhe deu um forte senso de dever e experiência precoce em combate.</VFEM_CastleDefender153.description>
+  <VFEM_CastleDefender153.title>defensor de castelo</VFEM_CastleDefender153.title>
+  <VFEM_CastleDefender153.titleShort>defensor</VFEM_CastleDefender153.titleShort>
+  
+  <VFEM_CastlePlaymate144.description>[PAWN_nameDef] passou a infância correndo pelos corredores e pátios de um castelo, brincando com outras crianças nobres. Os anos despreocupados lhe deram um forte senso de camaradagem e uma compreensão básica das etiquetas da corte. No entanto, a vida protegida deixou [PAWN_objective] ingênuo sobre as lutas do povo comum.</VFEM_CastlePlaymate144.description>
+  <VFEM_CastlePlaymate144.title>companheiro de castelo</VFEM_CastlePlaymate144.title>
+  <VFEM_CastlePlaymate144.titleShort>companheiro</VFEM_CastlePlaymate144.titleShort>
+  
+  <VFEM_ChildOfTheEclipse162.description>[PAWN_nameDef] nasceu sob um eclipse sinistro, um sinal que encheu os aldeões de pavor. Cresceu sob o peso de superstições sombrias, com alguns acreditando que [PAWN_pronoun] trazia má sorte ou algo pior. Aprendeu a navegar pelo medo alheio, tornando-se astuto e distante para sobreviver.</VFEM_ChildOfTheEclipse162.description>
+  <VFEM_ChildOfTheEclipse162.title>filho do eclipse</VFEM_ChildOfTheEclipse162.title>
+  <VFEM_ChildOfTheEclipse162.titleShort>nascido do eclipse</VFEM_ChildOfTheEclipse162.titleShort>
+  
+  <VFEM_CourtAttendant148.description>[PAWN_nameDef] cresceu servindo como um assistente júnior em uma corte real, aprendendo as nuances da etiqueta e a arte da adulação. Observava as negociações dos nobres e praticava suas próprias habilidades em persuasão e charme. Embora imerso nas intrigas, raramente se aventurava além das muralhas.</VFEM_CourtAttendant148.description>
+  <VFEM_CourtAttendant148.title>atendente da corte</VFEM_CourtAttendant148.title>
+  <VFEM_CourtAttendant148.titleShort>atendente</VFEM_CourtAttendant148.titleShort>
+  
+  <VFEM_EstateHeir157.description>[PAWN_nameDef] foi criado em uma propriedade extensa, aprendendo a supervisionar a casa e gerenciar os trabalhadores que cultivavam a terra. Recebeu lições de administração e liderança básica, preparando-se para uma vida de privilégios. Embora competente, tinha pouca noção da vida além da riqueza de sua família.</VFEM_EstateHeir157.description>
+  <VFEM_EstateHeir157.title>herdeiro de propriedade</VFEM_EstateHeir157.title>
+  <VFEM_EstateHeir157.titleShort>herdeiro</VFEM_EstateHeir157.titleShort>
+  
+  <VFEM_FalconryStudent149.description>[PAWN_nameDef] passou a juventude aprendendo o passatempo nobre da falcoaria, treinando aves para caçar e obedecer comandos. Desenvolveu paciência e uma compreensão aguçada do comportamento animal. Embora a habilidade impressionasse os outros, tinha pouco tempo para tarefas práticas fora do esporte.</VFEM_FalconryStudent149.description>
+  <VFEM_FalconryStudent149.title>estudante de falcoaria</VFEM_FalconryStudent149.title>
+  <VFEM_FalconryStudent149.titleShort>falcoeiro</VFEM_FalconryStudent149.titleShort>
+  
+  <VFEM_GraveyardWanderer163.description>[PAWN_nameDef] passava longas horas entre as lápides, falando com os mortos como se estivessem vivos. Sentia-se atraído pela quietude e pelas histórias esculpidas na pedra desgastada. Os aldeões sussurravam sobre seus hábitos estranhos, e [PAWN_pronoun] aprendeu a manter seus pensamentos ocultos de olhos curiosos.</VFEM_GraveyardWanderer163.description>
+  <VFEM_GraveyardWanderer163.title>vagamundo de cemitério</VFEM_GraveyardWanderer163.title>
+  <VFEM_GraveyardWanderer163.titleShort>vagamundo</VFEM_GraveyardWanderer163.titleShort>
+  
+  <VFEM_HeirToTheEstate146.description>[PAWN_nameDef] foi criado para herdar a propriedade da família, recebendo lições de administração e diplomacia desde cedo. Foi ensinado a gerenciar recursos, supervisionar servos e manter a ordem na casa. A criação estruturada preparou [PAWN_pronoun] para a liderança, mas deixou pouco tempo para brincar.</VFEM_HeirToTheEstate146.description>
+  <VFEM_HeirToTheEstate146.title>herdeiro da propriedade</VFEM_HeirToTheEstate146.title>
+  <VFEM_HeirToTheEstate146.titleShort>herdeiro</VFEM_HeirToTheEstate146.titleShort>
+  
+  <VFEM_LavishUpbringing158.description>[PAWN_nameDef] foi cercado de luxo desde o nascimento, nunca conhecendo a fome ou a privação. Aprendeu modos de corte e passava os dias desfrutando de música, boa comida e lazer. Embora refinado e confiante, tinha dificuldades com tarefas práticas que exigiam trabalho árduo.</VFEM_LavishUpbringing158.description>
+  <VFEM_LavishUpbringing158.title>criação luxuosa</VFEM_LavishUpbringing158.title>
+  <VFEM_LavishUpbringing158.titleShort>luxuoso</VFEM_LavishUpbringing158.titleShort>
+  
+  <VFEM_MerchantsProdigy156.description>[PAWN_nameDef] cresceu cercado pelo comércio agitado dos negócios de sua família, observando acordos se desenrolarem e mercadorias mudarem de mãos. Aprendeu a arte da negociação e a importância da riqueza. Embora versado no comércio, teve pouco contato com as lutas da vida comum.</VFEM_MerchantsProdigy156.description>
+  <VFEM_MerchantsProdigy156.title>prodígio mercante</VFEM_MerchantsProdigy156.title>
+  <VFEM_MerchantsProdigy156.titleShort>prodígio</VFEM_MerchantsProdigy156.titleShort>
+  
+  <VFEM_NobleWard141.description>[PAWN_nameDef] foi enviado para a corte de outro nobre para ser criado e educado nos caminhos da governança e etiqueta. Aprendeu a navegar pelas complexidades das relações nobres e ganhou uma compreensão básica de liderança. Apesar de cercado de luxo, passava a maior parte do tempo sob vigilância.</VFEM_NobleWard141.description>
+  <VFEM_NobleWard141.title>pupilo nobre</VFEM_NobleWard141.title>
+  <VFEM_NobleWard141.titleShort>pupilo</VFEM_NobleWard141.titleShort>
+  
+  <VFEM_Page142.description>[PAWN_nameDef] começou seu treinamento em uma casa nobre, aprendendo os fundamentos do serviço e dos deveres de cavalaria. Passava horas limpando armaduras, levando mensagens e estudando técnicas básicas de combate. A experiência proporcionou uma introdução precoce à disciplina e lealdade esperadas da nobreza.</VFEM_Page142.description>
+  <VFEM_Page142.title>pagem</VFEM_Page142.title>
+  <VFEM_Page142.titleShort>pagem</VFEM_Page142.titleShort>
+  
+  <VFEM_PatronOfTheArts159.description>[PAWN_nameDef] foi incentivado a buscar e apoiar as artes, assistindo a apresentações e encomendando obras de artesãos talentosos. Desenvolveu um apreço pela beleza e criatividade, além de um talento para reconhecer a habilidade nos outros. Embora culto, foi protegido das realidades mais cruas da vida.</VFEM_PatronOfTheArts159.description>
+  <VFEM_PatronOfTheArts159.title>patrono das artes</VFEM_PatronOfTheArts159.title>
+  <VFEM_PatronOfTheArts159.titleShort>patrono</VFEM_PatronOfTheArts159.titleShort>
+  
+  <VFEM_PrivilegedScholar160.description>[PAWN_nameDef] teve acesso aos melhores tutores, estudando história, filosofia e ciências desde cedo. Demonstrou promessa em atividades acadêmicas, impressionando sua família com seu intelecto aguçado. No entanto, tinha pouca compreensão das dificuldades enfrentadas por aqueles menos afortunados.</VFEM_PrivilegedScholar160.description>
+  <VFEM_PrivilegedScholar160.title>estudioso privilegiado</VFEM_PrivilegedScholar160.title>
+  <VFEM_PrivilegedScholar160.titleShort>estudioso</VFEM_PrivilegedScholar160.titleShort>
+  
+  <VFEM_PrizeArcher169.description>[PAWN_nameDef] venceu uma prestigiosa competição de arquearia aos treze anos, superando oponentes mais velhos e experientes. Foi elogiado por sua precisão e compostura sob pressão. A vitória trouxe honra à sua família e colocou [PAWN_objective] em um caminho de aclamação futura.</VFEM_PrizeArcher169.description>
+  <VFEM_PrizeArcher169.title>arqueiro premiado</VFEM_PrizeArcher169.title>
+  <VFEM_PrizeArcher169.titleShort>arqueiro</VFEM_PrizeArcher169.titleShort>
+  
+  <VFEM_ProdigiousTactician167.description>[PAWN_nameDef] demonstrou um dom para a estratégia ao organizar e vencer uma batalha simulada entre os escudeiros do castelo. Antecipou os movimentos de seus oponentes e usou o terreno a seu favor, ganhando a admiração de cavaleiros veteranos. O evento marcou [PAWN_objective] como um futuro comandante promissor.</VFEM_ProdigiousTactician167.description>
+  <VFEM_ProdigiousTactician167.title>estrategista prodígio</VFEM_ProdigiousTactician167.title>
+  <VFEM_ProdigiousTactician167.titleShort>estrategista</VFEM_ProdigiousTactician167.titleShort>
+  
+  <VFEM_ScribeInTraining147.description>[PAWN_nameDef] passou longas horas aprendendo a ler e escrever sob a orientação de um tutor nomeado pela família. Praticava a cópia de textos e o registro de transações, desenvolvendo um olho aguçado para detalhes. Embora habilidoso em atividades intelectuais, teve pouco contato com trabalho braçal ou treinamento de combate.</VFEM_ScribeInTraining147.description>
+  <VFEM_ScribeInTraining147.title>escriba aprendiz</VFEM_ScribeInTraining147.title>
+  <VFEM_ScribeInTraining147.titleShort>escriba</VFEM_ScribeInTraining147.titleShort>
+  
+  <VFEM_ShadowedOutcast161.description>[PAWN_nameDef] era temido pelos aldeões por razões sussurradas, mas nunca explicadas. Passou a infância nas sombras, evitando aqueles que o encaravam ou se benziam à sua presença. O isolamento endureceu [PAWN_objective], deixando-o desconfiado e quieto, sempre observando dos cantos escuros.</VFEM_ShadowedOutcast161.description>
+  <VFEM_ShadowedOutcast161.title>exilado das sombras</VFEM_ShadowedOutcast161.title>
+  <VFEM_ShadowedOutcast161.titleShort>exilado</VFEM_ShadowedOutcast161.titleShort>
+  
+  <VFEM_ShieldCarrier152.description>[PAWN_nameDef] treinou ao lado de guerreiros, servindo como carregador de escudos durante escaramuças e exercícios. Aprendeu a suportar longas marchas e a proteger seus mentores no calor da batalha. Apesar de jovem, exibia coragem e determinação além de sua idade.</VFEM_ShieldCarrier152.description>
+  <VFEM_ShieldCarrier152.title>carregador de escudo</VFEM_ShieldCarrier152.title>
+  <VFEM_ShieldCarrier152.titleShort>carregador</VFEM_ShieldCarrier152.titleShort>
+  
+  <VFEM_Squire151.description>[PAWN_nameDef] foi aprendiz de um cavaleiro, encarregado de manter armaduras, cuidar de cavalos e aprender o código de cavalaria. Passou inúmeras horas observando batalhas e praticando com armas de treino. O treinamento rigoroso instilou disciplina e o desejo de provar seu valor no campo de batalha.</VFEM_Squire151.description>
+  <VFEM_Squire151.title>escudeiro</VFEM_Squire151.title>
+  <VFEM_Squire151.titleShort>escudeiro</VFEM_Squire151.titleShort>
+  
+  <VFEM_VillageCurseBearer164.description>Acreditava-se que [PAWN_nameDef] era amaldiçoado, culpado por toda má sorte que abatia a vila. Colheitas falhavam, o gado morria e os aldeões adoeciam, tudo sob sua sombra sombria. [PAWN_pronoun] cresceu esperando a rejeição, desenvolvendo uma resiliência fria para sobreviver em um mundo que o temia.</VFEM_VillageCurseBearer164.description>
+  <VFEM_VillageCurseBearer164.title>amaldiçoado da vila</VFEM_VillageCurseBearer164.title>
+  <VFEM_VillageCurseBearer164.titleShort>amaldiçoado</VFEM_VillageCurseBearer164.titleShort>
+  
+  <VFEM_WhisperedFoundling165.description>[PAWN_nameDef] foi descoberto ainda bebê na orla da floresta, envolto em panos esfarrapados e deixado à chuva. Os aldeões o acolheram relutantemente, sempre murmurando sobre origens não naturais. Cresceu sob a sombra da suspeita, aprendendo a permanecer invisível e inaudível.</VFEM_WhisperedFoundling165.description>
+  <VFEM_WhisperedFoundling165.title>enjeitado sussurrado</VFEM_WhisperedFoundling165.title>
+  <VFEM_WhisperedFoundling165.titleShort>enjeitado</VFEM_WhisperedFoundling165.titleShort>
+  
+  <VFEM_YoungArchitect168.description>[PAWN_nameDef] projetou um sistema de irrigação inovador para a propriedade da família com apenas dez anos de idade, aumentando muito o rendimento das colheitas. Impressionou tanto os administradores quanto os trabalhadores com sua engenhosidade. O sucesso garantiu que fosse levado a sério, mesmo sendo tão jovem.</VFEM_YoungArchitect168.description>
+  <VFEM_YoungArchitect168.title>jovem arquiteto</VFEM_YoungArchitect168.title>
+  <VFEM_YoungArchitect168.titleShort>arquiteto</VFEM_YoungArchitect168.titleShort>
+  
+  <VFEM_YoungDiplomat166.description>[PAWN_nameDef] surpreendeu seus anciãos ao negociar uma trégua entre famílias nobres rivais com apenas doze anos de idade. Usou charme e lógica para persuadir ambos os lados, ganhando respeito muito além de sua idade. A experiência consolidou seu lugar como uma estrela em ascensão na política da corte.</VFEM_YoungDiplomat166.description>
+  <VFEM_YoungDiplomat166.title>jovem diplomata</VFEM_YoungDiplomat166.title>
+  <VFEM_YoungDiplomat166.titleShort>diplomata</VFEM_YoungDiplomat166.titleShort>
+  
+  <VFEM_YoungScholar143.description>[PAWN_nameDef] foi instruído em história, filosofia e matemática desde cedo, como era esperado de crianças de berço nobre. Demonstrou uma curiosidade natural e aptidão para o aprendizado, ganhando elogios de seus tutores. Embora instruído, teve pouca experiência com trabalho manual ou prático.</VFEM_YoungScholar143.description>
+  <VFEM_YoungScholar143.title>jovem estudioso</VFEM_YoungScholar143.title>
+  <VFEM_YoungScholar143.titleShort>estudioso</VFEM_YoungScholar143.titleShort>
+  
+</LanguageData>

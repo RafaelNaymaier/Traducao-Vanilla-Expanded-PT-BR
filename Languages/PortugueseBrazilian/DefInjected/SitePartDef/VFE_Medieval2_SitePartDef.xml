@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEM2_SiegeCampBase.label>acampamento de cerco</VFEM2_SiegeCampBase.label>
+  <VFEM2_SiegeCampBase.description>Um acampamento de cerco.</VFEM2_SiegeCampBase.description>
+  <VFEM2_SiegeCampBase.approachingReportString>Atacando {0}</VFEM2_SiegeCampBase.approachingReportString>
+  <VFEM2_SiegeCampBase.approachOrderString>Atacar {0}</VFEM2_SiegeCampBase.approachOrderString>
+  <VFEM2_SiegeCampBase.arrivedLetter>Acampamento de cerco nesta área.</VFEM2_SiegeCampBase.arrivedLetter>
+  
+  <VFEM_SkirmishSitePart.label>local de escaramuça</VFEM_SkirmishSitePart.label>
+  <VFEM_SkirmishSitePart.description>Um local de escaramuça.</VFEM_SkirmishSitePart.description>
+  <VFEM_SkirmishSitePart.approachingReportString>Entrando em {0}</VFEM_SkirmishSitePart.approachingReportString>
+  <VFEM_SkirmishSitePart.approachOrderString>Entrar em {0}</VFEM_SkirmishSitePart.approachOrderString>
+  <VFEM_SkirmishSitePart.arrivedLetter>Local de escaramuça nesta área.</VFEM_SkirmishSitePart.arrivedLetter>
+  
+</LanguageData>

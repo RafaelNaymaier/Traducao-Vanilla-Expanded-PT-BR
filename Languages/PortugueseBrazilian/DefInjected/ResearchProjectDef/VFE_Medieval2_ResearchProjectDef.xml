@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEM2_Alchemy.label>alquimia</VFEM2_Alchemy.label>
+  <VFEM2_Alchemy.description>Permite cultivar diversos ingredientes alquímicos e combiná-los em diferentes poções em um laboratório de alquimia.</VFEM2_Alchemy.description>
+  <VFEM2_Alchemy.generalRules.rulesStrings>
+    <li>subject->estudos alquímicos</li>
+    <li>subject_story->desvendou os mistérios da transmutação e criou elixires poderosos</li>
+    <li>subject_story->descobriu uma erva rara, que dizem conceder juventude eterna</li>
+    <li>subject_story->tornou-se um envenenador temido, vendendo misturas letais ao maior lance</li>
+    <li>subject_gerund->preparando poções alquímicas</li>
+  </VFEM2_Alchemy.generalRules.rulesStrings>
+  
+  <VFEM2_Beekeeping.label>apicultura</VFEM2_Beekeeping.label>
+  <VFEM2_Beekeeping.description>Permite criar abelhas para produzir mel a partir de plantas próximas. O mel pode ser usado na produção de pãezinhos doces e hidromel.</VFEM2_Beekeeping.description>
+  <VFEM2_Beekeeping.generalRules.rulesStrings>
+    <li>subject->apicultura</li>
+    <li>subject_story->estudou as complexas estruturas sociais das abelhas</li>
+    <li>subject_story->desenvolveu grandes apiários, fornecendo mel de alta qualidade para nobres</li>
+    <li>subject_story->aperfeiçoou a produção de hidromel, tornando-se um produtor renomado</li>
+    <li>subject_gerund->cuidando de colmeias</li>
+  </VFEM2_Beekeeping.generalRules.rulesStrings>
+  
+  <VFEM2_ComplexWorkshops.label>oficinas complexas</VFEM2_ComplexWorkshops.label>
+  <VFEM2_ComplexWorkshops.description>Permite construir diversas ferramentas e dispositivos para aumentar a produtividade das bancadas de trabalho.</VFEM2_ComplexWorkshops.description>
+  <VFEM2_ComplexWorkshops.generalRules.rulesStrings>
+    <li>subject->artesanato avançado</li>
+    <li>subject_story->aperfeiçoou técnicas de forja, criando ferramentas de qualidade excepcional</li>
+    <li>subject_story->introduziu inovações mecânicas que revolucionaram a produção</li>
+    <li>subject_story->fundou uma poderosa guilda, controlando o fluxo de bens de alta qualidade</li>
+    <li>subject_gerund->melhorando a eficiência das oficinas</li>
+  </VFEM2_ComplexWorkshops.generalRules.rulesStrings>
+  
+  <VFEM2_Heraldry.label>heráldica</VFEM2_Heraldry.label>
+  <VFEM2_Heraldry.description>Permite usar as cores da facção e construir bandeiras decorativas e tapetes heráldicos.</VFEM2_Heraldry.description>
+  <VFEM2_Heraldry.generalRules.rulesStrings>
+    <li>subject->tradições heráldicas</li>
+    <li>subject_story->criou bandeiras que inspiravam medo ou admiração nos inimigos</li>
+    <li>subject_story->desenvolveu brasões familiares, eternizando legados em tecido e pedra</li>
+    <li>subject_story->liderou a construção de um grande salão adornado com insígnias nobres</li>
+    <li>subject_gerund->projetando símbolos heráldicos</li>
+  </VFEM2_Heraldry.generalRules.rulesStrings>
+  
+  <VFEM2_Matchlocks.label>armas de mecha</VFEM2_Matchlocks.label>
+  <VFEM2_Matchlocks.description>Permite fabricar armas de fogo antigas operadas por pólvora química que utilizam mecanismos de mecha, como arcabuzes e canhões de mão.</VFEM2_Matchlocks.description>
+  <VFEM2_Matchlocks.generalRules.rulesStrings>
+    <li>subject->armas de fogo primitivas</li>
+    <li>subject_story->aperfeiçoou armas de mecha, inaugurando uma era de guerra com pólvora</li>
+    <li>subject_story->forneceu armamento devastador para mercenários</li>
+    <li>subject_story->desencadeou fogo e trovão no campo de batalha, mudando a guerra para sempre</li>
+    <li>subject_gerund->fabricando armas de fogo de mecha</li>
+  </VFEM2_Matchlocks.generalRules.rulesStrings>
+  
+  <VFEM2_MedievalArchitecture.label>arquitetura medieval</VFEM2_MedievalArchitecture.label>
+  <VFEM2_MedievalArchitecture.description>Permite construir diversas estruturas medievais, incluindo paredes de tecido.</VFEM2_MedievalArchitecture.description>
+  <VFEM2_MedievalArchitecture.generalRules.rulesStrings>
+    <li>subject->construção medieval</li>
+    <li>subject_story->supervisionou a construção de castelos imponentes e vilas prósperas</li>
+    <li>subject_story->projetou grandes catedrais, verdadeiras obras-primas da engenharia medieval</li>
+    <li>subject_story->desenvolveu passagens secretas e fortificações para planos clandestinos</li>
+    <li>subject_gerund->projetando estruturas medievais</li>
+  </VFEM2_MedievalArchitecture.generalRules.rulesStrings>
+  
+  <VFEM2_Wine.label>vinicultura</VFEM2_Wine.label>
+  <VFEM2_Wine.description>Permite cultivar uvas que podem ser usadas para produzir mosto de uva e, posteriormente, vinho de alta qualidade.</VFEM2_Wine.description>
+  <VFEM2_Wine.generalRules.rulesStrings>
+    <li>subject->vinicultura</li>
+    <li>subject_story->estabeleceu um vinhedo próspero em encostas ensolaradas</li>
+    <li>subject_story->experimentou técnicas de fermentação, criando safras excepcionais</li>
+    <li>subject_story->tornou-se conhecido por uma dinastia de comerciantes de vinho marcada por excessos</li>
+    <li>subject_gerund->cultivando uvas e fermentando vinho</li>
+  </VFEM2_Wine.generalRules.rulesStrings>
+  
+</LanguageData>

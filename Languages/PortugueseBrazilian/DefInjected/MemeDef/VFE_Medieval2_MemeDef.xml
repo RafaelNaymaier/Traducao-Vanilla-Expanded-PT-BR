@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEM2_Structure_Norse.label>nórdico</VFEM2_Structure_Norse.label>
+  <VFEM2_Structure_Norse.description>Esta ideoligião é descendente do paganismo germânico, também conhecido como Asatru. Pode ter preceitos muito diferentes daqueles de milhares de anos atrás, mas seus símbolos são semelhantes.</VFEM2_Structure_Norse.description>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.0.type>Pai de Todos e Deus da Sabedoria</VFEM2_Structure_Norse.fixedDeityNameTypes.0.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.1.type>Deus do Trovão e da Força</VFEM2_Structure_Norse.fixedDeityNameTypes.1.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.2.type>Deusa do Matrimônio e da Profecia</VFEM2_Structure_Norse.fixedDeityNameTypes.2.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.3.type>Deus da Travessura e da Trapaça</VFEM2_Structure_Norse.fixedDeityNameTypes.3.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.4.type>Deus da Beleza e da Luz</VFEM2_Structure_Norse.fixedDeityNameTypes.4.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.5.type>Deus da Guerra e da Justiça</VFEM2_Structure_Norse.fixedDeityNameTypes.5.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.6.type>Deusa do Amor e da Fertilidade</VFEM2_Structure_Norse.fixedDeityNameTypes.6.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.7.type>Deus da Fertilidade e da Paz</VFEM2_Structure_Norse.fixedDeityNameTypes.7.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.8.type>Deus do Mar e da Riqueza</VFEM2_Structure_Norse.fixedDeityNameTypes.8.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.9.type>Deusa do Inverno e da Caça</VFEM2_Structure_Norse.fixedDeityNameTypes.9.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.10.type>Guardião da Bifrost</VFEM2_Structure_Norse.fixedDeityNameTypes.10.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.11.type>Deusa do Submundo</VFEM2_Structure_Norse.fixedDeityNameTypes.11.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.12.type>Lobo do Caos</VFEM2_Structure_Norse.fixedDeityNameTypes.12.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.13.type>Serpente do Mundo</VFEM2_Structure_Norse.fixedDeityNameTypes.13.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.14.type>Deusa da Juventude Eterna</VFEM2_Structure_Norse.fixedDeityNameTypes.14.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.15.type>Deus da Poesia e da Eloquência</VFEM2_Structure_Norse.fixedDeityNameTypes.15.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.16.type>Deusa da Fidelidade</VFEM2_Structure_Norse.fixedDeityNameTypes.16.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.17.type>Deus da Vingança e do Silêncio</VFEM2_Structure_Norse.fixedDeityNameTypes.17.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.18.type>Deus da Revanche</VFEM2_Structure_Norse.fixedDeityNameTypes.18.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.19.type>Deus da Força</VFEM2_Structure_Norse.fixedDeityNameTypes.19.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.20.type>Deus da Coragem</VFEM2_Structure_Norse.fixedDeityNameTypes.20.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.21.type>Gigante de Fogo e Arauto do Ragnarok</VFEM2_Structure_Norse.fixedDeityNameTypes.21.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.22.type>Gigante Primordial</VFEM2_Structure_Norse.fixedDeityNameTypes.22.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.23.type>Guardião da Sabedoria</VFEM2_Structure_Norse.fixedDeityNameTypes.23.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.24.type>Deusa do Mar</VFEM2_Structure_Norse.fixedDeityNameTypes.24.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.25.type>Deus do Oceano</VFEM2_Structure_Norse.fixedDeityNameTypes.25.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.26.type>Dragão das Raízes de Yggdrasil</VFEM2_Structure_Norse.fixedDeityNameTypes.26.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.27.type>Deusa da Feitiçaria</VFEM2_Structure_Norse.fixedDeityNameTypes.27.type>
+  <VFEM2_Structure_Norse.fixedDeityNameTypes.28.type>Deus da Inspiração</VFEM2_Structure_Norse.fixedDeityNameTypes.28.type>
+  <VFEM2_Structure_Norse.generalRules.rulesStrings>
+    <li>memeAdjective->nórdico</li>
+    <li>memeAdjective->pagão</li>
+    <li>memeAdjective->gentio</li>
+    <li>memeAdjective->ancestral</li>
+    <li>memeAdjective->tradicional</li>
+    <li>memeAdjective->da velha fé</li>
+    <li>memeLeaderNoun->godi</li>
+    <li>memeLeaderNoun->volva</li>
+    <li>memeLeaderAdjective->sagrado</li>
+    <li>memeLeaderAdjective->rúnico</li>
+    <li>memeMoralist->escaldo</li>
+    <li>memeMoralist->vidente</li>
+    <li>memeMoralist->sábio</li>
+    <li>memeMoralist->erudito</li>
+    <li>memeMoralist->guardião do saber</li>
+    <li>memeMoralist->mestre das runas</li>
+    <li>memeMoralist->guia espiritual</li>
+  </VFEM2_Structure_Norse.generalRules.rulesStrings>
+  <VFEM2_Structure_Norse.symbolPacks.0.adjective>nórdico</VFEM2_Structure_Norse.symbolPacks.0.adjective>
+  <VFEM2_Structure_Norse.symbolPacks.0.member>viking</VFEM2_Structure_Norse.symbolPacks.0.member>
+  <VFEM2_Structure_Norse.symbolPacks.0.theme>vikings</VFEM2_Structure_Norse.symbolPacks.0.theme>
+  <VFEM2_Structure_Norse.worshipRoomLabel>grande salão</VFEM2_Structure_Norse.worshipRoomLabel>
+  
+</LanguageData>

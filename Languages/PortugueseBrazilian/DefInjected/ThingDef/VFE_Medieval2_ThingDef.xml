@@ -1,0 +1,496 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEM2_Mead.label>hidromel</VFEM2_Mead.label>
+  <VFEM2_Mead.description>Uma bebida semelhante ao vinho, feita de mel fermentado e água, envelhecida em um barril simples. Esta bebida doce e refrescante é conhecida por ser apreciada lentamente e tem a reputação de ser particularmente reconfortante. Consumir hidromel reduz a sensibilidade psíquica.</VFEM2_Mead.description>
+  <VFEM2_Mead.ingestible.ingestCommandString>Beber {0}</VFEM2_Mead.ingestible.ingestCommandString>
+  <VFEM2_Mead.ingestible.ingestReportString>Bebendo {0}.</VFEM2_Mead.ingestible.ingestReportString>
+
+  <VFEM2_Wine.label>vinho</VFEM2_Wine.label>
+  <VFEM2_Wine.description>Uma garrafa grande de uma bebida alcoólica forte feita de uvas fermentadas. O consumo excessivo pode levar a apagões alcoólicos e, com o tempo, ao vício. Consumir vinho aumenta a sensibilidade psíquica.</VFEM2_Wine.description>
+  <VFEM2_Wine.ingestible.ingestCommandString>Beber {0}</VFEM2_Wine.ingestible.ingestCommandString>
+  <VFEM2_Wine.ingestible.ingestReportString>Bebendo {0}.</VFEM2_Wine.ingestible.ingestReportString>
+
+  <VFEM2_Apparel_Cap.label>quepe</VFEM2_Apparel_Cap.label>
+  <VFEM2_Apparel_Cap.description>Um quepe elegante e adornado com penas, usado por arqueiros habilidosos e caçadores florestais. Seu design leve mantém a visão clara e o foco aguçado, facilitando acertos precisos.</VFEM2_Apparel_Cap.description>
+  
+  <VFEM2_Apparel_Chaperon.label>chaperon</VFEM2_Apparel_Chaperon.label>
+  <VFEM2_Apparel_Chaperon.description>Um capuz estiloso e versátil com uma cauda enrolada, favorecido por diplomatas e mercadores. Confere um ar de autoridade, melhorando sutilmente as habilidades de negociação.</VFEM2_Apparel_Chaperon.description>
+  
+  <VFEM2_Apparel_DameHat.label>chapéu de dama</VFEM2_Apparel_DameHat.label>
+  <VFEM2_Apparel_DameHat.description>Um belo chapéu de cone longo para uma dama.</VFEM2_Apparel_DameHat.description>
+  
+  <VFEM2_Apparel_HeavyLeatherHelmet.label>elmo de couro pesado</VFEM2_Apparel_HeavyLeatherHelmet.label>
+  <VFEM2_Apparel_HeavyLeatherHelmet.description>Um elmo medieval resistente que fornece cobertura total para a cabeça. Embora ofereça uma proteção fantástica, a visão de quem o usa é muito obscurecida, por isso é recomendado apenas para a infantaria de linha de frente, especialmente aqueles que não usam escudos.</VFEM2_Apparel_HeavyLeatherHelmet.description>
+  
+  <VFEM2_Apparel_JesterHat.label>chapéu de bobo da corte</VFEM2_Apparel_JesterHat.label>
+  <VFEM2_Apparel_JesterHat.description>Um chapéu digno de um bobo da corte. Cada metade possui uma cor diferente da outra.</VFEM2_Apparel_JesterHat.description>
+  
+  <VFEM2_Apparel_KingsCrown.label>coroa do rei</VFEM2_Apparel_KingsCrown.label>
+  <VFEM2_Apparel_KingsCrown.description>Uma bela coroa de metal. O portador torna-se muito influente, mas, ao mesmo tempo, se recusará a realizar qualquer trabalho.</VFEM2_Apparel_KingsCrown.description>
+  
+  <VFEM2_Apparel_LeatherHelmet.label>elmo de couro</VFEM2_Apparel_LeatherHelmet.label>
+  <VFEM2_Apparel_LeatherHelmet.description>Um elmo de couro simples projetado para não bloquear a comunicação durante o combate. Frequentemente usado pela infantaria de linha de frente equipada com escudos para absorver danos.</VFEM2_Apparel_LeatherHelmet.description>
+  
+  <VFEM2_Apparel_PaddedHelmet.label>elmo acolchoado</VFEM2_Apparel_PaddedHelmet.label>
+  <VFEM2_Apparel_PaddedHelmet.description>Um elmo simples acolchoado projetado para não bloquear a comunicação durante o combate. Frequentemente usado pela infantaria de linha de frente equipada com escudos para absorver danos.</VFEM2_Apparel_PaddedHelmet.description>
+  
+  <VFEM2_Apparel_PlagueMask.label>máscara de peste</VFEM2_Apparel_PlagueMask.label>
+  <VFEM2_Apparel_PlagueMask.description>Uma máscara com um "bico" longo preenchido com medicina herbal que mantém colonos infectados a distância.</VFEM2_Apparel_PlagueMask.description>
+  
+  <VFEM2_Apparel_PlateHelmetHeavy.label>elmo de placas pesado</VFEM2_Apparel_PlateHelmetHeavy.label>
+  <VFEM2_Apparel_PlateHelmetHeavy.description>Um elmo medieval volumoso que fornece cobertura total para a cabeça. Oferece uma quantidade considerável de proteção, mas restringe o campo de visão do usuário.</VFEM2_Apparel_PlateHelmetHeavy.description>
+
+  <VFEM2_Apparel_TorchBelt.label>cinto de tochas</VFEM2_Apparel_TorchBelt.label>
+  <VFEM2_Apparel_TorchBelt.description>Um cinto com várias tochas de madeira presas a ele. Elas podem ser acesas e lançadas para incendiar as coisas. Pode ser reabastecido com madeira.</VFEM2_Apparel_TorchBelt.description>
+  <VFEM2_Apparel_TorchBelt.comps.CompApparelReloadable.chargeNoun>tocha</VFEM2_Apparel_TorchBelt.comps.CompApparelReloadable.chargeNoun>
+  <VFEM2_Apparel_TorchBelt.comps.CompApparelReloadable.cooldownGerund>em recarga</VFEM2_Apparel_TorchBelt.comps.CompApparelReloadable.cooldownGerund>
+  <VFEM2_Apparel_TorchBelt.verbs.throw_torch.label>lançar tocha</VFEM2_Apparel_TorchBelt.verbs.throw_torch.label>
+  
+  <VFEM2_Proj_GrenadeTorch.label>tocha lançada</VFEM2_Proj_GrenadeTorch.label>
+
+  <VFEM2_Apparel_DameDress.label>vestido de dama</VFEM2_Apparel_DameDress.label>
+  <VFEM2_Apparel_DameDress.description>Um belo vestido de corpo inteiro para uma dama. Vestir tais roupas levará inevitavelmente a se acostumar com o luxo, de modo que o usuário não será capaz de realizar trabalho braçal.</VFEM2_Apparel_DameDress.description>
+  
+  <VFEM2_Apparel_HeavyLeatherArmor.label>armadura de couro pesada</VFEM2_Apparel_HeavyLeatherArmor.label>
+  <VFEM2_Apparel_HeavyLeatherArmor.description>Um peitoral de couro pesado destinado a fornecer calor e proteção à infantaria pesada durante batalhas em tundras gélidas. Infelizmente, esta armadura deixa o usuário mais lento e mais vulnerável a ataques corpo a corpo.</VFEM2_Apparel_HeavyLeatherArmor.description>
+  
+  <VFEM2_Apparel_JesterOutfit.label>traje de bobo da corte</VFEM2_Apparel_JesterOutfit.label>
+  <VFEM2_Apparel_JesterOutfit.description>Um traje colorido de bobo da corte. Ele predispõe à conversa, mas é impossível aprender qualquer coisa com tal roupa.</VFEM2_Apparel_JesterOutfit.description>
+  
+  <VFEM2_Apparel_KingsRobes.label>trajes do rei</VFEM2_Apparel_KingsRobes.label>
+  <VFEM2_Apparel_KingsRobes.description>Um robe longo com peitoral dourado, digno de um rei. Extremamente belo.</VFEM2_Apparel_KingsRobes.description>
+  
+  <VFEM2_Apparel_LeatherArmor.label>armadura de couro</VFEM2_Apparel_LeatherArmor.label>
+  <VFEM2_Apparel_LeatherArmor.description>Esta armadura é feita de forma muito mais cuidadosa e justa com couros processados, sacrificando algum isolamento em favor de proteção extra contra danos. Destinada a ser usada por tropas de linha de frente e frequentemente acompanhada por um escudo.</VFEM2_Apparel_LeatherArmor.description>
+  
+  <VFEM2_Apparel_Mantle.label>manto</VFEM2_Apparel_Mantle.label>
+  <VFEM2_Apparel_Mantle.description>Uma capa leve que cobre os ombros e o pescoço, proporcionando alguma proteção contra os elementos.</VFEM2_Apparel_Mantle.description>
+  
+  <VFEM2_Apparel_PaddedArmor.label>armadura acolchoada</VFEM2_Apparel_PaddedArmor.label>
+  <VFEM2_Apparel_PaddedArmor.description>Uma vestimenta grossa e acolchoada projetada para absorver impactos e fornecer proteção moderada. Frequentemente usada por soldados de infantaria ou vestida sob armaduras mais pesadas.</VFEM2_Apparel_PaddedArmor.description>
+  
+  <VFEM2_Apparel_PlateArmorHeavy.label>armadura de placas pesada</VFEM2_Apparel_PlateArmorHeavy.label>
+  <VFEM2_Apparel_PlateArmorHeavy.description>Placas sólidas sobrepostas de armadura cobrindo todo o corpo do pescoço aos pés. As placas foram reforçadas, o que oferece significativamente mais proteção, mas ao custo da mobilidade.</VFEM2_Apparel_PlateArmorHeavy.description>
+  
+  <VFEM2_Apparel_Tabard.label>tabardo</VFEM2_Apparel_Tabard.label>
+  <VFEM2_Apparel_Tabard.description>Uma sobreveste de tecido sem mangas usada sobre armaduras ou roupas, projetada para exibir a heráldica do usuário. Embora não forneça proteção, exibe com orgulho as cores e o símbolo de sua lealdade.</VFEM2_Apparel_Tabard.description>
+
+  <VFEM2_Apiary.label>apiário</VFEM2_Apiary.label>
+  <VFEM2_Apiary.description>Uma estrutura de madeira em forma de caixa com uma série de prateleiras, treliças e câmaras. Quando colocado perto de flores, o apiário atrairá naturalmente abelhas selvagens que farão dele seu novo lar. Com o tempo, estas abelhas produzirão mel que pode ser colhido e comido diretamente, ou mais tarde fermentado em hidromel.</VFEM2_Apiary.description>
+
+  <VFEM2_2x1CastleDoor.label>porta de castelo (média)</VFEM2_2x1CastleDoor.label>
+  <VFEM2_2x1CastleDoor.description>Uma porta incrivelmente resistente feita de blocos de pedra gigantes. Muito lenta para construir. É uma boa escolha se você quiser manter os inimigos fora — ou dentro. A porta requer paredes em ambos os lados para funcionar.</VFEM2_2x1CastleDoor.description>
+  
+  <VFEM2_2x1CastleGate.label>portão de castelo (médio)</VFEM2_2x1CastleGate.label>
+  <VFEM2_2x1CastleGate.description>Uma porta incrivelmente resistente feita de blocos de pedra gigantes, com uma grade treliçada protegendo a passagem. Muito lento para construir. É uma boa escolha se você quiser manter os inimigos fora — ou dentro. A porta requer paredes em ambos os lados para funcionar. Portões de castelo levam muito tempo para abrir.</VFEM2_2x1CastleGate.description>
+  
+  <VFEM2_3x1CastleDoor.label>porta de castelo (grande)</VFEM2_3x1CastleDoor.label>
+  <VFEM2_3x1CastleDoor.description>Uma porta incrivelmente resistente feita de blocos de pedra gigantes. Muito lenta para construir. É uma boa escolha se você quiser manter os inimigos fora — ou dentro. A porta requer paredes em ambos os lados para funcionar.</VFEM2_3x1CastleDoor.description>
+  
+  <VFEM2_3x1CastleGate.label>portão de castelo (grande)</VFEM2_3x1CastleGate.label>
+  <VFEM2_3x1CastleGate.description>Uma porta incrivelmente resistente feita de blocos de pedra gigantes, com uma grade treliçada protegendo a passagem. Muito lento para construir. É uma boa escolha se você quiser manter os inimigos fora — ou dentro. A porta requer paredes em ambos os lados para funcionar. Portões de castelo levam muito tempo para abrir.</VFEM2_3x1CastleGate.description>
+  
+  <VFEM2_4x1CastleDoor.label>porta de castelo (enorme)</VFEM2_4x1CastleDoor.label>
+  <VFEM2_4x1CastleDoor.description>Uma porta incrivelmente resistente feita de blocos de pedra gigantes. Muito lenta para construir. É uma boa escolha se você quiser manter os inimigos fora — ou dentro. A porta requer paredes em ambos os lados para funcionar.</VFEM2_4x1CastleDoor.description>
+  
+  <VFEM2_4x1CastleGate.label>portão de castelo (enorme)</VFEM2_4x1CastleGate.label>
+  <VFEM2_4x1CastleGate.description>Uma porta incrivelmente resistente feita de blocos de pedra gigantes, com uma grade treliçada protegendo a passagem. Muito lento para construir. É uma boa escolha se você quiser manter os inimigos fora — ou dentro. A porta requer paredes em ambos os lados para funcionar. Portões de castelo levam muito tempo para abrir.</VFEM2_4x1CastleGate.description>
+
+  <VFEM2_HearthDarklight.label>lareira de luz sombria</VFEM2_HearthDarklight.label>
+  <VFEM2_HearthDarklight.description>Uma fogueira grande e densa capaz de conter grandes quantidades de madeira de uma só vez. Fornece calor e luz consideráveis para salas de trono e salões, e serve como um ponto de encontro para colonos ociosos.</VFEM2_HearthDarklight.description>
+
+  <VFEM2_AutofillShelf.label>estante</VFEM2_AutofillShelf.label>
+  <VFEM2_AutofillShelf.description>Uma estante de pilha tripla que comporta três vezes mais do que o chão vazio. Itens armazenados dentro dela nunca se deteriorarão e não afetam a beleza do ambiente.\n\nComo o espaço na estante é limitado, as estantes não podem conter pedaços, construções, plantas e cadáveres grandes.</VFEM2_AutofillShelf.description>
+  
+  <VFEM2_DoubleFurBed.label>cama de pele de casal</VFEM2_DoubleFurBed.label>
+  <VFEM2_DoubleFurBed.description>Uma cama para duas pessoas, com estrutura de madeira, estofada com gramas secas e coberta por uma variedade de couros e peles para fornecer isolamento extra durante noites gélidas. O calor desta cama combate a hipotermia.</VFEM2_DoubleFurBed.description>
+  
+  <VFEM2_FurBed.label>cama de pele</VFEM2_FurBed.label>
+  <VFEM2_FurBed.description>Uma cama com estrutura de madeira, estofada com gramas secas e coberta por uma variedade de couros e peles para fornecer isolamento extra durante noites gélidas. O calor desta cama combate a hipotermia.</VFEM2_FurBed.description>
+  
+  <VFEM2_Hearth.label>lareira</VFEM2_Hearth.label>
+  <VFEM2_Hearth.description>Uma fogueira grande e densa capaz de conter grandes quantidades de madeira de uma só vez. Fornece calor e luz consideráveis para salas de trono e salões, e serve como um ponto de encontro para colonos ociosos.</VFEM2_Hearth.description>
+  
+  <VFEM2_StandingBanner.label>estandarte heráldico vertical</VFEM2_StandingBanner.label>
+  <VFEM2_StandingBanner.description>Um estandarte de tecido alto montado em uma estrutura de madeira resistente, exibindo com orgulho a heráldica da facção.</VFEM2_StandingBanner.description>
+
+  <VFEM2_ArcheryTarget.label>alvo de arquearia</VFEM2_ArcheryTarget.label>
+  <VFEM2_ArcheryTarget.description>Um alvo de arquearia simples montado em um suporte de madeira. É relaxante e permite testar a precisão e treinar ao longo do tempo sem arriscar um confronto fatal.</VFEM2_ArcheryTarget.description>
+  
+  <VFEM2_TrainingDummy.label>boneco de treinamento</VFEM2_TrainingDummy.label>
+  <VFEM2_TrainingDummy.description>Um boneco de alvo feito de madeira, terra e matéria vegetal seca. Surpreendentemente durável, permite testar a esgrima e treinar ao longo do tempo sem arriscar um confronto fatal.</VFEM2_TrainingDummy.description>
+
+  <VFEM2_LeatherBoilpot.label>caldeirão de couro</VFEM2_LeatherBoilpot.label>
+  <VFEM2_LeatherBoilpot.description>Um pote de metal movido a lenha usado para ferver couro de retalhos. Consome madeira quando está em funcionamento.</VFEM2_LeatherBoilpot.description>
+
+  <VFEM2_AilmentsShelf.label>estante de enfermidades</VFEM2_AilmentsShelf.label>
+  <VFEM2_AilmentsShelf.description>Um pequeno armário de madeira que pode ser abastecido com remédios herbais, tinturas e ferramentas medicinais básicas. Itens armazenados dentro dele nunca se deteriorarão e não afetam a beleza do ambiente.</VFEM2_AilmentsShelf.description>
+  
+  <VFEM2_ArtToolStand.label>suporte de ferramentas de arte</VFEM2_ArtToolStand.label>
+  <VFEM2_ArtToolStand.description>Um suporte com cinzeis, martelos e outras ferramentas de escultura. Aumenta a velocidade de trabalho quando colocado perto de uma bancada de arte. Uma bancada de trabalho só pode usar um suporte de ferramentas.</VFEM2_ArtToolStand.description>
+  
+  <VFEM2_CarvingBoard.label>tábua de corte</VFEM2_CarvingBoard.label>
+  <VFEM2_CarvingBoard.description>Uma tábua de madeira grossa e bem gasta que permite cortes de precisão. Aumenta a velocidade de trabalho quando colocada perto de uma mesa de açougueiro. As lâminas afiadas permitem que o açougueiro extraia 10% a mais de carne e couro de qualquer criatura abatida. Uma bancada de trabalho só pode usar uma tábua de corte.</VFEM2_CarvingBoard.description>
+  
+  <VFEM2_ChiselRack.label>suporte de cinzeis</VFEM2_ChiselRack.label>
+  <VFEM2_ChiselRack.description>Um pequeno suporte cheio de vários cinzeis. Aumenta a velocidade de trabalho quando colocado perto de uma mesa de cortador de pedras. Uma bancada de trabalho só pode usar um suporte de cinzeis.</VFEM2_ChiselRack.description>
+  
+  <VFEM2_CleaverRack.label>suporte de cutelos</VFEM2_CleaverRack.label>
+  <VFEM2_CleaverRack.description>Um suporte resistente segurando cutelos e facas afiadas. Aumenta a velocidade de trabalho quando colocado perto de uma mesa de açougueiro. Uma bancada de trabalho só pode usar um suporte de cutelos.</VFEM2_CleaverRack.description>
+  
+  <VFEM2_ForgeBellows.label>fole de forja</VFEM2_ForgeBellows.label>
+  <VFEM2_ForgeBellows.description>Um fole operado manualmente que aumenta o fluxo de ar para a ferraria. Aumenta a velocidade de trabalho quando colocado perto de uma ferraria. Os foles reduzem o consumo de combustível da bancada vinculada em 20%. Uma bancada de trabalho só pode usar um fole.</VFEM2_ForgeBellows.description>
+  
+  <VFEM2_MannequinStand.label>manequim</VFEM2_MannequinStand.label>
+  <VFEM2_MannequinStand.description>Um manequim básico usado para medir e moldar vestimentas para resultados mais refinados. Aumenta a velocidade de trabalho quando colocado perto de uma bancada de alfaiataria. O manequim permite medições mais precisas, reduzindo o custo de fabricação de roupas em 10%. Uma bancada de trabalho só pode usar um manequim.</VFEM2_MannequinStand.description>
+  
+  <VFEM2_NotesStack.label>pilha de notas</VFEM2_NotesStack.label>
+  <VFEM2_NotesStack.description>Uma pequena mesa abastecida com inúmeras notas e pedaços de papel. Aumenta a velocidade de trabalho quando colocada perto de uma bancada de pesquisa. Uma bancada de trabalho só pode usar uma pilha de notas.</VFEM2_NotesStack.description>
+  
+  <VFEM2_ResearchBoard.label>quadro de pesquisa</VFEM2_ResearchBoard.label>
+  <VFEM2_ResearchBoard.description>Uma lousa ou quadro-negro para esboçar diagramas e compartilhar ideias. Aumenta a velocidade de trabalho quando colocado perto de uma bancada de pesquisa. Até duas bancadas de pesquisa podem ser vinculadas a um quadro.</VFEM2_ResearchBoard.description>
+  
+  <VFEM2_SmithingAnvil.label>bigorna de ferraria</VFEM2_SmithingAnvil.label>
+  <VFEM2_SmithingAnvil.description>Uma bigorna de aço pesada usada para moldar metais com maior precisão. Aumenta a velocidade de trabalho quando colocada perto de uma ferraria. Itens de qualidade horrível e pobre fabricados na bancada vinculada têm a chance de serem melhorados em um nível de qualidade. Uma bancada de trabalho só pode usar uma bigorna.</VFEM2_SmithingAnvil.description>
+  
+  <VFEM2_StoneClamp.label>grampo de pedra</VFEM2_StoneClamp.label>
+  <VFEM2_StoneClamp.description>Um grampo simples para manter pedras grandes no lugar. Aumenta a velocidade de trabalho quando colocado perto de uma mesa de cortador de pedras. O grampo permite maior produtividade, aumentando o rendimento de recursos de todas as receitas em 10%. Uma bancada de trabalho só pode usar um grampo de pedra.</VFEM2_StoneClamp.description>
+  
+  <VFEM2_StonePolisher.label>polidor de pedra</VFEM2_StonePolisher.label>
+  <VFEM2_StonePolisher.description>Uma roda de polimento que garante que as esculturas tenham um acabamento liso e refinado. Aumenta a velocidade de trabalho quando colocado perto de uma bancada de arte. Esculturas de pedra de qualidade horrível e pobre fabricadas na bancada de arte vinculada têm uma alta chance de serem melhoradas em um nível de qualidade. Uma bancada de trabalho só pode usar um polidor de pedra.</VFEM2_StonePolisher.description>
+  
+  <VFEM2_SurgicalTools.label>ferramentas cirúrgicas</VFEM2_SurgicalTools.label>
+  <VFEM2_SurgicalTools.description>Um pequeno suporte contendo escalpelos, grampos e serras de osso. Aumenta a velocidade de trabalho quando colocado perto de uma cama de qualquer tipo, incluindo locais de dormir e camas hospitalares. Uma cama só pode usar um conjunto de ferramentas cirúrgicas.</VFEM2_SurgicalTools.description>
+  
+  <VFEM2_TailoringLoom.label>tear de alfaiataria</VFEM2_TailoringLoom.label>
+  <VFEM2_TailoringLoom.description>Um pequeno tear para tecer fios. Aumenta a velocidade de trabalho quando colocado perto de uma bancada de alfaiataria. Uma bancada de trabalho só pode usar um tear de alfaiataria.</VFEM2_TailoringLoom.description>
+
+  <VFEM2_MeadFermentingBarrel.label>barril de fermentação de hidromel</VFEM2_MeadFermentingBarrel.label>
+  <VFEM2_MeadFermentingBarrel.description>Um barril muito simples, mantido unido por uma série de juntas de encaixe e espiga. Pode transformar mel em hidromel.</VFEM2_MeadFermentingBarrel.description>
+  
+  <VFEM2_AlchemicalWorkbench.label>laboratório de poções a lenha</VFEM2_AlchemicalWorkbench.label>
+  <VFEM2_AlchemicalWorkbench.description>Uma estação movida a lenha para preparar várias poções alquímicas.</VFEM2_AlchemicalWorkbench.description>
+  
+  <VFEM2_AlchemicalWorkbench_Electric.label>laboratório de poções elétrico</VFEM2_AlchemicalWorkbench_Electric.label>
+  <VFEM2_AlchemicalWorkbench_Electric.description>Uma estação movida a eletricidade para preparar várias poções alquímicas.</VFEM2_AlchemicalWorkbench_Electric.description>
+
+  <VFEM2_Bolt_ArbalestTurret.label>dardo de arbalesta</VFEM2_Bolt_ArbalestTurret.label>
+  
+  <VFEM2_Gun_ArbalestTurret.label>arbalesta</VFEM2_Gun_ArbalestTurret.label>
+  <VFEM2_Gun_ArbalestTurret.description>Uma arbalesta pesada estacionária montada em uma muralha baixa de castelo para fornecer cobertura. Embora a velocidade de recarga deixe a desejar, a arbalesta tem um alcance extremamente longo, desde que haja linha de visão para o alvo.</VFEM2_Gun_ArbalestTurret.description>
+  <VFEM2_Gun_ArbalestTurret.verbs.Verb_Shoot.label>arbalesta</VFEM2_Gun_ArbalestTurret.verbs.Verb_Shoot.label>
+  
+  <VFEM2_Gun_ArquebusTurret.label>arcabuz</VFEM2_Gun_ArquebusTurret.label>
+  <VFEM2_Gun_ArquebusTurret.description>Um arcabuz estacionário montado em uma muralha baixa de castelo para fornecer cobertura. Devido à estabilidade adicional, o arcabuz montado em muralha pode atirar muito mais longe do que o normal. As balas de chumbo perdem velocidade e dano com a distância, e são extremamente ineficazes contra armaduras. Devido à reação do pó químico ao disparar o arcabuz, plumas de fumaça obscurecente são ejetadas do cano.</VFEM2_Gun_ArquebusTurret.description>
+  <VFEM2_Gun_ArquebusTurret.verbs.Verb_ShootWithSmoke.label>arcabuz</VFEM2_Gun_ArquebusTurret.verbs.Verb_ShootWithSmoke.label>
+  
+  <VFEM2_Turret_WallMountedArbalest.label>arbalesta de muralha</VFEM2_Turret_WallMountedArbalest.label>
+  <VFEM2_Turret_WallMountedArbalest.description>Uma arbalesta pesada estacionária montada em uma muralha baixa de castelo para fornecer cobertura. Embora a velocidade de recarga deixe a desejar, a arbalesta tem um alcance extremamente longo, desde que haja linha de visão para o alvo.</VFEM2_Turret_WallMountedArbalest.description>
+  <VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.fuelGizmoLabel>Viriatos de arbalesta</VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.fuelGizmoLabel>
+  <VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.fuelLabel>Viriatos de arbalesta carregados</VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.fuelLabel>
+  <VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.outOfFuelMessage>Não pode atirar: Precisa de recarga</VFEM2_Turret_WallMountedArbalest.comps.CompRefuelable.outOfFuelMessage>
+  
+  <VFEM2_Turret_WallMountedArquebus.label>arcabuz de muralha</VFEM2_Turret_WallMountedArquebus.label>
+  <VFEM2_Turret_WallMountedArquebus.description>Um arcabuz estacionário montado em uma muralha baixa de castelo para fornecer cobertura. Devido à estabilidade adicional, o arcabuz montado em muralha pode atirar muito mais longe do que o normal. As balas de chumbo perdem velocidade e dano com a distância, e são extremamente ineficazes contra armaduras. Devido à reação do pó químico ao disparar o arcabuz, plumas de fumaça obscurecente são ejetadas do cano.</VFEM2_Turret_WallMountedArquebus.description>
+  <VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.fuelGizmoLabel>
+  <VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.fuelLabel>Tiros até a troca do cano</VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.fuelLabel>
+  <VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.outOfFuelMessage>Precisa de um novo cano</VFEM2_Turret_WallMountedArquebus.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFEM2_CastleWall.label>muralha de castelo</VFEM2_CastleWall.label>
+  <VFEM2_CastleWall.description>Uma parede intransponível incrivelmente resistente feita de blocos de pedra gigantes. Muito lenta para construir. Capaz de sustentar um telhado. Se a muralha do castelo sofrer dano suficiente, ela se torna uma cobertura transponível na altura do peito que, quando reparada, torna-se uma parede intransponível novamente.</VFEM2_CastleWall.description>
+  
+  <VFEM2_ClothWall.label>parede de tecido</VFEM2_ClothWall.label>
+  <VFEM2_ClothWall.description>Uma parede intransponível feita de tiras grossas de tecido ou couro sobrepostas e costuradas. Rápida de construir, mas extremamente inflamável. Quando desconstruída, retorna todo o tecido usado.</VFEM2_ClothWall.description>
+  
+  <VFEM2_DamagedCastleWall.label>muralha de castelo danificada</VFEM2_DamagedCastleWall.label>
+  <VFEM2_DamagedCastleWall.description>Uma parede intransponível incrivelmente resistente feita de blocos de pedra gigantes. Muito lenta para construir. Capaz de sustentar um telhado. Se a muralha do castelo sofrer dano suficiente, ela se torna uma cobertura transponível na altura do peito que, quando reparada, torna-se uma parede intransponível novamente.</VFEM2_DamagedCastleWall.description>
+  
+  <VFEM2_DamagedLowCastleWall.label>muralha de castelo baixa danificada</VFEM2_DamagedLowCastleWall.label>
+  <VFEM2_DamagedLowCastleWall.description>Uma parede incrivelmente resistente na altura do peito feita de blocos de pedra gigantes. Muito lenta para construir. Incapaz de sustentar um telhado. Se a muralha baixa sofrer dano suficiente, ela se torna uma cobertura muito baixa, mas utilizável, que quando reparada, torna-se a parede na altura do peito novamente.</VFEM2_DamagedLowCastleWall.description>
+  
+  <VFEM2_LowCastleWall.label>muralha de castelo baixa</VFEM2_LowCastleWall.label>
+  <VFEM2_LowCastleWall.description>Uma parede incrivelmente resistente na altura do peito feita de blocos de pedra gigantes. Muito lenta para construir. Incapaz de sustentar um telhado. Se a muralha baixa sofrer dano suficiente, ela se torna uma cobertura muito baixa, mas utilizável, que quando reparada, torna-se a parede na altura do peito novamente.</VFEM2_LowCastleWall.description>
+  
+  <VFEM2_Palisade.label>paliçada</VFEM2_Palisade.label>
+  <VFEM2_Palisade.description>Uma cerca intransponível feita de estacas de madeira verticais. Lenta para construir, mas requer poucos recursos. Incapaz de sustentar um telhado.</VFEM2_Palisade.description>
+  
+  <VFEM2_TimberedWall.label>parede de enxaimel</VFEM2_TimberedWall.label>
+  <VFEM2_TimberedWall.description>Uma parede intransponível feita de blocos de pedra e madeiras pesadas e cuidadosamente ajustadas formando uma estrutura em caixa. Lenta para construir, mas muito mais resistente a danos. Inflamável, mas menos do que paredes de madeira comuns. Capaz de sustentar um telhado.</VFEM2_TimberedWall.description>
+
+  <VFEM2_WineBarrel.label>barril de vinho</VFEM2_WineBarrel.label>
+  <VFEM2_WineBarrel.description>Um barril para fermentar mosto cru em vinho.</VFEM2_WineBarrel.description>
+
+  <VFEM2_HeraldicRugBroad.label>tapete heráldico (largo)</VFEM2_HeraldicRugBroad.label>
+  <VFEM2_HeraldicRugBroad.description>Um tapete decorativo grande com um design heráldico marcante, perfeito para exibir lealdade ou orgulho familiar em qualquer ambiente.</VFEM2_HeraldicRugBroad.description>
+  
+  <VFEM2_HeraldicRugGrand.label>tapete heráldico (enorme)</VFEM2_HeraldicRugGrand.label>
+  <VFEM2_HeraldicRugGrand.description>Um tapete decorativo massivo com um design heráldico marcante, perfeito para exibir lealdade ou orgulho familiar em qualquer ambiente.</VFEM2_HeraldicRugGrand.description>
+  
+  <VFEM2_HeraldicRugNarrow.label>tapete heráldico (estreito)</VFEM2_HeraldicRugNarrow.label>
+  <VFEM2_HeraldicRugNarrow.description>Um tapete decorativo estreito com um design heráldico marcante, perfeito para exibir lealdade ou orgulho familiar em qualquer ambiente.</VFEM2_HeraldicRugNarrow.description>
+
+  <VFEM2_Viking_Slab_Broad.label>laje viking (larga)</VFEM2_Viking_Slab_Broad.label>
+  <VFEM2_Viking_Slab_Broad.description>Um baixo-relevo em pedra com imagens vikings para decorar o chão.</VFEM2_Viking_Slab_Broad.description>
+  
+  <VFEM2_Viking_Slab_Medium.label>laje viking (média)</VFEM2_Viking_Slab_Medium.label>
+  <VFEM2_Viking_Slab_Medium.description>Um baixo-relevo em pedra com imagens vikings para decorar o chão.</VFEM2_Viking_Slab_Medium.description>
+
+  <VFEM_Mote_CombatCommand.label>partícula</VFEM_Mote_CombatCommand.label>
+  
+  <VFEM_Mote_CombatCommandLinkLine.label>partícula</VFEM_Mote_CombatCommandLinkLine.label>
+
+  <VFEM2_HemogenDraught.label>poção de hemogênio</VFEM2_HemogenDraught.label>
+  <VFEM2_HemogenDraught.description>Um líquido carmesim rico, fabricado a partir de pacotes de hemogênio concentrados. Quando o usuário a bebe, ela aprimora todas as características e habilidades ligadas à sua natureza hemogênica, impulsionando as capacidades físicas e mentais. Além disso, esta poção reabastece o suprimento de hemogênio do usuário ao longo do tempo, mantendo sua vitalidade e melhorando sua função geral.</VFEM2_HemogenDraught.description>
+  <VFEM2_HemogenDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_HemogenDraught.comps.CompUsable.useLabel>
+  <VFEM2_HemogenDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_HemogenDraught.ingestible.ingestCommandString>
+  <VFEM2_HemogenDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_HemogenDraught.ingestible.ingestReportString>
+
+  <VFEM2_ClarityDraught.label>poção de clareza</VFEM2_ClarityDraught.label>
+  <VFEM2_ClarityDraught.description>Um líquido azul-claro que brilha com uma efervescência sutil. Quando o usuário a bebe, ela restaura parte do seu foco psíquico e aumenta sua sensibilidade psíquica, permitindo um processamento mental mais claro e uma percepção aguçada. No entanto, esse aumento na atividade mental eleva significativamente a taxa de fome do usuário, fazendo com que ele precise comer com mais frequência. Além disso, o zumbido mental implacável da poção leva a uma queda perceptível no humor devido ao fluxo avassalador de pensamentos.</VFEM2_ClarityDraught.description>
+  <VFEM2_ClarityDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_ClarityDraught.comps.CompUsable.useLabel>
+  <VFEM2_ClarityDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_ClarityDraught.ingestible.ingestCommandString>
+  <VFEM2_ClarityDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_ClarityDraught.ingestible.ingestReportString>
+
+  <VFEM2_AmnesiaDraught.label>poção de amnésia</VFEM2_AmnesiaDraught.label>
+  <VFEM2_AmnesiaDraught.description>Um líquido branco e cristalino. Quando o usuário a bebe, faz com que ele perca a memória rapidamente. Este efeito faz com que memórias negativas e positivas desapareçam muito mais rápido do que o normal, levando a uma experiência transitória dos eventos da vida. Embora isso possa aliviar o fardo de memórias dolorosas, também diminui a alegria e o aprendizado obtidos em experiências positivas.</VFEM2_AmnesiaDraught.description>
+  <VFEM2_AmnesiaDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_AmnesiaDraught.comps.CompUsable.useLabel>
+  <VFEM2_AmnesiaDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_AmnesiaDraught.ingestible.ingestCommandString>
+  <VFEM2_AmnesiaDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_AmnesiaDraught.ingestible.ingestReportString>
+  
+  <VFEM2_AntitoxDraught.label>poção antitoxina</VFEM2_AntitoxDraught.label>
+  <VFEM2_AntitoxDraught.description>Um líquido azul-pavão claro e vibrante. Quando o usuário a bebe, ela aumenta sua resistência a toxinas, fortalecendo seu corpo contra substâncias nocivas. Além disso, esta poção trabalha ativamente para remover qualquer acúmulo tóxico existente no sistema do usuário, purificando seu corpo e prevenindo os efeitos prejudiciais das toxinas.</VFEM2_AntitoxDraught.description>
+  <VFEM2_AntitoxDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_AntitoxDraught.comps.CompUsable.useLabel>
+  <VFEM2_AntitoxDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_AntitoxDraught.ingestible.ingestCommandString>
+  <VFEM2_AntitoxDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_AntitoxDraught.ingestible.ingestReportString>
+  
+  <VFEM2_ComaDraught.label>poção de coma</VFEM2_ComaDraught.label>
+  <VFEM2_ComaDraught.description>Um líquido índigo profundo. Quando o usuário a bebe, ela induz um coma quimicamente controlado, retardando significativamente seu metabolismo. Este estado permite que o corpo conserve energia e potencialmente auxilie em processos de cura sob condições controladas.</VFEM2_ComaDraught.description>
+  <VFEM2_ComaDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_ComaDraught.comps.CompUsable.useLabel>
+  <VFEM2_ComaDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_ComaDraught.ingestible.ingestCommandString>
+  <VFEM2_ComaDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_ComaDraught.ingestible.ingestReportString>
+  
+  <VFEM2_EfficiencyDraught.label>poção de eficiência</VFEM2_EfficiencyDraught.label>
+  <VFEM2_EfficiencyDraught.description>Um líquido cinza-ardósia que, quando bebido, aumenta a velocidade de trabalho global do usuário e reduz o esgotamento de sua energia, permitindo que trabalhe mais rápido e por mais tempo sem se sentir cansado. No entanto, o intenso aumento na produtividade traz um risco significativo, aumentando a chance de um ataque cardíaco devido ao esforço do corpo. Após os efeitos da poção diminuírem, o usuário experimenta um aumento acentuado na velocidade com que fica sonolento, necessitando de descanso imediato para se recuperar.</VFEM2_EfficiencyDraught.description>
+  <VFEM2_EfficiencyDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_EfficiencyDraught.comps.CompUsable.useLabel>
+  <VFEM2_EfficiencyDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_EfficiencyDraught.ingestible.ingestCommandString>
+  <VFEM2_EfficiencyDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_EfficiencyDraught.ingestible.ingestReportString>
+  
+  <VFEM2_FertilityDraught.label>poção de fertilidade</VFEM2_FertilityDraught.label>
+  <VFEM2_FertilityDraught.description>Um líquido suave de cor rosa-claro. Quando o usuário a bebe, ela aumenta artificialmente sua fertilidade, dando até mesmo àqueles que são estéreis uma chance de conceber. Este ligeiro aumento na fertilidade abre a possibilidade para indivíduos ou casais que lutam contra a infertilidade de se tornarem pais, focando no aprimoramento dos processos reprodutivos naturais.</VFEM2_FertilityDraught.description>
+  <VFEM2_FertilityDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_FertilityDraught.comps.CompUsable.useLabel>
+  <VFEM2_FertilityDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_FertilityDraught.ingestible.ingestCommandString>
+  <VFEM2_FertilityDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_FertilityDraught.ingestible.ingestReportString>
+  
+  <VFEM2_FocusDraught.label>poção de foco</VFEM2_FocusDraught.label>
+  <VFEM2_FocusDraught.description>Um líquido turquesa revigorante que, quando bebido, aumenta significativamente as habilidades de aprendizado do usuário, permitindo que absorvam e retenham mais informações rapidamente. Além disso, a poção aumenta a eficiência ao comer e descansar, permitindo nutrição e recuperação mais rápidas. Também impulsiona o acúmulo de foco psíquico, melhorando a clareza mental e as habilidades psíquicas. No entanto, assim que os efeitos da poção começam a desaparecer, esses aprimoramentos se revertem, levando à diminuição da capacidade de aprendizado, taxas de alimentação e descanso mais lentas e foco psíquico reduzido.</VFEM2_FocusDraught.description>
+  <VFEM2_FocusDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_FocusDraught.comps.CompUsable.useLabel>
+  <VFEM2_FocusDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_FocusDraught.ingestible.ingestCommandString>
+  <VFEM2_FocusDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_FocusDraught.ingestible.ingestReportString>
+  
+  <VFEM2_HealingDraught.label>poção de cura</VFEM2_HealingDraught.label>
+  <VFEM2_HealingDraught.description>Um líquido vermelho vibrante. Quando o usuário a bebe, ela aumenta muito a taxa de cicatrização de ferimentos, acelerando o processo de fechamento de feridas e reparo tecidual. Esta poção funciona impulsionando os mecanismos naturais de cura do corpo, tornando a recuperação de lesões muito mais rápida.</VFEM2_HealingDraught.description>
+  <VFEM2_HealingDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_HealingDraught.comps.CompUsable.useLabel>
+  <VFEM2_HealingDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_HealingDraught.ingestible.ingestCommandString>
+  <VFEM2_HealingDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_HealingDraught.ingestible.ingestReportString>
+  
+  <VFEM2_ImmunizationDraught.label>poção de imunização</VFEM2_ImmunizationDraught.label>
+  <VFEM2_ImmunizationDraught.description>Uma bebida de cor âmbar com minúsculas partículas flutuando que reforça o sistema imunológico de quem a bebe. Embora ajude a combater doenças melhor, o lado negativo é que faz o usuário se sentir muito mais cansado após bebê-la, além de fazer com que o usuário sinta sono muito mais rápido do que o habitual. Os efeitos da poção são mais fortes imediatamente após o consumo e depois desaparecem lentamente ao longo dos dias seguintes.</VFEM2_ImmunizationDraught.description>
+  <VFEM2_ImmunizationDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_ImmunizationDraught.comps.CompUsable.useLabel>
+  <VFEM2_ImmunizationDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_ImmunizationDraught.ingestible.ingestCommandString>
+  <VFEM2_ImmunizationDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_ImmunizationDraught.ingestible.ingestReportString>
+  
+  <VFEM2_InspirationDraught.label>poção de inspiração</VFEM2_InspirationDraught.label>
+  <VFEM2_InspirationDraught.description>Um líquido radiante de cor dourada. Quando o usuário a bebe, ela fornece clareza mental, aguçando seu foco especificamente na aquisição de novos conhecimentos em áreas pelas quais é apaixonado. No entanto, a poção vem ao custo de capacidades de combate diminuídas, já que a atenção do usuário é desviada da proeza física para buscas intelectuais.</VFEM2_InspirationDraught.description>
+  <VFEM2_InspirationDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_InspirationDraught.comps.CompUsable.useLabel>
+  <VFEM2_InspirationDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_InspirationDraught.ingestible.ingestCommandString>
+  <VFEM2_InspirationDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_InspirationDraught.ingestible.ingestReportString>
+  
+  <VFEM2_PainkillerDraught.label>poção analgésica</VFEM2_PainkillerDraught.label>
+  <VFEM2_PainkillerDraught.description>Um líquido azul-claro conhecido como Poção Analgésica. Quando o usuário a bebe, ela reduz efetivamente sua sensação de dor, proporcionando alívio de desconfortos e ferimentos. No entanto, os componentes sedativos da poção também diminuem a produtividade e o foco do usuário, tornando mais difícil se concentrar e completar tarefas com eficiência. Isso a torna adequada para períodos de recuperação, mas menos ideal quando é necessário esforço mental ou físico ativo.</VFEM2_PainkillerDraught.description>
+  <VFEM2_PainkillerDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_PainkillerDraught.comps.CompUsable.useLabel>
+  <VFEM2_PainkillerDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_PainkillerDraught.ingestible.ingestCommandString>
+  <VFEM2_PainkillerDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_PainkillerDraught.ingestible.ingestReportString>
+  
+  <VFEM2_PoisonDraught.label>poção de veneno</VFEM2_PoisonDraught.label>
+  <VFEM2_PoisonDraught.description>Um líquido verde escuro e sinistro. Quando consumida, reduz drasticamente a consciência do usuário, induzindo um coma quimicamente forçado. Este estado não apenas incapacita o indivíduo, mas também inicia uma rápida deterioração de seus órgãos. Os efeitos desta poção são graves e irreversíveis, levando inevitavelmente à morte.</VFEM2_PoisonDraught.description>
+  <VFEM2_PoisonDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_PoisonDraught.comps.CompUsable.useLabel>
+  <VFEM2_PoisonDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_PoisonDraught.ingestible.ingestCommandString>
+  <VFEM2_PoisonDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_PoisonDraught.ingestible.ingestReportString>
+  
+  <VFEM2_StoneskinDraught.label>poção de pele de pedra</VFEM2_StoneskinDraught.label>
+  <VFEM2_StoneskinDraught.description>Um líquido cinza-ardósia profundo. Quando o usuário a bebe, sua pele passa por uma transformação dramática, engrossando e endurecendo para se assemelhar a uma armadura embutida. Toda a epiderme torna-se resistente o suficiente para resistir a queimaduras, enquanto placas externas de queratina articuladas se formam sobre o corpo, incluindo a cabeça e o rosto, fornecendo proteção adicional. Este formidável escudo físico torna extremamente difícil infligir dano físico ao usuário. No entanto, a aparência das placas e da pele endurecida reduz significativamente a atratividade física do usuário, impactando suas interações sociais.</VFEM2_StoneskinDraught.description>
+  <VFEM2_StoneskinDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_StoneskinDraught.comps.CompUsable.useLabel>
+  <VFEM2_StoneskinDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_StoneskinDraught.ingestible.ingestCommandString>
+  <VFEM2_StoneskinDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_StoneskinDraught.ingestible.ingestReportString>
+  
+  <VFEM2_StrengthDraught.label>poção de força</VFEM2_StrengthDraught.label>
+  <VFEM2_StrengthDraught.description>Um líquido vermelho profundo e marcante. Quando o usuário a bebe, ela aumenta significativamente sua força física, dando-lhe o poder de realizar feitos que normalmente não conseguiria. No entanto, a poção também aumenta o limiar de colapso mental do usuário, tornando-o mais propenso ao estresse psicológico. Além disso, o intenso surto de força aumenta a probabilidade de conflitos, levando a uma chance maior de brigas sociais.</VFEM2_StrengthDraught.description>
+  <VFEM2_StrengthDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_StrengthDraught.comps.CompUsable.useLabel>
+  <VFEM2_StrengthDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_StrengthDraught.ingestible.ingestCommandString>
+  <VFEM2_StrengthDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_StrengthDraught.ingestible.ingestReportString>
+  
+  <VFEM2_TorturerDraught.label>poção do torturador</VFEM2_TorturerDraught.label>
+  <VFEM2_TorturerDraught.description>Um líquido roxo escuro e agourento. Quando o usuário a bebe, ela induz uma dor intensa, incapacitando-o a ponto de tornar o movimento impossível. Para prisioneiros, essa agonia intensa causa um declínio rápido em sua vontade de resistir, quebrando quaisquer barreiras mentais que possam ter. No caso de escravos, a poção suprime completamente seu espírito, deixando-os inteiramente submissos. Esta poção é usada com cautela devido aos seus efeitos extremos.</VFEM2_TorturerDraught.description>
+  <VFEM2_TorturerDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_TorturerDraught.comps.CompUsable.useLabel>
+  <VFEM2_TorturerDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_TorturerDraught.ingestible.ingestCommandString>
+  <VFEM2_TorturerDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_TorturerDraught.ingestible.ingestReportString>
+
+  <VFEM2_Sweetroll.label>pão doce</VFEM2_Sweetroll.label>
+  <VFEM2_Sweetroll.description>Uma guloseima assada feita de uma base de pão de ovo regada com uma cobertura espessa e adoçada. Qualquer comerciante que venda estes deve ficar imediatamente preocupado, pois os pães doces têm a mania de serem roubados.</VFEM2_Sweetroll.description>
+
+  <VFEM2_Must.label>mosto de uva</VFEM2_Must.label>
+  <VFEM2_Must.description>Vinho não fermentado. Esta substância precisa fermentar em um barril de vinho antes de se tornar vinho potável.</VFEM2_Must.description>
+
+  <VFEM2_Honey.label>mel cru</VFEM2_Honey.label>
+  <VFEM2_Honey.description>Mel cru e não processado colhido de um apiário. É muito açucarado e saboroso de comer, além de ser extremamente duradouro, sendo perfeito para levar em caravanas, fermentar em hidromel ou usar em sobremesas assadas.</VFEM2_Honey.description>
+
+  <VFEM2_AlocasiaLeaves.label>folhas de alocásia</VFEM2_AlocasiaLeaves.label>
+  <VFEM2_AlocasiaLeaves.description>Folhas extremamente largas de uma planta que é um símbolo comumente reconhecido de florestas tropicais. Folhas de alocásia têm sido usadas por civilizações medievais na criação de diferentes poções.</VFEM2_AlocasiaLeaves.description>
+  
+  <VFEM2_AstragalusFlowers.label>flores de astrágalo</VFEM2_AstragalusFlowers.label>
+  <VFEM2_AstragalusFlowers.description>Pequenas flores silvestres perenes que crescem em climas alpinos. Flores de astrágalo têm sido usadas por civilizações medievais na criação de diferentes poções.</VFEM2_AstragalusFlowers.description>
+  
+  <VFEM2_CliviaPetals.label>pétalas de clívia</VFEM2_CliviaPetals.label>
+  <VFEM2_CliviaPetals.description>Pétalas de uma planta incomum com flores altas e bonitas, chamada por alguns de "lírio-do-mato". Pétalas de clívia têm sido usadas por civilizações medievais na criação de diferentes poções.</VFEM2_CliviaPetals.description>
+  
+  <VFEM2_RafflesiaLeaves.label>pétalas de rafflesia</VFEM2_RafflesiaLeaves.label>
+  <VFEM2_RafflesiaLeaves.description>Pétalas gigantes da flor rafflesia. Têm cheiro de carne podre e são muito propensas a causar intoxicação alimentar quando consumidas cruas. Pétalas de rafflesia têm sido usadas por civilizações medievais na criação de diferentes poções.</VFEM2_RafflesiaLeaves.description>
+  
+  <VFEM2_RawGlowstool.label>cogumelo-brilhante cru</VFEM2_RawGlowstool.label>
+  <VFEM2_RawGlowstool.description>Fungo cogumelo-brilhante cru obtido ao colher os cogumelos que crescem em cavernas. Cogumelos-brilhantes crus têm sido usados por civilizações medievais na criação de diferentes poções.</VFEM2_RawGlowstool.description>
+  
+  <VFEM2_RawGrapes.label>uvas</VFEM2_RawGrapes.label>
+  <VFEM2_RawGrapes.description>Uvas cruas. Saborosas para comer, mesmo quando cruas. Uvas também podem ser transformadas em mosto, que pode então ser usado para fazer vinho.</VFEM2_RawGrapes.description>
+
+  <VFEM2_HardLeather.label>couro endurecido</VFEM2_HardLeather.label>
+  <VFEM2_HardLeather.description>Um têxtil endurecido criado a partir de retalhos de couro através do processo de endurecimento. É significativamente mais duro e forte que o couro de retalhos, mas ainda carece de qualidade em comparação ao couro duro autêntico, como o couro de rinoceronte ou elefante.</VFEM2_HardLeather.description>
+
+  <VFEM2_Hardweave.label>trama reforçada</VFEM2_Hardweave.label>
+  <VFEM2_Hardweave.description>Tecida a partir de folha de fumo, a trama reforçada, às vezes chamada de lona, tem fios alternados por cima e por baixo dos fios adjacentes para criar uma superfície forte e uniforme. Embora não seja tão isolante quanto o tecido comum, é muito mais resistente a danos.</VFEM2_Hardweave.description>
+  
+  <VFEM2_Hayweave.label>trama de feno</VFEM2_Hayweave.label>
+  <VFEM2_Hayweave.description>Feita de feno tecido, a trama de feno é um material grosseiro e áspero, frequentemente usado em tempos de desespero para criar itens rudimentares. Ela fornece isolamento e durabilidade mínimos, sendo um substituto medíocre para o tecido, mas é prontamente disponível e fácil de produzir.</VFEM2_Hayweave.description>
+
+  <VFEM2_UnfinishedApparelNoStuff.label>vestuário inacabado</VFEM2_UnfinishedApparelNoStuff.label>
+  <VFEM2_UnfinishedApparelNoStuff.description>Uma peça de vestuário inacabada.</VFEM2_UnfinishedApparelNoStuff.description>
+
+  <VFEM2_MeleeWeapon_Claymore.label>claymore</VFEM2_MeleeWeapon_Claymore.label>
+  <VFEM2_MeleeWeapon_Claymore.description>Uma arma brutal e antiga de cavaleiros pesados, a claymore pode ser usada para abrir caminho entre os inimigos com facilidade.\n\nEsta arma tem uma chance de desferir um golpe crítico, atordoando o oponente.</VFEM2_MeleeWeapon_Claymore.description>
+  <VFEM2_MeleeWeapon_Claymore.tools.handle.label>cabo</VFEM2_MeleeWeapon_Claymore.tools.handle.label>
+  <VFEM2_MeleeWeapon_Claymore.tools.point.label>ponta</VFEM2_MeleeWeapon_Claymore.tools.point.label>
+  <VFEM2_MeleeWeapon_Claymore.tools.edge.label>gume</VFEM2_MeleeWeapon_Claymore.tools.edge.label>
+  
+  <VFEM2_MeleeWeapon_DaneAxe.label>machado dinamarquês</VFEM2_MeleeWeapon_DaneAxe.label>
+  <VFEM2_MeleeWeapon_DaneAxe.description>Uma arma poderosa no campo de batalha nas mãos certas. Feita para cortar carne e ossos da mesma forma. O gume do machado se estende no que é chamado de chifres, ideal para cortar armaduras leves e carne.\n\nEsta arma tem uma chance de desferir um golpe crítico, atordoando o oponente.</VFEM2_MeleeWeapon_DaneAxe.description>
+  <VFEM2_MeleeWeapon_DaneAxe.tools.handle.label>cabo</VFEM2_MeleeWeapon_DaneAxe.tools.handle.label>
+  <VFEM2_MeleeWeapon_DaneAxe.tools.edge.label>gume</VFEM2_MeleeWeapon_DaneAxe.tools.edge.label>
+  
+  <VFEM2_MeleeWeapon_Flail.label>mangual</VFEM2_MeleeWeapon_Flail.label>
+  <VFEM2_MeleeWeapon_Flail.description>Uma maça refinada, com uma cabeça de espinhos conectada ao cabo por uma corrente, projetada para balanços eficientes e impactos mortais. A aleatoriedade do movimento da corrente significa que o dano pode oscilar muito.</VFEM2_MeleeWeapon_Flail.description>
+  <VFEM2_MeleeWeapon_Flail.tools.handle.label>cabo</VFEM2_MeleeWeapon_Flail.tools.handle.label>
+  <VFEM2_MeleeWeapon_Flail.tools.head.label>cabeça</VFEM2_MeleeWeapon_Flail.tools.head.label>
+  
+  <VFEM2_MeleeWeapon_Halberd.label>alabarda</VFEM2_MeleeWeapon_Halberd.label>
+  <VFEM2_MeleeWeapon_Halberd.description>Uma arma de haste longa e pesada com um gume afiado e uma ponta pontiaguda. O design simples e antigo concentra o poder de corte gerado por fortes golpes verticais. O alcance da alabarda permite atingir inimigos muito mais distantes.</VFEM2_MeleeWeapon_Halberd.description>
+  <VFEM2_MeleeWeapon_Halberd.tools.shaft-0.label>haste</VFEM2_MeleeWeapon_Halberd.tools.shaft-0.label>
+  <VFEM2_MeleeWeapon_Halberd.tools.shaft-1.label>haste</VFEM2_MeleeWeapon_Halberd.tools.shaft-1.label>
+  <VFEM2_MeleeWeapon_Halberd.tools.point.label>ponta</VFEM2_MeleeWeapon_Halberd.tools.point.label>
+  <VFEM2_MeleeWeapon_Halberd.tools.edge.label>gume</VFEM2_MeleeWeapon_Halberd.tools.edge.label>
+  
+  <VFEM2_MeleeWeapon_HeavyMace.label>maça pesada</VFEM2_MeleeWeapon_HeavyMace.label>
+  <VFEM2_MeleeWeapon_HeavyMace.description>Uma maça pesada que consiste em uma haste e uma bola pesada adornada com espinhos. Muito eficaz em perfurar armaduras de placas, esta arma é frequentemente usada por cavaleiros e mercenários mais cruéis.</VFEM2_MeleeWeapon_HeavyMace.description>
+  <VFEM2_MeleeWeapon_HeavyMace.tools.handle.label>cabo</VFEM2_MeleeWeapon_HeavyMace.tools.handle.label>
+  <VFEM2_MeleeWeapon_HeavyMace.tools.head.label>cabeça</VFEM2_MeleeWeapon_HeavyMace.tools.head.label>
+  
+  <VFEM2_MeleeWeapon_Pike.label>pique</VFEM2_MeleeWeapon_Pike.label>
+  <VFEM2_MeleeWeapon_Pike.description>Uma arma de haste longa e pesada com uma ponta afiada para estocar oponentes. O alcance do pique permite atingir inimigos muito mais distantes.</VFEM2_MeleeWeapon_Pike.description>
+  <VFEM2_MeleeWeapon_Pike.tools.shaft-0.label>haste</VFEM2_MeleeWeapon_Pike.tools.shaft-0.label>
+  <VFEM2_MeleeWeapon_Pike.tools.shaft-1.label>haste</VFEM2_MeleeWeapon_Pike.tools.shaft-1.label>
+  <VFEM2_MeleeWeapon_Pike.tools.point.label>ponta</VFEM2_MeleeWeapon_Pike.tools.point.label>
+  
+  <VFEM2_MeleeWeapon_Shortsword.label>espada curta</VFEM2_MeleeWeapon_Shortsword.label>
+  <VFEM2_MeleeWeapon_Shortsword.description>Uma lâmina versátil e compacta projetada tanto para estocadas quanto para cortes. Seu design ágil a torna eficaz em combate corpo a corpo, onde golpes rápidos podem subjugar inimigos mais lentos.</VFEM2_MeleeWeapon_Shortsword.description>
+  <VFEM2_MeleeWeapon_Shortsword.tools.handle.label>cabo</VFEM2_MeleeWeapon_Shortsword.tools.handle.label>
+  <VFEM2_MeleeWeapon_Shortsword.tools.point.label>ponta</VFEM2_MeleeWeapon_Shortsword.tools.point.label>
+  <VFEM2_MeleeWeapon_Shortsword.tools.edge.label>gume</VFEM2_MeleeWeapon_Shortsword.tools.edge.label>
+  
+  <VFEM2_MeleeWeapon_Standard.label>estandarte heráldico</VFEM2_MeleeWeapon_Standard.label>
+  <VFEM2_MeleeWeapon_Standard.description>Uma haste longa de madeira adornada com uma bandeira exibindo a heráldica de seu portador. Embora inspire união e reforce o moral como um ponto de encontro para soldados, o estandarte em si é pouco adequado para o combate, oferecendo pouco em termos de ataque ou defesa.</VFEM2_MeleeWeapon_Standard.description>
+  <VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.disabledReason>Não é possível usar Reunir: Não há inimigos no mapa.</VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.disabledReason>
+  <VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.disabledReasonAlreadyUsing>Já está usando Reunir.</VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.disabledReasonAlreadyUsing>
+  <VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.gizmoDescription>Cria uma aura que reúne todos os próximos, interrompendo seus colapsos mentais e evitando que entrem em colapso novamente. O efeito dura 12 horas e permanece vinculado ao portador do estandarte durante o período.</VFEM2_MeleeWeapon_Standard.comps.CompRallyAbility.gizmoDescription>
+  <VFEM2_MeleeWeapon_Standard.tools.shaft-0.label>haste</VFEM2_MeleeWeapon_Standard.tools.shaft-0.label>
+  <VFEM2_MeleeWeapon_Standard.tools.shaft-1.label>haste</VFEM2_MeleeWeapon_Standard.tools.shaft-1.label>
+
+  <VFEM2_Plant_Grape.label>videira</VFEM2_Plant_Grape.label>
+  <VFEM2_Plant_Grape.description>Uma trepadeira de tamanho médio que produz uvas quando colhida — um ingrediente essencial na produção de vinho que também é saboroso quando comido cru. Leva muito tempo para crescer inicialmente, mas pode ser colhida repetidamente em um único ciclo de vida.</VFEM2_Plant_Grape.description>
+
+  <VFEM2_Arbalest.label>arbalesta</VFEM2_Arbalest.label>
+  <VFEM2_Arbalest.description>Uma besta poderosa. Dispara um dardo pesado a distâncias extremas, mas leva muito tempo para armar devido à necessidade de usar uma manivela.</VFEM2_Arbalest.description>
+  <VFEM2_Arbalest.tools.limb.label>haste</VFEM2_Arbalest.tools.limb.label>
+  <VFEM2_Arbalest.verbs.Verb_Shoot.label>arbalesta</VFEM2_Arbalest.verbs.Verb_Shoot.label>
+  
+  <VFEM2_Arrow_Warbow.label>flecha de arco de guerra</VFEM2_Arrow_Warbow.label>
+  
+  <VFEM2_Bolt_Arbalest.label>virote de arbalesta</VFEM2_Bolt_Arbalest.label>
+  
+  <VFEM2_Bullet_Arquebus.label>metralha de arcabuz</VFEM2_Bullet_Arquebus.label>
+  
+  <VFEM2_Bullet_Flintlock.label>tiro de pederneira</VFEM2_Bullet_Flintlock.label>
+  
+  <VFEM2_Bullet_HandCannon.label>metralha de canhão de mão</VFEM2_Bullet_HandCannon.label>
+  
+  <VFEM2_Bullet_Musket.label>tiro de mosquete</VFEM2_Bullet_Musket.label>
+  
+  <VFEM2_Gun_Arquebus.label>arcabuz</VFEM2_Gun_Arquebus.label>
+  <VFEM2_Gun_Arquebus.description>Uma arma de fogo antiga com cano de alma lisa, o arcabuz desfere tiros poderosos a uma distância razoável. As esferas de chumbo perdem velocidade e dano com a distância e são extremamente ineficazes contra armaduras. Devido à reação do pó químico ao disparar o arcabuz, plumas de fumaça ofuscante são ejetadas do cano.</VFEM2_Gun_Arquebus.description>
+  <VFEM2_Gun_Arquebus.tools.stock.label>coronha</VFEM2_Gun_Arquebus.tools.stock.label>
+  <VFEM2_Gun_Arquebus.tools.barrel.label>cano</VFEM2_Gun_Arquebus.tools.barrel.label>
+  <VFEM2_Gun_Arquebus.verbs.Verb_ShootWithSmoke.label>arcabuz</VFEM2_Gun_Arquebus.verbs.Verb_ShootWithSmoke.label>
+  
+  <VFEM2_Gun_Flintlock.label>pistola de pederneira</VFEM2_Gun_Flintlock.label>
+  <VFEM2_Gun_Flintlock.description>Uma pistola simples e pesada que utiliza um mecanismo de pederneira. Dispara um tiro poderoso a curta e média distância, mas é lenta para recarregar. A esfera de chumbo perde velocidade e dano com a distância e é extremamente ineficaz contra armaduras. Devido à reação do pó químico ao disparar, plumas de fumaça ofuscante são ejetadas do cano.</VFEM2_Gun_Flintlock.description>
+  <VFEM2_Gun_Flintlock.tools.grip.label>empunhadura</VFEM2_Gun_Flintlock.tools.grip.label>
+  <VFEM2_Gun_Flintlock.tools.barrel.label>cano</VFEM2_Gun_Flintlock.tools.barrel.label>
+  <VFEM2_Gun_Flintlock.verbs.Verb_ShootWithSmoke.label>pederneira</VFEM2_Gun_Flintlock.verbs.Verb_ShootWithSmoke.label>
+  
+  <VFEM2_Gun_HandCannon.label>canhão de mão</VFEM2_Gun_HandCannon.label>
+  <VFEM2_Gun_HandCannon.description>Uma arma de fogo antiga, rudimentar mas mortal, o canhão de mão dispara uma metralha devastadora a curta distância. As esferas de chumbo perdem velocidade e dano com a distância e são extremamente ineficazes contra armaduras. Devido à reação do pó químico ao disparar, plumas de fumaça ofuscante são ejetadas do cano.</VFEM2_Gun_HandCannon.description>
+  <VFEM2_Gun_HandCannon.tools.stock.label>coronha</VFEM2_Gun_HandCannon.tools.stock.label>
+  <VFEM2_Gun_HandCannon.tools.barrel.label>cano</VFEM2_Gun_HandCannon.tools.barrel.label>
+  <VFEM2_Gun_HandCannon.verbs.Verb_ShootWithSmoke.label>canhão de mão</VFEM2_Gun_HandCannon.verbs.Verb_ShootWithSmoke.label>
+  
+  <VFEM2_Gun_Musket.label>mosquete</VFEM2_Gun_Musket.label>
+  <VFEM2_Gun_Musket.description>Uma arma de fogo de cano longo e alma lisa, o mosquete é a arma da infantaria de linha. A esfera de chumbo perde velocidade e dano com a distância e é extremamente ineficaz contra armaduras. Devido à reação do pó químico ao disparar o mosquete, plumas de fumaça ofuscante são ejetadas do cano.</VFEM2_Gun_Musket.description>
+  <VFEM2_Gun_Musket.tools.stock.label>coronha</VFEM2_Gun_Musket.tools.stock.label>
+  <VFEM2_Gun_Musket.tools.barrel.label>cano</VFEM2_Gun_Musket.tools.barrel.label>
+  <VFEM2_Gun_Musket.tools.bayonet.label>baioneta</VFEM2_Gun_Musket.tools.bayonet.label>
+  <VFEM2_Gun_Musket.verbs.Verb_ShootWithSmoke.label>mosquete</VFEM2_Gun_Musket.verbs.Verb_ShootWithSmoke.label>
+  
+  <VFEM2_ThrowingAxe.label>machado de arremesso</VFEM2_ThrowingAxe.label>
+  <VFEM2_ThrowingAxe.description>Um machado de uma mão feito para arremesso. Leve o suficiente para ser lançado com precisão a média distância, também é uma excelente arma de combate corpo a corpo nas mãos de um guerreiro capaz.</VFEM2_ThrowingAxe.description>
+  <VFEM2_ThrowingAxe.tools.handle.label>cabo</VFEM2_ThrowingAxe.tools.handle.label>
+  <VFEM2_ThrowingAxe.tools.blade.label>lâmina</VFEM2_ThrowingAxe.tools.blade.label>
+  <VFEM2_ThrowingAxe.verbs.Verb_Shoot.label>machado de arremesso</VFEM2_ThrowingAxe.verbs.Verb_Shoot.label>
+  
+  <VFEM2_Warbow.label>arco de guerra</VFEM2_Warbow.label>
+  <VFEM2_Warbow.description>Uma variante longa e poderosa do arco longo. Embora não seja excelente para atingir inimigos próximos, as flechas disparadas do arco de guerra fazem uma parábola sobre paredes e podem ser disparadas sem exigir linha de visão.</VFEM2_Warbow.description>
+  <VFEM2_Warbow.tools.limb.label>haste</VFEM2_Warbow.tools.limb.label>
+  <VFEM2_Warbow.verbs.Verb_Shoot.label>arco de guerra</VFEM2_Warbow.verbs.Verb_Shoot.label>
+  
+  <VFEM2V_ThrowingAxe_Thrown.label>machado arremessado</VFEM2V_ThrowingAxe_Thrown.label>
+
+  <VFEM2_RunePillar.label>partícula</VFEM2_RunePillar.label>
+
+  <VFEM2_Shield_Heater.label>escudo de aquecedor</VFEM2_Shield_Heater.label>
+  <VFEM2_Shield_Heater.description>Um escudo de aço pesado de tamanho médio. Oferece uma quantidade significativa de proteção contra ataques corpo a corpo e à distância.</VFEM2_Shield_Heater.description>
+  <VFEM2_Shield_Heater.tools.base.label>base</VFEM2_Shield_Heater.tools.base.label>
+  <VFEM2_Shield_Heater.tools.centre.label>centro</VFEM2_Shield_Heater.tools.centre.label>
+  
+  <VFEM2_Shield_Round.label>escudo redondo</VFEM2_Shield_Round.label>
+  <VFEM2_Shield_Round.description>Um escudo de madeira reforçado com uma banda de metal. Uma alça de couro e um cabo de metal também estão presentes na parte de trás para permitir uma manobra fácil com uma mão durante o combate.</VFEM2_Shield_Round.description>
+  <VFEM2_Shield_Round.tools.base.label>base</VFEM2_Shield_Round.tools.base.label>
+  <VFEM2_Shield_Round.tools.centre.label>centro</VFEM2_Shield_Round.tools.centre.label>
+  
+</LanguageData>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VFEM2_OpportunitySite_SiegeCamp.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], informou-nos sobre um acampamento de cerco pertencente a [siteFaction_name], estabelecido perto de sua localização. Eles parecem estar reunindo forças e atacarão sua colônia em [map_definite] em breve.\n\nSe você optar por um ataque preventivo, precisará enfrentar apenas:\n[ListOfEnemies]\n\nSe esperar, eles certamente aumentarão seus números e eventualmente o atacarão com uma força muito maior:\n[ListOfPotentialEnemies]</li>
+    <li>questDescription(askerIsNull==true)->Você descobriu que existe um acampamento de cerco pertencente a [siteFaction_name], estabelecido perto de sua localização. Eles parecem estar reunindo forças e atacarão sua colônia em [map_definite] em breve.\n\nSe você optar por um ataque preventivo, precisará enfrentar apenas:\n[ListOfEnemies]\n\nSe esperar, eles certamente aumentarão seus números e eventualmente o atacarão com uma força muito maior:\n[ListOfPotentialEnemies]</li>
+  </VFEM2_OpportunitySite_SiegeCamp.questDescriptionRules.rulesStrings>
+
+  <VFEM2_OpportunitySite_SiegeCamp.questNameRules.rulesStrings>
+    <li>questName->Acampamento de cerco de [siteFaction_name]</li>
+  </VFEM2_OpportunitySite_SiegeCamp.questNameRules.rulesStrings>
+
+  <VFEM2_OpportunitySite_SiegeCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Missão expirada: [resolvedQuestName]</VFEM2_OpportunitySite_SiegeCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+
+  <VFEM2_OpportunitySite_SiegeCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>O acampamento de cerco não foi derrotado a tempo. A missão [resolvedQuestName] expirou e as forças inimigas estão agora atacando sua colônia.</VFEM2_OpportunitySite_SiegeCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+  <VFEM2_OpportunitySite_SiegeCamp.root.nodes.siteAllEnemiesDefeated-1.node.nodes.Letter.label.slateRef>Acampamento derrotado</VFEM2_OpportunitySite_SiegeCamp.root.nodes.siteAllEnemiesDefeated-1.node.nodes.Letter.label.slateRef>
+
+  <VFEM2_OpportunitySite_SiegeCamp.root.nodes.siteAllEnemiesDefeated-1.node.nodes.Letter.text.slateRef>Você derrotou com sucesso o acampamento de cerco e as forças inimigas!</VFEM2_OpportunitySite_SiegeCamp.root.nodes.siteAllEnemiesDefeated-1.node.nodes.Letter.text.slateRef>
+
+  <VFEM2_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], solicitou nossa ajuda em uma escaramuça contra [siteFaction_name].\n\nUma pequena força de [askerFaction_name] está enfrentando um grupo maior de [siteFaction_pawnsPlural]. Os aliados atacarão imediatamente após a chegada, mas suas chances de vitória sem a nossa ajuda são pequenas.\n\nEsta é uma oportunidade para fortalecer nosso vínculo com [askerFaction_name]. No entanto, a força inimiga é significativa e esta batalha não será isenta de riscos.\n\n\nAs forças aliadas incluem:\n[FriendlyUnitList]\n\n\nInimigos de [siteFaction_name]:\n[EnemyUnitList]</li>
+  </VFEM2_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings>
+
+  <VFEM2_OpportunitySite_Skirmish.questNameRules.rulesStrings>
+    <li>questName->[askerFaction_name] solicita auxílio</li>
+    <li>questName->[skirmish] de [askerFaction_name]</li>
+    <li>questName->Ajuda a [askerFaction_name] em batalha</li>
+    <li>questName->[askerFaction_name] entra em combate com [enemy_faction_name]</li>
+    <li>questName->Luta de [askerFaction_name]</li>
+    <li>questName->Batalha por [askerFaction_name]</li>
+    <li>questName->Chamado às armas de [askerFaction_name]</li>
+    <li>questName->Defender [askerFaction_name]</li>
+    <li>questName->Apoiar [askerFaction_name]</li>
+    <li>questName->Escaramuça de [askerFaction_name]</li>
+    <li>skirmish->Escaramuça</li>
+    <li>skirmish->Batalha</li>
+    <li>skirmish->Combate</li>
+    <li>skirmish->Conflito</li>
+  </VFEM2_OpportunitySite_Skirmish.questNameRules.rulesStrings>
+
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Missão expirada: [resolvedQuestName]</VFEM2_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>A facção aliada foi derrotada na escaramuça. A missão [resolvedQuestName] expirou.</VFEM2_OpportunitySite_Skirmish.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Missão falhou: [resolvedQuestName]</VFEM2_OpportunitySite_Skirmish.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Após deixar o local, a batalha se resolveu sem a sua ajuda. A missão [resolvedQuestName] foi encerrada.</VFEM2_OpportunitySite_Skirmish.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterLabel.slateRef>Pagamento recebido</VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterLabel.slateRef>
+
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterText.slateRef>Você derrotou as forças inimigas!\n\nO pagamento de [asker_faction_name] chegou.</VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterText.slateRef>
+
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>
+
+  <VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>Estes colonos participaram da vitória na missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber os [royalFavorReward_amount] de [asker_faction_royalFavorLabel] por este serviço.</VFEM2_OpportunitySite_Skirmish.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>
+
+</LanguageData>

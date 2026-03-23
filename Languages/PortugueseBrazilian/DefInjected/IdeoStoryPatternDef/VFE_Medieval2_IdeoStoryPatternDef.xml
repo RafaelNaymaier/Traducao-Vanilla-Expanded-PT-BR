@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VFEM2_Structure_Norse_Description.rules.rulesStrings>
+    <li>lesson(priority=-1)->coisas acontecem</li>
+    <li>r_pattern->"[r_asatruLessonIntro] [r_lesson]. [r_lessonReinforcement] [r_asatruLessonReinforcement]"\n\n  - [lessonAttribution]</li>
+    <li>lessonAttribution->fragmento de uma [saga] [edited] encontrado [museum]</li>
+    <li>edited->danificada</li>
+    <li>edited->mal interpretada</li>
+    <li>edited->antiga</li>
+    <li>edited->esquecida</li>
+    <li>edited->preservada</li>
+    <li>saga->Edda</li>
+    <li>saga->inscrição em pedra rúnica</li>
+    <li>saga->verso escáldico</li>
+    <li>saga->saga antiga</li>
+    <li>museum->no arquivo da Estação Yggdrasil</li>
+    <li>museum->em uma colônia estelar distante chamada Himinbjörg</li>
+    <li>museum->no Salão Imperial de Relíquias Antigas</li>
+    <li>museum->nas ruínas de Jotunheim Prime</li>
+    <li>museum->nos cofres dos Guardiões da Memória</li>
+    <li>asatruLessonIntro->Ouça as palavras de Odin, o Pai de Todos, que sussurra do Poço de Urd:</li>
+    <li>asatruLessonIntro->Eis que os versos da Völuspá proclamam a todos que quiserem ouvir:</li>
+    <li>asatruLessonIntro->Prestem atenção ao martelo de Thor enquanto ele golpeia, pois ele ensina:</li>
+    <li>asatruLessonIntro->Escutem, os corvos Huginn e Muninn circulam e gritam sua verdade:</li>
+    <li>asatruLessonIntro->Sob a sombra de Yggdrasil, os deuses se reuniram e declararam:</li>
+    <li>asatruLessonIntro->Pela luz da bênção de Baldr, saiba disto:</li>
+    <li>asatruLessonIntro->Nos fiordes dos Nove Mundos, a sabedoria ecoa, dizendo:</li>
+    <li>asatruLessonIntro->As runas esculpidas profundamente nas pedras de Midgard nos ensinam assim:</li>
+    <li>asatruLessonReinforcement->Que seus feitos ecoem nos salões de Valhalla.</li>
+    <li>asatruLessonReinforcement->As Nornas tecem seu destino com fios de honra.</li>
+    <li>asatruLessonReinforcement->Mantenha-se firme, pois os deuses recompensam a coragem e a determinação.</li>
+    <li>asatruLessonReinforcement->Salve, pois suas ações inspirarão os escaldos em canções.</li>
+    <li>asatruLessonReinforcement->O martelo de Thor abençoa aqueles que defendem a verdade e a força.</li>
+    <li>asatruLessonReinforcement->O Pai de Todos observa aqueles que honram os antigos costumes.</li>
+    <li>asatruLessonReinforcement->Que você encontre a vitória nos laços sagrados de parentesco.</li>
+    <li>lessonReinforcement->E assim o conto viverá.</li>
+  </VFEM2_Structure_Norse_Description.rules.rulesStrings>
+
+</LanguageData>

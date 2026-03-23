@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VFEM2_NamerDeityVikings.rulePack.rulesStrings>
+    <li>name->[syl][end]</li>
+    <li>name->[syl]'[end]</li>
+    <li>syl->[NorseNames]</li>
+    <li>end->ir</li>
+    <li>end->ur</li>
+    <li>end->on</li>
+    <li>end->gard</li>
+    <li>end->mir</li>
+    <li>end->mund</li>
+    <li>end->thari</li>
+  </VFEM2_NamerDeityVikings.rulePack.rulesStrings>
+
+  <ArtDescription_Hearth.rulePack.rulesStrings>
+    <li>physical_description_root->A lareira está gravada com uma [depiction] de [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->A lareira apresenta uma [depiction] de [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->A lareira está entalhada com uma [depiction] de [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Uma gravação nesta lareira [depicts] [image]. [desc_sentence_group]</li>
+  </ArtDescription_Hearth.rulePack.rulesStrings>
+
+  <VFEM2_LeaderTitleMaker_Clan.rulePack.rulesStrings>
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->jarl</li>
+  </VFEM2_LeaderTitleMaker_Clan.rulePack.rulesStrings>
+
+  <VFEM2_LeaderTitleMaker_Kingdom.rulePack.rulesStrings>
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->rei</li>
+  </VFEM2_LeaderTitleMaker_Kingdom.rulePack.rulesStrings>
+
+  <VFEM2_LeaderTitleMaker_MerchantGuild.rulePack.rulesStrings>
+    <li>cultureLeaderTitle->[cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderNoun->mestre da guilda</li>
+  </VFEM2_LeaderTitleMaker_MerchantGuild.rulePack.rulesStrings>
+
+  <VFEM2_NamerFactionMedieval.rulePack.rulesStrings>
+    <li>r_name(p=0.35)->[PlaceOutlander]</li>
+    <li>r_name->[political_union_medieval] de [PlaceOutlander]</li>
+    <li>r_name->[political_union_medieval] [PlaceOutlander]</li>
+  </VFEM2_NamerFactionMedieval.rulePack.rulesStrings>
+
+  <VFEM2_NamerFactionViking.rulePack.rulesStrings>
+    <li>r_name->Clã do [AnimalNordic]</li>
+    <li>r_name->Clã do [AnimalNordic] [Color]</li>
+    <li>r_name->Clã de [NorseNames]</li>
+  </VFEM2_NamerFactionViking.rulePack.rulesStrings>
+
+  <VFEM2_NamerPersonMedieval.rulePack.rulesStrings>
+    <li>r_name(p=2)->[Medieval_First_Male] [Medieval_Last]</li>
+  </VFEM2_NamerPersonMedieval.rulePack.rulesStrings>
+
+  <VFEM2_NamerPersonMedievalFemale.rulePack.rulesStrings>
+    <li>r_name(p=2)->[Medieval_First_Female] [Medieval_Last]</li>
+  </VFEM2_NamerPersonMedievalFemale.rulePack.rulesStrings>
+
+  <VFEM2_NamerPersonViking.rulePack.rulesStrings>
+    <li>r_name(p=2)->[NorseNames] [NorseNames]son</li>
+    <li>r_name->[NorseNames] [NorseNames]berg</li>
+    <li>r_name->[NorseNames] '[AnimalBadass]slayer'</li>
+    <li>r_name->[NorseNames] '[Animal] [Color]'</li>
+    <li>r_name->[NorseNames] do Clã [Animal]</li>
+  </VFEM2_NamerPersonViking.rulePack.rulesStrings>
+
+  <VFEM2_NamerSettlementMedieval.rulePack.rulesStrings>
+    <li>r_name(p=4)->[medievalSettlementEnd] de [PlaceOutlander]</li>
+    <li>r_name->[medievalSettlementEnd] de [AnimalBadass]</li>
+    <li>r_name->[medievalSettlementEnd] das [TerrainFeature]</li>
+    <li>r_name->[TerrainFeature] de [PlaceOutlander]</li>
+  </VFEM2_NamerSettlementMedieval.rulePack.rulesStrings>
+
+  <VFEM2_NamerSettlementViking.rulePack.rulesStrings>
+    <li>r_name->[townname_wordgen]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
+    <li>townendevil->vast</li>
+    <li>townendevil->varg</li>
+    <li>townendevil->tor</li>
+    <li>townendevil->gard</li>
+    <li>townendevil->heim</li>
+    <li>townendevil->stad</li>
+    <li>townendevil->borg</li>
+    <li>townendevil->burn</li>
+    <li>townendevil->thad</li>
+  </VFEM2_NamerSettlementViking.rulePack.rulesStrings>
+
+</LanguageData>

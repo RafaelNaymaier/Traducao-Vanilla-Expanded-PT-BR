@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VFEM2_MeadAlcoholHigh.label>embriaguez de hidromel</VFEM2_MeadAlcoholHigh.label>
+  <VFEM2_MeadAlcoholHigh.description>Hidromel na corrente sanguínea. Deixa as pessoas felizes, mas reduz as capacidades. Reduz levemente a sensibilidade psíquica.</VFEM2_MeadAlcoholHigh.description>
+  <VFEM2_MeadAlcoholHigh.labelNoun>uma embriaguez de hidromel</VFEM2_MeadAlcoholHigh.labelNoun>
+  <VFEM2_MeadAlcoholHigh.stages.warm.label>alegre</VFEM2_MeadAlcoholHigh.stages.warm.label>
+  <VFEM2_MeadAlcoholHigh.stages.tipsy.label>altinho</VFEM2_MeadAlcoholHigh.stages.tipsy.label>
+  <VFEM2_MeadAlcoholHigh.stages.drunk.label>bêbado</VFEM2_MeadAlcoholHigh.stages.drunk.label>
+  <VFEM2_MeadAlcoholHigh.stages.hammered.label>completamente bêbado</VFEM2_MeadAlcoholHigh.stages.hammered.label>
+  <VFEM2_MeadAlcoholHigh.stages.blackout.label>apagão</VFEM2_MeadAlcoholHigh.stages.blackout.label>
+
+  <VFEM2_WineAlcoholHigh.label>vinho</VFEM2_WineAlcoholHigh.label>
+  <VFEM2_WineAlcoholHigh.description>Vinho na corrente sanguínea. Deixa as pessoas felizes e mais sensíveis psiquicamente, mas reduz as capacidades.</VFEM2_WineAlcoholHigh.description>
+  <VFEM2_WineAlcoholHigh.labelNoun>embriaguez de vinho</VFEM2_WineAlcoholHigh.labelNoun>
+  <VFEM2_WineAlcoholHigh.stages.warm.label>alegre</VFEM2_WineAlcoholHigh.stages.warm.label>
+  <VFEM2_WineAlcoholHigh.stages.tipsy.label>altinho</VFEM2_WineAlcoholHigh.stages.tipsy.label>
+  <VFEM2_WineAlcoholHigh.stages.drunk.label>bêbado</VFEM2_WineAlcoholHigh.stages.drunk.label>
+  <VFEM2_WineAlcoholHigh.stages.hammered.label>completamente bêbado</VFEM2_WineAlcoholHigh.stages.hammered.label>
+  <VFEM2_WineAlcoholHigh.stages.blackout.label>apagão</VFEM2_WineAlcoholHigh.stages.blackout.label>
+
+  <VFEM2_HemogenDraught.label>poção de hemogênio</VFEM2_HemogenDraught.label>
+  <VFEM2_HemogenDraught.description>Uma poção que melhora todos os traços e habilidades do usuário hemogênico, além de repor o hemogênio ao longo do tempo.</VFEM2_HemogenDraught.description>
+  <VFEM2_HemogenDraught.stages.fading.label>desvanecendo</VFEM2_HemogenDraught.stages.fading.label>
+  <VFEM2_HemogenDraught.stages.potent.label>potente</VFEM2_HemogenDraught.stages.potent.label>
+  
+  <VFEM2_HemogenDraughtDumbHediff.label>poção de hemogênio</VFEM2_HemogenDraughtDumbHediff.label>
+  <VFEM2_HemogenDraughtDumbHediff.description>Uma poção que melhora todos os traços e habilidades do usuário hemogênico, além de repor o hemogênio ao longo do tempo.</VFEM2_HemogenDraughtDumbHediff.description>
+
+  <VFEM2_ClarityDraught.label>poção de clareza</VFEM2_ClarityDraught.label>
+  <VFEM2_ClarityDraught.description>Uma poção que aumenta a sensibilidade psíquica do usuário, melhorando suas capacidades de meditação.</VFEM2_ClarityDraught.description>
+  <VFEM2_ClarityDraught.stages.fading.label>desvanecendo</VFEM2_ClarityDraught.stages.fading.label>
+  <VFEM2_ClarityDraught.stages.potent.label>potente</VFEM2_ClarityDraught.stages.potent.label>
+
+  <VFEM2_AmnesiaDraught.label>poção de amnésia</VFEM2_AmnesiaDraught.label>
+  <VFEM2_AmnesiaDraught.description>Uma poção que faz o usuário perder a memória rapidamente, resultando em memórias negativas e positivas durando significativamente menos tempo.</VFEM2_AmnesiaDraught.description>
+  <VFEM2_AmnesiaDraught.stages.fading.label>desvanecendo</VFEM2_AmnesiaDraught.stages.fading.label>
+  <VFEM2_AmnesiaDraught.stages.potent.label>potente</VFEM2_AmnesiaDraught.stages.potent.label>
+  
+  <VFEM2_AntitoxDraught.label>poção antitoxina</VFEM2_AntitoxDraught.label>
+  <VFEM2_AntitoxDraught.description>Uma poção que melhora a resistência tóxica do usuário.</VFEM2_AntitoxDraught.description>
+  <VFEM2_AntitoxDraught.stages.fading.label>desvanecendo</VFEM2_AntitoxDraught.stages.fading.label>
+  <VFEM2_AntitoxDraught.stages.potent.label>potente</VFEM2_AntitoxDraught.stages.potent.label>
+  
+  <VFEM2_ComaDraught.label>poção de coma</VFEM2_ComaDraught.label>
+  <VFEM2_ComaDraught.description>Uma poção que coloca o usuário em um coma quimicamente induzido que retarda drasticamente seu metabolismo.</VFEM2_ComaDraught.description>
+  <VFEM2_ComaDraught.stages.fading.label>desvanecendo</VFEM2_ComaDraught.stages.fading.label>
+  <VFEM2_ComaDraught.stages.potent.label>potente</VFEM2_ComaDraught.stages.potent.label>
+  
+  <VFEM2_EfficiencyDraught.label>poção de eficiência</VFEM2_EfficiencyDraught.label>
+  <VFEM2_EfficiencyDraught.description>Uma poção que melhora a velocidade de trabalho global do usuário e simultaneamente retarda a perda de energia, ao custo de um aumento na chance de ataque cardíaco. Ao fim da duração potente, o usuário recebe um grande aumento na taxa de queda de sono.</VFEM2_EfficiencyDraught.description>
+  <VFEM2_EfficiencyDraught.stages.fading.label>desvanecendo</VFEM2_EfficiencyDraught.stages.fading.label>
+  <VFEM2_EfficiencyDraught.stages.potent.label>potente</VFEM2_EfficiencyDraught.stages.potent.label>
+  
+  <VFEM2_FertilityDraught.label>poção de fertilidade</VFEM2_FertilityDraught.label>
+  <VFEM2_FertilityDraught.description>Uma poção que aumenta artificialmente a fertilidade do usuário. O leve impulso na fertilidade permitirá que até mesmo pessoas estéreis tenham a chance de se tornarem pais.</VFEM2_FertilityDraught.description>
+  <VFEM2_FertilityDraught.stages.fading.label>desvanecendo</VFEM2_FertilityDraught.stages.fading.label>
+  <VFEM2_FertilityDraught.stages.potent.label>potente</VFEM2_FertilityDraught.stages.potent.label>
+  
+  <VFEM2_FocusDraught.label>poção de foco</VFEM2_FocusDraught.label>
+  <VFEM2_FocusDraught.description>Uma poção que aumenta a capacidade de aprendizado do usuário, permitindo que ganhe mais conhecimento, coma mais rápido, descanse mais depressa e ganhe mais psicofoco enquanto estiver potente. Os efeitos são invertidos quando a poção está desvanecendo.</VFEM2_FocusDraught.description>
+  <VFEM2_FocusDraught.stages.fading.label>desvanecendo</VFEM2_FocusDraught.stages.fading.label>
+  <VFEM2_FocusDraught.stages.potent.label>potente</VFEM2_FocusDraught.stages.potent.label>
+  
+  <VFEM2_HealingDraught.label>poção de cura</VFEM2_HealingDraught.label>
+  <VFEM2_HealingDraught.description>Uma poção que melhora a regeneração natural de feridas desta pessoa, tornando-a capaz de se curar significativamente mais rápido do que o normal.</VFEM2_HealingDraught.description>
+  <VFEM2_HealingDraught.stages.fading.label>desvanecendo</VFEM2_HealingDraught.stages.fading.label>
+  <VFEM2_HealingDraught.stages.potent.label>potente</VFEM2_HealingDraught.stages.potent.label>
+  
+  <VFEM2_ImmunizationDraught.label>poção de imunização</VFEM2_ImmunizationDraught.label>
+  <VFEM2_ImmunizationDraught.description>Uma poção que melhora o sistema imunológico desta pessoa, tornando-a mais capaz de combater doenças e infecções ao custo de deixá-la mais sonolenta.</VFEM2_ImmunizationDraught.description>
+  <VFEM2_ImmunizationDraught.stages.fading.label>desvanecendo</VFEM2_ImmunizationDraught.stages.fading.label>
+  <VFEM2_ImmunizationDraught.stages.potent.label>potente</VFEM2_ImmunizationDraught.stages.potent.label>
+  
+  <VFEM2_InspirationDraught.label>poção de inspiração</VFEM2_InspirationDraught.label>
+  <VFEM2_InspirationDraught.description>Uma poção que fornece ao usuário clareza mental, permitindo que foque em ganhar novos conhecimentos em habilidades pelas quais é apaixonado, ao custo de capacidades de combate reduzidas.</VFEM2_InspirationDraught.description>
+  <VFEM2_InspirationDraught.stages.fading.label>desvanecendo</VFEM2_InspirationDraught.stages.fading.label>
+  <VFEM2_InspirationDraught.stages.potent.label>potente</VFEM2_InspirationDraught.stages.potent.label>
+  
+  <VFEM2_PainkillerDraught.label>poção analgésica</VFEM2_PainkillerDraught.label>
+  <VFEM2_PainkillerDraught.description>Uma poção que impede o usuário de sentir dor ao custo de diminuir grandemente seu foco e produtividade.</VFEM2_PainkillerDraught.description>
+  <VFEM2_PainkillerDraught.stages.fading.label>desvanecendo</VFEM2_PainkillerDraught.stages.fading.label>
+  <VFEM2_PainkillerDraught.stages.potent.label>potente</VFEM2_PainkillerDraught.stages.potent.label>
+  
+  <VFEM2_PoisonDraught.label>poção de veneno</VFEM2_PoisonDraught.label>
+  <VFEM2_PoisonDraught.description>Uma poção que desliga o organismo do usuário, reduzindo sua consciência a um estado de coma quimicamente induzido que causa a deterioração dos órgãos e inevitavelmente levará à morte.</VFEM2_PoisonDraught.description>
+  <VFEM2_PoisonDraught.stages.potent.label>potente</VFEM2_PoisonDraught.stages.potent.label>
+  <VFEM2_PoisonDraught.stages.final.label>final</VFEM2_PoisonDraught.stages.final.label>
+  
+  <VFEM2_PoisonDraughtDumbHediff.label>poção de veneno</VFEM2_PoisonDraughtDumbHediff.label>
+  <VFEM2_PoisonDraughtDumbHediff.description>Uma poção que desliga o organismo do usuário, reduzindo sua consciência a um estado de coma quimicamente induzido que causa a deterioração dos órgãos e inevitavelmente levará à morte.</VFEM2_PoisonDraughtDumbHediff.description>
+  
+  <VFEM2_StoneskinDraught.label>poção de pele de pedra</VFEM2_StoneskinDraught.label>
+  <VFEM2_StoneskinDraught.description>Uma poção que transforma a pele do usuário em uma armadura natural. Toda a epiderme engrossa e endurece para resistir a queimaduras, enquanto placas de queratina externa se formam onde for possível - incluindo a cabeça e o rosto. Embora seja muito difícil ferir fisicamente alguém sob os efeitos desta poção, as placas e a pele endurecida reduzem significativamente a atratividade física do usuário.</VFEM2_StoneskinDraught.description>
+  <VFEM2_StoneskinDraught.stages.fading.label>desvanecendo</VFEM2_StoneskinDraught.stages.fading.label>
+  <VFEM2_StoneskinDraught.stages.potent.label>potente</VFEM2_StoneskinDraught.stages.potent.label>
+  
+  <VFEM2_StrengthDraught.label>poção de força</VFEM2_StrengthDraught.label>
+  <VFEM2_StrengthDraught.description>Uma poção que melhora a força e os reflexos do usuário, aprimorando suas capacidades de combate ao custo de um aumento na chance de brigas sociais e um limiar de colapso mental mais alto.</VFEM2_StrengthDraught.description>
+  <VFEM2_StrengthDraught.stages.fading.label>desvanecendo</VFEM2_StrengthDraught.stages.fading.label>
+  <VFEM2_StrengthDraught.stages.potent.label>potente</VFEM2_StrengthDraught.stages.potent.label>
+  
+  <VFEM2_TorturerDraught.label>poção do torturador</VFEM2_TorturerDraught.label>
+  <VFEM2_TorturerDraught.description>Uma poção que causa dor severa ao usuário, tornando-o incapaz de sequer se mover. Se for um prisioneiro, perderá sua resistência rapidamente, e se for um escravo, será totalmente suprimido.</VFEM2_TorturerDraught.description>
+  <VFEM2_TorturerDraught.stages.fading.label>desvanecendo</VFEM2_TorturerDraught.stages.fading.label>
+  <VFEM2_TorturerDraught.stages.potent.label>potente</VFEM2_TorturerDraught.stages.potent.label>
+
+  <VFEM_RallyAuraBuffHediff.label>aura de união</VFEM_RallyAuraBuffHediff.label>
+  <VFEM_RallyAuraBuffHediff.description>Aura de união que previne colapsos mentais.</VFEM_RallyAuraBuffHediff.description>
+  
+  <VFEM_RallyWearerHediff.label>união</VFEM_RallyWearerHediff.label>
+  <VFEM_RallyWearerHediff.description>Aura que une todos por perto, interrompendo seus colapsos mentais e impedindo que entrem em colapso novamente.</VFEM_RallyWearerHediff.description>
+
+  <VFEM2_Sting.label>ferroada</VFEM2_Sting.label>
+  <VFEM2_Sting.description>Uma ferroada de abelha dolorosa.</VFEM2_Sting.description>
+  <VFEM2_Sting.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de ferroada</VFEM2_Sting.comps.HediffComp_GetsPermanent.permanentLabel>
+  <VFEM2_Sting.labelNoun>uma ferroada de abelha</VFEM2_Sting.labelNoun>
+  <VFEM2_Sting.labelNounPretty>{0} no(a) {1}</VFEM2_Sting.labelNounPretty>
+
+  <VFEM2_PlagueMask.label>máscara de peste</VFEM2_PlagueMask.label>
+  <VFEM2_PlagueMask.description>A máscara de peste impede que o usuário contraia a peste.</VFEM2_PlagueMask.description>
+  
+</LanguageData>
