@@ -12,7 +12,7 @@
   <VGE_EnemyDamagedSubstructure.description>Uma estrutura treliçada leve danificada, com piso na parte superior, que forma o convés de uma gravinave inimiga. Só a tripulação inimiga pode reivindicá-la ou usá-la. Pode ser desmontada para obter recursos.</VGE_EnemyDamagedSubstructure.description>
 
   <!-- EN: enemy gravship subarmor -->
-  <VGE_EnemySubarmor.label>subarmadura de gravinave inimiga</VGE_EnemySubarmor.label>
+  <VGE_EnemySubarmor.label>subarmadura da gravinave inimiga</VGE_EnemySubarmor.label>
   <!-- EN: A reinforced structural layer with flooring on top that forms the deck of an enemy gravship. Built from dense grav-hardened alloys, this subarmor is completely indestructible, shielding the vessel from artillery impact. Cannot be claimed or used by anyone but the enemy crew. Can be deconstructed to yield some resources. -->
   <VGE_EnemySubarmor.description>Uma camada estrutural reforçada, com piso na parte superior, que forma o convés de uma gravinave inimiga. Feita de ligas densas endurecidas por gravidade, esta subarmadura é completamente indestrutível e protege a nave contra impactos de artilharia. Só a tripulação inimiga pode reivindicá-la ou usá-la. Pode ser desmontada para obter recursos.</VGE_EnemySubarmor.description>
 
@@ -27,8 +27,8 @@
   <VGE_GravshipSubarmor.description>Uma camada estrutural reforçada, com piso na parte superior, que forma o convés de uma gravinave. Feita de ligas densas endurecidas por gravidade, esta subarmadura é completamente indestrutível e protege a nave contra impactos de artilharia e danos de pouso forçado. Apenas objetos sobre esta subestrutura podem ser erguidos pelo campo de levitação do motor gravitacional. Este piso deve ser construído ao alcance de um motor gravitacional.</VGE_GravshipSubarmor.description>
 
   <!-- EN: subcreep -->
-  <VGE_Subcreep.label>subcreep</VGE_Subcreep.label>
+  <VGE_Subcreep.label>subcrosta</VGE_Subcreep.label>
   <!-- EN: An insectoid-made lightweight sponge-goop structure with creep on top that forms the surface of an exohive. Only things on top of this substructure can be lifted by the grav engine's levitation field. This floor must be constructed within range of a grav engine. Supports insectoid structures and significantly hinders non-insectoid movement. -->
-  <VGE_Subcreep.description>Uma estrutura leve de esponja viscosa, criada por insetoides e coberta por creep, que forma a superfície de uma colmeia de exoinsetos. Apenas objetos sobre esta subestrutura podem ser erguidos pelo campo de levitação do motor gravitacional. Este piso deve ser construído ao alcance de um motor gravitacional. Dá suporte a estruturas de insetoides e dificulta bastante o movimento de criaturas que não são insetoides.</VGE_Subcreep.description>
+  <VGE_Subcreep.description>Uma estrutura leve de esponja viscosa, criada por insetoides e coberta por crosta, que forma a superfície de uma colmeia de exoinsetos. Apenas objetos sobre esta subestrutura podem ser erguidos pelo campo de levitação do motor gravitacional. Este piso deve ser construído ao alcance de um motor gravitacional. Dá suporte a estruturas de insetoides e dificulta bastante o movimento de criaturas que não são insetoides.</VGE_Subcreep.description>
 
 </LanguageData>

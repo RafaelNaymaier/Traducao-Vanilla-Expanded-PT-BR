@@ -18,14 +18,14 @@
   <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings>
     <li>r_name(p=2)->[prefix_adj] [prefix_noun]</li>
     <li>prefix_adj->antigo</li>
-    <li>prefix_adj->derrelicto</li>
+    <li>prefix_adj->desativado</li>
     <li>prefix_adj->abandonado</li>
     <li>prefix_adj->perdido</li>
     <li>prefix_adj->arruinado</li>
     <li>prefix_adj->quebrado</li>
     <li>prefix_adj->esfacelado</li>
     <li>prefix_noun->gravinave</li>
-    <li>prefix_noun->carcaça</li>
+    <li>prefix_noun->casco</li>
     <li>prefix_noun->destroço</li>
     <li>prefix_noun->remanescente</li>
   </VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings>

@@ -4,37 +4,37 @@
   <!-- EN: Enemy gravjumper -->
   <VGE_ActiveEnemyGravjumper.label>Gravisalto inimigo</VGE_ActiveEnemyGravjumper.label>
   <!-- EN: An enemy gravjumper, which is a compact, short-range gravship that relies on the gravjumper engine and a pilot cockpit to operate. Offers minimal substructure support and footprint, making it ideal for scouting and exploration.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <VGE_ActiveEnemyGravjumper.description>Um gravisalto inimigo: uma gravinave compacta, de curto alcance, que depende de um motor de salto gravitacional e de uma cabine de pilotagem para funcionar. Oferece pouco suporte estrutural e espaço, sendo ideal para reconhecimento e exploração.\n\nÉ possível chegar a este local usando cápsulas de transporte, naves de transporte ou uma gravinave.</VGE_ActiveEnemyGravjumper.description>
+  <VGE_ActiveEnemyGravjumper.description>Um gravisalto inimigo: uma gravinave compacto, de curto alcance, que depende de um motor de salto gravitacional e de uma cabine de pilotagem para funcionar. Oferece pouco suporte estrutural e espaço, sendo ideal para reconhecimento e exploração.\n\nÉ possível chegar a este local usando cápsulas de transporte, naves auxiliares ou uma gravinave.</VGE_ActiveEnemyGravjumper.description>
 
   <!-- EN: Enemy gravship -->
-  <VGE_ActiveEnemyGravship.label>Gravinave inimiga</VGE_ActiveEnemyGravship.label>
+  <VGE_ActiveEnemyGravship.label>gravinave inimiga</VGE_ActiveEnemyGravship.label>
   <!-- EN: An enemy gravship, which is a versatile mid-sized vessel powered by a standard gravship engine and launched via a pilot console. Balanced in size and support, it can serve as a mobile base with sufficient upgrades. Suitable for long-term travel and projecting power.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <VGE_ActiveEnemyGravship.description>Uma gravinave inimiga de porte médio e versátil, equipada com um motor gravitacional padrão e lançada por um console de pilotagem. Seu tamanho e suporte equilibrados permitem que funcione como base móvel com melhorias suficientes. É adequada para viagens longas e projeção de poder.\n\nÉ possível chegar a este local usando cápsulas de transporte, naves de transporte ou uma gravinave.</VGE_ActiveEnemyGravship.description>
+  <VGE_ActiveEnemyGravship.description>uma gravinave inimiga de porte médio e versátil, equipado com um motor gravitacional padrão e lançado por um console de pilotagem. Seu tamanho e suporte equilibrados permitem que funcione como base móvel com melhorias suficientes. É adequado para viagens longas e projeção de poder.\n\nÉ possível chegar a este local usando cápsulas de transporte, naves auxiliares ou uma gravinave.</VGE_ActiveEnemyGravship.description>
 
   <!-- EN: active orbital cluster -->
   <VGE_ActiveOrbitalCluster.label>Agrupamento orbital ativo</VGE_ActiveOrbitalCluster.label>
   <!-- EN: A heavily armed mechanoid orbital combat cluster currently bombarding your gravship. The station is equipped with a mechanoid grav engine and numerous artillery pieces that must be destroyed to stop the bombardment.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <VGE_ActiveOrbitalCluster.description>Um agrupamento orbital de combate mecanóide, fortemente armado, que está bombardeando sua gravinave. A estação possui um motor gravitacional mecanóide e várias peças de artilharia que precisam ser destruídas para interromper o bombardeio.\n\nÉ possível chegar a este local usando cápsulas de transporte, naves de transporte ou uma gravinave.</VGE_ActiveOrbitalCluster.description>
+  <VGE_ActiveOrbitalCluster.description>Um agrupamento orbital de combate mecanoide, fortemente armado, que está bombardeando sua gravinave. A estação possui um motor gravitacional mecanoide e várias peças de artilharia que precisam ser destruídas para interromper o bombardeio.\n\nÉ possível chegar a este local usando cápsulas de transporte, naves auxiliares ou uma gravinave.</VGE_ActiveOrbitalCluster.description>
 
   <!-- EN: active salvager station -->
   <VGE_ActiveSalvagerStation.label>Estação orbital de sucateiros ativa</VGE_ActiveSalvagerStation.label>
   <!-- EN: A heavily armed, salvager-owned orbital station currently bombarding your gravship. The station is equipped with numerous pieces of gravship artillery that need to be destroyed to stop the bombardment.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <VGE_ActiveSalvagerStation.description>Uma estação orbital de sucateiros fortemente armada que está bombardeando sua gravinave. A estação possui várias peças de artilharia para gravinaves que precisam ser destruídas para interromper o bombardeio.\n\nÉ possível chegar a este local usando cápsulas de transporte, naves de transporte ou uma gravinave.</VGE_ActiveSalvagerStation.description>
+  <VGE_ActiveSalvagerStation.description>Uma estação orbital de sucateiros fortemente armada que está bombardeando sua gravinave. A estação possui várias peças de artilharia para gravinaves que precisam ser destruídas para interromper o bombardeio.\n\nÉ possível chegar a este local usando cápsulas de transporte, naves auxiliares ou uma gravinave.</VGE_ActiveSalvagerStation.description>
 
   <!-- EN: active warplatform -->
   <VGE_ActiveWarplatform.label>Plataforma de guerra ativa</VGE_ActiveWarplatform.label>
   <!-- EN: An ancient, autonomous orbital platform currently bombarding your gravship. The platform is controlled by a hostile warcomputer that must be neutralized to stop the bombardment.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <VGE_ActiveWarplatform.description>Uma antiga plataforma orbital autônoma que está bombardeando sua gravinave. Ela é controlada por um computador de guerra hostil que precisa ser neutralizado para interromper o bombardeio.\n\nÉ possível chegar a este local usando cápsulas de transporte, naves de transporte ou uma gravinave.</VGE_ActiveWarplatform.description>
+  <VGE_ActiveWarplatform.description>Uma antiga plataforma orbital autônoma que está bombardeando sua gravinave. Ela é controlada por um computador de guerra hostil que precisa ser neutralizado para interromper o bombardeio.\n\nÉ possível chegar a este local usando cápsulas de transporte, naves auxiliares ou uma gravinave.</VGE_ActiveWarplatform.description>
 
   <!-- EN: derelict gravship -->
   <VGE_DerelictGravship.label>Gravinave abandonada</VGE_DerelictGravship.label>
   <!-- EN: An immense, derelict gravship drifting silently in the void. Its machinery is broken, and its hull is vented to vacuum, but the sheer size of the wreck means valuable salvage is everywhere.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <VGE_DerelictGravship.description>Uma enorme gravinave abandonada deriva em silêncio pelo vazio. Seu maquinário está quebrado e o casco foi exposto ao vácuo, mas o tamanho do destroço significa que há recursos valiosos por toda parte.\n\nÉ possível chegar a este local usando cápsulas de transporte, naves de transporte ou uma gravinave.</VGE_DerelictGravship.description>
+  <VGE_DerelictGravship.description>Um enorme gravinave abandonada deriva em silêncio pelo vazio. Seu maquinário está quebrado e o casco foi exposto ao vácuo, mas o tamanho do destroço significa que há recursos valiosos por toda parte.\n\nÉ possível chegar a este local usando cápsulas de transporte, naves auxiliares ou uma gravinave.</VGE_DerelictGravship.description>
 
   <!-- EN: dormant warplatform -->
   <VGE_DormantWarplatform.label>Plataforma de guerra inativa</VGE_DormantWarplatform.label>
   <!-- EN: A dormant, heavily armed satellite platform floating in orbit. Long-range scans detect an array of gauss bombards controlled by a central warcomputer. The defenses will activate and immediately engage any incoming ships upon arrival.\n\nBreaching the installation will require fighting through automated turrets and sentry drones, but destroying or hacking the warcomputer will disable the anti-ship bombards.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <VGE_DormantWarplatform.description>Uma plataforma satélite inativa e fortemente armada flutua em órbita. Varreduras de longo alcance detectaram diversos canhões gauss controlados por um computador de guerra central. As defesas serão ativadas e atacarão imediatamente qualquer nave que chegar.\n\nPara invadir a instalação, será preciso enfrentar torretas automatizadas e drones sentinelas. Destruir ou hackear o computador de guerra desativará os canhões antinave.\n\nÉ possível chegar a este local usando cápsulas de transporte, naves de transporte ou uma gravinave.</VGE_DormantWarplatform.description>
+  <VGE_DormantWarplatform.description>Uma plataforma satélite inativa e fortemente armada flutua em órbita. Varreduras de longo alcance detectaram diversos canhões gauss controlados por um computador de guerra central. As defesas serão ativadas e atacarão imediatamente qualquer nave que chegar.\n\nPara invadir a instalação, será preciso enfrentar torretas automatizadas e drones sentinelas. Destruir ou hackear o computador de guerra desativará os canhões antinave.\n\nÉ possível chegar a este local usando cápsulas de transporte, naves auxiliares ou uma gravinave.</VGE_DormantWarplatform.description>
 
   <!-- EN: empty space -->
   <VGE_EmptySpace.label>Espaço vazio</VGE_EmptySpace.label>
@@ -44,12 +44,12 @@
   <!-- EN: gravship husk -->
   <VGE_GravshipHusk.label>Carcaça de gravinave</VGE_GravshipHusk.label>
   <!-- EN: A derelict gravship husk, severely ravaged by countless years adrift in space. Its skeletal frame is all that remains, but its tough structure still holds fragments of twisted metals and components that can be salvaged.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <VGE_GravshipHusk.description>Uma carcaça de gravinave abandonada, severamente castigada por incontáveis anos à deriva no espaço. Restou apenas sua estrutura esquelética, mas ela ainda contém fragmentos de metais retorcidos e componentes que podem ser recuperados.\n\nÉ possível chegar a este local usando cápsulas de transporte, naves de transporte ou uma gravinave.</VGE_GravshipHusk.description>
+  <VGE_GravshipHusk.description>Uma carcaça abandonada de gravinave, severamente castigada por incontáveis anos à deriva no espaço. Restou apenas sua estrutura esquelética, mas ela ainda contém fragmentos de metais retorcidos e componentes que podem ser recuperados.\n\nÉ possível chegar a este local usando cápsulas de transporte, naves auxiliares ou uma gravinave.</VGE_GravshipHusk.description>
 
   <!-- EN: infested asteroid -->
   <VGE_InfestedAsteroid.label>Asteroide infestado</VGE_InfestedAsteroid.label>
   <!-- EN: A vacstone asteroid that has been infested by insectoids. Inside, the creatures have collected debris and salvage from orbital wrecks. The infestation is strong, and any attempt to clear the asteroid will mean heavy resistance.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <VGE_InfestedAsteroid.description>Um asteroide de vacuíta infestado por insetoides. As criaturas reuniram destroços e materiais recuperados de naufrágios orbitais em seu interior. A infestação é intensa, e qualquer tentativa de limpar o asteroide enfrentará forte resistência.\n\nÉ possível chegar a este local usando cápsulas de transporte, naves de transporte ou uma gravinave.</VGE_InfestedAsteroid.description>
+  <VGE_InfestedAsteroid.description>Um asteroide de vacuíta infestado por insetoides. As criaturas reuniram destroços e materiais recuperados de naufrágios orbitais em seu interior. A infestação é intensa, e qualquer tentativa de limpar o asteroide enfrentará forte resistência.\n\nÉ possível chegar a este local usando cápsulas de transporte, naves auxiliares ou uma gravinave.</VGE_InfestedAsteroid.description>
 
   <!-- EN: warpod -->
   <VGE_TravellingWarpod.label>Cápsula de guerra</VGE_TravellingWarpod.label>

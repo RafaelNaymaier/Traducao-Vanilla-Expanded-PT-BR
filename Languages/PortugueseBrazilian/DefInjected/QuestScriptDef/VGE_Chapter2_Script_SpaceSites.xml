@@ -2,19 +2,19 @@
 <LanguageData>
 
   <!-- EN: Gravcore detected: Gravship graveyard -->
-  <VGE_GravshipGraveyard.questAvailableLetterLabel>Gravinúcleo detectado: Cemitério de gravinave</VGE_GravshipGraveyard.questAvailableLetterLabel>
+  <VGE_GravshipGraveyard.questAvailableLetterLabel>Gravinúcleo detectado: Cemitério de gravinaves</VGE_GravshipGraveyard.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected the distinct energy signature of a gravcore emanating from a massive field of debris: a gravship graveyard. You know that when you arrive, your navigation systems will be locked. An ancient signal jammer is active within the debris field, preventing your gravship from initiating the launch. You must navigate through the field of unstable ancient gravmines, locate the source of the jamming, and neutralize it to escape.\n\nBe careful, orbital locations are extremely dangerous. Equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult.</li>
   -->
   <VGE_GravshipGraveyard.questDescriptionRules.rulesStrings>
-    <li>questDescription->Você detectou a assinatura energética distinta de um gravinúcleo emanando de um grande campo de detritos: um cemitério de gravinaves. Você sabe que, ao chegar, seus sistemas de navegação ficarão travados. Um antigo bloqueador de sinal está ativo dentro do campo de detritos, impedindo que seu gravinave inicie o lançamento. Você deve navegar pelo campo de graviminas antigas instáveis, localizar a fonte do bloqueio e neutralizá-la para escapar.
-Cuidado, locais orbitais são extremamente perigosos. Equipe seus colonos com vacsuits. Planeje sua volta, pois viver em órbita por longos períodos é muito difícil.</li>
+    <li>questDescription->Você detectou a assinatura energética distinta de um gravinúcleo emanando de um grande campo de detritos: um cemitério de gravinaves. Você sabe que, ao chegar, seus sistemas de navegação ficarão travados. Um antigo bloqueador de sinal está ativo dentro do campo de detritos, impedindo que sua gravinave inicie o lançamento. Você deve navegar pelo campo de graviminas antigas instáveis, localizar a fonte do bloqueio e neutralizá-la para escapar.
+Cuidado, locais orbitais são extremamente perigosos. Equipe seus colonos com trajes de vácuo. Planeje sua volta, pois viver em órbita por longos períodos é muito difícil.</li>
   </VGE_GravshipGraveyard.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->gravship graveyard</li>
   -->
   <VGE_GravshipGraveyard.questNameRules.rulesStrings>
-    <li>questName->cemitério de gravinave</li>
+    <li>questName->cemitério de gravinaves</li>
   </VGE_GravshipGraveyard.questNameRules.rulesStrings>
   <!-- EN: Gravcore detected: Infested installation -->
   <VGE_InfestedInstallation.questAvailableLetterLabel>Gravinúcleo detectado: Instalação infestada</VGE_InfestedInstallation.questAvailableLetterLabel>
@@ -22,8 +22,8 @@ Cuidado, locais orbitais são extremamente perigosos. Equipe seus colonos com va
     <li>questDescription->You have detected the energy signature of a gravcore. The signal is coming from an abandoned orbital station infested with exoinsectoids. Scans reveal numerous hives on board. You must navigate the infested ruins, defeat the exoinsectoid defenders, and destroy the infested gravlock tether which will continue spawning new exoinsectoids throughout the platform. Once destroyed, you will be able to obtain the gravcore.\n\nBe careful, orbital locations are extremely dangerous. Equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult.</li>
   -->
   <VGE_InfestedInstallation.questDescriptionRules.rulesStrings>
-    <li>questDescription->Você detectou a assinatura energética de um gravinúcleo. O sinal vem de uma estação orbital abandonada infestada por exoinsetoides. Os scans revelam inúmeros ninhos a bordo. Você deve navegar pelas ruínas infestadas, derrotar os defensores exoinsetoides e destruir a amarra de gravlock infestada, que continuará gerando novos exoinsetoides por toda a plataforma. Quando destruída, você poderá obter o gravinúcleo.
-Cuidado, locais orbitais são extremamente perigosos. Equipe seus colonos com vacsuits. Planeje sua volta, pois viver em órbita por longos períodos é muito difícil.</li>
+    <li>questDescription->Você detectou a assinatura energética de um gravinúcleo. O sinal vem de uma estação orbital abandonada infestada por exoinsetoides. As varreduras revelam inúmeros ninhos a bordo. Você deve navegar pelas ruínas infestadas, derrotar os defensores exoinsetoides e destruir o cabo de gravitrava infestado, que continuará gerando novos exoinsetoides por toda a plataforma. Quando destruído, você poderá obter o gravinúcleo.
+Cuidado, locais orbitais são extremamente perigosos. Equipe seus colonos com trajes de vácuo. Planeje sua volta, pois viver em órbita por longos períodos é muito difícil.</li>
   </VGE_InfestedInstallation.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Infested installation</li>
@@ -35,8 +35,8 @@ Cuidado, locais orbitais são extremamente perigosos. Equipe seus colonos com va
     <li>questDescription->[discoveryMethod] the location of a derelict gravship. This ancient hulk, ruined by countless years in orbit, is a trove of salvage, including rare gravlite and advanced components.\n\nThe wreck is currently [threatDescription], making any attempt at recovery a dangerous venture. You can reach the location with transport pods, shuttles, or a gravship. Equip your colonists with sufficient orbital apparel before departing.</li>
   -->
   <VGE_OpportunitySite_DerelictGravship.questDescriptionRules.rulesStrings>
-    <li>questDescription->[discoveryMethod] a localização de um gravinave em ruínas. Este casco antigo, arruinado por incontáveis anos em órbita, é um tesouro de sucata, incluindo gravilita rara e componentes avançados.
-O destroço está atualmente [threatDescription], tornando qualquer tentativa de recuperação um empreendimento perigoso. Você pode chegar ao local com cápsulas de transporte, transportadores ou um gravinave. Equipe seus colonos com roupa orbital suficiente antes de partir.</li>
+    <li>questDescription->[discoveryMethod] a localização de uma gravinave em ruínas. Este casco antigo, arruinado por incontáveis anos em órbita, é um tesouro de sucata, incluindo gravilita rara e componentes avançados.
+O destroço está atualmente [threatDescription], tornando qualquer tentativa de recuperação um empreendimento perigoso. Você pode chegar ao local com cápsulas de transporte, naves auxiliares ou uma gravinave. Equipe seus colonos com roupas orbitais adequadas antes de partir.</li>
   </VGE_OpportunitySite_DerelictGravship.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Derelict gravship</li>
@@ -50,9 +50,9 @@ O destroço está atualmente [threatDescription], tornando qualquer tentativa de
     <li>questDescription->[discoveryMethod] the location of a dormant, automated warplatform. This hostile satellite is filled with anti-air defenses and gauss bombards that will open fire the moment you land.\n\nThe platform is heavily defended by security turrets, roaming sentry drones, and hidden mechanical traps. At the center of the installation sits a warcomputer coordinating the network. If your colonists can survive the landing and push through to hack or destroy the warcomputer, the gauss bombards will be permanently disabled, leaving the platform's high-tech salvage for the taking.\n\nYou can reach the warplatform with transport pods, shuttles, or a gravship. Equip your colonists with sufficient orbital apparel before departing.</li>
   -->
   <VGE_OpportunitySite_DormantWarplatform.questDescriptionRules.rulesStrings>
-    <li>questDescription->[discoveryMethod] a localização de uma plataforma de guerra automatizada e inativa. Este satélite hostil está cheio de defesas antiaéreas e bombardeiros gauss que abrirão fogo no momento em que você pousar.
-A plataforma é fortemente defendida por torres de segurança, drones sentinelas patrulhando e armadilhas mecânicas ocultas. No centro da instalação está um warcomputer coordenando a rede. Se seus colonos sobreviverem ao pouso e avançarem até hackear ou destruir o warcomputer, os bombardeiros gauss serão permanentemente desativados, deixando o salvamento de alta tecnologia da plataforma à disposição.
-Você pode chegar à plataforma de guerra com cápsulas de transporte, transportadores ou um gravinave. Equipe seus colonos com roupa orbital suficiente antes de partir.</li>
+    <li>questDescription->[discoveryMethod] a localização de uma plataforma de guerra automatizada e inativa. Este satélite hostil está cheio de defesas antiaéreas e canhões gauss que abrirão fogo no momento em que você pousar.
+A plataforma é fortemente defendida por torres de segurança, drones sentinelas patrulhando e armadilhas mecânicas ocultas. No centro da instalação está um computador de guerra coordenando a rede. Se seus colonos sobreviverem ao pouso e avançarem até hackear ou destruir o computador de guerra, os canhões gauss serão permanentemente desativados, deixando o salvamento de alta tecnologia da plataforma à disposição.
+Você pode chegar à plataforma de guerra com cápsulas de transporte, naves auxiliares ou uma gravinave. Equipe seus colonos com roupas orbitais adequadas antes de partir.</li>
   </VGE_OpportunitySite_DormantWarplatform.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Warplatform</li>
@@ -68,7 +68,7 @@ Você pode chegar à plataforma de guerra com cápsulas de transporte, transport
   <VGE_OpportunitySite_InfestedAsteroid.questDescriptionRules.rulesStrings>
     <li>questDescription-> [discoveryMethod] a localização de um asteroide infestado por insetoides. As criaturas escavaram túneis na rocha, enchendo-os de detritos e sucata de naufrágios que passam.
 O asteroide pode guardar grande valor, mas a infestação não será fácil de eliminar. Você detecta sinais claros de atividade insetoide.
-Você pode chegar ao asteroide com cápsulas de transporte, transportadores ou um gravinave. Equipe seus colonos com roupa orbital suficiente antes de partir.</li>
+Você pode chegar ao asteroide com cápsulas de transporte, naves auxiliares ou uma gravinave. Equipe seus colonos com roupas orbitais adequadas antes de partir.</li>
   </VGE_OpportunitySite_InfestedAsteroid.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Infested Asteroid</li>
@@ -82,7 +82,7 @@ Você pode chegar ao asteroide com cápsulas de transporte, transportadores ou u
     <li>questDescription->A large meteorite has struck ground nearby. It has left behind a lump of vacstone. Vacstone is required for construction of the more advanced gravship technology. You can send a mining party to retrieve it, but chances are if you wait long enough, someone else will lay claim to it.</li>
   -->
   <VGE_OpportunitySite_VacstoneMeteor.questDescriptionRules.rulesStrings>
-    <li>questDescription->Um grande meteorito atingiu o terreno nas proximidades. Ele deixou para trás um pedaço de vacuíta. O vacuíta é necessário para a construção da tecnologia de gravinave mais avançada. Você pode enviar um grupo de mineração para recuperá-lo, mas há grandes chances de que, se esperar o bastante, outra pessoa reivindique a área.</li>
+    <li>questDescription->Um grande meteorito atingiu o terreno nas proximidades. Ele deixou para trás um pedaço de vacuíta. A vacuíta é necessária para a construção da tecnologia de gravinave mais avançada. Você pode enviar um grupo de mineração para recuperá-lo, mas há grandes chances de que, se esperar o bastante, outra pessoa reivindique a área.</li>
   </VGE_OpportunitySite_VacstoneMeteor.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Vacstone Meteor</li>
@@ -91,24 +91,24 @@ Você pode chegar ao asteroide com cápsulas de transporte, transportadores ou u
     <li>questName->Meteoro de vacuíta</li>
   </VGE_OpportunitySite_VacstoneMeteor.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <VGE_OpportunitySite_VacstoneMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Quest expirada: [resolvedQuestName]</VGE_OpportunitySite_VacstoneMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <VGE_OpportunitySite_VacstoneMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Missão expirada: [resolvedQuestName]</VGE_OpportunitySite_VacstoneMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
   <!-- EN: Others have mined the Vacstone meteor. The quest [resolvedQuestName] has expired. -->
-  <VGE_OpportunitySite_VacstoneMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Outros mineraram o meteoro de vacuíta. A busca [resolvedQuestName] expirou.</VGE_OpportunitySite_VacstoneMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <VGE_OpportunitySite_VacstoneMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Outros mineraram o meteoro de vacuíta. A missão [resolvedQuestName] expirou.</VGE_OpportunitySite_VacstoneMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
   <!-- EN: Gravcore detected: Salvager stronghold -->
-  <VGE_SalvagerStronghold.questAvailableLetterLabel>Gravinúcleo detectado: Fortaleza de salvadores</VGE_SalvagerStronghold.questAvailableLetterLabel>
+  <VGE_SalvagerStronghold.questAvailableLetterLabel>Gravinúcleo detectado: Fortaleza de sucateiros</VGE_SalvagerStronghold.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected the distinct energy signature of a gravcore emanating from a large asteroid. Scans reveal that a well-armed faction of salvagers has claimed the rock, building a heavily defended stronghold upon it. An active enemy signal jammer within the facility prevents your gravship from landing in close proximity, forcing you to touch down on the dangerous outskirts of the asteroid.\n\nYou must assault the base, navigate their defenses, and destroy the gravlock tether located in the center of the compound to obtain the gravcore.\n\nBe careful, orbital locations are extremely dangerous. Equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult.</li>
   -->
   <VGE_SalvagerStronghold.questDescriptionRules.rulesStrings>
-    <li>questDescription->Você detectou a assinatura energética distinta de um gravinúcleo emanando de um grande asteroide. Os scans revelam que uma facção bem armada de salvadores reivindicou a rocha, construindo uma forte fortaleza bem defendida sobre ela. Um bloqueador de sinal inimigo ativo dentro da instalação impede que seu gravinave pouse perto demais, forçando você a pousar nas perigosas periferias do asteroide.
-Você deve atacar a base, navegar por suas defesas e destruir a amarra de gravlock localizada no centro do complexo para obter o gravinúcleo.
-Cuidado, locais orbitais são extremamente perigosos. Equipe seus colonos com vacsuits. Planeje sua volta, pois viver em órbita por longos períodos é muito difícil.</li>
+    <li>questDescription->Você detectou a assinatura energética distinta de um gravinúcleo emanando de um grande asteroide. As varreduras revelam que uma facção bem armada de sucateiros reivindicou a rocha, construindo uma fortaleza fortemente defendida sobre ela. Um bloqueador de sinal inimigo ativo dentro da instalação impede que sua gravinave pouse perto demais, forçando você a pousar na perigosa periferia do asteroide.
+Você deve atacar a base, atravessar suas defesas e destruir o cabo de gravitrava localizado no centro do complexo para obter o gravinúcleo.
+Cuidado, locais orbitais são extremamente perigosos. Equipe seus colonos com trajes de vácuo. Planeje sua volta, pois viver em órbita por longos períodos é muito difícil.</li>
   </VGE_SalvagerStronghold.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Salvager stronghold</li>
   -->
   <VGE_SalvagerStronghold.questNameRules.rulesStrings>
-    <li>questName->fortaleza de salvadores</li>
+    <li>questName->fortaleza de sucateiros</li>
   </VGE_SalvagerStronghold.questNameRules.rulesStrings>
 
 </LanguageData>

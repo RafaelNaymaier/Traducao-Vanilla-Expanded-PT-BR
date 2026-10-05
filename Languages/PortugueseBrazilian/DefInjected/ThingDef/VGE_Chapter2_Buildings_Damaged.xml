@@ -44,7 +44,7 @@
   <!-- EN: destroyed flight computer -->
   <VGE_DestroyedFlightComputer.label>Computador de voo destruído</VGE_DestroyedFlightComputer.label>
   <!-- EN: A completely destroyed computational unit that used to optimize gravdata collection. Can be disassembled to yield whatever components it has left. -->
-  <VGE_DestroyedFlightComputer.description>Uma unidade computacional completamente destruída, usada para otimizar a coleta de gravdados. Pode ser desmontada para recuperar os componentes restantes.</VGE_DestroyedFlightComputer.description>
+  <VGE_DestroyedFlightComputer.description>Uma unidade computacional completamente destruída, usada para otimizar a coleta de gravidados. Pode ser desmontada para recuperar os componentes restantes.</VGE_DestroyedFlightComputer.description>
 
   <!-- EN: destroyed astrofuel optimizer -->
   <VGE_DestroyedFuelOptimizer.label>Otimizador de astrocombustível destruído</VGE_DestroyedFuelOptimizer.label>
@@ -84,7 +84,7 @@
   <!-- EN: destroyed gravship engine -->
   <VGE_DestroyedGravEngine.label>Motor gravitacional destruído</VGE_DestroyedGravEngine.label>
   <!-- EN: The collapsed remains of a gravship engine, no longer capable of lifting the vessel. It seems the gravity field collapse did not result in any detonation, so it can still be salvaged for a valuable gravcore. -->
-  <VGE_DestroyedGravEngine.description>Os restos colapsados de um motor gravitacional, incapaz de erguer a nave. Ao que parece, o colapso do campo gravitacional não causou uma detonação; ainda é possível recuperar um gravinúcleo valioso.</VGE_DestroyedGravEngine.description>
+  <VGE_DestroyedGravEngine.description>Os restos colapsados de um motor gravitacional, incapaz de erguer a gravinave. Ao que parece, o colapso do campo gravitacional não causou uma detonação; ainda é possível recuperar um gravinúcleo valioso.</VGE_DestroyedGravEngine.description>
   <!-- EN: Contains: Gravcore -->
   <VGE_DestroyedGravEngine.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_DestroyedGravEngine.comps.CompInspectString.inspectString>
 
@@ -99,9 +99,9 @@
   <VGE_DestroyedGravheatAbsorber.description>Um dissipador térmico especializado, deformado, chamuscado e inoperante, usado para resfriar instantaneamente um motor gravitacional. Agora é inútil devido aos sistemas internos derretidos e à blindagem rachada. Ainda é possível recuperar seu revestimento de metal exótico e seus componentes.</VGE_DestroyedGravheatAbsorber.description>
 
   <!-- EN: destroyed gravhulk engine -->
-  <VGE_DestroyedGravhulkEngine.label>Motor de gravhulk destruído</VGE_DestroyedGravhulkEngine.label>
+  <VGE_DestroyedGravhulkEngine.label>Motor de gravicolosso destruído</VGE_DestroyedGravhulkEngine.label>
   <!-- EN: The huge, destroyed wreck of a gravhulk engine, no longer operational. It seems the gravity field collapse did not result in any detonation, so it can still be salvaged for a valuable gravcore. -->
-  <VGE_DestroyedGravhulkEngine.description>Os enormes destroços de um motor de gravhulk, sem qualquer funcionamento. Ao que parece, o colapso do campo gravitacional não causou uma detonação; ainda é possível recuperar um gravinúcleo valioso.</VGE_DestroyedGravhulkEngine.description>
+  <VGE_DestroyedGravhulkEngine.description>Os enormes destroços de um motor de gravicolosso, sem qualquer funcionamento. Ao que parece, o colapso do campo gravitacional não causou uma detonação; ainda é possível recuperar um gravinúcleo valioso.</VGE_DestroyedGravhulkEngine.description>
   <!-- EN: Contains: Gravcore -->
   <VGE_DestroyedGravhulkEngine.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_DestroyedGravhulkEngine.comps.CompInspectString.inspectString>
 
@@ -132,7 +132,7 @@
   <!-- EN: destroyed gravtech console -->
   <VGE_DestroyedGravtechConsole.label>Console de gravtecnologia destruído</VGE_DestroyedGravtechConsole.label>
   <!-- EN: An interface used to analyze gravdata, now shattered and useless. The screens are dark and cracked, and the delicate gravdata analysis components are twisted and inoperable. It is nothing more than salvage now. -->
-  <VGE_DestroyedGravtechConsole.description>Uma interface usada para analisar gravdados, agora destruída e inutilizada. As telas estão apagadas e rachadas, e os delicados componentes de análise de gravdados estão retorcidos e inoperantes. Agora não passa de sucata.</VGE_DestroyedGravtechConsole.description>
+  <VGE_DestroyedGravtechConsole.description>Uma interface usada para analisar gravidados, agora destruída e inutilizada. As telas estão apagadas e rachadas, e os delicados componentes de análise de gravidados estão retorcidos e inoperantes. Agora não passa de sucata.</VGE_DestroyedGravtechConsole.description>
 
   <!-- EN: destroyed gunner subpersona core -->
   <VGE_DestroyedGunnerSubpersonaCore.label>Núcleo de subpersona do artilheiro destruído</VGE_DestroyedGunnerSubpersonaCore.label>
@@ -192,7 +192,7 @@
   <!-- EN: destroyed pilot bridge -->
   <VGE_DestroyedPilotBridge.label>Ponte de pilotagem destruída</VGE_DestroyedPilotBridge.label>
   <!-- EN: The remains of a gravhulk's control interface, shattered and useless for piloting, but still containing salvageable scrap metal. -->
-  <VGE_DestroyedPilotBridge.description>Os restos da interface de controle de uma gravhulk, destruída e inútil para pilotagem, mas ainda contendo sucata metálica recuperável.</VGE_DestroyedPilotBridge.description>
+  <VGE_DestroyedPilotBridge.description>Os restos da interface de controle de um gravicolosso, destruída e inútil para pilotagem, mas ainda contendo sucata metálica recuperável.</VGE_DestroyedPilotBridge.description>
 
   <!-- EN: destroyed pilot cockpit -->
   <VGE_DestroyedPilotCockpit.label>Cockpit do piloto destruído</VGE_DestroyedPilotCockpit.label>

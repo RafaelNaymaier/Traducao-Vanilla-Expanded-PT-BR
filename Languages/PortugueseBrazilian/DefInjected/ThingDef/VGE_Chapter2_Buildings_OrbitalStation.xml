@@ -9,29 +9,29 @@
   <!-- EN: glowstick pile -->
   <VGE_GlowstickPile_Blue.label>pilha de bastões luminosos</VGE_GlowstickPile_Blue.label>
   <!-- EN: A jumbled heap of glowsticks still spilling a soft, ethereal luminescence across the floor. -->
-  <VGE_GlowstickPile_Blue.description>Um amontoado confuso de bastões luminosos ainda derramando uma suave luminescência etérea pelo chão.</VGE_GlowstickPile_Blue.description>
+  <VGE_GlowstickPile_Blue.description>Um amontoado desordenado de bastões luminosos que ainda espalham uma luz suave e etérea pelo chão.</VGE_GlowstickPile_Blue.description>
 
   <!-- EN: glowstick pile -->
   <VGE_GlowstickPile_Green.label>pilha de bastões luminosos</VGE_GlowstickPile_Green.label>
   <!-- EN: A jumbled heap of glowsticks still spilling a soft, ethereal luminescence across the floor. -->
-  <VGE_GlowstickPile_Green.description>Um amontoado confuso de bastões luminosos ainda derramando uma suave luminescência etérea pelo chão.</VGE_GlowstickPile_Green.description>
+  <VGE_GlowstickPile_Green.description>Um amontoado desordenado de bastões luminosos que ainda espalham uma luz suave e etérea pelo chão.</VGE_GlowstickPile_Green.description>
 
   <!-- EN: glowstick pile -->
   <VGE_GlowstickPile_Orange.label>pilha de bastões luminosos</VGE_GlowstickPile_Orange.label>
   <!-- EN: A jumbled heap of glowsticks still spilling a soft, ethereal luminescence across the floor. -->
-  <VGE_GlowstickPile_Orange.description>Um amontoado confuso de bastões luminosos ainda derramando uma suave luminescência etérea pelo chão.</VGE_GlowstickPile_Orange.description>
+  <VGE_GlowstickPile_Orange.description>Um amontoado desordenado de bastões luminosos que ainda espalham uma luz suave e etérea pelo chão.</VGE_GlowstickPile_Orange.description>
 
   <!-- EN: infested gravlock tether -->
-  <VGE_InfestedGravlockTether.label>liga de gravlock infestada</VGE_InfestedGravlockTether.label>
+  <VGE_InfestedGravlockTether.label>cabo de gravitrava infestado</VGE_InfestedGravlockTether.label>
   <!-- EN: A corrupted gravlock tether that has been hollowed out and repurposed into a gigantic exoinsectoid hive. Integrated directly into the station's ventilation system, this pulsing structure continuously pumps larvae through the vents, spawning new insectoids that spread throughout the station.\n\nDestroy the infested gravlock tether to obtain a gravcore. -->
-  <VGE_InfestedGravlockTether.description>Um cabo de gravlock corrompido, escavado por dentro e reaproveitado como uma gigantesca colmeia de insetos extraterrestres. Integrada diretamente ao sistema de ventilação da estação, essa estrutura pulsante bombeia larvas continuamente pelos dutos, gerando novos insetos que se espalham por toda a estação.\n\nDestrua o cabo de gravlock infestado para obter um gravinúcleo.</VGE_InfestedGravlockTether.description>
+  <VGE_InfestedGravlockTether.description>Um cabo de gravitrava corrompido, escavado por dentro e reaproveitado como uma gigantesca colmeia de insetos extraterrestres. Integrada diretamente ao sistema de ventilação da estação, essa estrutura pulsante bombeia larvas continuamente pelos dutos, gerando novos insetos que se espalham por toda a estação.\n\nDestrua o cabo de gravitrava infestado para obter um gravinúcleo.</VGE_InfestedGravlockTether.description>
   <!-- EN: Contains: Gravcore -->
   <VGE_InfestedGravlockTether.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_InfestedGravlockTether.comps.CompInspectString.inspectString>
 
   <!-- EN: Infested gravlock tether -->
-  <VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.label>Cabo de gravlock infestado</VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.label>
+  <VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.label>Cabo de gravitrava infestado</VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.label>
   <!-- EN: You detect the heavy signs of the exoinsectoid mega-hive nearby. The infested gravlock tether must be destroyed to yield valuable gravcore and stop the ongoing infestation. -->
-  <VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.text>Você detecta fortes indícios da megacolmeia de insetos extraterrestres nas proximidades. O cabo de gravlock infestado precisa ser destruído para obter um valioso gravinúcleo e interromper a infestação.</VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.text>
+  <VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.text>Você detecta fortes indícios da megacolmeia de insetos extraterrestres nas proximidades. O cabo de gravitrava infestado precisa ser destruído para obter um valioso gravinúcleo e interromper a infestação.</VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.text>
 
   <!-- EN: infested vent -->
   <VGE_InfestedVent.label>duto infestado</VGE_InfestedVent.label>
@@ -44,37 +44,37 @@
   <VGE_OrbitalPirateFortifiedWall.description>Uma parede reforçada feita de um polímero ultratecnológico e remendada com o que os salvadores conseguiram encontrar.</VGE_OrbitalPirateFortifiedWall.description>
 
   <!-- EN: salvager dropship -->
-  <VGE_SalvagerDropship.label>nave de salvamento</VGE_SalvagerDropship.label>
+  <VGE_SalvagerDropship.label>nave dos catadores de sucata</VGE_SalvagerDropship.label>
   <!-- EN: A chemfuel-powered heavily armored dropship equipped with rocketswarm launchers. Designed for carpet bombing and incursions into enemy territory. This particular dropship seems to belong to salvagers. -->
-  <VGE_SalvagerDropship.description>Uma nave de desembarque blindada e alimentada por combustível químico, equipada com lançadores de enxame de foguetes. Projetada para bombardeio em área e incursões em território inimigo. Esta nave em particular parece pertencer a salvadores.</VGE_SalvagerDropship.description>
+  <VGE_SalvagerDropship.description>Uma nave de desembarque blindada e alimentada por combustível químico, equipada com lançadores de enxame de foguetes. Projetada para bombardeio em área e incursões em território inimigo. Esta nave em particular parece pertencer a catadores de sucata.</VGE_SalvagerDropship.description>
 
   <!-- EN: spacer component box -->
-  <VGE_SpacerBox_ComponentIndustrial.label>caixa de componentes de espaço</VGE_SpacerBox_ComponentIndustrial.label>
+  <VGE_SpacerBox_ComponentIndustrial.label>caixa espacial de componentes</VGE_SpacerBox_ComponentIndustrial.label>
   <!-- EN: A spacer logistical box filled with valuable components. They’re intact and very usable. -->
-  <VGE_SpacerBox_ComponentIndustrial.description>Uma caixa logística de espaço cheia de componentes valiosos. Eles estão intactos e muito úteis.</VGE_SpacerBox_ComponentIndustrial.description>
+  <VGE_SpacerBox_ComponentIndustrial.description>Uma caixa logística de tecnologia espacial cheia de componentes valiosos. Eles estão intactos e muito úteis.</VGE_SpacerBox_ComponentIndustrial.description>
 
   <!-- EN: spacer electronics box -->
-  <VGE_SpacerBox_ComponentSpacer.label>caixa de eletrônicos de espaço</VGE_SpacerBox_ComponentSpacer.label>
+  <VGE_SpacerBox_ComponentSpacer.label>caixa espacial de eletrônicos</VGE_SpacerBox_ComponentSpacer.label>
   <!-- EN: A spacer logistical box filled with electronics and advanced components. Everything seems to work fine. -->
-  <VGE_SpacerBox_ComponentSpacer.description>Uma caixa logística de espaço cheia de eletrônicos e componentes avançados. Tudo parece funcionar bem.</VGE_SpacerBox_ComponentSpacer.description>
+  <VGE_SpacerBox_ComponentSpacer.description>Uma caixa logística de tecnologia espacial cheia de eletrônicos e componentes avançados. Tudo parece funcionar bem.</VGE_SpacerBox_ComponentSpacer.description>
 
   <!-- EN: spacer gravlite box -->
-  <VGE_SpacerBox_Gravlite.label>caixa de gravilita de espaço</VGE_SpacerBox_Gravlite.label>
+  <VGE_SpacerBox_Gravlite.label>caixa espacial de gravilita</VGE_SpacerBox_Gravlite.label>
   <!-- EN: A spacer logistical box filled with gravlite panel chunks. While most of it seems like gravlite waste, some chunks appear intact. -->
-  <VGE_SpacerBox_Gravlite.description>Uma caixa logística de espaço cheia de pedaços de painel gravilita. Embora a maior parte pareça ser resíduo de gravilita, alguns pedaços parecem intactos.</VGE_SpacerBox_Gravlite.description>
+  <VGE_SpacerBox_Gravlite.description>Uma caixa logística de tecnologia espacial cheia de pedaços de painéis de gravilita. Embora a maior parte pareça ser resíduo de gravilita, alguns pedaços parecem intactos.</VGE_SpacerBox_Gravlite.description>
 
   <!-- EN: spacer steel box -->
-  <VGE_SpacerBox_Steel.label>caixa de aço de espaço</VGE_SpacerBox_Steel.label>
+  <VGE_SpacerBox_Steel.label>caixa espacial de aço</VGE_SpacerBox_Steel.label>
   <!-- EN: A spacer logistical box filled with steel scrap. It's heavy but might contain some recoverable metal. -->
-  <VGE_SpacerBox_Steel.description>Uma caixa logística de espaço cheia de sucata de aço. É pesada, mas pode conter algum metal recuperável.</VGE_SpacerBox_Steel.description>
+  <VGE_SpacerBox_Steel.description>Uma caixa logística de tecnologia espacial cheia de sucata de aço. É pesada, mas pode conter algum metal recuperável.</VGE_SpacerBox_Steel.description>
 
   <!-- EN: spacer medicine pallet -->
-  <VGE_SpacerPallet_Medicine.label>palete de medicina de espaço</VGE_SpacerPallet_Medicine.label>
+  <VGE_SpacerPallet_Medicine.label>palete espacial de medicamentos</VGE_SpacerPallet_Medicine.label>
   <!-- EN: A pallet containing medical supplies. Can be looted to yield medicine. -->
   <VGE_SpacerPallet_Medicine.description>Uma palete contendo suprimentos médicos. Pode ser saqueada para render medicina.</VGE_SpacerPallet_Medicine.description>
 
   <!-- EN: spacer rations pallet -->
-  <VGE_SpacerPallet_SurvivalMeals.label>palete de rações de espaço</VGE_SpacerPallet_SurvivalMeals.label>
+  <VGE_SpacerPallet_SurvivalMeals.label>palete espacial de rações</VGE_SpacerPallet_SurvivalMeals.label>
   <!-- EN: A pallet containing stacked rations. Can be looted to yield survival meals. -->
   <VGE_SpacerPallet_SurvivalMeals.description>Uma palete contendo rações empilhadas. Pode ser saqueada para render refeições de sobrevivência.</VGE_SpacerPallet_SurvivalMeals.description>
 
@@ -111,7 +111,7 @@
   <!-- EN: locked shuttle -->
   <VGE2_LockedShuttle.label>Nave de transporte bloqueada</VGE2_LockedShuttle.label>
   <!-- EN: A chemfuel-powered shuttle designed for long-distance travel, typically utilized by the trading guild. Heavy magnetic clamps prevent it from being operated without authorization, but it can still be deconstructed to obtain the shuttle engine. -->
-  <VGE2_LockedShuttle.description>Uma nave de transporte movida a combustível químico, projetada para viagens de longa distância e normalmente usada pela guilda comercial. Grampos magnéticos pesados impedem sua operação sem autorização, mas ela ainda pode ser desmontada para obter o motor da nave.</VGE2_LockedShuttle.description>
+  <VGE2_LockedShuttle.description>Uma nave de transporte movida a Combustível químico, projetada para viagens de longa distância e normalmente usada pela guilda comercial. Grampos magnéticos pesados impedem sua operação sem autorização, mas ela ainda pode ser desmontada para obter o motor da nave.</VGE2_LockedShuttle.description>
 
   <!-- EN: nav beacon -->
   <VGE2_NavBeacon.label>baliza de navegação</VGE2_NavBeacon.label>

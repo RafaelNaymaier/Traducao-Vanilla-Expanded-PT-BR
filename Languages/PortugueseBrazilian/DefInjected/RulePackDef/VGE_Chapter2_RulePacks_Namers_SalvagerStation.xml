@@ -87,7 +87,7 @@
   <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings>
     <li>r_name(p=2)->[station_adjective] [station_noun]</li>
     <li>r_name(p=2)->tesouro de [subject]</li>
-    <li>r_name(p=1)->[station_noun] do [concept_badass]</li>
+    <li>r_name(p=1)->[station_noun] de [concept_badass]</li>
     <li>r_name(p=1)->[concept_badass] [station_noun]</li>
     <li>r_name(p=0.5)->[Color_Pirate] [station_noun]</li>
     <li>r_name(p=0.5)->[space_noun] [station_noun]</li>
@@ -96,30 +96,30 @@
     <li>subject(p=5)->[NamePerson]</li>
     <li>subject(p=1)->[AdjectiveBadass] [NamePerson]</li>
     <li>subject->[Color_Pirate] [NamePerson]</li>
-    <li>station_noun(p=3)->estação</li>
-    <li>station_noun(p=2)->base</li>
-    <li>station_noun(p=2)->posto</li>
+    <li>station_noun(p=3)->posto</li>
+    <li>station_noun(p=2)->bastião</li>
+    <li>station_noun(p=2)->posto avançado</li>
     <li>station_noun(p=2)->esconderijo</li>
     <li>station_noun->covil</li>
-    <li>station_noun->cova</li>
+    <li>station_noun->ancoradouro</li>
     <li>station_noun->porto</li>
     <li>station_noun->refúgio</li>
     <li>station_noun->ninho</li>
     <li>station_noun->nexo</li>
-    <li>station_noun->doca</li>
-    <li>station_noun->fortaleza</li>
+    <li>station_noun->cais</li>
+    <li>station_noun->reduto</li>
     <li>station_noun->forte</li>
-    <li>station_noun->rocha</li>
-    <li>station_noun->tortuga</li>
+    <li>station_noun->rochedo</li>
+    <li>station_noun->porto de Tortuga</li>
     <li>station_adjective(p=2)->sangrento</li>
     <li>station_adjective(p=2)->esfacelado</li>
     <li>station_adjective->preto</li>
     <li>station_adjective->oculto</li>
     <li>station_adjective->amaldiçoado</li>
     <li>station_adjective->enferrujado</li>
-    <li>station_adjective->ferro</li>
-    <li>station_adjective->sucata</li>
-    <li>station_adjective->ladino</li>
+    <li>station_adjective->metálico</li>
+    <li>station_adjective->sucateiro</li>
+    <li>station_adjective->renegado</li>
     <li>station_adjective->morto</li>
     <li>station_adjective->abandonado</li>
     <li>station_adjective->carmesim</li>
@@ -154,18 +154,18 @@
     <li>space_noun->cometa</li>
     <li>space_noun->órbita</li>
     <li>space_noun->nebulosa</li>
-    <li>space_noun->asteróide</li>
+    <li>space_noun->asteroide</li>
     <li>space_noun->meteoro</li>
     <li>space_noun->lua</li>
     <li>space_noun->abismo</li>
     <li>Color_Pirate->preto</li>
     <li>Color_Pirate->carmesim</li>
     <li>Color_Pirate->vermelho</li>
-    <li>Color_Pirate->obsidiana</li>
-    <li>Color_Pirate->ferrugem</li>
-    <li>Color_Pirate->sangue</li>
-    <li>Color_Pirate->ferro</li>
-    <li>Color_Pirate->prata</li>
+    <li>Color_Pirate->obsidiano</li>
+    <li>Color_Pirate->enferrujado</li>
+    <li>Color_Pirate->vermelho-sangue</li>
+    <li>Color_Pirate->metálico</li>
+    <li>Color_Pirate->prateado</li>
   </VGE_NamerPirateOrbitalStation.rulePack.rulesStrings>
 
 </LanguageData>
