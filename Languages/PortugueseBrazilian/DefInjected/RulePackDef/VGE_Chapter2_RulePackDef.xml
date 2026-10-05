@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>r_name(p=0.01)->The Crimson Eclipse</li>
+    <li>r_name(p=0.01)->Voidreaver</li>
+    <li>r_name(p=0.01)->The Obsidian Scourge</li>
+    <li>r_name(p=0.01)->Tartarus Bound</li>
+    <li>r_name(p=0.01)->Blood-Star Corsair</li>
+    <li>r_name(p=0.01)->Oskar's Pleasure Ship</li>
+    <li>r_name(p=0.01)-> Leviathan</li>
+    <li>r_name(p=0.01)->Voidcaller</li>
+    <li>r_name(p=0.01)->The Mach Wolf</li>
+    <li>r_name(p=0.01)->Xenorphica</li>
+    <li>r_name(p=0.01)->Hibiki</li>
+    <li>r_name(p=0.01)->Vesper Starlight</li>
+    <li>r_name(p=0.01)->The Buru Maw</li>
+    <li>r_name(p=0.01)->Fourth Bridge</li>
+    <li>r_name(p=0.01)->Shield of Justice</li>
+    <li>r_name(p=0.01)->The Wolven Storm</li>
+    <li>r_name(p=2)->The [narrative_name]</li>
+    <li>r_name(p=1)->[narrative_name] [ship_word]</li>
+    <li>r_name(p=0.5)->[ship_prefix] [Color] [ship_word]</li>
+    <li>r_name(p=0.5)->[ship_prefix] [AdjectiveBadass] [ship_word]</li>
+    <li>r_name(p=0.5)->[ship_prefix] [AdjectiveBadass] [bird]</li>
+    <li>r_name(p=0.5)->[ship_prefix] [flying_adjective] [AnimalBadass]</li>
+    <li>r_name(p=0.5)->[storyname]</li>
+    <li>r_name(p=0.2)->[Color] [greekmyth_noun]</li>
+    <li>r_name(p=0.2)->[ship_prefix] [greekmyth_noun]</li>
+    <li>r_name(p=1.5)->The [pirate_adjective] [ship_word]</li>
+    <li>r_name(p=1)->[subject]'s [pirate_concept]</li>
+    <li>r_name(p=1)->[pirate_concept] [ship_word]</li>
+    <li>r_name(p=0.5)->[pirate_adjective] [bird]</li>
+    <li>ship_prefix(p=2)->the</li>
+    <li>ship_prefix(p=2)-></li>
+    <li>narrative_name->[AdjectiveNatural] [thing_badass]</li>
+    <li>narrative_name->[AdjectiveLarge] [thing_badass]</li>
+    <li>narrative_name->[Direction] [thing_badass]</li>
+    <li>narrative_name->[thing_badass]</li>
+    <li>narrative_name(p=2)->[pirate_adjective] [thing_badass]</li>
+    <li>thing_badass->[AnimalBadass]</li>
+    <li>thing_badass->[AnimalBadass]-hunter</li>
+    <li>thing_badass->triumph</li>
+    <li>thing_badass->victory</li>
+    <li>thing_badass->revenge</li>
+    <li>thing_badass->agony</li>
+    <li>thing_badass->torment</li>
+    <li>thing_badass->vengeance</li>
+    <li>thing_badass->anguish</li>
+    <li>thing_badass->misery</li>
+    <li>thing_badass->tyranny</li>
+    <li>thing_badass->terror</li>
+    <li>thing_badass->chaos</li>
+    <li>thing_badass->anarchy</li>
+    <li>thing_badass->plunder</li>
+    <li>thing_badass->mutiny</li>
+    <li>thing_badass->ruin</li>
+    <li>thing_badass->malice</li>
+    <li>thing_badass->scum</li>
+    <li>thing_badass->skull</li>
+    <li>storyname(p=50)->[subject]'s [story_result]</li>
+    <li>storyname(p=2)->[subject]'s [BodyPart]</li>
+    <li>storyname->[subject]'s [Gore]</li>
+    <li>subject(p=5)->[NamePerson]</li>
+    <li>subject->[Animal]</li>
+    <li>subject->[WordTribal]</li>
+    <li>subject->[PlaceOutlander]</li>
+    <li>story_result->joy</li>
+    <li>story_result->delight</li>
+    <li>story_result->wonder</li>
+    <li>story_result->pride</li>
+    <li>story_result->jewel</li>
+    <li>story_result->prize</li>
+    <li>story_result->bounty</li>
+    <li>story_result->honor</li>
+    <li>story_result->jackpot</li>
+    <li>story_result->trophy</li>
+    <li>story_result->destruction</li>
+    <li>story_result->cataclysm</li>
+    <li>story_result->ruin</li>
+    <li>story_result->deception</li>
+    <li>story_result->facade</li>
+    <li>story_result->fraud</li>
+    <li>story_result->curse</li>
+    <li>story_result->doom</li>
+    <li>story_result->demise</li>
+    <li>story_result->greed</li>
+    <li>story_result->folly</li>
+    <li>story_result->hoard</li>
+    <li>greekmyth_noun->odyssey</li>
+    <li>greekmyth_noun->odysseus</li>
+    <li>greekmyth_noun->penelope</li>
+    <li>greekmyth_noun->telemachus</li>
+    <li>greekmyth_noun->athena</li>
+    <li>greekmyth_noun->poseidon</li>
+    <li>greekmyth_noun->scylla</li>
+    <li>greekmyth_noun->hermes</li>
+    <li>greekmyth_noun->argonaut</li>
+    <li>greekmyth_noun->helios</li>
+    <li>greekmyth_noun->achilles</li>
+    <li>greekmyth_noun->siren</li>
+    <li>greekmyth_noun->cyclops</li>
+    <li>greekmyth_noun->medusa</li>
+    <li>greekmyth_noun->gorgon</li>
+    <li>greekmyth_noun->hades</li>
+    <li>greekmyth_noun->tartarus</li>
+    <li>greekmyth_noun->cerberus</li>
+    <li>greekmyth_noun->charon</li>
+    <li>bird->falcon</li>
+    <li>bird->eagle</li>
+    <li>bird->hawk</li>
+    <li>bird->kestrel</li>
+    <li>bird->vulture</li>
+    <li>bird->raven</li>
+    <li>bird->crow</li>
+    <li>bird->buzzard</li>
+    <li>flying_adjective(p=2)->flying</li>
+    <li>flying_adjective->airborne</li>
+    <li>flying_adjective->hovering</li>
+    <li>flying_adjective->winged</li>
+    <li>flying_adjective->falling</li>
+    <li>flying_adjective->soaring</li>
+    <li>ship_word(p=5)->ship</li>
+    <li>ship_word(p=5)->gravship</li>
+    <li>ship_word(p=2)->[AdjectiveNatural]ship</li>
+    <li>ship_word->warship</li>
+    <li>ship_word->frigate</li>
+    <li>ship_word->vessel</li>
+    <li>ship_word->shuttle</li>
+    <li>ship_word->cruiser</li>
+    <li>ship_word->transport</li>
+    <li>ship_word->galley</li>
+    <li>ship_word->galleon</li>
+    <li>ship_word->longship</li>
+    <li>ship_word->freighter</li>
+    <li>ship_word->junker</li>
+    <li>ship_word->trireme</li>
+    <li>ship_word->zephyr</li>
+    <li>ship_word(p=3)->raider</li>
+    <li>ship_word(p=3)->reaver</li>
+    <li>ship_word(p=2)->corsair</li>
+    <li>ship_word(p=2)->marauder</li>
+    <li>ship_word->dreadnought</li>
+    <li>ship_word->interceptor</li>
+    <li>ship_word->destroyer</li>
+    <li>pirate_adjective->bloody</li>
+    <li>pirate_adjective->black</li>
+    <li>pirate_adjective->cursed</li>
+    <li>pirate_adjective->rusted</li>
+    <li>pirate_adjective->crimson</li>
+    <li>pirate_adjective->rogue</li>
+    <li>pirate_adjective->iron</li>
+    <li>pirate_adjective->shattered</li>
+    <li>pirate_adjective->wicked</li>
+    <li>pirate_concept->mutiny</li>
+    <li>pirate_concept->plunder</li>
+    <li>pirate_concept->ransom</li>
+    <li>pirate_concept->treason</li>
+    <li>pirate_concept->scourge</li>
+  -->
+  <VGE_NamerEnemyGravship.rulePack.rulesStrings>
+    <li>r_name(p=0.01)-&gt;O Eclipse Carmesim</li>
+    <li>r_name(p=0.01)-&gt;Saqueador do Vazio</li>
+    <li>r_name(p=0.01)-&gt;O Flagelo de Obsidiana</li>
+    <li>r_name(p=0.01)-&gt;Rumo ao Tártaro</li>
+    <li>r_name(p=0.01)-&gt;Corsário da Estrela de Sangue</li>
+    <li>r_name(p=0.01)-&gt;Nave de Prazer de Oskar</li>
+    <li>r_name(p=0.01)-&gt;Leviatã</li>
+    <li>r_name(p=0.01)-&gt;Chamador do Vazio</li>
+    <li>r_name(p=0.01)-&gt;O Lobo de Mach</li>
+    <li>r_name(p=0.01)-&gt;Xenorfica</li>
+    <li>r_name(p=0.01)-&gt;Hibiki</li>
+    <li>r_name(p=0.01)-&gt;Estrela Vespertina</li>
+    <li>r_name(p=0.01)-&gt;A Mandíbula de Buru</li>
+    <li>r_name(p=0.01)-&gt;Quarta Ponte</li>
+    <li>r_name(p=0.01)-&gt;Escudo da Justiça</li>
+    <li>r_name(p=0.01)-&gt;A Tempestade Lupina</li>
+    <li>r_name(p=2)-&gt;[narrative_name]</li>
+    <li>r_name(p=1)-&gt;[narrative_name] [ship_word]</li>
+    <li>r_name(p=0.5)-&gt;[ship_prefix] [Color] [ship_word]</li>
+    <li>r_name(p=0.5)-&gt;[ship_prefix] [AdjectiveBadass] [ship_word]</li>
+    <li>r_name(p=0.5)-&gt;[ship_prefix] [AdjectiveBadass] [bird]</li>
+    <li>r_name(p=0.5)-&gt;[ship_prefix] [flying_adjective] [AnimalBadass]</li>
+    <li>r_name(p=0.5)-&gt;[storyname]</li>
+    <li>r_name(p=0.2)-&gt;[Color] [greekmyth_noun]</li>
+    <li>r_name(p=0.2)-&gt;[ship_prefix] [greekmyth_noun]</li>
+    <li>r_name(p=1.5)-&gt;[pirate_adjective] [ship_word]</li>
+    <li>r_name(p=1)-&gt;[pirate_concept] de [subject]</li>
+    <li>r_name(p=1)-&gt;[pirate_concept] [ship_word]</li>
+    <li>r_name(p=0.5)-&gt;[pirate_adjective] [bird]</li>
+    <li>ship_prefix(p=2)-&gt;</li>
+    <li>ship_prefix(p=2)-&gt;</li>
+    <li>narrative_name-&gt;[AdjectiveNatural] [thing_badass]</li>
+    <li>narrative_name-&gt;[AdjectiveLarge] [thing_badass]</li>
+    <li>narrative_name-&gt;[Direction] [thing_badass]</li>
+    <li>narrative_name-&gt;[thing_badass]</li>
+    <li>narrative_name(p=2)-&gt;[pirate_adjective] [thing_badass]</li>
+    <li>thing_badass-&gt;[AnimalBadass]</li>
+    <li>thing_badass-&gt;[AnimalBadass]-caçador</li>
+    <li>thing_badass-&gt;triunfo</li>
+    <li>thing_badass-&gt;vitória</li>
+    <li>thing_badass-&gt;vingança</li>
+    <li>thing_badass-&gt;agonia</li>
+    <li>thing_badass-&gt;tormento</li>
+    <li>thing_badass-&gt;retaliação</li>
+    <li>thing_badass-&gt;angústia</li>
+    <li>thing_badass-&gt;miséria</li>
+    <li>thing_badass-&gt;tirania</li>
+    <li>thing_badass-&gt;terror</li>
+    <li>thing_badass-&gt;caos</li>
+    <li>thing_badass-&gt;anarquia</li>
+    <li>thing_badass-&gt;saque</li>
+    <li>thing_badass-&gt;motim</li>
+    <li>thing_badass-&gt;ruína</li>
+    <li>thing_badass-&gt;malícia</li>
+    <li>thing_badass-&gt;escória</li>
+    <li>thing_badass-&gt;caveira</li>
+    <li>storyname(p=50)-&gt;[story_result] de [subject]</li>
+    <li>storyname(p=2)-&gt;[BodyPart] de [subject]</li>
+    <li>storyname-&gt;[Gore] de [subject]</li>
+    <li>subject(p=5)-&gt;[NamePerson]</li>
+    <li>subject-&gt;[Animal]</li>
+    <li>subject-&gt;[WordTribal]</li>
+    <li>subject-&gt;[PlaceOutlander]</li>
+    <li>story_result-&gt;alegria</li>
+    <li>story_result-&gt;deleite</li>
+    <li>story_result-&gt;maravilha</li>
+    <li>story_result-&gt;orgulho</li>
+    <li>story_result-&gt;joia</li>
+    <li>story_result-&gt;prêmio</li>
+    <li>story_result-&gt;recompensa</li>
+    <li>story_result-&gt;honra</li>
+    <li>story_result-&gt;grande prêmio</li>
+    <li>story_result-&gt;troféu</li>
+    <li>story_result-&gt;destruição</li>
+    <li>story_result-&gt;cataclismo</li>
+    <li>story_result-&gt;ruína</li>
+    <li>story_result-&gt;engano</li>
+    <li>story_result-&gt;fachada</li>
+    <li>story_result-&gt;fraude</li>
+    <li>story_result-&gt;maldição</li>
+    <li>story_result-&gt;perdição</li>
+    <li>story_result-&gt;fim</li>
+    <li>story_result-&gt;ganância</li>
+    <li>story_result-&gt;tolice</li>
+    <li>story_result-&gt;tesouro</li>
+    <li>greekmyth_noun-&gt;Odisseia</li>
+    <li>greekmyth_noun-&gt;Odisseu</li>
+    <li>greekmyth_noun-&gt;Penélope</li>
+    <li>greekmyth_noun-&gt;Telêmaco</li>
+    <li>greekmyth_noun-&gt;Atena</li>
+    <li>greekmyth_noun-&gt;Poseidon</li>
+    <li>greekmyth_noun-&gt;Cila</li>
+    <li>greekmyth_noun-&gt;Hermes</li>
+    <li>greekmyth_noun-&gt;Argonauta</li>
+    <li>greekmyth_noun-&gt;Hélio</li>
+    <li>greekmyth_noun-&gt;Aquiles</li>
+    <li>greekmyth_noun-&gt;sereia</li>
+    <li>greekmyth_noun-&gt;ciclope</li>
+    <li>greekmyth_noun-&gt;Medusa</li>
+    <li>greekmyth_noun-&gt;Górgona</li>
+    <li>greekmyth_noun-&gt;Hades</li>
+    <li>greekmyth_noun-&gt;Tártaro</li>
+    <li>greekmyth_noun-&gt;Cérbero</li>
+    <li>greekmyth_noun-&gt;Caronte</li>
+    <li>bird-&gt;falcão</li>
+    <li>bird-&gt;águia</li>
+    <li>bird-&gt;gavião</li>
+    <li>bird-&gt;quiriquiri</li>
+    <li>bird-&gt;abutre</li>
+    <li>bird-&gt;corvo</li>
+    <li>bird-&gt;gralha</li>
+    <li>bird-&gt;carcará</li>
+    <li>flying_adjective(p=2)-&gt;voador</li>
+    <li>flying_adjective-&gt;em voo</li>
+    <li>flying_adjective-&gt;pairando</li>
+    <li>flying_adjective-&gt;alado</li>
+    <li>flying_adjective-&gt;em queda</li>
+    <li>flying_adjective-&gt;planando</li>
+    <li>ship_word(p=5)-&gt;navio</li>
+    <li>ship_word(p=5)-&gt;gravinave</li>
+    <li>ship_word(p=2)-&gt;[AdjectiveNatural] nave</li>
+    <li>ship_word-&gt;navio de guerra</li>
+    <li>ship_word-&gt;fragata</li>
+    <li>ship_word-&gt;nave</li>
+    <li>ship_word-&gt;nave auxiliar</li>
+    <li>ship_word-&gt;cruzador</li>
+    <li>ship_word-&gt;transporte</li>
+    <li>ship_word-&gt;galera</li>
+    <li>ship_word-&gt;galeão</li>
+    <li>ship_word-&gt;dracar</li>
+    <li>ship_word-&gt;cargueiro</li>
+    <li>ship_word-&gt;sucata</li>
+    <li>ship_word-&gt;trirreme</li>
+    <li>ship_word-&gt;Zéfiro</li>
+    <li>ship_word(p=3)-&gt;invasor</li>
+    <li>ship_word(p=3)-&gt;saqueador</li>
+    <li>ship_word(p=2)-&gt;corsário</li>
+    <li>ship_word(p=2)-&gt;saqueador</li>
+    <li>ship_word-&gt;encouraçado</li>
+    <li>ship_word-&gt;interceptador</li>
+    <li>ship_word-&gt;destróier</li>
+    <li>pirate_adjective-&gt;sangrento</li>
+    <li>pirate_adjective-&gt;negro</li>
+    <li>pirate_adjective-&gt;amaldiçoado</li>
+    <li>pirate_adjective-&gt;enferrujado</li>
+    <li>pirate_adjective-&gt;carmesim</li>
+    <li>pirate_adjective-&gt;renegado</li>
+    <li>pirate_adjective-&gt;de ferro</li>
+    <li>pirate_adjective-&gt;estilhaçado</li>
+    <li>pirate_adjective-&gt;perverso</li>
+    <li>pirate_concept-&gt;motim</li>
+    <li>pirate_concept-&gt;saque</li>
+    <li>pirate_concept-&gt;resgate</li>
+    <li>pirate_concept-&gt;traição</li>
+    <li>pirate_concept-&gt;flagelo</li>
+  </VGE_NamerEnemyGravship.rulePack.rulesStrings>
+  <!-- EN:
+    <li>r_name(p=2)->The [station_adjective] [station_noun]</li>
+    <li>r_name(p=2)->[subject]'s [pirate_treasure]</li>
+    <li>r_name(p=1)->The [concept_badass] [station_noun]</li>
+    <li>r_name(p=1)->[station_noun] of [concept_badass]</li>
+    <li>r_name(p=0.5)->[Color_Pirate] [station_noun]</li>
+    <li>r_name(p=0.5)->[space_noun] [station_noun]</li>
+    <li>r_name(p=0.5)->[concept_badass] [space_noun]</li>
+    <li>r_name(p=0.2)->[station_adjective] [concept_badass]</li>
+    <li>subject(p=5)->[NamePerson]</li>
+    <li>subject(p=1)->[AdjectiveBadass] [NamePerson]</li>
+    <li>subject->[Color_Pirate] [NamePerson]</li>
+    <li>station_noun(p=3)->station</li>
+    <li>station_noun(p=2)->base</li>
+    <li>station_noun(p=2)->outpost</li>
+    <li>station_noun(p=2)->hideout</li>
+    <li>station_noun->den</li>
+    <li>station_noun->cove</li>
+    <li>station_noun->port</li>
+    <li>station_noun->haven</li>
+    <li>station_noun->roost</li>
+    <li>station_noun->nexus</li>
+    <li>station_noun->dock</li>
+    <li>station_noun->stronghold</li>
+    <li>station_noun->fortress</li>
+    <li>station_noun->rock</li>
+    <li>station_noun->tortuga</li>
+    <li>station_adjective(p=2)->bloody</li>
+    <li>station_adjective(p=2)->shattered</li>
+    <li>station_adjective->black</li>
+    <li>station_adjective->hidden</li>
+    <li>station_adjective->cursed</li>
+    <li>station_adjective->rusted</li>
+    <li>station_adjective->iron</li>
+    <li>station_adjective->scrap</li>
+    <li>station_adjective->rogue</li>
+    <li>station_adjective->dead</li>
+    <li>station_adjective->forsaken</li>
+    <li>station_adjective->crimson</li>
+    <li>concept_badass->plunder</li>
+    <li>concept_badass->mutiny</li>
+    <li>concept_badass->ruin</li>
+    <li>concept_badass->malice</li>
+    <li>concept_badass->greed</li>
+    <li>concept_badass->treason</li>
+    <li>concept_badass->terror</li>
+    <li>concept_badass->vengeance</li>
+    <li>concept_badass->shadow</li>
+    <li>concept_badass->chaos</li>
+    <li>concept_badass->blood</li>
+    <li>concept_badass->agony</li>
+    <li>concept_badass->scum</li>
+    <li>concept_badass->skull</li>
+    <li>pirate_treasure(p=2)->hoard</li>
+    <li>pirate_treasure(p=2)->stash</li>
+    <li>pirate_treasure(p=2)->fortune</li>
+    <li>pirate_treasure->folly</li>
+    <li>pirate_treasure->bounty</li>
+    <li>pirate_treasure->claim</li>
+    <li>pirate_treasure->demise</li>
+    <li>pirate_treasure->gambit</li>
+    <li>pirate_treasure->rest</li>
+    <li>pirate_treasure->end</li>
+    <li>pirate_treasure->prize</li>
+    <li>pirate_treasure->haven</li>
+    <li>space_noun->star</li>
+    <li>space_noun->void</li>
+    <li>space_noun->comet</li>
+    <li>space_noun->orbit</li>
+    <li>space_noun->nebula</li>
+    <li>space_noun->asteroid</li>
+    <li>space_noun->meteor</li>
+    <li>space_noun->moon</li>
+    <li>space_noun->abyss</li>
+    <li>Color_Pirate->black</li>
+    <li>Color_Pirate->crimson</li>
+    <li>Color_Pirate->red</li>
+    <li>Color_Pirate->obsidian</li>
+    <li>Color_Pirate->rust</li>
+    <li>Color_Pirate->blood</li>
+    <li>Color_Pirate->iron</li>
+    <li>Color_Pirate->silver</li>
+  -->
+  <VGE_NamerPirateOrbitalStation.rulePack.rulesStrings>
+    <li>r_name(p=2)-&gt;[station_adjective] [station_noun]</li>
+    <li>r_name(p=2)-&gt;tesouro de [subject]</li>
+    <li>r_name(p=1)-&gt;[station_noun] de [concept_badass]</li>
+    <li>r_name(p=1)-&gt;[concept_badass] [station_noun]</li>
+    <li>r_name(p=0.5)-&gt;[Color_Pirate] [station_noun]</li>
+    <li>r_name(p=0.5)-&gt;[space_noun] [station_noun]</li>
+    <li>r_name(p=0.5)-&gt;[concept_badass] [space_noun]</li>
+    <li>r_name(p=0.2)-&gt;[station_adjective] [concept_badass]</li>
+    <li>subject(p=5)-&gt;[NamePerson]</li>
+    <li>subject(p=1)-&gt;[AdjectiveBadass] [NamePerson]</li>
+    <li>subject-&gt;[Color_Pirate] [NamePerson]</li>
+    <li>station_noun(p=3)-&gt;posto</li>
+    <li>station_noun(p=2)-&gt;bastião</li>
+    <li>station_noun(p=2)-&gt;posto avançado</li>
+    <li>station_noun(p=2)-&gt;esconderijo</li>
+    <li>station_noun-&gt;covil</li>
+    <li>station_noun-&gt;ancoradouro</li>
+    <li>station_noun-&gt;porto</li>
+    <li>station_noun-&gt;refúgio</li>
+    <li>station_noun-&gt;ninho</li>
+    <li>station_noun-&gt;nexo</li>
+    <li>station_noun-&gt;cais</li>
+    <li>station_noun-&gt;reduto</li>
+    <li>station_noun-&gt;forte</li>
+    <li>station_noun-&gt;rochedo</li>
+    <li>station_noun-&gt;porto de Tortuga</li>
+    <li>station_adjective(p=2)-&gt;sangrento</li>
+    <li>station_adjective(p=2)-&gt;esfacelado</li>
+    <li>station_adjective-&gt;preto</li>
+    <li>station_adjective-&gt;oculto</li>
+    <li>station_adjective-&gt;amaldiçoado</li>
+    <li>station_adjective-&gt;enferrujado</li>
+    <li>station_adjective-&gt;metálico</li>
+    <li>station_adjective-&gt;sucateiro</li>
+    <li>station_adjective-&gt;renegado</li>
+    <li>station_adjective-&gt;morto</li>
+    <li>station_adjective-&gt;abandonado</li>
+    <li>station_adjective-&gt;carmesim</li>
+    <li>concept_badass-&gt;saque</li>
+    <li>concept_badass-&gt;motim</li>
+    <li>concept_badass-&gt;ruína</li>
+    <li>concept_badass-&gt;malícia</li>
+    <li>concept_badass-&gt;ganância</li>
+    <li>concept_badass-&gt;traição</li>
+    <li>concept_badass-&gt;terror</li>
+    <li>concept_badass-&gt;vingança</li>
+    <li>concept_badass-&gt;sombra</li>
+    <li>concept_badass-&gt;caos</li>
+    <li>concept_badass-&gt;sangue</li>
+    <li>concept_badass-&gt;agonia</li>
+    <li>concept_badass-&gt;escória</li>
+    <li>concept_badass-&gt;crânio</li>
+    <li>pirate_treasure(p=2)-&gt;tesouro</li>
+    <li>pirate_treasure(p=2)-&gt;esconderijo</li>
+    <li>pirate_treasure(p=2)-&gt;fortuna</li>
+    <li>pirate_treasure-&gt;tolice</li>
+    <li>pirate_treasure-&gt;recompensa</li>
+    <li>pirate_treasure-&gt;reivindicação</li>
+    <li>pirate_treasure-&gt;queda</li>
+    <li>pirate_treasure-&gt;jogada</li>
+    <li>pirate_treasure-&gt;repouso</li>
+    <li>pirate_treasure-&gt;fim</li>
+    <li>pirate_treasure-&gt;prêmio</li>
+    <li>pirate_treasure-&gt;refúgio</li>
+    <li>space_noun-&gt;estrela</li>
+    <li>space_noun-&gt;vácuo</li>
+    <li>space_noun-&gt;cometa</li>
+    <li>space_noun-&gt;órbita</li>
+    <li>space_noun-&gt;nebulosa</li>
+    <li>space_noun-&gt;asteroide</li>
+    <li>space_noun-&gt;meteoro</li>
+    <li>space_noun-&gt;lua</li>
+    <li>space_noun-&gt;abismo</li>
+    <li>Color_Pirate-&gt;preto</li>
+    <li>Color_Pirate-&gt;carmesim</li>
+    <li>Color_Pirate-&gt;vermelho</li>
+    <li>Color_Pirate-&gt;obsidiano</li>
+    <li>Color_Pirate-&gt;enferrujado</li>
+    <li>Color_Pirate-&gt;vermelho-sangue</li>
+    <li>Color_Pirate-&gt;metálico</li>
+    <li>Color_Pirate-&gt;prateado</li>
+  </VGE_NamerPirateOrbitalStation.rulePack.rulesStrings>
+  <!-- EN:
+    <li>r_name->[prefix_adj] [prefix_noun]</li>
+    <li>prefix_adj->ancient</li>
+    <li>prefix_adj->derelict</li>
+    <li>prefix_adj->abandoned</li>
+    <li>prefix_adj->lost</li>
+    <li>prefix_adj->ruined</li>
+    <li>prefix_adj->broken</li>
+    <li>prefix_adj->shattered</li>
+    <li>prefix_noun->gravship</li>
+    <li>prefix_noun->husk</li>
+    <li>prefix_noun->wreckage</li>
+    <li>prefix_noun->remnant</li>
+  -->
+  <VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings>
+    <li>r_name(p=2)-&gt;[prefix_adj] [prefix_noun]</li>
+    <li>prefix_adj-&gt;antigo</li>
+    <li>prefix_adj-&gt;desativado</li>
+    <li>prefix_adj-&gt;abandonado</li>
+    <li>prefix_adj-&gt;perdido</li>
+    <li>prefix_adj-&gt;arruinado</li>
+    <li>prefix_adj-&gt;quebrado</li>
+    <li>prefix_adj-&gt;esfacelado</li>
+    <li>prefix_noun-&gt;gravinave</li>
+    <li>prefix_noun-&gt;casco</li>
+    <li>prefix_noun-&gt;destroço</li>
+    <li>prefix_noun-&gt;remanescente</li>
+  </VGE_NamerWorldObject_GravshipHusk.rulePack.rulesStrings>
+</LanguageData>

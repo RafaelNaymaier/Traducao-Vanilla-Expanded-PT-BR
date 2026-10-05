@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: gravship bombardment targeter -->
+  <VGE_GravshipBombardmentTargeter.label>marcador de bombardeio de gravinave</VGE_GravshipBombardmentTargeter.label>
+  <!-- EN: A compact targeting apparatus tuned to interface with gravship artillery systems. When activated, it designates a ground position and transmits firing coordinates to a linked gravship turret within range. The turret will automatically fire on the marked location. After a short cooldown, the targeter can be used again. -->
+  <VGE_GravshipBombardmentTargeter.description>Um aparelho de mira compacto ajustado para interagir com os sistemas de artilharia de uma gravinave. Quando ativado, designa uma posição no solo e transmite as coordenadas de disparo para uma torreta de gravinave conectada que esteja ao alcance. A torreta dispara automaticamente contra o local marcado. Após um curto período de espera, o marcador pode ser usado novamente.</VGE_GravshipBombardmentTargeter.description>
+  <!-- EN: gravship bombardment targeter -->
+  <VGE_GravshipBombardmentTargeter.verbs.Verb_BombardmentTargeter.label>marcador de bombardeio de gravinave</VGE_GravshipBombardmentTargeter.verbs.Verb_BombardmentTargeter.label>
+  <!-- EN: combat vacsuit -->
+  <VGE_Apparel_CombatVacsuit.label>traje de combate de vácuo</VGE_Apparel_CombatVacsuit.label>
+  <!-- EN: A heavy-duty suit of powered armor designed for combat in the vacuum of space. The multi-layered, reinforced plating offers superior protection against ballistic attacks compared to standard vacsuits. While neuro-memetic assistors partially mitigate the bulk, the suit still imposes a penalty on movement speed and manipulation, though less severe than the standard model. -->
+  <VGE_Apparel_CombatVacsuit.description>Um traje de armadura motorizada resistente, projetado para combate no vácuo do espaço. O revestimento reforçado em múltiplas camadas oferece proteção superior contra ataques balísticos em comparação com os trajes de vácuo padrão. Embora os auxiliares neuro-meméticos mitiguem parcialmente o peso, o traje ainda reduz a velocidade de movimento e a capacidade de manipulação, mas menos do que o modelo padrão.</VGE_Apparel_CombatVacsuit.description>
+  <!-- EN: combat vacsuit helmet -->
+  <VGE_Apparel_CombatVacsuitHelmet.label>capacete de traje de combate de vácuo</VGE_Apparel_CombatVacsuitHelmet.label>
+  <!-- EN: A heavy-duty, reinforced helmet for the combat vacsuit. It features layered plasteel-weave armor, a built-in status computer, and superior protection. Efficiently recycling oxygen, it permits extended vacuum operation, though periodic repressurization is required. -->
+  <VGE_Apparel_CombatVacsuitHelmet.description>Um capacete reforçado e resistente para o traje de combate de vácuo. Possui armadura de aço-plástico trançado em camadas, computador de status integrado e proteção superior. Ao reciclar oxigênio com eficiência, permite operar por períodos prolongados no vácuo, embora seja necessária uma repressurização periódica.</VGE_Apparel_CombatVacsuitHelmet.description>
+  <!-- EN: astrorig -->
+  <VGE_Apparel_Astrorig.label>astrorig</VGE_Apparel_Astrorig.label>
+  <!-- EN: A specialized personal movement pack designed for rapid traversal in zero-gravity environments. Utilizing a contained oxygen supply for controlled thrust, it allows for long-distance, high-speed jumps in space. The pack's design eliminates movement penalties on space terrain, though the amount of long range jumps is limited by the oxygen supply. -->
+  <VGE_Apparel_Astrorig.description>Um pacote pessoal de movimento especializado, projetado para travessia rápida em ambientes de gravidade zero. Utilizando um suprimento de oxigênio contido para impulso controlado, permite saltos de longa distância e alta velocidade no espaço. O design do pacote elimina penalidades de movimento em terreno espacial, embora a quantidade de saltos de longo alcance seja limitada pelo suprimento de oxigênio.</VGE_Apparel_Astrorig.description>
+  <!-- EN: oxygen u³ -->
+  <VGE_Apparel_Astrorig.comps.CompApparelOxygenProvider.chargeNoun>oxigênio u³</VGE_Apparel_Astrorig.comps.CompApparelOxygenProvider.chargeNoun>
+  <!-- EN: jump -->
+  <VGE_Apparel_Astrorig.comps.CompApparelVerbOwner_Oxygen.chargeNoun>salto</VGE_Apparel_Astrorig.comps.CompApparelVerbOwner_Oxygen.chargeNoun>
+  <!-- EN: jump -->
+  <VGE_Apparel_Astrorig.verbs.jump.label>salto</VGE_Apparel_Astrorig.verbs.jump.label>
+  <!-- EN: disposable oxygen pack -->
+  <VGE_Apparel_DisposableOxygenPack.label>pacote descartável de oxigênio</VGE_Apparel_DisposableOxygenPack.label>
+  <!-- EN: A single-use utility pack containing a supply of compressed oxygen. When worn with vacuum-sealed apparel, it provides full immunity to vacuum by supplying breathable air until depleted. Once spent or unequipped, the seal is compromised and the pack is destroyed. -->
+  <VGE_Apparel_DisposableOxygenPack.description>Um pacote utilitário de uso único contendo um suprimento de oxigênio comprimido. Quando usado com vestuário vedado ao vácuo, oferece imunidade total ao vácuo ao fornecer ar respirável até se esgotar. Depois de gasto ou removido, a vedação é comprometida e o pacote é destruído.</VGE_Apparel_DisposableOxygenPack.description>
+  <!-- EN: oxygen u³ -->
+  <VGE_Apparel_DisposableOxygenPack.comps.CompApparelOxygenProvider.chargeNoun>oxigênio u³</VGE_Apparel_DisposableOxygenPack.comps.CompApparelOxygenProvider.chargeNoun>
+  <!-- EN: auxiliary astrofuel tank -->
+  <VGE_AuxiliaryAstrofuelTank.label>tanque auxiliar de astrocombustível</VGE_AuxiliaryAstrofuelTank.label>
+  <!-- EN: A compact, low-volume astrofuel storage tank that supplies fuel for thrusters on a gravship. -->
+  <VGE_AuxiliaryAstrofuelTank.description>Um tanque compacto de armazenamento de astrocombustível de baixo volume que fornece combustível para propulsores em uma gravinave.</VGE_AuxiliaryAstrofuelTank.description>
+  <!-- EN: airlock door (2x1) -->
+  <VGE_Airlock2x1Door.label>porta de câmara de descompressão (2x1)</VGE_Airlock2x1Door.label>
+  <!-- EN: A specialized, heavily reinforced door that functions as a physical security barrier and an automated atmospheric seal. When powered, it ensures a rapid, safe transition between pressurized and vacuum areas by maintaining an atmospheric seal and managing pressure during operation. Colonists will not cross it without required vacuum resistance. -->
+  <VGE_Airlock2x1Door.description>Uma porta especializada e reforçada que funciona como barreira de segurança física e vedação atmosférica automatizada. Quando energizada, garante uma transição rápida e segura entre áreas pressurizadas e de vácuo, mantendo a vedação atmosférica e controlando a pressão durante a operação. Colonos não atravessarão sem a resistência necessária ao vácuo.</VGE_Airlock2x1Door.description>
+  <!-- EN: airlock door (3x1) -->
+  <VGE_Airlock3x1Door.label>porta de câmara de descompressão (3x1)</VGE_Airlock3x1Door.label>
+  <!-- EN: A specialized, heavily reinforced door that functions as a physical security barrier and an automated atmospheric seal. When powered, it ensures a rapid, safe transition between pressurized and vacuum areas by maintaining an atmospheric seal and managing pressure during operation. Colonists will not cross it without required vacuum resistance. -->
+  <VGE_Airlock3x1Door.description>Uma porta especializada e reforçada que funciona como barreira de segurança física e vedação atmosférica automatizada. Quando energizada, garante uma transição rápida e segura entre áreas pressurizadas e de vácuo, mantendo a vedação atmosférica e controlando a pressão durante a operação. Colonos não atravessarão sem a resistência necessária ao vácuo.</VGE_Airlock3x1Door.description>
+  <!-- EN: airlock door (5x1) -->
+  <VGE_Airlock5x1Door.label>porta de câmara de descompressão (5x1)</VGE_Airlock5x1Door.label>
+  <!-- EN: A specialized, heavily reinforced door that functions as a physical security barrier and an automated atmospheric seal. When powered, it ensures a rapid, safe transition between pressurized and vacuum areas by maintaining an atmospheric seal and managing pressure during operation. Colonists will not cross it without required vacuum resistance. -->
+  <VGE_Airlock5x1Door.description>Uma porta especializada e reforçada que funciona como barreira de segurança física e vedação atmosférica automatizada. Quando energizada, garante uma transição rápida e segura entre áreas pressurizadas e de vácuo, mantendo a vedação atmosférica e controlando a pressão durante a operação. Colonos não atravessarão sem a resistência necessária ao vácuo.</VGE_Airlock5x1Door.description>
+  <!-- EN: airlock door (1x1) -->
+  <VGE_AirlockDoor.label>porta de câmara de descompressão (1x1)</VGE_AirlockDoor.label>
+  <!-- EN: A specialized, heavily reinforced door that functions as a physical security barrier and an automated atmospheric seal. When powered, it ensures a rapid, safe transition between pressurized and vacuum areas by maintaining an atmospheric seal and managing pressure during operation. Colonists will not cross it without required vacuum resistance. -->
+  <VGE_AirlockDoor.description>Uma porta especializada e reforçada que funciona como barreira de segurança física e vedação atmosférica automatizada. Quando energizada, garante uma transição rápida e segura entre áreas pressurizadas e de vácuo, mantendo a vedação atmosférica e controlando a pressão durante a operação. Colonos não atravessarão sem a resistência necessária ao vácuo.</VGE_AirlockDoor.description>
+  <!-- EN: anticraft emitter -->
+  <VGE_AnticraftEmitter.label>emissor antiaéreo</VGE_AnticraftEmitter.label>
+  <!-- EN: A large, gravship-mounted energy weapon that projects a concentrated cutting beam capable of slicing through armor and hull plating. Designed to counter enemy gravships in orbit, it unleashes devastating continuous fire. Requires a linked targeting terminal with an operator to function. Uses a lot of power to fire. -->
+  <VGE_AnticraftEmitter.description>Uma grande arma de energia montada em gravinave que projeta um feixe cortante concentrado capaz de atravessar armaduras e placas do casco. Projetada para combater gravinaves inimigas em órbita, dispara uma sequência devastadora de tiros. Exige um terminal de mira ligado com um operador para funcionar. Consome muita energia para disparar.</VGE_AnticraftEmitter.description>
+  <!-- EN: anticraft emitter beam -->
+  <VGE_Bullet_AnticraftEmitter.label>feixe do emissor antiaéreo</VGE_Bullet_AnticraftEmitter.label>
+  <!-- EN: Gauss howitzer shot -->
+  <VGE_Bullet_GaussHowitzer.label>projétil de Obuseiro Gauss</VGE_Bullet_GaussHowitzer.label>
+  <!-- EN: autocannon shell -->
+  <VGE_Bullet_GravshipAutocannon.label>munição de autocanhão</VGE_Bullet_GravshipAutocannon.label>
+  <!-- EN: uranium slug -->
+  <VGE_Bullet_GravshipUraniumSlug.label>projétil de urânio</VGE_Bullet_GravshipUraniumSlug.label>
+  <!-- EN: gauss howitzer -->
+  <VGE_GaussHowitzer.label>Obuseiro Gauss</VGE_GaussHowitzer.label>
+  <!-- EN: A triple-barrel electromagnetic artillery piece that fires dense uranium slugs at high velocity. Designed for both local bombardments and long-range engagements, it can also target other gravships in orbit. Requires a linked targeting terminal with an operator to function. It draws power directly from the grav engine. -->
+  <VGE_GaussHowitzer.description>Uma arma de artilharia eletromagnética de três canos que dispara projéteis densos de urânio em alta velocidade. Projetada para bombardeios locais e engajamentos de longo alcance, também pode mirar em outras gravinaves em órbita. Exige um terminal de mira ligado com um operador para funcionar. Extrai energia diretamente do motor gravitacional.</VGE_GaussHowitzer.description>
+  <!-- EN: Uranium slugs -->
+  <VGE_GaussHowitzer.comps.CompRefuelable.fuelGizmoLabel>Projéteis de urânio</VGE_GaussHowitzer.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Uranium slugs -->
+  <VGE_GaussHowitzer.comps.CompRefuelable.fuelLabel>Projéteis de urânio</VGE_GaussHowitzer.comps.CompRefuelable.fuelLabel>
+  <!-- EN: gravmine -->
+  <VGE_Gravmine.label>gravimina</VGE_Gravmine.label>
+  <!-- EN: A high-explosive device designed for space-based combat. It features a large detection radius that triggers a powerful blast detonation upon the approach of any target, including enemy gravships. It can only be constructed in space. -->
+  <VGE_Gravmine.description>Um dispositivo de alto explosivo projetado para combate espacial. Possui um grande raio de detecção que aciona uma poderosa detonação ao se aproximar de qualquer alvo, incluindo gravinaves inimigas. Só pode ser construído no espaço.</VGE_Gravmine.description>
+  <!-- EN: gravship autocannon turret -->
+  <VGE_GravshipAutocannonTurret.label>torreta de autocanhão de gravinave</VGE_GravshipAutocannonTurret.label>
+  <!-- EN: A compact gravship-mounted automatic turret. Its large-caliber shells do heavy damage over significant ranges, but despite its efficiency, the barrel must be refurbished after heavy use. It cannot fire at close-up targets, and may explode when damaged. Needs to be constructed on substructure. -->
+  <VGE_GravshipAutocannonTurret.description>Uma torreta automática compacta montada em uma gravinave. Seus projéteis de grande calibre causam grande dano em longas distâncias, mas, apesar da eficiência, o cano precisa ser reformado após uso intenso. Não pode disparar contra alvos em curta distância e pode explodir quando danificada. Precisa ser construída sobre subestrutura.</VGE_GravshipAutocannonTurret.description>
+  <!-- EN: Steel -->
+  <VGE_GravshipAutocannonTurret.comps.CompRefuelable.fuelGizmoLabel>Aço</VGE_GravshipAutocannonTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Steel -->
+  <VGE_GravshipAutocannonTurret.comps.CompRefuelable.fuelLabel>Aço</VGE_GravshipAutocannonTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: gravship minigun turret -->
+  <VGE_GravshipMinigunTurret.label>torreta de metralhadora de gravinave</VGE_GravshipMinigunTurret.label>
+  <!-- EN: A compact gravship-mounted heavy automatic turret. Its multi-barrel mechanism unleashes sustained fire at high speed, shredding lightly armored targets at mid-range. It may explode when damaged. -->
+  <VGE_GravshipMinigunTurret.description>Uma torreta automática pesada e compacta, montada em uma gravinave. Seu mecanismo de múltiplos canos libera fogo sustentado em alta velocidade, dilacerando alvos levemente blindados em alcance médio. Pode explodir quando danificada.</VGE_GravshipMinigunTurret.description>
+  <!-- EN: Steel -->
+  <VGE_GravshipMinigunTurret.comps.CompRefuelable.fuelGizmoLabel>Aço</VGE_GravshipMinigunTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Steel -->
+  <VGE_GravshipMinigunTurret.comps.CompRefuelable.fuelLabel>Aço</VGE_GravshipMinigunTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: gravship uranium slug turret -->
+  <VGE_GravshipUraniumSlugTurret.label>torreta de projéteis de urânio de gravinave</VGE_GravshipUraniumSlugTurret.label>
+  <!-- EN: A compact gravship-mounted armor-piercing turret. Its ultra-dense uranium shells can punch through heavy armor, but it requires new uranium slugs to be loaded after use. More efficient than its ground version, it consumes fewer slugs per shot. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged. Needs to be constructed on substructure. -->
+  <VGE_GravshipUraniumSlugTurret.description>Uma torreta compacta montada em uma gravinave, capaz de perfurar blindagens. Seus projéteis de urânio ultradensos atravessam blindagens pesadas, mas é preciso recarregá-la com novos projéteis de urânio após o uso. Mais eficiente que sua versão terrestre, consome menos projéteis por disparo. É mais precisa a longas distâncias e não consegue disparar contra alvos muito próximos. Pode explodir quando danificada. Precisa ser construída sobre subestrutura.</VGE_GravshipUraniumSlugTurret.description>
+  <!-- EN: Uranium -->
+  <VGE_GravshipUraniumSlugTurret.comps.CompRefuelable.fuelGizmoLabel>Urânio</VGE_GravshipUraniumSlugTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Uranium -->
+  <VGE_GravshipUraniumSlugTurret.comps.CompRefuelable.fuelLabel>Urânio</VGE_GravshipUraniumSlugTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: anticraft emitter -->
+  <VGE_Gun_AnticraftEmitter.label>emissor antiaéreo</VGE_Gun_AnticraftEmitter.label>
+  <!-- EN: A large energy weapon that projects a cutting beam. -->
+  <VGE_Gun_AnticraftEmitter.description>Uma grande arma de energia que projeta um feixe cortante.</VGE_Gun_AnticraftEmitter.description>
+  <!-- EN: anticraft emitter -->
+  <VGE_Gun_AnticraftEmitter.verbs.Verb_ShootWithWorldTargeting.label>emissor antiaéreo</VGE_Gun_AnticraftEmitter.verbs.Verb_ShootWithWorldTargeting.label>
+  <!-- EN: gauss howitzer -->
+  <VGE_Gun_GaussHowitzer.label>Obuseiro Gauss</VGE_Gun_GaussHowitzer.label>
+  <!-- EN: A triple-barrel electromagnetic artillery piece. -->
+  <VGE_Gun_GaussHowitzer.description>Uma peça de artilharia eletromagnética de três canos.</VGE_Gun_GaussHowitzer.description>
+  <!-- EN: gauss howitzer -->
+  <VGE_Gun_GaussHowitzer.verbs.Verb_ShootWithSmoke.label>Obuseiro Gauss</VGE_Gun_GaussHowitzer.verbs.Verb_ShootWithSmoke.label>
+  <!-- EN: gravship autocannon -->
+  <VGE_Gun_GravshipAutocannon.label>autocanhão de gravinave</VGE_Gun_GravshipAutocannon.label>
+  <!-- EN: gravship autocannon -->
+  <VGE_Gun_GravshipAutocannon.verbs.Verb_Shoot.label>autocanhão de gravinave</VGE_Gun_GravshipAutocannon.verbs.Verb_Shoot.label>
+  <!-- EN: gravship minigun -->
+  <VGE_Gun_GravshipMinigun.label>metralhadora de gravinave</VGE_Gun_GravshipMinigun.label>
+  <!-- EN: gravship minigun -->
+  <VGE_Gun_GravshipMinigun.verbs.Verb_Shoot.label>metralhadora de gravinave</VGE_Gun_GravshipMinigun.verbs.Verb_Shoot.label>
+  <!-- EN: gravship uranium slug gun -->
+  <VGE_Gun_GravshipUraniumSlug.label>arma de projéteis de urânio de gravinave</VGE_Gun_GravshipUraniumSlug.label>
+  <!-- EN: gravship uranium slug gun -->
+  <VGE_Gun_GravshipUraniumSlug.verbs.Verb_Shoot.label>arma de projéteis de urânio de gravinave</VGE_Gun_GravshipUraniumSlug.verbs.Verb_Shoot.label>
+  <!-- EN: javelin launcher -->
+  <VGE_Gun_JavelinLauncher.label>lançador de dardo</VGE_Gun_JavelinLauncher.label>
+  <!-- EN: A multi-tube javelin launcher for gravship use. Requires a linked, manned targeting terminal to operate. -->
+  <VGE_Gun_JavelinLauncher.description>Um lançador de dardos de múltiplos tubos para uso em gravinaves. Exige um terminal de mira conectado e tripulado para operar.</VGE_Gun_JavelinLauncher.description>
+  <!-- EN: javelin launcher -->
+  <VGE_Gun_JavelinLauncher.verbs.Verb_ShootWithWorldTargeting.label>lançador de dardo</VGE_Gun_JavelinLauncher.verbs.Verb_ShootWithWorldTargeting.label>
+  <!-- EN: javelin launcher -->
+  <VGE_JavelinLauncher.label>lançador de dardo</VGE_JavelinLauncher.label>
+  <!-- EN: A heavy multi-tube missile platform that fires a spread of 12 long-range guided astrofuel-propelled javelins. Designed for saturation strikes against surface targets and rival gravships in orbit. Requires a linked targeting terminal with an operator to function. It draws power directly from the grav engine. -->
+  <VGE_JavelinLauncher.description>Uma plataforma de mísseis pesada e multitubo que dispara uma salva de 12 dardos guiados de longo alcance, propelidos por astrocombustível. Projetada para ataques de saturação contra alvos de superfície e gravinaves rivais em órbita. Exige um terminal de mira ligado com um operador para funcionar. Extrai energia diretamente do motor gravitacional.</VGE_JavelinLauncher.description>
+  <!-- EN: Astrofuel -->
+  <VGE_JavelinLauncher.comps.CompRefuelable.fuelGizmoLabel>Astrocombustível</VGE_JavelinLauncher.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Astrofuel -->
+  <VGE_JavelinLauncher.comps.CompRefuelable.fuelLabel>Astrocombustível</VGE_JavelinLauncher.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Missing rockets -->
+  <VGE_JavelinLauncher.comps.CompRefuelable.outOfFuelMessage>Faltam foguetes</VGE_JavelinLauncher.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: large gravship shield generator -->
+  <VGE_LargeGravshipShieldGenerator.label>gerador de escudo grande de gravinave</VGE_LargeGravshipShieldGenerator.label>
+  <!-- EN: A large-scale shielding device that can protect a gravship. It modulates the grav field to create a short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. Those inside can still shoot out. It must be charged before use. Active shields generate structural heat which if not absorbed by heatsinks, will be vented into the gravship. One gravship can support two large gravship shield generators. -->
+  <VGE_LargeGravshipShieldGenerator.description>Um dispositivo de proteção em grande escala capaz de proteger uma gravinave. Ele modula o campo gravitacional para criar uma superfície repulsora de momento, de curta duração, que bloqueia projéteis. Funciona contra disparos comuns e morteiros. Quem estiver dentro ainda pode atirar para fora. Precisa ser carregado antes do uso. Escudos ativos geram calor estrutural que, se não for absorvido por dissipadores de calor, será liberado dentro da gravinave. Uma gravinave pode comportar dois geradores de escudo grande.</VGE_LargeGravshipShieldGenerator.description>
+  <!-- EN: activate -->
+  <VGE_LargeGravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>Ativar</VGE_LargeGravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>
+  <!-- EN: Javelin rocket -->
+  <VGE_Rocket_JavelinLauncherRocket.label>Foguete de dardo</VGE_Rocket_JavelinLauncherRocket.label>
+  <!-- EN: targeting console -->
+  <VGE_TargetingConsole.label>console de mira</VGE_TargetingConsole.label>
+  <!-- EN: A large targeting console capable of managing up to three gravship artillery pieces. Requires a crew member to manually aim and fire the weapons. It draws power directly from the grav engine. -->
+  <VGE_TargetingConsole.description>Um grande console de mira capaz de controlar até três peças de artilharia de gravinave. Exige um tripulante para mirar e disparar as armas manualmente. Extrai energia diretamente do motor gravitacional.</VGE_TargetingConsole.description>
+  <!-- EN: destroyed astrofuel generator -->
+  <VGE_DestroyedAstrofuelGenerator.label>Gerador de astrocombustível destruído</VGE_DestroyedAstrofuelGenerator.label>
+  <!-- EN: Destroyed astrofuel generator, which was once capable of converting astrofuel into power. -->
+  <VGE_DestroyedAstrofuelGenerator.description>Gerador de astrocombustível destruído, que antes era capaz de converter astrocombustível em energia.</VGE_DestroyedAstrofuelGenerator.description>
+  <!-- EN: destroyed astrofuel synthesizer -->
+  <VGE_DestroyedAstrofuelSynthesizer.label>Sintetizador de astrocombustível destruído</VGE_DestroyedAstrofuelSynthesizer.label>
+  <!-- EN: The ruined remains of a specialized structure that once refined chemfuel into high-grade astrofuel. It is no longer connected to the astrofuel pipe network or any astrofuel tanks and cannot operate. -->
+  <VGE_DestroyedAstrofuelSynthesizer.description>Os destroços de uma estrutura especializada que refinava Combustível químico em astrocombustível de alta qualidade. Não está mais conectada à rede de tubulações ou a tanques de astrocombustível e não pode funcionar.</VGE_DestroyedAstrofuelSynthesizer.description>
+  <!-- EN: destroyed astropurifier -->
+  <VGE_DestroyedAstropurifier.label>Purificador de astrocombustível destruído</VGE_DestroyedAstropurifier.label>
+  <!-- EN: A gravtech unit that enhanced the precision and stability of astrofuel refinement. Broken down beyond repair now. -->
+  <VGE_DestroyedAstropurifier.description>Uma unidade de gravtecnologia que aumentava a precisão e a estabilidade do refino de astrocombustível. Agora está danificada além de qualquer reparo.</VGE_DestroyedAstropurifier.description>
+  <!-- EN: destroyed auxiliary astrofuel tank -->
+  <VGE_DestroyedAuxiliaryAstrofuelTank.label>Tanque auxiliar de astrocombustível destruído</VGE_DestroyedAuxiliaryAstrofuelTank.label>
+  <!-- EN: This compact tank once stored astrofuel for thrusters, but it has been destroyed. Its frame still holds recoverable materials. -->
+  <VGE_DestroyedAuxiliaryAstrofuelTank.description>Este tanque compacto armazenava astrocombustível para propulsores, mas foi destruído. Sua estrutura ainda contém materiais recuperáveis.</VGE_DestroyedAuxiliaryAstrofuelTank.description>
+  <!-- EN: destroyed auxiliary oxygen tank -->
+  <VGE_DestroyedAuxiliaryOxygenTank.label>Tanque auxiliar de oxigênio destruído</VGE_DestroyedAuxiliaryOxygenTank.label>
+  <!-- EN: This compact tank once supplied oxygen to the gravship, but it’s now broken and useless. Some steel can still be salvaged from it. -->
+  <VGE_DestroyedAuxiliaryOxygenTank.description>Este tanque compacto fornecia oxigênio à gravinave, mas agora está quebrado e inutilizado. Ainda é possível recuperar um pouco de aço.</VGE_DestroyedAuxiliaryOxygenTank.description>
+  <!-- EN: destroyed capacitor harmonizer -->
+  <VGE_DestroyedCapacitorHarmonizer.label>Harmonizador de capacitores destruído</VGE_DestroyedCapacitorHarmonizer.label>
+  <!-- EN: A blown up device that balanced and synchronized energy flow between capacitors. Can be deconstructed to yield some resources back. -->
+  <VGE_DestroyedCapacitorHarmonizer.description>Um dispositivo que explodiu, responsável por equilibrar e sincronizar o fluxo de energia entre capacitores. Pode ser desmontado para recuperar alguns recursos.</VGE_DestroyedCapacitorHarmonizer.description>
+  <!-- EN: destroyed co-pilot console -->
+  <VGE_DestroyedCopilotConsole.label>Console do copiloto destruído</VGE_DestroyedCopilotConsole.label>
+  <!-- EN: A broken control panel that once supported the pilot console, now reduced to scrap. -->
+  <VGE_DestroyedCopilotConsole.description>Um painel de controle quebrado que antes dava suporte ao console do piloto, agora reduzido a sucata.</VGE_DestroyedCopilotConsole.description>
+  <!-- EN: destroyed engineering console -->
+  <VGE_DestroyedEngineeringConsole.label>Console de engenharia destruído</VGE_DestroyedEngineeringConsole.label>
+  <!-- EN: A shattered interface that was used to monitor the maintenance status of all gravship components. Can be salvaged for some scrap. -->
+  <VGE_DestroyedEngineeringConsole.description>Uma interface destruída que monitorava o estado de manutenção de todos os componentes da gravinave. Pode ser desmontada para recuperar sucata.</VGE_DestroyedEngineeringConsole.description>
+  <!-- EN: destroyed flight computer -->
+  <VGE_DestroyedFlightComputer.label>Computador de voo destruído</VGE_DestroyedFlightComputer.label>
+  <!-- EN: A completely destroyed computational unit that used to optimize gravdata collection. Can be disassembled to yield whatever components it has left. -->
+  <VGE_DestroyedFlightComputer.description>Uma unidade computacional completamente destruída, usada para otimizar a coleta de gravidados. Pode ser desmontada para recuperar os componentes restantes.</VGE_DestroyedFlightComputer.description>
+  <!-- EN: destroyed astrofuel optimizer -->
+  <VGE_DestroyedFuelOptimizer.label>Otimizador de astrocombustível destruído</VGE_DestroyedFuelOptimizer.label>
+  <!-- EN: A destroyed gravtech unit that once allowed grav engine lift to coordinate more efficiently with traditional thrusters. Nothing but scrap now. -->
+  <VGE_DestroyedFuelOptimizer.description>Uma unidade de gravtecnologia destruída que coordenava a elevação do motor gravitacional com os propulsores convencionais de forma mais eficiente. Agora não passa de sucata.</VGE_DestroyedFuelOptimizer.description>
+  <!-- EN: destroyed giant astrofuel tank -->
+  <VGE_DestroyedGiantAstrofuelTank.label>Tanque gigante de astrocombustível destruído</VGE_DestroyedGiantAstrofuelTank.label>
+  <!-- EN: The shattered remains of a monumental astrofuel storage tank, once used to supply fuel for the thrusters on a gravship. Its frame still holds recoverable materials. -->
+  <VGE_DestroyedGiantAstrofuelTank.description>Os destroços de um enorme tanque de armazenamento de astrocombustível, usado para abastecer os propulsores de uma gravinave. Sua estrutura ainda contém materiais recuperáveis.</VGE_DestroyedGiantAstrofuelTank.description>
+  <!-- EN: destroyed giant electric thruster -->
+  <VGE_DestroyedGiantElectricThruster.label>Propulsor elétrico gigante destruído</VGE_DestroyedGiantElectricThruster.label>
+  <!-- EN: This colossal thruster once propelled massive gravships across the orbit, but is now a wreck of twisted metal. Its sheer size means a substantial haul of salvageable materials remains. -->
+  <VGE_DestroyedGiantElectricThruster.description>Este propulsor colossal impulsionava gravinaves enormes pela órbita, mas agora é apenas uma carcaça de metal retorcido. Seu tamanho imenso ainda permite recuperar muitos materiais.</VGE_DestroyedGiantElectricThruster.description>
+  <!-- EN: destroyed giant thruster -->
+  <VGE_DestroyedGiantThruster.label>Propulsor gigante destruído</VGE_DestroyedGiantThruster.label>
+  <!-- EN: This colossal thruster once propelled massive gravships across the orbit, but is now a wreck of twisted metal. Its sheer size means a substantial haul of salvageable materials remains. -->
+  <VGE_DestroyedGiantThruster.description>Este propulsor colossal impulsionava gravinaves enormes pela órbita, mas agora é apenas uma carcaça de metal retorcido. Seu tamanho imenso ainda permite recuperar muitos materiais.</VGE_DestroyedGiantThruster.description>
+  <!-- EN: destroyed giant weapon platform -->
+  <VGE_DestroyedGiantWeaponPlatform.label>Plataforma de armas gigante destruída</VGE_DestroyedGiantWeaponPlatform.label>
+  <!-- EN: The remains of a giant orbital station artillery platform, twisted and wrecked after the destruction of the weapon it once held. Now only serves as salvage. -->
+  <VGE_DestroyedGiantWeaponPlatform.description>Os restos de uma plataforma de artilharia de uma estação orbital gigante, retorcida e destruída junto com a arma que sustentava. Agora serve apenas como sucata.</VGE_DestroyedGiantWeaponPlatform.description>
+  <!-- EN: destroyed gravcore power cell -->
+  <VGE_DestroyedGravcorePowerCell.label>Célula de energia de gravinúcleo destruída</VGE_DestroyedGravcorePowerCell.label>
+  <!-- EN: A destroyed power generator, once capable of passively harvesting gravitational wave energy and amplifying adjacent power cells. Some resources may still be salvaged from it. -->
+  <VGE_DestroyedGravcorePowerCell.description>Um gerador de energia destruído, que antes captava passivamente a energia das ondas gravitacionais e amplificava células de energia próximas. Ainda é possível recuperar alguns recursos.</VGE_DestroyedGravcorePowerCell.description>
+  <!-- EN: destroyed gravcore power coil -->
+  <VGE_DestroyedGravcorePowerCoil.label>Bobina de energia de gravinúcleo destruída</VGE_DestroyedGravcorePowerCoil.label>
+  <!-- EN: A massive gravtech reactor, now utterly destroyed, with its reinforced coils twisted and inert, can be salvaged for its valuable components. -->
+  <VGE_DestroyedGravcorePowerCoil.description>Um reator de gravtecnologia enorme, completamente destruído, com suas bobinas reforçadas retorcidas e inertes. Ainda é possível recuperar seus componentes valiosos.</VGE_DestroyedGravcorePowerCoil.description>
+  <!-- EN: destroyed gravship engine -->
+  <VGE_DestroyedGravEngine.label>Motor gravitacional destruído</VGE_DestroyedGravEngine.label>
+  <!-- EN: The collapsed remains of a gravship engine, no longer capable of lifting the vessel. It seems the gravity field collapse did not result in any detonation, so it can still be salvaged for a valuable gravcore. -->
+  <VGE_DestroyedGravEngine.description>Os restos colapsados de um motor gravitacional, incapaz de erguer a gravinave. Ao que parece, o colapso do campo gravitacional não causou uma detonação; ainda é possível recuperar um gravinúcleo valioso.</VGE_DestroyedGravEngine.description>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_DestroyedGravEngine.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_DestroyedGravEngine.comps.CompInspectString.inspectString>
+  <!-- EN: destroyed grav field amplifier -->
+  <VGE_DestroyedGravFieldAmplifier.label>Amplificador de campo gravitacional destruído</VGE_DestroyedGravFieldAmplifier.label>
+  <!-- EN: The shattered remains of an advanced ultratech device that once dramatically increased a gravship's size and build area. The core systems are utterly destroyed, but a specialized gravcore may still be salvaged from the wreckage. -->
+  <VGE_DestroyedGravFieldAmplifier.description>Os restos de um dispositivo ultratecnológico avançado que aumentava bastante o tamanho e a área de construção de uma gravinave. Os sistemas centrais foram completamente destruídos, mas talvez ainda seja possível recuperar um gravinúcleo especializado.</VGE_DestroyedGravFieldAmplifier.description>
+  <!-- EN: destroyed gravheat absorber -->
+  <VGE_DestroyedGravheatAbsorber.label>Absorvedor de calor gravitacional destruído</VGE_DestroyedGravheatAbsorber.label>
+  <!-- EN: A warped, scorched, and inoperable specialized thermal sink, originally used to instantly cool a grav engine, is now useless for its primary function due to melted internal systems and cracked shielding. However, its dense, exotic metal casing and components can still be salvaged. -->
+  <VGE_DestroyedGravheatAbsorber.description>Um dissipador térmico especializado, deformado, chamuscado e inoperante, usado para resfriar instantaneamente um motor gravitacional. Agora é inútil devido aos sistemas internos derretidos e à blindagem rachada. Ainda é possível recuperar seu revestimento de metal exótico e seus componentes.</VGE_DestroyedGravheatAbsorber.description>
+  <!-- EN: destroyed gravhulk engine -->
+  <VGE_DestroyedGravhulkEngine.label>Motor de gravicolosso destruído</VGE_DestroyedGravhulkEngine.label>
+  <!-- EN: The huge, destroyed wreck of a gravhulk engine, no longer operational. It seems the gravity field collapse did not result in any detonation, so it can still be salvaged for a valuable gravcore. -->
+  <VGE_DestroyedGravhulkEngine.description>Os enormes destroços de um motor de gravicolosso, sem qualquer funcionamento. Ao que parece, o colapso do campo gravitacional não causou uma detonação; ainda é possível recuperar um gravinúcleo valioso.</VGE_DestroyedGravhulkEngine.description>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_DestroyedGravhulkEngine.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_DestroyedGravhulkEngine.comps.CompInspectString.inspectString>
+  <!-- EN: destroyed gravjumper engine -->
+  <VGE_DestroyedGravjumperEngine.label>Motor de gravisalto destruído</VGE_DestroyedGravjumperEngine.label>
+  <!-- EN: The mangled remains of a gravjumper engine, now useless for short-range jumps. It seems the gravity field collapse did not result in any detonation, so it can still be salvaged for a valuable gravcore. -->
+  <VGE_DestroyedGravjumperEngine.description>Os restos retorcidos de um motor de gravisalto, agora inútil para saltos de curto alcance. Ao que parece, o colapso do campo gravitacional não causou uma detonação; ainda é possível recuperar um gravinúcleo valioso.</VGE_DestroyedGravjumperEngine.description>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_DestroyedGravjumperEngine.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_DestroyedGravjumperEngine.comps.CompInspectString.inspectString>
+  <!-- EN: destroyed gravlift -->
+  <VGE_DestroyedGravlift.label>Elevador gravitacional destruído</VGE_DestroyedGravlift.label>
+  <!-- EN: A mangled wreck of a complex stabilization device. The core thrusters are fused and the gravitic dampeners shattered, rendering it useless for flight or stability, however, its mass of exotic metals and components can be deconstructed for a valuable resource yield. -->
+  <VGE_DestroyedGravlift.description>Os destroços retorcidos de um complexo dispositivo de estabilização. Os propulsores centrais estão fundidos e os amortecedores gravitacionais, despedaçados, tornando-o inútil para voo ou estabilidade. Sua massa de metais exóticos e componentes pode ser desmontada para recuperar recursos valiosos.</VGE_DestroyedGravlift.description>
+  <!-- EN: destroyed gravlock tether -->
+  <VGE_DestroyedGravlockTether.label>Cabo de ancoragem gravitacional destruído</VGE_DestroyedGravlockTether.label>
+  <!-- EN: The ruined remains of a gravlock tether that once anchored an orbital station in place. The core stabilization systems are completely shattered, but its bulky frame can still be deconstructed to yield valuable salvage, including a gravcore. -->
+  <VGE_DestroyedGravlockTether.description>Os destroços de um cabo de ancoragem gravitacional que mantinha uma estação orbital no lugar. Os sistemas centrais de estabilização estão completamente destruídos, mas sua estrutura volumosa ainda pode ser desmontada para recuperar materiais valiosos, incluindo um gravinúcleo.</VGE_DestroyedGravlockTether.description>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_DestroyedGravlockTether.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_DestroyedGravlockTether.comps.CompInspectString.inspectString>
+  <!-- EN: destroyed gravlaunch cloaker -->
+  <VGE_DestroyedGravlunchCloaker.label>Camuflador de lançamento gravitacional destruído</VGE_DestroyedGravlunchCloaker.label>
+  <!-- EN: The shattered remains of a gravlaunch cloaker that once masked a gravship's energy signature. While it can no longer hide launch signatures, its frame and components can still be salvaged for valuable components. -->
+  <VGE_DestroyedGravlunchCloaker.description>Os destroços de um camuflador de lançamento gravitacional que ocultava a assinatura energética de uma gravinave. Embora não possa mais ocultar assinaturas de lançamento, sua estrutura e seus componentes ainda podem ser desmontados para recuperar peças valiosas.</VGE_DestroyedGravlunchCloaker.description>
+  <!-- EN: destroyed gravtech console -->
+  <VGE_DestroyedGravtechConsole.label>Console de gravtecnologia destruído</VGE_DestroyedGravtechConsole.label>
+  <!-- EN: An interface used to analyze gravdata, now shattered and useless. The screens are dark and cracked, and the delicate gravdata analysis components are twisted and inoperable. It is nothing more than salvage now. -->
+  <VGE_DestroyedGravtechConsole.description>Uma interface usada para analisar gravidados, agora destruída e inutilizada. As telas estão apagadas e rachadas, e os delicados componentes de análise de gravidados estão retorcidos e inoperantes. Agora não passa de sucata.</VGE_DestroyedGravtechConsole.description>
+  <!-- EN: destroyed gunner subpersona core -->
+  <VGE_DestroyedGunnerSubpersonaCore.label>Núcleo de subpersona do artilheiro destruído</VGE_DestroyedGunnerSubpersonaCore.label>
+  <!-- EN: A shattered and inert gravship gunnery core. The advanced processing unit that once housed a specialized combat subpersona is cracked, and the core's connection ports are twisted and useless. It can be salvaged for some complex components. -->
+  <VGE_DestroyedGunnerSubpersonaCore.description>Um núcleo de artilharia de gravinave destruído e inerte. A unidade de processamento avançada que abrigava uma subpersona de combate especializada está rachada, e as portas de conexão do núcleo estão retorcidas e inutilizadas. Pode ser desmontado para recuperar componentes complexos.</VGE_DestroyedGunnerSubpersonaCore.description>
+  <!-- EN: destroyed industrial astrofuel generator -->
+  <VGE_DestroyedIndustrialAstrofuelGenerator.label>Gerador industrial de astrocombustível destruído</VGE_DestroyedIndustrialAstrofuelGenerator.label>
+  <!-- EN: An industrial-sized, destroyed astrofuel generator, which was once capable of converting astrofuel into power. -->
+  <VGE_DestroyedIndustrialAstrofuelGenerator.description>Um gerador industrial de astrocombustível destruído, que antes era capaz de converter astrocombustível em energia.</VGE_DestroyedIndustrialAstrofuelGenerator.description>
+  <!-- EN: destroyed large astrofuel tank -->
+  <VGE_DestroyedLargeChemfuelTank.label>Tanque grande de astrocombustível destruído</VGE_DestroyedLargeChemfuelTank.label>
+  <!-- EN: The shattered remains of a massive astrofuel storage tank, once used to supply fuel for the thrusters on a gravship. Its frame still holds recoverable materials. -->
+  <VGE_DestroyedLargeChemfuelTank.description>Os destroços de um enorme tanque de armazenamento de astrocombustível, usado para abastecer os propulsores de uma gravinave. Sua estrutura ainda contém materiais recuperáveis.</VGE_DestroyedLargeChemfuelTank.description>
+  <!-- EN: destroyed large electric thruster -->
+  <VGE_DestroyedLargeElectricThruster.label>Propulsor elétrico grande destruído</VGE_DestroyedLargeElectricThruster.label>
+  <!-- EN: This powerful thruster once pushed gravships across space, but now it lies broken. Even ruined, it holds some useful salvage. -->
+  <VGE_DestroyedLargeElectricThruster.description>Este propulsor potente impulsionava gravinaves pelo espaço, mas agora está quebrado. Mesmo em ruínas, ainda contém materiais úteis para recuperação.</VGE_DestroyedLargeElectricThruster.description>
+  <!-- EN: destroyed large heatsink -->
+  <VGE_DestroyedLargeHeatsink.label>Dissipador de calor grande destruído</VGE_DestroyedLargeHeatsink.label>
+  <!-- EN: This large heatsink once cooled the gravship’s systems, but it has burned out. Some steel can still be recovered from the wreck. -->
+  <VGE_DestroyedLargeHeatsink.description>Este grande dissipador de calor resfriava os sistemas da gravinave, mas queimou. Ainda é possível recuperar um pouco de aço dos destroços.</VGE_DestroyedLargeHeatsink.description>
+  <!-- EN: destroyed large oxygen tank -->
+  <VGE_DestroyedLargeOxygenTank.label>Tanque grande de oxigênio destruído</VGE_DestroyedLargeOxygenTank.label>
+  <!-- EN: This massive tank once held the gravship's life support, but it is now ruptured and useless. Its immense structure can still yield a good amount of scrap metal. -->
+  <VGE_DestroyedLargeOxygenTank.description>Este tanque enorme armazenava o suporte à vida da gravinave, mas agora está rompido e inutilizado. Sua estrutura imensa ainda pode render bastante sucata metálica.</VGE_DestroyedLargeOxygenTank.description>
+  <!-- EN: destroyed large weapon platform -->
+  <VGE_DestroyedLargeWeaponPlatform.label>Plataforma de armas grande destruída</VGE_DestroyedLargeWeaponPlatform.label>
+  <!-- EN: The remains of a large gravship artillery platform, twisted and wrecked after the destruction of the weapon it once held. Now only serves as salvage. -->
+  <VGE_DestroyedLargeWeaponPlatform.description>Os restos de uma plataforma de artilharia grande de gravinave, retorcida e destruída junto com a arma que sustentava. Agora serve apenas como sucata.</VGE_DestroyedLargeWeaponPlatform.description>
+  <!-- EN: destroyed algae oxygenator -->
+  <VGE_DestroyedLifeSupportSystem.label>Oxigenador de algas destruído</VGE_DestroyedLifeSupportSystem.label>
+  <!-- EN: A destroyed device that once processed harvested oxyalgae into breathable oxygen. The conversion components are ruptured, and it no longer supplies gas to the oxygen network. -->
+  <VGE_DestroyedLifeSupportSystem.description>Um dispositivo destruído que processava oxialgas colhidas para produzir oxigênio respirável. Os componentes de conversão estão rompidos, e ele não fornece mais gás à rede de oxigênio.</VGE_DestroyedLifeSupportSystem.description>
+  <!-- EN: destroyed maintenance hub -->
+  <VGE_DestroyedMaintenanceHub.label>Central de manutenção destruída</VGE_DestroyedMaintenanceHub.label>
+  <!-- EN: A completely destroyed system that used to optimize and automate routines across the gravship. Can be salvaged for some resources. -->
+  <VGE_DestroyedMaintenanceHub.description>Um sistema completamente destruído que otimizava e automatizava rotinas em toda a gravinave. Pode ser desmontado para recuperar alguns recursos.</VGE_DestroyedMaintenanceHub.description>
+  <!-- EN: destroyed medium weapon platform -->
+  <VGE_DestroyedMediumWeaponPlatform.label>Plataforma de armas média destruída</VGE_DestroyedMediumWeaponPlatform.label>
+  <!-- EN: The remains of a medium gravship artillery platform, twisted and wrecked after the destruction of the weapon it once held. Now only serves as salvage. -->
+  <VGE_DestroyedMediumWeaponPlatform.description>Os restos de uma plataforma de artilharia média de gravinave, retorcida e destruída junto com a arma que sustentava. Agora serve apenas como sucata.</VGE_DestroyedMediumWeaponPlatform.description>
+  <!-- EN: destroyed oxygen reclaimer -->
+  <VGE_DestroyedOxygenReclaimer.label>Recuperador de oxigênio destruído</VGE_DestroyedOxygenReclaimer.label>
+  <!-- EN: A broken down unit that extracted traces of oxygen from surrounding gases. Wrecked beyond repair now, can be salvaged for scrap. -->
+  <VGE_DestroyedOxygenReclaimer.description>Uma unidade avariada que extraía traços de oxigênio dos gases ao redor. Agora está destruída sem possibilidade de reparo, mas pode ser desmontada para obter sucata.</VGE_DestroyedOxygenReclaimer.description>
+  <!-- EN: destroyed pilot bridge -->
+  <VGE_DestroyedPilotBridge.label>Ponte de pilotagem destruída</VGE_DestroyedPilotBridge.label>
+  <!-- EN: The remains of a gravhulk's control interface, shattered and useless for piloting, but still containing salvageable scrap metal. -->
+  <VGE_DestroyedPilotBridge.description>Os restos da interface de controle de um gravicolosso, destruída e inútil para pilotagem, mas ainda contendo sucata metálica recuperável.</VGE_DestroyedPilotBridge.description>
+  <!-- EN: destroyed pilot cockpit -->
+  <VGE_DestroyedPilotCockpit.label>Cockpit do piloto destruído</VGE_DestroyedPilotCockpit.label>
+  <!-- EN: The remains of a gravjumper's control interface, shattered and useless for piloting, but still containing salvageable scrap metal. -->
+  <VGE_DestroyedPilotCockpit.description>Os restos da interface de controle de um gravisalto, destruída e inútil para pilotagem, mas ainda contendo sucata metálica recuperável.</VGE_DestroyedPilotCockpit.description>
+  <!-- EN: destroyed pilot console -->
+  <VGE_DestroyedPilotConsole.label>Console do piloto destruído</VGE_DestroyedPilotConsole.label>
+  <!-- EN: The remains of a gravship's control interface, shattered and useless for piloting, but still containing salvageable scrap metal. -->
+  <VGE_DestroyedPilotConsole.description>Os restos da interface de controle de uma gravinave, destruída e inútil para pilotagem, mas ainda contendo sucata metálica recuperável.</VGE_DestroyedPilotConsole.description>
+  <!-- EN: destroyed small electric thruster -->
+  <VGE_DestroyedSmallElectricThruster.label>Propulsor elétrico pequeno destruído</VGE_DestroyedSmallElectricThruster.label>
+  <!-- EN: This thruster once powered the gravship, but it is now wrecked beyond use. Scraps of metal and components can still be taken. -->
+  <VGE_DestroyedSmallElectricThruster.description>Este propulsor fornecia energia à gravinave, mas agora está destruído e inutilizado. Ainda é possível recuperar fragmentos de metal e componentes.</VGE_DestroyedSmallElectricThruster.description>
+  <!-- EN: destroyed small weapon platform -->
+  <VGE_DestroyedSmallWeaponPlatform.label>Plataforma de armas pequena destruída</VGE_DestroyedSmallWeaponPlatform.label>
+  <!-- EN: The remains of a small gravship artillery platform, twisted and wrecked after the destruction of the weapon it once held. Now only serves as salvage. -->
+  <VGE_DestroyedSmallWeaponPlatform.description>Os restos de uma pequena plataforma de artilharia de gravinave, retorcida e destruída junto com a arma que sustentava. Agora serve apenas como sucata.</VGE_DestroyedSmallWeaponPlatform.description>
+  <!-- EN: destroyed targeting console -->
+  <VGE_DestroyedTargetingConsole.label>Console de mira destruído</VGE_DestroyedTargetingConsole.label>
+  <!-- EN: The shattered remains of a large targeting console. Its screens are cracked and dark, and its sensitive aiming mechanisms are twisted and inoperable. It is nothing more than salvage now. -->
+  <VGE_DestroyedTargetingConsole.description>Os destroços de um grande console de mira. Suas telas estão rachadas e apagadas, e os delicados mecanismos de mira estão retorcidos e inoperantes. Agora não passa de sucata.</VGE_DestroyedTargetingConsole.description>
+  <!-- EN: destroyed targeting terminal -->
+  <VGE_DestroyedTargetingTerminal.label>Terminal de mira destruído</VGE_DestroyedTargetingTerminal.label>
+  <!-- EN: The shattered remains of a targeting terminal. Its screens are cracked and dark, and its sensitive aiming mechanisms are twisted and inoperable. It is nothing more than salvage now. -->
+  <VGE_DestroyedTargetingTerminal.description>Os destroços de um terminal de mira. Suas telas estão rachadas e apagadas, e os delicados mecanismos de mira estão retorcidos e inoperantes. Agora não passa de sucata.</VGE_DestroyedTargetingTerminal.description>
+  <!-- EN: destroyed warcomputer -->
+  <VGE_DestroyedWarComputer.label>Computador de guerra destruído</VGE_DestroyedWarComputer.label>
+  <!-- EN: The shattered remains of a warcomputer. Its advanced tactical processing systems are offline and completely unresponsive. While the unit is beyond repair, the core housing contains a valuable, intact gravcore that can still be salvaged. -->
+  <VGE_DestroyedWarComputer.description>Os destroços de um computador de guerra. Seus sistemas avançados de processamento tático estão desligados e completamente inoperantes. Embora a unidade não possa ser reparada, o compartimento do núcleo contém um gravinúcleo intacto e valioso que ainda pode ser recuperado.</VGE_DestroyedWarComputer.description>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_DestroyedWarComputer.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_DestroyedWarComputer.comps.CompInspectString.inspectString>
+  <!-- EN: grav junk -->
+  <VGE_GravJunk.label>Sucata gravitacional</VGE_GravJunk.label>
+  <!-- EN: A twisted chunk of a grav engine. Doesn't contain anything of value. -->
+  <VGE_GravJunk.description>Um pedaço retorcido de um motor gravitacional. Não contém nada de valor.</VGE_GravJunk.description>
+  <!-- EN: ancient gravmine -->
+  <VGE_AncientGravmine.label>Gravimina ancestral</VGE_AncientGravmine.label>
+  <!-- EN: An ancient and incredibly unstable high-explosive device designed for space-based combat. It features a large detection radius that triggers a powerful blast detonation upon the approach. -->
+  <VGE_AncientGravmine.description>Um dispositivo explosivo de alta potência, antigo e extremamente instável, projetado para combate espacial. Possui um amplo raio de detecção que aciona uma poderosa detonação quando algo se aproxima.</VGE_AncientGravmine.description>
+  <!-- EN: ancient signal jammer -->
+  <VGE_AncientSignalJammer.label>Bloqueador de sinais ancestral</VGE_AncientSignalJammer.label>
+  <!-- EN: An archaic broadcasting array emitting a high-frequency interference field that cripples long-range communications and disrupts gravship navigational locks. As long as it’s active, gravship or shuttle launches from this area will not be possible, and comms consoles will not be able to be used. It contains a valuable gravcore. -->
+  <VGE_AncientSignalJammer.description>Uma antiga matriz de transmissão que emite um campo de interferência de alta frequência, prejudicando comunicações de longo alcance e interrompendo os sistemas de navegação de gravinaves. Enquanto estiver ativa, não será possível lançar gravinaves ou ônibus espaciais desta área, nem usar consoles de comunicação. Contém um gravinúcleo valioso.</VGE_AncientSignalJammer.description>
+  <!-- EN: Signal jammer -->
+  <VGE_AncientSignalJammer.comps.CompLetterOnRevealed.label>Bloqueador de sinais</VGE_AncientSignalJammer.comps.CompLetterOnRevealed.label>
+  <!-- EN: You've discovered an ancient signal jammer actively preventing vessels from leaving the area. Destroy it to lift the lockdown and obtain a gravcore. -->
+  <VGE_AncientSignalJammer.comps.CompLetterOnRevealed.text>Você descobriu um bloqueador de sinais ancestral que impede ativamente as naves de deixar a área. Destrua-o para suspender o bloqueio e obter um gravinúcleo.</VGE_AncientSignalJammer.comps.CompLetterOnRevealed.text>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_AncientSignalJammer.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_AncientSignalJammer.comps.CompInspectString.inspectString>
+  <!-- EN: anticraft beam -->
+  <VGE_Bullet_AnticraftBeam.label>Feixe antiaéreo</VGE_Bullet_AnticraftBeam.label>
+  <!-- EN: defender turret bullet -->
+  <VGE_Bullet_DefenderTurret.label>Projétil da torreta defensora</VGE_Bullet_DefenderTurret.label>
+  <!-- EN: gauss bombard shot -->
+  <VGE_Bullet_GaussBombard.label>Disparo de bombardeio Gauss</VGE_Bullet_GaussBombard.label>
+  <!-- EN: gauss cannon shot -->
+  <VGE_Bullet_GaussCannon.label>Disparo de canhão Gauss</VGE_Bullet_GaussCannon.label>
+  <!-- EN: enemy algae oxygenator -->
+  <VGE_EnemyAlgaeOxygenator.label>Oxigenador de algas inimigo</VGE_EnemyAlgaeOxygenator.label>
+  <!-- EN: A vital device that processes harvested oxyalgae into breathable oxygen. Converts biomass into gas and pumps it into the oxygen network to supply pressurized rooms and equipment.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyAlgaeOxygenator.description>Um dispositivo vital que processa oxialgas colhidas para produzir oxigênio respirável. Converte biomassa em gás e o bombeia para a rede de oxigênio, abastecendo salas pressurizadas e equipamentos.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyAlgaeOxygenator.description>
+  <!-- EN: enemy anticraft beam -->
+  <VGE_EnemyAnticraftBeam.label>feixe antiaéreo inimigo</VGE_EnemyAnticraftBeam.label>
+  <!-- EN: A massive anti-ship beam weapon intended to destroy flying craft, but also capable of firing onto the surface from space. Ships using ultratech signal jammers can delay the targeting of these weapons.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be destroyed to yield some valuable resources, including a gravcore. -->
+  <VGE_EnemyAnticraftBeam.description>Uma arma de feixe antinave enorme, projetada para destruir aeronaves, mas também capaz de disparar contra a superfície a partir do espaço. Naves que usam bloqueadores de sinais ultratecnológicos podem atrasar a mira dessas armas.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser destruído para recuperar recursos valiosos, incluindo um gravinúcleo.</VGE_EnemyAnticraftBeam.description>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_EnemyAnticraftBeam.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_EnemyAnticraftBeam.comps.CompInspectString.inspectString>
+  <!-- EN: Beam emitter -->
+  <VGE_EnemyAnticraftBeam.comps.CompLetterOnRevealed.label>Emissor de feixe</VGE_EnemyAnticraftBeam.comps.CompLetterOnRevealed.label>
+  <!-- EN: You've discovered an anticraft beam. This powerful orbital weapon can annihilate any gravship that challenges it. Destroy it to secure the airspace and obtain a gravcore. -->
+  <VGE_EnemyAnticraftBeam.comps.CompLetterOnRevealed.text>Você descobriu um feixe antiaéreo. Esta poderosa arma orbital pode aniquilar qualquer gravinave que a desafie. Destrua-a para garantir o controle do espaço aéreo e obter um gravinúcleo.</VGE_EnemyAnticraftBeam.comps.CompLetterOnRevealed.text>
+  <!-- EN: anticraft beam strike -->
+  <VGE_EnemyAnticraftBeamStrike.label>Ataque de feixe antiaéreo</VGE_EnemyAnticraftBeamStrike.label>
+  <!-- EN: enemy anticraft caster -->
+  <VGE_EnemyAnticraftCaster.label>lançador antiaéreo inimigo</VGE_EnemyAnticraftCaster.label>
+  <!-- EN: A medium gravship-mounted energy weapon that fires short, razor-sharp bursts of cutting beam with surgical precision. Built to punch holes through critical systems, the caster trades sustained suppression for rapid, accurate strikes. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyAnticraftCaster.description>Uma arma de energia média montada em uma gravinave, que dispara rajadas curtas de feixes cortantes, precisos como um bisturi. Projetado para abrir brechas em sistemas críticos, o lançador troca a supressão contínua por ataques rápidos e precisos. Extrai energia diretamente do motor gravitacional e não precisa de um terminal conectado para funcionar.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyAnticraftCaster.description>
+  <!-- EN: enemy astrofuel synthesizer -->
+  <VGE_EnemyAstrofuelSynthesizer.label>Sintetizador de astrocombustível inimigo</VGE_EnemyAstrofuelSynthesizer.label>
+  <!-- EN: A specialized structure that refines chemfuel into high-grade astrofuel.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyAstrofuelSynthesizer.description>Uma estrutura especializada que refina Combustível químico para produzir astrocombustível de alta qualidade.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyAstrofuelSynthesizer.description>
+  <!-- EN: enemy gauss bombard -->
+  <VGE_EnemyGaussBombard.label>bombardeio Gauss inimigo</VGE_EnemyGaussBombard.label>
+  <!-- EN: A heavy, slow-firing electromagnetic launcher that discharges bursts of two kinetic impactors. Designed to bombard locations designated by an orbital bombardment targeter.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyGaussBombard.description>Um lançador eletromagnético pesado e de disparo lento, que dispara rajadas de dois projéteis cinéticos. Projetado para bombardear locais designados por um marcador de bombardeio orbital.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyGaussBombard.description>
+  <!-- EN: enemy gauss cannon -->
+  <VGE_EnemyGaussCannon.label>canhão Gauss inimigo</VGE_EnemyGaussCannon.label>
+  <!-- EN: A massive, single-barrel anti-ship cannon that uses powerful electromagnets to launch large metallic darts at extreme velocities. While formidable, ships equipped with ultratech signal jammers can temporarily paralyze its targeting systems, rendering it unable to fire during the disruption.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be destroyed to yield some valuable resources, including a gravcore. -->
+  <VGE_EnemyGaussCannon.description>Um canhão antinave enorme, de cano único, que usa eletroímãs poderosos para lançar dardos metálicos a velocidades extremas. Bloqueadores de sinais ultratecnológicos podem paralisar temporariamente seus sistemas de mira, impedindo o disparo durante a interferência.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser destruído para recuperar recursos valiosos, incluindo um gravinúcleo.</VGE_EnemyGaussCannon.description>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_EnemyGaussCannon.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_EnemyGaussCannon.comps.CompInspectString.inspectString>
+  <!-- EN: Gauss cannon -->
+  <VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.label>Canhão Gauss</VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.label>
+  <!-- EN: You've discovered a gauss cannon, a devastating piece of orbital artillery. Destroy it to eliminate the threat and obtain a gravcore. -->
+  <VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.text>Você descobriu um canhão Gauss, uma peça devastadora de artilharia orbital. Destrua-o para eliminar a ameaça e obter um gravinúcleo.</VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.text>
+  <!-- EN: enemy gauss gun -->
+  <VGE_EnemyGaussGun.label>arma Gauss inimiga</VGE_EnemyGaussGun.label>
+  <!-- EN: A small, single-barrel electromagnetic cannon that launches dense uranium slugs at extreme velocities. Designed for both local bombardments and medium-range engagements, it can also target other gravships in orbit. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyGaussGun.description>Um canhão eletromagnético pequeno, de cano único, que lança projéteis densos de urânio a velocidades extremas. Projetado para bombardeios locais e combates de médio alcance, também pode mirar em outras gravinaves em órbita. Extrai energia diretamente do motor gravitacional e não precisa de um terminal conectado para funcionar.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyGaussGun.description>
+  <!-- EN: enemy gauss howitzer -->
+  <VGE_EnemyGaussHowitzer.label>Obuseiro Gauss inimigo</VGE_EnemyGaussHowitzer.label>
+  <!-- EN: A triple-barrel electromagnetic artillery piece that fires dense uranium slugs at high velocity. Designed for both local bombardments and long-range engagements, it can also target other gravships in orbit. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyGaussHowitzer.description>Uma peça de artilharia eletromagnética de três canos que dispara projéteis densos de urânio em alta velocidade. Projetada para bombardeios locais e combates de longo alcance, também pode mirar em outras gravinaves em órbita. Extrai energia diretamente do motor gravitacional e não precisa de um terminal conectado para funcionar.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyGaussHowitzer.description>
+  <!-- EN: enemy giant thruster -->
+  <VGE_EnemyGiantThruster.label>Propulsor gigante inimigo</VGE_EnemyGiantThruster.label>
+  <!-- EN: A massive, reinforced astrofuel thruster built with advanced alloys and ultra-dense vacstone plating. It massively increases the range and maximum size of the gravship\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyGiantThruster.description>Um propulsor de astrocombustível enorme e reforçado, construído com ligas avançadas e placas ultradensas de vacuíta. Aumenta enormemente o alcance e o tamanho máximo da gravinave.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyGiantThruster.description>
+  <!-- EN: enemy gravship engine -->
+  <VGE_EnemyGravEngine.label>Motor de gravinave inimiga</VGE_EnemyGravEngine.label>
+  <!-- EN: The ultratech heart of a gravship. The grav engine generates lift by inverting and intensifying the effect of gravity in a field around itself. This engine can lift upwards, but does not produce forward thrust.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore. -->
+  <VGE_EnemyGravEngine.description>O coração ultratecnológico de uma gravinave. O motor gravitacional gera elevação ao inverter e intensificar o efeito da gravidade em um campo ao seu redor. Pode elevar a gravinave, mas não produz impulso para a frente.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos, incluindo um gravinúcleo.</VGE_EnemyGravEngine.description>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_EnemyGravEngine.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_EnemyGravEngine.comps.CompInspectString.inspectString>
+  <!-- EN: Gravship engine -->
+  <VGE_EnemyGravEngine.comps.CompLetterOnRevealed.label>Motor de gravinave</VGE_EnemyGravEngine.comps.CompLetterOnRevealed.label>
+  <!-- EN: You've discovered an enemy gravship engine. Destroy it to obtain a gravcore and permanently disable the ship's ability to move. -->
+  <VGE_EnemyGravEngine.comps.CompLetterOnRevealed.text>Você descobriu o motor de uma gravinave inimiga. Destrua-o para obter um gravinúcleo e desativar permanentemente a capacidade de movimento da gravinave.</VGE_EnemyGravEngine.comps.CompLetterOnRevealed.text>
+  <!-- EN: enemy grav field amplifier -->
+  <VGE_EnemyGravFieldAmplifier.label>Amplificador de campo gravitacional inimigo</VGE_EnemyGravFieldAmplifier.label>
+  <!-- EN: An advanced ultratech device that dramatically increases the size of a gravship.  It extends the area in which substructure can be built, and increases the amount of substructure that a gravship can support.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyGravFieldAmplifier.description>Um dispositivo ultratecnológico avançado que aumenta drasticamente o tamanho de uma gravinave. Amplia a área na qual é possível construir subestruturas e aumenta a quantidade de subestruturas que a gravinave pode comportar.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyGravFieldAmplifier.description>
+  <!-- EN: enemy grav field extender -->
+  <VGE_EnemyGravFieldExtender.label>Extensor de campo gravitacional inimigo</VGE_EnemyGravFieldExtender.label>
+  <!-- EN: An ultratech device used to increase the size of a gravship. It extends the area in which substructure can be built, and increases the amount of substructure that a gravship can support.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyGravFieldExtender.description>Um dispositivo ultratecnológico usado para aumentar o tamanho de uma gravinave. Amplia a área na qual é possível construir subestruturas e aumenta a quantidade de subestruturas que a gravinave pode comportar.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyGravFieldExtender.description>
+  <!-- EN: enemy gravhulk engine -->
+  <VGE_EnemyGravhulkEngine.label>Motor de gravicolosso inimigo</VGE_EnemyGravhulkEngine.label>
+  <!-- EN: The gravhulk is a colossal class of gravship, engineered to transport entire megacolonies, orbital platforms, or mobile city-cores across the skies of a planet. The grav engine generates lift by inverting and intensifying the effect of gravity in a field around itself. This engine can lift upwards, but does not produce forward thrust. It can't function far from a large gravity well like a planet, so it is useless for interplanetary travel.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore. -->
+  <VGE_EnemyGravhulkEngine.description>O gravicolosso é uma classe colossal de gravinave, projetada para transportar megacolônias inteiras, plataformas orbitais ou núcleos de cidades móveis pelos céus de um planeta. O motor gravitacional gera elevação ao inverter e intensificar o efeito da gravidade em um campo ao seu redor. Pode elevar a gravinave, mas não produz impulso para a frente. Não funciona longe de um grande poço gravitacional, como um planeta, sendo inútil para viagens interplanetárias.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos, incluindo um gravinúcleo.</VGE_EnemyGravhulkEngine.description>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_EnemyGravhulkEngine.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_EnemyGravhulkEngine.comps.CompInspectString.inspectString>
+  <!-- EN: Gravhulk engine -->
+  <VGE_EnemyGravhulkEngine.comps.CompLetterOnRevealed.label>Motor de gravicolosso</VGE_EnemyGravhulkEngine.comps.CompLetterOnRevealed.label>
+  <!-- EN: You've discovered an enemy gravhulk engine. Destroy it to obtain a gravcore and permanently cripple this massive vessel's mobility. -->
+  <VGE_EnemyGravhulkEngine.comps.CompLetterOnRevealed.text>Você descobriu o motor de um gravicolosso inimigo. Destrua-o para obter um gravinúcleo e incapacitar permanentemente a mobilidade desta nave enorme.</VGE_EnemyGravhulkEngine.comps.CompLetterOnRevealed.text>
+  <!-- EN: enemy gravjumper engine -->
+  <VGE_EnemyGravjumperEngine.label>Motor de gravisalto inimigo</VGE_EnemyGravjumperEngine.label>
+  <!-- EN: A compact gravtech engine designed for short-range jumps within a planet's atmosphere. The gravjumper engine creates a brief, localized distortion in gravitational flow, allowing rapid vertical lift, but does not produce forward thrust. It can't function far from a large gravity well like a planet, so it is useless for interplanetary travel.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore. -->
+  <VGE_EnemyGravjumperEngine.description>Um motor de gravtecnologia compacto, projetado para saltos de curto alcance na atmosfera de um planeta. O motor de gravisalto cria uma distorção breve e localizada no fluxo gravitacional, permitindo uma rápida elevação vertical, mas não produz impulso para a frente. Não funciona longe de um poço gravitacional grande, como um planeta, e por isso é inútil para viagens interplanetárias.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos, incluindo um gravinúcleo.</VGE_EnemyGravjumperEngine.description>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_EnemyGravjumperEngine.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_EnemyGravjumperEngine.comps.CompInspectString.inspectString>
+  <!-- EN: Gravjumper engine -->
+  <VGE_EnemyGravjumperEngine.comps.CompLetterOnRevealed.label>Motor de gravisalto</VGE_EnemyGravjumperEngine.comps.CompLetterOnRevealed.label>
+  <!-- EN: You've discovered an enemy gravjumper engine. Destroy it to obtain a gravcore and permanently disable the vessel's ability to move. -->
+  <VGE_EnemyGravjumperEngine.comps.CompLetterOnRevealed.text>Você descobriu o motor de um gravisalto inimigo. Destrua-o para obter um gravinúcleo e desativar permanentemente a capacidade de movimento do gravisalto.</VGE_EnemyGravjumperEngine.comps.CompLetterOnRevealed.text>
+  <!-- EN: enemy gravlock tether -->
+  <VGE_EnemyGravlockTether.label>Cabo de ancoragem gravitacional inimigo</VGE_EnemyGravlockTether.label>
+  <!-- EN: The gravlock tether is the core stabilization unit of an orbital station, anchoring it in a fixed position. A specialized conversion of the gravhulk engine, this device generates a stabilized gravitational field to maintain the station's orbital trajectory.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore. -->
+  <VGE_EnemyGravlockTether.description>O cabo de ancoragem gravitacional é a unidade central de estabilização de uma estação orbital, mantendo-a em posição fixa. Uma versão especializada do motor de gravicolosso, este dispositivo gera um campo gravitacional estabilizado para manter a trajetória orbital da estação.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos, incluindo um gravinúcleo.</VGE_EnemyGravlockTether.description>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_EnemyGravlockTether.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_EnemyGravlockTether.comps.CompInspectString.inspectString>
+  <!-- EN: Gravlock tether -->
+  <VGE_EnemyGravlockTether.comps.CompLetterOnRevealed.label>Cabo de ancoragem gravitacional</VGE_EnemyGravlockTether.comps.CompLetterOnRevealed.label>
+  <!-- EN: You've discovered an enemy gravlock tether, anchoring an orbital base in place. Destroy it to obtain a gravcore. -->
+  <VGE_EnemyGravlockTether.comps.CompLetterOnRevealed.text>Você descobriu um cabo de ancoragem gravitacional inimigo, que mantém uma base orbital no lugar. Destrua-o para obter um gravinúcleo.</VGE_EnemyGravlockTether.comps.CompLetterOnRevealed.text>
+  <!-- EN: enemy gravship autocannon turret -->
+  <VGE_EnemyGravshipAutocannonTurret.label>Torreta de autocanhão de gravinave inimiga</VGE_EnemyGravshipAutocannonTurret.label>
+  <!-- EN: A compact gravship-mounted automatic turret. Its large-caliber shells do heavy damage over significant ranges, but despite its efficiency, the barrel must be refurbished after heavy use. It cannot fire at close-up targets, and may explode when damaged.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyGravshipAutocannonTurret.description>Uma torreta automática compacta montada em uma gravinave. Seus projéteis de grande calibre causam muito dano a distâncias consideráveis, mas o cano precisa ser reformado após uso intenso. Não pode disparar contra alvos próximos e pode explodir quando danificada.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyGravshipAutocannonTurret.description>
+  <!-- EN: enemy gravship light -->
+  <VGE_EnemyGravshipLight_red.label>Luz de gravinave inimiga</VGE_EnemyGravshipLight_red.label>
+  <!-- EN: An ancient light containing a long-lasting battery. -->
+  <VGE_EnemyGravshipLight_red.description>Uma luz antiga contendo uma bateria de longa duração.</VGE_EnemyGravshipLight_red.description>
+  <!-- EN: enemy gravship minigun turret -->
+  <VGE_EnemyGravshipMinigunTurret.label>Torreta de metralhadora de gravinave inimiga</VGE_EnemyGravshipMinigunTurret.label>
+  <!-- EN: A compact gravship-mounted heavy automatic turret. Its multi-barrel mechanism unleashes sustained fire at high speed, shredding lightly armored targets at mid-range. It may explode when damaged.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyGravshipMinigunTurret.description>Uma torreta automática pesada e compacta, montada em uma gravinave. Seu mecanismo de múltiplos canos libera fogo contínuo em alta velocidade, dilacerando alvos levemente blindados a médio alcance. Pode explodir quando danificada.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyGravshipMinigunTurret.description>
+  <!-- EN: enemy gravship uranium slug turret -->
+  <VGE_EnemyGravshipUraniumSlugTurret.label>Torreta de projéteis de urânio de gravinave inimiga</VGE_EnemyGravshipUraniumSlugTurret.label>
+  <!-- EN: A compact gravship-mounted armor-piercing turret. Its ultra-dense uranium shells can punch through heavy armor, but it requires new uranium slugs to be loaded after use. More efficient than its ground version, it consumes fewer slugs per shot. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyGravshipUraniumSlugTurret.description>Uma torreta compacta montada em uma gravinave, capaz de perfurar blindagens. Seus projéteis de urânio ultradensos atravessam blindagens pesadas, mas é preciso carregá-la com novos projéteis após o uso. É mais eficiente que sua versão terrestre e consome menos projéteis por disparo. Tem maior precisão a longas distâncias e não consegue disparar contra alvos próximos. Pode explodir quando danificada.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyGravshipUraniumSlugTurret.description>
+  <!-- EN: enemy javelin launcher -->
+  <VGE_EnemyJavelinLauncher.label>lançador de dardo inimigo</VGE_EnemyJavelinLauncher.label>
+  <!-- EN: A heavy multi-tube missile platform that fires a spread of 12 long-range guided astrofuel-propelled javelins. Designed for saturation strikes against surface targets and rival gravships in orbit. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyJavelinLauncher.description>Uma plataforma de mísseis pesada e de múltiplos tubos, que dispara uma salva de 12 dardos guiados de longo alcance, propelidos por astrocombustível. Projetada para ataques de saturação contra alvos na superfície e gravinaves rivais em órbita. Extrai energia diretamente do motor gravitacional e não precisa de um terminal conectado para funcionar.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyJavelinLauncher.description>
+  <!-- EN: enemy javelin pod -->
+  <VGE_EnemyJavelinPod.label>cápsula de dardos inimiga</VGE_EnemyJavelinPod.label>
+  <!-- EN: A compact multi-tube missile platform that launches a volley of six guided astrofuel javelins. Meant for fast, hard-hitting strikes against exposed gravships and unarmored surface forces. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyJavelinPod.description>Uma plataforma compacta de mísseis com múltiplos tubos, que lança uma salva de seis dardos guiados de astrocombustível. Projetada para ataques rápidos e contundentes contra gravinaves expostas e forças de superfície sem blindagem. Extrai energia diretamente do motor gravitacional e não precisa de um terminal conectado para funcionar.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyJavelinPod.description>
+  <!-- EN: large enemy shield generator -->
+  <VGE_EnemyLargeShieldGenerator.label>Gerador de escudo grande inimigo</VGE_EnemyLargeShieldGenerator.label>
+  <!-- EN: A large-scale shielding device that can protect a gravship. It modulates the grav field to create a short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. Those inside can still shoot out. It must be charged before use.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyLargeShieldGenerator.description>Um dispositivo de grande porte que pode proteger uma gravinave. Modula o campo gravitacional para criar uma superfície repulsora de momento, de curta duração, que bloqueia projéteis. Funciona contra disparos comuns e morteiros. Quem estiver dentro ainda pode atirar para fora. Precisa ser carregado antes do uso.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyLargeShieldGenerator.description>
+  <!-- EN: enemy large thruster -->
+  <VGE_EnemyLargeThruster.label>Propulsor grande inimigo</VGE_EnemyLargeThruster.label>
+  <!-- EN: An advanced astrofuel thruster with a heat-resistant vacstone liner. It greatly increases the range and maximum size of the gravship.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyLargeThruster.description>Um propulsor avançado de astrocombustível, revestido com vacuíta resistente ao calor. Aumenta bastante o alcance e o tamanho máximo da gravinave.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyLargeThruster.description>
+  <!-- EN: enemy oxygen pump -->
+  <VGE_EnemyOxygenPump.label>Bomba de oxigênio inimiga</VGE_EnemyOxygenPump.label>
+  <!-- EN: A unit connected to the gravship’s life support network. It keeps rooms heated and pressurized. -->
+  <VGE_EnemyOxygenPump.description>Uma unidade conectada à rede de suporte à vida da gravinave. Mantém as salas aquecidas e pressurizadas.</VGE_EnemyOxygenPump.description>
+  <!-- EN: enemy pilot bridge -->
+  <VGE_EnemyPilotBridge.label>Ponte de comando inimiga</VGE_EnemyPilotBridge.label>
+  <!-- EN: An interface that allows launching and piloting a gravhulk. It draws power directly from the grav engine.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyPilotBridge.description>Uma interface que permite lançar e pilotar um gravicolosso. Extrai energia diretamente do motor gravitacional.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyPilotBridge.description>
+  <!-- EN: enemy pilot cockpit -->
+  <VGE_EnemyPilotCockpit.label>cockpit de piloto inimigo</VGE_EnemyPilotCockpit.label>
+  <!-- EN: An interface that allows launching and piloting a gravjumper. It draws power directly from the grav engine.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyPilotCockpit.description>Uma interface que permite lançar e pilotar um gravisalto. Extrai energia diretamente do motor gravitacional.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyPilotCockpit.description>
+  <!-- EN: enemy pilot console -->
+  <VGE_EnemyPilotConsole.label>console de piloto inimigo</VGE_EnemyPilotConsole.label>
+  <!-- EN: An interface that allows launching and piloting a gravship. It draws power directly from the grav engine.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyPilotConsole.description>Uma interface que permite lançar e pilotar uma gravinave. Extrai energia diretamente do motor gravitacional.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyPilotConsole.description>
+  <!-- EN: enemy point defense turret -->
+  <VGE_EnemyPointDefenseTurret.label>torreta de defesa pontual inimiga</VGE_EnemyPointDefenseTurret.label>
+  <!-- EN: A specialized defensive turret built exclusively for gravships. It intercepts explosive projectiles and incoming drop pods within its protective radius, but cannot engage ground targets. Interception chance scales with the target’s velocity.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyPointDefenseTurret.description>Uma torreta defensiva especializada, construída exclusivamente para gravinaves. Intercepta projéteis explosivos e cápsulas de desembarque dentro do seu raio de proteção, mas não pode atacar alvos terrestres. A chance de interceptação aumenta conforme a velocidade do alvo.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyPointDefenseTurret.description>
+  <!-- EN: enemy shield generator -->
+  <VGE_EnemyShieldGenerator.label>gerador de escudo inimigo</VGE_EnemyShieldGenerator.label>
+  <!-- EN: A shielding device that can protect a gravship. It modulates the grav field to create a short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. Those inside can still shoot out. It must be charged before use.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyShieldGenerator.description>Um gerador de escudo que pode proteger uma gravinave. Modula o campo gravitacional para criar uma superfície repulsora de momento, de curta duração, que bloqueia projéteis. Funciona contra disparos comuns e morteiros. Quem estiver dentro ainda pode atirar para fora. Precisa ser carregado antes do uso.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyShieldGenerator.description>
+  <!-- EN: enemy signal jammer -->
+  <VGE_EnemySignalJammer.label>bloqueador de sinais inimigo</VGE_EnemySignalJammer.label>
+  <!-- EN: An advanced jamming array that disrupts local guidance signals, preventing the deployment of gravships and drop pods in its immediate vicinity. This particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemySignalJammer.description>Uma matriz avançada de interferência que interrompe sinais de orientação locais, impedindo a implantação de gravinaves e cápsulas de desembarque em sua vizinhança imediata. Este dispositivo em particular é propriedade do inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar alguns recursos valiosos.</VGE_EnemySignalJammer.description>
+  <!-- EN: enemy small thruster -->
+  <VGE_EnemySmallThruster.label>propulsor pequeno inimigo</VGE_EnemySmallThruster.label>
+  <!-- EN: An astrofuel thruster that increases the range and maximum size of the gravship.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemySmallThruster.description>Um propulsor de astrocombustível que aumenta o alcance e o tamanho máximo da gravinave.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemySmallThruster.description>
+  <!-- EN: enemy targeting console -->
+  <VGE_EnemyTargetingConsole.label>console de mira inimigo</VGE_EnemyTargetingConsole.label>
+  <!-- EN: A large, enemy targeting console responsible for calibrating the reload sequence of nearby gravship artillery pieces.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyTargetingConsole.description>Um grande console de mira inimigo, responsável por calibrar a sequência de recarga das peças de artilharia de gravinave próximas.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyTargetingConsole.description>
+  <!-- EN: enemy targeting terminal -->
+  <VGE_EnemyTargetingTerminal.label>terminal de mira inimigo</VGE_EnemyTargetingTerminal.label>
+  <!-- EN: An enemy control terminal responsible for calibrating the nearby gravship artillery turrets.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
+  <VGE_EnemyTargetingTerminal.description>Um terminal de controle inimigo, responsável por calibrar as torretas de artilharia de gravinave próximas.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyTargetingTerminal.description>
+  <!-- EN: defender turret gun -->
+  <VGE_Gun_DefenderTurret.label>arma de torreta defensora</VGE_Gun_DefenderTurret.label>
+  <!-- EN: A simple automatic gun made to be mounted on a turret. -->
+  <VGE_Gun_DefenderTurret.description>Uma arma automática simples feita para ser montada em uma torreta.</VGE_Gun_DefenderTurret.description>
+  <!-- EN: defender turret gun -->
+  <VGE_Gun_DefenderTurret.verbs.Verb_Shoot.label>arma de torreta defensora</VGE_Gun_DefenderTurret.verbs.Verb_Shoot.label>
+  <!-- EN: enemy anticraft beam -->
+  <VGE_Gun_EnemyAnticraftBeam.label>feixe antiaéreo inimigo</VGE_Gun_EnemyAnticraftBeam.label>
+  <!-- EN: enemy anticraft beam -->
+  <VGE_Gun_EnemyAnticraftBeam.verbs.Verb_AnticraftBeam.label>feixe antiaéreo inimigo</VGE_Gun_EnemyAnticraftBeam.verbs.Verb_AnticraftBeam.label>
+  <!-- EN: enemy anticraft caster -->
+  <VGE_Gun_EnemyAnticraftCaster.label>lançador antiaéreo inimigo</VGE_Gun_EnemyAnticraftCaster.label>
+  <!-- EN: enemy anticraft caster -->
+  <VGE_Gun_EnemyAnticraftCaster.verbs.Verb_ShootWithWorldTargeting.label>lançador antiaéreo inimigo</VGE_Gun_EnemyAnticraftCaster.verbs.Verb_ShootWithWorldTargeting.label>
+  <!-- EN: enemy gauss bombard -->
+  <VGE_Gun_EnemyGaussBombard.label>bombardeio Gauss inimigo</VGE_Gun_EnemyGaussBombard.label>
+  <!-- EN: A heavy, slow-firing electromagnetic launcher. -->
+  <VGE_Gun_EnemyGaussBombard.description>Um lançador eletromagnético pesado e de disparo lento.</VGE_Gun_EnemyGaussBombard.description>
+  <!-- EN: enemy gauss bombard -->
+  <VGE_Gun_EnemyGaussBombard.verbs.Verb_ShootWithSmoke.label>bombardeio Gauss inimigo</VGE_Gun_EnemyGaussBombard.verbs.Verb_ShootWithSmoke.label>
+  <!-- EN: enemy gauss cannon -->
+  <VGE_Gun_EnemyGaussCannon.label>canhão Gauss inimigo</VGE_Gun_EnemyGaussCannon.label>
+  <!-- EN: An incredibly powerful anti-ship gauss artillery mounted on an orbital station. -->
+  <VGE_Gun_EnemyGaussCannon.description>Uma artilharia Gauss anti-navio incrivelmente poderosa montada em uma estação orbital.</VGE_Gun_EnemyGaussCannon.description>
+  <!-- EN: enemy gauss cannon -->
+  <VGE_Gun_EnemyGaussCannon.verbs.Verb_ShootWithSmoke.label>canhão Gauss inimigo</VGE_Gun_EnemyGaussCannon.verbs.Verb_ShootWithSmoke.label>
+  <!-- EN: enemy gauss gun -->
+  <VGE_Gun_EnemyGaussGun.label>arma Gauss inimiga</VGE_Gun_EnemyGaussGun.label>
+  <!-- EN: enemy gauss gun -->
+  <VGE_Gun_EnemyGaussGun.verbs.Verb_ShootWithSmoke.label>arma Gauss inimiga</VGE_Gun_EnemyGaussGun.verbs.Verb_ShootWithSmoke.label>
+  <!-- EN: enemy gauss howitzer -->
+  <VGE_Gun_EnemyGaussHowitzer.label>Obuseiro Gauss inimigo</VGE_Gun_EnemyGaussHowitzer.label>
+  <!-- EN: enemy gauss howitzer -->
+  <VGE_Gun_EnemyGaussHowitzer.verbs.Verb_ShootWithSmoke.label>Obuseiro Gauss inimigo</VGE_Gun_EnemyGaussHowitzer.verbs.Verb_ShootWithSmoke.label>
+  <!-- EN: gravship autocannon -->
+  <VGE_Gun_EnemyGravshipAutocannon.label>autocanhão de gravinave</VGE_Gun_EnemyGravshipAutocannon.label>
+  <!-- EN: gravship autocannon -->
+  <VGE_Gun_EnemyGravshipAutocannon.verbs.Verb_Shoot.label>autocanhão de gravinave</VGE_Gun_EnemyGravshipAutocannon.verbs.Verb_Shoot.label>
+  <!-- EN: gravship minigun -->
+  <VGE_Gun_EnemyGravshipMinigun.label>metralhadora de gravinave</VGE_Gun_EnemyGravshipMinigun.label>
+  <!-- EN: gravship minigun -->
+  <VGE_Gun_EnemyGravshipMinigun.verbs.Verb_Shoot.label>metralhadora de gravinave</VGE_Gun_EnemyGravshipMinigun.verbs.Verb_Shoot.label>
+  <!-- EN: gravship uranium slug gun -->
+  <VGE_Gun_EnemyGravshipUraniumSlug.label>arma de projéteis de urânio de gravinave</VGE_Gun_EnemyGravshipUraniumSlug.label>
+  <!-- EN: gravship uranium slug gun -->
+  <VGE_Gun_EnemyGravshipUraniumSlug.verbs.Verb_Shoot.label>arma de projéteis de urânio de gravinave</VGE_Gun_EnemyGravshipUraniumSlug.verbs.Verb_Shoot.label>
+  <!-- EN: enemy javelin launcher -->
+  <VGE_Gun_EnemyJavelinLauncher.label>lançador de dardo inimigo</VGE_Gun_EnemyJavelinLauncher.label>
+  <!-- EN: enemy javelin launcher -->
+  <VGE_Gun_EnemyJavelinLauncher.verbs.Verb_ShootWithWorldTargeting.label>lançador de dardo inimigo</VGE_Gun_EnemyJavelinLauncher.verbs.Verb_ShootWithWorldTargeting.label>
+  <!-- EN: enemy javelin pod -->
+  <VGE_Gun_EnemyJavelinPod.label>cápsula de dardos inimiga</VGE_Gun_EnemyJavelinPod.label>
+  <!-- EN: enemy javelin pod -->
+  <VGE_Gun_EnemyJavelinPod.verbs.Verb_ShootWithWorldTargeting.label>cápsula de dardos inimiga</VGE_Gun_EnemyJavelinPod.verbs.Verb_ShootWithWorldTargeting.label>
+  <!-- EN: point defense gun -->
+  <VGE_Gun_EnemyPointDefense.label>arma de defesa pontual</VGE_Gun_EnemyPointDefense.label>
+  <!-- EN: A rapid-fire gun for point-defense applications. -->
+  <VGE_Gun_EnemyPointDefense.description>Uma arma de disparo rápido para aplicações de defesa pontual.</VGE_Gun_EnemyPointDefense.description>
+  <!-- EN: point defense gun -->
+  <VGE_Gun_EnemyPointDefense.verbs.Verb_Shoot.label>arma de defesa pontual</VGE_Gun_EnemyPointDefense.verbs.Verb_Shoot.label>
+  <!-- EN: hostile warcomputer -->
+  <VGE_HostileWarcomputer.label>computador de guerra hostil</VGE_HostileWarcomputer.label>
+  <!-- EN: The tactical core of an orbital warplatform. This advanced supercomputer maintains active target locks and manages the platform's long-range artillery systems. It can be accessed and hacked to download a payload of gravdata, scaling based on progress on the currently selected gravtech research project. Destroying or hacking the warcomputer will disable the platform entirely. -->
+  <VGE_HostileWarcomputer.description>O núcleo tático de uma plataforma de guerra orbital. Este supercomputador avançado mantém bloqueios ativos de alvos e gerencia os sistemas de artilharia de longo alcance da plataforma. Pode ser acessado e hackeado para baixar uma carga de gravdados, cuja quantidade depende do progresso no projeto de pesquisa de gravtecnologia selecionado no momento. Destruir ou hackear o computador de guerra desabilitará a plataforma por completo.</VGE_HostileWarcomputer.description>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_HostileWarcomputer.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_HostileWarcomputer.comps.CompInspectString.inspectString>
+  <!-- EN: Warcomputer -->
+  <VGE_HostileWarcomputer.comps.CompLetterOnRevealed.label>Computador de guerra</VGE_HostileWarcomputer.comps.CompLetterOnRevealed.label>
+  <!-- EN: You've discovered a hostile warcomputer running an orbital warplatform. Destroy it to disable all platform weaponry and obtain a gravcore. -->
+  <VGE_HostileWarcomputer.comps.CompLetterOnRevealed.text>Você descobriu um computador de guerra hostil que controla uma plataforma de guerra orbital. Destrua-o para desativar todas as armas da plataforma e obter um gravinúcleo.</VGE_HostileWarcomputer.comps.CompLetterOnRevealed.text>
+  <!-- EN: Mote -->
+  <VGE_Mote_AnticraftBeam.label>Mote</VGE_Mote_AnticraftBeam.label>
+  <!-- EN: defender turret -->
+  <VGE_Turret_DefenderTurret.label>torreta defensora</VGE_Turret_DefenderTurret.label>
+  <!-- EN: An armored security turret containing containing a built-in power source. -->
+  <VGE_Turret_DefenderTurret.description>Uma torreta de segurança blindada que contém uma fonte de energia integrada.</VGE_Turret_DefenderTurret.description>
+  <!-- EN: exoworm -->
+  <VGE_GiantWormspitter_Releaser.label>exoverme</VGE_GiantWormspitter_Releaser.label>
+  <!-- EN: An incoming exoworm. -->
+  <VGE_GiantWormspitter_Releaser.description>Exoverme a caminho.</VGE_GiantWormspitter_Releaser.description>
+  <!-- EN: space infestation spawner -->
+  <VGE_SpaceInfestationSpawner.label>gerador de infestação espacial</VGE_SpaceInfestationSpawner.label>
+  <!-- EN: An invisible spawner for space infestation. -->
+  <VGE_SpaceInfestationSpawner.description>Um gerador invisível de infestação espacial.</VGE_SpaceInfestationSpawner.description>
+  <!-- EN: charge battery shot -->
+  <VGE_Bullet_ChargeBattery.label>disparo da bateria de carga</VGE_Bullet_ChargeBattery.label>
+  <!-- EN: inferno artillery shot -->
+  <VGE_Bullet_InfernoArtillery.label>disparo de artilharia infernal</VGE_Bullet_InfernoArtillery.label>
+  <!-- EN: charge battery -->
+  <VGE_Gun_MechanoidChargeBattery.label>bateria de carga</VGE_Gun_MechanoidChargeBattery.label>
+  <!-- EN: A massive, pulse-charged artillery battery. -->
+  <VGE_Gun_MechanoidChargeBattery.description>Uma bateria de artilharia enorme, carregada por pulsos.</VGE_Gun_MechanoidChargeBattery.description>
+  <!-- EN: charge battery -->
+  <VGE_Gun_MechanoidChargeBattery.verbs.Verb_ShootWithSmoke.label>bateria de carga</VGE_Gun_MechanoidChargeBattery.verbs.Verb_ShootWithSmoke.label>
+  <!-- EN: inferno artillery -->
+  <VGE_Gun_MechanoidInfernoArtillery.label>Artilharia infernal</VGE_Gun_MechanoidInfernoArtillery.label>
+  <!-- EN: A massive, long-range bombardment cannon built by mechanoids. -->
+  <VGE_Gun_MechanoidInfernoArtillery.description>Um canhão de bombardeio de longo alcance enorme, construído por mechanoides.</VGE_Gun_MechanoidInfernoArtillery.description>
+  <!-- EN: inferno artillery -->
+  <VGE_Gun_MechanoidInfernoArtillery.verbs.Verb_ShootWithSmoke.label>artilharia infernal</VGE_Gun_MechanoidInfernoArtillery.verbs.Verb_ShootWithSmoke.label>
+  <!-- EN: mechanoid artillery loader -->
+  <VGE_MechanoidArtilleryLoader.label>Carregador de artilharia mechanoide</VGE_MechanoidArtilleryLoader.label>
+  <!-- EN: A specialized, heavily-reinforced conveyor system designed to rapidly feed slugs into mechanoid mass drivers. It dramatically decreases the reload time of linked gravship artillery. -->
+  <VGE_MechanoidArtilleryLoader.description>Um sistema transportador especializado e fortemente reforçado, projetado para alimentar rapidamente os projéteis nos canhões eletromagnéticos mechanoides. Reduz drasticamente o tempo de recarga da artilharia de gravinave conectada.</VGE_MechanoidArtilleryLoader.description>
+  <!-- EN: mechanoid processor -->
+  <VGE_MechanoidAuxiliaryProcessor.label>Processador auxiliar mechanoide</VGE_MechanoidAuxiliaryProcessor.label>
+  <!-- EN: An auxiliary mechanoid computer. -->
+  <VGE_MechanoidAuxiliaryProcessor.description>Um computador mechanoide auxiliar.</VGE_MechanoidAuxiliaryProcessor.description>
+  <!-- EN: charge battery -->
+  <VGE_MechanoidChargeBattery.label>bateria de carga</VGE_MechanoidChargeBattery.label>
+  <!-- EN: A massive, pulse-charged artillery battery for indiscriminate, wide-area saturation. It’s capable of firing long, inaccurate bursts of fast-moving explosive projectiles. The weapon is fully autonomous, operated by a machine brain that requires no crew. Commonly seen on orbital bombardment platforms. -->
+  <VGE_MechanoidChargeBattery.description>Uma bateria de artilharia enorme, carregada por pulsos, para bombardeios indiscriminados em uma ampla área. Dispara rajadas longas e imprecisas de projéteis explosivos velozes. A arma é totalmente autônoma e operada por um cérebro mecânico, sem necessidade de tripulação. É comum encontrá-la em plataformas de bombardeio orbital.</VGE_MechanoidChargeBattery.description>
+  <!-- EN: mechanoid gravcapacitor -->
+  <VGE_MechanoidGravcapacitor.label>Gravcapacitor mechanoide</VGE_MechanoidGravcapacitor.label>
+  <!-- EN: A dense, complex energy reservoir used to store power for essential mechanoid systems. Its volatile charge is contained by powerful magnetic fields. If severely damaged, the released energy will detonate as a powerful EMP blast. -->
+  <VGE_MechanoidGravcapacitor.description>Um reservatório de energia denso e complexo, usado para armazenar energia para sistemas mechanoides essenciais. Sua carga volátil é contida por poderosos campos magnéticos. Se sofrer danos graves, a energia liberada detonará em uma explosão de PEM.</VGE_MechanoidGravcapacitor.description>
+  <!-- EN: mechanoid gravfield amplifier -->
+  <VGE_MechanoidGravfieldAmplifier.label>Amplificador de campo gravitacional mechanoide</VGE_MechanoidGravfieldAmplifier.label>
+  <!-- EN: A complex array of gravimetric resonators designed to stabilize and enhance the output of mechanoid grav engines. This amplifier allows orbital platforms to expand to colossal dimensions while maintaining structural integrity in space. -->
+  <VGE_MechanoidGravfieldAmplifier.description>Um conjunto complexo de ressonadores gravimétricos, projetado para estabilizar e ampliar a potência dos motores gravitacionais mechanoides. Este amplificador permite que plataformas orbitais se expandam a dimensões colossais sem perder a integridade estrutural no espaço.</VGE_MechanoidGravfieldAmplifier.description>
+  <!-- EN: mechanoid gravfield extender -->
+  <VGE_MechanoidGravfieldExtender.label>Extensor de campo gravitacional mechanoide</VGE_MechanoidGravfieldExtender.label>
+  <!-- EN: A support structure that stabilizes the localized gravity field of a mechanoid platform. By connecting to the primary grav engines, it extends the reach of the field, enabling more complex platform configurations and better structural integrity. -->
+  <VGE_MechanoidGravfieldExtender.description>Uma estrutura de suporte que estabiliza o campo gravitacional localizado de uma plataforma mechanoide. Ao se conectar aos motores gravitacionais principais, amplia o alcance do campo, permitindo configurações mais complexas e maior integridade estrutural.</VGE_MechanoidGravfieldExtender.description>
+  <!-- EN: mechanoid grav tether -->
+  <VGE_MechanoidGravTether.label>Cabo gravitacional mechanoide</VGE_MechanoidGravTether.label>
+  <!-- EN: A vast, artificial core of colossal mechanoid orbital platforms. Unlike human-built grav engines, these are constructed by the mechanoid core itself, optimized for ruthless efficiency and unending operation. They generate monumental lift and stabilization fields that allow entire, sprawling space stations to remain suspended in orbit, forming the backbone of mechanoid dominance in space. While largely incompatible with human systems, they can be destroyed to yield a gravcore, a rare and valuable prize for any who dare to challenge them. -->
+  <VGE_MechanoidGravTether.description>Um núcleo artificial vasto, pertencente a plataformas orbitais mechanoides colossais. Ao contrário dos motores gravitacionais construídos por humanos, estes são produzidos pelo próprio núcleo mechanoide e otimizados para eficiência implacável e operação contínua. Geram campos monumentais de elevação e estabilização, que mantêm estações espaciais inteiras suspensas em órbita e sustentam o domínio mechanoide no espaço. Embora sejam em grande parte incompatíveis com sistemas humanos, podem ser destruídos para obter um gravinúcleo, um prêmio raro e valioso para quem ousar enfrentá-los.</VGE_MechanoidGravTether.description>
+  <!-- EN: mechanoid heatsink -->
+  <VGE_MechanoidHeatsink.label>Dissipador de calor mechanoide</VGE_MechanoidHeatsink.label>
+  <!-- EN: A long, skeletal thermal regulator strut, built into the structure of mechanoid platforms to ensure total thermal stability. It absorbs waste heat from active mechanoid systems and converts a fraction of it into operational power, thus preventing core overheating and maintaining maximum efficiency. -->
+  <VGE_MechanoidHeatsink.description>Uma longa haste esquelética de regulação térmica, integrada à estrutura de plataformas mechanoides para garantir estabilidade térmica total. Absorve o calor residual dos sistemas mechanoides ativos e converte parte dele em energia operacional, evitando o superaquecimento do núcleo e mantendo a eficiência máxima.</VGE_MechanoidHeatsink.description>
+  <!-- EN: mechanoid hull platform -->
+  <VGE_MechanoidHullPlatform.label>Plataforma de casco mechanoide</VGE_MechanoidHullPlatform.label>
+  <!-- EN: A dense, structural building block used to form mechanoid orbital platforms. Due to the special gravlite alloys used to create them, they are impervious to damage. They are a constant fixture on mechanoid orbital platforms. -->
+  <VGE_MechanoidHullPlatform.description>Um bloco estrutural denso usado para formar plataformas orbitais mechanoides. As ligas especiais de gravilita usadas em sua fabricação tornam esses blocos imunes a danos. São elementos permanentes das plataformas orbitais mechanoides.</VGE_MechanoidHullPlatform.description>
+  <!-- EN: inferno artillery -->
+  <VGE_MechanoidInfernoArtillery.label>Artilharia infernal mechanoide</VGE_MechanoidInfernoArtillery.label>
+  <!-- EN: A massive, long-range bombardment cannon built by mechanoids. It launches superheated astrofuel rods that detonate upon impact, unleashing a conflagration of astrofire capable of burning in the vacuum of space. The weapon is fully autonomous, operated by a machine brain that requires no crew. Commonly seen on orbital bombardment platforms. -->
+  <VGE_MechanoidInfernoArtillery.description>Um canhão de bombardeio de longo alcance enorme, construído por mechanoides. Lança hastes de astrocombustível superaquecidas que detonam no impacto, liberando uma conflagração de fogo astral capaz de queimar no vácuo do espaço. A arma é totalmente autônoma e operada por um cérebro mecânico, sem necessidade de tripulação. É comum encontrá-la em plataformas de bombardeio orbital.</VGE_MechanoidInfernoArtillery.description>
+  <!-- EN: mechanoid information spire -->
+  <VGE_MechanoidInformationSpire.label>Pináculo de informações mechanoide</VGE_MechanoidInformationSpire.label>
+  <!-- EN: A support structure that stabilizes the localized gravity field of a mechanoid platform. By connecting to the primary grav engines, it extends the reach of the field, enabling more complex platform configurations and better structural integrity. -->
+  <VGE_MechanoidInformationSpire.description>Uma estrutura de suporte que estabiliza o campo gravitacional localizado de uma plataforma mechanoide. Ao se conectar aos motores gravitacionais principais, amplia o alcance do campo, permitindo configurações mais complexas e maior integridade estrutural.</VGE_MechanoidInformationSpire.description>
+  <!-- EN: mechanoid overshield -->
+  <VGE_MechanoidOvershieldGenerator.label>Gerador de escudo ampliado mechanoide</VGE_MechanoidOvershieldGenerator.label>
+  <!-- EN: A colossal defensive structure that projects a powerful, static energy shield with a huge radius. This barrier intercepts all incoming projectiles but permits fire from within. Once its substantial energy is depleted, the shield collapses, and the generator must endure a lengthy 15-day recharge cycle before the overshield can be redeployed. -->
+  <VGE_MechanoidOvershieldGenerator.description>Uma estrutura defensiva colossal que projeta um escudo de energia estático e poderoso, com enorme raio. A barreira intercepta todos os projéteis que chegam, mas permite disparos de dentro para fora. Quando sua energia considerável se esgota, o escudo desmorona, e o gerador precisa passar por um longo ciclo de recarga de 15 dias antes que o escudo ampliado possa ser reativado.</VGE_MechanoidOvershieldGenerator.description>
+  <!-- EN: mechanoid resource crate -->
+  <VGE_MechanoidResourceCrate.label>Caixa de recursos mechanoide</VGE_MechanoidResourceCrate.label>
+  <!-- EN: A mechanoid resource container. It appears impossible to open, and nobody knows what could be stored inside. -->
+  <VGE_MechanoidResourceCrate.description>Um contêiner de recursos mechanoide. Parece impossível abri-lo, e ninguém sabe o que pode estar armazenado em seu interior.</VGE_MechanoidResourceCrate.description>
+  <!-- EN: mechanoid sensor node -->
+  <VGE_MechanoidSensorNode.label>Nó sensor mechanoide</VGE_MechanoidSensorNode.label>
+  <!-- EN: A sophisticated sensor array utilizing advanced optics and gravimetric scanners to monitor orbital activity, feeding real-time data and faction movements back to the mechanoid swarm. -->
+  <VGE_MechanoidSensorNode.description>Uma matriz sofisticada de sensores, com óptica avançada e escâneres gravimétricos, que monitora a atividade orbital e transmite ao enxame mechanoide dados em tempo real sobre essa atividade e sobre os movimentos das facções.</VGE_MechanoidSensorNode.description>
+  <!-- EN: mechanoid signal jammer -->
+  <VGE_MechanoidSignalJammer.label>Bloqueador de sinal mechanoide</VGE_MechanoidSignalJammer.label>
+  <!-- EN: A sophisticated array of sensors and emitters that broadcast localized interference across the immediate vicinity. By saturating the area with conflicting gravimetric signals, it prevents the approach of any gravship or drop pod, creating an impenetrable exclusion zone around the installation. -->
+  <VGE_MechanoidSignalJammer.description>Uma sofisticada matriz de sensores e emissores que transmite interferência localizada nas proximidades. Ao saturar a área com sinais gravimétricos conflitantes, impede a aproximação de gravinaves e cápsulas de desembarque, criando uma zona de exclusão impenetrável ao redor da instalação.</VGE_MechanoidSignalJammer.description>
+  <!-- EN: mechanoid solar panel -->
+  <VGE_MechanoidSolarPanel.label>Painel solar mechanoide</VGE_MechanoidSolarPanel.label>
+  <!-- EN: A dense array of hexagonal gravlite solar panels, arranged in a tight grid across mechanoid platforms. They efficiently convert solar radiation into power, maintaining the endless operational cycle of mechanoid systems. -->
+  <VGE_MechanoidSolarPanel.description>Uma densa matriz de painéis solares hexagonais de gravilita, dispostos em uma grade compacta sobre plataformas mechanoides. Eles convertem eficientemente a radiação solar em energia, mantendo o ciclo operacional ininterrupto dos sistemas mechanoides.</VGE_MechanoidSolarPanel.description>
+  <!-- EN: mechanoid stabilizer -->
+  <VGE_MechanoidStabilizer.label>Estabilizador mechanoide</VGE_MechanoidStabilizer.label>
+  <!-- EN: A compact astrofuel thruster built by the mechanoid core to propel their orbital platforms. Its construction mirrors human design but is reinforced with mechanical precision, lined with thick vacstone plating that shrugs off extreme heat and stress. These smaller thrusters assist platforms with fine-tuned maneuvering and position-holding in orbit. While unusable for human gravships, destroying one will yield a tiny supply of precious vacstone blocks. -->
+  <VGE_MechanoidStabilizer.description>Um propulsor compacto de astrocombustível, construído pelo núcleo mechanoide para impulsionar suas plataformas orbitais. Sua construção espelha o projeto humano, mas é reforçada com precisão mecânica e revestida com placas espessas de vacuíta, resistentes ao calor e ao esforço extremos. Esses propulsores menores auxiliam as plataformas em manobras precisas e na manutenção de posição em órbita. Embora sejam inutilizáveis em gravinaves humanas, destruir um deles rende uma pequena quantidade de blocos valiosos de vacuíta.</VGE_MechanoidStabilizer.description>
+  <!-- EN: mechanoid targeting relay -->
+  <VGE_MechanoidTargetingRelay.label>Relé de mira mechanoide</VGE_MechanoidTargetingRelay.label>
+  <!-- EN: A specialized relay that transmits precise targeting parameters to all nearby mechanoid artillery pieces. The constant stream of data dramatically improves their accuracy, ensuring devastatingly precise bombardment. -->
+  <VGE_MechanoidTargetingRelay.description>Um relé especializado que transmite parâmetros de mira precisos a todas as peças de artilharia mechanoide próximas. O fluxo constante de dados melhora muito a precisão, garantindo bombardeios devastadoramente certeiros.</VGE_MechanoidTargetingRelay.description>
+  <!-- EN: mech nav beacon -->
+  <VGE2_MechNavBeacon.label>Sinalizador de navegação mechanoide</VGE2_MechNavBeacon.label>
+  <!-- EN: A specialized beacon used by mechanoid orbital platforms to broadcast precise docking vectors and formation coordinates. -->
+  <VGE2_MechNavBeacon.description>Um sinalizador especializado usado por plataformas orbitais mechanoides para transmitir vetores precisos de acoplagem e coordenadas de formação.</VGE2_MechNavBeacon.description>
+  <!-- EN: mech vertex -->
+  <VGE2_MechVertex.label>vértice mechanoide</VGE2_MechVertex.label>
+  <!-- EN: A mysterious, autonomous mechanoid node with unknown purpose. While these nodes are rich in extractable resources, they are exceptionally delicate, and any significant damage will trigger a catastrophic failure in their micro power cells. -->
+  <VGE2_MechVertex.description>Um nó mechanoide misterioso e autônomo, de finalidade desconhecida. Esses nós contêm muitos recursos extraíveis, mas são extremamente delicados; qualquer dano significativo provocará uma falha catastrófica em suas microcélulas de energia.</VGE2_MechVertex.description>
+  <!-- EN: exoworm egg sac -->
+  <VGE_EggSac.label>Saco de ovos de exoverme</VGE_EggSac.label>
+  <!-- EN: A slimy sac containing an exoworm. The larval gestation process generates a faint bioluminescent glow. -->
+  <VGE_EggSac.description>Um saco viscoso contendo um exoverme. O processo de gestação larval produz um brilho bioluminescente tênue.</VGE_EggSac.description>
+  <!-- EN: exohive -->
+  <VGE_ExoHive_Building.label>colmeia de exoinsetos</VGE_ExoHive_Building.label>
+  <!-- EN: A hive of giant insects of an exo-geneline. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. It may occasionally move and fight when threatened. -->
+  <VGE_ExoHive_Building.description>Uma colmeia de insetos gigantes de uma linhagem exógena. Quando ativada, ela gera insetos e colmeias adicionais ao longo do tempo, além de geleia de inseto valiosa. Ocasionalmente, pode se mover e lutar quando ameaçada.</VGE_ExoHive_Building.description>
+  <!-- EN: exoworm cocoon -->
+  <VGE_ExowormCocoon.label>Casulo de exoverme</VGE_ExowormCocoon.label>
+  <!-- EN: A stasis cocoon containing an exoworm.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
+  <VGE_ExowormCocoon.description>Um casulo de estase contendo um exoverme.\n\nQuando as condições são inóspitas, os insetos às vezes formam casulos de estase e se enterram. Esses casulos protegem os insetos contra fogo, temperaturas extremas e outras ameaças por anos.\n\nPoluentes podem estimular os casulos e fazê-los ressurgir; poluentes concentrados podem atrair casulos de grandes distâncias.\n\nOs casulos permanecem inativos se não forem perturbados. Se um casulo for perturbado ou destruído, o inseto em seu interior despertará e atacará, despertando também os casulos próximos.</VGE_ExowormCocoon.description>
+  <!-- EN: giant wormspitter -->
+  <VGE_GiantWormspitter.label>Verme cuspidor gigante</VGE_GiantWormspitter.label>
+  <!-- EN: A massive megaworm partially buried within an asteroid, with only its spitting apparatus exposed. This creature is adept at launching specialized pods over considerable distances that rupture on impact, releasing aggressive exoworms. It serves as a long-range defense for the infested asteroids and exohives. -->
+  <VGE_GiantWormspitter.description>Um megaverme enorme parcialmente enterrado em um asteroide, com apenas seu aparelho cuspidor exposto. Essa criatura é capaz de lançar cápsulas especializadas a grandes distâncias; elas se rompem no impacto e liberam exovermes agressivos. Serve como defesa de longo alcance para os asteroides infestados e as exocolmeias.</VGE_GiantWormspitter.description>
+  <!-- EN: giant wormspitter -->
+  <VGE_GiantWormspitter_Gun.label>Verme cuspidor gigante</VGE_GiantWormspitter_Gun.label>
+  <!-- EN: A massive megaworm partially buried within an asteroid, with only its spitting apparatus exposed. This creature is adept at launching specialized pods over considerable distances that rupture on impact, releasing aggressive exoworms. It serves as a long-range defense for the infested asteroids and exohives. -->
+  <VGE_GiantWormspitter_Gun.description>Um megaverme enorme parcialmente enterrado em um asteroide, com apenas seu aparelho cuspidor exposto. Essa criatura é capaz de lançar cápsulas especializadas a grandes distâncias; elas se rompem no impacto e liberam exovermes agressivos. Serve como defesa de longo alcance para os asteroides infestados e as exocolmeias.</VGE_GiantWormspitter_Gun.description>
+  <!-- EN: giant wormspitter -->
+  <VGE_GiantWormspitter_Gun.verbs.Verb_Shoot.label>Verme cuspidor gigante</VGE_GiantWormspitter_Gun.verbs.Verb_Shoot.label>
+  <!-- EN: giant wormspitter projectile -->
+  <VGE_GiantWormspitter_Projectile.label>Projétil do verme cuspidor gigante</VGE_GiantWormspitter_Projectile.label>
+  <!-- EN: astrofuel pod launcher -->
+  <VGE_AstrofuelPodLauncher.label>lançador de cápsulas de astrocombustível</VGE_AstrofuelPodLauncher.label>
+  <!-- EN: A compact fueling port for launching one transport pod. Utilizing highly efficient astrofuel, this launcher is significantly smaller than traditional designs. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
+  <VGE_AstrofuelPodLauncher.description>Uma porta compacta de abastecimento para lançar uma cápsula de transporte. Utiliza astrocombustível de alta eficiência, permitindo que este lançador seja significativamente menor que os modelos tradicionais. Os lançadores de cápsulas podem ser usados em grupo, mas precisam ser instalados lado a lado.</VGE_AstrofuelPodLauncher.description>
+  <!-- EN: escape pod -->
+  <VGE_EscapePod.label>cápsula de fuga</VGE_EscapePod.label>
+  <!-- EN: A floor-mounted, pre-fueled single use escape pod designed to quickly evacuate a single colonist with whatever gear they happened to carry at the time. The escape pod launches immediately upon the crewmember entering it, and will launch directly down to surface. Needs to be placed on gravship substructure. Only works in orbit. -->
+  <VGE_EscapePod.description>Uma cápsula de fuga de uso único, instalada no piso e abastecida previamente, projetada para evacuar rapidamente um colono com todo o equipamento que estiver carregando. Ela é lançada assim que um tripulante entra e segue diretamente para a superfície. Deve ser instalada na subestrutura da gravinave. Funciona apenas em órbita.</VGE_EscapePod.description>
+  <!-- EN: vacuum warning light -->
+  <VGE_VacuumWarningLight.label>luz de alerta de vácuo</VGE_VacuumWarningLight.label>
+  <!-- EN: An electrical warning lamp that emits flashing orange light if the vacuum in the room reaches dangerous levels. Undrafted crewmembers will make their way out of the room when the warning light turns on. Draws power directly from the grav engine. -->
+  <VGE_VacuumWarningLight.description>Uma lâmpada elétrica de alerta que pisca em laranja quando o vácuo no cômodo atinge níveis perigosos. Tripulantes sem ordens de combate sairão do cômodo quando a luz de alerta acender. Ela consome energia diretamente do motor de gravidade.</VGE_VacuumWarningLight.description>
+  <!-- EN: ancient warning light -->
+  <VGE_AncientEmergencyLight_Orange.label>luz de alerta antiga</VGE_AncientEmergencyLight_Orange.label>
+  <!-- EN: An ancient light containing a long-lasting battery. -->
+  <VGE_AncientEmergencyLight_Orange.description>Uma luz antiga contendo uma bateria de longa duração.</VGE_AncientEmergencyLight_Orange.description>
+  <!-- EN: glowstick pile -->
+  <VGE_GlowstickPile_Blue.label>pilha de bastões luminosos</VGE_GlowstickPile_Blue.label>
+  <!-- EN: A jumbled heap of glowsticks still spilling a soft, ethereal luminescence across the floor. -->
+  <VGE_GlowstickPile_Blue.description>Um amontoado desordenado de bastões luminosos que ainda espalham uma luz suave e etérea pelo chão.</VGE_GlowstickPile_Blue.description>
+  <!-- EN: glowstick pile -->
+  <VGE_GlowstickPile_Green.label>pilha de bastões luminosos</VGE_GlowstickPile_Green.label>
+  <!-- EN: A jumbled heap of glowsticks still spilling a soft, ethereal luminescence across the floor. -->
+  <VGE_GlowstickPile_Green.description>Um amontoado desordenado de bastões luminosos que ainda espalham uma luz suave e etérea pelo chão.</VGE_GlowstickPile_Green.description>
+  <!-- EN: glowstick pile -->
+  <VGE_GlowstickPile_Orange.label>pilha de bastões luminosos</VGE_GlowstickPile_Orange.label>
+  <!-- EN: A jumbled heap of glowsticks still spilling a soft, ethereal luminescence across the floor. -->
+  <VGE_GlowstickPile_Orange.description>Um amontoado desordenado de bastões luminosos que ainda espalham uma luz suave e etérea pelo chão.</VGE_GlowstickPile_Orange.description>
+  <!-- EN: infested gravlock tether -->
+  <VGE_InfestedGravlockTether.label>cabo de gravitrava infestado</VGE_InfestedGravlockTether.label>
+  <!-- EN: A corrupted gravlock tether that has been hollowed out and repurposed into a gigantic exoinsectoid hive. Integrated directly into the station's ventilation system, this pulsing structure continuously pumps larvae through the vents, spawning new insectoids that spread throughout the station.\n\nDestroy the infested gravlock tether to obtain a gravcore. -->
+  <VGE_InfestedGravlockTether.description>Um cabo de gravitrava corrompido, escavado por dentro e reaproveitado como uma gigantesca colmeia de insetos extraterrestres. Integrada diretamente ao sistema de ventilação da estação, essa estrutura pulsante bombeia larvas continuamente pelos dutos, gerando novos insetos que se espalham por toda a estação.\n\nDestrua o cabo de gravitrava infestado para obter um gravinúcleo.</VGE_InfestedGravlockTether.description>
+  <!-- EN: Contains: Gravcore -->
+  <VGE_InfestedGravlockTether.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_InfestedGravlockTether.comps.CompInspectString.inspectString>
+  <!-- EN: Infested gravlock tether -->
+  <VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.label>Cabo de gravitrava infestado</VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.label>
+  <!-- EN: You detect the heavy signs of the exoinsectoid mega-hive nearby. The infested gravlock tether must be destroyed to yield valuable gravcore and stop the ongoing infestation. -->
+  <VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.text>Você detecta fortes indícios da megacolmeia de insetos extraterrestres nas proximidades. O cabo de gravitrava infestado precisa ser destruído para obter um valioso gravinúcleo e interromper a infestação.</VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.text>
+  <!-- EN: infested vent -->
+  <VGE_InfestedVent.label>duto infestado</VGE_InfestedVent.label>
+  <!-- EN: A broken down vent leading deeper into the orbital station installation. Chittering and movement can be heard down below. -->
+  <VGE_InfestedVent.description>Um duto quebrado que leva mais fundo na instalação da estação orbital. É possível ouvir chiados e movimento abaixo.</VGE_InfestedVent.description>
+  <!-- EN: fortified wall -->
+  <VGE_OrbitalPirateFortifiedWall.label>parede fortificada</VGE_OrbitalPirateFortifiedWall.label>
+  <!-- EN: A reinforced wall made of an ultratech polymer and patched up with whatever salvagers found. -->
+  <VGE_OrbitalPirateFortifiedWall.description>Uma parede reforçada feita de um polímero ultratecnológico e remendada com o que os salvadores conseguiram encontrar.</VGE_OrbitalPirateFortifiedWall.description>
+  <!-- EN: salvager dropship -->
+  <VGE_SalvagerDropship.label>nave dos catadores de sucata</VGE_SalvagerDropship.label>
+  <!-- EN: A chemfuel-powered heavily armored dropship equipped with rocketswarm launchers. Designed for carpet bombing and incursions into enemy territory. This particular dropship seems to belong to salvagers. -->
+  <VGE_SalvagerDropship.description>Uma nave de desembarque blindada e alimentada por combustível químico, equipada com lançadores de enxame de foguetes. Projetada para bombardeio em área e incursões em território inimigo. Esta nave em particular parece pertencer a catadores de sucata.</VGE_SalvagerDropship.description>
+  <!-- EN: spacer component box -->
+  <VGE_SpacerBox_ComponentIndustrial.label>caixa espacial de componentes</VGE_SpacerBox_ComponentIndustrial.label>
+  <!-- EN: A spacer logistical box filled with valuable components. They’re intact and very usable. -->
+  <VGE_SpacerBox_ComponentIndustrial.description>Uma caixa logística de tecnologia espacial cheia de componentes valiosos. Eles estão intactos e muito úteis.</VGE_SpacerBox_ComponentIndustrial.description>
+  <!-- EN: spacer electronics box -->
+  <VGE_SpacerBox_ComponentSpacer.label>caixa espacial de eletrônicos</VGE_SpacerBox_ComponentSpacer.label>
+  <!-- EN: A spacer logistical box filled with electronics and advanced components. Everything seems to work fine. -->
+  <VGE_SpacerBox_ComponentSpacer.description>Uma caixa logística de tecnologia espacial cheia de eletrônicos e componentes avançados. Tudo parece funcionar bem.</VGE_SpacerBox_ComponentSpacer.description>
+  <!-- EN: spacer gravlite box -->
+  <VGE_SpacerBox_Gravlite.label>caixa espacial de gravilita</VGE_SpacerBox_Gravlite.label>
+  <!-- EN: A spacer logistical box filled with gravlite panel chunks. While most of it seems like gravlite waste, some chunks appear intact. -->
+  <VGE_SpacerBox_Gravlite.description>Uma caixa logística de tecnologia espacial cheia de pedaços de painéis de gravilita. Embora a maior parte pareça ser resíduo de gravilita, alguns pedaços parecem intactos.</VGE_SpacerBox_Gravlite.description>
+  <!-- EN: spacer steel box -->
+  <VGE_SpacerBox_Steel.label>caixa espacial de aço</VGE_SpacerBox_Steel.label>
+  <!-- EN: A spacer logistical box filled with steel scrap. It's heavy but might contain some recoverable metal. -->
+  <VGE_SpacerBox_Steel.description>Uma caixa logística de tecnologia espacial cheia de sucata de aço. É pesada, mas pode conter algum metal recuperável.</VGE_SpacerBox_Steel.description>
+  <!-- EN: spacer medicine pallet -->
+  <VGE_SpacerPallet_Medicine.label>palete espacial de medicamentos</VGE_SpacerPallet_Medicine.label>
+  <!-- EN: A pallet containing medical supplies. Can be looted to yield medicine. -->
+  <VGE_SpacerPallet_Medicine.description>Uma palete contendo suprimentos médicos. Pode ser saqueada para render medicina.</VGE_SpacerPallet_Medicine.description>
+  <!-- EN: spacer rations pallet -->
+  <VGE_SpacerPallet_SurvivalMeals.label>palete espacial de rações</VGE_SpacerPallet_SurvivalMeals.label>
+  <!-- EN: A pallet containing stacked rations. Can be looted to yield survival meals. -->
+  <VGE_SpacerPallet_SurvivalMeals.description>Uma palete contendo rações empilhadas. Pode ser saqueada para render refeições de sobrevivência.</VGE_SpacerPallet_SurvivalMeals.description>
+  <!-- EN: station light -->
+  <VGE_StationLight.label>luz da estação</VGE_StationLight.label>
+  <!-- EN: A special light panel wired to the station's main power source. -->
+  <VGE_StationLight.description>Um painel de luz especial conectado à fonte principal de energia da estação.</VGE_StationLight.description>
+  <!-- EN: station light -->
+  <VGE_StationLight_Blue.label>luz da estação</VGE_StationLight_Blue.label>
+  <!-- EN: A special light panel wired to the station's main power source. -->
+  <VGE_StationLight_Blue.description>Um painel de luz especial conectado à fonte principal de energia da estação.</VGE_StationLight_Blue.description>
+  <!-- EN: astrofuel barrel -->
+  <VGE2_AstrofuelBarrel.label>barril de astrocombustível</VGE2_AstrofuelBarrel.label>
+  <!-- EN: A barrel of volatile astrofuel. It will explode if damaged. -->
+  <VGE2_AstrofuelBarrel.description>Um barril de astrocombustível volátil. Ele explodirá se for danificado.</VGE2_AstrofuelBarrel.description>
+  <!-- EN: astrofuel pipe segment -->
+  <VGE2_AstrofuelPipeSegment.label>segmento de tubulação de astrocombustível</VGE2_AstrofuelPipeSegment.label>
+  <!-- EN: A long segment of an overground astrofuel pipe. It will explode if damaged, and will leak astrofuel when damaged. -->
+  <VGE2_AstrofuelPipeSegment.description>Um longo segmento de tubulação de astrocombustível instalado acima do solo. Ele explodirá se for danificado e vazará astrocombustível quando isso acontecer.</VGE2_AstrofuelPipeSegment.description>
+  <!-- EN: explosives crate -->
+  <VGE2_ExplosivesCrate.label>caixote de explosivos</VGE2_ExplosivesCrate.label>
+  <!-- EN: A container of mining charges. It will explode if damaged. -->
+  <VGE2_ExplosivesCrate.description>Um contêiner de cargas de mineração. Explodirá se for danificado.</VGE2_ExplosivesCrate.description>
+  <!-- EN: floor oxygen vent -->
+  <VGE2_FloorOxygenVent.label>duto de oxigênio no piso</VGE2_FloorOxygenVent.label>
+  <!-- EN: An oxygen vent leading to a deeper oxygen installation, continuously pushing oxygen into the room. -->
+  <VGE2_FloorOxygenVent.description>Um duto de oxigênio que leva a uma instalação mais profunda e injeta oxigênio continuamente no cômodo.</VGE2_FloorOxygenVent.description>
+  <!-- EN: locked shuttle -->
+  <VGE2_LockedShuttle.label>Nave de transporte bloqueada</VGE2_LockedShuttle.label>
+  <!-- EN: A chemfuel-powered shuttle designed for long-distance travel, typically utilized by the trading guild. Heavy magnetic clamps prevent it from being operated without authorization, but it can still be deconstructed to obtain the shuttle engine. -->
+  <VGE2_LockedShuttle.description>Uma nave de transporte movida a Combustível químico, projetada para viagens de longa distância e normalmente usada pela guilda comercial. Grampos magnéticos pesados impedem sua operação sem autorização, mas ela ainda pode ser desmontada para obter o motor da nave.</VGE2_LockedShuttle.description>
+  <!-- EN: nav beacon -->
+  <VGE2_NavBeacon.label>baliza de navegação</VGE2_NavBeacon.label>
+  <!-- EN: A ship navigation beacon. Used to help shuttles and larger vessels with docking procedures. -->
+  <VGE2_NavBeacon.description>Uma baliza de navegação de naves, usada para ajudar no acoplamento de naves auxiliares e embarcações maiores.</VGE2_NavBeacon.description>
+  <!-- EN: orbital light -->
+  <VGE2_OrbitalLight.label>luz orbital</VGE2_OrbitalLight.label>
+  <!-- EN: An internally powered standing lamp that lights an area. People need light to move and work at full speed. In case of loss of pressure, the light will turn red. -->
+  <VGE2_OrbitalLight.description>Uma luminária de chão alimentada internamente que ilumina uma área. As pessoas precisam de luz para se mover e trabalhar em velocidade máxima. Se houver perda de pressão, a luz ficará vermelha.</VGE2_OrbitalLight.description>
+  <!-- EN: oxyfarm -->
+  <VGE2_Oxyfarm.label>cultivo de algas produtoras de oxigênio</VGE2_Oxyfarm.label>
+  <!-- EN: A small, self-contained tank filled with engineered oxyalgae, capable of producing oxygen in small, steady quantities. -->
+  <VGE2_Oxyfarm.description>Um pequeno tanque autônomo cheio de algas cultivadas artificialmente, capaz de produzir oxigênio em pequenas quantidades constantes.</VGE2_Oxyfarm.description>
+  <!-- EN: pos beacon -->
+  <VGE2_PosBeacon_Green.label>baliza de posicionamento</VGE2_PosBeacon_Green.label>
+  <!-- EN: An orbital station positioning beacon. Used to ensure the orbital station does not drift off-orbit. -->
+  <VGE2_PosBeacon_Green.description>Baliza de posicionamento de uma estação orbital, usada para garantir que a estação não saia de órbita.</VGE2_PosBeacon_Green.description>
+  <!-- EN: pos beacon -->
+  <VGE2_PosBeacon_Red.label>baliza de posicionamento</VGE2_PosBeacon_Red.label>
+  <!-- EN: An orbital station positioning beacon. Used to ensure the orbital station does not drift off-orbit. -->
+  <VGE2_PosBeacon_Red.description>Baliza de posicionamento de uma estação orbital, usada para garantir que a estação não saia de órbita.</VGE2_PosBeacon_Red.description>
+  <!-- EN: power socket -->
+  <VGE2_PowerSocket.label>tomada de energia</VGE2_PowerSocket.label>
+  <!-- EN: A medium-sized power socket emerging from a deeper capacitor bank under the floor. Constantly generates a steady supply of power. -->
+  <VGE2_PowerSocket.description>Uma tomada de energia de tamanho médio que emerge de um banco de capacitores mais profundo sob o piso. Ela gera continuamente um fornecimento estável de energia.</VGE2_PowerSocket.description>
+  <!-- EN: small station console -->
+  <VGE2_SmallStationConsole.label>console pequeno da estação</VGE2_SmallStationConsole.label>
+  <!-- EN: A special console used to monitor and control various subsystems of the orbital station. -->
+  <VGE2_SmallStationConsole.description>Um console especial usado para monitorar e controlar vários subsistemas da estação orbital.</VGE2_SmallStationConsole.description>
+  <!-- EN: spacer crate -->
+  <VGE2_SpacerCrate.label>caixa de espaço</VGE2_SpacerCrate.label>
+  <!-- EN: A spacer, futuristic crate with nothing of value in it. -->
+  <VGE2_SpacerCrate.description>Um caixote futurista de tecnologia espacial sem nada de valor.</VGE2_SpacerCrate.description>
+  <!-- EN: station antenna -->
+  <VGE2_StationAntenna.label>antena da estação</VGE2_StationAntenna.label>
+  <!-- EN: A precise but fragile antenna used to transmit communications between the orbital stations. -->
+  <VGE2_StationAntenna.description>Uma antena precisa, porém frágil, usada para transmitir comunicações entre as estações orbitais.</VGE2_StationAntenna.description>
+  <!-- EN: station console -->
+  <VGE2_StationConsole.label>console da estação</VGE2_StationConsole.label>
+  <!-- EN: A special console used to monitor and control various subsystems of the orbital station. -->
+  <VGE2_StationConsole.description>Um console especial usado para monitorar e controlar vários subsistemas da estação orbital.</VGE2_StationConsole.description>
+  <!-- EN: station equipment block -->
+  <VGE2_StationEquipmentBlock.label>bloco de equipamento da estação</VGE2_StationEquipmentBlock.label>
+  <!-- EN: A modular array of station equipment blocks, kept in perfect working order. These units handle critical station logistics and system maintenance. -->
+  <VGE2_StationEquipmentBlock.description>Um conjunto modular de equipamentos da estação, mantido em perfeito estado de funcionamento. Essas unidades cuidam da logística essencial da estação e da manutenção dos sistemas.</VGE2_StationEquipmentBlock.description>
+  <!-- EN: station filing cabinet -->
+  <VGE2_StationFilingCabinet.label>gabinete de arquivos da estação</VGE2_StationFilingCabinet.label>
+  <!-- EN: A filing cabinet containing some documents, critical and not, related to the orbital station. -->
+  <VGE2_StationFilingCabinet.description>Um armário de arquivos com documentos diversos, importantes ou não, relacionados à estação orbital.</VGE2_StationFilingCabinet.description>
+  <!-- EN: station locker bank -->
+  <VGE2_StationLockerBank.label>banco de armários da estação</VGE2_StationLockerBank.label>
+  <!-- EN: A bank of lockers. Used on orbital stations to hold personal belongings of crewmembers. -->
+  <VGE2_StationLockerBank.description>Um conjunto de armários usado em estações orbitais para guardar pertences pessoais dos tripulantes.</VGE2_StationLockerBank.description>
+  <!-- EN: station system rack -->
+  <VGE2_StationSystemRack.label>rack do sistema da estação</VGE2_StationSystemRack.label>
+  <!-- EN: A rack unit packed with unidentifiable devices. Nothing on it seems particularly valuable. -->
+  <VGE2_StationSystemRack.description>Um rack cheio de dispositivos impossíveis de identificar. Nada nele parece particularmente valioso.</VGE2_StationSystemRack.description>
+  <!-- EN: trading container -->
+  <VGE2_TradingContainer.label>contêiner comercial</VGE2_TradingContainer.label>
+  <!-- EN: A large sealed container belonging to some sort of orbital trader’s stockpile. It may contain valuable supplies, but needs to be destroyed to release them. -->
+  <VGE2_TradingContainer.description>Um grande contêiner lacrado que faz parte do estoque de algum comerciante orbital. Pode conter suprimentos valiosos, mas precisa ser destruído para liberá-los.</VGE2_TradingContainer.description>
+  <!-- EN: emergency gravship generator -->
+  <VGE_EmergencyGenerator.label>Gerador de emergência da gravinave</VGE_EmergencyGenerator.label>
+  <!-- EN: An emergency power source capable of fully powering a gravship by adjusting its output to match demand. It is designed to be kept for emergencies, as it will always cause a critical breakdown and an EMP detonation when it produces all the power it’s able to generate. It is capable of producing up to 50,000 W/d before it breaks down. -->
+  <VGE_EmergencyGenerator.description>Uma fonte de energia de emergência capaz de alimentar totalmente uma gravinave ajustando sua saída para corresponder à demanda. Foi projetada para ser mantida em emergências, pois sempre causa uma falha crítica e uma detonação de EMP ao produzir toda a energia que consegue gerar. É capaz de produzir até 50.000 W/d antes de falhar.</VGE_EmergencyGenerator.description>
+  <!-- EN: activate emergency gravship generator -->
+  <VGE_EmergencyGenerator.comps.CompInteractable_EmergencyGravshipGenerator.jobString>ativar gerador de emergência da gravinave</VGE_EmergencyGenerator.comps.CompInteractable_EmergencyGravshipGenerator.jobString>
+  <!-- EN: unstable -->
+  <VGE_EmergencyGenerator.comps.CompInteractable_EmergencyGravshipGenerator.onCooldownString>instável</VGE_EmergencyGenerator.comps.CompInteractable_EmergencyGravshipGenerator.onCooldownString>
+  <!-- EN: astrofire launcher -->
+  <VGE_AstrofireLauncher.label>Lançador de astrofogo</VGE_AstrofireLauncher.label>
+  <!-- EN: A compact multi-tube missile platform that shoots a volley of four rapid missiles that explode and carry a payload of astrofuel, setting the area hit on astrofire. Meant for fast, hard-hitting strikes against exposed gravships and unarmored surface forces. Requires a linked targeting terminal with an operator to function. It draws power directly from the grav engine. -->
+  <VGE_AstrofireLauncher.description>Uma plataforma de mísseis compacta de vários tubos que dispara uma salva de quatro mísseis rápidos que explodem e carregam uma carga de astrocombustível, incendiando a área atingida com fogo astral. Foi projetada para ataques rápidos e de alto impacto contra gravinaves expostas e forças de superfície sem blindagem. Requer um terminal de mira conectado com um operador para funcionar. Extrai energia diretamente do motor de gravidade.</VGE_AstrofireLauncher.description>
+  <!-- EN: Astrofuel -->
+  <VGE_AstrofireLauncher.comps.CompRefuelable.fuelGizmoLabel>Astrocombustível</VGE_AstrofireLauncher.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Astrofuel -->
+  <VGE_AstrofireLauncher.comps.CompRefuelable.fuelLabel>Astrocombustível</VGE_AstrofireLauncher.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Missing rockets -->
+  <VGE_AstrofireLauncher.comps.CompRefuelable.outOfFuelMessage>Sem foguetes</VGE_AstrofireLauncher.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: grav field dilutor -->
+  <VGE_GravFieldDilutor.label>Diluidor de campo gravitacional</VGE_GravFieldDilutor.label>
+  <!-- EN: An advanced ultratech device that dramatically increases the size of a gravship but makes the gravity field slightly weaker, resulting in a decrease to the amount of substructure that can be built. Must be built near a grav engine.\n\nA gravship can support only one grav field dilutor. -->
+  <VGE_GravFieldDilutor.description>Um dispositivo ultratecnológico avançado que aumenta drasticamente o tamanho de uma gravinave, mas enfraquece levemente o campo gravitacional, resultando na redução da quantidade de subestrutura que pode ser construída. Deve ser instalado perto de um motor de gravidade.
+Uma gravinave só pode suportar um único diluidor de campo gravitacional.</VGE_GravFieldDilutor.description>
+  <!-- EN: gravlaunch cloaker -->
+  <VGE_GravlaunchCloaker.label>Ocultador de lançamento de gravinave</VGE_GravlaunchCloaker.label>
+  <!-- EN: A specialized device that masks the energy signature of a gravship launch, reducing the impact the gravship launch has on other inhabitants of the planet, making it less likely that the gravship will be detected.\n\nA gravship can support two gravlaunch cloakers. -->
+  <VGE_GravlaunchCloaker.description>Um dispositivo especializado que mascara a assinatura energética do lançamento de uma gravinave, reduzindo o impacto do lançamento sobre outros habitantes do planeta, tornando menos provável que a gravinave seja detectada.
+Uma gravinave pode suportar dois ocultadores de lançamento de gravinave.</VGE_GravlaunchCloaker.description>
+  <!-- EN: astrofire launcher -->
+  <VGE_Gun_AstrofireLauncher.label>Lançador de astrofogo</VGE_Gun_AstrofireLauncher.label>
+  <!-- EN: A compact multi-tube missile platform capable of launching astrofire missiles. -->
+  <VGE_Gun_AstrofireLauncher.description>Uma plataforma de mísseis compacta de vários tubos capaz de lançar mísseis de fogo astral.</VGE_Gun_AstrofireLauncher.description>
+  <!-- EN: astrofire launcher -->
+  <VGE_Gun_AstrofireLauncher.verbs.Verb_ShootWithWorldTargeting.label>lançador de astrofogo</VGE_Gun_AstrofireLauncher.verbs.Verb_ShootWithWorldTargeting.label>
+  <!-- EN: Astrofire rocket -->
+  <VGE_Rocket_AstrofireMissile.label>Foguete de astrofogo</VGE_Rocket_AstrofireMissile.label>
+  <!-- EN: warcomputer -->
+  <VGE_Warcomputer.label>Computador de guerra</VGE_Warcomputer.label>
+  <!-- EN: The tactical supercomputer core of a gravship. It enhances the weapons and defenses of the gravship: it makes gauss artillery more accurate, javelin missiles fire faster, anticraft beam weaponry fire longer bursts, and point defense turrets intercept projectiles at greater distances. It draws power directly from the grav engine. -->
+  <VGE_Warcomputer.description>O núcleo do supercomputador tático de uma gravinave. Ele melhora as armas e defesas da gravinave: torna a artilharia gauss mais precisa, os mísseis Javelin disparam mais rápido, as armas de feixe antiaéreo disparam rajadas mais longas e as torres de defesa de ponto interceptam projéteis a distâncias maiores. Extrai energia diretamente do motor de gravidade.</VGE_Warcomputer.description>
+  <!-- EN: gravship armor -->
+  <VGE_GravshipArmor.label>Armadura de gravinave</VGE_GravshipArmor.label>
+  <!-- EN: A heavily reinforced airtight wall designed to withstand extreme impacts and hostile fire in the vacuum of space. The wall connects directly into the underlying substructure, meaning it can only be built on a gravship. -->
+  <VGE_GravshipArmor.description>Uma parede hermética altamente reforçada projetada para resistir a impactos extremos e fogo hostil no vácuo do espaço. A parede se conecta diretamente à subestrutura subjacente, o que significa que só pode ser construída em uma gravinave.</VGE_GravshipArmor.description>
+  <!-- EN: twisted electronics -->
+  <VGE_TwistedElectronics.label>Eletrônicos retorcidos</VGE_TwistedElectronics.label>
+  <!-- EN: The fused remains of high-tech wiring and circuit boards, warped and damaged by orbital debris and temperature extremes. It can be salvaged for advanced components. -->
+  <VGE_TwistedElectronics.description>Os restos fundidos de fios e placas de circuito de alta tecnologia, deformados e danificados por detritos orbitais e extremos de temperatura. Podem ser recuperados para componentes avançados.</VGE_TwistedElectronics.description>
+  <!-- EN: twisted gravlite -->
+  <VGE_TwistedGravlite.label>Gravilita retorcida</VGE_TwistedGravlite.label>
+  <!-- EN: A section of warped and shattered gravlite paneling, barely recognizable after enduring intense orbital conditions. Can be salvaged for gravlite panels. -->
+  <VGE_TwistedGravlite.description>Um trecho de painel de gravilita deformado e despedaçado, mal reconhecível após sobreviver a condições orbitais intensas. Pode ser recuperado para painéis de gravilita.</VGE_TwistedGravlite.description>
+  <!-- EN: twisted machinery -->
+  <VGE_TwistedMachinery.label>Maquinaria torcida</VGE_TwistedMachinery.label>
+  <!-- EN: Ancient machinery, compacted and twisted by centuries of impacts and extreme temperatures in orbit. Can be mined for useful components. -->
+  <VGE_TwistedMachinery.description>Maquinaria antiga, compactada e torcida por séculos de impactos e temperaturas extremas em órbita. Pode ser minerada para obter componentes úteis.</VGE_TwistedMachinery.description>
+  <!-- EN: twisted steel -->
+  <VGE_TwistedSteel.label>Aço torcido</VGE_TwistedSteel.label>
+  <!-- EN: The collapsed remains of an ancient orbital vessel, bent and fused by countless years in the harsh vacuum. Rich in steel. -->
+  <VGE_TwistedSteel.description>Os restos colapsados de uma antiga nave orbital, dobrados e fundidos por inúmeros anos no duro vácuo. Ricos em aço.</VGE_TwistedSteel.description>
+  <!-- EN: giant electric thruster -->
+  <VGE_GiantElectricThruster.label>Propulsor elétrico gigante</VGE_GiantElectricThruster.label>
+  <!-- EN: A massive, reinforced electric thruster built with advanced alloys and ultra-dense vacstone plating. Needs to be fully charged in order to be used. Unlike astrofuel thrusters, electric thrusters do not increase maximum substructure size, but the low energy footprint lowers the chances of the gravship being detected during travel. Thrusters require an unobstructed area free of large buildings and gravship substructure.\n\nRequires vacstone blocks, which can be obtained from orbital asteroids.\n\nA gravship can support up to four giant thrusters. -->
+  <VGE_GiantElectricThruster.description>Um propulsor elétrico enorme e reforçado construído com ligas avançadas e revestimento ultradenso de vacuíta. Precisa ser totalmente carregado para ser usado. Ao contrário dos propulsores de astrocombustível, os propulsores elétricos não aumentam o tamanho máximo da subestrutura, mas a baixa assinatura energética reduz as chances de a gravinave ser detectada durante a viagem. Os propulsores exigem uma área desobstruída, sem grandes edifícios nem subestrutura da gravinave.
+Requer blocos de vacuíta, que podem ser obtidos em asteroides orbitais.
+Uma gravinave pode suportar até quatro propulsores gigantes.</VGE_GiantElectricThruster.description>
+  <!-- EN: large electric thruster -->
+  <VGE_LargeElectricThruster.label>Propulsor elétrico grande</VGE_LargeElectricThruster.label>
+  <!-- EN: An advanced electric thruster with a heat-resistant vacstone liner. Needs to be fully charged in order to be used. Unlike astrofuel thrusters, electric thrusters do not increase maximum substructure size, but the low energy footprint lowers the chances of the gravship being detected during travel. Thrusters require an unobstructed area free of large buildings and gravship substructure.\n\nRequires vacstone blocks, which can be obtained from orbital asteroids.\n\nA gravship can support up to six large thrusters. -->
+  <VGE_LargeElectricThruster.description>Um propulsor elétrico avançado com forro de vacuíta resistente ao calor. Precisa ser totalmente carregado para ser usado. Ao contrário dos propulsores de astrocombustível, os propulsores elétricos não aumentam o tamanho máximo da subestrutura, mas a baixa assinatura energética reduz as chances de a gravinave ser detectada durante a viagem. Os propulsores exigem uma área desobstruída, sem grandes edifícios nem subestrutura da gravinave.
+Requer blocos de vacuíta, que podem ser obtidos em asteroides orbitais.
+Uma gravinave pode suportar até seis propulsores grandes.</VGE_LargeElectricThruster.description>
+  <!-- EN: small electric thruster -->
+  <VGE_SmallElectricThruster.label>Propulsor elétrico pequeno</VGE_SmallElectricThruster.label>
+  <!-- EN: An electric thruster that increases the range of the gravship. Needs to be fully charged in order to be used. Unlike astrofuel thrusters, electric thrusters do not increase maximum substructure size, but the low energy footprint lowers the chances of the gravship being detected during travel. Thrusters require an unobstructed area free of large buildings and gravship substructure. A gravship can support up to ten small thrusters. -->
+  <VGE_SmallElectricThruster.description>Um propulsor elétrico que aumenta o alcance da gravinave. Precisa ser totalmente carregado para ser usado. Ao contrário dos propulsores de astrocombustível, os propulsores elétricos não aumentam o tamanho máximo da subestrutura, mas a baixa assinatura energética reduz as chances de a gravinave ser detectada durante a viagem. Os propulsores exigem uma área desobstruída, sem grandes edifícios nem subestrutura da gravinave. Uma gravinave pode suportar até dez propulsores pequenos.</VGE_SmallElectricThruster.description>
+  <!-- EN: antigrain warpod -->
+  <VGE_Warpod_Antigrain.label>Cápsula de guerra antigrão</VGE_Warpod_Antigrain.label>
+  <!-- EN: A launchable sub-orbital missile pod designed to deliver a devastating antimatter payload at extreme speed. Its velocity ensures it won't be intercepted by point defense systems, allowing it to penetrate and detonate within enemy gravships and orbital stations, completely obliterating the target area. Explodes when damaged. -->
+  <VGE_Warpod_Antigrain.description>Uma cápsula de mísseis suborbitais lançável, projetada para transportar uma carga devastadora de antimatéria em velocidade extrema. Sua velocidade garante que ela não será interceptada por sistemas de defesa de ponto, permitindo que penetre e detone dentro de gravinaves inimigas e estações orbitais, obliterando completamente a área-alvo. Explode quando danificada.</VGE_Warpod_Antigrain.description>
+  <!-- EN: EMP warpod -->
+  <VGE_Warpod_EMP.label>Cápsula de guerra EMP</VGE_Warpod_EMP.label>
+  <!-- EN: A launchable sub-orbital missile pod designed to deliver a powerful electromagnetic pulse device at extreme speed. Its velocity ensures it won't be intercepted by point defense systems, allowing it to penetrate and detonate within enemy gravships and orbital stations, temporarily disabling electronics. Explodes when damaged. -->
+  <VGE_Warpod_EMP.description>Uma cápsula de mísseis suborbitais lançável, projetada para transportar um poderoso pulso eletromagnético em velocidade extrema. Sua velocidade garante que ela não será interceptada por sistemas de defesa de ponto, permitindo que penetre e detone dentro de gravinaves inimigas e estações orbitais, desativando temporariamente os eletrônicos. Explode quando danificada.</VGE_Warpod_EMP.description>
+  <!-- EN: hellpod -->
+  <VGE_Warpod_Hellpod.label>Cápsula infernal</VGE_Warpod_Hellpod.label>
+  <!-- EN: A launchable sub-orbital combat pod designed to carry people, items, or animals. Traveling at extreme speed, it avoids interception by point defense systems, but detonates on impact before immediately ejecting its cargo. It is ideal for surprise attacks, reinforcing battles, or transporting critical supplies and personnel to a specific location. -->
+  <VGE_Warpod_Hellpod.description>Uma cápsula de combate suborbital lançável, projetada para transportar pessoas, itens ou animais. Viajando em velocidade extrema, ela evita a interceptação por sistemas de defesa pontual, mas detona no impacto antes de ejetar imediatamente sua carga. É ideal para ataques surpresa, reforços de batalha ou transporte de suprimentos e pessoal essenciais para um local específico.</VGE_Warpod_Hellpod.description>
+  <!-- EN: high-explosive warpod -->
+  <VGE_Warpod_HighExplosive.label>Cápsula de guerra de alto explosivo</VGE_Warpod_HighExplosive.label>
+  <!-- EN: A launchable sub-orbital missile pod designed to deliver a high-explosive payload at extreme speed. Its velocity ensures it won't be intercepted by point defense systems, allowing it to penetrate and detonate within enemy gravships and orbital stations. Explodes when damaged. -->
+  <VGE_Warpod_HighExplosive.description>Uma cápsula de mísseis suborbitais lançável, projetada para transportar uma carga explosiva de alto poder em velocidade extrema. Sua velocidade garante que ela não será interceptada por sistemas de defesa de ponto, permitindo que penetre e detone dentro de gravinaves inimigas e estações orbitais. Explode quando danificada.</VGE_Warpod_HighExplosive.description>
+  <!-- EN: incendiary warpod -->
+  <VGE_Warpod_Incendiary.label>Cápsula de guerra incendiária</VGE_Warpod_Incendiary.label>
+  <!-- EN: A launchable sub-orbital missile pod designed to deliver a massive astrofuel payload at extreme speed. Its velocity ensures it won't be intercepted by point defense systems, allowing it to penetrate and detonate within enemy gravships and orbital stations, unleashing a large astrofuel explosion. Explodes when damaged. -->
+  <VGE_Warpod_Incendiary.description>Uma cápsula de mísseis suborbitais lançável, projetada para transportar uma enorme carga de astrocombustível em velocidade extrema. Sua velocidade garante que ela não será interceptada por sistemas de defesa de ponto, permitindo que penetre e detone dentro de gravinaves inimigas e estações orbitais, liberando uma grande explosão de astrocombustível. Explode quando danificada.</VGE_Warpod_Incendiary.description>
+  <!-- EN: warpod (incoming) -->
+  <VGE_WarpodIncoming.label>cápsula de guerra (chegando)</VGE_WarpodIncoming.label>
+  <!-- EN: warpod (leaving) -->
+  <VGE_WarpodLeaving.label>cápsula de guerra (saindo)</VGE_WarpodLeaving.label>
+  <!-- EN: drop pod (leaving) -->
+  <VGE_EscapePodLeaving.label>Cápsula de desembarque (saindo)</VGE_EscapePodLeaving.label>
+  <!-- EN: landing structure -->
+  <VGE_LandingStructure_EnemyGravjumper.label>estrutura de pouso</VGE_LandingStructure_EnemyGravjumper.label>
+  <!-- EN: landing structure -->
+  <VGE_LandingStructure_EnemyGravjumperCaptured.label>estrutura de pouso</VGE_LandingStructure_EnemyGravjumperCaptured.label>
+  <!-- EN: landing structure -->
+  <VGE_LandingStructure_EnemyGravship.label>estrutura de pouso</VGE_LandingStructure_EnemyGravship.label>
+  <!-- EN: landing structure -->
+  <VGE_LandingStructure_EnemyGravshipRaid.label>estrutura de pouso</VGE_LandingStructure_EnemyGravshipRaid.label>
+  <!-- EN: landing structure -->
+  <VGE_LandingStructure_StructureSet.label>estrutura de pouso</VGE_LandingStructure_StructureSet.label>
+  <!-- EN: salvager dropship (incoming) -->
+  <VGE_SalvagerDropshipIncoming.label>nave de salvamento (em aproximação)</VGE_SalvagerDropshipIncoming.label>
+  <!-- EN: salvager dropship (leaving) -->
+  <VGE_SalvagerDropshipLeaving.label>nave de salvamento (saindo)</VGE_SalvagerDropshipLeaving.label>
+  <!-- EN: Mote -->
+  <VGE_GravmineRadius.label>Mota</VGE_GravmineRadius.label>
+  <!-- EN: Mote -->
+  <VGE_SignalJammerRadius.label>Mota</VGE_SignalJammerRadius.label>
+  <!-- EN: auxiliary oxygen tank -->
+  <VGE_AuxiliaryOxygenTank.label>Tanque de oxigênio auxiliar</VGE_AuxiliaryOxygenTank.label>
+  <!-- EN: A compact, low-volume oxygen tank that supplies oxygen to pumps throughout the gravship. -->
+  <VGE_AuxiliaryOxygenTank.description>Um tanque de oxigênio compacto e de baixo volume que fornece oxigênio às bombas em toda a gravinave.</VGE_AuxiliaryOxygenTank.description>
+  <!-- EN: grav junk -->
+  <VGE_Projectile_GravJunk.label>Sucata de gravinave</VGE_Projectile_GravJunk.label>
+  <!-- EN: large infested chunk -->
+  <VGE_Projectile_InfestedChunkLarge.label>Pedaço infestado grande</VGE_Projectile_InfestedChunkLarge.label>
+  <!-- EN: medium infested chunk -->
+  <VGE_Projectile_InfestedChunkMedium.label>Pedaço infestado médio</VGE_Projectile_InfestedChunkMedium.label>
+  <!-- EN: moving exohive -->
+  <VGE_Exohive.label>Exohive em movimento</VGE_Exohive.label>
+  <!-- EN: A massive, mobile hive of giant exo-geneline insects, propelled by the coordinated effort of numerous emerging exoworms. When sufficiently threatened, the entire structure animates to actively defend itself, attacking nearby foes. -->
+  <VGE_Exohive.description>Uma enorme colmeia móvel de insetos gigantes da linhagem Exo, impulsionada pelo esforço coordenado de inúmeros exovermes emergentes. Quando ameaçada, toda a estrutura se anima para se defender ativamente, atacando inimigos próximos.</VGE_Exohive.description>
+  <!-- EN: mouths -->
+  <VGE_Exohive.tools.mouths.label>bocas</VGE_Exohive.tools.mouths.label>
+  <!-- EN: shell -->
+  <VGE_Exohive.tools.shell.label>casca</VGE_Exohive.tools.shell.label>
+  <!-- EN: exoleech -->
+  <VGE_Exoleech.label>exossanguessuga</VGE_Exoleech.label>
+  <!-- EN: Not actually a leech, an exoleech is a bioengineered insectoid roughly the size of a bear, adapted to survive the frigid vacuum of space. It possesses an incredibly sharp mouth capable of dealing substantial damage in combat. While heavily protected by thick chitinous armor and deadly at close quarters, It is quite slow in open terrain. -->
+  <VGE_Exoleech.description>Não é uma sanguessuga de verdade; a exossanguessuga é um insetoide bioengenheirado aproximadamente do tamanho de um urso, adaptada para sobreviver ao vácuo gelado do espaço. Possui uma boca incrivelmente afiada capaz de causar danos substanciais em combate. Apesar de ser muito protegida por uma espessa armadura quitinosa e de ser letal a curta distância, é bastante lenta em terreno aberto.</VGE_Exoleech.description>
+  <!-- EN: bitejaw -->
+  <VGE_Exoleech.tools.bitejaw.label>mandíbula de mordida</VGE_Exoleech.tools.bitejaw.label>
+  <!-- EN: head -->
+  <VGE_Exoleech.tools.head.label>cabeça</VGE_Exoleech.tools.head.label>
+  <!-- EN: exopede -->
+  <VGE_Exopede.label>exópode</VGE_Exopede.label>
+  <!-- EN: A large bioengineered insectoid roughly the size of a deer. The exopede is heavily armored and adapted to survive the frigid vacuum of space, and functions as a middle-caste hive worker, performing most tasks and defending the hive with its powerful appendages. While heavily protected and dangerous in combat, its movement is relatively slow on open ground. -->
+  <VGE_Exopede.description>Um grande insetoide bioengenheirado, aproximadamente do tamanho de um veado. O exópode é muito blindado e adaptado para sobreviver ao vácuo gelado do espaço, funcionando como um trabalhador da casta intermediária da colmeia, realizando a maioria das tarefas e defendendo-a com seus apêndices poderosos. Embora seja bem protegido e perigoso em combate, seu deslocamento é relativamente lento em terreno aberto.</VGE_Exopede.description>
+  <!-- EN: head claw -->
+  <VGE_Exopede.tools.head_claw.label>garra da cabeça</VGE_Exopede.tools.head_claw.label>
+  <!-- EN: head -->
+  <VGE_Exopede.tools.head.label>cabeça</VGE_Exopede.tools.head.label>
+  <!-- EN: exoworm -->
+  <VGE_Exoworm.label>exoverme</VGE_Exoworm.label>
+  <!-- EN: A large, genetically-engineered worm-like insectoid, adapted to survive in the vacuum of space. Once the worker caste of an artificial ecosystem designed to fight mechanoid invasions, it is now often encountered without its deadlier insectoid cousins. Still, its size and rapidly regenerating body makes it a durable and dangerous foe in combat. A eusocial creature, it cannot reproduce individually. -->
+  <VGE_Exoworm.description>Um grande insetoide em forma de verme, geneticamente modificado e adaptado para sobreviver ao vácuo do espaço. Já foi a casta trabalhadora de um ecossistema artificial projetado para combater invasões mecanoides, mas agora é frequentemente encontrado sem seus primos insetoides mais mortais. Ainda assim, seu tamanho e sua rápida regeneração o tornam um oponente resistente e perigoso em combate. Por ser uma criatura eusocial, não pode se reproduzir individualmente.</VGE_Exoworm.description>
+  <!-- EN: mandibles -->
+  <VGE_Exoworm.tools.mandibles.label>mandíbulas</VGE_Exoworm.tools.mandibles.label>
+  <!-- EN: head -->
+  <VGE_Exoworm.tools.head.label>cabeça</VGE_Exoworm.tools.head.label>
+  <!-- EN: exoworm knot -->
+  <VGE_ExowormKnot.label>Nó de exovermes</VGE_ExowormKnot.label>
+  <!-- EN: A massive, writhing knot of bioengineered exoworms, tangled together in a singular, terrifying entity. Its formidable size and complex, interwoven bodies grant it extreme durability, but damage causes individual exoworms to violently rupture from the mass and continue the fight. Its bite carries a risk of implanting parasitic exoworm larvae, which gestate slowly within the host. -->
+  <VGE_ExowormKnot.description>Um enorme e contorcido nó de exovermes bioengenheirados, emaranhados em uma única entidade aterrorizante. Seu tamanho formidável e corpos complexos e entrelaçados lhe conferem extrema durabilidade, mas o dano faz com que exovermes individuais se rompam violentamente da massa e continuem a luta. Sua mordida apresenta risco de implantar larvas parasitas de exoverme, que se desenvolvem lentamente no hospedeiro.</VGE_ExowormKnot.description>
+  <!-- EN: mouths -->
+  <VGE_ExowormKnot.tools.mouths.label>bocas</VGE_ExowormKnot.tools.mouths.label>
+  <!-- EN: head -->
+  <VGE_ExowormKnot.tools.head.label>cabeça</VGE_ExowormKnot.tools.head.label>
+  <!-- EN: nullipede -->
+  <VFEI2_Nullipede.label>nulípede</VFEI2_Nullipede.label>
+  <!-- EN: An incredibly rare and monstrously large insectoid of the Exo geneline, the nullipede is an insect leviathan perfectly adapted to the frigid vacuum of space. It possesses extreme cellular regeneration, allowing it to knit together grievous wounds and heal damage almost instantly. Direct exposure to fire completely shuts down its biological repair systems. Its sheer resilience makes it a dreaded, virtually indestructible horror among the stars, and the main reason many adventurers prefer to stay planet-side. -->
+  <VFEI2_Nullipede.description>Um insetoide incrivelmente raro e monstruosamente grande da linhagem Exo, o nulípede é um leviatã insetoide perfeitamente adaptado ao vácuo gelado do espaço. Possui regeneração celular extrema, permitindo costurar ferimentos graves e reparar danos quase instantaneamente. A exposição direta ao fogo desativa completamente seus sistemas biológicos de reparo. Sua incrível resiliência o torna um horror temido e praticamente indestrutível entre as estrelas, e a principal razão pela qual muitos aventureiros preferem permanecer no planeta.</VFEI2_Nullipede.description>
+  <!-- EN: mandible -->
+  <VFEI2_Nullipede.tools.mandible.label>mandíbula</VFEI2_Nullipede.tools.mandible.label>
+  <!-- EN: tail -->
+  <VFEI2_Nullipede.tools.tail.label>cauda</VFEI2_Nullipede.tools.tail.label>
+  <!-- EN: pincers -->
+  <VFEI2_Nullipede.tools.pincers.label>pinças</VFEI2_Nullipede.tools.pincers.label>
+</LanguageData>

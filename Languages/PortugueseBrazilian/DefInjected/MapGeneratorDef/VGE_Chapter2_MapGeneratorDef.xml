@@ -1,34 +1,25 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  <!-- EN: infested asteroid -->
+  <VGE_InfestedAsteroid.label>asteroide infestado</VGE_InfestedAsteroid.label>
   <!-- EN: active enemy gravjumper -->
   <VGE_ActiveEnemyGravjumper.label>gravisalto inimigo ativo</VGE_ActiveEnemyGravjumper.label>
-
   <!-- EN: active enemy gravship -->
   <VGE_ActiveEnemyGravship.label>gravinave inimiga ativo</VGE_ActiveEnemyGravship.label>
-
   <!-- EN: active orbital cluster -->
   <VGE_ActiveOrbitalCluster.label>agrupamento orbital ativo</VGE_ActiveOrbitalCluster.label>
-
   <!-- EN: active salvager station -->
   <VGE_ActiveSalvagerStation.label>estação de salvamento ativa</VGE_ActiveSalvagerStation.label>
-
   <!-- EN: active warplatform -->
   <VGE_ActiveWarplatform.label>plataforma de guerra ativa</VGE_ActiveWarplatform.label>
-
   <!-- EN: derelict gravship -->
   <VGE_DerelictGravship.label>gravinave abandonada</VGE_DerelictGravship.label>
-
   <!-- EN: dormant warplatform -->
   <VGE_DormantWarplatform.label>plataforma de guerra inativa</VGE_DormantWarplatform.label>
-
   <!-- EN: empty space -->
   <VGE_EmptySpace.label>espaço vazio</VGE_EmptySpace.label>
-
   <!-- EN: empty space -->
   <VGE_EmptySpace_NeverKeep.label>espaço vazio</VGE_EmptySpace_NeverKeep.label>
-
   <!-- EN: gravship husk -->
   <VGE_GravshipHusk.label>carcaça de gravinave</VGE_GravshipHusk.label>
-
 </LanguageData>

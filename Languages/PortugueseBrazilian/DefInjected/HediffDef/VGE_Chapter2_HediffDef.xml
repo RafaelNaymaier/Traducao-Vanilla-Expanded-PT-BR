@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- EN: exoworm infestation -->
   <VGE_ExowormInfestation.label>infestação de exoverme</VGE_ExowormInfestation.label>
   <!-- EN: Parasitic exoworm larvae burrowing and growing within the flesh. As it matures, it will consume local tissue and cause extreme pain. Without aggressive treatment and a strong immune response, the worm will eventually erupt from the body part. -->
@@ -9,25 +8,26 @@
   <VGE_ExowormInfestation.comps.HediffComp_Discoverable.discoverLetterLabel>Gestação de exoverme: {0}</VGE_ExowormInfestation.comps.HediffComp_Discoverable.discoverLetterLabel>
   <!-- EN: {0} has been infected with exoworm larva. They need immediate and constant medical care, or the worm will eventually crawl out of them. -->
   <VGE_ExowormInfestation.comps.HediffComp_Discoverable.discoverLetterText>Uma larva de exoverme infectou {0}. É necessário atendimento médico imediato e contínuo; sem isso, o verme acabará saindo do corpo.</VGE_ExowormInfestation.comps.HediffComp_Discoverable.discoverLetterText>
-
   <!-- EN: minor -->
   <VGE_ExowormInfestation.stages.minor-0.label>leve</VGE_ExowormInfestation.stages.minor-0.label>
-
   <!-- EN: minor -->
   <VGE_ExowormInfestation.stages.minor-1.label>leve</VGE_ExowormInfestation.stages.minor-1.label>
-
   <!-- EN: wriggling -->
   <VGE_ExowormInfestation.stages.wriggling.label>se contorcendo</VGE_ExowormInfestation.stages.wriggling.label>
-
   <!-- EN: bulging -->
   <VGE_ExowormInfestation.stages.bulging.label>saliente</VGE_ExowormInfestation.stages.bulging.label>
-
   <!-- EN: erupting -->
   <VGE_ExowormInfestation.stages.erupting.label>irrompendo</VGE_ExowormInfestation.stages.erupting.label>
-
   <!-- EN: no pain sensitivity -->
   <VGE_NoPain.label>sensibilidade reduzida à dor</VGE_NoPain.label>
   <!-- EN: This creature has a reduced pain sensitivity, and it takes longer to be downed due to pain. -->
   <VGE_NoPain.description>Esta criatura tem sensibilidade reduzida à dor e demora mais para ficar incapacitada por causa dela.</VGE_NoPain.description>
-
+  <!-- EN: extreme regeneration -->
+  <VFEI2_ExtremeRegeneration.label>regeneração extrema</VFEI2_ExtremeRegeneration.label>
+  <!-- EN: This creature is capable of instantly regenerating all wounds. Exposure to fire will temporarily stop the regeneration ability. -->
+  <VFEI2_ExtremeRegeneration.description>Esta criatura consegue regenerar todos os ferimentos instantaneamente. A exposição ao fogo interrompe temporariamente essa capacidade.</VFEI2_ExtremeRegeneration.description>
+  <!-- EN: extreme regeneration (inactive) -->
+  <VFEI2_ExtremeRegeneration_Inactive.label>regeneração extrema (inativa)</VFEI2_ExtremeRegeneration_Inactive.label>
+  <!-- EN: This creature is capable of instantly regenerating all wounds. Exposure to fire will temporarily stop the regeneration ability. -->
+  <VFEI2_ExtremeRegeneration_Inactive.description>Esta criatura consegue regenerar todos os ferimentos instantaneamente. A exposição ao fogo interrompe temporariamente essa capacidade.</VFEI2_ExtremeRegeneration_Inactive.description>
 </LanguageData>
