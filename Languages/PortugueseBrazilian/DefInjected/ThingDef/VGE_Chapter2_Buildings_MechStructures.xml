@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: charge battery shot -->
+  <VGE_Bullet_ChargeBattery.label>disparo da bateria de carga</VGE_Bullet_ChargeBattery.label>
+
+  <!-- EN: inferno artillery shot -->
+  <VGE_Bullet_InfernoArtillery.label>disparo de artilharia infernal</VGE_Bullet_InfernoArtillery.label>
+
+  <!-- EN: charge battery -->
+  <VGE_Gun_MechanoidChargeBattery.label>bateria de carga</VGE_Gun_MechanoidChargeBattery.label>
+  <!-- EN: A massive, pulse-charged artillery battery. -->
+  <VGE_Gun_MechanoidChargeBattery.description>Uma bateria de artilharia enorme, carregada por pulsos.</VGE_Gun_MechanoidChargeBattery.description>
+
+  <!-- EN: charge battery -->
+  <VGE_Gun_MechanoidChargeBattery.verbs.Verb_ShootWithSmoke.label>bateria de carga</VGE_Gun_MechanoidChargeBattery.verbs.Verb_ShootWithSmoke.label>
+
+  <!-- EN: inferno artillery -->
+  <VGE_Gun_MechanoidInfernoArtillery.label>Artilharia infernal</VGE_Gun_MechanoidInfernoArtillery.label>
+  <!-- EN: A massive, long-range bombardment cannon built by mechanoids. -->
+  <VGE_Gun_MechanoidInfernoArtillery.description>Um canhão de bombardeio de longo alcance enorme, construído por mechanoides.</VGE_Gun_MechanoidInfernoArtillery.description>
+
+  <!-- EN: inferno artillery -->
+  <VGE_Gun_MechanoidInfernoArtillery.verbs.Verb_ShootWithSmoke.label>artilharia infernal</VGE_Gun_MechanoidInfernoArtillery.verbs.Verb_ShootWithSmoke.label>
+
+  <!-- EN: mechanoid artillery loader -->
+  <VGE_MechanoidArtilleryLoader.label>Carregador de artilharia mechanoide</VGE_MechanoidArtilleryLoader.label>
+  <!-- EN: A specialized, heavily-reinforced conveyor system designed to rapidly feed slugs into mechanoid mass drivers. It dramatically decreases the reload time of linked gravship artillery. -->
+  <VGE_MechanoidArtilleryLoader.description>Um sistema transportador especializado e fortemente reforçado, projetado para alimentar rapidamente os projéteis nos canhões eletromagnéticos mechanoides. Reduz drasticamente o tempo de recarga da artilharia de gravinave conectada.</VGE_MechanoidArtilleryLoader.description>
+
+  <!-- EN: mechanoid processor -->
+  <VGE_MechanoidAuxiliaryProcessor.label>Processador auxiliar mechanoide</VGE_MechanoidAuxiliaryProcessor.label>
+  <!-- EN: An auxiliary mechanoid computer. -->
+  <VGE_MechanoidAuxiliaryProcessor.description>Um computador mechanoide auxiliar.</VGE_MechanoidAuxiliaryProcessor.description>
+
+  <!-- EN: charge battery -->
+  <VGE_MechanoidChargeBattery.label>bateria de carga</VGE_MechanoidChargeBattery.label>
+  <!-- EN: A massive, pulse-charged artillery battery for indiscriminate, wide-area saturation. It’s capable of firing long, inaccurate bursts of fast-moving explosive projectiles. The weapon is fully autonomous, operated by a machine brain that requires no crew. Commonly seen on orbital bombardment platforms. -->
+  <VGE_MechanoidChargeBattery.description>Uma bateria de artilharia enorme, carregada por pulsos, para bombardeios indiscriminados em uma ampla área. Dispara rajadas longas e imprecisas de projéteis explosivos velozes. A arma é totalmente autônoma e operada por um cérebro mecânico, sem necessidade de tripulação. É comum encontrá-la em plataformas de bombardeio orbital.</VGE_MechanoidChargeBattery.description>
+
+  <!-- EN: mechanoid gravcapacitor -->
+  <VGE_MechanoidGravcapacitor.label>Gravcapacitor mechanoide</VGE_MechanoidGravcapacitor.label>
+  <!-- EN: A dense, complex energy reservoir used to store power for essential mechanoid systems. Its volatile charge is contained by powerful magnetic fields. If severely damaged, the released energy will detonate as a powerful EMP blast. -->
+  <VGE_MechanoidGravcapacitor.description>Um reservatório de energia denso e complexo, usado para armazenar energia para sistemas mechanoides essenciais. Sua carga volátil é contida por poderosos campos magnéticos. Se sofrer danos graves, a energia liberada detonará em uma explosão de PEM.</VGE_MechanoidGravcapacitor.description>
+
+  <!-- EN: mechanoid gravfield amplifier -->
+  <VGE_MechanoidGravfieldAmplifier.label>Amplificador de campo gravitacional mechanoide</VGE_MechanoidGravfieldAmplifier.label>
+  <!-- EN: A complex array of gravimetric resonators designed to stabilize and enhance the output of mechanoid grav engines. This amplifier allows orbital platforms to expand to colossal dimensions while maintaining structural integrity in space. -->
+  <VGE_MechanoidGravfieldAmplifier.description>Um conjunto complexo de ressonadores gravimétricos, projetado para estabilizar e ampliar a potência dos motores gravitacionais mechanoides. Este amplificador permite que plataformas orbitais se expandam a dimensões colossais sem perder a integridade estrutural no espaço.</VGE_MechanoidGravfieldAmplifier.description>
+
+  <!-- EN: mechanoid gravfield extender -->
+  <VGE_MechanoidGravfieldExtender.label>Extensor de campo gravitacional mechanoide</VGE_MechanoidGravfieldExtender.label>
+  <!-- EN: A support structure that stabilizes the localized gravity field of a mechanoid platform. By connecting to the primary grav engines, it extends the reach of the field, enabling more complex platform configurations and better structural integrity. -->
+  <VGE_MechanoidGravfieldExtender.description>Uma estrutura de suporte que estabiliza o campo gravitacional localizado de uma plataforma mechanoide. Ao se conectar aos motores gravitacionais principais, amplia o alcance do campo, permitindo configurações mais complexas e maior integridade estrutural.</VGE_MechanoidGravfieldExtender.description>
+
+  <!-- EN: mechanoid grav tether -->
+  <VGE_MechanoidGravTether.label>Cabo gravitacional mechanoide</VGE_MechanoidGravTether.label>
+  <!-- EN: A vast, artificial core of colossal mechanoid orbital platforms. Unlike human-built grav engines, these are constructed by the mechanoid core itself, optimized for ruthless efficiency and unending operation. They generate monumental lift and stabilization fields that allow entire, sprawling space stations to remain suspended in orbit, forming the backbone of mechanoid dominance in space. While largely incompatible with human systems, they can be destroyed to yield a gravcore, a rare and valuable prize for any who dare to challenge them. -->
+  <VGE_MechanoidGravTether.description>Um núcleo artificial vasto, pertencente a plataformas orbitais mechanoides colossais. Ao contrário dos motores gravitacionais construídos por humanos, estes são produzidos pelo próprio núcleo mechanoide e otimizados para eficiência implacável e operação contínua. Geram campos monumentais de elevação e estabilização, que mantêm estações espaciais inteiras suspensas em órbita e sustentam o domínio mechanoide no espaço. Embora sejam em grande parte incompatíveis com sistemas humanos, podem ser destruídos para obter um gravinúcleo, um prêmio raro e valioso para quem ousar enfrentá-los.</VGE_MechanoidGravTether.description>
+
+  <!-- EN: mechanoid heatsink -->
+  <VGE_MechanoidHeatsink.label>Dissipador de calor mechanoide</VGE_MechanoidHeatsink.label>
+  <!-- EN: A long, skeletal thermal regulator strut, built into the structure of mechanoid platforms to ensure total thermal stability. It absorbs waste heat from active mechanoid systems and converts a fraction of it into operational power, thus preventing core overheating and maintaining maximum efficiency. -->
+  <VGE_MechanoidHeatsink.description>Uma longa haste esquelética de regulação térmica, integrada à estrutura de plataformas mechanoides para garantir estabilidade térmica total. Absorve o calor residual dos sistemas mechanoides ativos e converte parte dele em energia operacional, evitando o superaquecimento do núcleo e mantendo a eficiência máxima.</VGE_MechanoidHeatsink.description>
+
+  <!-- EN: mechanoid hull platform -->
+  <VGE_MechanoidHullPlatform.label>Plataforma de casco mechanoide</VGE_MechanoidHullPlatform.label>
+  <!-- EN: A dense, structural building block used to form mechanoid orbital platforms. Due to the special gravlite alloys used to create them, they are impervious to damage. They are a constant fixture on mechanoid orbital platforms. -->
+  <VGE_MechanoidHullPlatform.description>Um bloco estrutural denso usado para formar plataformas orbitais mechanoides. As ligas especiais de gravilita usadas em sua fabricação tornam esses blocos imunes a danos. São elementos permanentes das plataformas orbitais mechanoides.</VGE_MechanoidHullPlatform.description>
+
+  <!-- EN: inferno artillery -->
+  <VGE_MechanoidInfernoArtillery.label>Artilharia infernal mechanoide</VGE_MechanoidInfernoArtillery.label>
+  <!-- EN: A massive, long-range bombardment cannon built by mechanoids. It launches superheated astrofuel rods that detonate upon impact, unleashing a conflagration of astrofire capable of burning in the vacuum of space. The weapon is fully autonomous, operated by a machine brain that requires no crew. Commonly seen on orbital bombardment platforms. -->
+  <VGE_MechanoidInfernoArtillery.description>Um canhão de bombardeio de longo alcance enorme, construído por mechanoides. Lança hastes de astrocombustível superaquecidas que detonam no impacto, liberando uma conflagração de fogo astral capaz de queimar no vácuo do espaço. A arma é totalmente autônoma e operada por um cérebro mecânico, sem necessidade de tripulação. É comum encontrá-la em plataformas de bombardeio orbital.</VGE_MechanoidInfernoArtillery.description>
+
+  <!-- EN: mechanoid information spire -->
+  <VGE_MechanoidInformationSpire.label>Pináculo de informações mechanoide</VGE_MechanoidInformationSpire.label>
+  <!-- EN: A support structure that stabilizes the localized gravity field of a mechanoid platform. By connecting to the primary grav engines, it extends the reach of the field, enabling more complex platform configurations and better structural integrity. -->
+  <VGE_MechanoidInformationSpire.description>Uma estrutura de suporte que estabiliza o campo gravitacional localizado de uma plataforma mechanoide. Ao se conectar aos motores gravitacionais principais, amplia o alcance do campo, permitindo configurações mais complexas e maior integridade estrutural.</VGE_MechanoidInformationSpire.description>
+
+  <!-- EN: mechanoid overshield -->
+  <VGE_MechanoidOvershieldGenerator.label>Gerador de escudo ampliado mechanoide</VGE_MechanoidOvershieldGenerator.label>
+  <!-- EN: A colossal defensive structure that projects a powerful, static energy shield with a huge radius. This barrier intercepts all incoming projectiles but permits fire from within. Once its substantial energy is depleted, the shield collapses, and the generator must endure a lengthy 15-day recharge cycle before the overshield can be redeployed. -->
+  <VGE_MechanoidOvershieldGenerator.description>Uma estrutura defensiva colossal que projeta um escudo de energia estático e poderoso, com enorme raio. A barreira intercepta todos os projéteis que chegam, mas permite disparos de dentro para fora. Quando sua energia considerável se esgota, o escudo desmorona, e o gerador precisa passar por um longo ciclo de recarga de 15 dias antes que o escudo ampliado possa ser reativado.</VGE_MechanoidOvershieldGenerator.description>
+
+  <!-- EN: mechanoid resource crate -->
+  <VGE_MechanoidResourceCrate.label>Caixa de recursos mechanoide</VGE_MechanoidResourceCrate.label>
+  <!-- EN: A mechanoid resource container. It appears impossible to open, and nobody knows what could be stored inside. -->
+  <VGE_MechanoidResourceCrate.description>Um contêiner de recursos mechanoide. Parece impossível abri-lo, e ninguém sabe o que pode estar armazenado em seu interior.</VGE_MechanoidResourceCrate.description>
+
+  <!-- EN: mechanoid sensor node -->
+  <VGE_MechanoidSensorNode.label>Nó sensor mechanoide</VGE_MechanoidSensorNode.label>
+  <!-- EN: A sophisticated sensor array utilizing advanced optics and gravimetric scanners to monitor orbital activity, feeding real-time data and faction movements back to the mechanoid swarm. -->
+  <VGE_MechanoidSensorNode.description>Uma matriz de sensores sofisticada, com óptica avançada e scanners gravimétricos, que monitora a atividade orbital e envia dados em tempo real e movimentos de facções ao enxame mechanoide.</VGE_MechanoidSensorNode.description>
+
+  <!-- EN: mechanoid signal jammer -->
+  <VGE_MechanoidSignalJammer.label>Bloqueador de sinal mechanoide</VGE_MechanoidSignalJammer.label>
+  <!-- EN: A sophisticated array of sensors and emitters that broadcast localized interference across the immediate vicinity. By saturating the area with conflicting gravimetric signals, it prevents the approach of any gravship or drop pod, creating an impenetrable exclusion zone around the installation. -->
+  <VGE_MechanoidSignalJammer.description>Uma sofisticada matriz de sensores e emissores que transmite interferência localizada nas proximidades. Ao saturar a área com sinais gravimétricos conflitantes, impede a aproximação de gravinaves e cápsulas de desembarque, criando uma zona de exclusão impenetrável ao redor da instalação.</VGE_MechanoidSignalJammer.description>
+
+  <!-- EN: mechanoid solar panel -->
+  <VGE_MechanoidSolarPanel.label>Painel solar mechanoide</VGE_MechanoidSolarPanel.label>
+  <!-- EN: A dense array of hexagonal gravlite solar panels, arranged in a tight grid across mechanoid platforms. They efficiently convert solar radiation into power, maintaining the endless operational cycle of mechanoid systems. -->
+  <VGE_MechanoidSolarPanel.description>Uma densa matriz de painéis solares hexagonais de gravilita, dispostos em uma grade compacta sobre plataformas mechanoides. Eles convertem eficientemente a radiação solar em energia, mantendo o ciclo operacional ininterrupto dos sistemas mechanoides.</VGE_MechanoidSolarPanel.description>
+
+  <!-- EN: mechanoid stabilizer -->
+  <VGE_MechanoidStabilizer.label>Estabilizador mechanoide</VGE_MechanoidStabilizer.label>
+  <!-- EN: A compact astrofuel thruster built by the mechanoid core to propel their orbital platforms. Its construction mirrors human design but is reinforced with mechanical precision, lined with thick vacstone plating that shrugs off extreme heat and stress. These smaller thrusters assist platforms with fine-tuned maneuvering and position-holding in orbit. While unusable for human gravships, destroying one will yield a tiny supply of precious vacstone blocks. -->
+  <VGE_MechanoidStabilizer.description>Um propulsor compacto de astrocombustível, construído pelo núcleo mechanoide para impulsionar suas plataformas orbitais. Sua construção espelha o projeto humano, mas é reforçada com precisão mecânica e revestida com placas espessas de vacuíta, resistentes ao calor e ao esforço extremos. Esses propulsores menores auxiliam as plataformas em manobras precisas e na manutenção de posição em órbita. Embora sejam inutilizáveis em gravinaves humanas, destruir um deles rende uma pequena quantidade de blocos valiosos de vacuíta.</VGE_MechanoidStabilizer.description>
+
+  <!-- EN: mechanoid targeting relay -->
+  <VGE_MechanoidTargetingRelay.label>Relé de mira mechanoide</VGE_MechanoidTargetingRelay.label>
+  <!-- EN: A specialized relay that transmits precise targeting parameters to all nearby mechanoid artillery pieces. The constant stream of data dramatically improves their accuracy, ensuring devastatingly precise bombardment. -->
+  <VGE_MechanoidTargetingRelay.description>Um relé especializado que transmite parâmetros de mira precisos a todas as peças de artilharia mechanoide próximas. O fluxo constante de dados melhora muito a precisão, garantindo bombardeios devastadoramente certeiros.</VGE_MechanoidTargetingRelay.description>
+
+  <!-- EN: mech nav beacon -->
+  <VGE2_MechNavBeacon.label>Sinalizador de navegação mechanoide</VGE2_MechNavBeacon.label>
+  <!-- EN: A specialized beacon used by mechanoid orbital platforms to broadcast precise docking vectors and formation coordinates. -->
+  <VGE2_MechNavBeacon.description>Um sinalizador especializado usado por plataformas orbitais mechanoides para transmitir vetores precisos de acoplagem e coordenadas de formação.</VGE2_MechNavBeacon.description>
+
+  <!-- EN: mech vertex -->
+  <VGE2_MechVertex.label>vértice mechanoide</VGE2_MechVertex.label>
+  <!-- EN: A mysterious, autonomous mechanoid node with unknown purpose. While these nodes are rich in extractable resources, they are exceptionally delicate, and any significant damage will trigger a catastrophic failure in their micro power cells. -->
+  <VGE2_MechVertex.description>Um nó mechanoide misterioso e autônomo, de finalidade desconhecida. Esses nós contêm muitos recursos extraíveis, mas são extremamente delicados; qualquer dano significativo provocará uma falha catastrófica em suas microcélulas de energia.</VGE2_MechVertex.description>
+
+</LanguageData>

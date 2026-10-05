@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Enemy gravjumper -->
+  <VGE_EnemyGravjumper.label>Gravisaltador inimigo</VGE_EnemyGravjumper.label>
+  <!-- EN: An enemy gravjumper is locking in and will engage shortly.
+Time until arrival: {0}
+Move away before it arrives to avoid it, or prepare to fight it. -->
+  <VGE_EnemyGravjumper.description>Um gravisaltador inimigo está se aproximando e atacará em breve.
+Tempo até a chegada: {0}
+Afaste-se antes que ele chegue para evitá-lo, ou prepare-se para lutar.</VGE_EnemyGravjumper.description>
+  <!-- EN: An enemy gravjumper has targeted {0}. It will continuously bombard the gravship until it is destroyed. Destroy the enemy gravjumper engine to permanently disable their ship. -->
+  <VGE_EnemyGravjumper.alertExplanation>Um gravisaltador inimigo marcou {0}. Ele continuará bombardeando a gravinave até que seja destruído. Destrua o motor do gravisaltador inimigo para desativá-lo permanentemente.</VGE_EnemyGravjumper.alertExplanation>
+  <!-- EN: An enemy gravjumper has arrived in orbit and begins the attack on your gravship. Your vessel will be under continuous fire from the gravjumper?s weapons. To survive, you must destroy the enemy gravjumper engine, as well as eliminate all of the gravjumper?s artillery turrets.
+You can fight back using your gravship's artillery, shield generators, and point defenses to withstand the bombardment. Alternatively, send a shuttle or drop pods to the enemy location to board the gravjumper and destroy it from the inside. If you cannot defend yourself, you must attempt to escape its range immediately. -->
+  <VGE_EnemyGravjumper.arrivalLetterDesc>Um gravisaltador inimigo chegou em órbita e começa o ataque à sua gravinave. Sua embarcação ficará sob fogo contínuo das armas do gravisaltador. Para sobreviver, você deve destruir o motor do gravisaltador inimigo, além de eliminar todas as torres de artilharia do gravisaltador.
+Você pode contra-atacar usando a artilharia da sua gravinave, geradores de escudo e defesas pontuais para resistir ao bombardeio. Alternativamente, envie um shuttle ou cápsulas de desembarque para a localização inimiga para abordar o gravisaltador e destruí-lo por dentro. Se você não puder se defender, deve tentar escapar imediatamente do alcance dele.</VGE_EnemyGravjumper.arrivalLetterDesc>
+  <!-- EN: Gravjumper attacks -->
+  <VGE_EnemyGravjumper.arrivalLetterLabel>Ataques de gravisaltador</VGE_EnemyGravjumper.arrivalLetterLabel>
+  <!-- EN: Gravjumper defeated -->
+  <VGE_EnemyGravjumper.defeatLetter>Gravisaltador derrotado</VGE_EnemyGravjumper.defeatLetter>
+  <!-- EN: Enemy gravjumper threat has been defeated, but the area still offers valuable loot. You can salvage the wreck of the gravjumper to gain some valuable resources.
+Gravjumper will destabilize and collapse within {0}. -->
+  <VGE_EnemyGravjumper.defeatLetterDesc>A ameaça do gravisaltador inimigo foi derrotada, mas a área ainda oferece itens valiosos. Você pode recuperar o destroço do gravisaltador para obter alguns recursos valiosos.
+O gravisaltador ficará instável e colapsará em {0}.</VGE_EnemyGravjumper.defeatLetterDesc>
+  <!-- EN: Gravjumper disengages -->
+  <VGE_EnemyGravjumper.disengagesLetter>Gravisaltador se retira</VGE_EnemyGravjumper.disengagesLetter>
+  <!-- EN: {0} has effectively destroyed your gravship. It has now disengaged.
+Consider this a valuable lesson. -->
+  <VGE_EnemyGravjumper.disengagesLetterDesc>{0} destruiu efetivamente sua gravinave. Agora ele se retirou.
+Considere isso uma lição valiosa.</VGE_EnemyGravjumper.disengagesLetterDesc>
+  <!-- EN: You have escaped the enemy gravjumper. -->
+  <VGE_EnemyGravjumper.earlyEscapeMessage>Você escapou do gravisaltador inimigo.</VGE_EnemyGravjumper.earlyEscapeMessage>
+  <!-- EN: You have escaped the enemy gravjumper. -->
+  <VGE_EnemyGravjumper.escapedMessage>Você escapou do gravisaltador inimigo.</VGE_EnemyGravjumper.escapedMessage>
+  <!-- EN: Incoming gravjumper -->
+  <VGE_EnemyGravjumper.incomingLabel>Gravisaltador em aproximação</VGE_EnemyGravjumper.incomingLabel>
+  <!-- EN: An enemy gravjumper called {0} has intercepted your landing coordinates and prepares to intercept. It is currently running final scans to determine the best assault approach. Gravjumper is a compact, short-range gravship that relies on the gravjumper engine and a pilot cockpit to operate. Offers minimal substructure support and footprint, making it ideal for scouting and exploration. Destroying the gravjumper engine will disable it permanently.
+The gravjumper will continuously fire at your location until you move out of range or destroy it. It may decide to move in, in which case it will land on your local area and engage you up close. You can avoid that by destroying the thrusters, the fuel tanks or the pilot?s cockpit. If you move away now, you may be able to shake it off.
+Point defense turrets, gravarmor, and shield generators can be used to protect against the bombardment. Gravship artillery can be used to attack the enemy over long distances. You can also send a shuttle or drop pods to the enemy location to handle it personally. -->
+  <VGE_EnemyGravjumper.letterDesc>Um gravisaltador inimigo chamado {0} interceptou suas coordenadas de pouso e se prepara para interceptar. Ele está executando varreduras finais para determinar a melhor abordagem de ataque. O gravisaltador é uma gravinave compacta e de curto alcance que depende do motor do gravisaltador e de uma cabine de pilotagem para operar. Oferece suporte estrutural mínimo e pegada reduzida, tornando-o ideal para reconhecimento e exploração. Destruir o motor do gravisaltador o desabilitará permanentemente.
+O gravisaltador disparará continuamente contra sua localização até que você saia do alcance ou o destrua. Ele pode decidir se aproximar e pousar em sua área local para combater de perto. Você pode evitar isso destruindo os propulsores, os tanques de combustível ou a cabine do piloto. Se você se afastar agora, pode conseguir despistá-lo.
+Torres de defesa pontual, gravarmadura e geradores de escudo podem ser usados para proteger contra o bombardeio. A artilharia da gravinave pode ser usada para atacar o inimigo em longas distâncias. Você também pode enviar um shuttle ou cápsulas de desembarque para a localização inimiga para lidar com isso pessoalmente.</VGE_EnemyGravjumper.letterDesc>
+  <!-- EN: Enemy gravjumper -->
+  <VGE_EnemyGravjumper.letterLabel>Gravisaltador inimigo</VGE_EnemyGravjumper.letterLabel>
+
+  <!-- EN: Enemy gravship -->
+  <VGE_EnemyGravship.label>Gravinave inimiga</VGE_EnemyGravship.label>
+  <!-- EN: An enemy gravship is preparing the bombardment and will engage shortly.
+Time until arrival: {0}
+Move away before it arrives to avoid it, or prepare to fight it. -->
+  <VGE_EnemyGravship.description>Uma gravinave inimiga está preparando o bombardeio e atacará em breve.
+Tempo até a chegada: {0}
+Afaste-se antes que ela chegue para evitá-la, ou prepare-se para lutar.</VGE_EnemyGravship.description>
+  <!-- EN: An enemy gravship has targeted {0}. It will continuously bombard the gravship until it is destroyed. Destroy the enemy gravship engine and any artillery they have to permanently disable their ship. -->
+  <VGE_EnemyGravship.alertExplanation>Uma gravinave inimiga marcou {0}. Ela continuará bombardeando a gravinave até que seja destruída. Destrua o motor da gravinave inimiga e toda a artilharia dela para desativá-la permanentemente.</VGE_EnemyGravship.alertExplanation>
+  <!-- EN: An enemy gravship has arrived in orbit and begins the attack on your gravship. Your vessel will be under continuous fire from the gravship?s weapons. To survive, you must destroy the enemy gravship engine, as well as eliminate all of the gravship?s artillery turrets.
+You can fight back using your gravship's artillery, shield generators, and point defenses to withstand the bombardment. Alternatively, send a shuttle or drop pods to the enemy location to board the gravjumper and destroy it from the inside. If you cannot defend yourself, you must attempt to escape its range immediately. -->
+  <VGE_EnemyGravship.arrivalLetterDesc>Uma gravinave inimiga chegou em órbita e começa o ataque à sua gravinave. Sua embarcação ficará sob fogo contínuo das armas da gravinave. Para sobreviver, você deve destruir o motor da gravinave inimiga, além de eliminar todas as torres de artilharia da gravinave.
+Você pode contra-atacar usando a artilharia da sua gravinave, geradores de escudo e defesas pontuais para resistir ao bombardeio. Alternativamente, envie um shuttle ou cápsulas de desembarque para a localização inimiga para abordar o gravisaltador e destruí-lo por dentro. Se você não puder se defender, deve tentar escapar imediatamente do alcance dela.</VGE_EnemyGravship.arrivalLetterDesc>
+  <!-- EN: Gravship attacks -->
+  <VGE_EnemyGravship.arrivalLetterLabel>Ataques de gravinave</VGE_EnemyGravship.arrivalLetterLabel>
+  <!-- EN: Gravship defeated -->
+  <VGE_EnemyGravship.defeatLetter>Gravinave derrotada</VGE_EnemyGravship.defeatLetter>
+  <!-- EN: Enemy gravship threat has been defeated, but the area still offers valuable loot. You can salvage the wreck of the gravship to gain some valuable resources.
+Gravship will destabilize and collapse within {0}. -->
+  <VGE_EnemyGravship.defeatLetterDesc>A ameaça da gravinave inimiga foi derrotada, mas a área ainda oferece itens valiosos. Você pode recuperar o destroço da gravinave para obter alguns recursos valiosos.
+A gravinave ficará instável e colapsará em {0}.</VGE_EnemyGravship.defeatLetterDesc>
+  <!-- EN: Gravship disengages -->
+  <VGE_EnemyGravship.disengagesLetter>Gravinave se retira</VGE_EnemyGravship.disengagesLetter>
+  <!-- EN: {0} has effectively destroyed your gravship. It has now disengaged.
+Consider this a valuable lesson. -->
+  <VGE_EnemyGravship.disengagesLetterDesc>{0} destruiu efetivamente sua gravinave. Agora ela se retirou.
+Considere isso uma lição valiosa.</VGE_EnemyGravship.disengagesLetterDesc>
+  <!-- EN: You have escaped the enemy gravship. -->
+  <VGE_EnemyGravship.earlyEscapeMessage>Você escapou da gravinave inimiga.</VGE_EnemyGravship.earlyEscapeMessage>
+  <!-- EN: You have escaped the enemy gravship. -->
+  <VGE_EnemyGravship.escapedMessage>Você escapou da gravinave inimiga.</VGE_EnemyGravship.escapedMessage>
+  <!-- EN: Incoming gravship -->
+  <VGE_EnemyGravship.incomingLabel>Gravinave em aproximação</VGE_EnemyGravship.incomingLabel>
+  <!-- EN: An enemy gravship called {0} has successfully triangulated your landing coordinates and is moving into a high-orbit position to begin orbital bombardment. It is currently locking targeting sensors onto your position. Gravship is a versatile mid-sized vessel powered by a standard gravship engine and launched via a pilot console. Balanced in size and support, it can serve as a mobile base with sufficient upgrades. Suitable for long-term travel and projecting power. Destroying the gravship engine will disable it permanently.
+The gravship will continuously fire at your location until you move out of range or destroy it. If you move away now, you may be able to shake it off.
+Point defense turrets, gravarmor, and shield generators can be used to protect against the bombardment. Gravship artillery can be used to attack the enemy over long distances. You can also send a shuttle or drop pods to the enemy location to handle it personally. -->
+  <VGE_EnemyGravship.letterDesc>Uma gravinave inimiga chamada {0} triangulou com sucesso suas coordenadas de pouso e está se movendo para uma posição de órbita alta para iniciar o bombardeio orbital. Ela está atualmente travando sensores de mira em sua posição. A gravinave é uma embarcação versátil de tamanho médio movida por um motor padrão de gravinave e lançada por meio de um console de pilotagem. Equilibrada em tamanho e suporte, pode servir como base móvel com upgrades suficientes. Adequada para viagens de longa duração e projeção de poder. Destruir o motor da gravinave a desabilitará permanentemente.
+A gravinave disparará continuamente contra sua localização até que você saia do alcance ou a destrua. Se você se afastar agora, pode conseguir despistá-la.
+Torres de defesa pontual, gravarmadura e geradores de escudo podem ser usados para proteger contra o bombardeio. A artilharia da gravinave pode ser usada para atacar o inimigo em longas distâncias. Você também pode enviar um shuttle ou cápsulas de desembarque para a localização inimiga para lidar com isso pessoalmente.</VGE_EnemyGravship.letterDesc>
+  <!-- EN: Enemy gravship -->
+  <VGE_EnemyGravship.letterLabel>Gravinave inimiga</VGE_EnemyGravship.letterLabel>
+
+  <!-- EN: Orbital cluster -->
+  <VGE_OrbitalCluster.label>Aglomerado orbital</VGE_OrbitalCluster.label>
+  <!-- EN: A mechanoid orbital combat cluster has locked in on your position and will attack soon.
+Time until arrival: {0}
+Moving away will likely delay the attack, but sooner or later an orbital cluster will need to be defeated to stop the threat. -->
+  <VGE_OrbitalCluster.description>Um aglomerado orbital mechanoide de combate travou sua posição e atacará em breve.
+Tempo até a chegada: {0}
+Se afastar provavelmente atrasará o ataque, mas cedo ou tarde um aglomerado orbital precisará ser derrotado para deter a ameaça.</VGE_OrbitalCluster.description>
+  <!-- EN: A mechanoid orbital combat cluster has targeted {0}. It will continuously bombard the gravship until it is destroyed. Destroy the mechanoid grav engine, as well as all enemy artillery pieces, or try and escape, but bear in mind that another cluster will likely attack you when you do. -->
+  <VGE_OrbitalCluster.alertExplanation>Um aglomerado orbital mechanoide de combate marcou {0}. Ele continuará bombardeando a gravinave até que seja destruído. Destrua o motor gravitacional mechanoide, bem como toda a artilharia inimiga, ou tente escapar, mas tenha em mente que outro aglomerado provavelmente atacará você ao fazê-lo.</VGE_OrbitalCluster.alertExplanation>
+  <!-- EN: A mechanoid orbital cluster has arrived and is actively engaging your gravship. Your vessel will be under continuous fire from the cluster's weapons. To survive, you must neutralize the cluster by destroying the mechanoid grav engine, as well as all enemy artillery.
+You can fight back using your gravship's artillery, shield generators, and point defenses to withstand the bombardment. Alternatively, send a shuttle or drop pods to the enemy location to board the cluster and destroy the mechanoid grav engine directly. If you cannot stop the bombardment, you must attempt to escape its range immediately, but be warned that another orbital cluster will likely engage you again. -->
+  <VGE_OrbitalCluster.arrivalLetterDesc>Um aglomerado orbital mechanoide chegou e está engajando ativamente sua gravinave. Sua embarcação ficará sob fogo contínuo das armas do aglomerado. Para sobreviver, você deve neutralizar o aglomerado destruindo o motor gravitacional mechanoide, além de toda a artilharia inimiga.
+Você pode contra-atacar usando a artilharia da sua gravinave, geradores de escudo e defesas pontuais para resistir ao bombardeio. Alternativamente, envie um shuttle ou cápsulas de desembarque para a localização inimiga para abordar o aglomerado e destruir diretamente o motor gravitacional mechanoide. Se você não puder interromper o bombardeio, deverá tentar escapar do alcance imediatamente, mas fique avisado: outro aglomerado orbital provavelmente o enfrentará novamente.</VGE_OrbitalCluster.arrivalLetterDesc>
+  <!-- EN: Orbital cluster -->
+  <VGE_OrbitalCluster.arrivalLetterLabel>Aglomerado orbital</VGE_OrbitalCluster.arrivalLetterLabel>
+  <!-- EN: Orbital cluster defeated -->
+  <VGE_OrbitalCluster.defeatLetter>Aglomerado orbital derrotado</VGE_OrbitalCluster.defeatLetter>
+  <!-- EN: Orbital cluster threat has been defeated, but the area still offers valuable loot. You can salvage the wreck of the cluster to gain some valuable resources - but be careful, as the defending mechanoids will still put up a fight.
+Orbital cluster will destabilize and collapse within {0}. -->
+  <VGE_OrbitalCluster.defeatLetterDesc>A ameaça do aglomerado orbital foi derrotada, mas a área ainda oferece itens valiosos. Você pode recuperar o destroço do aglomerado para obter alguns recursos valiosos - mas cuidado, pois os mechanoides defensores ainda lutarão.
+O aglomerado orbital se tornará instável e colapsará em {0}.</VGE_OrbitalCluster.defeatLetterDesc>
+  <!-- EN: Orbital cluster disengages -->
+  <VGE_OrbitalCluster.disengagesLetter>Aglomerado orbital se retira</VGE_OrbitalCluster.disengagesLetter>
+  <!-- EN: Orbital cluster no longer perceives you as a threat and has effectively destroyed your gravship. It has now disengaged.
+Consider this a valuable lesson. -->
+  <VGE_OrbitalCluster.disengagesLetterDesc>O aglomerado orbital não o percebe mais como ameaça e destruiu efetivamente sua gravinave. Agora ele se retirou.
+Considere isso uma lição valiosa.</VGE_OrbitalCluster.disengagesLetterDesc>
+  <!-- EN: You have managed to shake off the mechanoid orbital cluster. -->
+  <VGE_OrbitalCluster.earlyEscapeMessage>Você conseguiu despistar o aglomerado orbital mechanoide.</VGE_OrbitalCluster.earlyEscapeMessage>
+  <!-- EN: You have managed to escape the mechanoid orbital cluster. -->
+  <VGE_OrbitalCluster.escapedMessage>Você conseguiu escapar do aglomerado orbital mechanoide.</VGE_OrbitalCluster.escapedMessage>
+  <!-- EN: Incoming orbital cluster -->
+  <VGE_OrbitalCluster.incomingLabel>Aglomerado orbital em aproximação</VGE_OrbitalCluster.incomingLabel>
+  <!-- EN: A mechanoid orbital cluster has locked onto your gravship's coordinates and is slowly moving into position to engage. This massive structure houses a mechanoid grav engine; destroying this core will yield a gravcore. The cluster is heavily armed with a vast number of mechanoid gravship artillery units and is defended by a significant force of mechanoids - all of which have to be destroyed to defeat the cluster.
+Be warned: this cluster is part of an extensive orbital network. It will relentlessly track your signature: attempting to flee will only cause another orbital cluster to move into range to engage. You must prepare to neutralize this threat or face the consequences.
+Point defense turrets, gravarmor, and shield generators can be used to protect against the bombardment. Gravship artillery can be used to attack the enemy over long distances. You can also send a shuttle or drop pods to the enemy location to handle it personally. -->
+  <VGE_OrbitalCluster.letterDesc>Um aglomerado orbital mechanoide travou as coordenadas da sua gravinave e está lentamente se movendo para uma posição de engajamento. Essa estrutura massiva abriga um motor gravitacional mechanoide; destruir este núcleo renderá um gravinúcleo. O aglomerado está altamente armado com uma grande quantidade de artilharia de gravinave mechanoide e é defendido por uma força significativa de mechanoides - todos os quais precisam ser destruídos para derrotar o aglomerado.
+Fique avisado: este aglomerado faz parte de uma extensa rede orbital. Ele rastreará sua assinatura sem cessar: tentar fugir apenas fará com que outro aglomerado orbital se mova para dentro do alcance para engajar. Você deve se preparar para neutralizar esta ameaça ou enfrentar as consequências.
+Torres de defesa pontual, gravarmadura e geradores de escudo podem ser usados para proteger contra o bombardeio. A artilharia da gravinave pode ser usada para atacar o inimigo em longas distâncias. Você também pode enviar um shuttle ou cápsulas de desembarque para a localização inimiga para lidar com isso pessoalmente.</VGE_OrbitalCluster.letterDesc>
+  <!-- EN: Incoming orbital cluster -->
+  <VGE_OrbitalCluster.letterLabel>Aglomerado orbital em aproximação</VGE_OrbitalCluster.letterLabel>
+
+  <!-- EN: Salvager station -->
+  <VGE_SalvagerStation.label>Estação de salvadores</VGE_SalvagerStation.label>
+  <!-- EN: A salvager orbital station is demanding tribute of {0} silver or it will open fire.
+Time until tribute needs to be paid: {1}
+You can ask them to postpone the payment, but the grav engine will be locked remotely until the tribute is paid or the station is defeated. You can also pay the fee immediately, if you have the funds. Running away will likely have the salvagers send a search party after you. -->
+  <VGE_SalvagerStation.description>Uma estação orbital de salvadores está exigindo tributo de {0} de prata ou abrirá fogo.
+Tempo até o tributo precisar ser pago: {1}
+Você pode pedir que eles posterguem o pagamento, mas o motor gravitacional será bloqueado remotamente até que o tributo seja pago ou a estação seja derrotada. Você também pode pagar a taxa imediatamente, se tiver fundos. Fugir provavelmente fará com que os salvadores enviem uma equipe de busca atrás de você.</VGE_SalvagerStation.description>
+  <!-- EN: A salvager orbital station has targeted {0}. It will continuously bombard the gravship until it is destroyed. You can destroy the enemy gravship artillery pieces and the gravlock tether, or try and escape. If you escape, salvagers will likely send a search party. -->
+  <VGE_SalvagerStation.alertExplanation>Uma estação orbital de salvadores marcou {0}. Ela continuará bombardeando a gravinave até que seja destruída. Você pode destruir as peças de artilharia da gravinave inimiga e o elo gravlock, ou tentar escapar. Se escapar, os salvadores provavelmente enviarão uma equipe de busca.</VGE_SalvagerStation.alertExplanation>
+  <!-- EN: A salvager orbital station has locked in and is engaging your gravship. Your vessel will be under continuous fire from the numerous artillery pieces and missile launchers. To survive, you must destroy enemy gravship artillery pieces and the gravlock tether.
+You can fight back using your gravship's artillery, shield generators, and point defenses to withstand the bombardment. Alternatively, send a shuttle or drop pods to the enemy location to board the orbital platform and destroy the gravlock tether and gravship artillery pieces. If you cannot stop the bombardment, you must attempt to escape its range immediately. -->
+  <VGE_SalvagerStation.arrivalLetterDesc>Uma estação orbital de salvadores se aproximou e está engajando sua gravinave. Sua embarcação ficará sob fogo contínuo de diversas peças de artilharia e lançadores de mísseis. Para sobreviver, você deve destruir as peças de artilharia da gravinave inimiga e o elo gravlock.
+Você pode contra-atacar usando a artilharia da sua gravinave, geradores de escudo e defesas pontuais para resistir ao bombardeio. Alternativamente, envie um shuttle ou cápsulas de desembarque para a localização inimiga para abordar a plataforma orbital e destruir o elo gravlock e as peças de artilharia da gravinave. Se você não puder interromper o bombardeio, deve tentar escapar imediatamente do alcance.</VGE_SalvagerStation.arrivalLetterDesc>
+  <!-- EN: Salvager station -->
+  <VGE_SalvagerStation.arrivalLetterLabel>Estação de salvadores</VGE_SalvagerStation.arrivalLetterLabel>
+  <!-- EN: Salvager station defeated -->
+  <VGE_SalvagerStation.defeatLetter>Estação de salvadores derrotada</VGE_SalvagerStation.defeatLetter>
+  <!-- EN: Salvager orbital platform threat has been defeated, but the area still offers valuable loot. You can salvage the wreck of the orbital warplatform to gain some valuable resources. Be careful, as platform defenses, as well as remaining salvagers will still pose a threat.
+Orbital platform will destabilize and collapse within {0}. -->
+  <VGE_SalvagerStation.defeatLetterDesc>A ameaça da plataforma orbital de salvadores foi derrotada, mas a área ainda oferece itens valiosos. Você pode recuperar o destroço da plataforma orbital de guerra para obter alguns recursos valiosos. Tenha cuidado, pois as defesas da plataforma, assim como os salvadores restantes, ainda representam uma ameaça.
+A plataforma orbital ficará instável e colapsará em {0}.</VGE_SalvagerStation.defeatLetterDesc>
+  <!-- EN: Salvager station disengages -->
+  <VGE_SalvagerStation.disengagesLetter>Estação de salvadores se retira</VGE_SalvagerStation.disengagesLetter>
+  <!-- EN: Salvager station has destroyed your grav engine. They are celebrating. You should have paid the tribute.
+Consider this a valuable lesson. -->
+  <VGE_SalvagerStation.disengagesLetterDesc>A estação de salvadores destruiu seu motor gravitacional. Eles estão celebrando. Você devia ter pago o tributo.
+Considere isso uma lição valiosa.</VGE_SalvagerStation.disengagesLetterDesc>
+  <!-- EN: You are now out of reach of the salvager orbital station. -->
+  <VGE_SalvagerStation.earlyEscapeMessage>Você agora está fora do alcance da estação orbital de salvadores.</VGE_SalvagerStation.earlyEscapeMessage>
+  <!-- EN: You are now out of reach of the salvager orbital station. -->
+  <VGE_SalvagerStation.escapedMessage>Você agora está fora do alcance da estação orbital de salvadores.</VGE_SalvagerStation.escapedMessage>
+  <!-- EN: Tribute demand -->
+  <VGE_SalvagerStation.incomingLabel>Exigência de tributo</VGE_SalvagerStation.incomingLabel>
+  <!-- EN: An incoming transmission has been intercepted from a nearby salvager station, {0}. Its leader, {1}, has issued a demand for tribute.
+The station has locked its weapons on {2} and will open fire unless you pay a tribute of {3} silver. You are being given time to deliberate, but you must choose quickly: you can pay the full amount to secure your safety, or request to postpone the payment by {4} days. Be warned that choosing to delay will force a remote lock on your gravship's engine, preventing you from departing. If you refuse to pay, the station will initiate an immediate attack.
+If it attacks, the salvager station will continue to fire on your gravship until you move out of range or it is destroyed.
+Point defense turrets, gravarmor, and shield generators can be used to protect against the bombardment. Gravship artillery can be used to attack the enemy over long distances. You can also send a shuttle or drop pods to the enemy location to handle it personally. -->
+  <VGE_SalvagerStation.letterDesc>Uma transmissão recebida foi interceptada de uma estação de salvadores próxima, {0}. Seu líder, {1}, emitiu uma exigência de tributo.
+A estação travou suas armas em {2} e abrirá fogo a menos que você pague um tributo de {3} de prata. Você está recebendo tempo para deliberar, mas deve decidir rapidamente: pode pagar o valor total para garantir sua segurança, ou solicitar postergar o pagamento por {4} dias. Aviso: escolher atrasar forçará um bloqueio remoto no motor da sua gravinave, impedindo sua partida. Se você se recusar a pagar, a estação iniciará um ataque imediato.
+Se atacar, a estação de salvadores continuará a disparar contra sua gravinave até que você saia do alcance ou ela seja destruída.
+Torres de defesa pontual, gravarmadura e geradores de escudo podem ser usados para proteger contra o bombardeio. A artilharia da gravinave pode ser usada para atacar o inimigo em longas distâncias. Você também pode enviar um shuttle ou cápsulas de desembarque para a localização inimiga para lidar com isso pessoalmente.</VGE_SalvagerStation.letterDesc>
+  <!-- EN: Tribute demand -->
+  <VGE_SalvagerStation.letterLabel>Exigência de tributo</VGE_SalvagerStation.letterLabel>
+
+  <!-- EN: Warplatform -->
+  <VGE_Warplatform.label>Plataforma de guerra</VGE_Warplatform.label>
+  <!-- EN: An orbital bombardment platform has detected your gravship signature and will engage shortly.
+Time until arrival: {0}
+Move away before it locks in to avoid it, or prepare to fight it. -->
+  <VGE_Warplatform.description>Uma plataforma orbital de bombardeio detectou a assinatura da sua gravinave e atacará em breve.
+Tempo até a chegada: {0}
+Afaste-se antes que ela se fixe para evitá-la, ou prepare-se para lutar.</VGE_Warplatform.description>
+  <!-- EN: An enemy warplatform has targeted {0}. It will continuously bombard the gravship until it is destroyed. Destroy or hack the internal warcomputer, or try and escape. -->
+  <VGE_Warplatform.alertExplanation>Uma plataforma de guerra inimiga marcou {0}. Ela continuará bombardeando a gravinave até que seja destruída. Destrua ou hackeie o computador de guerra interno, ou tente escapar.</VGE_Warplatform.alertExplanation>
+  <!-- EN: An orbital bombardment warplatform has arrived and is actively engaging your gravship. Your vessel will be under continuous fire from the platform's weapons. To survive, you must neutralize the platform either by destroying all gauss bombards, or destroying or hacking the central warcomputer.
+You can fight back using your gravship's artillery, shield generators, and point defenses to withstand the bombardment. Alternatively, send a shuttle or drop pods to the enemy location to board the platform and destroy its sensitive internal warcomputer directly. If you cannot stop the bombardment, you must attempt to escape its range immediately. -->
+  <VGE_Warplatform.arrivalLetterDesc>Uma plataforma de bombardeio orbital de guerra chegou e está engajando ativamente sua gravinave. Sua embarcação ficará sob fogo contínuo das armas da plataforma. Para sobreviver, você deve neutralizar a plataforma destruindo todos os bombardeiros gauss, ou destruindo ou hackeando o computador de guerra central.
+Você pode contra-atacar usando a artilharia da sua gravinave, geradores de escudo e defesas pontuais para resistir ao bombardeio. Alternativamente, envie um shuttle ou cápsulas de desembarque para a localização inimiga para abordar a plataforma e destruir diretamente seu sensível computador de guerra interno. Se você não puder interromper o bombardeio, deve tentar escapar imediatamente do alcance.</VGE_Warplatform.arrivalLetterDesc>
+  <!-- EN: Warplatform defeated -->
+  <VGE_Warplatform.defeatLetter>Plataforma de guerra derrotada</VGE_Warplatform.defeatLetter>
+  <!-- EN: Warplatform threat has been defeated, but the area still offers valuable loot. You can salvage the wreck of the warplatform to gain some valuable resources.
+Warplatform will destabilize and collapse within {0}. -->
+  <VGE_Warplatform.defeatLetterDesc>A ameaça da plataforma de guerra foi derrotada, mas a área ainda oferece itens valiosos. Você pode recuperar o destroço da plataforma de guerra para obter alguns recursos valiosos.
+A plataforma de guerra ficará instável e colapsará em {0}.</VGE_Warplatform.defeatLetterDesc>
+  <!-- EN: Warplatform disengages -->
+  <VGE_Warplatform.disengagesLetter>Plataforma de guerra se retira</VGE_Warplatform.disengagesLetter>
+  <!-- EN: Warplatform has achieved all pre-programmed goals and has effectively destroyed your gravship. It has now disengaged.
+Consider this a valuable lesson. -->
+  <VGE_Warplatform.disengagesLetterDesc>A plataforma de guerra alcançou todos os objetivos pré-programados e destruiu efetivamente sua gravinave. Agora ela se retirou.
+Considere isso uma lição valiosa.</VGE_Warplatform.disengagesLetterDesc>
+  <!-- EN: You have moved out of range of the warplatform before it could engage. It will not pursue you further. -->
+  <VGE_Warplatform.earlyEscapeMessage>Você se afastou do alcance da plataforma de guerra antes que ela pudesse engajar. Ela não o perseguirá mais.</VGE_Warplatform.earlyEscapeMessage>
+  <!-- EN: You are now out of reach of the enemy warplatform. -->
+  <VGE_Warplatform.escapedMessage>Você agora está fora do alcance da plataforma de guerra inimiga.</VGE_Warplatform.escapedMessage>
+  <!-- EN: Incoming warplatform -->
+  <VGE_Warplatform.incomingLabel>Plataforma de guerra em aproximação</VGE_Warplatform.incomingLabel>
+  <!-- EN: An orbital bombardment platform has been activated by your gravship's energy signature. It is currently running target scans and will engage shortly. The orbital platform houses a sensitive warcomputer; destroying this component will disable the platform entirely.
+The platform will continue to fire on your gravship until you move out of range or it is destroyed. Be aware that it takes time to fully engage; if you move away quickly enough, you may be able to escape its detection.
+Point defense turrets, gravarmor, and shield generators can be used to protect against the bombardment. Gravship artillery can be used to attack the enemy over long distances. You can also send a shuttle or drop pods to the enemy location to handle it personally. -->
+  <VGE_Warplatform.letterDesc>Uma plataforma orbital de bombardeio foi ativada pela assinatura de energia da sua gravinave. Ela está executando varreduras de alvos e atacará em breve. A plataforma orbital abriga um computador de guerra sensível; destruir esse componente desabilitará a plataforma completamente.
+A plataforma continuará a disparar contra sua gravinave até que você saia do alcance ou ela seja destruída. Esteja ciente de que leva tempo para engajar completamente; se você se afastar rápido o suficiente, pode conseguir escapar da detecção.
+Torres de defesa pontual, gravarmadura e geradores de escudo podem ser usados para proteger contra o bombardeio. A artilharia da gravinave pode ser usada para atacar o inimigo em longas distâncias. Você também pode enviar um shuttle ou cápsulas de desembarque para a localização inimiga para lidar com isso pessoalmente.</VGE_Warplatform.letterDesc>
+  <!-- EN: Incoming warplatform -->
+  <VGE_Warplatform.letterLabel>Plataforma de guerra em aproximação</VGE_Warplatform.letterLabel>
+
+</LanguageData>

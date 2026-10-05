@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: exoworm infestation -->
+  <VGE_ExowormInfestation.label>infestação de exoworm</VGE_ExowormInfestation.label>
+  <!-- EN: Parasitic exoworm larvae burrowing and growing within the flesh. As it matures, it will consume local tissue and cause extreme pain. Without aggressive treatment and a strong immune response, the worm will eventually erupt from the body part. -->
+  <VGE_ExowormInfestation.description>Larvas parasitas de exoworm se enterram e crescem na carne. À medida que amadurecem, consomem os tecidos ao redor e causam dor extrema. Sem tratamento intensivo e uma resposta imunológica forte, o verme acabará irrompendo pela parte do corpo.</VGE_ExowormInfestation.description>
+  <!-- EN:  Exoworm gestation: {0} -->
+  <VGE_ExowormInfestation.comps.HediffComp_Discoverable.discoverLetterLabel>Gestação de exoworm: {0}</VGE_ExowormInfestation.comps.HediffComp_Discoverable.discoverLetterLabel>
+  <!-- EN: {0} has been infected with exoworm larva. They need immediate and constant medical care, or the worm will eventually crawl out of them. -->
+  <VGE_ExowormInfestation.comps.HediffComp_Discoverable.discoverLetterText>Uma larva de exoworm infectou {0}. É necessário atendimento médico imediato e contínuo; sem isso, o verme acabará saindo do corpo.</VGE_ExowormInfestation.comps.HediffComp_Discoverable.discoverLetterText>
+
+  <!-- EN: minor -->
+  <VGE_ExowormInfestation.stages.minor-0.label>leve</VGE_ExowormInfestation.stages.minor-0.label>
+
+  <!-- EN: minor -->
+  <VGE_ExowormInfestation.stages.minor-1.label>leve</VGE_ExowormInfestation.stages.minor-1.label>
+
+  <!-- EN: wriggling -->
+  <VGE_ExowormInfestation.stages.wriggling.label>se contorcendo</VGE_ExowormInfestation.stages.wriggling.label>
+
+  <!-- EN: bulging -->
+  <VGE_ExowormInfestation.stages.bulging.label>saliente</VGE_ExowormInfestation.stages.bulging.label>
+
+  <!-- EN: erupting -->
+  <VGE_ExowormInfestation.stages.erupting.label>irrompendo</VGE_ExowormInfestation.stages.erupting.label>
+
+  <!-- EN: no pain sensitivity -->
+  <VGE_NoPain.label>sensibilidade reduzida à dor</VGE_NoPain.label>
+  <!-- EN: This creature has a reduced pain sensitivity, and it takes longer to be downed due to pain. -->
+  <VGE_NoPain.description>Esta criatura tem sensibilidade reduzida à dor e demora mais para ficar incapacitada por causa dela.</VGE_NoPain.description>
+
+</LanguageData>

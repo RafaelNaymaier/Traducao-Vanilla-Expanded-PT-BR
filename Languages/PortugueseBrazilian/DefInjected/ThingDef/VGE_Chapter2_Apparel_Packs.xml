@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: astrorig -->
+  <VGE_Apparel_Astrorig.label>astrorig</VGE_Apparel_Astrorig.label>
+  <!-- EN: A specialized personal movement pack designed for rapid traversal in zero-gravity environments. Utilizing a contained oxygen supply for controlled thrust, it allows for long-distance, high-speed jumps in space. The pack's design eliminates movement penalties on space terrain, though the amount of long range jumps is limited by the oxygen supply. -->
+  <VGE_Apparel_Astrorig.description>Um pacote pessoal de movimento especializado, projetado para travessia rápida em ambientes de gravidade zero. Utilizando um suprimento de oxigênio contido para impulso controlado, permite saltos de longa distância e alta velocidade no espaço. O design do pacote elimina penalidades de movimento em terreno espacial, embora a quantidade de saltos de longo alcance seja limitada pelo suprimento de oxigênio.</VGE_Apparel_Astrorig.description>
+  <!-- EN: oxygen u³ -->
+  <VGE_Apparel_Astrorig.comps.CompApparelOxygenProvider.chargeNoun>oxigênio u³</VGE_Apparel_Astrorig.comps.CompApparelOxygenProvider.chargeNoun>
+  <!-- EN: jump -->
+  <VGE_Apparel_Astrorig.comps.CompApparelVerbOwner_Oxygen.chargeNoun>salto</VGE_Apparel_Astrorig.comps.CompApparelVerbOwner_Oxygen.chargeNoun>
+
+  <!-- EN: jump -->
+  <VGE_Apparel_Astrorig.verbs.jump.label>salto</VGE_Apparel_Astrorig.verbs.jump.label>
+
+  <!-- EN: disposable oxygen pack -->
+  <VGE_Apparel_DisposableOxygenPack.label>pacote descartável de oxigênio</VGE_Apparel_DisposableOxygenPack.label>
+  <!-- EN: A single-use utility pack containing a supply of compressed oxygen. When worn with vacuum-sealed apparel, it provides full immunity to vacuum by supplying breathable air until depleted. Once spent or unequipped, the seal is compromised and the pack is destroyed. -->
+  <VGE_Apparel_DisposableOxygenPack.description>Um pacote utilitário de uso único contendo um suprimento de oxigênio comprimido. Quando usado com vestuário vedado ao vácuo, oferece imunidade total ao vácuo ao fornecer ar respirável até se esgotar. Depois de gasto ou removido, a vedação é comprometida e o pacote é destruído.</VGE_Apparel_DisposableOxygenPack.description>
+  <!-- EN: oxygen u³ -->
+  <VGE_Apparel_DisposableOxygenPack.comps.CompApparelOxygenProvider.chargeNoun>oxigênio u³</VGE_Apparel_DisposableOxygenPack.comps.CompApparelOxygenProvider.chargeNoun>
+
+</LanguageData>
