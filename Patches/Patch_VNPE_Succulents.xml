@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Plants Expanded - Succulents</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_AloeVera"]/label</xpath>
+          <value><label>babosa</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_AloeVera"]/description</xpath>
+          <value><description>Suculenta cultivada, com folhas carnudas e esverdeadas que se abrem em leque a partir do caule curto. Embora não seja tão bonita quanto as flores, esta planta tem vida muito longa.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_BunnyEarsCactus"]/label</xpath>
+          <value><label>cacto-orelha-de-coelho</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_BunnyEarsCactus"]/description</xpath>
+          <value><description>Suculenta cultivada com segmentos que lembram orelhas de coelho e espinhos semelhantes a pelos macios. Embora não seja tão bonita quanto as flores, esta planta tem vida muito longa.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_Echeveria"]/label</xpath>
+          <value><label>rosa-de-pedra</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_Echeveria"]/description</xpath>
+          <value><description>Suculenta cultivada que forma uma roseta e é nativa de regiões áridas cobertas por arbustos. Embora não seja tão bonita quanto as flores, esta planta tem vida muito longa.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_FairyWashboard"]/label</xpath>
+          <value><label>haworthia-tábua-de-lavadeira</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_FairyWashboard"]/description</xpath>
+          <value><description>Suculenta cultivada que forma uma roseta de folhas longas e triangulares. Embora não seja tão bonita quanto as flores, esta planta tem vida muito longa.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_JadePlant"]/label</xpath>
+          <value><label>planta-jade</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_JadePlant"]/description</xpath>
+          <value><description>Suculenta cultivada com caules grossos e lenhosos e folhas ovais. Embora não seja tão bonita quanto as flores, esta planta tem vida muito longa.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_PeyotePlant"]/label</xpath>
+          <value><label>peiote</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_PeyotePlant"]/description</xpath>
+          <value><description>Suculenta cultivada que lembra botões grossos. Embora não seja tão bonita quanto as flores, esta planta tem vida muito longa.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_PincushionPlant"]/label</xpath>
+          <value><label>cacto-alfineteiro</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_PincushionPlant"]/description</xpath>
+          <value><description>Suculenta cultivada da variedade dos cactos, com espinhos pontiagudos por toda a superfície. Embora não seja tão bonita quanto as flores, esta planta tem vida muito longa.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_Schlumbergera"]/label</xpath>
+          <value><label>flor-de-maio</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_Schlumbergera"]/description</xpath>
+          <value><description>Suculenta cultivada com flores em formato de sino. Embora não seja tão bonita quanto as flores, esta planta tem vida muito longa.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_SnakePlant"]/label</xpath>
+          <value><label>espada-de-são-jorge</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_SnakePlant"]/description</xpath>
+          <value><description>Suculenta cultivada com folhas rígidas e listradas de verde, contornadas por uma borda amarela. Embora não seja tão bonita quanto as flores, esta planta tem vida muito longa.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_SweetheartPlant"]/label</xpath>
+          <value><label>planta-coração</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plant_SweetheartPlant"]/description</xpath>
+          <value><description>Suculenta cultivada com folhas em formato de coração em um caule alto. Embora não seja tão bonita quanto as flores, esta planta tem vida muito longa.</description></value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

@@ -616,7 +616,7 @@
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_YlangYlang"]/label</xpath>
-          <value><label>ylangue-ylangue</label></value>
+          <value><label>ilangue-ilangue</label></value>
         </li>
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="VCE_YlangYlang"]/description</xpath>
