@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Plants Expanded - Mushrooms</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Building_Zapcap"]/label</xpath>
+          <value><label>chapéu-elétrico</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Building_Zapcap"]/description</xpath>
+          <value><description>Cogumelo grande, bege e bulboso, conhecido por produzir pequenas quantidades de eletricidade enquanto cresce. Precisa ser plantado sobre conduítes de energia para que a eletricidade gerada possa ser utilizada. Em caso de curto-circuito, os chapéus-elétricos amplificam a energia liberada, causando muito mais dano.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Bileceps"]/label</xpath>
+          <value><label>bileceps</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Bileceps"]/description</xpath>
+          <value><description>Bileceps é um cogumelo peculiar, semelhante a um coral, que se desenvolve sobre a bile de cadáveres em decomposição. Apesar da origem pouco apetitosa, tem sabor de carne e oferece uma colheita rica em proteínas. Sua aparência característica, semelhante a um tumor, não impede que colonos o usem como fonte alternativa de carne.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Precisa de bile de cadáver no mesmo quadrado para crescer adequadamente. Hora de chamar uma lesma helixiana!</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Blisscap"]/label</xpath>
+          <value><label>cogumelo-do-êxtase</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Blisscap"]/description</xpath>
+          <value><description>Cogumelo comprido e azul-claro que oferece mais do que sustento. Ao ser consumido, provoca intensa euforia e deixa quem o consome bastante sonolento. Também aumenta muito a sensibilidade psíquica de quem o consome. Comunidades hippies de vários planetas centrais costumam consumi-lo para “ver o futuro”.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Ao contrário de outras plantas, o cogumelo-do-êxtase cresce independentemente do nível de luz. A luz do sol não o destrói. Ainda assim, ele descansa durante a noite.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Foampuffer"]/label</xpath>
+          <value><label>cogumelo-de-espuma</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Foampuffer"]/description</xpath>
+          <value><description>Cogumelo feio e espesso, com um chapéu que cheira a fezes de mufalo. Precisa ser cultivado em vasos de flores. Quando maduro, se entrar em contato com fogo, explode e espalha espuma antichamas por uma pequena área.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Glowcap"]/label</xpath>
+          <value><label>cogumelo-luminescente</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Glowcap"]/description</xpath>
+          <value><description>Pequeno cogumelo azul, geralmente encontrado em cavernas. O cheiro que exala é repulsivo, mas seu sabor surpreende quando é cozido. Ilumina a área ao redor, embora a luz não seja forte o bastante para cultivar plantas.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Healtruffle"]/label</xpath>
+          <value><label>trufa-medicinal</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Healtruffle"]/description</xpath>
+          <value><description>Trufa que cresce lentamente ao absorver nutrientes do gás de decomposição. Precisa desse gás ao redor para se desenvolver. Sua colheita fornece Medicina Herbal. Como é muito delicada, dá bastante trabalho plantar e colher. Colonos a cultivam há muito tempo por suas propriedades medicinais.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Lullabloom"]/label</xpath>
+          <value><label>flor-de-ninar</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Lullabloom"]/description</xpath>
+          <value><description>Cogumelo especial que libera esporos calmantes, ideal para plantar ao lado de uma cama. Deve ser cultivado em um vaso de flores. Sua presença acalma quem dorme por perto, favorecendo um sono mais tranquilo e confortável. Por suas propriedades suaves e soníferas, é muito apreciado por colonos que buscam uma noite de descanso.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Ao contrário de outras plantas, a flor-de-ninar cresce independentemente do nível de luz. A luz do sol não a destrói. Ainda assim, ela descansa durante a noite.\n\nAnula o pensamento “sono interrompido”.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_MycothreadMushroom"]/label</xpath>
+          <value><label>cogumelo-fio-de-micélio</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_MycothreadMushroom"]/description</xpath>
+          <value><description>Este cogumelo é cultivado há muito tempo por colônias mineradoras de tuneladores. Ele produz uma fibra espessa, mas flexível, semelhante ao algodão, usada para fabricar cordas, roupas e móveis. Seu cultivo leva muito tempo, e ele morre quando exposto a qualquer tipo de luz. Para algumas colônias, é a única fonte confiável de tecidos de boa qualidade.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Redcap"]/label</xpath>
+          <value><label>chapéu-vermelho</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Redcap"]/description</xpath>
+          <value><description>Cogumelo cultivado, de belo chapéu vermelho e vida relativamente curta. É bonito, mas talvez precise ser replantado com frequência.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Stinker"]/label</xpath>
+          <value><label>cogumelo-fedorento</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Stinker"]/description</xpath>
+          <value><description>Cogumelo pequeno e de crescimento rápido, que forma grandes manchas. Produz gás de decomposição por meio de um processo químico. Apesar do cheiro desagradável, pode ser colhido para obter fungos comestíveis. Cresce em qualquer lugar, mas morre quando exposto à luz do sol.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Ao contrário de outros cogumelos, tolera fontes de luz de até 50% de luminosidade, como tochas.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Thermoregulus"]/label</xpath>
+          <value><label>termorregulador</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Thermoregulus"]/description</xpath>
+          <value><description>Cogumelo raro e grande, que precisa ser cultivado em vasos de flores. Quando maduro, emite calor ou frio conforme a temperatura ambiente. Tenta manter o cômodo onde está a 16 °C.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Ao contrário de outros cogumelos, não é destruído pela luz do sol.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Timbercap"]/label</xpath>
+          <value><label>cogumelo-lenhoso</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Timbercap"]/description</xpath>
+          <value><description>Cogumelo baixo e marrom, com caule rígido. Quando colhido, fornece uma pequena quantidade de material semelhante à madeira.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Zapcap"]/label</xpath>
+          <value><label>chapéu-elétrico</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Zapcap"]/description</xpath>
+          <value><description>Cogumelo grande, bege e bulboso, conhecido por produzir pequenas quantidades de eletricidade enquanto cresce. Precisa ser plantado sobre conduítes de energia para que a eletricidade gerada possa ser utilizada. Em caso de curto-circuito, os chapéus-elétricos amplificam a energia liberada, causando muito mais dano.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Toxpuff"]/label</xpath>
+          <value><label>cogumelo-tóxico</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Plant_Toxpuff"]/description</xpath>
+          <value><description>Cogumelo pequeno, oval e verde, geralmente encontrado em áreas muito poluídas. Libera gás tóxico quando alguém pisa nele.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Bileceps"]/label</xpath>
+          <value><label>bileceps cru</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Bileceps"]/description</xpath>
+          <value><description>Bileceps colhido. Pode ser cozido em refeições ou consumido cru.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Blisscap"]/label</xpath>
+          <value><label>cogumelo-do-êxtase cru</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Blisscap"]/description</xpath>
+          <value><description>Cogumelo-do-êxtase cru, obtido ao colher esses cogumelos. Quando consumido, causa intensa euforia e muita sonolência.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Mycothread"]/label</xpath>
+          <value><label>micofio</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VPE_Mycothread"]/description</xpath>
+          <value><description>Tecido comestível semelhante ao algodão, extraído de cogumelos que produzem micofio. É macio e fácil de trabalhar, mas se deteriora rapidamente. Tem uma cor incomum e, curiosamente, ainda cheira e tem gosto de cogumelo.</description></value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>
