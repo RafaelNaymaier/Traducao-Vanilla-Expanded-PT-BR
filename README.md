@@ -11,47 +11,63 @@ Esse é um projeto pessoal, queria fazer isso há muito tempo e agora reuni cora
 
 ## ✨ Mods Atualmente Traduzidos
 
-A tradução já abrange os seguintes módulos do Vanilla Expanded. Para cada um, foi garantida a fidelidade à terminologia oficial do RimWorld.
+A tradução já abrange os seguintes módulos da série Vanilla Expanded (e dependências centrais). Para cada um, foi garantida a fidelidade à terminologia oficial do RimWorld.
 
-| Mod Traduzido | Descrição |
-| :--- | :--- |
-| **Vanilla Expanded Framework** | Estrutura base e funcionalidades centrais do sistema. |
-| **Vanilla Races Expanded - Android** | Mecânicas de senciência e androides despertos. |
-| **Vanilla Races Expanded - Archon** | Defs e habilidades da raça Archon. |
-| **Vanilla Races Expanded - Fungoid** | Genes de infecção e mecânicas da raça Fungoid. |
-| **Vanilla Races Expanded - Genie** | Especialização em engenharia e intelecto. |
-| **Vanilla Races Expanded - Highmate** | Habilidades sociais e itens da raça Highmate. |
-| **Vanilla Races Expanded - Hussar** | Táticas militares e dependências químicas. |
-| **Vanilla Races Expanded - Insector** | Genes e mutações de insetos. |
-| **Vanilla Races Expanded - Lycanthrope** | Transformações e formas de licantropo. |
-| **Vanilla Races Expanded - Phytokin** | Mecânicas botânicas e genes de plantas. |
-| **Vanilla Races Expanded - Pigskin** | Habilidades e itens da raça Pigskin. |
-| **Vanilla Races Expanded - Sanguophage** | Sistema de hemogênio e habilidades de sangue. |
-| **Vanilla Races Expanded - Saurid** | Mecânicas e itens da raça Saurid. |
-| **Vanilla Races Expanded - Starjack** | Defs, itens e habilidades espaciais. |
-| **Vanilla Races Expanded - Waster** | Sobrevivência e mecânicas de poluição. |
-| **Vanilla Furniture Expanded - Core** | Mobiliários básicos e decorações. |
-| **Vanilla Furniture Expanded - Architect** | Novos pisos, paredes e elementos arquitetônicos. |
-| **Vanilla Furniture Expanded - Power** | Geradores e sistemas avançados de energia. |
-| **Vanilla Furniture Expanded - Production** | Bancadas e ferramentas de produção. |
-| **Vanilla Furniture Expanded - Farming** | Estruturas e itens voltados à agricultura. |
-| **Vanilla Furniture Expanded - Medical** | Equipamentos e mobília hospitalar. |
-| **Vanilla Furniture Expanded - Art** | Esculturas e itens de decoração artística. |
-| **Vanilla Furniture Expanded - Spacer Module** | Mobiliário de alta tecnologia e ficção científica. |
-| **Vanilla Factions Expanded - Insectoids 2** | Facções, itens e mecânicas de insetoides. |
-| **Vanilla Factions Expanded - Pirates** | Facção de piratas, armaduras e sistema de mercenários. |
-| **Vanilla Gravship Expanded - Chapter 1** | Gravinaves, projetos de pesquisa e construções. |
-| **Vanilla Plants Expanded - Core** | Novos cultivos, árvores e flora. |
-| **Vanilla Armour Expanded** | Coleção de novas armaduras e equipamentos de defesa. |
-| **Vanilla Nutrient Paste Expanded** | Sistemas e tubulações de pasta de nutrientes. |
-| **Vanilla Temperature Expanded** | Novos sistemas de aquecimento, resfriamento e ventilação. |
+* **Vanilla Expanded Framework**
+* **Vehicle Framework**
+* **Vanilla Races Expanded - Android**
+* **Vanilla Races Expanded - Archon**
+* **Vanilla Races Expanded - Fungoid**
+* **Vanilla Races Expanded - Genie**
+* **Vanilla Races Expanded - Highmate**
+* **Vanilla Races Expanded - Hussar**
+* **Vanilla Races Expanded - Insector**
+* **Vanilla Races Expanded - Lycanthrope**
+* **Vanilla Races Expanded - Phytokin**
+* **Vanilla Races Expanded - Pigskin**
+* **Vanilla Races Expanded - Sanguophage**
+* **Vanilla Races Expanded - Saurid**
+* **Vanilla Races Expanded - Starjack**
+* **Vanilla Races Expanded - Waster**
+* **Vanilla Genes Expanded - Chapter 2**
+* **Vanilla Factions Expanded - Insectoids 2**
+* **Vanilla Factions Expanded - Medieval 2**
+* **Vanilla Factions Expanded - Pirates**
+* **Vanilla Factions Expanded - Settlers**
+* **Vanilla Gravship Expanded - Chapter 1**
+* **Vanilla Gravship Expanded - Chapter 2**
+* **Vanilla Quests Expanded - Ancients**
+* **Vanilla Quests Expanded - Cryptoforge**
+* **Vanilla Quests Expanded - Deadlife**
+* **Vanilla Quests Expanded - The Generator**
+* **Vanilla Furniture Expanded**
+* **Vanilla Furniture Expanded - Architect**
+* **Vanilla Furniture Expanded - Art**
+* **Vanilla Furniture Expanded - Farming**
+* **Vanilla Furniture Expanded - Medical Module**
+* **Vanilla Furniture Expanded - Power**
+* **Vanilla Furniture Expanded - Production**
+* **Vanilla Furniture Expanded - Security**
+* **Vanilla Furniture Expanded - Spacer Module**
+* **Vanilla Plants Expanded**
+* **Vanilla Plants Expanded - More Plants**
+* **Vanilla Plants Expanded - Mushrooms**
+* **Vanilla Plants Expanded - Succulents**
+* **Vanilla Nutrient Paste Expanded**
+* **Vanilla Temperature Expanded**
+* **Vanilla Anomaly Expanded - Insanity**
+* **Vanilla Armour Expanded**
+* **Vanilla Landmarks Expanded**
+* **Vanilla Traits Expanded**
+* **Vanilla Vehicles Expanded**
+
 ---
 
 ## 📝 Sobre o Projeto
 
 Este é um esforço pessoal focado em:
-* Garantir que todas as descrições, *labels*, mensagens e a interface de usuário introduzidas por esses *mods* estejam em português.
-* Manter a **terminologia do jogo o mais fiel e consistente** possível.
+- Garantir que todas as descrições, *labels*, mensagens e a interface de usuário introduzidas por esses *mods* estejam em português.
+- Manter a **terminologia do jogo o mais fiel e consistente** possível.
 
 Qualquer feedback sobre a qualidade da tradução, termos que pareçam estranhos ou erros gramaticais é extremamente bem-vindo!
 
@@ -61,11 +77,11 @@ Qualquer feedback sobre a qualidade da tradução, termos que pareçam estranhos
 
 Para instalar manualmente a tradução:
 
-1.  Baixe a versão mais recente do mod em [🔗 Releases](https://github.com/RafaelNaymaier/Traducao-Vanilla-Expanded-PT-BR/releases/latest)
-2.  Extraia o conteúdo.
-3.  Copie a pasta resultante **`Tradução Vanilla Expanded PT-BR`** para o diretório de *mods* do RimWorld:
+1. Baixe a versão mais recente do mod em [🔗 Releases](https://github.com/RafaelNaymaier/Traducao-Vanilla-Expanded-PT-BR/releases/latest)
+2. Extraia o conteúdo.
+3. Copie a pasta resultante **`Tradução Vanilla Expanded PT-BR`** para o diretório de *mods* do RimWorld:
 
-    > `...\Steam\steamapps\common\RimWorld\Mods\`
+   > `...\Steam\steamapps\common\RimWorld\Mods\`
 
 ---
 
@@ -79,6 +95,6 @@ Para a maneira mais fácil de instalar a tradução, inscreva-se no item da Stea
 
 Como sou novo no *modding*, a contribuição e o *feedback* da comunidade são vitais!
 
-* Se encontrar algum erro de tradução, por favor, abra uma **`Issue`** detalhando o problema.
+- Se encontrar algum erro de tradução, por favor, abra uma **`Issue`** detalhando o problema.
 
 Obrigado por apoiar e desfrute dos mods para o RimWorld em português!
