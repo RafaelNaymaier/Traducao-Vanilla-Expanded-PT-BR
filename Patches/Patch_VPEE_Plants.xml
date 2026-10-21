@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Plants Expanded - More Plants</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_AloeVera"]/label</xpath>
+          <value><label>babosa</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_AloeVera"]/description</xpath>
+          <value><description>Erva de folhas suculentas dispostas em roseta. As folhas variam do cinza ao verde e, às vezes, têm manchas brancas. Suas bordas possuem espinhos pontiagudos e rosados, e delas se extrai um gel incolor usado em muitos produtos medicinais.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; A babosa só pode ser cultivada em zonas de cultivo em areia, que ignoram a fertilidade. No entanto, essas plantas levam muito tempo para serem semeadas e colhidas, trocando o trabalho dos colonos pelo cultivo em um espaço normalmente inutilizado. A babosa é uma fonte de Medicina Herbal.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Beans"]/label</xpath>
+          <value><label>planta de feijão-vagem</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Beans"]/description</xpath>
+          <value><description>Arbusto herbáceo cultivado há muito tempo. Diferentemente de muitas outras variedades de feijão, o feijão-vagem é colhido e consumido dentro da própria vagem, antes que as sementes amadureçam por completo, como acontece com as ervilhas.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Cultivo consorciado: o feijão-vagem cresce mais rápido quando há cenouras no mesmo mapa (até 30% mais rápido se houver 100 cenouras).</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_BellPepper"]/label</xpath>
+          <value><label>pimentão</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_BellPepper"]/description</xpath>
+          <value><description>Também conhecido como pimentão doce, pertence à família das solanáceas e ao gênero Capsicum. É o único fruto do gênero que possui um gene recessivo que impede a produção de capsaicina, por isso não é picante.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Em média, 25% dos pimentões amadurecem e ficam amarelos, enquanto 75% ficam vermelhos. Os amarelos são mais nutritivos. O plantio em grande quantidade aumenta o rendimento médio.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_BrusselsSprout"]/label</xpath>
+          <value><label>couve-de-bruxelas</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_BrusselsSprout"]/description</xpath>
+          <value><description>Variedade de couve cultivada por seus brotos comestíveis. A couve-de-bruxelas costuma ser consumida cozida, e os brotos pequenos e jovens têm sabor mais delicado que os mais velhos.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Ao contrário de outras plantas, a couve-de-bruxelas se desenvolve bem na neve e cresce muito mais rápido quando está nevando, desde que também seja a estação de crescimento. Fora dela, não cresce nem pode ser plantada. Não morre por causa do frio.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Buckwheat"]/label</xpath>
+          <value><label>trigo-sarraceno</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Buckwheat"]/description</xpath>
+          <value><description>Pseudocereal cultivado por suas sementes semelhantes a grãos. Suas flores brancas crescem em cachos nas extremidades e, após a polinização, formam sementes triangulares envoltas por uma casca resistente, marrom-escura ou cinza.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O trigo-sarraceno é muito resistente ao fogo, e esta variedade foi modificada para ser completamente incombustível.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_ButternutSquash"]/label</xpath>
+          <value><label>abóbora-manteiga</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_ButternutSquash"]/description</xpath>
+          <value><description>Planta rasteira que produz um vegetal de sabor doce e levemente amendoado, semelhante ao da abóbora. Tem casca amarelo-acastanhada e polpa alaranjada, com sementes concentradas na extremidade da flor.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; A abóbora-manteiga só pode ser cultivada em zonas de cultivo em areia, que ignoram a fertilidade. No entanto, essas plantas levam muito tempo para serem semeadas e colhidas, trocando o trabalho dos colonos pelo cultivo em um espaço normalmente inutilizado. A abóbora-manteiga demora para crescer.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Canola"]/label</xpath>
+          <value><label>canola</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Canola"]/description</xpath>
+          <value><description>Variedade de colza com flores amarelo-vivas, cultivada principalmente por suas sementes ricas em óleo.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Embora não seja comestível, a canola pode ser convertida em combustível químico com grande eficiência em uma refinaria.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Carrot"]/label</xpath>
+          <value><label>cenoura</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Carrot"]/description</xpath>
+          <value><description>Planta herbácea da família Apiaceae que produz uma raiz principal comestível. Acima do solo cresce uma roseta ereta de folhas compostas e finamente divididas; abaixo dele ficam a cenoura comestível e suas raízes.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Cultivo consorciado: a cenoura cresce mais rápido quando há feijão-vagem no mesmo mapa (até 30% mais rápido se houver 100 vagens).</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Cassava"]/label</xpath>
+          <value><label>mandioca</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Cassava"]/description</xpath>
+          <value><description>Planta tuberosa comestível também conhecida como aipim ou macaxeira. Tem sabor levemente amendoado e costuma ser consumida como raiz em ensopados ou como acompanhamento. A mandioca é versátil e pode ser usada para produzir farinha, pães, tapioca, goma para engomar roupas e bebidas alcoólicas.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; A mandioca cresce melhor em climas tropicais, quentes e úmidos. Por isso, recebe um bônus considerável de crescimento quando o tempo está nebuloso.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Celery"]/label</xpath>
+          <value><label>aipo</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Celery"]/description</xpath>
+          <value><description>Vegetal formado por um talo longo e fibroso que se afina até chegar às folhas. As folhas têm sabor intenso e são menos usadas, seja para temperar sopas e ensopados, seja como erva seca. O aipo é um ingrediente comum em muitas sopas.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O aipo tem um período de crescimento muito longo (quase um ano inteiro!). Se sobreviver durante todo esse tempo, produzirá mais que o milho.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Chickpea"]/label</xpath>
+          <value><label>grão-de-bico</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Chickpea"]/description</xpath>
+          <value><description>Uma das primeiras leguminosas cultivadas, muito plantada por suas sementes nutritivas. Elas são ricas em fibras e proteínas e são uma boa fonte de ferro, fósforo e ácido fólico.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O grão-de-bico cresce bem rápido e tem bom rendimento, mas ocupa MUITO espaço no armazenamento (mods que aumentam o tamanho das pilhas podem contornar isso, seu trapaceiro, mas cabe a você decidir se quer desequilibrar o jogo).</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_CoconutPalm"]/label</xpath>
+          <value><label>coqueiro</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_CoconutPalm"]/description</xpath>
+          <value><description>Palmeira muito cultivada em regiões tropicais por seu fruto comestível, o coco. Coqueiros se desenvolvem melhor perto do mar, em áreas baixas alguns metros acima da maré alta.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todas as árvores frutíferas ocupam cerca de quatro vezes mais espaço que culturas comuns, demoram para crescer e produzem frutos que podem ser consumidos crus. Não são destruídas após a colheita, mas têm vida útil limitada e precisam ser replantadas com o tempo.\n\nCoqueiros só podem ser cultivados em zonas de cultivo em areia, que ignoram a fertilidade. No entanto, essas plantas levam muito tempo para serem semeadas e colhidas, trocando o trabalho dos colonos pelo cultivo em um espaço normalmente inutilizado.\n\nCoqueiros recebem um bônus de crescimento quando há células com água do mar em um raio de 6 células. Os cocos podem ser usados como frutas ou processados para produzir leite.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Cucumber"]/label</xpath>
+          <value><label>pepino</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Cucumber"]/description</xpath>
+          <value><description>Planta rasteira com folhas grandes, gavinhas enroladas e folhas triangulares, peludas e espinhosas, além de flores amarelas. Produz um fruto comprido e fino, com casca verde firme e polpa úmida e translúcida.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O pepino só pode ser cultivado em zonas de cultivo em areia, que ignoram a fertilidade. No entanto, essas plantas levam muito tempo para serem semeadas e colhidas, trocando o trabalho dos colonos pelo cultivo em um espaço normalmente inutilizado. O pepino cresce rápido, tem baixo rendimento e pode ser consumido cru.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_FragrantbloomRose"]/label</xpath>
+          <value><label>rosa perfumada</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_FragrantbloomRose"]/description</xpath>
+          <value><description>Variedade única de rosa, cultivada por seu aroma intenso e envolvente, ideal para produzir perfumes e outros produtos aromáticos.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Garlic"]/label</xpath>
+          <value><label>alho</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Garlic"]/description</xpath>
+          <value><description>Planta de folhas longas, achatadas e semelhantes a capim, que formam um talo erguido diretamente do bulbo floral, parte usada como alimento e medicamento. O bulbo é composto por vários dentes menores cobertos por uma película fina.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O alho tem rendimento muito baixo, mas pode crescer em quase qualquer terreno e demora muito para apodrecer. Também pode ser usado na culinária depois de seco.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Healshroom"]/label</xpath>
+          <value><label>cogumelo medicinal</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Healshroom"]/description</xpath>
+          <value><description>Cogumelo de crescimento lento que fornece Medicina Herbal quando colhido. Por ser frágil, semeá-lo e colhê-lo exige muito trabalho. Pode crescer em cascalho fúngico, mas somente no escuro: qualquer tipo de luz, inclusive luzes escuras, irá matá-lo.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Hyacinth"]/label</xpath>
+          <value><label>jacinto</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Hyacinth"]/description</xpath>
+          <value><description>Flor de cores vivas e aroma adocicado, com uma fragrância fresca e verde que enriquece jardins e perfumes.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Jasmine"]/label</xpath>
+          <value><label>jasmim</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Jasmine"]/description</xpath>
+          <value><description>Flor de cores vivas e aroma adocicado, com uma fragrância fresca e verde que enriquece jardins e perfumes.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Lavender"]/label</xpath>
+          <value><label>lavanda</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Lavender"]/description</xpath>
+          <value><description>Planta de flores roxas e perfumadas, conhecida por seu aroma relaxante e sua beleza ornamental.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Lettuce"]/label</xpath>
+          <value><label>alface</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Lettuce"]/description</xpath>
+          <value><description>Vegetal folhoso geralmente consumido fresco e usado como base de saladas verdes. A alface costuma ser rica em vitaminas K e A.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; A alface pode ser consumida crua, como os morangos, mas precisa crescer à sombra: ao ar livre, porém sob um telhado. Não cresce em ambientes internos.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Lily"]/label</xpath>
+          <value><label>lírio</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Lily"]/description</xpath>
+          <value><description>Flor marcante, com fragrância intensa, doce e às vezes picante, que enche qualquer espaço de elegância.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Lotus"]/label</xpath>
+          <value><label>lótus</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Lotus"]/description</xpath>
+          <value><description>Às vezes chamada informalmente de lírio-d&apos;água, a planta de lótus é adaptada para crescer em planícies alagáveis de rios lentos e em deltas. Seus rizomas têm textura crocante e sabor agridoce; podem ser fritos por imersão, salteados ou recheados com carnes ou frutas em conserva.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O lótus só pode ser cultivado em zonas de cultivo aquático, que ignoram a fertilidade. No entanto, essas plantas levam muito tempo para serem semeadas e colhidas, trocando o trabalho dos colonos pelo cultivo em um espaço normalmente inutilizado. O lótus demora para crescer.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Mangoes"]/label</xpath>
+          <value><label>mangas</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Mangoes"]/description</xpath>
+          <value><description>Fruta oval de cores vivas, em tons de vermelho e amarelo. Sua única semente grande é achatada, e a polpa que a envolve tem cor amarela ou alaranjada, é suculenta e possui um sabor característico, entre o doce e o picante.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Mangas não podem ser congeladas, ou serão destruídas. O jogo não detecta isso, então desative o armazenamento delas em congeladores.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Melon"]/label</xpath>
+          <value><label>melão</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Melon"]/description</xpath>
+          <value><description>Planta que produz um fruto grande, carnoso, doce e comestível. Melões costumam ser cultivados em regiões quentes.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O melão só pode ser cultivado em zonas de cultivo em areia, que ignoram a fertilidade. No entanto, essas plantas levam muito tempo para serem semeadas e colhidas, trocando o trabalho dos colonos pelo cultivo em um espaço normalmente inutilizado. Melões ocupam muito espaço e impedem o plantio nas células adjacentes, mas sua colheita não pode falhar.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Moss"]/label</xpath>
+          <value><label>musgo de caverna</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Moss"]/description</xpath>
+          <value><description>Musgo rico em nutrientes, que pode servir de alimento para animais de caverna, mas não para humanos. Pode crescer em cascalho fúngico, mas somente no escuro: qualquer tipo de luz, inclusive luzes escuras, irá matá-lo.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Okra"]/label</xpath>
+          <value><label>quiabo</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Okra"]/description</xpath>
+          <value><description>Planta com flores da família das malváceas, cultivada por suas vagens verdes comestíveis, conhecidas pela textura viscosa ou pegajosa quando cortadas. O quiabo é muito rico em nutrientes.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O quiabo é MUITO resistente a danos. As plantas sofrem menos danos quando ficam muito tempo sem luz e regeneram danos causados por outros meios.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Orchid"]/label</xpath>
+          <value><label>orquídea</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Orchid"]/description</xpath>
+          <value><description>Flor delicada e exótica, com aroma sutil e adocicado que varia conforme a espécie. É muito usada em perfumes sofisticados.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Peanut"]/label</xpath>
+          <value><label>amendoim</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Peanut"]/description</xpath>
+          <value><description>Planta que produz sementes alongadas, envoltas por uma película semelhante a papel. Têm sabor e perfil nutricional parecidos com os de frutos de árvores, como nozes e amêndoas, mas são tecnicamente leguminosas.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Esta variedade de amendoim geneticamente modificada é semeada espalhando as sementes pela zona de cultivo. Assim, 75% das plantas são semeadas automaticamente nas células adjacentes, reduzindo o trabalho necessário. Útil!</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_PeanutSecondary"]/label</xpath>
+          <value><label>amendoim secundário</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_PeanutSecondary"]/description</xpath>
+          <value><description>Planta que produz sementes alongadas, envoltas por uma película semelhante a papel. Têm sabor e perfil nutricional parecidos com os de frutos de árvores, como nozes e amêndoas, mas são tecnicamente leguminosas.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Esta variedade de amendoim geneticamente modificada é semeada espalhando as sementes pela zona de cultivo. Assim, 75% das plantas são semeadas automaticamente nas células adjacentes, reduzindo o trabalho necessário. Útil!</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Pineapple"]/label</xpath>
+          <value><label>abacaxi</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Pineapple"]/description</xpath>
+          <value><description>Fruta tropical doce, com casca resistente e coriácea e folhas pontiagudas no topo. A palavra inglesa &quot;pineapple&quot; originalmente significava &quot;pinha&quot;; o fruto recebeu esse nome por se parecer com uma pinha grande.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O abacaxi tem um período de crescimento muito longo, mas é muito nutritivo e ocupa menos espaço nos estoques.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plumeria"]/label</xpath>
+          <value><label>pluméria</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Plumeria"]/description</xpath>
+          <value><description>Flor tropical com fragrância frutada, doce e cremosa, perfeita para criar um ambiente exuberante e acolhedor.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Radish"]/label</xpath>
+          <value><label>rabanete</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Radish"]/description</xpath>
+          <value><description>Raiz comestível fácil de cultivar e rápida de colher. Rabanetes costumam ser plantados por quem está começando a cultivar.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Este rabanete geneticamente modificado tem um período de crescimento muito curto (menos de 2 dias). É uma cultura eficiente quando é preciso obter pequenas quantidades de alimento RÁPIDO; nesse caso, o trabalho de semear e colher será o principal fator.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawAlmonds"]/label</xpath>
+          <value><label>amêndoas</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawAlmonds"]/description</xpath>
+          <value><description>Drupa oval, geralmente consumida pura, crua ou torrada, mas que também pode ser usada no preparo de diversos pratos. Uma grande variedade de doces clássicos tem a amêndoa como ingrediente principal.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawAvocado"]/label</xpath>
+          <value><label>abacates</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawAvocado"]/description</xpath>
+          <value><description>Fruta verde ou quase preta, com uma semente grande no centro. O abacate tem textura cremosa e sabor muito suave. Hipsters adoram abacates.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawBeans"]/label</xpath>
+          <value><label>vagens</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawBeans"]/description</xpath>
+          <value><description>Frutos jovens e ainda verdes de uma variedade de feijão comum. Podem ser cozidos no vapor, fervidos, salteados ou assados. Também são usados em pratos como sopas, ensopados e caçarolas. Assim como pepinos, as vagens também podem ser conservadas em conserva.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawBellPeppers"]/label</xpath>
+          <value><label>pimentões vermelhos</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawBellPeppers"]/description</xpath>
+          <value><description>Também conhecidos como pimentões doces, os pimentões pertencem à família das solanáceas e ao gênero Capsicum. São os únicos frutos do gênero que possuem um gene recessivo que impede a produção de capsaicina, por isso não são picantes.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawBrusselsSprouts"]/label</xpath>
+          <value><label>couves-de-bruxelas</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawBrusselsSprouts"]/description</xpath>
+          <value><description>Uma variedade de couve cultivada por seus brotos comestíveis. A couve-de-bruxelas costuma ser consumida cozida, e os brotos pequenos e jovens têm sabor mais delicado que os mais velhos.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawBuckwheat"]/label</xpath>
+          <value><label>trigo-sarraceno</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawBuckwheat"]/description</xpath>
+          <value><description>Pseudocereal cultivado por suas sementes semelhantes a grãos. Suas flores brancas crescem em cachos nas extremidades e, após a polinização, formam sementes triangulares envoltas por uma casca resistente, marrom-escura ou cinza.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawButternutSquash"]/label</xpath>
+          <value><label>abóboras-manteiga</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawButternutSquash"]/description</xpath>
+          <value><description>Vegetal de sabor doce e levemente amendoado, semelhante ao da abóbora. Tem casca amarelo-acastanhada e polpa alaranjada, com sementes concentradas na extremidade da flor.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawCanola"]/label</xpath>
+          <value><label>flores de canola</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawCanola"]/description</xpath>
+          <value><description>Uma variedade de colza com flores amarelo-vivas, cultivada principalmente por suas sementes ricas em óleo.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawCarrot"]/label</xpath>
+          <value><label>cenouras</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawCarrot"]/description</xpath>
+          <value><description>Raiz comestível geralmente alaranjada, embora existam variedades roxas, pretas, vermelhas, brancas e amarelas. É um alimento versátil, que pode ser picado e cozido, frito ou preparado no vapor, usado em sopas e ensopados, além de papinhas e rações para animais.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawCassava"]/label</xpath>
+          <value><label>mandiocas</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawCassava"]/description</xpath>
+          <value><description>Planta tuberosa comestível também conhecida como aipim ou macaxeira. Tem sabor levemente amendoado e costuma ser consumida como raiz em ensopados ou como acompanhamento. A mandioca é versátil e pode ser usada para produzir farinha, pães, tapioca, goma para engomar roupas e bebidas alcoólicas.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawCelery"]/label</xpath>
+          <value><label>aipo</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawCelery"]/description</xpath>
+          <value><description>Vegetal formado por um talo longo e fibroso que se afina até chegar às folhas. As folhas têm sabor intenso e são menos usadas, seja para temperar sopas e ensopados, seja como erva seca. O aipo é um ingrediente comum em muitas sopas.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawChickpeas"]/label</xpath>
+          <value><label>grãos-de-bico</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawChickpeas"]/description</xpath>
+          <value><description>Uma das primeiras leguminosas cultivadas. O grão-de-bico é rico em fibras e proteínas, além de ser uma boa fonte de ferro, fósforo e ácido fólico.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawCoconut"]/label</xpath>
+          <value><label>cocos</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawCoconut"]/description</xpath>
+          <value><description>Fruto comestível do coqueiro. A polpa do coco é rica em gordura e pode ser consumida fresca, seca ou processada para produzir leite ou óleo de coco. O líquido do fruto, conhecido como água de coco, é usado em bebidas.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawCucumber"]/label</xpath>
+          <value><label>pepinos</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawCucumber"]/description</xpath>
+          <value><description>Vegetal comprido e fino, com casca verde e firme e polpa úmida e translúcida. Pode ser consumido cru.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawGarlic"]/label</xpath>
+          <value><label>dentes de alho</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawGarlic"]/description</xpath>
+          <value><description>Planta cultivada há muito tempo por seu bulbo, formado na base das folhas. É muito apreciada na culinária por seu sabor marcante e característico.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawLettuce"]/label</xpath>
+          <value><label>alface</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawLettuce"]/description</xpath>
+          <value><description>Vegetal folhoso geralmente consumido fresco e usado como base de saladas verdes. A alface costuma ser rica em vitaminas K e A.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawLotus"]/label</xpath>
+          <value><label>sementes de lótus</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawLotus"]/description</xpath>
+          <value><description>Sementes da planta de lótus. São ricas em nutrientes e uma excelente opção para uma alimentação saudável, com alto teor de proteínas, carboidratos e vitaminas.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawMelon"]/label</xpath>
+          <value><label>melões</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawMelon"]/description</xpath>
+          <value><description>Fruta grande, carnosa, doce e comestível. Melões costumam ser cultivados em regiões quentes.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawMoss"]/label</xpath>
+          <value><label>musgo de caverna</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawMoss"]/description</xpath>
+          <value><description>Musgo rico em nutrientes, que pode servir de alimento para animais de caverna, mas não para humanos.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawOkra"]/label</xpath>
+          <value><label>quiabos</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawOkra"]/description</xpath>
+          <value><description>Vagens verdes comestíveis, conhecidas pela textura viscosa ou pegajosa quando cortadas. O quiabo é muito rico em nutrientes.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawOlives"]/label</xpath>
+          <value><label>azeitonas</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawOlives"]/description</xpath>
+          <value><description>Fruto pequeno, oval e preto ou verde, consumido como alimento ou usado para produzir azeite. Azeitonas recém-colhidas contêm oleuropeína, que torna o fruto desagradável ao paladar. Para serem consumidas, precisam ser conservadas em salmoura ou fermentadas.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPeanut"]/label</xpath>
+          <value><label>amendoins</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPeanut"]/description</xpath>
+          <value><description>Sementes alongadas, envoltas por uma película semelhante a papel. Têm sabor e perfil nutricional parecidos com os de frutos de árvores, como nozes e amêndoas, mas são tecnicamente leguminosas.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPineapple"]/label</xpath>
+          <value><label>abacaxis</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawPineapple"]/description</xpath>
+          <value><description>Fruta tropical doce, com casca resistente e coriácea e folhas pontiagudas no topo. A palavra inglesa &quot;pineapple&quot; originalmente significava &quot;pinha&quot;; o fruto recebeu esse nome por se parecer com uma pinha grande.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawRadish"]/label</xpath>
+          <value><label>rabanetes</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawRadish"]/description</xpath>
+          <value><description>Raiz comestível fácil de cultivar e rápida de colher. Rabanetes costumam ser plantados por quem está começando a cultivar.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawSunflower"]/label</xpath>
+          <value><label>sementes de girassol</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawSunflower"]/description</xpath>
+          <value><description>As sementes de girassol são mais consumidas como petisco do que como parte de uma refeição. Também podem ser usadas como guarnição ou ingrediente em diversas receitas.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawSweetPotatoes"]/label</xpath>
+          <value><label>batatas-doces</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawSweetPotatoes"]/description</xpath>
+          <value><description>Raízes tuberosas grandes, ricas em amido e de sabor doce, semelhante ao da abóbora. A batata-doce tem parentesco distante com a batata comum.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawTaro"]/label</xpath>
+          <value><label>raízes de taro</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawTaro"]/description</xpath>
+          <value><description>Raiz rica em amido, com casca marrom e polpa branca salpicada de roxo. Quando cozida, tem sabor levemente adocicado e textura semelhante à da batata.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawWaterChestnut"]/label</xpath>
+          <value><label>castanhas-d&apos;água</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawWaterChestnut"]/description</xpath>
+          <value><description>Bulbos pequenos e arredondados, com polpa branca e crocante, que podem ser consumidos levemente cozidos ou grelhados.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawWatercress"]/label</xpath>
+          <value><label>folhas de agrião</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawWatercress"]/description</xpath>
+          <value><description>Vegetal folhoso verde, rico em vitaminas e minerais e da mesma família da couve e do brócolis.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawYellowBellPeppers"]/label</xpath>
+          <value><label>pimentões amarelos</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_RawYellowBellPeppers"]/description</xpath>
+          <value><description>Também conhecidos como pimentões doces, os pimentões pertencem à família das solanáceas e ao gênero Capsicum. São os únicos frutos do gênero que possuem um gene recessivo que impede a produção de capsaicina, por isso não são picantes.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Sunflower"]/label</xpath>
+          <value><label>girassol</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Sunflower"]/description</xpath>
+          <value><description>Cultura de grande porte, cultivada por seu óleo e frutos comestíveis. O nome &quot;girassol&quot; pode vir do formato de sua inflorescência, que lembra o sol.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Girassóis crescem 30% mais rápido em regiões equatoriais. A extensão dessa região depende da temperatura geral do planeta: abaixo de 15º para Normal, abaixo de 35º para Quente, abaixo de 65º para Muito quente e o planeta inteiro para Extremamente quente. Planetas com temperatura abaixo de Normal são considerados sem equador.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_SweetPotato"]/label</xpath>
+          <value><label>batata-doce</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_SweetPotato"]/description</xpath>
+          <value><description>Planta com raízes tuberosas grandes, ricas em amido e de sabor doce, semelhante ao da abóbora. A batata-doce tem parentesco distante com a batata comum.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; A batata-doce prefere solos pedregosos e se desenvolve bem neles. Solos ricos são prejudiciais. Não tolera geadas; cresce melhor com temperatura média de 24 °C e sofre penalidades abaixo de 20 ºC.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Taro"]/label</xpath>
+          <value><label>taro</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Taro"]/description</xpath>
+          <value><description>Planta tropical cultivada principalmente por seu cormo comestível, uma raiz tuberosa. O taro é uma das poucas culturas que podem crescer em áreas inundadas, com a base da planta sempre submersa. Isso é possível graças a espaços de ar no pecíolo, que permitem a troca gasosa com a atmosfera mesmo debaixo d&apos;água.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O taro só pode ser cultivado em zonas de cultivo aquático, que ignoram a fertilidade. No entanto, essas plantas levam muito tempo para serem semeadas e colhidas, trocando o trabalho dos colonos pelo cultivo em um espaço normalmente inutilizado. O taro é a cultura aquática padrão.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Tinctshroom"]/label</xpath>
+          <value><label>cogumelo tintureiro</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Tinctshroom"]/description</xpath>
+          <value><description>Cogumelo geneticamente modificado que secreta um corante que muda de cor. Esse corante pode ser manipulado para assumir diferentes cores e usado para tingir roupas. Pode crescer em cascalho fúngico, mas somente no escuro: qualquer tipo de luz, inclusive luzes escuras, irá matá-lo.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_TreeAlmond"]/label</xpath>
+          <value><label>amendoeira</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_TreeAlmond"]/description</xpath>
+          <value><description>Árvore caducifólia cultivada por seu fruto, a amêndoa. A amêndoa doce pode ser consumida pura ou usada como ingrediente em sobremesas e doces. As árvores ficam especialmente bonitas quando florescem, produzindo flores perfumadas de cinco pétalas, em tons que vão do rosa-claro ao branco.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todas as árvores frutíferas ocupam cerca de quatro vezes mais espaço que culturas comuns, demoram para crescer e produzem frutos que podem ser consumidos crus. Não são destruídas após a colheita, mas têm vida útil limitada e precisam ser replantadas com o tempo.\n\nAs amendoeiras são bonitas, mas precisam de água em um raio de 6 células para crescer bem. As amêndoas podem ser usadas como frutas ou processadas para produzir leite.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_TreeAvocado"]/label</xpath>
+          <value><label>abacateiro</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_TreeAvocado"]/description</xpath>
+          <value><description>Árvore perene, de folhas grossas e coriáceas, que produz flores perfeitas em tons de branco, marfim e amarelo. O fruto tem uma semente grande no centro e pode ser verde ou quase preto.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Abacateiros demoram muito para amadurecer e produzir frutos. Se forem mantidos vivos durante todo esse período, rendem mais que outras árvores frutíferas. Além disso, com o mod Coffees and Teas e um café com especiarias de abóbora, você poderá viver sua experiência hipster dos sonhos em RimWorld!</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_TreeMango"]/label</xpath>
+          <value><label>mangueira</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_TreeMango"]/description</xpath>
+          <value><description>Árvore tropical perene que produz frutos ovais de cores vivas, em tons de vermelho e amarelo. Sua única semente grande é achatada, e a polpa que a envolve é amarela ou alaranjada, suculenta e de sabor característico, entre o doce e o picante.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todas as árvores frutíferas ocupam cerca de quatro vezes mais espaço que culturas comuns, demoram para crescer e produzem frutos que podem ser consumidos crus. Não são destruídas após a colheita, mas têm vida útil limitada e precisam ser replantadas com o tempo.\n\nMangueiras têm ótimo rendimento, mas as mangas não podem ser congeladas, ou serão destruídas. O jogo não detecta isso, então desative o armazenamento delas em congeladores.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_TreeOlive"]/label</xpath>
+          <value><label>oliveira</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_TreeOlive"]/description</xpath>
+          <value><description>Árvore subtropical perene de folhas largas. Suas folhas coriáceas e lanceoladas são verde-escuras na parte superior e prateadas na inferior, dispostas em pares opostos nos ramos. A madeira resiste à decomposição. Se a parte superior morrer, muitas vezes um novo tronco brota das raízes.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Curiosamente, as oliveiras preferem solos pedregosos e se desenvolvem bem neles. Solos ricos são prejudiciais. Também vivem por muito, muito tempo — bem mais que outras árvores frutíferas. Ao contrário dos frutos de outras árvores, a azeitona não pode ser consumida crua.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Tulip"]/label</xpath>
+          <value><label>tulipa</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Tulip"]/description</xpath>
+          <value><description>Flor bonita, mas de aroma suave, mais conhecida pelas cores vivas do que pela fragrância.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Vanilla"]/label</xpath>
+          <value><label>baunilha</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Vanilla"]/description</xpath>
+          <value><description>Flores delicadas, de cor branco-creme e fragrância leve e adocicada. Embora sejam bonitas, são as vagens que produzem que são valorizadas por seu aroma intenso e acolhedor. Colocamos um pouco de baunilha no seu Vanilla Expanded para que você possa expandir o Vanilla Expanded enquanto adiciona baunilha à sua expansão.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Violet"]/label</xpath>
+          <value><label>violeta</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Violet"]/description</xpath>
+          <value><description>Flor de aroma suave, adocicado e levemente atalcado, muitas vezes usada para dar um toque floral delicado a perfumes.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_WaterChestnut"]/label</xpath>
+          <value><label>castanha-d&apos;água</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_WaterChestnut"]/description</xpath>
+          <value><description>Vegetal aquático que cresce na lama, debaixo d&apos;água, em pântanos. Tem folhas verdes, tubulares e semelhantes a caules, além de cormos pequenos e arredondados, com polpa branca e crocante, que pode ser consumida crua, levemente cozida ou grelhada.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; A castanha-d&apos;água só pode ser cultivada em zonas de cultivo aquático, que ignoram a fertilidade. No entanto, essas plantas levam muito tempo para serem semeadas e colhidas, trocando o trabalho dos colonos pelo cultivo em um espaço normalmente inutilizado. A castanha-d&apos;água cresce 30% mais rápido no calor (37–60 ºC).</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Watercress"]/label</xpath>
+          <value><label>agrião</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_Watercress"]/description</xpath>
+          <value><description>O agrião é uma planta perene de crescimento rápido. É um dos vegetais folhosos mais antigos consumidos por humanos. O agrião e muitas plantas aparentadas são conhecidos por seu sabor picante.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O agrião só pode ser cultivado em zonas de cultivo aquático, que ignoram a fertilidade. No entanto, essas plantas levam muito tempo para serem semeadas e colhidas, trocando o trabalho dos colonos pelo cultivo em um espaço normalmente inutilizado. O agrião cresce mais rápido que o taro, mas ocupa muito espaço e impede o plantio nas células adjacentes.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_YellowBellPepper"]/label</xpath>
+          <value><label>pimentão amarelo</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_YellowBellPepper"]/description</xpath>
+          <value><description>Também conhecido como pimentão doce, pertence à família das solanáceas e ao gênero Capsicum. É o único fruto do gênero que possui um gene recessivo que impede a produção de capsaicina, por isso não é picante.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Em média, 25% dos pimentões amadurecem e ficam amarelos, enquanto 75% ficam vermelhos. Os amarelos são mais nutritivos. O plantio em grande quantidade aumenta o rendimento médio.</description></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_YlangYlang"]/label</xpath>
+          <value><label>ylangue-ylangue</label></value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <xpath>Defs/ThingDef[defName="VCE_YlangYlang"]/description</xpath>
+          <value><description>Flor muito perfumada, doce e de aroma intenso, valorizada na produção de perfumes exóticos e sensuais.</description></value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

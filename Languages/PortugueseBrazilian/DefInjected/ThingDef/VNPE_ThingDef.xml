@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <VNPE_NutrientPastePipe.label>tubo de pasta de nutriente</VNPE_NutrientPastePipe.label>
@@ -27,5 +27,466 @@
 
   <VNPE_Filth_Paste.label>lama de pasta de nutriente</VNPE_Filth_Paste.label>
   <VNPE_Filth_Paste.description>Uma poça de pasta de nutriente.</VNPE_Filth_Paste.description>
-  
+
+  <!-- EN: canola flowers -->
+  <VCE_RawCanola.label>flores de canola</VCE_RawCanola.label>
+
+  <!-- EN: A bright-yellow flowering variety of the rapeseed, cultivated mainly for its oil-rich seed. -->
+  <VCE_RawCanola.description>Uma variedade de colza com flores amarelo-vivas, cultivada principalmente por suas sementes ricas em óleo.</VCE_RawCanola.description>
+
+  <!-- EN: mangoes -->
+  <VCE_Mangoes.label>mangas</VCE_Mangoes.label>
+
+  <!-- EN: An oval fruit, vividly coloured with shades of red and yellow. The single large seed is flattened, and the flesh that surrounds it is yellow to orange in colour, juicy, and of distinctive sweet-spicy flavour.\n\n<color=#E5E54C>Gameplay effect:</color> Mangoes cannot be frozen or they get destroyed. The game won't be smart enough to detect this, so disable them from freezers. -->
+  <VCE_Mangoes.description>Fruta oval de cores vivas, em tons de vermelho e amarelo. Sua única semente grande é achatada, e a polpa que a envolve tem cor amarela ou alaranjada, é suculenta e possui um sabor característico, entre o doce e o picante.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Mangas não podem ser congeladas, ou serão destruídas. O jogo não detecta isso, então desative o armazenamento delas em congeladores.</VCE_Mangoes.description>
+
+  <!-- EN: almonds -->
+  <VCE_RawAlmonds.label>amêndoas</VCE_RawAlmonds.label>
+
+  <!-- EN: An oval shaped drupe often eaten on its own, raw or toasted, though it can also be used as a component of various dishes. A wide range of classic sweets feature almonds as a central ingredient. -->
+  <VCE_RawAlmonds.description>Drupa oval, geralmente consumida pura, crua ou torrada, mas que também pode ser usada no preparo de diversos pratos. Uma grande variedade de doces clássicos tem a amêndoa como ingrediente principal.</VCE_RawAlmonds.description>
+
+  <!-- EN: avocados -->
+  <VCE_RawAvocado.label>abacates</VCE_RawAvocado.label>
+
+  <!-- EN: A green or nearly black coloured fruit with a large seed or pit in the center. Avocados have a very mild, creamy texture. Hipsters love them. -->
+  <VCE_RawAvocado.description>Fruta verde ou quase preta, com uma semente grande no centro. O abacate tem textura cremosa e sabor muito suave. Hipsters adoram abacates.</VCE_RawAvocado.description>
+
+  <!-- EN: coconuts -->
+  <VCE_RawCoconut.label>cocos</VCE_RawCoconut.label>
+
+  <!-- EN: The edible fruit of the coconut palm. Coconut flesh is high in fat and can be dried or eaten fresh or processed into coconut milk or coconut oil. The liquid of the nut, known as coconut water, is used in beverages. -->
+  <VCE_RawCoconut.description>Fruto comestível do coqueiro. A polpa do coco é rica em gordura e pode ser consumida fresca, seca ou processada para produzir leite ou óleo de coco. O líquido do fruto, conhecido como água de coco, é usado em bebidas.</VCE_RawCoconut.description>
+
+  <!-- EN: melons -->
+  <VCE_RawMelon.label>melões</VCE_RawMelon.label>
+
+  <!-- EN: A sweet, edible, and fleshy fruit of considerable size. Melons are usually cultivated in warm regions. -->
+  <VCE_RawMelon.description>Fruta grande, carnosa, doce e comestível. Melões costumam ser cultivados em regiões quentes.</VCE_RawMelon.description>
+
+  <!-- EN: pineapples -->
+  <VCE_RawPineapple.label>abacaxis</VCE_RawPineapple.label>
+
+  <!-- EN: A sweet tropical fruit with a tough leathery skin and spiky leaves on top. The word pineapple was first used to mean "pine cone," and the fruit was given this name because of its resemblance to a large pine cone. -->
+  <VCE_RawPineapple.description>Fruta tropical doce, com casca resistente e coriácea e folhas pontiagudas no topo. A palavra inglesa "pineapple" originalmente significava "pinha"; o fruto recebeu esse nome por se parecer com uma pinha grande.</VCE_RawPineapple.description>
+
+  <!-- EN: green beans -->
+  <VCE_RawBeans.label>vagens</VCE_RawBeans.label>
+
+  <!-- EN: Young, unripe fruits of a cultivar of the common bean. They can be steamed, boiled, stir-fried, or baked. They are commonly cooked in other dishes such as soups, stews, and casseroles. Green beans can also be pickled, much like cucumbers are. -->
+  <VCE_RawBeans.description>Frutos jovens e ainda verdes de uma variedade de feijão comum. Podem ser cozidos no vapor, fervidos, salteados ou assados. Também são usados em pratos como sopas, ensopados e caçarolas. Assim como pepinos, as vagens também podem ser conservadas em conserva.</VCE_RawBeans.description>
+
+  <!-- EN: red bell peppers -->
+  <VCE_RawBellPeppers.label>pimentões vermelhos</VCE_RawBellPeppers.label>
+
+  <!-- EN: Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy. -->
+  <VCE_RawBellPeppers.description>Também conhecidos como pimentões doces, os pimentões pertencem à família das solanáceas e ao gênero Capsicum. São os únicos frutos do gênero que possuem um gene recessivo que impede a produção de capsaicina, por isso não são picantes.</VCE_RawBellPeppers.description>
+
+  <!-- EN: brussels sprouts -->
+  <VCE_RawBrusselsSprouts.label>couves-de-bruxelas</VCE_RawBrusselsSprouts.label>
+
+  <!-- EN: A form of cabbage grown for its edible buds called "sprouts". Brussels sprouts usually are eaten cooked, and the small young sprouts have a more delicate flavour than older ones. -->
+  <VCE_RawBrusselsSprouts.description>Uma variedade de couve cultivada por seus brotos comestíveis. A couve-de-bruxelas costuma ser consumida cozida, e os brotos pequenos e jovens têm sabor mais delicado que os mais velhos.</VCE_RawBrusselsSprouts.description>
+
+  <!-- EN: buckwheat -->
+  <VCE_RawBuckwheat.label>trigo-sarraceno</VCE_RawBuckwheat.label>
+
+  <!-- EN: A pseudocereal cultivated for its grain-like seeds. Its white flowers are produced in terminal clusters and after pòllination turn into triangular-shaped seeds that are enclosed by a tough dark brown or gray rind. -->
+  <VCE_RawBuckwheat.description>Pseudocereal cultivado por suas sementes semelhantes a grãos. Suas flores brancas crescem em cachos nas extremidades e, após a polinização, formam sementes triangulares envoltas por uma casca resistente, marrom-escura ou cinza.</VCE_RawBuckwheat.description>
+
+  <!-- EN: butternut squashes -->
+  <VCE_RawButternutSquash.label>abóboras-manteiga</VCE_RawButternutSquash.label>
+
+  <!-- EN: A vegetable with a sweet, nutty taste similar to that of a pumpkin. It has tan-yellow skin and orange fleshy pulp with a compartment of seeds in the blossom end. -->
+  <VCE_RawButternutSquash.description>Vegetal de sabor doce e levemente amendoado, semelhante ao da abóbora. Tem casca amarelo-acastanhada e polpa alaranjada, com sementes concentradas na extremidade da flor.</VCE_RawButternutSquash.description>
+
+  <!-- EN: carrots -->
+  <VCE_RawCarrot.label>cenouras</VCE_RawCarrot.label>
+
+  <!-- EN: A root vegetable, typically orange in color, though purple, black, red, white, and yellow cultivars exist. A versatile food that can be chopped and boiled, fried or steamed, cooked in soups and stews, as well as used for baby and pet foods. -->
+  <VCE_RawCarrot.description>Raiz comestível geralmente alaranjada, embora existam variedades roxas, pretas, vermelhas, brancas e amarelas. É um alimento versátil, que pode ser picado e cozido, frito ou preparado no vapor, usado em sopas e ensopados, além de papinhas e rações para animais.</VCE_RawCarrot.description>
+
+  <!-- EN: cassavas -->
+  <VCE_RawCassava.label>mandiocas</VCE_RawCassava.label>
+
+  <!-- EN: A tuberous edible plant also called manioc, mandioca, or yuca. They have a mild nutty taste and are commonly eaten as root vegetables in stews or as side dishes. Cassava roots are a versatile vegetable that can be used to produce flour, breads, tapioca, a laundry starch, and an alcoholic beverage. -->
+  <VCE_RawCassava.description>Planta tuberosa comestível também conhecida como aipim ou macaxeira. Tem sabor levemente amendoado e costuma ser consumida como raiz em ensopados ou como acompanhamento. A mandioca é versátil e pode ser usada para produzir farinha, pães, tapioca, goma para engomar roupas e bebidas alcoólicas.</VCE_RawCassava.description>
+
+  <!-- EN: celery -->
+  <VCE_RawCelery.label>aipo</VCE_RawCelery.label>
+
+  <!-- EN: A vegetable consisting of a long fibrous stalk tapering into leaves. The leaves are strongly flavored and are used less often, either as a flavoring in soups and stews or as a dried herb. Celery is a staple in many soups. -->
+  <VCE_RawCelery.description>Vegetal formado por um talo longo e fibroso que se afina até chegar às folhas. As folhas têm sabor intenso e são menos usadas, seja para temperar sopas e ensopados, seja como erva seca. O aipo é um ingrediente comum em muitas sopas.</VCE_RawCelery.description>
+
+  <!-- EN: chickpeas -->
+  <VCE_RawChickpeas.label>grãos-de-bico</VCE_RawChickpeas.label>
+
+  <!-- EN: One of the earliest cultivated legumes. Chickpeas are high in fibre and protein and are a good source of iron, phosphorus, and folic acid. -->
+  <VCE_RawChickpeas.description>Uma das primeiras leguminosas cultivadas. O grão-de-bico é rico em fibras e proteínas, além de ser uma boa fonte de ferro, fósforo e ácido fólico.</VCE_RawChickpeas.description>
+
+  <!-- EN: cucumbers -->
+  <VCE_RawCucumber.label>pepinos</VCE_RawCucumber.label>
+
+  <!-- EN: A long thin vegetable with hard green skin and wet transparent flesh. Can be eaten raw. -->
+  <VCE_RawCucumber.description>Vegetal comprido e fino, com casca verde e firme e polpa úmida e translúcida. Pode ser consumido cru.</VCE_RawCucumber.description>
+
+  <!-- EN: garlic cloves -->
+  <VCE_RawGarlic.label>dentes de alho</VCE_RawGarlic.label>
+
+  <!-- EN: A very old crop which is cultivated for its bulb, formed in the base of the leaves. It is highly appreciated in cooking for its pungent and characteristic taste. -->
+  <VCE_RawGarlic.description>Planta cultivada há muito tempo por seu bulbo, formado na base das folhas. É muito apreciada na culinária por seu sabor marcante e característico.</VCE_RawGarlic.description>
+
+  <!-- EN: lettuce -->
+  <VCE_RawLettuce.label>alface</VCE_RawLettuce.label>
+
+  <!-- EN: A leaf vegetable commonly eaten fresh and served as the base of green salads. Lettuce is generally a rich source of vitamins K and A. -->
+  <VCE_RawLettuce.description>Vegetal folhoso geralmente consumido fresco e usado como base de saladas verdes. A alface costuma ser rica em vitaminas K e A.</VCE_RawLettuce.description>
+
+  <!-- EN: lotus seeds -->
+  <VCE_RawLotus.label>sementes de lótus</VCE_RawLotus.label>
+
+  <!-- EN: The seeds of the lotus plant. They are packed with nutritional elements which make them an excellent choice for a healthy diet, with a high content of proteins, carbohydrates, and vitamins. -->
+  <VCE_RawLotus.description>Sementes da planta de lótus. São ricas em nutrientes e uma excelente opção para uma alimentação saudável, com alto teor de proteínas, carboidratos e vitaminas.</VCE_RawLotus.description>
+
+  <!-- EN: okra -->
+  <VCE_RawOkra.label>quiabos</VCE_RawOkra.label>
+
+  <!-- EN: Edible green seed pods, famously known for their slimy or sticky texture when cut open. Okra is a powerhouse of valuable nutrients. -->
+  <VCE_RawOkra.description>Vagens verdes comestíveis, conhecidas pela textura viscosa ou pegajosa quando cortadas. O quiabo é muito rico em nutrientes.</VCE_RawOkra.description>
+
+  <!-- EN: olives -->
+  <VCE_RawOlives.label>azeitonas</VCE_RawOlives.label>
+
+  <!-- EN: A small, egg-shaped black or green fruit that is used as food or for making oil. Olives freshly picked from the tree contain oleuropein, which makes the fruit unpalatable for immediate consumption. They must be brined or fermented to be used. -->
+  <VCE_RawOlives.description>Fruto pequeno, oval e preto ou verde, consumido como alimento ou usado para produzir azeite. Azeitonas recém-colhidas contêm oleuropeína, que torna o fruto desagradável ao paladar. Para serem consumidas, precisam ser conservadas em salmoura ou fermentadas.</VCE_RawOlives.description>
+
+  <!-- EN: peanuts -->
+  <VCE_RawPeanut.label>amendoins</VCE_RawPeanut.label>
+
+  <!-- EN: Seeds with an oblong shape and a papery seed coat. Similar in taste and nutritional profile to tree nuts such as walnuts and almonds, but technically a legume. -->
+  <VCE_RawPeanut.description>Sementes alongadas, envoltas por uma película semelhante a papel. Têm sabor e perfil nutricional parecidos com os de frutos de árvores, como nozes e amêndoas, mas são tecnicamente leguminosas.</VCE_RawPeanut.description>
+
+  <!-- EN: radishes -->
+  <VCE_RawRadish.label>rabanetes</VCE_RawRadish.label>
+
+  <!-- EN: An edible root vegetable that is very easy to grow and quick to harvest. Radishes are often planted by novice gardeners. -->
+  <VCE_RawRadish.description>Raiz comestível fácil de cultivar e rápida de colher. Rabanetes costumam ser plantados por quem está começando a cultivar.</VCE_RawRadish.description>
+
+  <!-- EN: sunflower seeds -->
+  <VCE_RawSunflower.label>sementes de girassol</VCE_RawSunflower.label>
+
+  <!-- EN: The seeds of the sunflower plant are more commonly eaten as a snack than as part of a meal. They can also be used as garnishes or ingredients in various recipes. -->
+  <VCE_RawSunflower.description>As sementes de girassol são mais consumidas como petisco do que como parte de uma refeição. Também podem ser usadas como guarnição ou ingrediente em diversas receitas.</VCE_RawSunflower.description>
+
+  <!-- EN: sweet potatoes -->
+  <VCE_RawSweetPotatoes.label>batatas-doces</VCE_RawSweetPotatoes.label>
+
+  <!-- EN: Large, starchy, sweet-tasting (tasting similar to pumpkin), tuberous roots that are used as a root vegetable. The sweet potato is distantly related to the common potato. -->
+  <VCE_RawSweetPotatoes.description>Raízes tuberosas grandes, ricas em amido e de sabor doce, semelhante ao da abóbora. A batata-doce tem parentesco distante com a batata comum.</VCE_RawSweetPotatoes.description>
+
+  <!-- EN: taro roots -->
+  <VCE_RawTaro.label>raízes de taro</VCE_RawTaro.label>
+
+  <!-- EN: A starchy root vegetable. It has a brown outer skin and white flesh with purple specks throughout. When cooked, it has a mildly sweet taste and a texture similar to potato. -->
+  <VCE_RawTaro.description>Raiz rica em amido, com casca marrom e polpa branca salpicada de roxo. Quando cozida, tem sabor levemente adocicado e textura semelhante à da batata.</VCE_RawTaro.description>
+
+  <!-- EN: water chestnuts -->
+  <VCE_RawWaterChestnut.label>castanhas-d'água</VCE_RawWaterChestnut.label>
+
+  <!-- EN: Small, rounded corms with a crisp, white flesh that may be eaten slightly boiled, or grilled. -->
+  <VCE_RawWaterChestnut.description>Bulbos pequenos e arredondados, com polpa branca e crocante, que podem ser consumidos levemente cozidos ou grelhados.</VCE_RawWaterChestnut.description>
+
+  <!-- EN: watercress leaves -->
+  <VCE_RawWatercress.label>folhas de agrião</VCE_RawWatercress.label>
+
+  <!-- EN: A green leaf vegetable rich in vitamins and minerals and from the same family as kale and broccoli. -->
+  <VCE_RawWatercress.description>Vegetal folhoso verde, rico em vitaminas e minerais e da mesma família da couve e do brócolis.</VCE_RawWatercress.description>
+
+  <!-- EN: yellow bell peppers -->
+  <VCE_RawYellowBellPeppers.label>pimentões amarelos</VCE_RawYellowBellPeppers.label>
+
+  <!-- EN: Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy. -->
+  <VCE_RawYellowBellPeppers.description>Também conhecidos como pimentões doces, os pimentões pertencem à família das solanáceas e ao gênero Capsicum. São os únicos frutos do gênero que possuem um gene recessivo que impede a produção de capsaicina, por isso não são picantes.</VCE_RawYellowBellPeppers.description>
+
+  <!-- EN: cave moss -->
+  <VCE_RawMoss.label>musgo de caverna</VCE_RawMoss.label>
+
+  <!-- EN: A nutrient-rich moss that can be used to feed cave animals, but not humans. -->
+  <VCE_RawMoss.description>Musgo rico em nutrientes, que pode servir de alimento para animais de caverna, mas não para humanos.</VCE_RawMoss.description>
+
+  <!-- EN: aloe vera plant -->
+  <VCE_AloeVera.label>babosa</VCE_AloeVera.label>
+
+  <!-- EN: A herb with succulent leaves that are arranged in a rosette. The leaves are grey to green and sometimes have white spots on their surfaces. They have sharp, pinkish spines along their edges and are the source of a colourless gel that is used in many medicinal products.\n\n<color=#E5E54C>Gameplay effect:</color> Aloe vera is only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Aloe vera is a source of herbal medicine. -->
+  <VCE_AloeVera.description>Erva de folhas suculentas dispostas em roseta. As folhas variam do cinza ao verde e, às vezes, têm manchas brancas. Suas bordas possuem espinhos pontiagudos e rosados, e delas se extrai um gel incolor usado em muitos produtos medicinais.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; A babosa só pode ser cultivada em zonas de cultivo em areia, que ignoram a fertilidade. No entanto, essas plantas levam muito tempo para serem semeadas e colhidas, trocando o trabalho dos colonos pelo cultivo em um espaço normalmente inutilizado. A babosa é uma fonte de Medicina Herbal.</VCE_AloeVera.description>
+
+  <!-- EN: green bean plant -->
+  <VCE_Beans.label>planta de feijão-vagem</VCE_Beans.label>
+
+  <!-- EN: A herbaceous bush with a long history of cultivation. They are distinguished from the many other varieties of beans in that green beans are harvested and consumed with their enclosing pods, before the bean seeds inside have fully matured, similar to peas.\n\n<color=#E5E54C>Gameplay effect:</color> Companion planting: green beans will grow faster if carrots are cultivated in the same map (up to 30% faster if 100 are found). -->
+  <VCE_Beans.description>Arbusto herbáceo cultivado há muito tempo. Diferentemente de muitas outras variedades de feijão, o feijão-vagem é colhido e consumido dentro da própria vagem, antes que as sementes amadureçam por completo, como acontece com as ervilhas.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Cultivo consorciado: o feijão-vagem cresce mais rápido quando há cenouras no mesmo mapa (até 30% mais rápido se houver 100 cenouras).</VCE_Beans.description>
+
+  <!-- EN: bell pepper plant -->
+  <VCE_BellPepper.label>pimentão</VCE_BellPepper.label>
+
+  <!-- EN: Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy.\n\n<color=#E5E54C>Gameplay effect:</color> On average, 25% of bell peppers will mature into yellow peppers, while 75% will mature into red peppers. The former are more nutritive. If planted in large numbers this results in increased average yield. -->
+  <VCE_BellPepper.description>Também conhecido como pimentão doce, pertence à família das solanáceas e ao gênero Capsicum. É o único fruto do gênero que possui um gene recessivo que impede a produção de capsaicina, por isso não é picante.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Em média, 25% dos pimentões amadurecem e ficam amarelos, enquanto 75% ficam vermelhos. Os amarelos são mais nutritivos. O plantio em grande quantidade aumenta o rendimento médio.</VCE_BellPepper.description>
+
+  <!-- EN: brussels sprout plant -->
+  <VCE_BrusselsSprout.label>couve-de-bruxelas</VCE_BrusselsSprout.label>
+
+  <!-- EN: A form of cabbage grown for its edible buds called "sprouts". Brussels sprouts usually are eaten cooked, and the small young sprouts have a more delicate flavour than older ones.\n\n<color=#E5E54C>Gameplay effect:</color> Contrary to other plants, brussels sprouts thrive in snow, and receive a considerable boost to growth if snowing, AS LONG AS it is also growth season (they won't grow or be able to be planted otherwise). They won't die due to cold. -->
+  <VCE_BrusselsSprout.description>Variedade de couve cultivada por seus brotos comestíveis. A couve-de-bruxelas costuma ser consumida cozida, e os brotos pequenos e jovens têm sabor mais delicado que os mais velhos.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Ao contrário de outras plantas, a couve-de-bruxelas se desenvolve bem na neve e cresce muito mais rápido quando está nevando, desde que também seja a estação de crescimento. Fora dela, não cresce nem pode ser plantada. Não morre por causa do frio.</VCE_BrusselsSprout.description>
+
+  <!-- EN: buckwheat plant -->
+  <VCE_Buckwheat.label>trigo-sarraceno</VCE_Buckwheat.label>
+
+  <!-- EN: A pseudocereal cultivated for its grain-like seeds. Its white flowers are produced in terminal clusters and after pòllination turn into triangular-shaped seeds that are enclosed by a tough dark brown or gray rind.\n\n<color=#E5E54C>Gameplay effect:</color> Buckwheat is very resistant to fire, and this variety has been modified to be completely non-flammable. -->
+  <VCE_Buckwheat.description>Pseudocereal cultivado por suas sementes semelhantes a grãos. Suas flores brancas crescem em cachos nas extremidades e, após a polinização, formam sementes triangulares envoltas por uma casca resistente, marrom-escura ou cinza.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O trigo-sarraceno é muito resistente ao fogo, e esta variedade foi modificada para ser completamente incombustível.</VCE_Buckwheat.description>
+
+  <!-- EN: butternut squash plant -->
+  <VCE_ButternutSquash.label>abóbora-manteiga</VCE_ButternutSquash.label>
+
+  <!-- EN: A vine plant that produces a vegetable with a sweet, nutty taste similar to that of a pumpkin. It has tan-yellow skin and orange fleshy pulp with a compartment of seeds in the blossom end.\n\n<color=#E5E54C>Gameplay effect:</color> Butternut squash is only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Butternut squash takes a long time to grow. -->
+  <VCE_ButternutSquash.description>Planta rasteira que produz um vegetal de sabor doce e levemente amendoado, semelhante ao da abóbora. Tem casca amarelo-acastanhada e polpa alaranjada, com sementes concentradas na extremidade da flor.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; A abóbora-manteiga só pode ser cultivada em zonas de cultivo em areia, que ignoram a fertilidade. No entanto, essas plantas levam muito tempo para serem semeadas e colhidas, trocando o trabalho dos colonos pelo cultivo em um espaço normalmente inutilizado. A abóbora-manteiga demora para crescer.</VCE_ButternutSquash.description>
+
+  <!-- EN: carrot plant -->
+  <VCE_Carrot.label>cenoura</VCE_Carrot.label>
+
+  <!-- EN: A herbaceous plant of the Apiaceae family that produces an edible taproot. An erect rosette of doubly compound, finely divided leaves develops above ground, while the edible carrot and attached roots are below.\n\n<color=#E5E54C>Gameplay effect:</color> Companion planting: carrots will grow faster if green beans are cultivated in the same map (up to 30% faster if 100 are found). -->
+  <VCE_Carrot.description>Planta herbácea da família Apiaceae que produz uma raiz principal comestível. Acima do solo cresce uma roseta ereta de folhas compostas e finamente divididas; abaixo dele ficam a cenoura comestível e suas raízes.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Cultivo consorciado: a cenoura cresce mais rápido quando há feijão-vagem no mesmo mapa (até 30% mais rápido se houver 100 vagens).</VCE_Carrot.description>
+
+  <!-- EN: cassava plant -->
+  <VCE_Cassava.label>mandioca</VCE_Cassava.label>
+
+  <!-- EN: A tuberous edible plant also called manioc, mandioca, or yuca. They have a mild nutty taste and are commonly eaten as root vegetables in stews or as side dishes. Cassava roots are a versatile vegetable that can be used to produce flour, breads, tapioca, a laundry starch, and an alcoholic beverage.\n\n<color=#E5E54C>Gameplay effect:</color> Cassava grows best in tropical, warm and humid climates. As such, it will receive a considerable growth bonus if the weather is foggy. -->
+  <VCE_Cassava.description>Planta tuberosa comestível também conhecida como aipim ou macaxeira. Tem sabor levemente amendoado e costuma ser consumida como raiz em ensopados ou como acompanhamento. A mandioca é versátil e pode ser usada para produzir farinha, pães, tapioca, goma para engomar roupas e bebidas alcoólicas.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; A mandioca cresce melhor em climas tropicais, quentes e úmidos. Por isso, recebe um bônus considerável de crescimento quando o tempo está nebuloso.</VCE_Cassava.description>
+
+  <!-- EN: celery plant -->
+  <VCE_Celery.label>aipo</VCE_Celery.label>
+
+  <!-- EN: A vegetable consisting of a long fibrous stalk tapering into leaves. The leaves are strongly flavored and are used less often, either as a flavoring in soups and stews or as a dried herb. Celery is a staple in many soups.\n\n<color=#E5E54C>Gameplay effect:</color> Celery has a very long growth period (almost a full year!). If it can be kept alive all that time, it produces greater yield than corn. -->
+  <VCE_Celery.description>Vegetal formado por um talo longo e fibroso que se afina até chegar às folhas. As folhas têm sabor intenso e são menos usadas, seja para temperar sopas e ensopados, seja como erva seca. O aipo é um ingrediente comum em muitas sopas.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O aipo tem um período de crescimento muito longo (quase um ano inteiro!). Se sobreviver durante todo esse tempo, produzirá mais que o milho.</VCE_Celery.description>
+
+  <!-- EN: chickpea plant -->
+  <VCE_Chickpea.label>grão-de-bico</VCE_Chickpea.label>
+
+  <!-- EN: One of the earliest cultivated legumes, widely grown for its nutritious seeds. These are high in fibre and protein and are a good source of iron, phosphorus, and folic acid.\n\n<color=#E5E54C>Gameplay effect:</color> Chickpeas grow quite fast and have good yield, but they require a LOT of space to be stored (this may be negated by stack-increasing mods, you dirty cheater, but it's up to you to decide to mess up the game's balance). -->
+  <VCE_Chickpea.description>Uma das primeiras leguminosas cultivadas, muito plantada por suas sementes nutritivas. Elas são ricas em fibras e proteínas e são uma boa fonte de ferro, fósforo e ácido fólico.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O grão-de-bico cresce bem rápido e tem bom rendimento, mas ocupa MUITO espaço no armazenamento (mods que aumentam o tamanho das pilhas podem contornar isso, seu trapaceiro, mas cabe a você decidir se quer desequilibrar o jogo).</VCE_Chickpea.description>
+
+  <!-- EN: cucumber plant -->
+  <VCE_Cucumber.label>pepino</VCE_Cucumber.label>
+
+  <!-- EN: A sprawling vine with large leaves and curling tendrils, triangular prickly hairy leaves and yellow flowers. Produces a fruit that is a long thin vegetable with hard green skin and wet transparent flesh. \n\n<color=#E5E54C>Gameplay effect:</color> Cucumbers are only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Cucumbers grow quite fast, providing little yield but in a short period. They can be eaten raw. -->
+  <VCE_Cucumber.description>Planta rasteira com folhas grandes, gavinhas enroladas e folhas triangulares, peludas e espinhosas, além de flores amarelas. Produz um fruto comprido e fino, com casca verde firme e polpa úmida e translúcida.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O pepino só pode ser cultivado em zonas de cultivo em areia, que ignoram a fertilidade. No entanto, essas plantas levam muito tempo para serem semeadas e colhidas, trocando o trabalho dos colonos pelo cultivo em um espaço normalmente inutilizado. O pepino cresce rápido, tem baixo rendimento e pode ser consumido cru.</VCE_Cucumber.description>
+
+  <!-- EN: garlic plant -->
+  <VCE_Garlic.label>alho</VCE_Garlic.label>
+
+  <!-- EN: A plant with long, flat grasslike leaves forming a stalk, which rises directly from the flower bulb, the part of the plant used as food and medicine. The bulb is made up of many smaller cloves covered with a papery skin.\n\n<color=#E5E54C>Gameplay effect:</color> Garlic has very little yield, but can grow in almost any terrain and takes an obscene time to rot, as dried garlic can be used to cook too. -->
+  <VCE_Garlic.description>Planta de folhas longas, achatadas e semelhantes a capim, que formam um talo erguido diretamente do bulbo floral, parte usada como alimento e medicamento. O bulbo é composto por vários dentes menores cobertos por uma película fina.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O alho tem rendimento muito baixo, mas pode crescer em quase qualquer terreno e demora muito para apodrecer. Também pode ser usado na culinária depois de seco.</VCE_Garlic.description>
+
+  <!-- EN: lettuce plant -->
+  <VCE_Lettuce.label>alface</VCE_Lettuce.label>
+
+  <!-- EN: A leaf vegetable commonly eaten fresh and served as the base of green salads. Lettuce is generally a rich source of vitamins K and A.\n\n<color=#E5E54C>Gameplay effect:</color> Lettuce can be eaten raw like strawberries, but needs to be grown in shade: outside, but under roof. It won't grow inside. -->
+  <VCE_Lettuce.description>Vegetal folhoso geralmente consumido fresco e usado como base de saladas verdes. A alface costuma ser rica em vitaminas K e A.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; A alface pode ser consumida crua, como os morangos, mas precisa crescer à sombra: ao ar livre, porém sob um telhado. Não cresce em ambientes internos.</VCE_Lettuce.description>
+
+  <!-- EN: lotus plant -->
+  <VCE_Lotus.label>lótus</VCE_Lotus.label>
+
+  <!-- EN: Sometimes colloquially called a water lily, lotus plants are adapted to grow in the flood plains of slow-moving rivers and delta areas. Lotus rhizomes have a crunchy texture with sweet-tangy flavours and can be deep-fried, stir-fried, or stuffed with meats or preserved fruits.\n\n<color=#E5E54C>Gameplay effect:</color> Lotus is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Lotus takes a long time to grow. -->
+  <VCE_Lotus.description>Às vezes chamada informalmente de lírio-d'água, a planta de lótus é adaptada para crescer em planícies alagáveis de rios lentos e em deltas. Seus rizomas têm textura crocante e sabor agridoce; podem ser fritos por imersão, salteados ou recheados com carnes ou frutas em conserva.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O lótus só pode ser cultivado em zonas de cultivo aquático, que ignoram a fertilidade. No entanto, essas plantas levam muito tempo para serem semeadas e colhidas, trocando o trabalho dos colonos pelo cultivo em um espaço normalmente inutilizado. O lótus demora para crescer.</VCE_Lotus.description>
+
+  <!-- EN: melon plant -->
+  <VCE_Melon.label>melão</VCE_Melon.label>
+
+  <!-- EN: A plant producing a sweet, edible, and fleshy fruit of considerable size. Melons are usually cultivated in warm regions.\n\n<color=#E5E54C>Gameplay effect:</color> Melons are only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Melons need a lot of space, blocking sowing in adjacent spaces, but harvesting them can't fail -->
+  <VCE_Melon.description>Planta que produz um fruto grande, carnoso, doce e comestível. Melões costumam ser cultivados em regiões quentes.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O melão só pode ser cultivado em zonas de cultivo em areia, que ignoram a fertilidade. No entanto, essas plantas levam muito tempo para serem semeadas e colhidas, trocando o trabalho dos colonos pelo cultivo em um espaço normalmente inutilizado. Melões ocupam muito espaço e impedem o plantio nas células adjacentes, mas sua colheita não pode falhar.</VCE_Melon.description>
+
+  <!-- EN: okra plant -->
+  <VCE_Okra.label>quiabo</VCE_Okra.label>
+
+  <!-- EN: A flowering plant in the mallow family valued for its edible green seed pods, which are famously known for their slimy or sticky texture when cut open. Okra is a powerhouse of valuable nutrients.\n\n<color=#E5E54C>Gameplay effect:</color> Okra is very, VERY resistant to damage. Okra plants will take less damage from prolonged lack of light, and will regenerate damage caused by any other means. -->
+  <VCE_Okra.description>Planta com flores da família das malváceas, cultivada por suas vagens verdes comestíveis, conhecidas pela textura viscosa ou pegajosa quando cortadas. O quiabo é muito rico em nutrientes.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O quiabo é MUITO resistente a danos. As plantas sofrem menos danos quando ficam muito tempo sem luz e regeneram danos causados por outros meios.</VCE_Okra.description>
+
+  <!-- EN: peanut plant -->
+  <VCE_Peanut.label>amendoim</VCE_Peanut.label>
+
+  <!-- EN: A plant that produces seeds with an oblong shape and a papery seed coat. Similar in taste and nutritional profile to tree nuts such as walnuts and almonds, but technically a legume.\n\n<color=#E5E54C>Gameplay effect:</color> This genetically modified variety of peanuts is sown by throwing the seeds haphazardly on the growing zone, and as such the plants will automatically be planted in the adjacent tiles 75% of the time, reducing the total amount of sowing work needed. Useful! -->
+  <VCE_Peanut.description>Planta que produz sementes alongadas, envoltas por uma película semelhante a papel. Têm sabor e perfil nutricional parecidos com os de frutos de árvores, como nozes e amêndoas, mas são tecnicamente leguminosas.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Esta variedade de amendoim geneticamente modificada é semeada espalhando as sementes pela zona de cultivo. Assim, 75% das plantas são semeadas automaticamente nas células adjacentes, reduzindo o trabalho necessário. Útil!</VCE_Peanut.description>
+
+  <!-- EN: secondary peanut plant -->
+  <VCE_PeanutSecondary.label>amendoim secundário</VCE_PeanutSecondary.label>
+
+  <!-- EN: A plant that produces seeds with an oblong shape and a papery seed coat. Similar in taste and nutritional profile to tree nuts such as walnuts and almonds, but technically a legume.\n\n<color=#E5E54C>Gameplay effect:</color> This genetically modified variety of peanuts is sown by throwing the seeds haphazardly on the growing zone, and as such the plants will automatically be planted in the adjacent tiles 75% of the time, reducing the total amount of sowing work needed. Useful! -->
+  <VCE_PeanutSecondary.description>Planta que produz sementes alongadas, envoltas por uma película semelhante a papel. Têm sabor e perfil nutricional parecidos com os de frutos de árvores, como nozes e amêndoas, mas são tecnicamente leguminosas.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Esta variedade de amendoim geneticamente modificada é semeada espalhando as sementes pela zona de cultivo. Assim, 75% das plantas são semeadas automaticamente nas células adjacentes, reduzindo o trabalho necessário. Útil!</VCE_PeanutSecondary.description>
+
+  <!-- EN: pineapple plant -->
+  <VCE_Pineapple.label>abacaxi</VCE_Pineapple.label>
+
+  <!-- EN: A sweet tropical fruit with a tough leathery skin and spiky leaves on top. The word pineapple was first used to mean "pine cone," and the fruit was given this name because of its resemblance to a large pine cone.\n\n<color=#E5E54C>Gameplay effect:</color> Pineapples have a very long growth period, but they are very nutritive, taking up less space in stockpiles. -->
+  <VCE_Pineapple.description>Fruta tropical doce, com casca resistente e coriácea e folhas pontiagudas no topo. A palavra inglesa "pineapple" originalmente significava "pinha"; o fruto recebeu esse nome por se parecer com uma pinha grande.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O abacaxi tem um período de crescimento muito longo, mas é muito nutritivo e ocupa menos espaço nos estoques.</VCE_Pineapple.description>
+
+  <!-- EN: radish plant -->
+  <VCE_Radish.label>rabanete</VCE_Radish.label>
+
+  <!-- EN: An edible root vegetable that is very easy to grow and quick to harvest. Radishes are often planted by novice gardeners.\n\n<color=#E5E54C>Gameplay effect:</color> This genetically modified radish has a very short growth period (less than 2 days). This means it is an effective crop if you need small amounts of food FAST, and the sowing and harvesting work will be the most important factor. -->
+  <VCE_Radish.description>Raiz comestível fácil de cultivar e rápida de colher. Rabanetes costumam ser plantados por quem está começando a cultivar.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Este rabanete geneticamente modificado tem um período de crescimento muito curto (menos de 2 dias). É uma cultura eficiente quando é preciso obter pequenas quantidades de alimento RÁPIDO; nesse caso, o trabalho de semear e colher será o principal fator.</VCE_Radish.description>
+
+  <!-- EN: sunflower plant -->
+  <VCE_Sunflower.label>girassol</VCE_Sunflower.label>
+
+  <!-- EN: A large crop used for its edible oil and edible fruits. The name sunflower may derive from the flower's head's shape, which resembles the sun.\n\n<color=#E5E54C>Gameplay effect:</color> Sunflowers grow 30% faster in equatorial regions. The size of the equatorial region depends on the planet's overall temperature: below 15º for Normal, below 35º for Warm, below 65º for Hot and all the planet for Very Hot. Planets with below Normal temperature are considered to have no equator. -->
+  <VCE_Sunflower.description>Cultura de grande porte, cultivada por seu óleo e frutos comestíveis. O nome "girassol" pode vir do formato de sua inflorescência, que lembra o sol.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Girassóis crescem 30% mais rápido em regiões equatoriais. A extensão dessa região depende da temperatura geral do planeta: abaixo de 15º para Normal, abaixo de 35º para Quente, abaixo de 65º para Muito quente e o planeta inteiro para Extremamente quente. Planetas com temperatura abaixo de Normal são considerados sem equador.</VCE_Sunflower.description>
+
+  <!-- EN: sweet potato plant -->
+  <VCE_SweetPotato.label>batata-doce</VCE_SweetPotato.label>
+
+  <!-- EN: A plant with large, starchy, sweet-tasting (tasting similar to pumpkin), tuberous roots that are used as a root vegetable. The sweet potato is distantly related to the common potato.\n\n<color=#E5E54C>Gameplay effect:</color> Sweet potatoes show a marked preference for rocky soils, flourishing on them. Rich soils are actually detrimental to them. They do not tolerate frost, growing best at an average temperature of 24 °C, and receiving penalties under 20ºC. -->
+  <VCE_SweetPotato.description>Planta com raízes tuberosas grandes, ricas em amido e de sabor doce, semelhante ao da abóbora. A batata-doce tem parentesco distante com a batata comum.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; A batata-doce prefere solos pedregosos e se desenvolve bem neles. Solos ricos são prejudiciais. Não tolera geadas; cresce melhor com temperatura média de 24 °C e sofre penalidades abaixo de 20 ºC.</VCE_SweetPotato.description>
+
+  <!-- EN: taro plant -->
+  <VCE_Taro.label>taro</VCE_Taro.label>
+
+  <!-- EN: A tropical plant grown primarily for its edible corm, a root vegetable. Taro is one of the few crops that can be grown under flooded conditions, with the base of the plant always under water. This is due to air spaces in the petiole, which permit underwater gaseous exchange with the atmosphere.\n\n<color=#E5E54C>Gameplay effect:</color> Taro is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Taro is the baseline aquatic plant. -->
+  <VCE_Taro.description>Planta tropical cultivada principalmente por seu cormo comestível, uma raiz tuberosa. O taro é uma das poucas culturas que podem crescer em áreas inundadas, com a base da planta sempre submersa. Isso é possível graças a espaços de ar no pecíolo, que permitem a troca gasosa com a atmosfera mesmo debaixo d'água.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O taro só pode ser cultivado em zonas de cultivo aquático, que ignoram a fertilidade. No entanto, essas plantas levam muito tempo para serem semeadas e colhidas, trocando o trabalho dos colonos pelo cultivo em um espaço normalmente inutilizado. O taro é a cultura aquática padrão.</VCE_Taro.description>
+
+  <!-- EN: water chestnut plant -->
+  <VCE_WaterChestnut.label>castanha-d'água</VCE_WaterChestnut.label>
+
+  <!-- EN: An aquatic vegetable that grows in marshes, under water, in the mud. It has stem-like, tubular green leaves, and small, rounded corms with a crisp, white flesh that may be eaten raw, slightly boiled, or grilled.\n\n<color=#E5E54C>Gameplay effect:</color> Water chestnut is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Water chestnut grows 30% faster in the heat (37-60ºC). -->
+  <VCE_WaterChestnut.description>Vegetal aquático que cresce na lama, debaixo d'água, em pântanos. Tem folhas verdes, tubulares e semelhantes a caules, além de cormos pequenos e arredondados, com polpa branca e crocante, que pode ser consumida crua, levemente cozida ou grelhada.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; A castanha-d'água só pode ser cultivada em zonas de cultivo aquático, que ignoram a fertilidade. No entanto, essas plantas levam muito tempo para serem semeadas e colhidas, trocando o trabalho dos colonos pelo cultivo em um espaço normalmente inutilizado. A castanha-d'água cresce 30% mais rápido no calor (37–60 ºC).</VCE_WaterChestnut.description>
+
+  <!-- EN: watercress plant -->
+  <VCE_Watercress.label>agrião</VCE_Watercress.label>
+
+  <!-- EN: Watercress is a rapidly growing, perennial plant. It is one of the oldest known leaf vegetables consumed by humans. Watercress and many of its relatives are noteworthy for their piquant flavors.\n\n<color=#E5E54C>Gameplay effect:</color> Watercress is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Watercress grows faster than taro but needs a lot of space, blocking sowing in adjacent spaces. -->
+  <VCE_Watercress.description>O agrião é uma planta perene de crescimento rápido. É um dos vegetais folhosos mais antigos consumidos por humanos. O agrião e muitas plantas aparentadas são conhecidos por seu sabor picante.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; O agrião só pode ser cultivado em zonas de cultivo aquático, que ignoram a fertilidade. No entanto, essas plantas levam muito tempo para serem semeadas e colhidas, trocando o trabalho dos colonos pelo cultivo em um espaço normalmente inutilizado. O agrião cresce mais rápido que o taro, mas ocupa muito espaço e impede o plantio nas células adjacentes.</VCE_Watercress.description>
+
+  <!-- EN: bell pepper plant -->
+  <VCE_YellowBellPepper.label>pimentão amarelo</VCE_YellowBellPepper.label>
+
+  <!-- EN: Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy.\n\n<color=#E5E54C>Gameplay effect:</color> On average, 25% of bell peppers will mature into yellow peppers, while 75% will mature into red peppers. The former are more nutritive. If planted in large numbers this results in increased average yield. -->
+  <VCE_YellowBellPepper.description>Também conhecido como pimentão doce, pertence à família das solanáceas e ao gênero Capsicum. É o único fruto do gênero que possui um gene recessivo que impede a produção de capsaicina, por isso não é picante.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Em média, 25% dos pimentões amadurecem e ficam amarelos, enquanto 75% ficam vermelhos. Os amarelos são mais nutritivos. O plantio em grande quantidade aumenta o rendimento médio.</VCE_YellowBellPepper.description>
+
+  <!-- EN: canola plant -->
+  <VCE_Canola.label>canola</VCE_Canola.label>
+
+  <!-- EN: A bright-yellow flowering variety of the rapeseed, cultivated mainly for its oil-rich seed.\n\n<color=#E5E54C>Gameplay effect:</color> Canola, though not directly edible, can be very efficiently converted into chemfuel at a refinery. -->
+  <VCE_Canola.description>Variedade de colza com flores amarelo-vivas, cultivada principalmente por suas sementes ricas em óleo.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Embora não seja comestível, a canola pode ser convertida em combustível químico com grande eficiência em uma refinaria.</VCE_Canola.description>
+
+  <!-- EN: fragrantbloom rose -->
+  <VCE_FragrantbloomRose.label>rosa perfumada</VCE_FragrantbloomRose.label>
+
+  <!-- EN: A unique rose variety cultivated for its intense, captivating scent, perfect for making perfumes and other aromatic products. -->
+  <VCE_FragrantbloomRose.description>Variedade única de rosa, cultivada por seu aroma intenso e envolvente, ideal para produzir perfumes e outros produtos aromáticos.</VCE_FragrantbloomRose.description>
+
+  <!-- EN: hyacinth -->
+  <VCE_Hyacinth.label>jacinto</VCE_Hyacinth.label>
+
+  <!-- EN: A vibrant, sweet-smelling flower with a fresh, green fragrance that adds depth to gardens and perfumes alike. -->
+  <VCE_Hyacinth.description>Flor de cores vivas e aroma adocicado, com uma fragrância fresca e verde que enriquece jardins e perfumes.</VCE_Hyacinth.description>
+
+  <!-- EN: jasmine -->
+  <VCE_Jasmine.label>jasmim</VCE_Jasmine.label>
+
+  <!-- EN: A vibrant, sweet-smelling flower with a fresh, green fragrance that adds depth to gardens and perfumes alike. -->
+  <VCE_Jasmine.description>Flor de cores vivas e aroma adocicado, com uma fragrância fresca e verde que enriquece jardins e perfumes.</VCE_Jasmine.description>
+
+  <!-- EN: lavender -->
+  <VCE_Lavender.label>lavanda</VCE_Lavender.label>
+
+  <!-- EN: A fragrant, purple-flowered plant known for its calming scent and ornamental beauty. -->
+  <VCE_Lavender.description>Planta de flores roxas e perfumadas, conhecida por seu aroma relaxante e sua beleza ornamental.</VCE_Lavender.description>
+
+  <!-- EN: lily -->
+  <VCE_Lily.label>lírio</VCE_Lily.label>
+
+  <!-- EN: A striking flower with a rich, sweet, and sometimes spicy fragrance that fills any space with elegance. -->
+  <VCE_Lily.description>Flor marcante, com fragrância intensa, doce e às vezes picante, que enche qualquer espaço de elegância.</VCE_Lily.description>
+
+  <!-- EN: orchid -->
+  <VCE_Orchid.label>orquídea</VCE_Orchid.label>
+
+  <!-- EN: A delicate and exotic bloom with a subtle, sweet scent that varies by species, often used in sophisticated perfumes. -->
+  <VCE_Orchid.description>Flor delicada e exótica, com aroma sutil e adocicado que varia conforme a espécie. É muito usada em perfumes sofisticados.</VCE_Orchid.description>
+
+  <!-- EN: plumeria -->
+  <VCE_Plumeria.label>pluméria</VCE_Plumeria.label>
+
+  <!-- EN: A tropical flower with a fruity, sweet, and creamy fragrance, perfect for creating a lush, warm atmosphere. -->
+  <VCE_Plumeria.description>Flor tropical com fragrância frutada, doce e cremosa, perfeita para criar um ambiente exuberante e acolhedor.</VCE_Plumeria.description>
+
+  <!-- EN: tulip -->
+  <VCE_Tulip.label>tulipa</VCE_Tulip.label>
+
+  <!-- EN: A beautiful but mild-scented flower known more for its vibrant colors than its fragrance. -->
+  <VCE_Tulip.description>Flor bonita, mas de aroma suave, mais conhecida pelas cores vivas do que pela fragrância.</VCE_Tulip.description>
+
+  <!-- EN: vanilla -->
+  <VCE_Vanilla.label>baunilha</VCE_Vanilla.label>
+
+  <!-- EN: Delicate, creamy-white flowers with a light, sweet fragrance. While the flowers are beautiful, it’s the pods they produce that are prized for their warm, rich scent. We put some vanilla in your Vanilla Expanded so you can expand vanilla while you vanilla your expansion. -->
+  <VCE_Vanilla.description>Flores delicadas, de cor branco-creme e fragrância leve e adocicada. Embora sejam bonitas, são as vagens que produzem que são valorizadas por seu aroma intenso e acolhedor. Colocamos um pouco de baunilha no seu Vanilla Expanded para que você possa expandir o Vanilla Expanded enquanto adiciona baunilha à sua expansão.</VCE_Vanilla.description>
+
+  <!-- EN: violet -->
+  <VCE_Violet.label>violeta</VCE_Violet.label>
+
+  <!-- EN: A soft, powdery, and sweet-smelling flower, often used to add a gentle floral note to perfumes. -->
+  <VCE_Violet.description>Flor de aroma suave, adocicado e levemente atalcado, muitas vezes usada para dar um toque floral delicado a perfumes.</VCE_Violet.description>
+
+  <!-- EN: ylang-Ylang -->
+  <VCE_YlangYlang.label>ylangue-ylangue</VCE_YlangYlang.label>
+
+  <!-- EN: A highly fragrant, sweet, and rich flower, prized for its use in exotic and sensual perfumes. -->
+  <VCE_YlangYlang.description>Flor muito perfumada, doce e de aroma intenso, valorizada na produção de perfumes exóticos e sensuais.</VCE_YlangYlang.description>
+
+  <!-- EN: coconut palm -->
+  <VCE_CoconutPalm.label>coqueiro</VCE_CoconutPalm.label>
+
+  <!-- EN: A palm tree cultivated extensively in tropical areas for its edible fruit, the coconut. Coconut palms flourish best close to the sea on low-lying areas a few feet above high water.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nCoconut palms are only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space.\n\nCoconut palms receive a growth bonus if sea water tiles are found in a 6 tile radius. Coconuts can be used as fruits or processed into milk. -->
+  <VCE_CoconutPalm.description>Palmeira muito cultivada em regiões tropicais por seu fruto comestível, o coco. Coqueiros se desenvolvem melhor perto do mar, em áreas baixas alguns metros acima da maré alta.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todas as árvores frutíferas ocupam cerca de quatro vezes mais espaço que culturas comuns, demoram para crescer e produzem frutos que podem ser consumidos crus. Não são destruídas após a colheita, mas têm vida útil limitada e precisam ser replantadas com o tempo.\n\nCoqueiros só podem ser cultivados em zonas de cultivo em areia, que ignoram a fertilidade. No entanto, essas plantas levam muito tempo para serem semeadas e colhidas, trocando o trabalho dos colonos pelo cultivo em um espaço normalmente inutilizado.\n\nCoqueiros recebem um bônus de crescimento quando há células com água do mar em um raio de 6 células. Os cocos podem ser usados como frutas ou processados para produzir leite.</VCE_CoconutPalm.description>
+
+  <!-- EN: almond tree -->
+  <VCE_TreeAlmond.label>amendoeira</VCE_TreeAlmond.label>
+
+  <!-- EN: A deciduous tree cultivated for its fruit, almonds. The sweet almond can be eaten plain or be used as ingredient in desserts and confectioneries. The trees are strikingly beautiful when in flower; they produce fragrant, five-petaled, light pink to white flowers.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nAlmond trees are beautiful, but they require water to be present in a 6 tile radius to grow properly. Almonds can be used as fruits or processed into milk. -->
+  <VCE_TreeAlmond.description>Árvore caducifólia cultivada por seu fruto, a amêndoa. A amêndoa doce pode ser consumida pura ou usada como ingrediente em sobremesas e doces. As árvores ficam especialmente bonitas quando florescem, produzindo flores perfumadas de cinco pétalas, em tons que vão do rosa-claro ao branco.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todas as árvores frutíferas ocupam cerca de quatro vezes mais espaço que culturas comuns, demoram para crescer e produzem frutos que podem ser consumidos crus. Não são destruídas após a colheita, mas têm vida útil limitada e precisam ser replantadas com o tempo.\n\nAs amendoeiras são bonitas, mas precisam de água em um raio de 6 células para crescer bem. As amêndoas podem ser usadas como frutas ou processadas para produzir leite.</VCE_TreeAlmond.description>
+
+  <!-- EN: avocado tree -->
+  <VCE_TreeAvocado.label>abacateiro</VCE_TreeAvocado.label>
+
+  <!-- EN: An evergreen tree with thick, leathery leaves that produces perfect white, ivory to yellow flowers. The fruit has a large seed or pit in the center and may be green or nearly black.\n\n<color=#E5E54C>Gameplay effect:</color> Avocado trees take a notoriously long period to mature and produce their fruits. If they can be kept alive all that time, they produce greater yield than other fruit trees. Plus if you install the Coffees and Teas mod and pair them with Pumpkin Spice Coffee you can have your dream RimWorld Hipster experience! -->
+  <VCE_TreeAvocado.description>Árvore perene, de folhas grossas e coriáceas, que produz flores perfeitas em tons de branco, marfim e amarelo. O fruto tem uma semente grande no centro e pode ser verde ou quase preto.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Abacateiros demoram muito para amadurecer e produzir frutos. Se forem mantidos vivos durante todo esse período, rendem mais que outras árvores frutíferas. Além disso, com o mod Coffees and Teas e um café com especiarias de abóbora, você poderá viver sua experiência hipster dos sonhos em RimWorld!</VCE_TreeAvocado.description>
+
+  <!-- EN: mango tree -->
+  <VCE_TreeMango.label>mangueira</VCE_TreeMango.label>
+
+  <!-- EN: A tropical evergreen tree that produces oval fruits, vividly coloured with shades of red and yellow. The single large seed is flattened, and the flesh that surrounds it is yellow to orange in colour, juicy, and of distinctive sweet-spicy flavour.\n\n<color=#E5E54C>Gameplay effect:</color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nMango trees have very good yield, but mangoes cannot be frozen or they get destroyed. The game won't be smart enough to detect this, so disable them from freezers. -->
+  <VCE_TreeMango.description>Árvore tropical perene que produz frutos ovais de cores vivas, em tons de vermelho e amarelo. Sua única semente grande é achatada, e a polpa que a envolve é amarela ou alaranjada, suculenta e de sabor característico, entre o doce e o picante.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todas as árvores frutíferas ocupam cerca de quatro vezes mais espaço que culturas comuns, demoram para crescer e produzem frutos que podem ser consumidos crus. Não são destruídas após a colheita, mas têm vida útil limitada e precisam ser replantadas com o tempo.\n\nMangueiras têm ótimo rendimento, mas as mangas não podem ser congeladas, ou serão destruídas. O jogo não detecta isso, então desative o armazenamento delas em congeladores.</VCE_TreeMango.description>
+
+  <!-- EN: olive tree -->
+  <VCE_TreeOlive.label>oliveira</VCE_TreeOlive.label>
+
+  <!-- EN: A subtropical broad-leaved evergreen tree. Its leaves, leathery and lance-shaped, are dark green above and silvery on the underside and are paired opposite each other on the twig. The wood is resistant to decay. If the top dies back, a new trunk will often arise from the roots.\n\n<color=#E5E54C>Gameplay effect:</color> Interestingly, olive trees show a marked preference for rocky soils, flourishing on them. Rich soils are actually detrimental to them. They will also live for a very, very long time, far longer than other produce trees. Contrary to other tree produce, olives can't be eaten raw. -->
+  <VCE_TreeOlive.description>Árvore subtropical perene de folhas largas. Suas folhas coriáceas e lanceoladas são verde-escuras na parte superior e prateadas na inferior, dispostas em pares opostos nos ramos. A madeira resiste à decomposição. Se a parte superior morrer, muitas vezes um novo tronco brota das raízes.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Curiosamente, as oliveiras preferem solos pedregosos e se desenvolvem bem neles. Solos ricos são prejudiciais. Também vivem por muito, muito tempo — bem mais que outras árvores frutíferas. Ao contrário dos frutos de outras árvores, a azeitona não pode ser consumida crua.</VCE_TreeOlive.description>
+
+  <!-- EN: healshroom -->
+  <VCE_Healshroom.label>cogumelo medicinal</VCE_Healshroom.label>
+
+  <!-- EN: A slow-growing mushroom which yields herbal medicine when harvested. Sowing and harvesting healshroom are both very labor-intensive tasks because of its fragility. It can grow on fungal gravel, but only in darkness - exposing it to any kind of light, including darklights, will kill it. -->
+  <VCE_Healshroom.description>Cogumelo de crescimento lento que fornece Medicina Herbal quando colhido. Por ser frágil, semeá-lo e colhê-lo exige muito trabalho. Pode crescer em cascalho fúngico, mas somente no escuro: qualquer tipo de luz, inclusive luzes escuras, irá matá-lo.</VCE_Healshroom.description>
+
+  <!-- EN: cave moss -->
+  <VCE_Moss.label>musgo de caverna</VCE_Moss.label>
+
+  <!-- EN: A nutrient-rich moss that can be used to feed cave animals, but not humans. It can grow on fungal gravel, but only in darkness - exposing it to any kind of light, including darklights, will kill it. -->
+  <VCE_Moss.description>Musgo rico em nutrientes, que pode servir de alimento para animais de caverna, mas não para humanos. Pode crescer em cascalho fúngico, mas somente no escuro: qualquer tipo de luz, inclusive luzes escuras, irá matá-lo.</VCE_Moss.description>
+
+  <!-- EN: tinctshroom -->
+  <VCE_Tinctshroom.label>cogumelo tintureiro</VCE_Tinctshroom.label>
+
+  <!-- EN: A genetically-engineered mushroom which secretes a self-altering dye. This dye can be coaxed into different colors and used to dye apparel. It can grow on fungal gravel, but only in darkness - exposing it to any kind of light, including darklights, will kill it. -->
+  <VCE_Tinctshroom.description>Cogumelo geneticamente modificado que secreta um corante que muda de cor. Esse corante pode ser manipulado para assumir diferentes cores e usado para tingir roupas. Pode crescer em cascalho fúngico, mas somente no escuro: qualquer tipo de luz, inclusive luzes escuras, irá matá-lo.</VCE_Tinctshroom.description>
 </LanguageData>
