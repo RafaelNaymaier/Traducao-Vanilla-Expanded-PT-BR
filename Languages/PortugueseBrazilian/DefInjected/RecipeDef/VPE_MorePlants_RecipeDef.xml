@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: extract milk from almonds -->
+  <VCE_MilkFromAlmonds.label>extrair leite de amêndoas</VCE_MilkFromAlmonds.label>
+  <!-- EN: Extract vegetable milk from almonds. This milk can be used in any recipe that asks for milk.\n\nVegetable milks are generally inefficient, as a lot of nutrition is lost in the process. -->
+  <VCE_MilkFromAlmonds.description>Extrai leite vegetal de amêndoas. Este leite pode ser usado em qualquer receita que exija leite.\n\nLeites vegetais geralmente são ineficientes, pois muita nutrição é perdida no processo.</VCE_MilkFromAlmonds.description>
+  <!-- EN: Extracting milk from almonds. -->
+  <VCE_MilkFromAlmonds.jobString>Extraindo leite de amêndoas.</VCE_MilkFromAlmonds.jobString>
+  
+  <!-- EN: extract milk from coconuts -->
+  <VCE_MilkFromCoconuts.label>extrair leite de coco</VCE_MilkFromCoconuts.label>
+  <!-- EN: Extract vegetable milk from coconuts. This milk can be used in any recipe that asks for milk.\n\nVegetable milks are generally inefficient, as a lot of nutrition is lost in the process. -->
+  <VCE_MilkFromCoconuts.description>Extrai leite vegetal de cocos. Este leite pode ser usado em qualquer receita que exija leite.\n\nLeites vegetais geralmente são ineficientes, pois muita nutrição é perdida no processo.</VCE_MilkFromCoconuts.description>
+  <!-- EN: Extracting milk from coconuts. -->
+  <VCE_MilkFromCoconuts.jobString>Extraindo leite de coco.</VCE_MilkFromCoconuts.jobString>
+  
+  <!-- EN: extract milk from oats -->
+  <VCE_MilkFromOats.label>extrair leite de aveia</VCE_MilkFromOats.label>
+  <!-- EN: Extract vegetable milk from oats. This milk can be used in any recipe that asks for milk.\n\nVegetable milks are generally inefficient, as a lot of nutrition is lost in the process. -->
+  <VCE_MilkFromOats.description>Extrai leite vegetal de aveia. Este leite pode ser usado em qualquer receita que exija leite.\n\nLeites vegetais geralmente são ineficientes, pois muita nutrição é perdida no processo.</VCE_MilkFromOats.description>
+  <!-- EN: Extracting milk from oats. -->
+  <VCE_MilkFromOats.jobString>Extraindo leite de aveia.</VCE_MilkFromOats.jobString>
+  
+  <!-- EN: extract milk from rice -->
+  <VCE_MilkFromRice.label>extrair leite de arroz</VCE_MilkFromRice.label>
+  <!-- EN: Extract vegetable milk from rice. This milk can be used in any recipe that asks for milk.\n\nRice is very inefficient when converted into milk, and a lot of nutrition is lost in the process. -->
+  <VCE_MilkFromRice.description>Extrai leite vegetal de arroz. Este leite pode ser usado em qualquer receita que exija leite.\n\nO arroz é muito ineficiente quando convertido em leite, e muita nutrição é perdida no processo.</VCE_MilkFromRice.description>
+  <!-- EN: Extracting milk from rice. -->
+  <VCE_MilkFromRice.jobString>Extraindo leite de arroz.</VCE_MilkFromRice.jobString>
+  
+</LanguageData>
