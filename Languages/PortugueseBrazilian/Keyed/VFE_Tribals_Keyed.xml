@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Available cornerstone point -->
+  <VFET.AvailableCornerstonePoint>Ponto de Alicerce disponível</VFET.AvailableCornerstonePoint>
+  <!-- EN: Available cornerstone points: {0} -->
+  <VFET.AvailableCornerstonePoints>Pontos de Alicerce disponíveis: {0}</VFET.AvailableCornerstonePoints>
+  <!-- EN: You can spend a cornerstone point to gain a permanent, colony-wide buff that will help you shape your civilization. -->
+  <VFET.AvailableCornerstonePointDesc>Gaste um ponto de Alicerce para obter um bônus permanente para toda a colônia e moldar sua civilização.</VFET.AvailableCornerstonePointDesc>
+  <!-- EN: Cornerstones -->
+  <VFET.Cornerstones>Alicerces</VFET.Cornerstones>
+  <!-- EN: Customize cornerstones -->
+  <VFET.CustomizeCornerstones>Personalizar Alicerces</VFET.CustomizeCornerstones>
+  <!-- EN: Ethos -->
+  <VFET.Ethos>Ethos</VFET.Ethos>
+  <!-- EN: Lock or unlock the faction's ethos. When locked, the ethos text will not auto-regenerate when you unlock a new cornerstone.
+
+Ethos lock is currently off. The ethos text can auto-regenerate. -->
+  <VFET.EthosUnlocked>Bloqueie ou desbloqueie o ethos da facção. Quando bloqueado, o texto do ethos não será regenerado automaticamente ao desbloquear um novo Alicerce.
+
+O ethos está desbloqueado. O texto pode ser regenerado automaticamente.</VFET.EthosUnlocked>
+  <!-- EN: Lock or unlock the faction's ethos. When locked, the ethos text will not auto-regenerate when you unlock a new cornerstone.
+
+Ethos lock is currently on. The ethos text will not auto-regenerate. -->
+  <VFET.EthosLocked>Bloqueie ou desbloqueie o ethos da facção. Quando bloqueado, o texto do ethos não será regenerado automaticamente ao desbloquear um novo Alicerce.
+
+O ethos está bloqueado. O texto não será regenerado automaticamente.</VFET.EthosLocked>
+  <!-- EN: Gain cornerstone points by advancing to next tech levels -->
+  <VFET.CornerstonesExplanation>Avance para as próximas eras tecnológicas para receber pontos de Alicerce.</VFET.CornerstonesExplanation>
+  <!-- EN: The core ethos of your faction. This text has no gameplay impact, but associated cornerstones do. -->
+  <VFET.EthosTooltip>O ethos central da sua facção. Este texto não afeta o jogo, mas os Alicerces associados a ele afetam.</VFET.EthosTooltip>
+  <!-- EN: Edit ethos -->
+  <VFET.EditEthos>Editar ethos</VFET.EditEthos>
+  <!-- EN: Unlock cornerstone -->
+  <VFET.UnlockCornerstone>Desbloquear Alicerce</VFET.UnlockCornerstone>
+  <!-- EN: Relevant cornerstones -->
+  <VFET.StatsReport_Cornerstones>Alicerces relevantes</VFET.StatsReport_Cornerstones>
+  <!-- EN: Research {0} to unlock it -->
+  <VFET.WorkDisabledByMissingResearch>Pesquise {0} para desbloquear</VFET.WorkDisabledByMissingResearch>
+  <!-- EN: Form ideology -->
+  <VFET.FormIdeology>Formar ideologia</VFET.FormIdeology>
+  <!-- EN: What should your colonists believe? These beliefs affect gameplay and visuals. You will be able to recruit others to your beliefs, or take on their beliefs.\n\nChoosing classic will allow you to play without the ideology system. All Ideology expansion content remains active.\n\nChoosing fluid will allow you to start with a basic ideology and develop it over time.\n\nChoosing fixed allows you to customize the ideology and every aspect of it. This may take some time. -->
+  <VFET.FormIdeologyDesc>No que seus colonos devem acreditar? Essas crenças afetam a jogabilidade e o visual. Você poderá recrutar outras pessoas para suas crenças ou adotar as crenças delas.\n\nA opção clássica permite jogar sem o sistema de ideologia. Todo o conteúdo da expansão Ideology continua ativo.\n\nA opção fluida permite começar com uma ideologia básica e desenvolvê-la com o tempo.\n\nA opção fixa permite personalizar a ideologia e todos os seus aspectos. Isso pode levar algum tempo.</VFET.FormIdeologyDesc>
+  <!-- EN: Due to the small number of wild men, they have decided to join you. -->
+  <VFET.WildMenJoin>Como são poucos, os selvagens decidiram se juntar a você.</VFET.WildMenJoin>
+  <!-- EN: Due to the uncertainty of being able to best you, wild men have decided to retreat. -->
+  <VFET.WildMenRetreat>Sem saber se conseguiriam derrotar você, os selvagens decidiram recuar.</VFET.WildMenRetreat>
+  <!-- EN: Wild men ask to join -->
+  <VFET.WildMenJoinTitle>Selvagens pedem para se juntar à colônia</VFET.WildMenJoinTitle>
+  <!-- EN: Wild men from the nearby tribe found their way to {0}. After seeing your numbers, they are requesting to join you. They believe that together, you stand a better chance against the elements.\n\nYou can refuse them, but they may retaliate as a result. -->
+  <VFET.WildMenJoinDesc>Selvagens da tribo próxima chegaram a {0}. Ao verem o tamanho do seu grupo, pedem para se juntar a você. Acreditam que, juntos, terão mais chances de enfrentar as adversidades.\n\nVocê pode recusá-los, mas eles talvez retaliem.</VFET.WildMenJoinDesc>
+  <!-- EN: Wild men raid -->
+  <VFET.WildMenRaid>Incursão de selvagens</VFET.WildMenRaid>
+  <!-- EN: Wild men from the nearby tribe found their way to {0}. After seeing your numbers, they have decided to raid you. You might be able to capture and recruit any survivors. -->
+  <VFET.WildMenRaidDesc>Selvagens da tribo próxima chegaram a {0}. Ao verem o tamanho do seu grupo, decidiram fazer uma incursão. Talvez seja possível capturar e recrutar sobreviventes.</VFET.WildMenRaidDesc>
+  <!-- EN: Reject -->
+  <VFET.Reject>Recusar</VFET.Reject>
+  <!-- EN: {0} work type -->
+  <VFET.WorkTypeName>Tipo de trabalho {0}</VFET.WorkTypeName>
+  <!-- EN: Wild man joins -->
+  <VFET_WildmanLetterLabel>Selvagem se junta à colônia</VFET_WildmanLetterLabel>
+  <!-- EN: A wild man wanders in and decides to join your colony -->
+  <VFET_WildmanLetter>Uma pessoa selvagem chega à colônia e decide se juntar a vocês.</VFET_WildmanLetter>
+  <!-- EN: Farm animals wander in -->
+  <VFET_AnimalsLetterLabel>Animais de criação chegam</VFET_AnimalsLetterLabel>
+  <!-- EN: A group of farm animals has been attracted and will join the colony -->
+  <VFET_AnimalsLetter>Um grupo de animais de criação foi atraído e se juntará à colônia.</VFET_AnimalsLetter>
+  <!-- EN: Discovered {0}! -->
+  <VFET_DiscoveryLabel>Nova descoberta: {0}!</VFET_DiscoveryLabel>
+  <!-- EN: A new research project has been discovered in a tribal gathering: {0}!\n\n{1} -->
+  <VFET_Discovery>Um novo projeto de pesquisa foi descoberto durante uma reunião tribal: {0}!\n\n{1}</VFET_Discovery>
+  <!-- EN: Animal trap has sprung on {0} -->
+  <VFET.AnimalTrapSprung>A armadilha para animais disparou contra {0}</VFET.AnimalTrapSprung>
+  <!-- EN: Light large fire -->
+  <VFET.LightLargeFire>Acender uma fogueira grande</VFET.LightLargeFire>
+  <!-- EN: Extinguish large fire -->
+  <VFET.ExtinguishLargeFire>Apagar uma fogueira grande</VFET.ExtinguishLargeFire>
+  <!-- EN: When burning, large fire emits blindsmoke and has a chance to encourage wild men from the local area to wander in. It's very unstable and may set things around it on fire. -->
+  <VFET.LightLargeFireDesc>Quando acesa, a fogueira grande libera fumaça cegante e pode atrair selvagens da região. É muito instável e pode incendiar objetos próximos.</VFET.LightLargeFireDesc>
+  <!-- EN: Some Animal tech research must still be completed. -->
+  <VFET.ResearchLeft_Neolithic>Ainda é necessário concluir algumas pesquisas de tecnologia animal.</VFET.ResearchLeft_Neolithic>
+
+  <!--These are needed for Ideology compat -->
+
+  <!-- EN: optional -->
+  <Optional>opcional</Optional>
+  <!-- EN: Any gathering spot, like a table -->
+  <RitualTargetGatherSpotInfo>Qualquer ponto de encontro, como uma mesa</RitualTargetGatherSpotInfo>
+
+  <!-- EN: Must be placed on a floor or stony terrain. -->
+  <VFET.MustPlaceOnFloorOrStonyTerrain>Precisa ser colocado em um piso ou terreno rochoso.</VFET.MustPlaceOnFloorOrStonyTerrain>
+  <!-- EN: Beauty multiplier for colony {0} tech level -->
+  <VFET.StatsReport_BeautyMultiplier>Multiplicador de beleza para a era tecnológica {0} da colônia</VFET.StatsReport_BeautyMultiplier>
+  <!-- EN: Requirements not met: Not all research projects of the previous tech level have been researched. -->
+  <VFET.NotAllReseachProjectsResearched>Requisitos não atendidos: nem todos os projetos de pesquisa da era tecnológica anterior foram concluídos.</VFET.NotAllReseachProjectsResearched>
+  <!-- EN: Wild man in black -->
+  <VFET.ManInBlackLabelReplacement>Selvagem de preto</VFET.ManInBlackLabelReplacement>
+  <!-- EN: Customize NPC ideoligion -->
+  <VFET.CustomizeNPCIdeologion>Personalizar ideologia de NPC</VFET.CustomizeNPCIdeologion>
+  <!-- EN: Your ideology will be customized upon researching Culture. -->
+  <VFET.CustomizeNPCIdeologionDesc>Sua ideologia será personalizada ao pesquisar Cultura.</VFET.CustomizeNPCIdeologionDesc>
+</LanguageData>

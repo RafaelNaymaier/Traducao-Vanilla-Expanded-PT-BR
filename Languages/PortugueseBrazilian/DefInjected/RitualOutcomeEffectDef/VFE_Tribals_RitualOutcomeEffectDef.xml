@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Upon completing all medieval research projects, advance to industrial tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_AdvanceToIndustrial_Outcome.description>Após concluir todos os projetos de pesquisa medievais, avance para a era industrial. Isso permitirá escolher um Alicerce, um poderoso bônus que se aplica somente à sua civilização.</VFET_AdvanceToIndustrial_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToIndustrial_Outcome.comps.0.label>número de participantes</VFET_AdvanceToIndustrial_Outcome.comps.0.label>
+
+  <!-- EN: Upon completing all neolithic research projects, advance to medieval tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_AdvanceToMedieval_Outcome.description>Após concluir todos os projetos de pesquisa neolíticos, avance para a era medieval. Isso permitirá escolher um Alicerce, um poderoso bônus que se aplica somente à sua civilização.</VFET_AdvanceToMedieval_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToMedieval_Outcome.comps.0.label>número de participantes</VFET_AdvanceToMedieval_Outcome.comps.0.label>
+
+  <!-- EN: Upon completing all pre-neolithic research projects, advance to neolithic tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_AdvanceToNeolithic_Outcome.description>Após concluir todos os projetos de pesquisa pré-neolíticos, avance para a era neolítica. Isso permitirá escolher um Alicerce, um poderoso bônus que se aplica somente à sua civilização.</VFET_AdvanceToNeolithic_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToNeolithic_Outcome.comps.0.label>número de participantes</VFET_AdvanceToNeolithic_Outcome.comps.0.label>
+
+  <!-- EN: Upon completing all industrial research projects, advance to spacer tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_AdvanceToSpacer_Outcome.description>Após concluir todos os projetos de pesquisa industriais, avance para a era espacial. Isso permitirá escolher um Alicerce, um poderoso bônus que se aplica somente à sua civilização.</VFET_AdvanceToSpacer_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToSpacer_Outcome.comps.0.label>número de participantes</VFET_AdvanceToSpacer_Outcome.comps.0.label>
+
+  <!-- EN: Upon completing all spacer research projects, advance to ultratech tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_AdvanceToUltra_Outcome.description>Após concluir todos os projetos de pesquisa da era espacial, avance para a era ultratech. Isso permitirá escolher um Alicerce, um poderoso bônus que se aplica somente à sua civilização.</VFET_AdvanceToUltra_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToUltra_Outcome.comps.0.label>número de participantes</VFET_AdvanceToUltra_Outcome.comps.0.label>
+
+  <!-- EN: Depending on ritual quality, participants will receive between 2 and 12 research points per participant, divided between the available research projects at the moment. Animal technology level projects will be prioritized, and no points will be allocated to neolithic projects until all animal ones are finished.\n\nAdditionally, positive results have a chance for a wild man or farm animals to be attracted to the colony. -->
+  <VFET_TribalGathering_Outcome.description>Conforme a qualidade do ritual, cada participante concederá entre 2 e 12 pontos de pesquisa, distribuídos entre os projetos disponíveis no momento. Projetos de tecnologia animal terão prioridade; nenhum ponto será destinado a projetos neolíticos enquanto ainda houver projetos de tecnologia animal.\n\nAlém disso, resultados positivos podem atrair um selvagem ou animais de criação para a colônia.</VFET_TribalGathering_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_TribalGathering_Outcome.comps.0.label>número de participantes</VFET_TribalGathering_Outcome.comps.0.label>
+  <!-- EN: Total intellectual skill -->
+  <VFET_TribalGathering_Outcome.comps.1.label>intelecto total</VFET_TribalGathering_Outcome.comps.1.label>
+  <!-- EN: started at campfire -->
+  <VFET_TribalGathering_Outcome.comps.2.label>iniciado em uma fogueira</VFET_TribalGathering_Outcome.comps.2.label>
+  <!-- EN: a campfire -->
+  <VFET_TribalGathering_Outcome.comps.2.expectedThingLabelTip>uma fogueira</VFET_TribalGathering_Outcome.comps.2.expectedThingLabelTip>
+  <!-- EN: Ineffective -->
+  <VFET_TribalGathering_Outcome.outcomeChances.0.label>Ineficaz</VFET_TribalGathering_Outcome.outcomeChances.0.label>
+  <!-- EN: The {0} was ineffective! We tried to discuss some new developments in the tribe, but it devolved into petty bickering about food and shelter...\n\n2 points of research per participant will be distributed among the available research projects. -->
+  <VFET_TribalGathering_Outcome.outcomeChances.0.description>O ritual {0} foi ineficaz! Tentamos discutir algumas novidades para a tribo, mas tudo acabou em discussões mesquinhas sobre comida e abrigo...\n\nSerão distribuídos 2 pontos de pesquisa por participante entre os projetos disponíveis.</VFET_TribalGathering_Outcome.outcomeChances.0.description>
+  <!-- EN: Uninspiring -->
+  <VFET_TribalGathering_Outcome.outcomeChances.1.label>Pouco inspiradora</VFET_TribalGathering_Outcome.outcomeChances.1.label>
+  <!-- EN: The {0} was uninspiring. There were some new ideas floating around, but not much of substance. At least it was kinda entertaining.\n\n4 points of research per participant will be distributed among the available research projects. -->
+  <VFET_TribalGathering_Outcome.outcomeChances.1.description>O ritual {0} não foi inspirador. Surgiram algumas ideias novas, mas nenhuma muito substancial. Pelo menos foi um pouco divertido.\n\nSerão distribuídos 4 pontos de pesquisa por participante entre os projetos disponíveis.</VFET_TribalGathering_Outcome.outcomeChances.1.description>
+  <!-- EN: Encouraging -->
+  <VFET_TribalGathering_Outcome.outcomeChances.2.label>Encorajadora</VFET_TribalGathering_Outcome.outcomeChances.2.label>
+  <!-- EN: The {0} was encouraging. Some of the ideas discussed were pretty great! We are probably unto something here.\n\n8 points of research per participant will be distributed among the available research projects. -->
+  <VFET_TribalGathering_Outcome.outcomeChances.2.description>O ritual {0} foi encorajador. Algumas ideias discutidas foram ótimas! Talvez estejamos no caminho certo.\n\nSerão distribuídos 8 pontos de pesquisa por participante entre os projetos disponíveis.</VFET_TribalGathering_Outcome.outcomeChances.2.description>
+  <!-- EN: Inspiring -->
+  <VFET_TribalGathering_Outcome.outcomeChances.3.label>Inspiradora</VFET_TribalGathering_Outcome.outcomeChances.3.label>
+  <!-- EN: The {0} was inspiring! The tribe is close to a breakthrough!\n\n12 points of research per participant will be distributed among the available research projects. -->
+  <VFET_TribalGathering_Outcome.outcomeChances.3.description>O ritual {0} foi inspirador! A tribo está perto de uma grande descoberta!\n\nSerão distribuídos 12 pontos de pesquisa por participante entre os projetos disponíveis.</VFET_TribalGathering_Outcome.outcomeChances.3.description>
+</LanguageData>

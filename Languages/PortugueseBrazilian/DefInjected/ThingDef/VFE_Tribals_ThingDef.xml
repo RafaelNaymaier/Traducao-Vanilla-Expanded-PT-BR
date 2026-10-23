@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: heavy tribalwear -->
+  <VFET_Apparel_TribalHeavy.label>vestimenta tribal pesada</VFET_Apparel_TribalHeavy.label>
+  <!-- EN: A full-body garment crafted using neolithic tools. While it may look primitive, it is very effective at insulating against cold temperatures. Provides slightly more protection than the standard tribalwear. -->
+  <VFET_Apparel_TribalHeavy.description>Veste de corpo inteiro confeccionada com ferramentas neolíticas. Apesar da aparência primitiva, protege muito bem contra o frio. Oferece um pouco mais de proteção que a vestimenta tribal comum.</VFET_Apparel_TribalHeavy.description>
+
+  <!-- EN: light tribalwear -->
+  <VFET_Apparel_TribalLight.label>vestimenta tribal leve</VFET_Apparel_TribalLight.label>
+  <!-- EN: A torso-only garment crafted using neolithic tools. While it may look primitive, it is very effective at insulating against heat temperatures. -->
+  <VFET_Apparel_TribalLight.description>Veste que cobre apenas o torso, confeccionada com ferramentas neolíticas. Apesar da aparência primitiva, protege muito bem contra o calor.</VFET_Apparel_TribalLight.description>
+
+  <!-- EN: war tribalwear -->
+  <VFET_Apparel_TribalWar.label>vestimenta tribal de guerra</VFET_Apparel_TribalWar.label>
+  <!-- EN: An upper-body garment crafted using neolithic tools. While it may look primitive, it is very effective at protecting against sharp and blunt damage. Provides little insulation. -->
+  <VFET_Apparel_TribalWar.description>Veste para a parte superior do corpo, confeccionada com ferramentas neolíticas. Apesar da aparência primitiva, protege muito bem contra danos cortantes e contundentes. Oferece pouco isolamento térmico.</VFET_Apparel_TribalWar.description>
+
+  <!-- EN: floor painting -->
+  <VFET_FloorPainting.label>pintura de chão</VFET_FloorPainting.label>
+  <!-- EN: A neolithic-style floor painting depicting an artistic form. Increases in beauty as the colony tech level changes. -->
+  <VFET_FloorPainting.description>Pintura de chão em estilo neolítico, com uma representação artística. Sua beleza aumenta conforme muda a era tecnológica da colônia.</VFET_FloorPainting.description>
+  <!-- EN: painting floor. -->
+  <VFET_FloorPainting.modExtensions.0.constructionSkillRequirement.reportStringOverride>pintando o chão.</VFET_FloorPainting.modExtensions.0.constructionSkillRequirement.reportStringOverride>
+
+  <!-- EN: sitting spot -->
+  <VFET_SittingSpot.label>local para sentar</VFET_SittingSpot.label>
+  <!-- EN: A spot on which to sit. Not very comfortable, and only marginally better than nothing. Can be used at tables, work stations, and elsewhere. -->
+  <VFET_SittingSpot.description>Um lugar para sentar. Não é muito confortável, mas é um pouco melhor que nada. Pode ser usado junto a mesas, estações de trabalho e outros locais.</VFET_SittingSpot.description>
+
+  <!-- EN: research spot -->
+  <VFET_ResearchSpot.label>local de pesquisa</VFET_ResearchSpot.label>
+  <!-- EN: A spot to think on, before a simple research bench can be constructed. Researchers work here to discover new things. -->
+  <VFET_ResearchSpot.description>Um lugar para refletir, antes que seja possível construir uma bancada de pesquisa simples. Pesquisadores trabalham aqui para descobrir coisas novas.</VFET_ResearchSpot.description>
+
+  <!-- EN: animal trap -->
+  <VFET_AnimalTrap.label>armadilha para animais</VFET_AnimalTrap.label>
+  <!-- EN: A large, sharp spike under tension, connected to a touch-activated trigger. If an animal touches the trigger, the spike springs forth and strikes it. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals do not sense these when calm, but they are quite obvious to humans and will be avoided by them. -->
+  <VFET_AnimalTrap.description>Uma estaca grande e afiada, mantida sob tensão e ligada a um gatilho acionado por toque. Quando um animal toca o gatilho, a estaca salta e o atinge. Por ficar escondida no terreno ao redor, não pode ser colocada junto a outras armadilhas. Animais tranquilos não percebem sua presença, mas ela é bastante óbvia para humanos, que a evitam.</VFET_AnimalTrap.description>
+
+  <!-- EN: large fire -->
+  <VFET_LargeFire.label>fogueira grande</VFET_LargeFire.label>
+  <!-- EN: Produces large amounts of heat and smoke, and burns out after a quadrum. The light from a large fire is visible from afar. As long as it’s burning outdoors, there is a higher chance of wild men wandering in, as well as raids. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. Due to the size and instability of it, it may eject sparks around itself that may start a fire. -->
+  <VFET_LargeFire.description>Produz muito calor e fumaça e se apaga após um quadrum. Sua luz pode ser vista de longe. Enquanto queima ao ar livre, aumenta a chance de selvagens aparecerem e de ocorrerem incursões. Como qualquer fonte de calor, precisa ficar em um espaço interno fechado para aquecê-lo. Pode ser reabastecida com combustível. Por ser grande e instável, pode soltar faíscas ao redor e iniciar incêndios.</VFET_LargeFire.description>
+
+  <!-- EN: chunk -->
+  <VFET_Chunk.label>pedregulho</VFET_Chunk.label>
+  <!-- EN: A chunk of rock, carefully picked to have the highest smashing potential. -->
+  <VFET_Chunk.description>Um pedaço de rocha escolhido cuidadosamente por seu potencial de impacto.</VFET_Chunk.description>
+  <!-- EN: rock -->
+  <VFET_Chunk.tools.rock.label>rocha</VFET_Chunk.tools.rock.label>
+
+  <!-- EN: stake -->
+  <VFET_Stake.label>estaca</VFET_Stake.label>
+  <!-- EN: A sharpened wooden log. Can deal substantial damage, but is prone to breaking and deteriorates fast. Good at killing sanguophages. -->
+  <VFET_Stake.description>Tronco de madeira afiado. Causa bastante dano, mas pode quebrar e se deteriora rapidamente. É eficaz contra sanguófagos.</VFET_Stake.description>
+  <!-- EN: shaft -->
+  <VFET_Stake.tools.shaft.label>haste</VFET_Stake.tools.shaft.label>
+  <!-- EN: point -->
+  <VFET_Stake.tools.point.label>ponta</VFET_Stake.tools.point.label>
+
+  <!-- EN: spark -->
+  <VFET_LargeFireSpark.label>faísca</VFET_LargeFireSpark.label>
+
+  <!-- EN: throwspikes -->
+  <VFET_Throwspikes.label>estrepes de arremesso</VFET_Throwspikes.label>
+  <!-- EN: Throwspikes are short sticks sharpened on both sides. They take a while to throw, but can do reasonable damage when they hit. This weapon represents a bundle of throwspikes and can be thrown over and over. -->
+  <VFET_Throwspikes.description>Estrepes são pequenos bastões afiados nas duas extremidades. Demoram um pouco para serem arremessados, mas causam um dano razoável quando atingem o alvo. Esta arma representa um conjunto de estrepes que pode ser arremessado repetidamente.</VFET_Throwspikes.description>
+  <!-- EN: limb -->
+  <VFET_Throwspikes.tools.limb.label>membro</VFET_Throwspikes.tools.limb.label>
+  <!-- EN: throwspikes -->
+  <VFET_Throwspikes.verbs.Verb_Shoot.label>estrepes de arremesso</VFET_Throwspikes.verbs.Verb_Shoot.label>
+
+  <!-- EN: throwspikes -->
+  <VFET_ThrowspikesThrown.label>estrepes de arremesso</VFET_ThrowspikesThrown.label>
+</LanguageData>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questDescription-> [asker_nameFull] of [asker_faction_name], found out about an existence of a small tribe of wild men near [map_definite]. Wild men most likely mean us no harm, and are gathering together hoping to that the numbers will help them survive.\n\nWe may decide to venture to the gathering in order to crush the wild men. Alternatively, we may leave them be. In time, these wild men may find their way to us - depending on their numbers, they may choose to join us, or attack us instead. [asker_nameFull] has a feeling that the small tribe consists of [ListofPawns].</li>
+  -->
+  <VFET_OpportunitySite_WildMen.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull] de [asker_faction_name] descobriu a existência de uma pequena tribo de selvagens perto de [map_definite]. Ao que tudo indica, eles não pretendem nos fazer mal e estão se reunindo na esperança de que a união os ajude a sobreviver.\n\nPodemos ir até o local para exterminar os selvagens ou deixá-los em paz. Com o tempo, eles podem nos encontrar e, dependendo de quantos forem, talvez decidam se juntar a nós ou nos atacar. [asker_nameFull] acredita que a pequena tribo é formada por [ListofPawns].</li>
+  </VFET_OpportunitySite_WildMen.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The [wildmen] [tribe]</li>
+    <li>questName->Nearby [wildmen] [tribe]</li>
+    <li>wildmen->Wild men</li>
+    <li>wildmen->Wildling</li>
+    <li>wildmen->Savage</li>
+    <li>wildmen->Wandering</li>
+    <li>wildmen->Rising</li>
+    <li>wildmen->New</li>
+    <li>tribe->Tribe</li>
+    <li>tribe->Gathering</li>
+    <li>tribe->Group</li>
+    <li>tribe->Circle</li>
+  -->
+  <VFET_OpportunitySite_WildMen.questNameRules.rulesStrings>
+    <li>questName->[tribe] de [wildmen]</li>
+    <li>questName->[tribe] de [wildmen] nas proximidades</li>
+    <li>wildmen->selvagens</li>
+    <li>wildmen->silvícolas</li>
+    <li>wildmen->nômades</li>
+    <li>wildmen->errantes</li>
+    <li>wildmen->insurgentes</li>
+    <li>wildmen->recém-chegados</li>
+    <li>tribe->tribo</li>
+    <li>tribe->reunião</li>
+    <li>tribe->grupo</li>
+    <li>tribe->círculo</li>
+  </VFET_OpportunitySite_WildMen.questNameRules.rulesStrings>
+</LanguageData>

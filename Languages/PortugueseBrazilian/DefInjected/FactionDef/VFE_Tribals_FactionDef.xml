@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: wild men -->
+  <VFET_WildMen.label>selvagens</VFET_WildMen.label>
+  <!-- EN: A player-controlled gathering of wild men. -->
+  <VFET_WildMen.description>Um grupo de selvagens sob controle do jogador.</VFET_WildMen.description>
+  <!-- EN: leader -->
+  <VFET_WildMen.leaderTitle>líder</VFET_WildMen.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFET_WildMen.messageDefendersAttacking>{0} de {1} estão atacando {2}.</VFET_WildMen.messageDefendersAttacking>
+  <!-- EN: native -->
+  <VFET_WildMen.pawnSingular>selvagem</VFET_WildMen.pawnSingular>
+  <!-- EN: natives -->
+  <VFET_WildMen.pawnsPlural>selvagens</VFET_WildMen.pawnsPlural>
+
+  <!-- EN: chief -->
+  <VFET_WildMenGroup.leaderTitle>cacique</VFET_WildMenGroup.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFET_WildMenGroup.messageDefendersAttacking>{0} de {1} estão atacando {2}.</VFET_WildMenGroup.messageDefendersAttacking>
+  <!-- EN: wild man -->
+  <VFET_WildMenGroup.pawnSingular>selvagem</VFET_WildMenGroup.pawnSingular>
+  <!-- EN: wild men -->
+  <VFET_WildMenGroup.pawnsPlural>selvagens</VFET_WildMenGroup.pawnsPlural>
+</LanguageData>
