@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: food improvement chance -->
+  <VCE_FoodImprovementChance.label>chance de aprimorar refeições</VCE_FoodImprovementChance.label>
+  <!-- EN: The chance that this colonist will convert a crafted meal into a higher type (simple to fine, fine to lavish). Applies to bakes, grills and base game meals. -->
+  <VCE_FoodImprovementChance.description>Chance de este colono transformar uma refeição preparada em uma de qualidade superior (simples para de qualidade, de qualidade para suntuosa). Aplica-se a assados, grelhados e refeições do jogo base.</VCE_FoodImprovementChance.description>
+
+  <!-- EN: food condiment chance -->
+  <VCEF_FoodCondimentChance.label>chance de adicionar condimentos</VCEF_FoodCondimentChance.label>
+  <!-- EN: The chance that this colonist will add a random condiment to any crafted meal (except resurrector nanites). -->
+  <VCEF_FoodCondimentChance.description>Chance de este colono adicionar um condimento aleatório a qualquer refeição preparada, exceto nanitas ressuscitadoras.</VCEF_FoodCondimentChance.description>
+</LanguageData>

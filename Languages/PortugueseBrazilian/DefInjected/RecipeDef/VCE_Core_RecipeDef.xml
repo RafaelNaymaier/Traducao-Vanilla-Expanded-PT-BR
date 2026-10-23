@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: cook fine bake x2 -->
+  <VCE_CookBakeFine.label>preparar assado bom x2</VCE_CookBakeFine.label>
+
+  <!-- EN: Cook two complex bakes assembled with care from a wide selection of ingredients and flour. -->
+  <VCE_CookBakeFine.description>Prepare dois assados elaborados, preparados com cuidado com uma ampla variedade de ingredientes e farinha.</VCE_CookBakeFine.description>
+
+  <!-- EN: Cooking fine bake x2. -->
+  <VCE_CookBakeFine.jobString>Preparando assado bom x2.</VCE_CookBakeFine.jobString>
+
+  <!-- EN: cook fine bake x8 -->
+  <VCE_CookBakeFineBulk.label>preparar assados bons x8</VCE_CookBakeFineBulk.label>
+
+  <!-- EN: Cook 8 complex bakes assembled with care from a wide selection of ingredients and flour. -->
+  <VCE_CookBakeFineBulk.description>Prepare 8 assados elaborados, preparados com cuidado com uma ampla variedade de ingredientes e farinha.</VCE_CookBakeFineBulk.description>
+
+  <!-- EN: Cooking fine bake x8. -->
+  <VCE_CookBakeFineBulk.jobString>Preparando assados bons x8.</VCE_CookBakeFineBulk.jobString>
+
+  <!-- EN: cook gourmet bake x2 -->
+  <VCE_CookBakeGourmet.label>preparar assado gourmet x2</VCE_CookBakeGourmet.label>
+
+  <!-- EN: Cook two culinary works of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity bake.\n\nThis recipe does not allow mixed ingredients. -->
+  <VCE_CookBakeGourmet.description>Prepare dois assados que são verdadeiras obras de arte culinária, com preparo e apresentação refinados — até elaborados — e equilíbrio estético, embora em pequena quantidade.\n\nEsta receita não permite misturar ingredientes.</VCE_CookBakeGourmet.description>
+
+  <!-- EN: Cooking gourmet bake x2. -->
+  <VCE_CookBakeGourmet.jobString>Preparando assado gourmet x2.</VCE_CookBakeGourmet.jobString>
+
+  <!-- EN: cook lavish bake x2 -->
+  <VCE_CookBakeLavish.label>preparar assado luxuoso x2</VCE_CookBakeLavish.label>
+
+  <!-- EN: Cook two masterpieces of the culinary arts, these bakes nourish the body, mind, and soul. -->
+  <VCE_CookBakeLavish.description>Prepare duas obras-primas da culinária que nutrem o corpo, a mente e o espírito.</VCE_CookBakeLavish.description>
+
+  <!-- EN: Cooking lavish bake x2. -->
+  <VCE_CookBakeLavish.jobString>Preparando assado luxuoso x2.</VCE_CookBakeLavish.jobString>
+
+  <!-- EN: cook lavish bake x8 -->
+  <VCE_CookBakeLavishBulk.label>preparar assados luxuosos x8</VCE_CookBakeLavishBulk.label>
+
+  <!-- EN: Cook 8 masterpieces of the culinary arts, these bakes nourish the body, mind, and soul. -->
+  <VCE_CookBakeLavishBulk.description>Prepare 8 obras-primas da culinária que nutrem o corpo, a mente e o espírito.</VCE_CookBakeLavishBulk.description>
+
+  <!-- EN: Cooking lavish bake x8. -->
+  <VCE_CookBakeLavishBulk.jobString>Preparando assados luxuosos x8.</VCE_CookBakeLavishBulk.jobString>
+
+  <!-- EN: cook simple bake x2 -->
+  <VCE_CookBakeSimple.label>preparar assado simples x2</VCE_CookBakeSimple.label>
+
+  <!-- EN: Cook two simple bakes quickly cooked from flour. -->
+  <VCE_CookBakeSimple.description>Prepare dois assados simples feitos rapidamente com farinha.</VCE_CookBakeSimple.description>
+
+  <!-- EN: Cooking simple bake x2. -->
+  <VCE_CookBakeSimple.jobString>Preparando assado simples x2.</VCE_CookBakeSimple.jobString>
+
+  <!-- EN: cook simple bake x8 -->
+  <VCE_CookBakeSimpleBulk.label>preparar assados simples x8</VCE_CookBakeSimpleBulk.label>
+
+  <!-- EN: Cook 8 simple bakes quickly cooked from flour. -->
+  <VCE_CookBakeSimpleBulk.description>Prepare 8 assados simples feitos rapidamente com farinha.</VCE_CookBakeSimpleBulk.description>
+
+  <!-- EN: Cooking simple bake x8. -->
+  <VCE_CookBakeSimpleBulk.jobString>Preparando assados simples x8.</VCE_CookBakeSimpleBulk.jobString>
+
+  <!-- EN: can eggs x20 -->
+  <VCE_CanEggs.label>enlatar ovos x20</VCE_CanEggs.label>
+
+  <!-- EN: Safely store boiled eggs in a steel can. Canning food extends its shelf life almost indefinitely. -->
+  <VCE_CanEggs.description>Armazene ovos cozidos com segurança em uma lata de aço. Enlatar alimentos prolonga sua conservação por tempo quase indefinido.</VCE_CanEggs.description>
+
+  <!-- EN: Canning eggs. -->
+  <VCE_CanEggs.jobString>Enlatando ovos.</VCE_CanEggs.jobString>
+
+  <!-- EN: can fruit x20 -->
+  <VCE_CanFruit.label>enlatar frutas x20</VCE_CanFruit.label>
+
+  <!-- EN: Safely store fruit in a steel can. Canning food extends its shelf life almost indefinitely.\n\nPreserved fruit can be used in the production of desserts. -->
+  <VCE_CanFruit.description>Armazene frutas com segurança em uma lata de aço. Enlatar alimentos prolonga sua conservação por tempo quase indefinido.\n\nFrutas em conserva podem ser usadas no preparo de sobremesas.</VCE_CanFruit.description>
+
+  <!-- EN: Canning fruit. -->
+  <VCE_CanFruit.jobString>Enlatando frutas.</VCE_CanFruit.jobString>
+
+  <!-- EN: can meats x20 -->
+  <VCE_CanMeats.label>enlatar carnes x20</VCE_CanMeats.label>
+
+  <!-- EN: Safely store meat chunks in a steel can. Canning food extends its shelf life almost indefinitely. -->
+  <VCE_CanMeats.description>Armazene pedaços de carne com segurança em uma lata de aço. Enlatar alimentos prolonga sua conservação por tempo quase indefinido.</VCE_CanMeats.description>
+
+  <!-- EN: Canning meats. -->
+  <VCE_CanMeats.jobString>Enlatando carnes.</VCE_CanMeats.jobString>
+
+  <!-- EN: can produce x20 -->
+  <VCE_CanProduce.label>enlatar vegetais x20</VCE_CanProduce.label>
+
+  <!-- EN: Safely store vegetables in a steel can. Canning food extends its shelf life almost indefinitely. -->
+  <VCE_CanProduce.description>Armazene vegetais com segurança em uma lata de aço. Enlatar alimentos prolonga sua conservação por tempo quase indefinido.</VCE_CanProduce.description>
+
+  <!-- EN: Canning produce. -->
+  <VCE_CanProduce.jobString>Enlatando vegetais.</VCE_CanProduce.jobString>
+
+  <!-- EN: make agave nectar -->
+  <VCE_AgaveNectar.label>preparar néctar de agave</VCE_AgaveNectar.label>
+
+  <!-- EN: Create agave nectar from agave. Agave nectar is a thin and semi-sweet nectar, known for its healing and anti-inflammatory properties. -->
+  <VCE_AgaveNectar.description>Prepare néctar de agave a partir do agave. Esse néctar leve e levemente adocicado é conhecido por suas propriedades cicatrizantes e anti-inflamatórias.</VCE_AgaveNectar.description>
+
+  <!-- EN: Making agave nectar. -->
+  <VCE_AgaveNectar.jobString>Preparando néctar de agave.</VCE_AgaveNectar.jobString>
+
+  <!-- EN: make chocolate syrup -->
+  <VCE_ChocolateSyrup.label>preparar calda de chocolate</VCE_ChocolateSyrup.label>
+
+  <!-- EN: Create chocolate syrup from genetically modified chocolate. While still not good for you, chocolate syrup is not quite as bad as straight sugar. -->
+  <VCE_ChocolateSyrup.description>Prepare calda com chocolate geneticamente modificado. Embora ainda não faça bem à saúde, a calda de chocolate não é tão prejudicial quanto o açúcar puro.</VCE_ChocolateSyrup.description>
+
+  <!-- EN: Making chocolate syrup. -->
+  <VCE_ChocolateSyrup.jobString>Preparando calda de chocolate.</VCE_ChocolateSyrup.jobString>
+
+  <!-- EN: mix condiments into kibble -->
+  <VCE_ChopCondiments.label>misturar condimentos à ração</VCE_ChopCondiments.label>
+
+  <!-- EN: Mix a batch of different condiments into a barely edible organic mass that can be fed to animals. Still better than supermarket pet food. -->
+  <VCE_ChopCondiments.description>Misture vários condimentos para formar uma massa orgânica quase intragável, que pode ser oferecida aos animais. Ainda é melhor que ração de supermercado.</VCE_ChopCondiments.description>
+
+  <!-- EN: Mixing condiments into kibble. -->
+  <VCE_ChopCondiments.jobString>Misturando condimentos à ração.</VCE_ChopCondiments.jobString>
+
+  <!-- EN: make insect jelly preserves -->
+  <VCE_InsectJellyPreserves.label>preparar conserva de geleia de inseto</VCE_InsectJellyPreserves.label>
+
+  <!-- EN: Create insect jelly preserves from insect jelly. Very rich and sweet, while being surprisingly healthy. -->
+  <VCE_InsectJellyPreserves.description>Prepare conserva de geleia de inseto usando geleia de inseto. É muito nutritiva e doce, além de surpreendentemente saudável.</VCE_InsectJellyPreserves.description>
+
+  <!-- EN: Making insect jelly preserves. -->
+  <VCE_InsectJellyPreserves.jobString>Preparando conserva de geleia de inseto.</VCE_InsectJellyPreserves.jobString>
+
+  <!-- EN: make salt -->
+  <VCE_MakeSalt.label>preparar sal</VCE_MakeSalt.label>
+
+  <!-- EN: Grind and process natural stone to extract edible salts from within stone chunks.\n\nUses the Cooking skill. -->
+  <VCE_MakeSalt.description>Moa e processe pedras naturais para extrair sal comestível de blocos de pedra.\n\nUsa a habilidade de Culinária.</VCE_MakeSalt.description>
+
+  <!-- EN: Making salt. -->
+  <VCE_MakeSalt.jobString>Preparando sal.</VCE_MakeSalt.jobString>
+
+  <!-- EN: make salt (blocks) -->
+  <VCE_MakeSaltfromBlocks.label>preparar sal (blocos)</VCE_MakeSaltfromBlocks.label>
+
+  <!-- EN: Grind and process natural stone to extract edible salts from within stone blocks.\n\nUses the Cooking skill. -->
+  <VCE_MakeSaltfromBlocks.description>Moa e processe pedras naturais para extrair sal comestível de blocos de pedra.\n\nUsa a habilidade de Culinária.</VCE_MakeSaltfromBlocks.description>
+
+  <!-- EN: Making salt from blocks. -->
+  <VCE_MakeSaltfromBlocks.jobString>Preparando sal a partir de blocos.</VCE_MakeSaltfromBlocks.jobString>
+
+  <!-- EN: make mayo -->
+  <VCE_Mayo.label>preparar maionese</VCE_Mayo.label>
+
+  <!-- EN: Create mayo from eggs. A thick emulsion of egg, oil, and other herbs. Mayonnaise, while terrible for you, adds a pleasing tang and is very calorically dense. -->
+  <VCE_Mayo.description>Prepare maionese com ovos. Trata-se de uma emulsão espessa de ovos, óleo e outras ervas. Embora faça muito mal à saúde, ela acrescenta um sabor agradável e é bastante calórica.</VCE_Mayo.description>
+
+  <!-- EN: Making mayo. -->
+  <VCE_Mayo.jobString>Preparando maionese.</VCE_Mayo.jobString>
+
+  <!-- EN: make smokeleaf butter -->
+  <VCE_SmokeleafButter.label>preparar manteiga de Folha de fumo</VCE_SmokeleafButter.label>
+
+  <!-- EN: Create smokeleaf butter from smokeleaf and milk. A thickened, fatty substance made by churning milk into very thick cream, combining with smokeleaf oil and allowing it to set. Very unhealthy and hits quite a bit harder than a joint. -->
+  <VCE_SmokeleafButter.description>Prepare manteiga de Folha de fumo com Folha de fumo e leite. É uma substância espessa e gordurosa, feita batendo o leite até virar um creme denso, misturando-o com óleo de Folha de fumo e deixando firmar. Faz muito mal à saúde e tem um efeito bem mais intenso que um cigarro.</VCE_SmokeleafButter.description>
+
+  <!-- EN: Making smokeleaf butter. -->
+  <VCE_SmokeleafButter.jobString>Preparando manteiga de Folha de fumo.</VCE_SmokeleafButter.jobString>
+
+  <!-- EN: cook fine dessert -->
+  <VCE_CookDessertFine.label>preparar sobremesa refinada</VCE_CookDessertFine.label>
+
+  <!-- EN: Cook a complex dessert assembled with care from a wide selection of ingredients.\n\nNote that because Chocolate has 0.10 nutrition per unit, some of it will be wasted while cooking this recipe. Consider using the bulk (x4) version of this recipe instead to avoid wastage. -->
+  <VCE_CookDessertFine.description>Prepare uma sobremesa elaborada com cuidado a partir de uma ampla variedade de ingredientes.\n\nComo o chocolate fornece 0,10 de nutrição por unidade, parte dele será desperdiçada no preparo desta receita. Para evitar desperdício, considere preparar a versão em lote (x4).</VCE_CookDessertFine.description>
+
+  <!-- EN: Cooking fine dessert. -->
+  <VCE_CookDessertFine.jobString>Preparando sobremesa refinada.</VCE_CookDessertFine.jobString>
+
+  <!-- EN: cook fine dessert x4 -->
+  <VCE_CookDessertFineBulk.label>preparar sobremesas refinadas x4</VCE_CookDessertFineBulk.label>
+
+  <!-- EN: Cook 4 complex desserts assembled with care from a wide selection of ingredients. -->
+  <VCE_CookDessertFineBulk.description>Prepare 4 sobremesas elaboradas com cuidado a partir de uma ampla variedade de ingredientes.</VCE_CookDessertFineBulk.description>
+
+  <!-- EN: Cooking fine dessert x4. -->
+  <VCE_CookDessertFineBulk.jobString>Preparando sobremesas refinadas x4.</VCE_CookDessertFineBulk.jobString>
+
+  <!-- EN: cook gourmet dessert -->
+  <VCE_CookDessertGourmet.label>preparar sobremesa gourmet</VCE_CookDessertGourmet.label>
+
+  <!-- EN: Cook a culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity dessert. -->
+  <VCE_CookDessertGourmet.description>Prepare uma sobremesa que é uma verdadeira obra de arte culinária, com preparo e apresentação refinados — até elaborados — e equilíbrio estético, embora em pequena quantidade.</VCE_CookDessertGourmet.description>
+
+  <!-- EN: Cooking gourmet dessert. -->
+  <VCE_CookDessertGourmet.jobString>Preparando sobremesa gourmet.</VCE_CookDessertGourmet.jobString>
+
+  <!-- EN: cook lavish dessert -->
+  <VCE_CookDessertLavish.label>preparar sobremesa luxuosa</VCE_CookDessertLavish.label>
+
+  <!-- EN: Cook a masterpiece of the culinary arts, this dessert nourishes the body, mind, and soul.\n\nNote that because Chocolate has 0.10 nutrition per unit, some of it will be wasted while cooking this recipe. Consider using the bulk (x4) version of this recipe instead to avoid wastage. -->
+  <VCE_CookDessertLavish.description>Prepare uma obra-prima da culinária que nutre o corpo, a mente e o espírito.\n\nComo o chocolate fornece 0,10 de nutrição por unidade, parte dele será desperdiçada no preparo desta receita. Para evitar desperdício, considere preparar a versão em lote (x4).</VCE_CookDessertLavish.description>
+
+  <!-- EN: Cooking lavish dessert. -->
+  <VCE_CookDessertLavish.jobString>Preparando sobremesa luxuosa.</VCE_CookDessertLavish.jobString>
+
+  <!-- EN: cook lavish dessert x4 -->
+  <VCE_CookDessertLavishBulk.label>preparar sobremesas luxuosas x4</VCE_CookDessertLavishBulk.label>
+
+  <!-- EN: Cook 4 masterpieces of the culinary arts, this dessert nourishes the body, mind, and soul. -->
+  <VCE_CookDessertLavishBulk.description>Prepare 4 obras-primas da culinária que nutrem o corpo, a mente e o espírito.</VCE_CookDessertLavishBulk.description>
+
+  <!-- EN: Cooking lavish dessert x4. -->
+  <VCE_CookDessertLavishBulk.jobString>Preparando sobremesas luxuosas x4.</VCE_CookDessertLavishBulk.jobString>
+
+  <!-- EN: cook simple dessert -->
+  <VCE_CookDessertSimple.label>preparar sobremesa simples</VCE_CookDessertSimple.label>
+
+  <!-- EN: Cook a simple dessert quickly made from a few fruits and other ingredients. -->
+  <VCE_CookDessertSimple.description>Prepare uma sobremesa simples rapidamente com algumas frutas e outros ingredientes.</VCE_CookDessertSimple.description>
+
+  <!-- EN: Cooking simple dessert. -->
+  <VCE_CookDessertSimple.jobString>Preparando sobremesa simples.</VCE_CookDessertSimple.jobString>
+
+  <!-- EN: cook simple dessert x4 -->
+  <VCE_CookDessertSimpleBulk.label>preparar sobremesas simples x4</VCE_CookDessertSimpleBulk.label>
+
+  <!-- EN: Cook 4 simple desserts quickly made from a few fruits and other ingredients. -->
+  <VCE_CookDessertSimpleBulk.description>Prepare 4 sobremesas simples rapidamente com algumas frutas e outros ingredientes.</VCE_CookDessertSimpleBulk.description>
+
+  <!-- EN: Cooking simple dessert x4. -->
+  <VCE_CookDessertSimpleBulk.jobString>Preparando sobremesas simples x4.</VCE_CookDessertSimpleBulk.jobString>
+
+  <!-- EN: deep fry meats x20 -->
+  <VCE_DeepFryMeats.label>fritar carnes por imersão x20</VCE_DeepFryMeats.label>
+
+  <!-- EN: Deep fry large meat chunks. Deep fried food is very tasty, but not very good for your health. -->
+  <VCE_DeepFryMeats.description>Frite pedaços grandes de carne por imersão. Alimentos fritos assim são muito saborosos, mas fazem mal à saúde.</VCE_DeepFryMeats.description>
+
+  <!-- EN: Deep frying meats. -->
+  <VCE_DeepFryMeats.jobString>Fritando carnes por imersão.</VCE_DeepFryMeats.jobString>
+
+  <!-- EN: deep fry vegetables x20 -->
+  <VCE_DeepFryVegetables.label>fritar vegetais por imersão x20</VCE_DeepFryVegetables.label>
+
+  <!-- EN: Deep fry vegetables. Deep fried food is very tasty, but not very good for your health. -->
+  <VCE_DeepFryVegetables.description>Frite vegetais por imersão. Alimentos fritos assim são muito saborosos, mas fazem mal à saúde.</VCE_DeepFryVegetables.description>
+
+  <!-- EN: Deep frying vegetables. -->
+  <VCE_DeepFryVegetables.jobString>Fritando vegetais.</VCE_DeepFryVegetables.jobString>
+
+  <!-- EN: cook fine grill -->
+  <VCE_CookGrillFine.label>preparar grelhado bom</VCE_CookGrillFine.label>
+
+  <!-- EN: Cook a complex grill assembled with care from a wide selection of ingredients. -->
+  <VCE_CookGrillFine.description>Prepare um grelhado elaborado com cuidado a partir de uma ampla variedade de ingredientes.</VCE_CookGrillFine.description>
+
+  <!-- EN: Cooking fine grill. -->
+  <VCE_CookGrillFine.jobString>Preparando grelhado bom.</VCE_CookGrillFine.jobString>
+
+  <!-- EN: cook fine grill x4 -->
+  <VCE_CookGrillFineBulk.label>preparar grelhados bons x4</VCE_CookGrillFineBulk.label>
+
+  <!-- EN: Cook 4 complex grills assembled with care from a wide selection of ingredients. -->
+  <VCE_CookGrillFineBulk.description>Prepare 4 grelhados elaborados com cuidado a partir de uma ampla variedade de ingredientes.</VCE_CookGrillFineBulk.description>
+
+  <!-- EN: Cooking fine grill x4. -->
+  <VCE_CookGrillFineBulk.jobString>Preparando grelhados bons x4.</VCE_CookGrillFineBulk.jobString>
+
+  <!-- EN: cook gourmet grill -->
+  <VCE_CookGrillGourmet.label>preparar grelhado gourmet</VCE_CookGrillGourmet.label>
+
+  <!-- EN: Cook a culinary works of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity grill. -->
+  <VCE_CookGrillGourmet.description>Prepare um grelhado que é uma verdadeira obra de arte culinária, com preparo e apresentação refinados — até elaborados — e equilíbrio estético, embora em pequena quantidade.</VCE_CookGrillGourmet.description>
+
+  <!-- EN: Cooking gourmet grill. -->
+  <VCE_CookGrillGourmet.jobString>Preparando grelhado gourmet.</VCE_CookGrillGourmet.jobString>
+
+  <!-- EN: cook lavish grill -->
+  <VCE_CookGrillLavish.label>preparar grelhado luxuoso</VCE_CookGrillLavish.label>
+
+  <!-- EN: Cook a masterpiece of the culinary arts, this grill nourishes the body, mind, and soul. -->
+  <VCE_CookGrillLavish.description>Prepare uma obra-prima da culinária que nutre o corpo, a mente e o espírito.</VCE_CookGrillLavish.description>
+
+  <!-- EN: Cooking lavish grill. -->
+  <VCE_CookGrillLavish.jobString>Preparando grelhado luxuoso.</VCE_CookGrillLavish.jobString>
+
+  <!-- EN: cook lavish grill x4 -->
+  <VCE_CookGrillLavishhBulk.label>preparar grelhados luxuosos x4</VCE_CookGrillLavishhBulk.label>
+
+  <!-- EN: Cook 4 masterpieces of the culinary arts, these grills nourish the body, mind, and soul. -->
+  <VCE_CookGrillLavishhBulk.description>Prepare 4 obras-primas da culinária que nutrem o corpo, a mente e o espírito.</VCE_CookGrillLavishhBulk.description>
+
+  <!-- EN: Cooking lavish grill x4. -->
+  <VCE_CookGrillLavishhBulk.jobString>Preparando grelhados luxuosos x4.</VCE_CookGrillLavishhBulk.jobString>
+
+  <!-- EN: cook simple grill -->
+  <VCE_CookGrillSimple.label>preparar grelhado simples</VCE_CookGrillSimple.label>
+
+  <!-- EN: Cook two simple grills quickly cooked from a few meat ingredients. -->
+  <VCE_CookGrillSimple.description>Prepare dois grelhados simples rapidamente com alguns ingredientes de carne.</VCE_CookGrillSimple.description>
+
+  <!-- EN: Cooking simple grill. -->
+  <VCE_CookGrillSimple.jobString>Preparando grelhado simples.</VCE_CookGrillSimple.jobString>
+
+  <!-- EN: cook simple grill x4 -->
+  <VCE_CookGrillSimpleBulk.label>preparar grelhados simples x4</VCE_CookGrillSimpleBulk.label>
+
+  <!-- EN: Cook 4 simple grills quickly cooked from a few meat ingredients. -->
+  <VCE_CookGrillSimpleBulk.description>Prepare 4 grelhados simples rapidamente com alguns ingredientes de carne.</VCE_CookGrillSimpleBulk.description>
+
+  <!-- EN: Cooking simple grill x4. -->
+  <VCE_CookGrillSimpleBulk.jobString>Preparando grelhados simples x4.</VCE_CookGrillSimpleBulk.jobString>
+
+  <!-- EN: cook gourmet meal -->
+  <VCE_CookMealGourmet.label>preparar refeição gourmet</VCE_CookMealGourmet.label>
+
+  <!-- EN: Cook a culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity meal. -->
+  <VCE_CookMealGourmet.description>Prepare uma refeição que é uma verdadeira obra de arte culinária, com preparo e apresentação refinados — até elaborados — e equilíbrio estético, embora em pequena quantidade.</VCE_CookMealGourmet.description>
+
+  <!-- EN: Cooking gourmet meal. -->
+  <VCE_CookMealGourmet.jobString>Preparando refeição gourmet.</VCE_CookMealGourmet.jobString>
+
+  <!-- EN: prepare fine soup -->
+  <VCE_CookSoupFine.label>preparar sopa refinada</VCE_CookSoupFine.label>
+
+  <!-- EN: Prepare a fine uncooked soup assembled with care from a wide selection of ingredients. -->
+  <VCE_CookSoupFine.description>Prepare uma sopa refinada sem cozinhar, montada com cuidado a partir de uma ampla variedade de ingredientes.</VCE_CookSoupFine.description>
+
+  <!-- EN: Preparing fine soup. -->
+  <VCE_CookSoupFine.jobString>Preparando sopa refinada.</VCE_CookSoupFine.jobString>
+
+  <!-- EN: prepare gourmet soup -->
+  <VCE_CookSoupGourmet.label>preparar sopa gourmet</VCE_CookSoupGourmet.label>
+
+  <!-- EN: Prepare a gourmet uncooked soup. A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity soup.\n\nThis recipe does not allow mixed ingredients, and takes a long time to make. -->
+  <VCE_CookSoupGourmet.description>Prepare uma sopa gourmet sem cozinhar. É uma verdadeira obra de arte culinária, com preparo e apresentação refinados — até elaborados — e equilíbrio estético, embora em pequena quantidade.\n\nEsta receita não permite misturar ingredientes e leva bastante tempo para ficar pronta.</VCE_CookSoupGourmet.description>
+
+  <!-- EN: Preparing gourmet soup. -->
+  <VCE_CookSoupGourmet.jobString>Preparando sopa gourmet.</VCE_CookSoupGourmet.jobString>
+
+  <!-- EN: prepare lavish soup -->
+  <VCE_CookSoupLavish.label>preparar sopa luxuosa</VCE_CookSoupLavish.label>
+
+  <!-- EN: Prepare a lavish uncooked soup. A masterpiece of the culinary arts, this soup nourishes the body, mind, and soul. -->
+  <VCE_CookSoupLavish.description>Prepare uma sopa luxuosa sem cozinhar. Esta obra-prima da culinária nutre o corpo, a mente e o espírito.</VCE_CookSoupLavish.description>
+
+  <!-- EN: Preparing lavish soup. -->
+  <VCE_CookSoupLavish.jobString>Preparando sopa luxuosa.</VCE_CookSoupLavish.jobString>
+
+  <!-- EN: prepare simple soup -->
+  <VCE_CookSoupSimple.label>preparar sopa simples</VCE_CookSoupSimple.label>
+
+  <!-- EN: Prepare a simple uncooked soup quickly made from a few ingredients. -->
+  <VCE_CookSoupSimple.description>Prepare uma sopa simples sem cozinhar, feita rapidamente com poucos ingredientes.</VCE_CookSoupSimple.description>
+
+  <!-- EN: Preparing simple soup. -->
+  <VCE_CookSoupSimple.jobString>Preparando sopa simples.</VCE_CookSoupSimple.jobString>
+
+</LanguageData>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: canning machine -->
+  <VCE_CanningMachine.label>máquina de conservas</VCE_CanningMachine.label>
+
+  <!-- EN: A canning machine is an appliance to store preserved food inside metallic cans. Each canning operation needs a certain amount of Steel. -->
+  <VCE_CanningMachine.description>A máquina de conservas serve para armazenar alimentos em conserva em latas metálicas. Cada operação de enlatamento requer uma certa quantidade de aço.</VCE_CanningMachine.description>
+
+  <!-- EN: cheese press -->
+  <VCE_CheesePress.label>prensa de queijo</VCE_CheesePress.label>
+
+  <!-- EN: A cheese press is a device for pressing whey from curds when making cheese. Pressing influences the cheese's hardness and texture and will also determine the shape of the block or wheel of cheese. This press also works as a ripening chamber, so the longer the cheese is left ripening, the higher its quality will be. -->
+  <VCE_CheesePress.description>A prensa de queijo é um equipamento usado para separar o soro da coalhada durante a produção de queijo. A prensagem influencia a dureza e a textura do queijo e também determina o formato do bloco ou da peça. Esta prensa também funciona como câmara de maturação: quanto mais tempo o queijo permanecer maturando, maior será sua qualidade.</VCE_CheesePress.description>
+
+  <!-- EN: condiment prep table -->
+  <VCE_CondimentPrepTable.label>bancada de preparo de condimentos</VCE_CondimentPrepTable.label>
+
+  <!-- EN: A working table to cut, slice and prepare condiments used in gourmet recipes. -->
+  <VCE_CondimentPrepTable.description>Uma bancada de trabalho para cortar, fatiar e preparar condimentos usados em receitas gourmet.</VCE_CondimentPrepTable.description>
+
+  <!-- EN: deep fryer -->
+  <VCE_DeepFrier.label>fritadeira</VCE_DeepFrier.label>
+
+  <!-- EN: A deep fryer is a kitchen appliance used for deep frying. Deep frying is a method of cooking by submerging food into oil at high heat, typically between temperatures of 350 °F and 375 °F (175 °C to 190 °C). -->
+  <VCE_DeepFrier.description>A fritadeira é um eletrodoméstico usado para fritar alimentos por imersão. Esse método consiste em mergulhar os alimentos em óleo bem quente, geralmente entre 350 °F e 375 °F (175 °C a 190 °C).</VCE_DeepFrier.description>
+
+  <!-- EN: electric pot -->
+  <VCE_ElectricPot.label>panela elétrica</VCE_ElectricPot.label>
+
+  <!-- EN: An electric pot, also called a thermo pot, is a small appliance used for boiling water and maintaining it at a constant temperature. It is typically used to simmer soup over an extended period of time. Ingredients are submerged in water and left to cook over an extended period, allowing the flavors of the ingredients to gradually deepen and blend over time.\n\nSoup on an unpowered electric pot will spoil extremely rapidly. Beware of solar flares! -->
+  <VCE_ElectricPot.description>Uma panela elétrica, também chamada de térmica, é um pequeno eletrodoméstico usado para ferver água e mantê-la em temperatura constante. Geralmente, é usada para cozinhar sopa em fogo baixo por bastante tempo. Os ingredientes ficam submersos em água e cozinham lentamente, permitindo que seus sabores se intensifiquem e se misturem aos poucos.\n\nA sopa na panela elétrica desligada estraga muito rápido. Cuidado com as erupções solares!</VCE_ElectricPot.description>
+
+  <!-- EN: grill -->
+  <VCE_Grill.label>churrasqueira</VCE_Grill.label>
+
+  <!-- EN: A grill is a device that cooks food by applying heat from below. This is a wood fired grill that needs wood as fuel to work. -->
+  <VCE_Grill.description>Uma churrasqueira cozinha os alimentos com calor aplicado por baixo. Esta churrasqueira funciona a lenha e precisa de madeira como combustível.</VCE_Grill.description>
+
+  <!-- EN: fine bake -->
+  <VCE_FineBake.label>assado refinado</VCE_FineBake.label>
+
+  <!-- EN: A complex bake assembled with care from a wide selection of ingredients and flour. -->
+  <VCE_FineBake.description>Um assado elaborado com cuidado, usando uma grande variedade de ingredientes e farinha.</VCE_FineBake.description>
+
+  <!-- EN: gourmet bake -->
+  <VCE_GourmetBake.label>assado gourmet</VCE_GourmetBake.label>
+
+  <!-- EN: A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity bake. -->
+  <VCE_GourmetBake.description>Uma obra de arte culinária, preparada e apresentada de forma refinada e até elaborada. Apesar da pequena quantidade, este assado tem uma apresentação visualmente equilibrada.</VCE_GourmetBake.description>
+
+  <!-- EN: lavish bake -->
+  <VCE_LavishBake.label>assado luxuoso</VCE_LavishBake.label>
+
+  <!-- EN: A masterpiece of the culinary arts, this bake nourishes the body, mind, and soul. -->
+  <VCE_LavishBake.description>Uma obra-prima da culinária que nutre o corpo, a mente e a alma.</VCE_LavishBake.description>
+
+  <!-- EN: simple bake -->
+  <VCE_SimpleBake.label>assado simples</VCE_SimpleBake.label>
+
+  <!-- EN: A simple bake quickly cooked from a few ingredients and flour. -->
+  <VCE_SimpleBake.description>Um assado simples, preparado rapidamente com poucos ingredientes e farinha.</VCE_SimpleBake.description>
+
+  <!-- EN: canned eggs -->
+  <VCE_CannedAP.label>ovos enlatados</VCE_CannedAP.label>
+
+  <!-- EN: Boiled eggs vacuum sealed and secured in a steel can effectively extending shelf life indefinitely. While edible cold right out of the can it's far more nourishing mixed into a meal and heated.\n\nCanned goods are intended as a way to preserve food and use it an an ingredient later, not as a final meal. -->
+  <VCE_CannedAP.description>Ovos cozidos, embalados a vácuo e armazenados em uma lata de aço, o que prolonga sua conservação indefinidamente. Podem ser consumidos frios, direto da lata, mas ficam muito mais nutritivos quando aquecidos e misturados a uma refeição.\n\nAlimentos enlatados servem para conservar comida e usá-la depois como ingrediente, não como refeição completa.</VCE_CannedAP.description>
+
+  <!-- EN: canned fish -->
+  <VCE_CannedFish.label>peixe enlatado</VCE_CannedFish.label>
+
+  <!-- EN: Fish vacuum sealed and secured in a steel can effectively extending shelf life indefinitely. While edible cold right out of the can it's far more nourishing mixed into a meal and heated.\n\nCanned goods are intended as a way to preserve food and use it an an ingredient later, not as a final meal. -->
+  <VCE_CannedFish.description>Peixe embalado a vácuo e armazenado em uma lata de aço, o que prolonga sua conservação indefinidamente. Pode ser consumido frio, direto da lata, mas fica muito mais nutritivo quando aquecido e misturado a uma refeição.\n\nAlimentos enlatados servem para conservar comida e usá-la depois como ingrediente, não como refeição completa.</VCE_CannedFish.description>
+
+  <!-- EN: canned fruit -->
+  <VCE_CannedFruit.label>fruta enlatada</VCE_CannedFruit.label>
+
+  <!-- EN: Cooked and preserved fruit in a hermetically sealed, durable container. Preserved food lasts indefinitely without refrigeration.\n\nFruit differs from produce in that it is specifically required in the production of desserts.\n\nCanned goods are intended as a way to preserve food and use it an an ingredient later, not as a final meal. -->
+  <VCE_CannedFruit.description>Fruta cozida e conservada em um recipiente resistente e hermeticamente fechado. Alimentos em conserva duram indefinidamente sem refrigeração.\n\nFrutas diferem de vegetais por serem necessárias especificamente na produção de sobremesas.\n\nAlimentos enlatados servem para conservar comida e usá-la depois como ingrediente, não como refeição completa.</VCE_CannedFruit.description>
+
+  <!-- EN: canned meat -->
+  <VCE_CannedMeat.label>carne enlatada</VCE_CannedMeat.label>
+
+  <!-- EN: Meat vacuum sealed and secured in a steel can effectively extending shelf life indefinitely. While edible cold right out of the can it's far more nourishing mixed into a meal and heated.\n\nCanned goods are intended as a way to preserve food and use it an an ingredient later, not as a final meal. -->
+  <VCE_CannedMeat.description>Carne embalada a vácuo e armazenada em uma lata de aço, o que prolonga sua conservação indefinidamente. Pode ser consumida fria, direto da lata, mas fica muito mais nutritiva quando aquecida e misturada a uma refeição.\n\nAlimentos enlatados servem para conservar comida e usá-la depois como ingrediente, não como refeição completa.</VCE_CannedMeat.description>
+
+  <!-- EN: canned produce -->
+  <VCE_CannedProduce.label>vegetais enlatados</VCE_CannedProduce.label>
+
+  <!-- EN: Produce vacuum sealed and secured in a steel can effectively extending shelf life indefinitely. While edible cold right out of the can it's far more nourishing mixed into a meal and heated.\n\nCanned goods are intended as a way to preserve food and use it an an ingredient later, not as a final meal. -->
+  <VCE_CannedProduce.description>Vegetais embalados a vácuo e armazenados em uma lata de aço, o que prolonga sua conservação indefinidamente. Podem ser consumidos frios, direto da lata, mas ficam muito mais nutritivos quando aquecidos e misturados a uma refeição.\n\nAlimentos enlatados servem para conservar comida e usá-la depois como ingrediente, não como refeição completa.</VCE_CannedProduce.description>
+
+  <!-- EN: cheese -->
+  <VCE_Cheese.label>queijo</VCE_Cheese.label>
+
+  <!-- EN: Cheese is a dairy product, derived from milk and produced in a wide range of flavors, textures and forms by coagulation of the milk protein casein. Cheese is valued for its portability, long life, and high content of fat, protein, calcium, and phosphorus. It is more compact and has a longer shelf life than milk.\n\n<color=#E5E54C>Gameplay mechanics:</color> Mood impact from consuming cheese will depend on quality, from -7 to +15. -->
+  <VCE_Cheese.description>O queijo é um produto lácteo derivado do leite e produzido em uma grande variedade de sabores, texturas e formatos pela coagulação da caseína, uma proteína do leite. É valorizado por ser fácil de transportar, durar bastante e conter altos níveis de gordura, proteína, cálcio e fósforo. É mais compacto e dura mais que o leite.\n\n&lt;color=#E5E54C&gt;Mecânicas de jogo:&lt;/color&gt; O efeito de consumir queijo no humor depende da qualidade e varia de -7 a +15.</VCE_Cheese.description>
+
+  <!-- EN: agave nectar -->
+  <VCE_AgaveNectar.label>néctar de agave</VCE_AgaveNectar.label>
+
+  <!-- EN: A thin and semi-sweet nectar, known for its healing and anti-inflammatory properties. Although healthier than sugar, its high fructose content may be harmful if taken constantly. -->
+  <VCE_AgaveNectar.description>Um néctar ralo e levemente adocicado, conhecido por suas propriedades cicatrizantes e anti-inflamatórias. Embora seja mais saudável que o açúcar, seu alto teor de frutose pode fazer mal quando consumido constantemente.</VCE_AgaveNectar.description>
+
+  <!-- EN: chocolate syrup -->
+  <VCE_ChocolateSyrup.label>calda de chocolate</VCE_ChocolateSyrup.label>
+
+  <!-- EN: A mixture of cocoa, water and sugar, forming a bitter-sweet pourable syrup, perfect for coating desserts. While still not good for you, chocolate syrup is not quite as bad as straight sugar. -->
+  <VCE_ChocolateSyrup.description>Uma mistura de cacau, água e açúcar que forma uma calda agridoce, perfeita para cobrir sobremesas. Ainda faz mal, mas não tanto quanto o açúcar puro.</VCE_ChocolateSyrup.description>
+
+  <!-- EN: digestible resurrector nanites -->
+  <VCE_DigestibleResurrectorNanites.label>nanitas ressuscitadoras comestíveis</VCE_DigestibleResurrectorNanites.label>
+
+  <!-- EN: An extremely high tech glitterworld concoction, unsafe to drink directly due to bitter taste and a mild case of intraventricular hemorrhaging. However, when cooked properly into food, these effects inexplicably seem nullified. Any pawns with this present upon death will immediately be revived as if by miracle. -->
+  <VCE_DigestibleResurrectorNanites.description>Uma mistura de tecnologia extremamente avançada do glittermundo, imprópria para beber diretamente por causa do sabor amargo e de um leve quadro de hemorragia intraventricular. Porém, quando bem incorporados à comida durante o preparo, esses efeitos parecem desaparecer inexplicavelmente. Qualquer pessoa que tenha essas nanitas no organismo ao morrer será revivida imediatamente, como por milagre.</VCE_DigestibleResurrectorNanites.description>
+
+  <!-- EN: insect jelly preserves -->
+  <VCE_InsectJellyPreserves.label>geleia de inseto em conserva</VCE_InsectJellyPreserves.label>
+
+  <!-- EN: Insect jelly cut with sweetener then sealed as a preserve. Very rich and sweet, while being surprisingly healthy. -->
+  <VCE_InsectJellyPreserves.description>Geleia de inseto misturada com adoçante e selada em conserva. É muito rica e doce, além de surpreendentemente saudável.</VCE_InsectJellyPreserves.description>
+
+  <!-- EN: mayo -->
+  <VCE_Mayo.label>maionese</VCE_Mayo.label>
+
+  <!-- EN: A thick emulsion of egg, oil, and other herbs. Mayonnaise, while terrible for you, adds a pleasing tang and is very calorically dense. -->
+  <VCE_Mayo.description>Uma emulsão espessa de ovos, óleo e outras ervas. Apesar de fazer muito mal, a maionese acrescenta um toque ácido agradável e é muito calórica.</VCE_Mayo.description>
+
+  <!-- EN: spices -->
+  <VCE_RawSpices.label>especiarias</VCE_RawSpices.label>
+
+  <!-- EN: A variety of aromatic and pungent spices, adds several sharp notes on the tongue and puts a bit of a pep in your step. -->
+  <VCE_RawSpices.description>Uma variedade de especiarias aromáticas e picantes que acrescenta sabores intensos ao paladar e dá um pouco mais de energia.</VCE_RawSpices.description>
+
+  <!-- EN: sugar -->
+  <VCE_RawSugar.label>açúcar</VCE_RawSugar.label>
+
+  <!-- EN: Simple crystalline cane sugar, adds a much desired sweetness. Sugar is easily converted into energy by the body, which may result in a nice burst of energy. -->
+  <VCE_RawSugar.description>Açúcar de cana cristalino e simples, que acrescenta a doçura tão desejada. O corpo converte o açúcar em energia com facilidade, o que pode proporcionar uma boa dose de disposição.</VCE_RawSugar.description>
+
+  <!-- EN: salt -->
+  <VCE_Salt.label>sal</VCE_Salt.label>
+
+  <!-- EN: Rock salt, like common salt, enhances the flavor profile of other ingredients it is cooked with. -->
+  <VCE_Salt.description>O sal-gema, assim como o sal comum, realça o sabor dos outros ingredientes com que é preparado.</VCE_Salt.description>
+
+  <!-- EN: smokeleaf butter -->
+  <VCE_SmokeleafButter.label>manteiga de Folha de fumo</VCE_SmokeleafButter.label>
+
+  <!-- EN: A thickened, fatty substance made by churning milk into very thick cream, combining with smokeleaf oil and allowing it to set. Very unhealthy and hits quite a bit harder than a joint. -->
+  <VCE_SmokeleafButter.description>Uma substância espessa e gordurosa feita ao bater leite até virar um creme bem grosso, misturá-lo com óleo de Folha de fumo e deixá-lo endurecer. Faz muito mal e seu efeito é bem mais forte que o de um cigarro de Folha de fumo.</VCE_SmokeleafButter.description>
+
+  <!-- EN: deep fried meat -->
+  <VCE_DeepFriedBigMeat.label>carne empanada frita</VCE_DeepFriedBigMeat.label>
+
+  <!-- EN: Meat tenderized then filleted, then rolled in a thick batter before being submerged in hot oil and fried. The end result is a crunchy, unhealthy yet tasty soul food - Not quite as filling as a meal, but very pleasing to eat. Deep frying meats in this matter reduces shelf life as well unless frozen. -->
+  <VCE_DeepFriedBigMeat.description>Carne amaciada e cortada em filés, depois envolvida em uma massa grossa, mergulhada em óleo quente e frita. O resultado é uma comida crocante, pouco saudável, mas saborosa e reconfortante. Não sustenta tanto quanto uma refeição, mas é muito prazerosa de comer. Fritar a carne dessa forma também reduz seu tempo de conservação, a menos que seja congelada.</VCE_DeepFriedBigMeat.description>
+
+  <!-- EN: deep fried fish -->
+  <VCE_DeepFriedFish.label>peixe empanado frito</VCE_DeepFriedFish.label>
+
+  <!-- EN: Fish tenderized then filleted, then rolled in a thick batter before being submerged in hot oil and fried. The end result is a crunchy, unhealthy yet tasty soul food - Not quite as filling as a meal, but very pleasing to eat. Deep frying meats in this matter reduces shelf life as well unless frozen -->
+  <VCE_DeepFriedFish.description>Peixe amaciado e cortado em filés, depois envolvido em uma massa grossa, mergulhado em óleo quente e frito. O resultado é uma comida crocante, pouco saudável, mas saborosa e reconfortante. Não sustenta tanto quanto uma refeição, mas é muito prazerosa de comer. Fritar dessa forma também reduz seu tempo de conservação, a menos que seja congelado.</VCE_DeepFriedFish.description>
+
+  <!-- EN: deep fried vegetables -->
+  <VCE_DeepFriedVegetables.label>vegetais empanados fritos</VCE_DeepFriedVegetables.label>
+
+  <!-- EN: Vegetables julienned then patted dry before being dunked into hot oil until golden brown. As crispy and pleasing as they are, these deep fried treats are not as filling as a normal meal, nor as healthy. Deep frying vegetables in this matter reduces shelf life as well unless frozen. -->
+  <VCE_DeepFriedVegetables.description>Vegetais cortados em tiras finas e secos com batidinhas antes de serem mergulhados em óleo quente até ficarem dourados. Apesar de crocantes e saborosos, esses petiscos fritos não sustentam tanto quanto uma refeição comum e são menos saudáveis. Fritar os vegetais dessa forma também reduz seu tempo de conservação, a menos que sejam congelados.</VCE_DeepFriedVegetables.description>
+
+  <!-- EN: fine dessert -->
+  <VCE_FineDessert.label>sobremesa boa</VCE_FineDessert.label>
+
+  <!-- EN: A complex dessert assembled with care from a wide selection of ingredients. -->
+  <VCE_FineDessert.description>Uma sobremesa elaborada com cuidado, usando uma grande variedade de ingredientes.</VCE_FineDessert.description>
+
+  <!-- EN: gourmet dessert -->
+  <VCE_GourmetDessert.label>sobremesa gourmet</VCE_GourmetDessert.label>
+
+  <!-- EN: A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity dessert. -->
+  <VCE_GourmetDessert.description>Uma obra de arte culinária, preparada e apresentada de forma refinada e até elaborada. Apesar da pequena quantidade, esta sobremesa tem uma apresentação visualmente equilibrada.</VCE_GourmetDessert.description>
+
+  <!-- EN: lavish dessert -->
+  <VCE_LavishDessert.label>sobremesa luxuosa</VCE_LavishDessert.label>
+
+  <!-- EN: A masterpiece of the culinary arts, this dessert nourishes the body, mind, and soul. -->
+  <VCE_LavishDessert.description>Uma obra-prima da culinária que nutre o corpo, a mente e a alma.</VCE_LavishDessert.description>
+
+  <!-- EN: simple dessert -->
+  <VCE_SimpleDessert.label>sobremesa simples</VCE_SimpleDessert.label>
+
+  <!-- EN: A simple dessert quickly made from a few fruits and other ingredients. -->
+  <VCE_SimpleDessert.description>Uma sobremesa simples, preparada rapidamente com algumas frutas e outros ingredientes.</VCE_SimpleDessert.description>
+
+  <!-- EN: gourmet meal -->
+  <VCE_MealGourmet.label>refeição gourmet</VCE_MealGourmet.label>
+
+  <!-- EN: A culinary work of art, characterized by refined, even elaborate preparation and presentation. -->
+  <VCE_MealGourmet.description>Uma obra de arte culinária, preparada e apresentada de forma refinada e até elaborada.</VCE_MealGourmet.description>
+
+  <!-- EN: fine grill -->
+  <VCE_FineGrill.label>carne grelhada boa</VCE_FineGrill.label>
+
+  <!-- EN: A complex grilled meat assembled with care from a wide selection of ingredients. Very filling, grilled meats allow people to not feel hunger for a long time. Freezing them ruins this effect. -->
+  <VCE_FineGrill.description>Uma carne grelhada elaborada com cuidado, usando uma grande variedade de ingredientes. Carnes grelhadas sustentam bastante e afastam a fome por muito tempo. Congelá-las acaba com esse efeito.</VCE_FineGrill.description>
+
+  <!-- EN: gourmet grill -->
+  <VCE_GourmetGrill.label>carne grelhada gourmet</VCE_GourmetGrill.label>
+
+  <!-- EN: A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity grilled meat. Very filling, grilled meats allow people to not feel hunger for a long time. Freezing them ruins this effect. -->
+  <VCE_GourmetGrill.description>Uma obra de arte culinária, preparada e apresentada de forma refinada e até elaborada. Apesar da pequena quantidade, esta carne grelhada tem uma apresentação visualmente equilibrada. Carnes grelhadas sustentam bastante e afastam a fome por muito tempo. Congelá-las acaba com esse efeito.</VCE_GourmetGrill.description>
+
+  <!-- EN: lavish grill -->
+  <VCE_LavishGrill.label>carne grelhada luxuosa</VCE_LavishGrill.label>
+
+  <!-- EN: A masterpiece of the culinary arts, this grilled meat nourishes the body, mind, and soul. Very filling, grilled meats allow people to not feel hunger for a long time. Freezing them ruins this effect. -->
+  <VCE_LavishGrill.description>Uma obra-prima da culinária que nutre o corpo, a mente e a alma. Carnes grelhadas sustentam bastante e afastam a fome por muito tempo. Congelá-las acaba com esse efeito.</VCE_LavishGrill.description>
+
+  <!-- EN: ruined fine grill -->
+  <VCE_RuinedFineGrill.label>carne grelhada boa congelada</VCE_RuinedFineGrill.label>
+
+  <!-- EN: A complex grilled meat assembled with care from a wide selection of ingredients. This grill has been frozen, and as such it is still edible but much less filling. It won't provide the "well fed" buff. -->
+  <VCE_RuinedFineGrill.description>Uma carne grelhada elaborada com cuidado, usando uma grande variedade de ingredientes. Esta carne foi congelada e ainda pode ser consumida, mas sustenta bem menos. Não concede o bônus de “bem alimentado”.</VCE_RuinedFineGrill.description>
+
+  <!-- EN: ruined gourmet grill -->
+  <VCE_RuinedGourmetGrill.label>carne grelhada gourmet congelada</VCE_RuinedGourmetGrill.label>
+
+  <!-- EN: A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity grilled meat. This grill has been frozen, and as such it is still edible but much less filling. It won't provide the "well fed" buff. -->
+  <VCE_RuinedGourmetGrill.description>Uma obra de arte culinária, preparada e apresentada de forma refinada e até elaborada. Apesar da pequena quantidade, esta carne grelhada tem uma apresentação visualmente equilibrada. Foi congelada e ainda pode ser consumida, mas sustenta bem menos. Não concede o bônus de “bem alimentado”.</VCE_RuinedGourmetGrill.description>
+
+  <!-- EN: ruined lavish grill -->
+  <VCE_RuinedLavishGrill.label>carne grelhada luxuosa congelada</VCE_RuinedLavishGrill.label>
+
+  <!-- EN: A masterpiece of the culinary arts, this grilled meat nourishes the body, mind, and soul. This grill has been frozen, and as such it is still edible but much less filling. It won't provide the "well fed" buff. -->
+  <VCE_RuinedLavishGrill.description>Uma obra-prima da culinária que nutre o corpo, a mente e a alma. Esta carne foi congelada e ainda pode ser consumida, mas sustenta bem menos. Não concede o bônus de “bem alimentado”.</VCE_RuinedLavishGrill.description>
+
+  <!-- EN: ruined simple grill -->
+  <VCE_RuinedSimpleGrill.label>carne grelhada simples congelada</VCE_RuinedSimpleGrill.label>
+
+  <!-- EN: A simple grilled meat cooked from a few ingredients. This grill has been frozen, and as such it is still edible but much less filling. It won't provide the "well fed" buff. -->
+  <VCE_RuinedSimpleGrill.description>Uma carne grelhada simples, preparada com poucos ingredientes. Esta carne foi congelada e ainda pode ser consumida, mas sustenta bem menos. Não concede o bônus de “bem alimentado”.</VCE_RuinedSimpleGrill.description>
+
+  <!-- EN: simple grill -->
+  <VCE_SimpleGrill.label>carne grelhada simples</VCE_SimpleGrill.label>
+
+  <!-- EN: A simple grilled meat cooked from a few ingredients. Very filling, grilled meats allow people to not feel hunger for a long time. Freezing them ruins this effect. -->
+  <VCE_SimpleGrill.description>Uma carne grelhada simples, preparada com poucos ingredientes. Carnes grelhadas sustentam bastante e afastam a fome por muito tempo. Congelá-las acaba com esse efeito.</VCE_SimpleGrill.description>
+
+  <!-- EN: flour -->
+  <VCE_Flour.label>farinha</VCE_Flour.label>
+
+  <!-- EN: Wheat flour, used in baking. Wheat flour takes a very long time to go bad, if stored in a dry environment. It was produced by wheat that has been genetically engineered to gently break into flour with a mere touch. -->
+  <VCE_Flour.description>Farinha de trigo usada em assados. Se armazenada em local seco, demora muito para estragar. É produzida com trigo geneticamente modificado para se desfazer delicadamente em farinha com um simples toque.</VCE_Flour.description>
+
+  <!-- EN: fine soup -->
+  <VCE_CookedSoupFine.label>sopa boa</VCE_CookedSoupFine.label>
+
+  <!-- EN: A complex soup assembled with care from a wide selection of ingredients. -->
+  <VCE_CookedSoupFine.description>Uma sopa elaborada com cuidado, usando uma grande variedade de ingredientes.</VCE_CookedSoupFine.description>
+
+  <!-- EN: gourmet soup -->
+  <VCE_CookedSoupGourmet.label>sopa gourmet</VCE_CookedSoupGourmet.label>
+
+  <!-- EN: A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity soup. -->
+  <VCE_CookedSoupGourmet.description>Uma obra de arte culinária, preparada e apresentada de forma refinada e até elaborada. Apesar da pequena quantidade, esta sopa tem uma apresentação visualmente equilibrada.</VCE_CookedSoupGourmet.description>
+
+  <!-- EN: lavish soup -->
+  <VCE_CookedSoupLavish.label>sopa luxuosa</VCE_CookedSoupLavish.label>
+
+  <!-- EN: A masterpiece of the culinary arts, this soup nourishes the body, mind, and soul. -->
+  <VCE_CookedSoupLavish.description>Uma obra-prima da culinária que nutre o corpo, a mente e a alma.</VCE_CookedSoupLavish.description>
+
+  <!-- EN: simple soup -->
+  <VCE_CookedSoupSimple.label>sopa simples</VCE_CookedSoupSimple.label>
+
+  <!-- EN: A simple soup slow cooked from a few ingredients. -->
+  <VCE_CookedSoupSimple.description>Uma sopa simples, cozida lentamente com poucos ingredientes.</VCE_CookedSoupSimple.description>
+
+  <!-- EN: uncooked fine soup -->
+  <VCE_UncookedSoupFine.label>sopa boa crua</VCE_UncookedSoupFine.label>
+
+  <!-- EN: An uncooked fine soup. This needs to be cooked in an electric pot to be edible. -->
+  <VCE_UncookedSoupFine.description>Uma sopa boa ainda crua. Precisa ser cozida em uma panela elétrica para ficar própria para consumo.</VCE_UncookedSoupFine.description>
+
+  <!-- EN: uncooked gourmet soup -->
+  <VCE_UncookedSoupGourmet.label>sopa gourmet crua</VCE_UncookedSoupGourmet.label>
+
+  <!-- EN: An uncooked gourmet soup. This needs to be cooked in an electric pot to be edible. -->
+  <VCE_UncookedSoupGourmet.description>Uma sopa gourmet ainda crua. Precisa ser cozida em uma panela elétrica para ficar própria para consumo.</VCE_UncookedSoupGourmet.description>
+
+  <!-- EN: uncooked lavish soup -->
+  <VCE_UncookedSoupLavish.label>sopa luxuosa crua</VCE_UncookedSoupLavish.label>
+
+  <!-- EN: An uncooked lavish soup. This needs to be cooked in an electric pot to be edible. -->
+  <VCE_UncookedSoupLavish.description>Uma sopa luxuosa ainda crua. Precisa ser cozida em uma panela elétrica para ficar própria para consumo.</VCE_UncookedSoupLavish.description>
+
+  <!-- EN: uncooked simple soup -->
+  <VCE_UncookedSoupSimple.label>sopa simples crua</VCE_UncookedSoupSimple.label>
+
+  <!-- EN: An uncooked simple soup. This needs to be cooked in an electric pot to be edible. -->
+  <VCE_UncookedSoupSimple.description>Uma sopa simples ainda crua. Precisa ser cozida em uma panela elétrica para ficar própria para consumo.</VCE_UncookedSoupSimple.description>
+
+  <!-- EN: allspice plant -->
+  <VCE_Allspice.label>pimenteira-da-jamaica</VCE_Allspice.label>
+
+  <!-- EN: An anomalous, leafy vine bearing tiny unpalatable green fruits. When ground finely during cooking the fruits release a complex, peppery flavor, perfect for spicing dishes. -->
+  <VCE_Allspice.description>Uma trepadeira incomum e frondosa, que produz pequenos frutos verdes e pouco palatáveis. Quando moídos durante o preparo dos alimentos, os frutos liberam um sabor complexo e apimentado, perfeito para temperar pratos.</VCE_Allspice.description>
+
+  <!-- EN: sugarcane plant -->
+  <VCE_Sugarcane.label>cana-de-açúcar</VCE_Sugarcane.label>
+
+  <!-- EN: A thick, tall, tropical grass with jointed stems. While not exactly the most nutritious thing to eat on its own, this genetically modified sugarcane is easily milled into sugar and then used for a variety of culinary creations - Particularly desserts. -->
+  <VCE_Sugarcane.description>Uma gramínea tropical alta e robusta, com caules articulados. Não é exatamente muito nutritiva por si só, mas esta cana-de-açúcar geneticamente modificada pode ser moída facilmente para produzir açúcar, usado em diversas criações culinárias — especialmente sobremesas.</VCE_Sugarcane.description>
+
+  <!-- EN: wheat plant -->
+  <VCE_Wheat.label>trigo</VCE_Wheat.label>
+
+  <!-- EN: An amber cereal plant that takes almost an entire growing season to come to fruition. While fragile and time-consuming, this wheat has been genetically engineered to gently break into flour with a mere touch. -->
+  <VCE_Wheat.description>Um cereal de cor âmbar que leva quase toda a estação de cultivo para amadurecer. Embora seja frágil e demore para crescer, este trigo foi geneticamente modificado para se desfazer delicadamente em farinha com um simples toque.</VCE_Wheat.description>
+
+</LanguageData>

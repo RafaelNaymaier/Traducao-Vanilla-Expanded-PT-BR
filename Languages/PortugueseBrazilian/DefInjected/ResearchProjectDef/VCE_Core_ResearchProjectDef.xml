@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: canning -->
+  <VCE_Canning.label>conservas</VCE_Canning.label>
+  <!-- EN: Canning is a method of preserving food in which the food contents are processed and sealed in an airtight container (jars like Mason jars, and steel and tin cans). Canning provides a shelf life of several years. A freeze-dried canned product, such as canned dried lentils, could last as long as 30 years in an edible state. This research gives access to the canning machine. -->
+  <VCE_Canning.description>O enlatamento é um método de conservação de alimentos em que o conteúdo é processado e selado em recipientes herméticos, como potes de vidro e latas de aço ou estanho. Os alimentos enlatados podem durar vários anos. Um produto liofilizado e enlatado, como lentilhas secas, pode permanecer comestível por até 30 anos. Esta pesquisa desbloqueia a máquina de conservas.</VCE_Canning.description>
+  <!-- EN:
+    <li>subject->the vaults of flavor</li>
+    <li>subject_story->revolutionized food preservation through canning, extending the bounty of the harvest</li>
+    <li>subject_story->mastered the science of sealing freshness and taste, ensuring nourishment year-round</li>
+    <li>subject_story->introduced the canning machine, a key to unlocking the potential of prolonged food storage</li>
+    <li>subject_gerund->preserving the essence of the seasons within every jar and can</li>
+  -->
+  <VCE_Canning.generalRules.rulesStrings>
+    <li>subject->os cofres de sabor</li>
+    <li>subject_story->revolucionaram a conservação de alimentos com o enlatamento e prolongaram a abundância das colheitas</li>
+    <li>subject_story->dominaram a ciência de preservar o frescor e o sabor, garantindo alimento o ano todo</li>
+    <li>subject_story->introduziram a máquina de conservas, uma chave para prolongar o armazenamento de alimentos</li>
+    <li>subject_gerund->preservando a essência das estações em cada pote e lata</li>
+  </VCE_Canning.generalRules.rulesStrings>
+
+  <!-- EN: cheese making -->
+  <VCE_CheeseMaking.label>produção de queijo</VCE_CheeseMaking.label>
+  <!-- EN: Cheesemaking (or caseiculture) is the craft of making cheese. The production of cheese, like many other food preservation processes, allows the nutritional and economic value of milk to be preserved in concentrated form. Cheesemaking allows the production of the cheese with diverse flavors and consistencies. This research gives access to the cheese press. -->
+  <VCE_CheeseMaking.description>A produção de queijo é a arte de transformar leite em queijo. Assim como outros métodos de conservação, permite preservar o valor nutricional e econômico do leite de forma concentrada. Também possibilita produzir queijos de diversos sabores e consistências. Esta pesquisa desbloqueia a prensa de queijo.</VCE_CheeseMaking.description>
+  <!-- EN:
+    <li>subject->alchemy of milk</li>
+    <li>subject_story->transformed the humble origins of milk into the rich complexity of cheese</li>
+    <li>subject_story->cultivated an array of cheeses, each a testament to the craft and culture of cheesemaking</li>
+    <li>subject_story->designed the cheese press, squeezing out new traditions and tastes from an ancient practice</li>
+    <li>subject_gerund->crafting cultures and flavors in the artful creation of cheese</li>
+  -->
+  <VCE_CheeseMaking.generalRules.rulesStrings>
+    <li>subject->a alquimia do leite</li>
+    <li>subject_story->transformaram a simplicidade do leite na rica complexidade do queijo</li>
+    <li>subject_story->criaram diversos queijos, cada um testemunho da arte e da cultura da produção queijeira</li>
+    <li>subject_story->projetaram a prensa de queijo e extraíram novas tradições e sabores de uma prática ancestral</li>
+    <li>subject_gerund->criando culturas e sabores na arte de produzir queijo</li>
+  </VCE_CheeseMaking.generalRules.rulesStrings>
+
+  <!-- EN: food condiments -->
+  <VCE_CondimentsResearch.label>condimentos</VCE_CondimentsResearch.label>
+  <!-- EN: A condiment is a spice, sauce, or preparation that is added to food, either after or during cooking, to impart a specific flavor, to enhance the flavor, or to complement the dish. All condiments are created at the condiment prep table. -->
+  <VCE_CondimentsResearch.description>Condimento é uma especiaria, molho ou preparo adicionado à comida durante ou depois do cozimento para dar um sabor específico, realçar o sabor ou complementar o prato. Todos os condimentos são preparados na mesa de preparo de condimentos.</VCE_CondimentsResearch.description>
+  <!-- EN:
+    <li>subject->flavors of distinction</li>
+    <li>subject_story->unlocked the secrets of enhancing flavor through the creation of diverse condiments</li>
+    <li>subject_story->pioneered the use of herbs, spices, and sauces to transform simple meals into culinary experiences</li>
+    <li>subject_story->cultivated a rich culture of taste, encouraging culinary experimentation and innovation</li>
+    <li>subject_gerund->elevating the art of flavor through condiment mastery</li>
+  -->
+  <VCE_CondimentsResearch.generalRules.rulesStrings>
+    <li>subject->sabores distintos</li>
+    <li>subject_story->desvendaram os segredos de realçar sabores por meio da criação de diversos condimentos</li>
+    <li>subject_story->foram pioneiros no uso de ervas, especiarias e molhos para transformar refeições simples em experiências culinárias</li>
+    <li>subject_story->cultivaram uma rica cultura de sabores, incentivando experimentação e inovação culinárias</li>
+    <li>subject_gerund->elevando a arte do sabor com o domínio dos condimentos</li>
+  </VCE_CondimentsResearch.generalRules.rulesStrings>
+
+  <!-- EN: deep frying -->
+  <VCE_DeepFrying.label>fritura por imersão</VCE_DeepFrying.label>
+  <!-- EN: Deep frying (also referred to as deep fat frying) is a cooking method in which food is submerged in hot fat, most commonly oil, as opposed to the shallow oil used in conventional frying done in a frying pan. This research gives access to the deep fryer. -->
+  <VCE_DeepFrying.description>A fritura por imersão é um método de cozimento em que o alimento é mergulhado em gordura quente, geralmente óleo, ao contrário da pequena quantidade de óleo usada na fritura convencional em frigideira. Esta pesquisa desbloqueia a fritadeira por imersão.</VCE_DeepFrying.description>
+  <!-- EN:
+    <li>subject->the golden crunch</li>
+    <li>subject_story->discovered the transformative effect of deep frying, enveloping foods in a crispy, golden exterior</li>
+    <li>subject_story->engineered the deep fryer, a marvel of culinary technology, to achieve consistent and perfect results</li>
+    <li>subject_story->elevated the simple act of frying into a culinary craft, celebrated across cultures</li>
+    <li>subject_gerund->delving into the depths of flavor with the magic of deep frying</li>
+  -->
+  <VCE_DeepFrying.generalRules.rulesStrings>
+    <li>subject->a crocância dourada</li>
+    <li>subject_story->descobriram o efeito transformador da fritura por imersão, envolvendo os alimentos em uma crosta dourada e crocante</li>
+    <li>subject_story->projetaram a fritadeira por imersão, uma maravilha da tecnologia culinária que garante resultados consistentes e perfeitos</li>
+    <li>subject_story->transformaram o simples ato de fritar em uma arte culinária celebrada em várias culturas</li>
+    <li>subject_gerund->explorando as profundezas do sabor com a magia da fritura por imersão</li>
+  </VCE_DeepFrying.generalRules.rulesStrings>
+
+  <!-- EN: grilling -->
+  <VCE_Grilling.label>grelhados</VCE_Grilling.label>
+  <!-- EN: Grilling is a form of cooking that involves dry heat applied to the surface of food, commonly from above, below or from the side. Grilling usually involves a significant amount of direct, radiant heat, and tends to be used for cooking meat and vegetables quickly. This research gives access to the grill. -->
+  <VCE_Grilling.description>Grelhar é um método de cozimento que aplica calor seco à superfície dos alimentos, geralmente por cima, por baixo ou pelas laterais. Costuma usar bastante calor direto e radiante para preparar rapidamente carnes e vegetais. Esta pesquisa desbloqueia a churrasqueira.</VCE_Grilling.description>
+  <!-- EN:
+    <li>subject->the primal art of fire</li>
+    <li>subject_story->embraced the primal connection between fire and food, perfecting the technique of grilling</li>
+    <li>subject_story->transformed the act of cooking into a celebration of flavor, texture, and aroma</li>
+    <li>subject_story->innovated with designs for grills that enhance the natural qualities of meats and vegetables</li>
+    <li>subject_gerund->searing perfection into every meal with the mastery of grilling</li>
+  -->
+  <VCE_Grilling.generalRules.rulesStrings>
+    <li>subject->a arte primordial do fogo</li>
+    <li>subject_story->abraçaram a ligação primordial entre fogo e comida e aperfeiçoaram a técnica de grelhar</li>
+    <li>subject_story->transformaram o ato de cozinhar em uma celebração de sabor, textura e aroma</li>
+    <li>subject_story->inovaram nos projetos de churrasqueiras para realçar as qualidades naturais de carnes e vegetais</li>
+    <li>subject_gerund->selando a perfeição em cada refeição com o domínio da grelha</li>
+  </VCE_Grilling.generalRules.rulesStrings>
+
+  <!-- EN: soup cooking -->
+  <VCE_SoupCooking.label>preparo de sopas</VCE_SoupCooking.label>
+  <!-- EN: Soup is a primarily liquid food, generally served warm or hot, that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted. This research also gives access to the electric pot necessary to cook soups. -->
+  <VCE_SoupCooking.description>Sopa é um alimento predominantemente líquido, geralmente servido morno ou quente, feito com carne ou vegetais combinados com caldo ou água. Sopas quentes são preparadas fervendo ingredientes sólidos em um líquido até que seus sabores sejam extraídos. Esta pesquisa também desbloqueia a panela elétrica necessária para preparar sopas.</VCE_SoupCooking.description>
+  <!-- EN:
+    <li>subject->the essence of nourishment</li>
+    <li>subject_story->mastered the delicate balance of ingredients to create soups that comfort and heal</li>
+    <li>subject_story->introduced the electric pot, revolutionizing soup preparation with efficiency and precision</li>
+    <li>subject_story->expanded the culinary repertoire, exploring the depths of flavor achievable in liquid form</li>
+    <li>subject_gerund->crafting the soul of cuisine in every pot of soup</li>
+  -->
+  <VCE_SoupCooking.generalRules.rulesStrings>
+    <li>subject->a essência do sustento</li>
+    <li>subject_story->dominaram o delicado equilíbrio dos ingredientes e criaram sopas que confortam e curam</li>
+    <li>subject_story->introduziram a panela elétrica, revolucionando o preparo de sopas com eficiência e precisão</li>
+    <li>subject_story->ampliaram o repertório culinário e exploraram as profundezas dos sabores em forma líquida</li>
+    <li>subject_gerund->criando a alma da culinária em cada panela de sopa</li>
+  </VCE_SoupCooking.generalRules.rulesStrings>
+</LanguageData>

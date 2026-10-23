@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+About/About.xml text eol=lf
+Languages/PortugueseBrazilian/**/*.xml text eol=lf
