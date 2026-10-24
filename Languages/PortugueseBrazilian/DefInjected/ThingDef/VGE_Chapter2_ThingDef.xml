@@ -1106,4 +1106,48 @@ Uma gravinave pode suportar até seis propulsores grandes.</VGE_LargeElectricThr
   <VGE_GravshipStructuralBeam.description>Uma viga estrutural em torno da qual é possível construir uma gravinave. Ela amplia a área de construção da subestrutura para um quadrado de 5×5. Se for destruída, as vigas adjacentes desabarão.</VGE_GravshipStructuralBeam.description>
   <VGE_EngineeringCommand_LinkLine.label>partícula</VGE_EngineeringCommand_LinkLine.label>
   <VGE_EngineeringCommand_Mote.label>partícula</VGE_EngineeringCommand_Mote.label>
+
+  <!-- EN: siegeworm -->
+  <VFEI2_Siegeworm.label>minhoca de cerco</VFEI2_Siegeworm.label>
+  <!-- EN: A massive, heavily muscled worm anchored deep within a fortified mound of reinforced creep, acting as living siege artillery. The siegeworm regurgitates and forcefully ejects dense, boulder-sized chunks of hardened insectoid biomass and rock. It possesses the necessary strength to launch these projectiles across extreme distances, capable of bombarding adjacent map tiles and even targeting orbiting enemy gravships, provided it’s regularly fed with insect jelly. If starved, the mound will gradually deteriorate. Once completely deteriorated, the siegeworm will retreat back into the deephive tunnels. -->
+  <VFEI2_Siegeworm.description>Uma minhoca massiva e fortemente musculosa ancorada profundamente em um monte fortificado de teia reforçada, agindo como artilharia de cerco viva. A minhoca de cerco regurgita e ejeta com força pedaços densos do tamanho de rochas de biomassa insetoide endurecida e pedra. Ela possui a força necessária para lançar esses projéteis a distâncias extremas, sendo capaz de bombardear tiles de mapa adjacentes e até mesmo alvejar naves gravitacionais inimigas em órbita, desde que seja alimentada regularmente com geleia de inseto. Se faminta, o monte se deteriorará gradualmente. Uma vez completamente deteriorada, a minhoca de cerco recuará de volta para os túneis da colmeia profunda.</VFEI2_Siegeworm.description>
+  <!-- EN: Insect jelly -->
+  <VFEI2_Siegeworm.comps.CompRefuelable.fuelGizmoLabel>Geleia de inseto</VFEI2_Siegeworm.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Insect jelly -->
+  <VFEI2_Siegeworm.comps.CompRefuelable.fuelLabel>Geleia de inseto</VFEI2_Siegeworm.comps.CompRefuelable.fuelLabel>
+  
+  <!-- EN: siegeworm -->
+  <VFEI2_Siegeworm_Gun.label>minhoca de cerco</VFEI2_Siegeworm_Gun.label>
+  <!-- EN: A massive, heavily muscled worm anchored deep within a fortified mound of reinforced creep, acting as living siege artillery. The siegeworm regurgitates and forcefully ejects dense, boulder-sized chunks of hardened insectoid biomass and rock. It possesses the necessary strength to launch these projectiles across extreme distances, capable of bombarding adjacent map tiles and even targeting orbiting enemy gravships, provided it’s regularly fed with insect jelly. If starved, the mound will gradually deteriorate. Once completely deteriorated, the siegeworm will retreat back into the deephive tunnels. -->
+  <VFEI2_Siegeworm_Gun.description>Uma minhoca massiva e fortemente musculosa ancorada profundamente em um monte fortificado de teia reforçada, agindo como artilharia de cerco viva. A minhoca de cerco regurgita e ejeta com força pedaços densos do tamanho de rochas de biomassa insetoide endurecida e pedra. Ela possui a força necessária para lançar esses projéteis a distâncias extremas, sendo capaz de bombardear tiles de mapa adjacentes e até mesmo alvejar naves gravitacionais inimigas em órbita, desde que seja alimentada regularmente com geleia de inseto. Se faminta, o monte se deteriorará gradualmente. Uma vez completamente deteriorada, a minhoca de cerco recuará de volta para os túneis da colmeia profunda.</VFEI2_Siegeworm_Gun.description>
+  <!-- EN: siegeworm -->
+  <VFEI2_Siegeworm_Gun.verbs.Verb_ShootWithWorldTargeting.label>minhoca de cerco</VFEI2_Siegeworm_Gun.verbs.Verb_ShootWithWorldTargeting.label>
+  
+  <!-- EN: siegeworm projectile -->
+  <VFEI2_Siegeworm_Projectile.label>projétil de minhoca de cerco</VFEI2_Siegeworm_Projectile.label>
+  
+  <!-- EN: artificial exo hive -->
+  <VFEI2_VGE_ArtificialExoHive.label>exocolmeia artificial</VFEI2_VGE_ArtificialExoHive.label>
+  <!-- EN: An artificially constructed hive of giant insects. It is capable of spawning various exoinsectoids over time, as well as some amount of insect jelly. It requires regular maintenance, and constructing too many hives near each other will increase the maintenance required. -->
+  <VFEI2_VGE_ArtificialExoHive.description>Uma colmeia de insetos gigantes construída artificialmente. Ela é capaz de gerar vários exoinsetoides ao longo do tempo, bem como certa quantidade de geleia de inseto. Ela requer manutenção regular, e construir muitas colmeias perto umas das outras aumentará a manutenção necessária.</VFEI2_VGE_ArtificialExoHive.description>
+  
+  <!-- EN: subcreeper -->
+  <VFEI2_VGE_Subcreeper.label>gerador de subcrosta</VFEI2_VGE_Subcreeper.label>
+  <!-- EN: A specialized hive-like structure typically associated with exoinsectoid hives. It acts as an anchor point for subcreep, allowing worker insectoids to cultivate and expand the hive’s influence across gravflight capable vessels. By stabilizing the gravity field's interaction with the subcreep, this structure enables the construction of extensive insectoid platforms that would otherwise collapse in orbit and during launch. -->
+  <VFEI2_VGE_Subcreeper.description>Uma estrutura especializada semelhante a uma colmeia, tipicamente associada a colmeias de exoinsetoides. Ela age como um ponto de ancoragem para a subcrosta, permitindo que insetoides operários cultivem e expandam a influência da colmeia em embarcações capazes de voo gravitacional. Ao estabilizar a interação do campo de gravidade com a subcrosta, esta estrutura permite a construção de extensas plataformas insetoides que de outra forma colapsariam em órbita e durante o lançamento.</VFEI2_VGE_Subcreeper.description>
+
+  <!-- EN: nullipede thumper -->
+  <VFEI2_Thumper_Nullipede.label>bate-estaca de nulípedes</VFEI2_Thumper_Nullipede.label>
+  <!-- EN: A vibration-producing thumper device. When activated, it starts emitting powerful thump pulses, which will attract an exoinsectoid nullipede meteor attack with its escorts. If you can defeat it, you can collect a special pherocore from its corpse. The thumps destabilise the thumper, so this building can only be used once. Since it attracts an exoinsectoid attack, it can only be used in orbit. -->
+  <VFEI2_Thumper_Nullipede.description>Um dispositivo bate-estaca produtor de vibrações. Quando ativado, ele começa a emitir poderosos pulsos de batida, o que atrairá um ataque de meteoro de exoinsetoides nulípedes com suas escoltas. Se você conseguir derrotá-lo, poderá coletar um ferocore especial de seu cadáver. As batidas desestabilizam o bate-estaca, portanto esta construção só pode ser usada uma vez. Como atrai um ataque de exoinsetoides, só pode ser usado em órbita.</VFEI2_Thumper_Nullipede.description>
+  <!-- EN: Activate thumper -->
+  <VFEI2_Thumper_Nullipede.comps.CompUsable.useLabel>ativar bate-estaca</VFEI2_Thumper_Nullipede.comps.CompUsable.useLabel>
+
+  <!-- EN: exo pherocore -->
+  <VFEI2_PherocoreExo.label>exo feronúcleo</VFEI2_PherocoreExo.label>
+  <!-- EN: A pheromone controlling micro-organ. It is necessary to construct certain types of insectoid hives. Pherocores have been embedded deep into the brains of geneline leaders which allowed ancient civilizations to control the hives.\n\nThis pherocore belongs to the exoinsectoid geneline that evolved in the vacuum of space, known for their vacuum resistance and endurance. -->
+  <VFEI2_PherocoreExo.description>Um micro-órgão controlador de feromônios. É necessário para construir certos tipos de colmeias de insetoides. Ferocores foram embutidos profundamente nos cérebros de líderes de linhagem genética, o que permitia que civilizações antigas controlassem as colmeias.\n\nEste ferocore pertence à linhagem genética de exoinsetoides que evoluiu no vácuo do espaço, conhecidos por sua resistência ao vácuo e vigor.</VFEI2_PherocoreExo.description>
+  <!-- EN: Use {0_labelShort} to increase the size of the hive -->
+  <VFEI2_PherocoreExo.comps.CompUsable.useLabel>usar {0_labelShort} para aumentar o tamanho da colmeia</VFEI2_PherocoreExo.comps.CompUsable.useLabel>
+
 </LanguageData>

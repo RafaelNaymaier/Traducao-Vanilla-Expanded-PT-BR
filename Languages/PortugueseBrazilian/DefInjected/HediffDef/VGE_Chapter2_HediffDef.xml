@@ -30,4 +30,45 @@
   <VFEI2_ExtremeRegeneration_Inactive.label>regeneração extrema (inativa)</VFEI2_ExtremeRegeneration_Inactive.label>
   <!-- EN: This creature is capable of instantly regenerating all wounds. Exposure to fire will temporarily stop the regeneration ability. -->
   <VFEI2_ExtremeRegeneration_Inactive.description>Esta criatura consegue regenerar todos os ferimentos instantaneamente. A exposição ao fogo interrompe temporariamente essa capacidade.</VFEI2_ExtremeRegeneration_Inactive.description>
+  <!-- EN: nullipede spawn -->
+  <VFEI2_NullipedeSpawn.label>cria de nulípede</VFEI2_NullipedeSpawn.label>
+  <!-- EN: A gestating, insectoid spawn. Starting from a small egg, it will quickly absorb nutrients and grow, slowly causing more pain to the host. It will quickly take control of the nervous system, grow, and extend throughout the host's body until it is ready to emerge through the rib cage, ultimately killing the host. During its growth, the spawn absorbs memories of the host, which will make the insectoid friendly to your colony. -->
+  <VFEI2_NullipedeSpawn.description>Uma cria insetoide em gestação. Começando de um pequeno ovo, ela absorverá nutrientes rapidamente e crescerá, causando cada vez mais dor ao hospedeiro. Ela assumirá rapidamente o controle do sistema nervoso, crescendo e se estendendo por todo o corpo do hospedeiro até estar pronta para emergir pela caixa torácica, matando o hospedeiro no processo. Durante seu crescimento, a cria absorve memórias do hospedeiro, o que tornará o insetoide amigável à sua colônia.</VFEI2_NullipedeSpawn.description>
+  <!-- EN: egg -->
+  <VFEI2_NullipedeSpawn.stages.egg.label>ovo</VFEI2_NullipedeSpawn.stages.egg.label>
+  <!-- EN: larva -->
+  <VFEI2_NullipedeSpawn.stages.larva.label>larva</VFEI2_NullipedeSpawn.stages.larva.label>
+  <!-- EN: pupa -->
+  <VFEI2_NullipedeSpawn.stages.pupa.label>pupa</VFEI2_NullipedeSpawn.stages.pupa.label>
+  <!-- EN: juvenile -->
+  <VFEI2_NullipedeSpawn.stages.juvenile.label>jovem</VFEI2_NullipedeSpawn.stages.juvenile.label>
+
+  <!-- EN: astrofuel production -->
+  <VGE_AstrofuelProduction.label>produção de astrocombustível</VGE_AstrofuelProduction.label>
+  <!-- EN: This person has developed volatile astrofuel sacks resembling a tail, drastically increasing their susceptibility to flame damage. If engulfed in large enough flames or upon death, they erupt in a devastating astrofire explosion. Additionally, these sacks can be "milked" periodically to yield valuable astrofuel. -->
+  <VGE_AstrofuelProduction.description>Esta pessoa desenvolveu bolsas voláteis de astrocombustível semelhantes a uma cauda, aumentando drasticamente sua suscetibilidade a danos por chamas. Se for envolta por chamas grandes o suficiente ou ao morrer, ela erupciona em uma explosão devastadora de astrofogo. Além disso, essas bolsas podem ser ordenhadas periodicamente para produzir astrocombustível valioso.</VGE_AstrofuelProduction.description>
+
+  <!-- EN: microgravity adapted -->
+  <VGE_Floating_Space.label>adaptado à microgravidade</VGE_Floating_Space.label>
+  <!-- EN: While in space, this person moves with enhanced agility, works with greater efficiency, and effortlessly glides across the vacuum of space. -->
+  <VGE_Floating_Space.description>Enquanto estiver no espaço, esta pessoa se move com agilidade aprimorada, trabalha com maior eficiência e desliza sem esforço pelo vácuo do espaço.</VGE_Floating_Space.description>
+
+  <!-- EN: floating organs -->
+  <VGE_FloatingOrgans.label>órgãos flutuantes</VGE_FloatingOrgans.label>
+  <!-- EN: This person lacks the internal connective tissues that normally hold organs in place under planetary gravity. Subjecting them to standard gravity causes their internal organs to shift and sag painfully, resulting in chronic nausea and persistent lethargy. -->
+  <VGE_FloatingOrgans.description>Esta pessoa carece dos tecidos conjuntivos internos que normalmente mantêm os órgãos no lugar sob a gravidade planetária. Submetê-la à gravidade padrão faz com que seus órgãos internos se desloquem e cedam dolorosamente, resultando em náusea crônica e letargia persistente.</VGE_FloatingOrgans.description>
+
+  <!-- EN: nullipede spawn -->
+  <VFEI2_NullipedeSpawn.label>cria de nulípede</VFEI2_NullipedeSpawn.label>
+  <!-- EN: A gestating, insectoid spawn. Starting from a small egg, it will quickly absorb nutrients and grow, slowly causing more pain to the host. It will quickly take control of the nervous system, grow, and extend throughout the host's body until it is ready to emerge through the rib cage, ultimately killing the host. During its growth, the spawn absorbs memories of the host, which will make the insectoid friendly to your colony. -->
+  <VFEI2_NullipedeSpawn.description>Uma cria insetoide em gestação. Começando de um pequeno ovo, ela absorverá nutrientes rapidamente e crescerá, causando cada vez mais dor ao hospedeiro. Ela assumirá rapidamente o controle do sistema nervoso, crescendo e se estendendo por todo o corpo do hospedeiro até estar pronta para emergir pela caixa torácica, matando o hospedeiro no processo. Durante seu crescimento, a cria absorve memórias do hospedeiro, o que tornará o insetoide amigável à sua colônia.</VFEI2_NullipedeSpawn.description>
+  <!-- EN: egg -->
+  <VFEI2_NullipedeSpawn.stages.egg.label>ovo</VFEI2_NullipedeSpawn.stages.egg.label>
+  <!-- EN: larva -->
+  <VFEI2_NullipedeSpawn.stages.larva.label>larva</VFEI2_NullipedeSpawn.stages.larva.label>
+  <!-- EN: pupa -->
+  <VFEI2_NullipedeSpawn.stages.pupa.label>pupa</VFEI2_NullipedeSpawn.stages.pupa.label>
+  <!-- EN: juvenile -->
+  <VFEI2_NullipedeSpawn.stages.juvenile.label>jovem</VFEI2_NullipedeSpawn.stages.juvenile.label>
+
 </LanguageData>

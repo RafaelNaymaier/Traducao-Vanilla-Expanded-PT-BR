@@ -31,4 +31,9 @@
   <!-- EN: An insectoid-made lightweight sponge-goop structure with creep on top that forms the surface of an exohive. Only things on top of this substructure can be lifted by the grav engine's levitation field. This floor must be constructed within range of a grav engine. Supports insectoid structures and significantly hinders non-insectoid movement. -->
   <VGE_Subcreep.description>Uma estrutura leve de esponja viscosa, criada por insetoides e coberta por crosta, que forma a superfície de uma colmeia de exoinsetos. Apenas objetos sobre esta subestrutura podem ser erguidos pelo campo de levitação do motor gravitacional. Este piso deve ser construído ao alcance de um motor gravitacional. Dá suporte a estruturas de insetoides e dificulta bastante o movimento de criaturas que não são insetoides.</VGE_Subcreep.description>
 
+  <!-- EN: subcreep -->
+  <VGE_PlayerSubcreep.label>subcrosta</VGE_PlayerSubcreep.label>
+  <!-- EN: An insectoid-made lightweight sponge-goop structure with creep on top that forms the surface of an exohive. Only things on top of this substructure can be lifted by the grav engine's levitation field. This floor must be constructed within range of a grav engine. Supports insectoid structures and significantly hinders non-insectoid movement. -->
+  <VGE_PlayerSubcreep.description>Uma estrutura leve de gosma esponjosa feita por insetoides com teia por cima que forma a superfície de uma exocolmeia. Apenas coisas em cima desta subestrutura podem ser erguidas pelo campo de levitação do motor gravitacional. Este piso deve ser construído dentro do alcance de um motor gravitacional. Dá suporte a estruturas insetoides e dificulta significativamente o movimento de não insetoides.</VGE_PlayerSubcreep.description>
+
 </LanguageData>
