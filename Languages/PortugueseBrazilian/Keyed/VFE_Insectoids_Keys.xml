@@ -5,8 +5,7 @@
 
   <VFEI_InsectTerritoryScale>Área infestada</VFEI_InsectTerritoryScale>
   <VFEI_Infestation>Infestação</VFEI_Infestation>
-  <VFEI_InfestationTooltip>Indica se este ladrilho está sob os efeitos de uma infestação insetoide.
-  Áreas ao redor de colmeias insetoides costumam estar repletas de insetos, com várias estruturas construídas por eles afetando o ambiente. Infestações são muito mais propensas a ocorrer, e grupos em viagem podem encontrar insetoides vagando.</VFEI_InfestationTooltip>
+  <VFEI_InfestationTooltip>Indica se este ladrilho está sob os efeitos de uma infestação insetoide.\n\nÁreas ao redor de colmeias insetoides costumam estar repletas de insetos, com várias estruturas construídas por eles afetando o ambiente. Infestações são muito mais propensas a ocorrer, e grupos em viagem podem encontrar insetoides vagando.</VFEI_InfestationTooltip>
   <VFEI_Present>Presente</VFEI_Present>
   <VFEI_SettleWarning>Este ladrilho está próximo a uma colmeia insetoide, portanto haverá uma influência insetoide onipresente nele. Infestações ocorrerão a cada {0} dias. Infestações grandes são muito mais prováveis de acontecer e podem ocorrer em qualquer lugar, não apenas em áreas escuras. Megaranhas, espelópodes e megaescaravelhos estão vagando livremente, e caravanas em viagem podem ter que repelir enxames insetoides.</VFEI_SettleWarning>
 
@@ -67,10 +66,7 @@
   <VFEI_BaseTimeBetweenHanHordeWaves>Tempo base entre ondas do modo Horda Han</VFEI_BaseTimeBetweenHanHordeWaves>
   <VFEI_ResearchUnlockedForCompletingWave>{0} foi desbloqueado por completar a onda.</VFEI_ResearchUnlockedForCompletingWave>
   <VFEI_CargoPodsSentForCompletingWave>Cápsulas de carga foram enviadas por completar a onda.</VFEI_CargoPodsSentForCompletingWave>
-  <VFEI_WaveActivityOverlay>Atividade: {0}.
-Multiplicador de tamanho da onda: {1}.
-Tempo antes da onda: {2}.
-Linhagem escolhida: {3}.</VFEI_WaveActivityOverlay>
+  <VFEI_WaveActivityOverlay>Atividade: {0}.\nMultiplicador de tamanho da onda: {1}.\nTempo antes da onda: {2}.\nLinhagem escolhida: {3}.</VFEI_WaveActivityOverlay>
   <VFEI_EnemiesComing>Inimigos vindo:</VFEI_EnemiesComing>
   <VFEI_RequiresFloor>{0_label} precisa de {1} por baixo.</VFEI_RequiresFloor>
   <VFEI2_PatriarchNotTameable>O Patriarca não pode ser domesticado</VFEI2_PatriarchNotTameable>
