@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: inject royal jelly -->
+  <VRE_RoyalJellyInjector.label>injetar geleia real</VRE_RoyalJellyInjector.label>
+  <!-- EN: Inject royal jelly into a willing subject using a specialized injector organ. If the gene carrier's royal jelly is currently regenerating, the injection will not be possible. Injection causes a tiny wound, but when injected, the royal jelly grants the target an immunity boost and a mood boost. -->
+  <VRE_RoyalJellyInjector.description>Injeta geleia real em um sujeito disposto usando um órgão injetor especializado. Se a geleia real do portador do gene estiver se regenerando no momento, a injeção não será possível. A injeção causa um pequeno ferimento, mas, quando injetada, a geleia real concede ao alvo um impulso de imunidade e de humor.</VRE_RoyalJellyInjector.description>
+
+  <!-- EN: locust farglide -->
+  <VFEI2_InsectGlide_Far_Colonists.label>salto distante de gafanhoto</VFEI2_InsectGlide_Far_Colonists.label>
+  <!-- EN: Fly to a distant location that you can or cannot see using a set of gigantic locust wings. Allows the gene carrier to jump over the walls, provided the area they are jumping to is not roofed. -->
+  <VFEI2_InsectGlide_Far_Colonists.description>Voa para um local distante que você pode ou não ver usando um conjunto de asas gigantes de gafanhoto. Permite ao portador do gene saltar sobre as paredes, desde que a área para a qual está saltando não tenha telhado.</VFEI2_InsectGlide_Far_Colonists.description>
+  <!-- EN: locust farglide -->
+  <VFEI2_InsectGlide_Far_Colonists.verbProperties.label>salto distante de gafanhoto</VFEI2_InsectGlide_Far_Colonists.verbProperties.label>
+
+  <!-- EN: breacher charge -->
+  <VFEI2_BreacherCharge_Colonists.label>carga rompedora</VFEI2_BreacherCharge_Colonists.label>
+  <!-- EN: Insector charges towards the target, dealing significant damage to anything on the path. Will destroy any sort of defenses with ease. -->
+  <VFEI2_BreacherCharge_Colonists.description>Insector investe em direção ao alvo, causando dano significativo a qualquer coisa no caminho. Destruirá qualquer tipo de defesa com facilidade.</VFEI2_BreacherCharge_Colonists.description>
+  <!-- EN: breacher charge -->
+  <VFEI2_BreacherCharge_Colonists.verbProperties.label>carga rompedora</VFEI2_BreacherCharge_Colonists.verbProperties.label>
+
+</LanguageData>

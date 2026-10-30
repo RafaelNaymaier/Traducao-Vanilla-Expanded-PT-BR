@@ -16,11 +16,11 @@
   <VRE_FungalRegeneration.description>Esta pessoa é capaz de realizar regeneração fúngica. Os efeitos aumentam de intensidade com o tempo.</VRE_FungalRegeneration.description>
 
   <VRE_GeneInfected.label>infectado geneticamente</VRE_GeneInfected.label>
-  <VRE_GeneInfected.description>Esta pessoa foi vítima de uma infecção genética que alterou seu xenotipo. Isso não pode ser curado.</VRE_GeneInfected.description>
+  <VRE_GeneInfected.description>Esta pessoa foi vítima de uma infecção genética que alterou seu xenótipo. Isso não pode ser curado.</VRE_GeneInfected.description>
   
   <VRE_GeneInfection.label>infecção genética</VRE_GeneInfection.label>
   <VRE_GeneInfection.description>Esta pessoa recebeu um implante de uma cópia de um xenogerme através de um ataque corpo a corpo. Isso desencadeou uma infecção progressiva que, se não for tratada, aplicará este xenogerme nela.</VRE_GeneInfection.description>
-  <VRE_GeneInfection.comps.HediffComp_Discoverable.discoverLetterText>{0} foi acometido por uma infecção genética! Se a infecção não for tratada com sucesso, ele será dolorosamente convertido no xenotipo da pessoa que o infectou.</VRE_GeneInfection.comps.HediffComp_Discoverable.discoverLetterText>
+  <VRE_GeneInfection.comps.HediffComp_Discoverable.discoverLetterText>{0} foi acometido por uma infecção genética! Se a infecção não for tratada com sucesso, ele será dolorosamente convertido no xenótipo da pessoa que o infectou.</VRE_GeneInfection.comps.HediffComp_Discoverable.discoverLetterText>
   <VRE_GeneInfection.labelNoun>uma infecção genética</VRE_GeneInfection.labelNoun>
   <VRE_GeneInfection.stages.minor.label>leve</VRE_GeneInfection.stages.minor.label>
   <VRE_GeneInfection.stages.major.label>grave</VRE_GeneInfection.stages.major.label>
