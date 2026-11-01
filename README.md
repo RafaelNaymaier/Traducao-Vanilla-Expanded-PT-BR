@@ -59,6 +59,7 @@ A tradução já abrange os seguintes módulos da série Vanilla Expanded (e dep
 * **Vanilla Armour Expanded**
 * **Vanilla Landmarks Expanded**
 * **Vanilla Traits Expanded**
+* **Vanilla Social Interactions Expanded**
 * **Vanilla Vehicles Expanded**
 
 ---

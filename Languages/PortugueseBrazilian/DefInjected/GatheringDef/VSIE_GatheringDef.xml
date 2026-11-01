@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: binge party -->
+  <VSIE_BingeParty.label>festa de exageros</VSIE_BingeParty.label>
+  <!-- EN: The feast has been called off. -->
+  <VSIE_BingeParty.calledOffMessage>A festa foi cancelada.</VSIE_BingeParty.calledOffMessage>
+  <!-- EN: The feast has finished. -->
+  <VSIE_BingeParty.finishedMessage>A festa terminou.</VSIE_BingeParty.finishedMessage>
+  <!-- EN: {ORGANIZER_labelShort} suggests doing a little binge party. Be warned - Binge parties can last up to a few hours. Colonists will binge on food and drugs until it is over. Simply draft your colonists to stop them taking part in the binge party. -->
+  <VSIE_BingeParty.letterText>{ORGANIZER_labelShort} sugere fazer uma festa de exageros. Atenção: essas festas podem durar algumas horas. Colonos vão consumir comida e drogas sem parar até a festa acabar. Basta selecionar os colonos para impedir que participem.</VSIE_BingeParty.letterText>
+  <!-- EN: Binge party -->
+  <VSIE_BingeParty.letterTitle>Festa de exageros</VSIE_BingeParty.letterTitle>
+
+  <!-- EN: birthday -->
+  <VSIE_BirthdayParty.label>aniversário</VSIE_BirthdayParty.label>
+  <!-- EN: The birthday party has been called off. -->
+  <VSIE_BirthdayParty.calledOffMessage>A festa de aniversário foi cancelada.</VSIE_BirthdayParty.calledOffMessage>
+  <!-- EN: The birthday party has finished. -->
+  <VSIE_BirthdayParty.finishedMessage>A festa de aniversário terminou.</VSIE_BirthdayParty.finishedMessage>
+  <!-- EN: {ORGANIZER_labelShort} is throwing a birthday party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost. -->
+  <VSIE_BirthdayParty.letterText>{ORGANIZER_labelShort} está dando uma festa de aniversário! Quem participar ganhará recreação e energia social, além de um bônus positivo e duradouro no humor.</VSIE_BirthdayParty.letterText>
+  <!-- EN: Birthday party -->
+  <VSIE_BirthdayParty.letterTitle>Festa de aniversário</VSIE_BirthdayParty.letterTitle>
+
+  <!-- EN: building snowmen -->
+  <VSIE_BuildingSnowmen.label>fazendo bonecos de neve</VSIE_BuildingSnowmen.label>
+  <!-- EN: The date has been called off. -->
+  <VSIE_BuildingSnowmen.calledOffMessage>O encontro foi cancelado.</VSIE_BuildingSnowmen.calledOffMessage>
+  <!-- EN: The date has finished. -->
+  <VSIE_BuildingSnowmen.finishedMessage>O encontro terminou.</VSIE_BuildingSnowmen.finishedMessage>
+  <!-- EN: {ORGANIZER_labelShort} is building snowmen with {COMPANION_labelShort}. -->
+  <VSIE_BuildingSnowmen.letterText>{ORGANIZER_labelShort} está fazendo bonecos de neve com {COMPANION_labelShort}.</VSIE_BuildingSnowmen.letterText>
+  <!-- EN: Building snowmen -->
+  <VSIE_BuildingSnowmen.letterTitle>Fazendo bonecos de neve</VSIE_BuildingSnowmen.letterTitle>
+
+  <!-- EN: funeral -->
+  <VSIE_Funeral.label>funeral</VSIE_Funeral.label>
+  <!-- EN: The funeral has been called off. -->
+  <VSIE_Funeral.calledOffMessage>O funeral foi cancelado.</VSIE_Funeral.calledOffMessage>
+  <!-- EN: The funeral has finished. -->
+  <VSIE_Funeral.finishedMessage>O funeral terminou.</VSIE_Funeral.finishedMessage>
+  <!-- EN: Colonists gather over the {DEADPAWN_labelShort}'s grave to honor {DEADPAWN_possessive} memory. -->
+  <VSIE_Funeral.letterText>Colonos se reúnem junto ao túmulo de {DEADPAWN_labelShort} para honrar {DEADPAWN_possessive} memória.</VSIE_Funeral.letterText>
+  <!-- EN: Funeral -->
+  <VSIE_Funeral.letterTitle>Funeral</VSIE_Funeral.letterTitle>
+
+  <!-- EN: going for a walk -->
+  <VSIE_GoingForAWalk.label>passeando</VSIE_GoingForAWalk.label>
+  <!-- EN: The date has been called off. -->
+  <VSIE_GoingForAWalk.calledOffMessage>O encontro foi cancelado.</VSIE_GoingForAWalk.calledOffMessage>
+  <!-- EN: The date has finished. -->
+  <VSIE_GoingForAWalk.finishedMessage>O encontro terminou.</VSIE_GoingForAWalk.finishedMessage>
+  <!-- EN: {ORGANIZER_labelShort} is going for a walk with {COMPANION_labelShort}. -->
+  <VSIE_GoingForAWalk.letterText>{ORGANIZER_labelShort} está passeando com {COMPANION_labelShort}.</VSIE_GoingForAWalk.letterText>
+  <!-- EN: Going for a walk -->
+  <VSIE_GoingForAWalk.letterTitle>Passeio</VSIE_GoingForAWalk.letterTitle>
+
+  <!-- EN: grabbing beer -->
+  <VSIE_GrabbingBeer.label>bebendo cerveja</VSIE_GrabbingBeer.label>
+  <!-- EN: The beer party has been called off. -->
+  <VSIE_GrabbingBeer.calledOffMessage>A confraternização com cerveja foi cancelada.</VSIE_GrabbingBeer.calledOffMessage>
+  <!-- EN: The beer party has finished. -->
+  <VSIE_GrabbingBeer.finishedMessage>A confraternização com cerveja terminou.</VSIE_GrabbingBeer.finishedMessage>
+  <!-- EN: {ORGANIZER_labelShort} is grabbing a beer with {COMPANION_labelShort}. -->
+  <VSIE_GrabbingBeer.letterText>{ORGANIZER_labelShort} está tomando uma cerveja com {COMPANION_labelShort}.</VSIE_GrabbingBeer.letterText>
+  <!-- EN: Beer party -->
+  <VSIE_GrabbingBeer.letterTitle>Confraternização com cerveja</VSIE_GrabbingBeer.letterTitle>
+
+  <!-- EN: meal together -->
+  <VSIE_MealTogether.label>refeição a dois</VSIE_MealTogether.label>
+  <!-- EN: The date has been called off. -->
+  <VSIE_MealTogether.calledOffMessage>O encontro foi cancelado.</VSIE_MealTogether.calledOffMessage>
+  <!-- EN: The date has finished. -->
+  <VSIE_MealTogether.finishedMessage>O encontro terminou.</VSIE_MealTogether.finishedMessage>
+  <!-- EN: {ORGANIZER_labelShort} having a romantic meal with {COMPANION_labelShort}. -->
+  <VSIE_MealTogether.letterText>{ORGANIZER_labelShort} está tendo uma refeição romântica com {COMPANION_labelShort}.</VSIE_MealTogether.letterText>
+  <!-- EN: Meal together -->
+  <VSIE_MealTogether.letterTitle>Refeição a dois</VSIE_MealTogether.letterTitle>
+
+  <!-- EN: movie night -->
+  <VSIE_MovieNight.label>noite de cinema</VSIE_MovieNight.label>
+  <!-- EN: The date has been called off. -->
+  <VSIE_MovieNight.calledOffMessage>O encontro foi cancelado.</VSIE_MovieNight.calledOffMessage>
+  <!-- EN: The date has finished. -->
+  <VSIE_MovieNight.finishedMessage>O encontro terminou.</VSIE_MovieNight.finishedMessage>
+  <!-- EN: {ORGANIZER_labelShort} is having a movie night with {COMPANION_labelShort}. -->
+  <VSIE_MovieNight.letterText>{ORGANIZER_labelShort} está tendo uma noite de cinema com {COMPANION_labelShort}.</VSIE_MovieNight.letterText>
+  <!-- EN: Movie night -->
+  <VSIE_MovieNight.letterTitle>Noite de cinema</VSIE_MovieNight.letterTitle>
+
+  <!-- EN: outdoor party -->
+  <VSIE_OutdoorParty.label>festa ao ar livre</VSIE_OutdoorParty.label>
+  <!-- EN: The outdoor party has been called off. -->
+  <VSIE_OutdoorParty.calledOffMessage>A festa ao ar livre foi cancelada.</VSIE_OutdoorParty.calledOffMessage>
+  <!-- EN: The outdoor party has finished. -->
+  <VSIE_OutdoorParty.finishedMessage>A festa ao ar livre terminou.</VSIE_OutdoorParty.finishedMessage>
+  <!-- EN: {ORGANIZER_labelShort} suggests having an outdoors party. Colonists will go outdoors and have a campfire, and then sit around it and talk. -->
+  <VSIE_OutdoorParty.letterText>{ORGANIZER_labelShort} sugere fazer uma festa ao ar livre. Colonos vão acender uma fogueira e depois se sentar ao redor dela para conversar.</VSIE_OutdoorParty.letterText>
+  <!-- EN: Outdoor party -->
+  <VSIE_OutdoorParty.letterTitle>Festa ao ar livre</VSIE_OutdoorParty.letterTitle>
+
+  <!-- EN: skygazing -->
+  <VSIE_Skygazing.label>observando o céu</VSIE_Skygazing.label>
+  <!-- EN: The date has been called off. -->
+  <VSIE_Skygazing.calledOffMessage>O encontro foi cancelado.</VSIE_Skygazing.calledOffMessage>
+  <!-- EN: The date has finished. -->
+  <VSIE_Skygazing.finishedMessage>O encontro terminou.</VSIE_Skygazing.finishedMessage>
+  <!-- EN: {ORGANIZER_labelShort} is skygazing with {COMPANION_labelShort}. -->
+  <VSIE_Skygazing.letterText>{ORGANIZER_labelShort} está observando o céu com {COMPANION_labelShort}.</VSIE_Skygazing.letterText>
+  <!-- EN: Skygazing -->
+  <VSIE_Skygazing.letterTitle>Observando o céu</VSIE_Skygazing.letterTitle>
+
+  <!-- EN: viewing art together -->
+  <VSIE_ViewingArtTogether.label>apreciando arte juntos</VSIE_ViewingArtTogether.label>
+  <!-- EN: The date has been called off. -->
+  <VSIE_ViewingArtTogether.calledOffMessage>O encontro foi cancelado.</VSIE_ViewingArtTogether.calledOffMessage>
+  <!-- EN: The date has finished. -->
+  <VSIE_ViewingArtTogether.finishedMessage>O encontro terminou.</VSIE_ViewingArtTogether.finishedMessage>
+  <!-- EN: {ORGANIZER_labelShort} is viewing art with {COMPANION_labelShort}. -->
+  <VSIE_ViewingArtTogether.letterText>{ORGANIZER_labelShort} está apreciando arte com {COMPANION_labelShort}.</VSIE_ViewingArtTogether.letterText>
+  <!-- EN: Viewing art -->
+  <VSIE_ViewingArtTogether.letterTitle>Apreciando arte</VSIE_ViewingArtTogether.letterTitle>
+</LanguageData>

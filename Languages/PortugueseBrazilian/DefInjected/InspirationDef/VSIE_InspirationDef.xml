@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: flirting frenzy -->
+  <VSIE_Flirting_Frenzy.label>frenesi de flerte</VSIE_Flirting_Frenzy.label>
+  <!-- EN: Inspired: Flirting frenzy -->
+  <VSIE_Flirting_Frenzy.baseInspectLine>Inspiração: Frenesi de flerte</VSIE_Flirting_Frenzy.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will be much nicer to others in social interactions, as well as much more sophisticated in romantic interactions, resulting in lower chances of being rebuffed for the next 8 days.\n\n[PAWN_pronoun] would like to engage in some lovin’. -->
+  <VSIE_Flirting_Frenzy.beginLetter>[PAWN_pronoun] será muito mais gentil nas interações sociais e muito mais habilidoso nas interações românticas, reduzindo as chances de rejeição pelos próximos 8 dias.\n\n[PAWN_pronoun] gostaria de fazer sexo.</VSIE_Flirting_Frenzy.beginLetter>
+  <!-- EN: {0} is no longer inspired (flirting frenzy). -->
+  <VSIE_Flirting_Frenzy.endMessage>{0} perdeu a inspiração (frenesi de flerte).</VSIE_Flirting_Frenzy.endMessage>
+
+  <!-- EN: inspired cooking -->
+  <VSIE_Inspired_Cooking.label>cozinha inspirada</VSIE_Inspired_Cooking.label>
+  <!-- EN: Inspired: Inspired cooking -->
+  <VSIE_Inspired_Cooking.baseInspectLine>Inspiração: Cozinha inspirada</VSIE_Inspired_Cooking.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will cook twice as fast for the next 8 days.\n\n[PAWN_pronoun] would like to cook at least 50 meals. -->
+  <VSIE_Inspired_Cooking.beginLetter>[PAWN_pronoun] cozinhará duas vezes mais rápido pelos próximos 8 dias.\n\n[PAWN_pronoun] gostaria de preparar pelo menos 50 refeições.</VSIE_Inspired_Cooking.beginLetter>
+  <!-- EN: {0} is no longer inspired (inspired cooking). -->
+  <VSIE_Inspired_Cooking.endMessage>{0} perdeu a inspiração (cozinha inspirada).</VSIE_Inspired_Cooking.endMessage>
+
+  <!-- EN: inspired mining -->
+  <VSIE_Inspired_Mining.label>mineração inspirada</VSIE_Inspired_Mining.label>
+  <!-- EN: Inspired: Inspired mining -->
+  <VSIE_Inspired_Mining.baseInspectLine>Inspiração: Mineração inspirada</VSIE_Inspired_Mining.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will gain twice the yield of any rocks or ore mined for the next 8 days.\n\n[PAWN_pronoun] would like to mine at least 50 rocks. -->
+  <VSIE_Inspired_Mining.beginLetter>[PAWN_pronoun] obterá o dobro de recursos ao minerar rochas ou minérios pelos próximos 8 dias.\n\n[PAWN_pronoun] gostaria de minerar pelo menos 50 rochas.</VSIE_Inspired_Mining.beginLetter>
+  <!-- EN: {0} is no longer inspired (inspired mining). -->
+  <VSIE_Inspired_Mining.endMessage>{0} perdeu a inspiração (mineração inspirada).</VSIE_Inspired_Mining.endMessage>
+
+  <!-- EN: inspired planting -->
+  <VSIE_Inspired_Planting.label>plantio inspirado</VSIE_Inspired_Planting.label>
+  <!-- EN: Inspired: Inspired planting -->
+  <VSIE_Inspired_Planting.baseInspectLine>Inspiração: Plantio inspirado</VSIE_Inspired_Planting.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will be able to sow any plants regardless of their Plants skill level for the next 8 days.\n\n[PAWN_pronoun] would like to sow at least 50 plants. -->
+  <VSIE_Inspired_Planting.beginLetter>[PAWN_pronoun] poderá semear qualquer planta, independentemente do nível de habilidade em Plantio, pelos próximos 8 dias.\n\n[PAWN_pronoun] gostaria de semear pelo menos 50 plantas.</VSIE_Inspired_Planting.beginLetter>
+  <!-- EN: {0} is no longer inspired (inspired planting). -->
+  <VSIE_Inspired_Planting.endMessage>{0} perdeu a inspiração (plantio inspirado).</VSIE_Inspired_Planting.endMessage>
+
+  <!-- EN: inspired research -->
+  <VSIE_Inspired_Research.label>pesquisa inspirada</VSIE_Inspired_Research.label>
+  <!-- EN: Inspired: Inspired research -->
+  <VSIE_Inspired_Research.baseInspectLine>Inspiração: Pesquisa inspirada</VSIE_Inspired_Research.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will conduct research 5x as fast for the next 8 days or when the research project is completed.\n\n[PAWN_pronoun] would like to complete a research project. -->
+  <VSIE_Inspired_Research.beginLetter>[PAWN_pronoun] pesquisará 5 vezes mais rápido pelos próximos 8 dias ou até concluir o projeto de pesquisa.\n\n[PAWN_pronoun] gostaria de concluir um projeto de pesquisa.</VSIE_Inspired_Research.beginLetter>
+  <!-- EN: {0} is no longer inspired (inspired research). -->
+  <VSIE_Inspired_Research.endMessage>{0} perdeu a inspiração (pesquisa inspirada).</VSIE_Inspired_Research.endMessage>
+
+  <!-- EN: learning frenzy -->
+  <VSIE_Learning_Frenzy.label>frenesi de aprendizado</VSIE_Learning_Frenzy.label>
+  <!-- EN: Inspired: Learning frenzy -->
+  <VSIE_Learning_Frenzy.baseInspectLine>Inspiração: Frenesi de aprendizado</VSIE_Learning_Frenzy.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will gain experience in skill at twice the normal rate for the next 8 days.\n\n[PAWN_pronoun] would like to level up any skill to level 10. -->
+  <VSIE_Learning_Frenzy.beginLetter>[PAWN_pronoun] ganhará experiência em habilidades duas vezes mais rápido pelos próximos 8 dias.\n\n[PAWN_pronoun] gostaria de elevar qualquer habilidade ao nível 10.</VSIE_Learning_Frenzy.beginLetter>
+  <!-- EN: {0} is no longer inspired (learning frenzy). -->
+  <VSIE_Learning_Frenzy.endMessage>{0} perdeu a inspiração (frenesi de aprendizado).</VSIE_Learning_Frenzy.endMessage>
+
+  <!-- EN: melee frenzy -->
+  <VSIE_Melee_Frenzy.label>frenesi corpo a corpo</VSIE_Melee_Frenzy.label>
+  <!-- EN: Inspired: Melee frenzy -->
+  <VSIE_Melee_Frenzy.baseInspectLine>Inspiração: Frenesi corpo a corpo</VSIE_Melee_Frenzy.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will land all their melee hits for the next 8 days.\n\n[PAWN_pronoun] would like to go defeat an enemy in melee combat. -->
+  <VSIE_Melee_Frenzy.beginLetter>[PAWN_pronoun] acertará todos os ataques corpo a corpo pelos próximos 8 dias.\n\n[PAWN_pronoun] gostaria de derrotar um inimigo em combate corpo a corpo.</VSIE_Melee_Frenzy.beginLetter>
+  <!-- EN: {0} is no longer inspired (melee frenzy). -->
+  <VSIE_Melee_Frenzy.endMessage>{0} perdeu a inspiração (frenesi corpo a corpo).</VSIE_Melee_Frenzy.endMessage>
+
+  <!-- EN: party frenzy -->
+  <VSIE_Party_Frenzy.label>frenesi de festa</VSIE_Party_Frenzy.label>
+  <!-- EN: Inspired: Party frenzy -->
+  <VSIE_Party_Frenzy.baseInspectLine>Inspiração: Frenesi de festa</VSIE_Party_Frenzy.baseInspectLine>
+  <!-- EN: [PAWN_pronoun] will gain recreation twice as fast for the next 8 days.\n\n[PAWN_pronoun] would like to attend a party. -->
+  <VSIE_Party_Frenzy.beginLetter>[PAWN_pronoun] obterá recreação duas vezes mais rápido pelos próximos 8 dias.\n\n[PAWN_pronoun] gostaria de participar de uma festa.</VSIE_Party_Frenzy.beginLetter>
+  <!-- EN: {0} is no longer inspired (work frenzy). -->
+  <VSIE_Party_Frenzy.endMessage>{0} perdeu a inspiração (frenesi de trabalho).</VSIE_Party_Frenzy.endMessage>
+</LanguageData>

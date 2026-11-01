@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: \n\n{PAWN_pronoun} would like to do some work. -->
+  <VSIE.WorkFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de trabalhar.</VSIE.WorkFrenzyBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to join a caravan and venture into the world. -->
+  <VSIE.GoFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de partir em uma caravana e explorar o mundo.</VSIE.GoFrenzyBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to go on a hunt. -->
+  <VSIE.ShootingFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de sair para caçar.</VSIE.ShootingFrenzyBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to close a trade. -->
+  <VSIE.InspiredTradeBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de concluir uma negociação.</VSIE.InspiredTradeBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to recruit a prisoner. -->
+  <VSIE.InspiredRecruitmentBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de recrutar um prisioneiro.</VSIE.InspiredRecruitmentBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to try and tame an animal. -->
+  <VSIE.InspiredTamingBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de tentar domesticar um animal.</VSIE.InspiredTamingBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to perform a surgery. -->
+  <VSIE.InspiredSurgeryBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de realizar uma cirurgia.</VSIE.InspiredSurgeryBeginLetterContinue>
+  <!-- EN: \n\n{PAWN_pronoun} would like to create a masterwork or legendary item. -->
+  <VSIE.InspiredCreativityBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de criar um item magistral ou lendário.</VSIE.InspiredCreativityBeginLetterContinue>
+
+  <!-- EN: {PAWN_nameDef} obtained {0} trait -->
+  <VSIE.TraitChangeTitle>{PAWN_nameDef} adquiriu o traço {0}</VSIE.TraitChangeTitle>
+  <!-- EN: When you recruited {PAWN_nameDef}, it turned out that {PAWN_pronoun} has the {0} trait.\n\n{1} -->
+  <VSIE.TraitChangePrisonerRecruited>Ao recrutar {PAWN_nameDef}, descobriu-se que {PAWN_pronoun} possui o traço {0}.\n\n{1}</VSIE.TraitChangePrisonerRecruited>
+  <!-- EN: When {PAWN_nameDef} died and got brought back to life,  noticed that they now have the {0} trait.\n\n{1} -->
+  <VSIE.TraitChangePawnResurrected>Quando {PAWN_nameDef} morreu e foi ressuscitado, notou-se que agora possui o traço {0}.\n\n{1}</VSIE.TraitChangePawnResurrected>
+  <!-- EN: When {PAWN_nameDef} succumbed to the catatonic mental breakdown, {PAWN_pronoun} has developed the {0} trait.\n\n{1} -->
+  <VSIE.TraitChangePawnHasCatatonicBreakdown>Quando {PAWN_nameDef} sucumbiu a um colapso mental catatônico, {PAWN_pronoun} desenvolveu o traço {0}.\n\n{1}</VSIE.TraitChangePawnHasCatatonicBreakdown>
+  <!-- EN: When {PAWN_nameDef}’s family member died, {PAWN_pronoun} has developed the {0} trait.\n\n{1} -->
+  <VSIE.TraitChangeFamilyMemberDied>Quando um familiar de {PAWN_nameDef} morreu, {PAWN_pronoun} desenvolveu o traço {0}.\n\n{1}</VSIE.TraitChangeFamilyMemberDied>
+  <!-- EN: {PAWN_nameDef}’s extreme mental break caused a permanent character change, as {PAWN_pronoun} has developed the {0} trait.\n\n{1} -->
+  <VSIE.CatarhisAfterMentalBreak>O colapso mental extremo de {PAWN_nameDef} causou uma mudança permanente de personalidade, pois {PAWN_pronoun} desenvolveu o traço {0}.\n\n{1}</VSIE.CatarhisAfterMentalBreak>
+  <!-- EN: The time {PAWN_nameDef} spent fighting the deadly illness was enough time for a self-reflection, as {PAWN_pronoun} has developed the {0} trait.\n\n{1} -->
+  <VSIE.RecoveredAfterDeadlyDisease>O tempo que {PAWN_nameDef} passou lutando contra uma doença mortal foi suficiente para uma reflexão pessoal, e {PAWN_pronoun} desenvolveu o traço {0}.\n\n{1}</VSIE.RecoveredAfterDeadlyDisease>
+  <!-- EN: {PAWN_nameDef} took a moment to reflect upon themself on their birthday, which resulted in developing the {0} trait.\n\n{1} -->
+  <VSIE.BirthdayEvent>{PAWN_nameDef} reservou um momento para refletir em seu aniversário, o que resultou no desenvolvimento do traço {0}.\n\n{1}</VSIE.BirthdayEvent>
+  <!-- EN: Possibly the greatest moment in {PAWN_nameDef}’s life, a bestowing ceremony, allowed them to develop the {0} trait.\n\n{1} -->
+  <VSIE.BestowingCeremony>Possivelmente o maior momento na vida de {PAWN_nameDef}, a cerimônia de investidura permitiu que desenvolvesse o traço {0}.\n\n{1}</VSIE.BestowingCeremony>
+  <!-- EN: After recent events and the difficult raid the colony faced, {PAWN_nameDef} reflected upon themself and developed the {0} trait.\n\n{1} -->
+  <VSIE.ToughtRaidEvent>Após os acontecimentos recentes e a difícil invasão enfrentada pela colônia, {PAWN_nameDef} refletiu e desenvolveu o traço {0}.\n\n{1}</VSIE.ToughtRaidEvent>
+
+  <!-- EN: A group social fight has broke out. -->
+  <VSIE.Discord>Uma briga social em grupo começou.</VSIE.Discord>
+  <!-- EN: One night stand -->
+  <VSIE.OneNightStandTitle>Caso de uma noite</VSIE.OneNightStandTitle>
+  <!-- EN: {INITIATOR_nameDef} engages in a one night stand with {PARTNER_nameDef}. Whilst both pawns receive all the benefits of regular lovin’, they are not a couple. -->
+  <VSIE.OneNightStandText>{INITIATOR_nameDef} teve um caso de uma noite com {PARTNER_nameDef}. Embora ambos recebam todos os benefícios do sexo entre parceiros, eles não formam um casal.</VSIE.OneNightStandText>
+
+  <!-- EN: Enable memories -->
+  <VSIE.EnableMemories>Ativar memórias</VSIE.EnableMemories>
+  <!-- EN: Enable inspirations -->
+  <VSIE.EnableInspirations>Ativar inspirações</VSIE.EnableInspirations>
+  <!-- EN: Enable aspirations -->
+  <VSIE.EnableAspirations>Ativar aspirações</VSIE.EnableAspirations>
+  <!-- EN: Enable obtaining new traits -->
+  <VSIE.EnableObtainingNewTraits>Ativar aquisição de novos traços</VSIE.EnableObtainingNewTraits>
+  <!-- EN: Enable venting -->
+  <VSIE.EnableVenting>Ativar desabafos</VSIE.EnableVenting>
+  <!-- EN: Enable best friend -->
+  <VSIE.EnableBestFriend>Ativar melhor amigo</VSIE.EnableBestFriend>
+  <!-- EN: Enable teaching -->
+  <VSIE.EnableTeaching>Ativar ensino</VSIE.EnableTeaching>
+  <!-- EN: Enable many hands make light work -->
+  <VSIE.EnableManyHandsMakeLightWork>Ativar trabalho em equipe</VSIE.EnableManyHandsMakeLightWork>
+  <!-- EN: Enable discord -->
+  <VSIE.EnableDiscord>Ativar discórdia</VSIE.EnableDiscord>
+  <!-- EN: Enable group activities -->
+  <VSIE.EnableGroupActivities>Ativar atividades em grupo</VSIE.EnableGroupActivities>
+  <!-- EN: Enable dating -->
+  <VSIE.EnableDating>Ativar encontros</VSIE.EnableDating>
+  <!-- EN: Enable united we stand -->
+  <VSIE.EnableUnitedWeStand>Ativar união faz a força</VSIE.EnableUnitedWeStand>
+  <!-- EN: Enable social environment thoughts -->
+  <VSIE.EnableSocialEnvironmentThoughts>Ativar pensamentos sobre o ambiente social</VSIE.EnableSocialEnvironmentThoughts>
+  <!-- EN: Enable one night stand -->
+  <VSIE.EnableOneNightStand>Ativar casos de uma noite</VSIE.EnableOneNightStand>
+</LanguageData>
