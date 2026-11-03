@@ -24,5 +24,33 @@
   <VGE_Gene_FloatingOrgans.symbolPack.prefixSymbols.2.symbol>pálido</VGE_Gene_FloatingOrgans.symbolPack.prefixSymbols.2.symbol>
   <!-- EN: sick -->
   <VGE_Gene_FloatingOrgans.symbolPack.prefixSymbols.3.symbol>doentio</VGE_Gene_FloatingOrgans.symbolPack.prefixSymbols.3.symbol>
-
+  
+  <!-- EN: microgravity adapted -->
+  <VGE_Gene_MicrogravityAdapted.label>adaptado à microgravidade</VGE_Gene_MicrogravityAdapted.label>
+  <!-- EN: Carriers of this gene possess musculature and spatial awareness uniquely adapted for zero-gravity environments. While in space, they move with enhanced agility, work with greater efficiency, and effortlessly glide across the vacuum of space.\n\n<i><color=#66E0E4FF>Vanilla Gravship Expanded - Chapter 2</color></i> -->
+  <VGE_Gene_MicrogravityAdapted.description>Os portadores deste gene possuem musculatura e consciência espacial unicamente adaptadas para ambientes de gravidade zero. Enquanto estão no espaço, movem-se com maior agilidade, trabalham com maior eficiência e deslizam sem esforço pelo vácuo do espaço.\n\n<i><color=#66E0E4FF>Vanilla Gravship Expanded - Chapter 2</color></i></VGE_Gene_MicrogravityAdapted.description>
+  <!-- EN: grav -->
+  <VGE_Gene_MicrogravityAdapted.symbolPack.prefixSymbols.0.symbol>grav</VGE_Gene_MicrogravityAdapted.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: zero -->
+  <VGE_Gene_MicrogravityAdapted.symbolPack.prefixSymbols.1.symbol>zero</VGE_Gene_MicrogravityAdapted.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: float -->
+  <VGE_Gene_MicrogravityAdapted.symbolPack.prefixSymbols.2.symbol>flut</VGE_Gene_MicrogravityAdapted.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: astro -->
+  <VGE_Gene_MicrogravityAdapted.symbolPack.prefixSymbols.3.symbol>astro</VGE_Gene_MicrogravityAdapted.symbolPack.prefixSymbols.3.symbol>
+  
+  <!-- EN: sealed exoskeleton -->
+  <VGE_Gene_SealedExoskeleton.label>exoesqueleto selado</VGE_Gene_SealedExoskeleton.label>
+  <!-- EN: Carriers of this gene develop a hermetically sealed exoskeleton capable of internalizing atmospheric pressure and regulating core body heat. This adaptation grants them complete immunity to the vacuum of space and allows them to endure extreme freezing environments without discomfort.\n\n<i><color=#66E0E4FF>Vanilla Gravship Expanded - Chapter 2</color></i> -->
+  <VGE_Gene_SealedExoskeleton.description>Os portadores deste gene desenvolvem um exoesqueleto hermeticamente selado, capaz de internalizar a pressão atmosférica e regular o calor corporal central. Esta adaptação concede-lhes imunidade completa ao vácuo do espaço e permite-lhes suportar ambientes de frio extremo sem desconforto.\n\n<i><color=#66E0E4FF>Vanilla Gravship Expanded - Chapter 2</color></i></VGE_Gene_SealedExoskeleton.description>
+  <!-- EN: void -->
+  <VGE_Gene_SealedExoskeleton.symbolPack.prefixSymbols.0.symbol>vácuo</VGE_Gene_SealedExoskeleton.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: exo -->
+  <VGE_Gene_SealedExoskeleton.symbolPack.prefixSymbols.1.symbol>exo</VGE_Gene_SealedExoskeleton.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: astro -->
+  <VGE_Gene_SealedExoskeleton.symbolPack.prefixSymbols.2.symbol>astro</VGE_Gene_SealedExoskeleton.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: space -->
+  <VGE_Gene_SealedExoskeleton.symbolPack.prefixSymbols.3.symbol>espaço</VGE_Gene_SealedExoskeleton.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: cold -->
+  <VGE_Gene_SealedExoskeleton.symbolPack.prefixSymbols.4.symbol>frio</VGE_Gene_SealedExoskeleton.symbolPack.prefixSymbols.4.symbol>
+  
 </LanguageData>

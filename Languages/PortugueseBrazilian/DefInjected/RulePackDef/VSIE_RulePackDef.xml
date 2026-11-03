@@ -1,91 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: discord -->
-  <VSIE_Discord.label>discórdia</VSIE_Discord.label>
-  
-  <!-- EN:
-    <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic].</li>
-    <li>r_logentry->[INITIATOR_nameDef] compared [target] to a [insultcomparison].</li>
-    <li>r_logentry->[INITIATOR_nameDef] called [target] a [insultcomparison].</li>
-    <li>target(p=4)->[RECIPIENT_nameDef]</li>
-    <li>target->[RECIPIENT_nameDef]'s [PersonFamily]</li>
-    <li>insulted(p=3)->insulted</li>
-    <li>insulted->openly insulted</li>
-    <li>insulted->loudly insulted</li>
-    <li>insulted->flagrantly insulted</li>
-    <li>insulted->directly insulted</li>
-    <li>insulted->viciously insulted</li>
-    <li>insulted->flagrantly disrespected</li>
-    <li>insulted->slandered</li>
-    <li>insulted->hurled invective about</li>
-    <li>insulted->derided</li>
-    <li>insultcomparison(p=2)->[Animal]</li>
-    <li>insultcomparison->[Enemy]</li>
-  -->
-  <VSIE_Discord.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] a [PersonalCharacteristic] de [target].</li>
-    <li>r_logentry->[INITIATOR_nameDef] comparou [target] a um [insultcomparison].</li>
-    <li>r_logentry->[INITIATOR_nameDef] chamou [target] de [insultcomparison].</li>
-    <li>target(p=4)->[RECIPIENT_nameDef]</li>
-    <li>target->a família de [RECIPIENT_nameDef]</li>
-    <li>insulted(p=3)->insultou</li>
-    <li>insulted->insultou abertamente</li>
-    <li>insulted->insultou em voz alta</li>
-    <li>insulted->insultou descaradamente</li>
-    <li>insulted->insultou diretamente</li>
-    <li>insulted->insultou com crueldade</li>
-    <li>insulted->desrespeitou descaradamente</li>
-    <li>insulted->caluniou</li>
-    <li>insulted->disse ofensas sobre</li>
-    <li>insulted->ridicularizou</li>
-    <li>insultcomparison(p=2)->[Animal]</li>
-    <li>insultcomparison->[Enemy]</li>
-  </VSIE_Discord.logRulesInitiator.rulesStrings>
-
-  <!-- EN: vent -->
-  <VSIE_Vent.label>desabafar</VSIE_Vent.label>
-  
-  <!-- EN:
-    <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
-    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].</li>
-    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef].</li>
-    <li>talkedabout(p=4)->chatted about</li>
-    <li>talkedabout->shared a word about</li>
-    <li>talkedabout->spoke about</li>
-    <li>talkedabout->gabbed about</li>
-    <li>talkedabout->talked about</li>
-    <li>talkedabout->joked about</li>
-    <li>talkedabout->quipped about</li>
-    <li>commentedabout->said something about</li>
-    <li>commentedabout->said a word about</li>
-    <li>commentedabout->made a comment about</li>
-    <li>commentedabout->commented about</li>
-    <li>commentedabout->told a joke about</li>
-  -->
-  <VSIE_Vent.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
-    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] com [RECIPIENT_nameDef].</li>
-    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] para [RECIPIENT_nameDef].</li>
-    <li>talkedabout(p=4)->conversaram sobre</li>
-    <li>talkedabout->trocaram palavras sobre</li>
-    <li>talkedabout->falaram sobre</li>
-    <li>talkedabout->tagarelaram sobre</li>
-    <li>talkedabout->dialogaram sobre</li>
-    <li>talkedabout->brincaram sobre</li>
-    <li>talkedabout->fizeram piada sobre</li>
-    <li>commentedabout->disse algo sobre</li>
-    <li>commentedabout->disse uma palavra sobre</li>
-    <li>commentedabout->fez um comentário sobre</li>
-    <li>commentedabout->comentou sobre</li>
-    <li>commentedabout->contou uma piada sobre</li>
-  </VSIE_Vent.logRulesInitiator.rulesStrings>
-
-  <!-- EN: teaching -->
-  <VSIE_Teaching.label>ensinar</VSIE_Teaching.label>
-  <VSIE_Teaching.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] ensinou [RECIPIENT_nameDef].</li>
-  </VSIE_Teaching.logRulesInitiator.rulesStrings>
 
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [AnimalsTopic].</li>
@@ -182,7 +96,7 @@
     <li>talkedabout->trocaram algumas palavras sobre</li>
     <li>talkedabout->falaram sobre</li>
     <li>talkedabout->bateram um papo sobre</li>
-    <li>talkedabout->discuriram sobre</li>
+    <li>talkedabout->discutiram sobre</li>
     <li>talkedabout->fizeram piada sobre</li>
     <li>talkedabout->fizeram um comentário espirituoso sobre</li>
     <li>commentedabout->disse algo sobre</li>
@@ -506,5 +420,5 @@
     <li>commentedabout->comentou sobre</li>
     <li>commentedabout->contou uma piada sobre</li>
   </VSIE_Teaching_Social.rulePack.rulesStrings>
-  
+
 </LanguageData>
