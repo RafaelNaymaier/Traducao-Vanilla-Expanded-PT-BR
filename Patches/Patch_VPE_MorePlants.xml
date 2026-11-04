@@ -5,22 +5,28 @@
       <li>Vanilla Cooking Expanded</li>
       <li>VanillaExpanded.VCookE</li>
     </mods>
-    <match Class="PatchOperationSequence">
-      <operations>
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/ThingDef[defName="VCE_VegMilkExtractor"]/label</xpath>
-          <value>
-            <label>extrator de leite vegetal</label>
-          </value>
-        </li>
+    <match Class="PatchOperationFindMod">
+      <mods>
+        <li>Vanilla Plants Expanded - More Plants</li>
+        <li>VanillaExpanded.VPlantsEMore</li>
+      </mods>
+      <match Class="PatchOperationSequence">
+        <operations>
+          <li Class="PatchOperationReplace">
+            <xpath>Defs/ThingDef[defName="VCE_VegMilkExtractor"]/label</xpath>
+            <value>
+              <label>extrator de leite vegetal</label>
+            </value>
+          </li>
 
-        <li Class="PatchOperationReplace">
-          <xpath>Defs/ThingDef[defName="VCE_VegMilkExtractor"]/description</xpath>
-          <value>
-            <description>Uma pequena bancada de trabalho contendo um prensador e uma centrífuga decantadora industrial para separar o extrato vegetal da polpa. As altas forças G geradas pela centrífuga decantadora permitem extrair leite vegetal de arroz, amêndoas, cocos, aveia e soja.</description>
-          </value>
-        </li>
-      </operations>
+          <li Class="PatchOperationReplace">
+            <xpath>Defs/ThingDef[defName="VCE_VegMilkExtractor"]/description</xpath>
+            <value>
+              <description>Uma pequena bancada de trabalho contendo um prensador e uma centrífuga decantadora industrial para separar o extrato vegetal da polpa. As altas forças G geradas pela centrífuga decantadora permitem extrair leite vegetal de arroz, amêndoas, cocos, aveia e soja.</description>
+            </value>
+          </li>
+        </operations>
+      </match>
     </match>
   </Operation>
 </Patch>

@@ -54,4 +54,10 @@
   <VCE_WellFedSimple.label>bem alimentado (da refeição grelhada)</VCE_WellFedSimple.label>
   <!-- EN: I ate a delicious and filling grilled meat. Doing so lowers hunger rate by 35% for 12 hours.. -->
   <VCE_WellFedSimple.description>Comi uma carne grelhada deliciosa e que sacia bastante. Isso reduz a velocidade de aumento da fome em 35% por 12 horas.</VCE_WellFedSimple.description>
+
+  <!-- EN: consumed hot sauce (from meal) -->
+  <VCE_ConsumedHotSauce.label>consumiu molho de pimenta (da refeição)</VCE_ConsumedHotSauce.label>
+  <!-- EN: Consumed a potent, spicy sauce made from blending and simmering chilis and other spices. While particularly strong hot sauces hurt at first, they are known to numb pain and work up a warm sweat shortly after consumption. Boosts pain resistance by 15% and cold temperature resistance by 10ºC for 12 hours.\n\n<i><color=#66E0E4FF>Vanilla Cooking Expanded</color></i> -->
+  <VCE_ConsumedHotSauce.description>Consumiu um molho picante e potente feito a partir da mistura e cozimento lento de pimentas e outras especiarias. Embora molhos de pimenta particularmente fortes doam a princípio, eles são conhecidos por adormecer a dor e causar um suor quente logo após o consumo. Aumenta a resistência à dor em 15% e a resistência a temperaturas frias em 10ºC por 12 horas.\n\n<i><color=#66E0E4FF>Vanilla Cooking Expanded</color></i></VCE_ConsumedHotSauce.description>
+  
 </LanguageData>
