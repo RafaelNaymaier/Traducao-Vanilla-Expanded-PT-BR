@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: decorative baking -->
+  <VCE_DecorativeBaking.label>confeitaria decorativa</VCE_DecorativeBaking.label>
+  <!-- EN: Unlocks techniques for creative baking, enabling colonists to craft decorated cakes, cupcakes, and cookies with colorful designs and sweet flair.\n\n<i><color=#66E0E4FF>Vanilla Cooking Expanded - Bakery</color></i> -->
+  <VCE_DecorativeBaking.description>Libera técnicas de confeitaria criativa, permitindo que os colonos preparem bolos decorados, cupcakes e biscoitos com desenhos coloridos e um toque adocicado.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Cooking Expanded - Bakery&lt;/color&gt;&lt;/i&gt;</VCE_DecorativeBaking.description>
+  <!-- EN:
+    <li>subject->decorative baking</li>
+    <li>subject_story->perfected the art of transforming simple sweets into colorful creations</li>
+    <li>subject_story->trained in the delicate craft of fondant, frosting, and sugarwork</li>
+    <li>subject_story->founded a renowned bakery, delighting children and patrons with whimsical confections</li>
+    <li>subject_gerund->designing intricate cakes and decorated pastries</li>
+  -->
+  <VCE_DecorativeBaking.generalRules.rulesStrings>
+    <li>subject-&gt;confeitaria decorativa</li>
+    <li>subject_story-&gt;aperfeiçoou a arte de transformar doces simples em criações coloridas</li>
+    <li>subject_story-&gt;aprendeu o delicado ofício de trabalhar com pasta americana, glacê e açúcar</li>
+    <li>subject_story-&gt;fundou uma confeitaria renomada, encantando crianças e clientes com doces caprichados</li>
+    <li>subject_gerund-&gt;criando bolos elaborados e doces decorados</li>
+  </VCE_DecorativeBaking.generalRules.rulesStrings>
+</LanguageData>
