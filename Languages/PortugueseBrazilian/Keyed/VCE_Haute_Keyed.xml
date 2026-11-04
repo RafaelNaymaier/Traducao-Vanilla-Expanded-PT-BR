@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ate {0} -->
+  <VCE_AteHauteMeal>comeu {0}</VCE_AteHauteMeal>
+
+  <!-- EN: A transcendent encounter with flavor. Every delicate note of the {0} unfolds like a masterpiece, elevating my senses to realms of pure culinary artistry. -->
+  <VCE_AteHauteMealDesc>Uma experiência sublime de sabores. Cada nuance delicada de {0} se revela como uma obra-prima, elevando meus sentidos ao ápice da arte culinária.</VCE_AteHauteMealDesc>
+
+  <!-- EN: {0} has been improved to {1} quality level due to the electric haute section. -->
+  <VCE_ItemImproved_HauteSection>A qualidade de {0} foi aprimorada para {1} pela estação elétrica de alta gastronomia.</VCE_ItemImproved_HauteSection>
+
+  <!-- EN: Manufactured slop -->
+  <VCE_ManufacturedSlop>gororoba industrializada</VCE_ManufacturedSlop>
+
+  <!-- EN: This haute meal wasn't created by a true chef, and is thus not very good. -->
+  <VCE_ManufacturedSlopDesc>Esta refeição de alta gastronomia não foi preparada por um verdadeiro chef e, por isso, não ficou muito boa.</VCE_ManufacturedSlopDesc>
+
+  <!-- EN: Display Improvement Messages -->
+  <VCE_DisplayImprovementMessages>Exibir mensagens de aprimoramento</VCE_DisplayImprovementMessages>
+
+  <!-- EN: By default, if a haute station improves the quality of a meal a message will pop up informing the player. These messages can be toggled off with this mod option. -->
+  <VCE_DisplayImprovementMessages_Desc>Por padrão, uma mensagem informa quando a estação de alta gastronomia aprimora a qualidade de uma refeição. Esta opção do mod permite desativar essas mensagens.</VCE_DisplayImprovementMessages_Desc>
+
+  <!-- EN: Distance in tiles for social effect -->
+  <VCE_DistanceForSocial>Distância em quadrados para o efeito social</VCE_DistanceForSocial>
+
+  <!-- EN: By default, colonists in an 8 tile radius of the pawn that consumes a haute meal will get an opinion boost. -->
+  <VCE_DistanceForSocial_Desc>Por padrão, colonos em um raio de 8 quadrados de quem consome uma refeição de alta gastronomia recebem um bônus de opinião.</VCE_DistanceForSocial_Desc>
+
+  <!-- EN: Reset -->
+  <VCE_Reset>Redefinir</VCE_Reset>
+</LanguageData>

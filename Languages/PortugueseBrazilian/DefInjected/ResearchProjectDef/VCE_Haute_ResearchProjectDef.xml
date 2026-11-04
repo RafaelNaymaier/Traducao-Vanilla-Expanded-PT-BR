@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: haute cuisine -->
+  <VCE_HauteCuisine.label>alta gastronomia</VCE_HauteCuisine.label>
+
+  <!-- EN: Haute cuisine is the pinnacle of culinary artistry, emphasizing meticulous preparation, refined techniques, and exquisite presentation. It transforms the finest ingredients into visually stunning and harmoniously balanced dishes, elevating dining to an experience of sophistication. This research also unlocks the haute section, a specialized workstation for crafting these masterful creations.\n\n<i><color=#66E0E4FF>Vanilla Cooking Expanded - Haute</color></i> -->
+  <VCE_HauteCuisine.description>A alta gastronomia é o ápice da arte culinária: valoriza o preparo meticuloso, as técnicas refinadas e uma apresentação primorosa. Ela transforma os melhores ingredientes em pratos visualmente deslumbrantes e harmoniosos, elevando a refeição a uma experiência sofisticada. Esta pesquisa também desbloqueia a estação de alta gastronomia, um posto de trabalho especializado na criação dessas obras-primas.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Cooking Expanded - Haute&lt;/color&gt;&lt;/i&gt;</VCE_HauteCuisine.description>
+
+  <!-- EN:
+    <li>subject->culinary artistry</li>
+    <li>subject_story->perfected the delicate balance of flavors, elevating cooking to an art form</li>
+    <li>subject_story->trained under master chefs, mastering techniques passed down through generations</li>
+    <li>subject_story->founded an elite dining establishment, attracting nobles and connoisseurs alike</li>
+    <li>subject_gerund->crafting exquisite haute dishes</li>
+  -->
+  <VCE_HauteCuisine.generalRules.rulesStrings>
+    <li>subject-&gt;arte culinária</li>
+    <li>subject_story-&gt;aperfeiçoou o delicado equilíbrio dos sabores, elevando a culinária à categoria de arte</li>
+    <li>subject_story-&gt;aprendeu com grandes chefs e dominou técnicas transmitidas por gerações</li>
+    <li>subject_story-&gt;fundou um restaurante de elite, atraindo tanto nobres quanto apreciadores da boa gastronomia</li>
+    <li>subject_gerund-&gt;criando pratos primorosos de alta gastronomia</li>
+  </VCE_HauteCuisine.generalRules.rulesStrings>
+</LanguageData>
