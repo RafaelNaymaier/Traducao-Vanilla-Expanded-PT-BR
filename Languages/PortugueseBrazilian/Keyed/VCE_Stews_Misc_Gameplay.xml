@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Stew to Cook -->
+  <VCE_InsertStewDesc>Ensopado para preparar</VCE_InsertStewDesc>
+
+  <!-- EN: Bring Stew -->
+  <VCE_StartStewInsertion>Trazer ensopado</VCE_StartStewInsertion>
+  <!-- EN: Bring a stew to the stew pot to start cooking -->
+  <VCE_StartStewInsertionDesc>Leve um ensopado ao caldeirão a lenha para começar a cozinhar</VCE_StartStewInsertionDesc>
+
+  <!-- EN: Cancel Bringing Stew -->
+  <VCE_CancelBringingStew>Cancelar transporte do ensopado</VCE_CancelBringingStew>
+  <!-- EN: Cancel bringing stew to the stew pot. -->
+  <VCE_CancelBringingStewDesc>Cancela o transporte do ensopado até o caldeirão a lenha.</VCE_CancelBringingStewDesc>
+
+  <!-- EN: The stew has spoiled due to a lack of fuel in the stew pot -->
+  <VCE_StewFailurePower>O ensopado estragou por falta de combustível no caldeirão a lenha</VCE_StewFailurePower>
+  <!-- EN: The stew is spoiling fast due to a lack of fuel in the stew pot -->
+  <VCE_StewFailurePowerWarning>O ensopado está estragando rapidamente por falta de combustível no caldeirão a lenha</VCE_StewFailurePowerWarning>
+
+  <!-- EN: A simple stew is ready and waiting for pickup -->
+  <VCE_FinishedSimpleStew>Um ensopado simples está pronto e aguardando para ser recolhido</VCE_FinishedSimpleStew>
+  <!-- EN: A fine stew is ready and waiting for pickup -->
+  <VCE_FinishedFineStew>Um ensopado bom está pronto e aguardando para ser recolhido</VCE_FinishedFineStew>
+  <!-- EN: A lavish stew is ready and waiting for pickup -->
+  <VCE_FinishedLavishStew>Um ensopado luxuoso está pronto e aguardando para ser recolhido</VCE_FinishedLavishStew>
+</LanguageData>

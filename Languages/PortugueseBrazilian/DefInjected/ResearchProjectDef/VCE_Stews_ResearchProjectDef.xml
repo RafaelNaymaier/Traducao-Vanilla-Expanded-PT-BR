@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: stew cooking -->
+  <VCE_StewCooking.label>preparo de ensopados</VCE_StewCooking.label>
+  <!-- EN: Stew is a form of a very nourishing meal, cooked in bulk over fire. This research also gives access to the wood-fired pot necessary to cook stews.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Cooking Expanded - Stews&lt;/color&gt;&lt;/i&gt; -->
+  <VCE_StewCooking.description>O ensopado é uma refeição muito nutritiva, preparada em grandes quantidades no fogo. Esta pesquisa também libera o caldeirão a lenha, necessário para preparar ensopados.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Cooking Expanded - Stews&lt;/color&gt;&lt;/i&gt;</VCE_StewCooking.description>
+  <!-- EN:
+    <li>subject->hearth and heart</li>
+    <li>subject_story->embraced the tradition of stew cooking, bringing together community and cuisine over the warmth of a shared pot</li>
+    <li>subject_story->cultivated techniques to craft stews that are not only nourishing but carry the flavors of cultural heritage and togetherness</li>
+    <li>subject_story->introduced the wood-fired pot, an essential tool for preparing these hearty meals in the traditional way</li>
+    <li>subject_gerund->nurturing bodies and souls with the communal art of stew making</li>
+  -->
+  <VCE_StewCooking.generalRules.rulesStrings>
+    <li>subject-&gt;calor do lar e união</li>
+    <li>subject_story-&gt;abraçou a tradição de preparar ensopados, reunindo comunidade e culinária ao redor do calor de uma panela compartilhada</li>
+    <li>subject_story-&gt;desenvolveu técnicas para preparar ensopados que, além de nutritivos, carregam os sabores da herança cultural e da união</li>
+    <li>subject_story-&gt;introduziu o caldeirão a lenha, ferramenta essencial para preparar essas refeições substanciosas à moda tradicional</li>
+    <li>subject_gerund-&gt;nutrindo corpos e almas com a arte comunitária de preparar ensopados</li>
+  </VCE_StewCooking.generalRules.rulesStrings>
+</LanguageData>
