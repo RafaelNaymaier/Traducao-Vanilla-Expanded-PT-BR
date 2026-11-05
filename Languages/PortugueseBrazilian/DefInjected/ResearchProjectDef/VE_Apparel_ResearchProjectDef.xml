@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: casual wear -->
+  <VAE_CasualWear.label>roupas casuais</VAE_CasualWear.label>
+  <!-- EN: Craft casual wear with handy features for any life situation.\n\n<i><color=#66E0E4FF>Vanilla Apparel Expanded</color></i> -->
+  <VAE_CasualWear.description>Produza roupas casuais com recursos úteis para qualquer situação.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Apparel Expanded&lt;/color&gt;&lt;/i&gt;</VAE_CasualWear.description>
+  <!-- EN:
+    <li>subject->everyday comfort</li>
+    <li>subject_story->revolutionized daily attire with pockets for every gadget</li>
+    <li>subject_story->created clothes that adapt to both social gatherings and solitude</li>
+    <li>subject_story->crafted the ultimate leisure outfit, blending fashion with utility</li>
+    <li>subject_gerund->designing versatile casual wear</li>
+  -->
+  <VAE_CasualWear.generalRules.rulesStrings>
+    <li>subject->conforto para o dia a dia</li>
+    <li>subject_story->revolucionou as roupas do cotidiano com bolsos para todos os aparelhos</li>
+    <li>subject_story->criou roupas que servem tanto para encontros sociais quanto para momentos a sós</li>
+    <li>subject_story->criou o traje casual definitivo, unindo estilo e praticidade</li>
+    <li>subject_gerund->criando roupas casuais versáteis</li>
+  </VAE_CasualWear.generalRules.rulesStrings>
+
+  <!-- EN: formal wear -->
+  <VAE_FormalWear.label>roupas formais</VAE_FormalWear.label>
+  <!-- EN: Craft suits and formal wear.\n\n<i><color=#66E0E4FF>Vanilla Apparel Expanded</color></i> -->
+  <VAE_FormalWear.description>Produza ternos e roupas formais.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Apparel Expanded&lt;/color&gt;&lt;/i&gt;</VAE_FormalWear.description>
+  <!-- EN:
+    <li>subject->elegant dressing</li>
+    <li>subject_story->designed the most sought-after gala attire</li>
+    <li>subject_story->brought back vintage styles with a modern twist</li>
+    <li>subject_story->tailored suits that became the standard in high diplomacy</li>
+    <li>subject_gerund->crafting exquisite formal wear</li>
+  -->
+  <VAE_FormalWear.generalRules.rulesStrings>
+    <li>subject->elegância ao se vestir</li>
+    <li>subject_story->criou as roupas de gala mais cobiçadas</li>
+    <li>subject_story->resgatou estilos clássicos com um toque moderno</li>
+    <li>subject_story->costurou ternos que se tornaram padrão na alta diplomacia</li>
+    <li>subject_gerund->confeccionando roupas formais requintadas</li>
+  </VAE_FormalWear.generalRules.rulesStrings>
+
+  <!-- EN: military clothing -->
+  <VAE_MilitaryClothing.label>roupas militares</VAE_MilitaryClothing.label>
+  <!-- EN: Craft weatherproof outfits to protect your soldiers.\n\n<i><color=#66E0E4FF>Vanilla Apparel Expanded</color></i> -->
+  <VAE_MilitaryClothing.description>Produza roupas resistentes ao clima para proteger seus soldados.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Apparel Expanded&lt;/color&gt;&lt;/i&gt;</VAE_MilitaryClothing.description>
+  <!-- EN:
+    <li>subject->tactical gear</li>
+    <li>subject_story->designed camouflage that blends into multiple terrains</li>
+    <li>subject_story->created armor inserts that are both lightweight and bulletproof</li>
+    <li>subject_story->equipped units with climate-controlled battle dress</li>
+    <li>subject_gerund->assembling advanced military outfits</li>
+  -->
+  <VAE_MilitaryClothing.generalRules.rulesStrings>
+    <li>subject->equipamento tático</li>
+    <li>subject_story->criou camuflagens que se misturam a diversos tipos de terreno</li>
+    <li>subject_story->criou placas de armadura leves e à prova de balas</li>
+    <li>subject_story->equipou tropas com uniformes de combate adaptados ao clima</li>
+    <li>subject_gerund->montando uniformes militares avançados</li>
+  </VAE_MilitaryClothing.generalRules.rulesStrings>
+
+  <!-- EN: sterile attire -->
+  <VAE_SterileAttire.label>roupas estéreis</VAE_SterileAttire.label>
+  <!-- EN: Craft sterile attire used by doctors and scientists.\n\n<i><color=#66E0E4FF>Vanilla Apparel Expanded</color></i> -->
+  <VAE_SterileAttire.description>Produza roupas estéreis usadas por médicos e cientistas.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Apparel Expanded&lt;/color&gt;&lt;/i&gt;</VAE_SterileAttire.description>
+  <!-- EN:
+    <li>subject->hygienic wear</li>
+    <li>subject_story->developed a fabric that repels 99.9% of microbes</li>
+    <li>subject_story->pioneered the self-cleaning lab coat</li>
+    <li>subject_story->introduced color-coded uniforms for different lab sectors</li>
+    <li>subject_gerund->producing sterile clothing</li>
+  -->
+  <VAE_SterileAttire.generalRules.rulesStrings>
+    <li>subject->roupas higiênicas</li>
+    <li>subject_story->desenvolveu um tecido que repele 99,9% dos micróbios</li>
+    <li>subject_story->foi pioneiro no jaleco autolimpante</li>
+    <li>subject_story->introduziu uniformes com cores diferentes para cada setor do laboratório</li>
+    <li>subject_gerund->produzindo roupas estéreis</li>
+  </VAE_SterileAttire.generalRules.rulesStrings>
+
+  <!-- EN: work attire -->
+  <VAE_WorkAttire.label>roupas de trabalho</VAE_WorkAttire.label>
+  <!-- EN: Craft comfortable and and functional attire for any kind of work.\n\n<i><color=#66E0E4FF>Vanilla Apparel Expanded</color></i> -->
+  <VAE_WorkAttire.description>Produza roupas confortáveis e funcionais para qualquer tipo de trabalho.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Apparel Expanded&lt;/color&gt;&lt;/i&gt;</VAE_WorkAttire.description>
+  <!-- EN:
+    <li>subject->functional fashion</li>
+    <li>subject_story->introduced durable fabrics that withstand any job</li>
+    <li>subject_story->innovated with multi-tool belts integrated into work pants</li>
+    <li>subject_story->set the new norm with climate-adaptive work clothes</li>
+    <li>subject_gerund->sewing specialized work attire</li>
+  -->
+  <VAE_WorkAttire.generalRules.rulesStrings>
+    <li>subject->moda funcional</li>
+    <li>subject_story->introduziu tecidos resistentes para qualquer tipo de trabalho</li>
+    <li>subject_story->inovou com cintos para várias ferramentas integrados às calças de trabalho</li>
+    <li>subject_story->estabeleceu um novo padrão com roupas de trabalho adaptáveis ao clima</li>
+    <li>subject_gerund->costurando roupas de trabalho especializadas</li>
+  </VAE_WorkAttire.generalRules.rulesStrings>
+
+</LanguageData>
