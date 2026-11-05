@@ -28,7 +28,7 @@
   <VPE_GroupLink.label>elo de grupo</VPE_GroupLink.label>
 
   <!-- EN: Creates a sphere of psychic suggestion around the caster, linking all pawns within to the caster and allowing any single target “Word of” psycast to affect all others. The effect ends when those linked move out of range. -->
-  <VPE_GroupLink.description>Cria uma esfera de sugestão psíquica ao redor do conjurador, conectando a ele todos os colonos dentro dela e permitindo que qualquer poder psíquico do tipo "Palavra de" que afete um único alvo atinja todos os demais. O efeito termina quando os conectados saem do alcance.</VPE_GroupLink.description>
+  <VPE_GroupLink.description>Cria uma esfera de sugestão psíquica ao redor do conjurador, conectando a ele todos os colonos dentro dela e permitindo que qualquer psiconjuração do tipo "Palavra de" que afete um único alvo atinja todos os demais. O efeito termina quando os conectados saem do alcance.</VPE_GroupLink.description>
 
   <!-- EN: Using ability: {0} -->
   <VPE_GroupLink.jobReportString>Usando habilidade: {0}</VPE_GroupLink.jobReportString>
@@ -112,7 +112,7 @@
   <VPE_WordofTrust.label>palavra de confiança</VPE_WordofTrust.label>
 
   <!-- EN: Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This psycast can only reduce a prisoner's resistance, but cannot recruit him. -->
-  <VPE_WordofTrust.description>Fala com o prisioneiro usando sugestão psíquica para reduzir sua resistência ao recrutamento. Este poder só reduz a resistência do prisioneiro, não pode recrutá-lo.</VPE_WordofTrust.description>
+  <VPE_WordofTrust.description>Fala com o prisioneiro usando sugestão psíquica para reduzir sua resistência ao recrutamento. Esta psiconjuração só reduz a resistência do prisioneiro, não pode recrutá-lo.</VPE_WordofTrust.description>
 
   <!-- EN: Using ability: {0} -->
   <VPE_WordofTrust.jobReportString>Usando habilidade: {0}</VPE_WordofTrust.jobReportString>
@@ -1270,7 +1270,7 @@
   <VPE_Skipdoor.label>portal de salto</VPE_Skipdoor.label>
 
   <!-- EN: Creates an opening to a network of skipgates which can be placed in any location with a permanent presence. The network is tied to a group’s collective consciousness, allowing others to use it and different psycasters can add to it. However, the entry points are sensitive to physical disturbances which can cause them to collapse. -->
-  <VPE_Skipdoor.description>Cria uma abertura para uma rede de portais de salto, que podem ser instalados em qualquer local para permanecerem ali. A rede está ligada à consciência coletiva de um grupo, permitindo que outros a usem e que diferentes psíquicos a ampliem. Porém, os pontos de entrada são sensíveis a perturbações físicas, que podem fazê-los desabar.</VPE_Skipdoor.description>
+  <VPE_Skipdoor.description>Cria uma abertura para uma rede de portais de salto, que podem ser instalados em qualquer local para permanecerem ali. A rede está ligada à consciência coletiva de um grupo, permitindo que outros a usem e que diferentes psinjuradores a ampliem. Porém, os pontos de entrada são sensíveis a perturbações físicas, que podem fazê-los desabar.</VPE_Skipdoor.description>
 
   <!-- EN: Using ability: {0} -->
   <VPE_Skipdoor.jobReportString>Usando habilidade: {0}</VPE_Skipdoor.jobReportString>
@@ -1462,7 +1462,7 @@
   <VPE_CraftPsyRing.label>fabricar anel psíquico</VPE_CraftPsyRing.label>
 
   <!-- EN: Psychically alters the form of a piece of eltex into the shape of a ring, which is imbued with psycasting knowledge of the caster. When worn by another psycaster, this temporarily allows them to use this knowledge to perform the stored psycast without practice. -->
-  <VPE_CraftPsyRing.description>Altera psiquicamente um pedaço de eltex para dar a ele a forma de um anel, imbuído com o conhecimento de conjuração do psíquico. Quando usado por outro psíquico, permite temporariamente que ele use esse conhecimento para executar o poder armazenado sem praticar.</VPE_CraftPsyRing.description>
+  <VPE_CraftPsyRing.description>Altera psiquicamente um pedaço de eltex para dar a ele a forma de um anel, imbuído com o conhecimento de conjuração do psíquico. Quando usado por outro psinjurador, permite temporariamente que ele use esse conhecimento para executar a psiconjuração armazenada sem praticar.</VPE_CraftPsyRing.description>
 
   <!-- EN: Using ability: {0} -->
   <VPE_CraftPsyRing.jobReportString>Usando habilidade: {0}</VPE_CraftPsyRing.jobReportString>
@@ -1798,7 +1798,7 @@
   <VPE_WordofAnimals.label>palavra dos animais</VPE_WordofAnimals.label>
 
   <!-- EN: Soothe an animal using psychic suggestion, either calming a manhunting animal or taming them. Depending on the psychic sensitivity of the caster and the body size of an animal, the psycast may backfire and turn the animal manhunter. -->
-  <VPE_WordofAnimals.description>Acalma um animal usando sugestão psíquica, acalmando um animal enfurecido ou domesticando-o. Dependendo da sensibilidade psíquica do conjurador e do tamanho do animal, o poder pode sair pela culatra e enfurecê-lo.</VPE_WordofAnimals.description>
+  <VPE_WordofAnimals.description>Acalma um animal usando sugestão psíquica, acalmando um animal enfurecido ou domesticando-o. Dependendo da sensibilidade psíquica do conjurador e do tamanho do animal, a psiconjuração pode sair pela culatra e enfurecê-lo.</VPE_WordofAnimals.description>
 
   <!-- EN: Using ability: {0} -->
   <VPE_WordofAnimals.jobReportString>Usando habilidade: {0}</VPE_WordofAnimals.jobReportString>

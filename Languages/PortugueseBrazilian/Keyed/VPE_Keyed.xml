@@ -4,19 +4,19 @@
   <VanillaPsycastsExpanded>Vanilla Psycasts Expanded</VanillaPsycastsExpanded>
 
   <!-- EN: Psycaster XP per Psyfocus % gained -->
-  <VPE.XPPerPercent>EXP de psíquico por % de foco psíquico obtido</VPE.XPPerPercent>
+  <VPE.XPPerPercent>EXP de psinjurador por % de foco psíquico obtido</VPE.XPPerPercent>
 
   <!-- EN: Basilicus Bestower Psycaster spawn chance -->
-  <VPE.PsycasterSpawnBaseChance>Chance de surgimento de psíquico doador de Basilicus</VPE.PsycasterSpawnBaseChance>
+  <VPE.PsycasterSpawnBaseChance>Chance de surgimento de psinjurador doador de Basilicus</VPE.PsycasterSpawnBaseChance>
 
   <!-- EN: Basilicus Bestower Psycaster strength factor -->
-  <VPE.PsycasterSpawnAdditional>Fator de força do psíquico doador de Basilicus</VPE.PsycasterSpawnAdditional>
+  <VPE.PsycasterSpawnAdditional>Fator de força do psinjurador doador de Basilicus</VPE.PsycasterSpawnAdditional>
 
   <!-- EN: Allow shrinking? -->
   <VPE.AllowShrink>Permitir reduzir?</VPE.AllowShrink>
 
   <!-- EN: Allow psycast gizmos to be shrunken to half size when there are a lot of them. -->
-  <VPE.AllowShrink.Desc>Permite reduzir os comandos de poderes psíquicos à metade do tamanho quando houver muitos.</VPE.AllowShrink.Desc>
+  <VPE.AllowShrink.Desc>Permite reduzir os comandos de psiconjurações à metade do tamanho quando houver muitos.</VPE.AllowShrink.Desc>
 
   <!-- EN: UI small mode -->
   <VPE.SmallMode>Modo compacto da interface</VPE.SmallMode>
@@ -28,7 +28,7 @@
   <VPE.MuteSkipdoor>Silenciar o som do portal de salto</VPE.MuteSkipdoor>
 
   <!-- EN: Maximum psycaster level -->
-  <VPE.MaxLevel>Nível máximo de psíquico</VPE.MaxLevel>
+  <VPE.MaxLevel>Nível máximo de psinjurador</VPE.MaxLevel>
 
   <!-- EN: Scale base psyfocus gain with stat points? -->
   <VPE.ChangeFocusGain>Escalar o ganho básico de foco psíquico com pontos de atributo?</VPE.ChangeFocusGain>
@@ -37,22 +37,22 @@
   <VPE.ChangeFocusGain.Desc>Se ativado, o ganho básico de foco psíquico antes de qualquer foco pode ser aumentado gastando pontos de atributo.</VPE.ChangeFocusGain.Desc>
 
   <!-- EN: Psycasts -->
-  <VPE.Psycasts>Psiconjurações</VPE.Psycasts>
+  <VPE.Psycasts>Poderes</VPE.Psycasts>
 
   <!-- EN: Psycaster Level: {0} -->
-  <VPE.PsyLevel>Nível do psíquico: {0}</VPE.PsyLevel>
+  <VPE.PsyLevel>Nível do psinjurador: {0}</VPE.PsyLevel>
 
   <!-- EN: Earn psycaster experience by meditating. -->
-  <VPE.EarnXP>Ganhe experiência de psíquico meditando.</VPE.EarnXP>
+  <VPE.EarnXP>Ganhe experiência de psinjurador meditando.</VPE.EarnXP>
 
   <!-- EN: Available points to spend: {0} -->
   <VPE.Points>Pontos disponíveis para gastar: {0}</VPE.Points>
 
   <!-- EN: Spend points on unlocking new paths, unlocking psycasts, unlocking meditation foci, improving stats, etc. -->
-  <VPE.SpendPoints>Gaste pontos para desbloquear novos caminhos, poderes psíquicos e focos de meditação, melhorar atributos etc.</VPE.SpendPoints>
+  <VPE.SpendPoints>Gaste pontos para desbloquear novos caminhos, psiconjurações e focos de meditação, melhorar atributos etc.</VPE.SpendPoints>
 
   <!-- EN: Psycaster stats -->
-  <VPE.PsycasterStats>Atributos do psíquico</VPE.PsycasterStats>
+  <VPE.PsycasterStats>Atributos do psinjurador</VPE.PsycasterStats>
 
   <!-- EN: Upgrade -->
   <VPE.Upgrade>Aprimorar</VPE.Upgrade>
@@ -64,7 +64,7 @@
   <VPE.PsysetCustomize>Personalizar conjuntos de poderes</VPE.PsysetCustomize>
 
   <!-- EN: Drag and drop learnt psycasts into psysets that you can cycle between ingame. -->
-  <VPE.PsysetDesc>Arraste e solte os poderes psíquicos aprendidos nos conjuntos, que podem ser alternados durante o jogo.</VPE.PsysetDesc>
+  <VPE.PsysetDesc>Arraste e solte as psiconjurações aprendidas nos conjuntos, que podem ser alternados durante o jogo.</VPE.PsysetDesc>
 
   <!-- EN: Create Psyset -->
   <VPE.CreatePsyset>Criar conjunto de poderes</VPE.CreatePsyset>
@@ -139,7 +139,7 @@
   <VPE.FactionRelationReducedInfo>A boa vontade de {FACTION_name} agora é {1}. (Reduzida em {2})</VPE.FactionRelationReducedInfo>
 
   <!-- EN: Choose Psycast: -->
-  <VPE.CreatePsyringTitle>Escolha o poder psíquico:</VPE.CreatePsyringTitle>
+  <VPE.CreatePsyringTitle>Escolha a psiconjuração:</VPE.CreatePsyringTitle>
 
   <!-- EN: Create Psyring -->
   <VPE.CreatePsyringButton>Criar anel psíquico</VPE.CreatePsyringButton>
@@ -157,13 +157,17 @@
   <VPE.NotEnoughPoints>Pontos disponíveis insuficientes</VPE.NotEnoughPoints>
 
   <!-- EN: Psycasts included: -->
-  <VPE.AbilitiesList>Poderes psíquicos incluídos:</VPE.AbilitiesList>
+  <VPE.AbilitiesList>Psiconjurações incluídas:</VPE.AbilitiesList>
 
   <!-- EN: hover -->
   <VPE.Hover>sobrevoar</VPE.Hover>
 
-  <!-- EN: -->
-  <VPE.PsycasterRaidDescription>TODO</VPE.PsycasterRaidDescription>
+  <!-- EN: {0}
+
+  Capturing psycasters is a viable strategy and can be considered beneficial. -->
+  <VPE.PsycasterRaidDescription>{0}
+
+Capturar psinjuradores é uma estratégia viável e pode trazer benefícios.</VPE.PsycasterRaidDescription>
 
   <!-- EN: Locked: Requires a Royal Title -->
   <VPE.LockedTitle>Bloqueado: requer um título real</VPE.LockedTitle>

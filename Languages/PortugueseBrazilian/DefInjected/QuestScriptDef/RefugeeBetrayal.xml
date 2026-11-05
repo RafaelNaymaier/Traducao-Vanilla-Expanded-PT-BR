@@ -4,21 +4,21 @@
 	<RefugeeBetrayal.questContentRules.rulesStrings>
 		<li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
 		<li>lodgersLabelSingularOrPlural(lodgerCount&gt;=2)->[lodgersLabelPlural]</li>
-		<li>betrayalOfferRewardLetterLabel>Recompensa por Traição: [factionOpponent_nameDef]
-		</betrayalOfferRewardLetterLabel>
-		<li>betrayalOfferRewardLetterText>[factionOpponent_nameDef] prometeu-lhe uma recompensa se
+		<li>betrayalOfferRewardLetterLabel->Recompensa por Traição: [factionOpponent_nameDef]
+		</li>
+		<li>betrayalOfferRewardLetterText->[factionOpponent_nameDef] prometeu-lhe uma recompensa se
 			você matasse [asker_nameDef] [otherMembers]. [factionOpponent_pronoun] soube que isso
 			foi feito e está enviando o seguinte via cápsula de aterrissagem (valor total
 			[betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
-		<li>betrayalOfferFailedBecauseRecruitedLetterLabel>Recompensa por Traição Revogada
-		</betrayalOfferFailedBecauseRecruitedLetterLabel>
-		<li>betrayalOfferFailedBecauseRecruitedLetterText>[factionOpponent_nameDef] soube que todos
+		<li>betrayalOfferFailedBecauseRecruitedLetterLabel->Recompensa por Traição Revogada
+		</li>
+		<li>betrayalOfferFailedBecauseRecruitedLetterText->[factionOpponent_nameDef] soube que todos
 			os membros sobreviventes da [faction_name] se juntaram à sua facção!
 			[factionOpponent_nameDef] queria que todos os membros da [faction_name] morressem e,
 			portanto, revogou [factionOpponent_possessive] oferta.</li>
-		<li>betrayalOfferFailedLetterLabel>Recompensa por Traição Revogada
-		</betrayalOfferFailedLetterLabel>
-		<li>betrayalOfferFailedLetterText>[factionOpponent_nameDef] soube que um dos membros da
+		<li>betrayalOfferFailedLetterLabel->Recompensa por Traição Revogada
+		</li>
+		<li>betrayalOfferFailedLetterText->[factionOpponent_nameDef] soube que um dos membros da
 			[faction_name] não está mais em [map_definite]. [factionOpponent_nameDef] queria que
 			todos os membros da [faction_name] morressem e, portanto, revogou
 			[factionOpponent_possessive] oferta.</li>
@@ -27,19 +27,19 @@
 		<li>otherLodgers(lodgerCount&gt;=3)->e vários(as) [lodgersLabelPlural]</li>
 		<li>otherMembers(lodgerCount==1)-></li>
 		<li>otherMembers(lodgerCount&gt;=2)-> e todos os outros membros da [faction_name]</li>
-		<li>questOver>A missão '[resolvedQuestName]' terminou.
-		</questOver>
+		<li>questOver->A missão '[resolvedQuestName]' terminou.
+		</li>
 	</RefugeeBetrayal.questContentRules.rulesStrings>
 
 	<RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
-		<li>lodgersLabel>refugiado(a)
-		</lodgersLabel>
-		<li>lodgersLabelPlural>refugiados(as)
-		</lodgersLabelPlural>
+		<li>lodgersLabel->refugiado(a)
+		</li>
+		<li>lodgersLabelPlural->refugiados(as)
+		</li>
 	</RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
 
 	<RefugeeBetrayal.questDescriptionRules.rulesStrings>
-		<li>questDescription>[factionOpponent_nameDef], um(a) [factionOpponent_faction_pawnSingular]
+		<li>questDescription->[factionOpponent_nameDef], um(a) [factionOpponent_faction_pawnSingular]
 			de [factionOpponent_faction_name], soube que [asker_nameDef] [otherLodgers] [areIs]
 			sendo hospedado(s) em [map_definite]. [factionOpponent_pronoun] é inimigo(a) de
 			[asker_nameDef] e deseja [asker_objective] morto(a).\n\n[factionOpponent_pronoun]
@@ -57,8 +57,8 @@
 	</RefugeeBetrayal.questDescriptionRules.rulesStrings>
 
 	<RefugeeBetrayal.questNameRules.rulesStrings>
-		<li>questName>Oferta de Traição: [factionOpponent_nameDef]
-		</questName>
+		<li>questName->Oferta de Traição: [factionOpponent_nameDef]
+		</li>
 	</RefugeeBetrayal.questNameRules.rulesStrings>
 
 	<RefugeeBetrayal.questContentRules.rulesStrings.0>

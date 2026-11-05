@@ -70,7 +70,7 @@
   <VPE_BodiesConsumed.label>corpos consumidos</VPE_BodiesConsumed.label>
 
   <!-- EN: The amount of bodies that were consumed using the Consume Bodies psycast. Each body consumed increases a maximum neural heat by 1. -->
-  <VPE_BodiesConsumed.description>Quantidade de corpos consumidos com o poder psíquico Consumir Corpos. Cada corpo consumido aumenta em 1 o calor neural máximo.</VPE_BodiesConsumed.description>
+  <VPE_BodiesConsumed.description>Quantidade de corpos consumidos com a psiconjuração Consumir Corpos. Cada corpo consumido aumenta em 1 o calor neural máximo.</VPE_BodiesConsumed.description>
 
   <!-- EN: corpse talk -->
   <VPE_CorpseTalk.label>conversa com cadáver</VPE_CorpseTalk.label>
@@ -124,7 +124,7 @@
   <VPE_GroupLink.label>elo de grupo</VPE_GroupLink.label>
 
   <!-- EN: Psychically-induced link between several entities. Any 'word of' psycast will resonate between all linked individuals. -->
-  <VPE_GroupLink.description>Conexão induzida psiquicamente entre várias entidades. Qualquer poder psíquico do tipo "palavra de" repercutirá entre todas as pessoas conectadas.</VPE_GroupLink.description>
+  <VPE_GroupLink.description>Conexão induzida psiquicamente entre várias entidades. Qualquer psiconjuração do tipo "palavra de" repercutirá entre todas as pessoas conectadas.</VPE_GroupLink.description>
 
   <!-- EN: hallucination -->
   <VPE_Hallucination.label>alucinação</VPE_Hallucination.label>
@@ -238,13 +238,13 @@
   <VPE_Sacrificed.label>sacrificado</VPE_Sacrificed.label>
 
   <!-- EN: Psychically-induced limb removal caused by a powerful psycast. This body part will not regrow under any circumstances, even after using powerful healing artifacts. -->
-  <VPE_Sacrificed.description>Remoção de membro induzida por um poderoso poder psíquico. Esta parte do corpo não voltará a crescer em nenhuma circunstância, nem mesmo após o uso de artefatos de cura poderosos.</VPE_Sacrificed.description>
+  <VPE_Sacrificed.description>Remoção de membro induzida por uma poderosa psiconjuração. Esta parte do corpo não voltará a crescer em nenhuma circunstância, nem mesmo após o uso de artefatos de cura poderosos.</VPE_Sacrificed.description>
 
   <!-- EN: shadowfocus -->
   <VPE_Shadowfocus.label>foco nas sombras</VPE_Shadowfocus.label>
 
   <!-- EN: Psychically-induced increase to psychic sensitivity based on the lack of light around the psycaster. -->
-  <VPE_Shadowfocus.description>Aumento da sensibilidade psíquica induzido psiquicamente pela falta de luz ao redor do psíquico.</VPE_Shadowfocus.description>
+  <VPE_Shadowfocus.description>Aumento da sensibilidade psíquica induzido psiquicamente pela falta de luz ao redor do psinjurador.</VPE_Shadowfocus.description>
 
   <!-- EN: smartbuzz -->
   <VPE_Smartbuzz.label>clareza mental</VPE_Smartbuzz.label>
@@ -319,7 +319,7 @@
   <VPE_RegrowLimbs.description>Regeneração de tecidos induzida psiquicamente, capaz de fechar feridas abertas e regenerar partes do corpo ausentes.</VPE_RegrowLimbs.description>
 
   <!-- EN: psylink -->
-  <VPE_PsycastAbilityImplant.label>elo psíquico</VPE_PsycastAbilityImplant.label>
+  <VPE_PsycastAbilityImplant.label>psínculo</VPE_PsycastAbilityImplant.label>
 
   <!-- EN: Go away cheater -->
   <VPE_PsycastAbilityImplant.description>Vá embora, trapaceiro</VPE_PsycastAbilityImplant.description>

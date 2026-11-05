@@ -22,7 +22,7 @@
   <VPE_Psyring.label>anel psíquico</VPE_Psyring.label>
 
   <!-- EN: An eltex ring created by a skilled technomancer. It holds the knowledge of one particular psycast, and can be used by other psycasters to cast it. -->
-  <VPE_Psyring.description>Um anel de eltex criado por um tecnomante habilidoso. Ele guarda o conhecimento de um poder psíquico específico, que outros psíquicos podem usar.</VPE_Psyring.description>
+  <VPE_Psyring.description>Um anel de eltex criado por um tecnomante habilidoso. Ele guarda o conhecimento de uma psiconjuração específica, que outros psinjuradores podem usar.</VPE_Psyring.description>
 
   <!-- EN: ice crystal -->
   <VPE_IceCrystal.label>cristal de gelo</VPE_IceCrystal.label>
@@ -100,7 +100,7 @@
   <VPE_Eltex.label>eltex</VPE_Eltex.label>
 
   <!-- EN: An extremely mysterious mineral that is both malleable and serves as a physical conduit for psycasts. As psycasting originates from archotech engines, some speculate that either these minerals were manufactured by the archotechs or that they developed their engines using this strange mineral. -->
-  <VPE_Eltex.description>Um mineral extremamente misterioso, maleável e capaz de servir como condutor físico de poderes psíquicos. Como a conjuração psíquica tem origem em motores arquotecnológicos, há quem especule que esses minerais foram fabricados pelos arquotécnicos ou que eles desenvolveram seus motores usando esse estranho mineral.</VPE_Eltex.description>
+  <VPE_Eltex.description>Um mineral extremamente misterioso, maleável e capaz de servir como condutor físico de psiconjurações. Como a conjuração psíquica tem origem em motores arquotecnológicos, há quem especule que esses minerais foram fabricados pelos arquotécnicos ou que eles desenvolveram seus motores usando esse estranho mineral.</VPE_Eltex.description>
 
   <!-- EN: Mote -->
   <VPE_Hallucination.label>Partícula</VPE_Hallucination.label>
@@ -220,7 +220,7 @@
   <VPE_RockConstruct.label>constructo de rocha</VPE_RockConstruct.label>
 
   <!-- EN: A piece of rock chunk, animated by powerful psychic energy. It will do simple work around the colony tirelessly and with maximum dedication.\n\n<color=#E5E54C>Gameplay effect:</color>Constructs generate constant heat for the caster that summoned them. Keeping too many constructs alive could prevent the psycaster from casting other abilities. -->
-  <VPE_RockConstruct.description>Um fragmento de rocha animado por uma poderosa energia psíquica. Ele realizará tarefas simples pela colônia incansavelmente e com máxima dedicação.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Constructos geram calor constante para quem os invocou. Manter constructos demais pode impedir o psíquico de usar outras habilidades.</VPE_RockConstruct.description>
+  <VPE_RockConstruct.description>Um fragmento de rocha animado por uma poderosa energia psíquica. Ele realizará tarefas simples pela colônia incansavelmente e com máxima dedicação.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Constructos geram calor constante para quem os invocou. Manter constructos demais pode impedir o psinjurador de usar outras habilidades.</VPE_RockConstruct.description>
 
   <!-- EN: head -->
   <VPE_RockConstruct.tools.head.label>cabeça</VPE_RockConstruct.tools.head.label>
@@ -229,7 +229,7 @@
   <VPE_SteelConstruct.label>constructo de aço</VPE_SteelConstruct.label>
 
   <!-- EN: A piece of steel slag, animated by powerful psychic energy. It will engage nearby threats and defend the master from any harm that may come to them.\n\n<color=#E5E54C>Gameplay effect:</color>Constructs generate constant heat for the caster that summoned them. Keeping too many constructs alive could prevent the psycaster from casting other abilities. -->
-  <VPE_SteelConstruct.description>Um pedaço de escória de aço animado por uma poderosa energia psíquica. Ele enfrentará ameaças próximas e defenderá seu mestre de qualquer perigo.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Constructos geram calor constante para quem os invocou. Manter constructos demais pode impedir o psíquico de usar outras habilidades.</VPE_SteelConstruct.description>
+  <VPE_SteelConstruct.description>Um pedaço de escória de aço animado por uma poderosa energia psíquica. Ele enfrentará ameaças próximas e defenderá seu mestre de qualquer perigo.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt; Constructos geram calor constante para quem os invocou. Manter constructos demais pode impedir o psinjurador de usar outras habilidades.</VPE_SteelConstruct.description>
 
   <!-- EN: head -->
   <VPE_SteelConstruct.tools.head.label>cabeça</VPE_SteelConstruct.tools.head.label>
@@ -298,7 +298,7 @@
   <VPE_HeatPearls.label>pérolas de calor</VPE_HeatPearls.label>
 
   <!-- EN: Mystical heat pearls created by a technomancer in a process of condensing psychic heat into a physical form. They can be thrown at the other psycasters to unleash an insane amount of psychic heat, disabling their psycasting ability for the short duration. -->
-  <VPE_HeatPearls.description>Pérolas místicas criadas por um tecnomante ao condensar calor psíquico em forma física. Podem ser arremessadas contra outros psíquicos para liberar uma quantidade absurda de calor psíquico e desativar temporariamente sua capacidade de conjuração.</VPE_HeatPearls.description>
+  <VPE_HeatPearls.description>Pérolas místicas criadas por um tecnomante ao condensar calor psíquico em forma física. Podem ser arremessadas contra outros psinjuradores para liberar uma quantidade absurda de calor psíquico e desativar temporariamente sua capacidade de conjuração.</VPE_HeatPearls.description>
 
   <!-- EN: usage -->
   <VPE_HeatPearls.comps.CompApparelReloadable.chargeNoun>uso</VPE_HeatPearls.comps.CompApparelReloadable.chargeNoun>
