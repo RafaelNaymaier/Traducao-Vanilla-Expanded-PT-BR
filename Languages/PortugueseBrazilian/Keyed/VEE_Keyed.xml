@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Animal pod crash -->
+  <VEE_AnimalPodCrashLabel>Queda de cápsula com animais</VEE_AnimalPodCrashLabel>
+
+  <!-- EN: A transport pod carrying a {PAWN_kind} called {PAWN_nameDef} is crashing nearby. If it survives the crash, it will be badly wounded.\n\nIf you tend to its wounds, it may decide to stick around. -->
+  <VEE_AnimalPodCrashDesc>Uma cápsula de transporte com {PAWN_kind}, de nome {PAWN_nameDef}, está caindo nas proximidades. Se sobreviver à queda, ficará gravemente ferido.\n\nSe você tratar seus ferimentos, talvez decida ficar.</VEE_AnimalPodCrashDesc>
+
+  <!-- EN: Rescued animal joined -->
+  <VEE_AnimalPodCrashLabel_AceptedJoining>O animal resgatado se juntou</VEE_AnimalPodCrashLabel_AceptedJoining>
+
+  <!-- EN: The animal you rescued is joining the colony. -->
+  <VEE_AnimalPodCrashDesc_AceptedJoining>O animal que você resgatou está se juntando à colônia.</VEE_AnimalPodCrashDesc_AceptedJoining>
+
+  <!-- EN: Rescued animal didn't join -->
+  <VEE_AnimalPodCrashLabel_RefusedJoining>O animal resgatado não se juntou</VEE_AnimalPodCrashLabel_RefusedJoining>
+
+  <!-- EN: The animal you rescued isn't joining the colony. -->
+  <VEE_AnimalPodCrashDesc_RefusedJoining>O animal que você resgatou não vai se juntar à colônia.</VEE_AnimalPodCrashDesc_RefusedJoining>
+
+  <!-- EN: Traitor: {PAWN_nameDef} -->
+  <VEE_TraitorLabel>Traidor: {PAWN_nameDef}</VEE_TraitorLabel>
+
+  <!-- EN: {PAWN_nameDef} has revealed {PAWN_possessive} true colors!\n\n{PAWN_pronoun} was an agent of {Hostile_FactionName} sent to infiltrate your colony. {PAWN_pronoun} has violently turned against you and is now attacking your settlement from the inside. You can subdue or kill {PAWN_objective}! -->
+  <VEE_TraitorDesc>{PAWN_nameDef} revelou {PAWN_possessive} verdadeira face!\n\n{PAWN_pronoun} era um agente de {Hostile_FactionName}, enviado para se infiltrar na sua colônia. {PAWN_pronoun} se voltou contra você com violência e agora está atacando seu assentamento por dentro. Você pode subjugar ou matar {PAWN_objective}!</VEE_TraitorDesc>
+
+  <!-- EN: Raid (Visitors) -->
+  <VEE_TraitorGroupLabel>Ataque (visitantes)</VEE_TraitorGroupLabel>
+
+  <!-- EN: The visitors turned out to be a deceptive raid from {0}. They are attacking immediately. -->
+  <VEE_TraitorGroupDesc>Os visitantes eram, na verdade, um ataque disfarçado de {0}. Eles estão atacando agora.</VEE_TraitorGroupDesc>
+
+  <!-- EN: Orbital ship crash -->
+  <VEE_OrbitalCrashLabel>Queda de nave orbital</VEE_OrbitalCrashLabel>
+
+  <!-- EN: A massive orbital ship from {0} has suffered a catastrophic structural failure in orbit directly above your region!\n\nFor the next several hours, massive chunks of hull, volatile engine components, cargo bays, and escape pods will rain down across the area.\n\nKeep your colonists under roofs or carefully dodge the falling debris. Once the shower ends, there will be a lot of resources to salvage, and likely survivors to rescue from the wreckage. -->
+  <VEE_OrbitalCrashDesc>Uma enorme nave orbital de {0} sofreu uma falha estrutural catastrófica em órbita, bem acima da sua região!\n\nNas próximas horas, grandes pedaços do casco, componentes voláteis do motor, compartimentos de carga e cápsulas de fuga cairão por toda a região.\n\nMantenha seus colonos sob um teto ou ajude-os a desviar dos destroços em queda. Quando a chuva de destroços terminar, haverá muitos recursos para recuperar e, provavelmente, sobreviventes para resgatar dos destroços.</VEE_OrbitalCrashDesc>
+
+  <!-- EN: Shuttle crash -->
+  <VEE_ShuttleCrashLabel>Queda de nave auxiliar</VEE_ShuttleCrashLabel>
+
+  <!-- EN: A heavily damaged shuttle is plummeting from the sky and will violently crash nearby.\n\nThe impact will scatter chemfuel and ignite a dangerous fire.\n\nCargo and passengers will be found among the wreckage.\n\nYou must act quickly if you want to rescue the survivors, salvage the cargo, and stop the fire from spreading out of control. -->
+  <VEE_ShuttleCrashDesc>Uma nave auxiliar muito danificada está despencando do céu e cairá com violência nas proximidades.\n\nO impacto espalhará combustível químico e iniciará um incêndio perigoso.\n\nHaverá carga e passageiros entre os destroços.\n\nAja rápido para resgatar os sobreviventes, recuperar a carga e impedir que o incêndio se espalhe sem controle.</VEE_ShuttleCrashDesc>
+
+  <!-- EN: Earthquake (magnitude {0}) -->
+  <VEE_EarthquakeLabel>Terremoto (magnitude {0})</VEE_EarthquakeLabel>
+
+  <!-- EN: A magnitude {0} earthquake has struck the region!\n\nThe violent shaking has ruptured the ground and caused severe structural damage near the epicenter. Repairs may be required. -->
+  <VEE_EarthquakeDesc>Um terremoto de magnitude {0} atingiu a região!\n\nO tremor violento rachou o solo e causou danos estruturais graves perto do epicentro. Talvez seja necessário fazer reparos.</VEE_EarthquakeDesc>
+
+  <!-- EN: Cargo pods (weapon) -->
+  <VEE_WeaponCargoPodLabel>Cápsulas de carga (armas)</VEE_WeaponCargoPodLabel>
+
+  <!-- EN: You have detected a cargo pod landing nearby!\n\nIt seems to have carried some weapon, which you can retrieve from the wreckage. -->
+  <VEE_WeaponCargoPodDesc>Você detectou uma cápsula de carga pousando nas proximidades!\n\nEla parece ter transportado uma arma, que pode ser recuperada dos destroços.</VEE_WeaponCargoPodDesc>
+
+  <!-- EN: Cargo pods (apparel) -->
+  <VEE_ApparelCargoPodLabel>Cápsulas de carga (roupas)</VEE_ApparelCargoPodLabel>
+
+  <!-- EN: You have detected a cluster of cargo pods landing nearby!\n\nThey seem to contain random apparel, which you can retrieve from the wreckage. -->
+  <VEE_ApparelCargoPodDesc>Você detectou um grupo de cápsulas de carga pousando nas proximidades!\n\nElas parecem conter roupas variadas, que podem ser recuperadas dos destroços.</VEE_ApparelCargoPodDesc>
+
+  <!-- EN: Caravan animals wander in -->
+  <VEE_CaravanAnimalsWanderLabel>Animais de caravana aparecem</VEE_CaravanAnimalsWanderLabel>
+
+  <!-- EN: A small group of {0} has wandered into the area from the wilderness.\n\nThey appear to be the remnants of a lost or destroyed merchant caravan, as they are burdened with packs full of trading goods.\n\nYou can attempt to tame the animals to claim them and their cargo safely, or you can hunt them down to forcibly take the supplies. -->
+  <VEE_CaravanAnimalsWanderDesc>Um pequeno grupo de {0} veio da natureza e entrou na região.\n\nEles parecem ser o que restou de uma caravana comercial perdida ou destruída, pois carregam fardos cheios de mercadorias.\n\nVocê pode tentar domar os animais para ficar com eles e com a carga em segurança, ou caçá-los para tomar os suprimentos à força.</VEE_CaravanAnimalsWanderDesc>
+
+  <!-- EN: Wild {0} sprout -->
+  <VEE_CropSproutLabel>{0} selvagem brota</VEE_CropSproutLabel>
+
+  <!-- EN: A grove of wild {0} has sprouted nearby!\n\nIf you wait for the plants to grow, you'll be able to harvest them. -->
+  <VEE_CropSproutDesc>Um grupo de {0} selvagens brotou nas proximidades!\n\nSe esperar as plantas crescerem, você poderá colhê-las.</VEE_CropSproutDesc>
+
+  <!-- EN: Battle animals wander in -->
+  <VEE_BattleAnimalsWanderLabel>Animais de combate aparecem</VEE_BattleAnimalsWanderLabel>
+
+  <!-- EN: A small pack of {0} has wandered into the area from the wilderness.\n\nThey appear to be accustomed to human presence, and have immediately bonded with the colony. \n\nGiven their natural combat capabilities, they will make excellent defensive pets if you assign a handler to train them. Alternatively, if you cannot afford to feed them, they can be slaughtered for food. -->
+  <VEE_BattleAnimalsWanderDesc>Um pequeno grupo de {0} veio da natureza e entrou na região.\n\nEles parecem estar acostumados à presença humana e já criaram um vínculo com a colônia. \n\nPor suas habilidades naturais de combate, serão ótimos animais de defesa se você designar alguém para treiná-los. Se não puder alimentá-los, também poderá abatê-los para obter comida.</VEE_BattleAnimalsWanderDesc>
+
+  <!-- EN: Wild men wander in -->
+  <VEE_WildMenWanderLabel>Homens selvagens aparecem</VEE_WildMenWanderLabel>
+
+  <!-- EN: A small tribe of humans living among wild animals has wandered into the area.\n\nThey are primitive and hungry, and will actively forage for food, which includes eating your crops or raiding unsecured food stockpiles.\n\nYou can attempt to tame them one by one to add them to your colony, arrest them, or deal with them by force if they become too much of a nuisance. -->
+  <VEE_WildMenWanderDesc>Uma pequena tribo de humanos que vive entre animais selvagens entrou na região.\n\nEles são primitivos e estão com fome; procurarão comida ativamente, inclusive comendo suas plantações ou saqueando estoques de alimentos desprotegidos.\n\nVocê pode tentar domá-los um por um para que se juntem à colônia, prendê-los ou usar a força se começarem a causar problemas demais.</VEE_WildMenWanderDesc>
+
+  <!-- EN: Hunting party -->
+  <VEE_HuntingPartyLabel>Grupo de caça</VEE_HuntingPartyLabel>
+
+  <!-- EN: A small hunting party from {0} has entered the area.\n\nThey have come to hunt the local wildlife for meat and leather. They are peaceful and will not attack your colonists, but they may deplete the local game. Once each hunter bags an animal, they will pack up their kills and leave. -->
+  <VEE_HuntingPartyDesc>Um pequeno grupo de caça de {0} entrou na região.\n\nEles vieram caçar animais selvagens locais para obter carne e couro. São pacíficos e não atacarão seus colonos, mas podem reduzir a população de animais da região. Quando cada caçador abater um animal, eles recolherão suas presas e partirão.</VEE_HuntingPartyDesc>
+
+  <!-- EN: Decaying due to drought. -->
+  <VEE_Decay>Em decomposição devido à seca.</VEE_Decay>
+
+  <!-- EN: Adjusted fertility due to drought: {0} -->
+  <VEE_DroughtGui>Fertilidade ajustada devido à seca: {0}</VEE_DroughtGui>
+
+  <!-- EN: Manhunter: {0} -->
+  <VEE_ManhunterSingleArrivalLabel>Animal enfurecido: {0}</VEE_ManhunterSingleArrivalLabel>
+
+  <!-- EN: A lone, scaria-infected {0} has entered the area from the wilderness.\n\nIt is entirely rabid and will aggressively attack any human it sees. Keep your colonists inside or draft them to deal with the threat.\n\nBecause of the disease, it will likely die on its own in a few days. -->
+  <VEE_ManhunterSingleArrivalDesc>Um {0} solitário, infectado com escária, veio da natureza e entrou na região.\n\nEle está completamente enfurecido e atacará agressivamente qualquer humano que avistar. Mantenha seus colonos dentro de casa ou recrute-os para enfrentar a ameaça.\n\nPor causa da doença, provavelmente morrerá sozinho em alguns dias.</VEE_ManhunterSingleArrivalDesc>
+
+  <!-- EN: Crashlanded -->
+  <VEE_CrashlandedLabel>Sobreviventes de uma queda</VEE_CrashlandedLabel>
+
+  <!-- EN:  Three escape pods have slammed into the ground nearby. \n\nThree survivors have emerged from the wreckage, looking dazed and lost. They appear to have barely escaped a ship being torn apart in orbit. They will likely rest here to recover from cryptosleep sickness before moving on. -->
+  <VEE_CrashlandedDesc>Três cápsulas de fuga caíram com força nas proximidades. \n\nTrês sobreviventes saíram dos destroços, atordoados e desorientados. Ao que parece, escaparam por pouco de uma nave que se despedaçou em órbita. Provavelmente descansarão aqui para se recuperar da doença do crio-sono antes de seguir viagem.</VEE_CrashlandedDesc>
+
+  <!-- EN: Survivors offer to join -->
+  <VEE_CrashlandedChoiceLabel>Sobreviventes se oferecem para entrar na colônia</VEE_CrashlandedChoiceLabel>
+
+  <!-- EN: The crashlanded survivors have noticed your colony's struggling numbers. Realizing that survival on the rim is nearly impossible alone, they have offered to join your settlement, bringing their pet and supplies with them.\n\nDo you accept their offer? -->
+  <VEE_CrashlandedChoiceText>Os sobreviventes da queda perceberam que sua colônia está com poucos membros. Ao perceberem que sobreviver na orla é quase impossível sem ajuda, ofereceram-se para se juntar ao seu assentamento, trazendo consigo seu animal de estimação e seus suprimentos.\n\nVocê aceita a oferta?</VEE_CrashlandedChoiceText>
+
+  <!-- EN: Crashlanding survivors are packing their things and leaving. -->
+  <VEE_CrashlandedLeaving>Os sobreviventes da queda estão arrumando seus pertences e indo embora.</VEE_CrashlandedLeaving>
+
+  <!-- EN: Desperate refugees -->
+  <VEE_WhiteoutRefugees>Refugiados desesperados</VEE_WhiteoutRefugees>
+
+  <!-- EN: A small group of {0} freezing survivors has appeared at the edge of your settlement.\n\nThey are severely hypothermic and starving due to the ongoing whiteout. They are begging you to open your doors and share your warmth and food.\n\nBe warned: they have the wild look of desperate people. If you turn them away to freeze in the snow, they will likely try to take your shelter by force.\n\nWill you accept them? -->
+  <VEE_WhiteoutRefugeesText>Um pequeno grupo de {0} sobreviventes congelando apareceu nos limites do seu assentamento.\n\nEles estão com hipotermia grave e passando fome devido à nevasca extrema. Imploram para que você abra as portas e compartilhe calor e comida.\n\nCuidado: eles têm o olhar feroz de quem está desesperado. Se você os mandar embora para morrer congelados na neve, provavelmente tentarão tomar seu abrigo à força.\n\nVocê vai aceitá-los?</VEE_WhiteoutRefugeesText>
+
+  <!-- EN: The refugees are grateful for your mercy and have joined the colony to recover from their ordeal. -->
+  <VEE_WhiteoutRefugees_Accepted>Os refugiados agradecem sua compaixão e se juntaram à colônia para se recuperar do que passaram.</VEE_WhiteoutRefugees_Accepted>
+
+  <!-- EN: The refugees have turned on you! Betrayed and desperate, they have sworn to take your shelter by force.\n\nThey are attacking immediately. -->
+  <VEE_WhiteoutRefugees_Rejected>Os refugiados se voltaram contra você! Desesperados e se sentindo traídos, juraram tomar seu abrigo à força.\n\nEles estão atacando agora.</VEE_WhiteoutRefugees_Rejected>
+
+  <!-- EN: Young -->
+  <VEE_Young>Jovem</VEE_Young>
+
+  <!-- EN: Elder -->
+  <VEE_Elder>Idoso</VEE_Elder>
+
+  <!-- EN: Male -->
+  <VEE_Male>Homem</VEE_Male>
+
+  <!-- EN: Female -->
+  <VEE_Female>Mulher</VEE_Female>
+
+  <!-- EN: Current stage: {0}. Stage has been active for {1} -->
+  <VEE_CurrentStage>Estágio atual: {0}. O estágio está ativo há {1}</VEE_CurrentStage>
+
+  <!-- EN: Reset Settings -->
+  <VEE_ResetSettings>Redefinir configurações</VEE_ResetSettings>
+
+  <!-- EN: You need to be ingame to end game conditions -->
+  <VEE_NeedToBeIngame>Você precisa estar no jogo para encerrar condições globais</VEE_NeedToBeIngame>
+
+  <!-- EN: Stop world condition... -->
+  <VEE_StopWorldCondition>Interromper condição global...</VEE_StopWorldCondition>
+
+  <!-- EN: Stop map condition... -->
+  <VEE_StopMapCondition>Interromper condição do mapa...</VEE_StopMapCondition>
+
+  <!-- EN: Number of day(s) in-between purple events: -->
+  <VEE_DaysBetweenPurpleEvents>Número de dias entre eventos roxos:</VEE_DaysBetweenPurpleEvents>
+
+  <!-- EN: Hide haze visual effects -->
+  <VEE_HideHazeVisualEffects>Ocultar efeitos visuais de névoa</VEE_HideHazeVisualEffects>
+
+  <!-- EN: Remove the haze visual effect that appears with the "Scorch" purple event. This only affects the visual effect. -->
+  <VEE_HideHazeVisualEffectsDesc>Remove o efeito visual de névoa que aparece durante o evento roxo "Calor extremo". Isso afeta apenas o efeito visual.</VEE_HideHazeVisualEffectsDesc>
+</LanguageData>

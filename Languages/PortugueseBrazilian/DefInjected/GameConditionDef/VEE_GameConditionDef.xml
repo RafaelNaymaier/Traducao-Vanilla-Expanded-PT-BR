@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Psychic Rain -->
+  <PsychicRain.label>Chuva psíquica</PsychicRain.label>
+
+  <!-- EN: A dangerous psychic entity caused disturbance on subatomic levels, resonating across all particles of the atmosphere.\n\nA seemingly endless supernatural rain has begun, altering the very composition of time. Any person or creature not under the roof will age significantly faster.\n\nIt will last anywhere between a season to several years.\n\n<i><color=#66E0E4FF>Vanilla Events Expanded</color></i> -->
+  <PsychicRain.description>Uma entidade psíquica perigosa causou perturbações em níveis subatômicos, ressoando por todas as partículas da atmosfera.\n\nUma chuva sobrenatural aparentemente interminável começou, alterando a própria composição do tempo. Qualquer pessoa ou criatura que não esteja sob um teto envelhecerá muito mais rápido.\n\nEla pode durar de uma estação a vários anos.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Events Expanded&lt;/color&gt;&lt;/i&gt;</PsychicRain.description>
+
+  <!-- EN: The psychic rain is ending -->
+  <PsychicRain.endMessage>A chuva psíquica está acabando</PsychicRain.endMessage>
+
+  <!-- EN: long night -->
+  <VEE_LongNight.label>longa noite</VEE_LongNight.label>
+
+  <!-- EN: A catastrophic celestial eclipse that blankets the world in an endless, freezing twilight, forcing the world to adapt to artificial light and increased psychic sensitivity as nocturnal predators and subterranean threats emerge in the darkness.\n\n<i><color=#66E0E4FF>Vanilla Events Expanded</color></i> -->
+  <VEE_LongNight.description>Um eclipse celestial catastrófico cobre o mundo com um crepúsculo gélido e interminável. O mundo precisa se adaptar à luz artificial e à sensibilidade psíquica intensificada, enquanto predadores noturnos e ameaças subterrâneas surgem na escuridão.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Events Expanded&lt;/color&gt;&lt;/i&gt;</VEE_LongNight.description>
+
+  <!-- EN: The long night is ending -->
+  <VEE_LongNight.endMessage>A longa noite está acabando</VEE_LongNight.endMessage>
+
+  <!-- EN: the penumbra -->
+  <VEE_LongNight.modExtensions.0.stages.0.letterLabel>a penumbra</VEE_LongNight.modExtensions.0.stages.0.letterLabel>
+
+  <!-- EN: A space entity of unimaginable size has made first contact with a local star, resulting in the beginning of a long lasting eclipse.\n\nThe daylight is beginning to dim, casting a vast penumbra over the planet. Solar output and temperatures will continue to drop as the eclipse deepens. Prepare your power grids and indoor agriculture before the true darkness arrives. -->
+  <VEE_LongNight.modExtensions.0.stages.0.letterText>Uma entidade espacial de tamanho inimaginável fez contato com uma estrela local, dando início a um eclipse prolongado.\n\nA luz do dia está começando a diminuir, lançando uma vasta penumbra sobre o planeta. A produção de energia solar e as temperaturas continuarão caindo à medida que o eclipse se intensifica. Prepare sua rede elétrica e o cultivo em ambientes fechados antes que a escuridão total chegue.</VEE_LongNight.modExtensions.0.stages.0.letterText>
+
+  <!-- EN: the umbra -->
+  <VEE_LongNight.modExtensions.0.stages.1.letterLabel>a umbra</VEE_LongNight.modExtensions.0.stages.1.letterLabel>
+
+  <!-- EN: The celestial entity has begun to cross the center of the sun.\n\nThe planet has been plunged into a deep, freezing twilight. Solar generators are now struggling to produce power, and surface flora is dying. Rely on artificial lights and indoor heating to survive the coming black. -->
+  <VEE_LongNight.modExtensions.0.stages.1.letterText>A entidade celestial começou a cruzar o centro do sol.\n\nO planeta mergulhou em um crepúsculo profundo e congelante. Os geradores solares agora mal conseguem produzir energia, e a flora da superfície está morrendo. Conte com iluminação artificial e aquecimento interno para sobreviver à escuridão que se aproxima.</VEE_LongNight.modExtensions.0.stages.1.letterText>
+
+  <!-- EN: the totality -->
+  <VEE_LongNight.modExtensions.0.stages.2.letterLabel>a totalidade</VEE_LongNight.modExtensions.0.stages.2.letterLabel>
+
+  <!-- EN: The sun has been completely blotted out. \n\nTotality has been achieved, and an endless, freezing night has fallen across the world. The celestial entity is emitting a heavy cosmic resonance. Your colonists will tire much faster than normal, and their psychic sensitivity has been dangerously amplified.\n\nThe animals became a lot more aggressive. Guard your brightly lit base against the nocturnal predators and subterranean insectoids. -->
+  <VEE_LongNight.modExtensions.0.stages.2.letterText>O sol foi completamente encoberto. \n\nO eclipse total chegou, e uma noite gélida e interminável tomou conta do mundo. A entidade celestial está emitindo uma intensa ressonância cósmica. Seus colonos ficarão cansados muito mais rápido que o normal, e sua sensibilidade psíquica foi amplificada a níveis perigosos.\n\nOs animais ficaram muito mais agressivos. Proteja sua base bem iluminada contra predadores noturnos e insetoides subterrâneos.</VEE_LongNight.modExtensions.0.stages.2.letterText>
+
+  <!-- EN: the emergence -->
+  <VEE_LongNight.modExtensions.0.stages.3.letterLabel>o surgimento</VEE_LongNight.modExtensions.0.stages.3.letterLabel>
+
+  <!-- EN: A brilliant flash of light has pierced the horizon!\n\nThe cosmic entity is finally shifting away from the sun's center. Totality has ended. The absolute darkness has broken into twilight. Your solar panels will begin generating power once again, and plants will resume growth as the temperature increases. -->
+  <VEE_LongNight.modExtensions.0.stages.3.letterText>Um clarão brilhante rompeu o horizonte!\n\nA entidade cósmica finalmente está se afastando do centro do sol. O eclipse total acabou. A escuridão absoluta deu lugar ao crepúsculo. Seus painéis solares voltarão a gerar energia, e as plantas retomarão o crescimento conforme a temperatura subir.</VEE_LongNight.modExtensions.0.stages.3.letterText>
+
+  <!-- EN: the restoration -->
+  <VEE_LongNight.modExtensions.0.stages.4.letterLabel>a restauração</VEE_LongNight.modExtensions.0.stages.4.letterLabel>
+
+  <!-- EN: The celestial object is making its final pass across the sun.\n\nThe long night is ending. Over the coming days, the remaining shadows will clear, temperatures will normalize, and the planet will fully awaken from the dark. -->
+  <VEE_LongNight.modExtensions.0.stages.4.letterText>O objeto celestial está fazendo sua última passagem diante do sol.\n\nA longa noite está acabando. Nos próximos dias, as sombras restantes desaparecerão, as temperaturas voltarão ao normal e o planeta despertará por completo da escuridão.</VEE_LongNight.modExtensions.0.stages.4.letterText>
+
+  <!-- EN: psychic bloom -->
+  <VEE_PsychicBloom.label>florescimento psíquico</VEE_PsychicBloom.label>
+
+  <!-- EN: A dimensional rift tears through the sky, blanketing the world in a perpetual purple aurora while alien seedlings sprout and mutate local flora into psychic lotuses, forcing the world to manage rapidly growing, otherworldly vegetation and intensifying psychic pressure.\n\n<i><color=#66E0E4FF>Vanilla Events Expanded</color></i> -->
+  <VEE_PsychicBloom.description>Uma fenda dimensional rasga o céu e cobre o mundo com uma aurora púrpura permanente. Mudas alienígenas brotam e transformam a flora local em lótus psíquicos, obrigando todos a lidar com uma vegetação sobrenatural que cresce rapidamente e intensificando a pressão psíquica.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Events Expanded&lt;/color&gt;&lt;/i&gt;</VEE_PsychicBloom.description>
+
+  <!-- EN: The psychic bloom is ending -->
+  <VEE_PsychicBloom.endMessage>O florescimento psíquico está acabando</VEE_PsychicBloom.endMessage>
+
+  <!-- EN: the seeding -->
+  <VEE_PsychicBloom.modExtensions.0.stages.0.letterLabel>a germinação</VEE_PsychicBloom.modExtensions.0.stages.0.letterLabel>
+
+  <!-- EN: The veil between our reality and somewhere else is wearing dangerously thin.\n\nA tear in the dimensional fabric has ignited a permanent, unnatural purple aurora across the sky. Where the psychic energy bleeds through to the surface, bizarre, alien seedlings are manifesting in the soil. While they are harmless for now, they do not belong in this dimension. You may want to uproot them before they anchor themselves to our reality. -->
+  <VEE_PsychicBloom.modExtensions.0.stages.0.letterText>O véu entre a nossa realidade e algum outro lugar está perigosamente fino.\n\nUma ruptura no tecido dimensional acendeu uma aurora púrpura permanente e sobrenatural no céu. Onde a energia psíquica atravessa até a superfície, mudas alienígenas bizarras surgem no solo. Por enquanto, são inofensivas, mas não pertencem a esta dimensão. Talvez seja melhor arrancá-las antes que criem raízes em nossa realidade.</VEE_PsychicBloom.modExtensions.0.stages.0.letterText>
+
+  <!-- EN: the bloom -->
+  <VEE_PsychicBloom.modExtensions.0.stages.1.letterLabel>o florescimento</VEE_PsychicBloom.modExtensions.0.stages.1.letterLabel>
+
+  <!-- EN: The dimensional overlap is widening. The seedlings have matured into psychic lotuses, and they are actively terraforming our world to match their own.\n\nThe lotuses are mutating nearby flora into vibrant, otherworldly variants, and the ambient psychic sensitivity of everyone in the region has doubled.\n\nBeware the weather, as clouds from the other side are bleeding through. Psychic rain can have devastating effects on anyone caught outside, as time behaves differently in its home dimension. -->
+  <VEE_PsychicBloom.modExtensions.0.stages.1.letterText>A sobreposição dimensional está aumentando. As mudas amadureceram e se tornaram lótus psíquicos, transformando ativamente nosso mundo para que se pareça com o delas.\n\nOs lótus estão mutando a flora próxima em variantes vibrantes e sobrenaturais, e a sensibilidade psíquica ambiente de todos na região dobrou.\n\nCuidado com o clima: nuvens do outro lado estão atravessando a fenda. A chuva psíquica pode ter efeitos devastadores em quem for pego ao ar livre, pois o tempo se comporta de maneira diferente em sua dimensão de origem.</VEE_PsychicBloom.modExtensions.0.stages.1.letterText>
+
+  <!-- EN: the superbloom -->
+  <VEE_PsychicBloom.modExtensions.0.stages.2.letterLabel>o super florescimento</VEE_PsychicBloom.modExtensions.0.stages.2.letterLabel>
+
+  <!-- EN: The boundary between realities has completely collapsed!\n\nThe otherworldly flora has entered a catastrophic superbloom, spreading at an uncontrollable rate. Worse, the psychic lotuses are acting as conduits for the crushing psychic weight of an entirely different universe. The intensity of this maddening drone is directly tied to how many lotuses are anchoring the rift to your map.\n\nYou must sever their connection by cutting down the lotuses immediately, or the sheer psychic pressure of another dimension will drive your colonists insane. -->
+  <VEE_PsychicBloom.modExtensions.0.stages.2.letterText>A fronteira entre as realidades desabou por completo!\n\nA flora sobrenatural entrou em um super florescimento catastrófico e está se espalhando em ritmo incontrolável. Para piorar, os lótus psíquicos estão servindo de condutores para o peso psíquico esmagador de outro universo. A intensidade desse zumbido enlouquecedor depende diretamente de quantos lótus estão ancorando a fenda em seu mapa.\n\nVocê precisa cortar os lótus imediatamente para romper essa conexão, ou a enorme pressão psíquica de outra dimensão deixará seus colonos insanos.</VEE_PsychicBloom.modExtensions.0.stages.2.letterText>
+
+  <!-- EN: the withering -->
+  <VEE_PsychicBloom.modExtensions.0.stages.3.letterLabel>o definhamento</VEE_PsychicBloom.modExtensions.0.stages.3.letterLabel>
+
+  <!-- EN: Reality has violently reasserted itself.\n\nThe dimensional rift has snapped shut. Cut off from the psychic energy of their home universe, the superbloom has instantly collapsed into a hideous, withered wasteland. The maddening drone is gone, but the dead flora will take years to decay naturally. You will need to burn or chop away these wilted plants to make room for your crops to return.\n\nPsychic Rain remains a lingering threat until the sky fully heals and the aurora dissipates. -->
+  <VEE_PsychicBloom.modExtensions.0.stages.3.letterText>A realidade se impôs com violência.\n\nA fenda dimensional se fechou. Sem acesso à energia psíquica de seu universo de origem, o super florescimento desabou instantaneamente, deixando um terreno desolado e ressequido. O zumbido enlouquecedor desapareceu, mas a flora morta levará anos para se decompor naturalmente. Será preciso queimar ou cortar essas plantas murchas para abrir espaço para suas plantações.\n\nA chuva psíquica continuará sendo uma ameaça até que o céu se recupere por completo e a aurora desapareça.</VEE_PsychicBloom.modExtensions.0.stages.3.letterText>
+
+  <!-- EN: Scorch -->
+  <VEE_Scorch.label>Calor extremo</VEE_Scorch.label>
+
+  <!-- EN: A catastrophic global heatwave that plunges the planet into extreme heat, halting all outdoor farming and travel while forcing the world to survive an extended, dangerous summer.\n\n<i><color=#66E0E4FF>Vanilla Events Expanded</color></i> -->
+  <VEE_Scorch.description>Uma onda de calor global catastrófica mergulha o planeta em temperaturas extremas, interrompendo o cultivo ao ar livre e as viagens, e obrigando todos a sobreviver a um verão prolongado e perigoso.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Events Expanded&lt;/color&gt;&lt;/i&gt;</VEE_Scorch.description>
+
+  <!-- EN: The scorch is ending -->
+  <VEE_Scorch.endMessage>O calor extremo está acabando</VEE_Scorch.endMessage>
+
+  <!-- EN: the swelter -->
+  <VEE_Scorch.modExtensions.0.stages.0.letterLabel>o calor sufocante</VEE_Scorch.modExtensions.0.stages.0.letterLabel>
+
+  <!-- EN: The planet's atmosphere is beginning to trap immense amounts of solar radiation, bathing the region in an unnatural, oppressive heat.\n\nTravellers warn that this is just the beginning of a massive thermal event. Temperatures will continue to rise drastically. You have a short window to secure your food supply, build coolers, and tailor protective headgear for your colonists before the sun becomes deadly. -->
+  <VEE_Scorch.modExtensions.0.stages.0.letterText>A atmosfera do planeta está começando a reter enormes quantidades de radiação solar, envolvendo a região em um calor opressivo e sobrenatural.\n\nViajantes alertam que este é apenas o começo de um evento térmico de grandes proporções. As temperaturas continuarão subindo drasticamente. Você tem pouco tempo para garantir o suprimento de alimentos, construir resfriadores e preparar proteção para a cabeça dos colonos antes que o sol se torne mortal.</VEE_Scorch.modExtensions.0.stages.0.letterText>
+
+  <!-- EN: the scorch -->
+  <VEE_Scorch.modExtensions.0.stages.1.letterLabel>o calor extremo</VEE_Scorch.modExtensions.0.stages.1.letterLabel>
+
+  <!-- EN: The heat has reached dangerous levels, and rain clouds have vanished completely.\n\nOutdoor crops are struggling to grow in the baked earth. Furthermore, the intense UV radiation is causing sun sickness for anyone caught outside without a hat. This sickness makes victims extremely susceptible to heatstroke. Keep your colonists under roofs or ensure they are wearing headgear. -->
+  <VEE_Scorch.modExtensions.0.stages.1.letterText>O calor chegou a níveis perigosos, e as nuvens de chuva desapareceram por completo.\n\nAs plantações ao ar livre mal conseguem crescer na terra ressecada. Além disso, a intensa radiação UV causa insolação em quem for pego do lado de fora sem chapéu. Essa condição torna as vítimas extremamente suscetíveis à hipertermia. Mantenha seus colonos sob um teto ou garanta que estejam usando proteção para a cabeça.</VEE_Scorch.modExtensions.0.stages.1.letterText>
+
+  <!-- EN: the inferno -->
+  <VEE_Scorch.modExtensions.0.stages.2.letterLabel>o inferno</VEE_Scorch.modExtensions.0.stages.2.letterLabel>
+
+  <!-- EN: The heat has peaked into a catastrophic inferno. \n\nA thick, sweltering haze has settled over the area, and outdoor plant growth has completely halted. Worse yet, the superheated atmosphere is generating massive dry thunderstorms. Expect frequent lightning strikes and devastating wildfires.\n\nStay indoors, keep the coolers running, and wait for the rain to come back. -->
+  <VEE_Scorch.modExtensions.0.stages.2.letterText>O calor atingiu o auge e se tornou um inferno catastrófico. \n\nUma névoa espessa e sufocante cobriu a região, e o crescimento das plantas ao ar livre parou por completo. Para piorar, a atmosfera superaquecida está gerando enormes tempestades secas. Espere raios frequentes e incêndios florestais devastadores.\n\nFique em ambientes fechados, mantenha os resfriadores ligados e espere a chuva voltar.</VEE_Scorch.modExtensions.0.stages.2.letterText>
+
+  <!-- EN: the relief -->
+  <VEE_Scorch.modExtensions.0.stages.3.letterLabel>o alívio</VEE_Scorch.modExtensions.0.stages.3.letterLabel>
+
+  <!-- EN: The oppressive haze is finally lifting, and the sun's glare seems less deadly today.\n\nThe scorch is ending. Temperatures will slowly return to normal over the coming days, and rain clouds will soon return. -->
+  <VEE_Scorch.modExtensions.0.stages.3.letterText>A névoa opressiva finalmente está se dissipando, e hoje o brilho do sol parece menos mortal.\n\nO calor extremo está acabando. As temperaturas voltarão lentamente ao normal nos próximos dias, e as nuvens de chuva logo retornarão.</VEE_Scorch.modExtensions.0.stages.3.letterText>
+
+  <!-- EN: whiteout -->
+  <VEE_Whiteout.label>nevasca extrema</VEE_Whiteout.label>
+
+  <!-- EN: A catastrophic global deep freeze that plunges the planet into extreme cold, halting all human travel and trade while forcing the world to survive an extended, dangerous winter.\n\n<i><color=#66E0E4FF>Vanilla Events Expanded</color></i> -->
+  <VEE_Whiteout.description>Uma onda global de frio extremo mergulha o planeta em temperaturas congelantes, interrompendo todas as viagens e o comércio humanos e obrigando todos a sobreviver a um inverno prolongado e perigoso.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Events Expanded&lt;/color&gt;&lt;/i&gt;</VEE_Whiteout.description>
+
+  <!-- EN: The whiteout is ending. -->
+  <VEE_Whiteout.endMessage>A nevasca extrema está acabando.</VEE_Whiteout.endMessage>
+
+  <!-- EN: the frost -->
+  <VEE_Whiteout.modExtensions.0.stages.0.letterLabel>a geada</VEE_Whiteout.modExtensions.0.stages.0.letterLabel>
+
+  <!-- EN: Atmospheric temperatures are steadily dropping across the planet.\n\nThis is not a standard cold snap. You predict a catastrophic deep freeze is approaching, eventually leading to a complete whiteout. You have a short window to stockpile fuel, harvest your remaining crops, and build heaters before the true cold sets in. -->
+  <VEE_Whiteout.modExtensions.0.stages.0.letterText>As temperaturas atmosféricas estão caindo de forma constante em todo o planeta.\n\nEsta não é uma onda de frio comum. Você prevê a aproximação de um congelamento catastrófico, que acabará cobrindo tudo de neve. Há pouco tempo para estocar combustível, colher o restante das plantações e construir aquecedores antes que o frio intenso chegue.</VEE_Whiteout.modExtensions.0.stages.0.letterText>
+
+  <!-- EN: the deep freeze -->
+  <VEE_Whiteout.modExtensions.0.stages.1.letterLabel>o congelamento intenso</VEE_Whiteout.modExtensions.0.stages.1.letterLabel>
+
+  <!-- EN: The cold has deepened drastically.\n\nWildlife is fleeing the region, and the flora is dying off. Ensure your colony stays indoors and that your power grid can handle the immense strain of constant heating. The worst is still yet to come. -->
+  <VEE_Whiteout.modExtensions.0.stages.1.letterText>O frio se intensificou drasticamente.\n\nOs animais selvagens estão fugindo da região, e a flora está morrendo. Mantenha a colônia em ambientes fechados e garanta que a rede elétrica suporte a enorme demanda do aquecimento constante. O pior ainda está por vir.</VEE_Whiteout.modExtensions.0.stages.1.letterText>
+
+  <!-- EN: the whiteout -->
+  <VEE_Whiteout.modExtensions.0.stages.2.letterLabel>a nevasca extrema</VEE_Whiteout.modExtensions.0.stages.2.letterLabel>
+
+  <!-- EN: The whiteout has arrived.\n\nTemperatures have plummeted to unsurvivable levels. Human travel across the planet is now entirely unadvised; you will receive no trade caravans or human raids. However, the bitter cold does not bother mechanoids.\n\nIf you persevere, the freeze will eventually break. -->
+  <VEE_Whiteout.modExtensions.0.stages.2.letterText>A nevasca extrema chegou.\n\nAs temperaturas despencaram a níveis impossíveis de sobreviver. Viajar pelo planeta agora é extremamente desaconselhável; você não receberá caravanas comerciais nem ataques humanos. No entanto, o frio intenso não afeta os mecanoides.\n\nSe resistir, o congelamento acabará cedendo.</VEE_Whiteout.modExtensions.0.stages.2.letterText>
+
+  <!-- EN: the thaw -->
+  <VEE_Whiteout.modExtensions.0.stages.3.letterLabel>o degelo</VEE_Whiteout.modExtensions.0.stages.3.letterLabel>
+
+  <!-- EN: The skies are finally clearing and the bitter cold is beginning to recede.\n\nThe whiteout is ending. Temperatures will slowly return to normal over the next quadrum, and life will eventually return. -->
+  <VEE_Whiteout.modExtensions.0.stages.3.letterText>O céu finalmente está clareando, e o frio intenso começa a diminuir.\n\nA nevasca extrema está acabando. As temperaturas voltarão lentamente ao normal ao longo do próximo quadrum, e a vida acabará retornando.</VEE_Whiteout.modExtensions.0.stages.3.letterText>
+
+  <!-- EN: orbital ship crash -->
+  <SpaceBattle.label>queda de nave orbital</SpaceBattle.label>
+
+  <!-- EN: A massive orbital ship has suffered a catastrophic structural failure in orbit directly above your region!\n\n<i><color=#66E0E4FF>Vanilla Events Expanded</color></i> -->
+  <SpaceBattle.description>Uma enorme nave orbital sofreu uma falha estrutural catastrófica em órbita, bem acima da sua região!\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Events Expanded&lt;/color&gt;&lt;/i&gt;</SpaceBattle.description>
+
+  <!-- EN: The orbital ship crash is ending. -->
+  <SpaceBattle.endMessage>A queda da nave orbital está acabando.</SpaceBattle.endMessage>
+
+  <!-- EN: Drought -->
+  <VEE_Drought.label>Seca</VEE_Drought.label>
+
+  <!-- EN: An extreme drought has set over the area. Rain clouds have vanished, and the sun is baking the earth.\n\nOutdoor crops and wild plants will suffer heavily from the lack of moisture, almost halting their growth and eventually dying off. The fires will spread much quicker.\n\nPlants sown in hydroponics systems are not affected.\n\n<i><color=#66E0E4FF>Vanilla Events Expanded</color></i> -->
+  <VEE_Drought.description>Uma seca extrema atingiu a região. As nuvens de chuva desapareceram, e o sol está castigando a terra.\n\nAs plantações ao ar livre e as plantas selvagens sofrerão muito com a falta de umidade, quase parando de crescer e eventualmente morrendo. Os incêndios se espalharão muito mais rápido.\n\nPlantas cultivadas em sistemas hidropônicos não serão afetadas.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Events Expanded&lt;/color&gt;&lt;/i&gt;</VEE_Drought.description>
+
+  <!-- EN: The drought is ending. -->
+  <VEE_Drought.endMessage>A seca está acabando.</VEE_Drought.endMessage>
+
+  <!-- EN: An extreme drought has set over the area. Rain clouds have vanished, and the sun is baking the earth.\n\nOutdoor crops and wild plants will suffer heavily from the lack of moisture, almost halting their growth and eventually dying off. The fires will spread much quicker.\n\nPlants sown in hydroponics systems are not affected. -->
+  <VEE_Drought.letterText>Uma seca extrema atingiu a região. As nuvens de chuva desapareceram, e o sol está castigando a terra.\n\nAs plantações ao ar livre e as plantas selvagens sofrerão muito com a falta de umidade, quase parando de crescer e eventualmente morrendo. Os incêndios se espalharão muito mais rápido.\n\nPlantas cultivadas em sistemas hidropônicos não serão afetadas.</VEE_Drought.letterText>
+
+  <!-- EN: psychic hum -->
+  <VEE_PsychicHum.label>zumbido psíquico</VEE_PsychicHum.label>
+
+  <!-- EN: A weird, discordant psychic hum is vibrating through the minds of some people, seemingly chosen at random.\n\n<i><color=#66E0E4FF>Vanilla Events Expanded</color></i> -->
+  <VEE_PsychicHum.description>Um zumbido psíquico estranho e dissonante está vibrando na mente de algumas pessoas, aparentemente escolhidas ao acaso.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Events Expanded&lt;/color&gt;&lt;/i&gt;</VEE_PsychicHum.description>
+
+  <!-- EN: The psychic hum is ending. -->
+  <VEE_PsychicHum.endMessage>O zumbido psíquico está acabando.</VEE_PsychicHum.endMessage>
+
+  <!-- EN: A weird, discordant psychic hum is vibrating through the minds of some people, seemingly chosen at random.\n\nThey are unable to rest or find any relief, and their mental state is rapidly deteriorating as their exhaustion and need for recreation skyrocket.\n\nColonists affected:\n\n{0}. -->
+  <VEE_PsychicHum.letterText>Um zumbido psíquico estranho e dissonante está vibrando na mente de algumas pessoas, aparentemente escolhidas ao acaso.\n\nElas não conseguem descansar nem encontrar alívio, e seu estado mental está se deteriorando rapidamente, enquanto o cansaço e a necessidade de recreação aumentam muito.\n\nColonos afetados:\n\n{0}.</VEE_PsychicHum.letterText>
+
+  <!-- EN: psychic overdrive -->
+  <VEE_PsychicOverdrive.label>sobrecarga psíquica</VEE_PsychicOverdrive.label>
+
+  <!-- EN: A wave of psychic energy has washed over the colony, resonating specifically with the minds of some of your colonists!\n\n<i><color=#66E0E4FF>Vanilla Events Expanded</color></i> -->
+  <VEE_PsychicOverdrive.description>Uma onda de energia psíquica tomou conta da colônia, ressoando especificamente com a mente de alguns dos seus colonos!\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Events Expanded&lt;/color&gt;&lt;/i&gt;</VEE_PsychicOverdrive.description>
+
+  <!-- EN: The psychic overdrive is ending. -->
+  <VEE_PsychicOverdrive.endMessage>A sobrecarga psíquica está acabando.</VEE_PsychicOverdrive.endMessage>
+
+  <!-- EN: Every {0} colonist focuses much more on their work!\n\nA wave of psychic energy has washed over the colony, resonating specifically with the minds of some of your colonists!\n\nTheir thoughts are racing, and their bodies are moving with newfound efficiency. For the next few days, their work speed will be significantly boosted by this psychic overcharge. -->
+  <VEE_PsychicOverdrive.letterText>Cada colono {0} está se concentrando muito mais no trabalho!\n\nUma onda de energia psíquica tomou conta da colônia, ressoando especificamente com a mente de alguns dos seus colonos!\n\nSeus pensamentos estão acelerados, e seus corpos se movem com uma eficiência renovada. Nos próximos dias, a velocidade de trabalho deles aumentará bastante devido a essa sobrecarga psíquica.</VEE_PsychicOverdrive.letterText>
+
+  <!-- EN: psychic stimulation -->
+  <VEE_PsychicStimulation.label>estímulo psíquico</VEE_PsychicStimulation.label>
+
+  <!-- EN: Some distant engine of joy sent psychic vibrations that washed over the region, specifically resonating with the minds of a particular demographic.\n\n<i><color=#66E0E4FF>Vanilla Events Expanded</color></i> -->
+  <VEE_PsychicStimulation.description>Algum mecanismo distante de alegria enviou vibrações psíquicas que percorreram a região, ressoando especificamente com a mente de um grupo demográfico específico.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Events Expanded&lt;/color&gt;&lt;/i&gt;</VEE_PsychicStimulation.description>
+
+  <!-- EN: The psychic stimulation is ending. -->
+  <VEE_PsychicStimulation.endMessage>O estímulo psíquico está acabando.</VEE_PsychicStimulation.endMessage>
+
+  <!-- EN: Every {0} colonist seems more joyful!\n\nSome distant engine of joy sent psychic vibrations that washed over the region, specifically resonating with the minds of a particular demographic. Your colonists feel a deep, soothing calm as their minds are stimulated by the ethereal energy. They are finding great relaxation in this mental state. For a few days, their recreation will be completely satisfied. -->
+  <VEE_PsychicStimulation.letterText>Cada colono {0} parece mais feliz!\n\nAlgum mecanismo distante de alegria enviou vibrações psíquicas que percorreram a região, ressoando especificamente com a mente de um grupo demográfico específico. Seus colonos sentem uma calma profunda e reconfortante enquanto suas mentes são estimuladas por essa energia etérea. Eles estão encontrando grande relaxamento nesse estado mental. Por alguns dias, sua necessidade de recreação ficará completamente satisfeita.</VEE_PsychicStimulation.letterText>
+</LanguageData>

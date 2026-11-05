@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: might join -->
+  <MightJoin.label>pode se juntar</MightJoin.label>
+
+  <!-- EN: might join\n\n<i><color=#66E0E4FF>Vanilla Events Expanded</color></i> -->
+  <MightJoin.description>pode se juntar\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Events Expanded&lt;/color&gt;&lt;/i&gt;</MightJoin.description>
+
+  <!-- EN: traitor -->
+  <Traitor.label>traidor</Traitor.label>
+
+  <!-- EN: Oh you dirty cheater, stop peeking behind the curtain!\n\n<i><color=#66E0E4FF>Vanilla Events Expanded</color></i> -->
+  <Traitor.description>Ah, seu trapaceiro descarado! Pare de espiar por trás da cortina!\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Events Expanded&lt;/color&gt;&lt;/i&gt;</Traitor.description>
+
+  <!-- EN: psychic bloom -->
+  <VEE_BloomPsychicSensitivity.label>florescimento psíquico</VEE_BloomPsychicSensitivity.label>
+
+  <!-- EN: The psychic lotuses are mutating nearby flora into vibrant, otherworldly variants, and the ambient psychic sensitivity of everyone in the region has doubled.\n\n<i><color=#66E0E4FF>Vanilla Events Expanded</color></i> -->
+  <VEE_BloomPsychicSensitivity.description>Os lótus psíquicos estão transformando a flora próxima em variantes vibrantes e sobrenaturais, e a sensibilidade psíquica ambiente de todos na região dobrou.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Events Expanded&lt;/color&gt;&lt;/i&gt;</VEE_BloomPsychicSensitivity.description>
+
+  <!-- EN: long night -->
+  <VEE_LongNight.label>longa noite</VEE_LongNight.label>
+
+  <!-- EN: The celestial entity is emitting a heavy cosmic resonance. Organic beings will tire much faster than normal, and their psychic sensitivity will be dangerously amplified.\n\n<i><color=#66E0E4FF>Vanilla Events Expanded</color></i> -->
+  <VEE_LongNight.description>A entidade celestial está emitindo uma intensa ressonância cósmica. Seres orgânicos ficarão cansados muito mais rápido que o normal, e sua sensibilidade psíquica será amplificada a níveis perigosos.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Events Expanded&lt;/color&gt;&lt;/i&gt;</VEE_LongNight.description>
+
+  <!-- EN: psychic hum -->
+  <VEE_PsychicHumHediff.label>zumbido psíquico</VEE_PsychicHumHediff.label>
+
+  <!-- EN: A weird, discordant psychic hum is vibrating through the minds of some people, seemingly chosen at random.\n\n<i><color=#66E0E4FF>Vanilla Events Expanded</color></i> -->
+  <VEE_PsychicHumHediff.description>Um zumbido psíquico estranho e dissonante está vibrando na mente de algumas pessoas, aparentemente escolhidas ao acaso.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Events Expanded&lt;/color&gt;&lt;/i&gt;</VEE_PsychicHumHediff.description>
+
+  <!-- EN: psychic overdrive -->
+  <VEE_PsychicOverdriveHediff.label>sobrecarga psíquica</VEE_PsychicOverdriveHediff.label>
+
+  <!-- EN: A wave of psychic energy has washed over the colony, resonating specifically with the minds of some of your colonists!\n\n<i><color=#66E0E4FF>Vanilla Events Expanded</color></i> -->
+  <VEE_PsychicOverdriveHediff.description>Uma onda de energia psíquica tomou conta da colônia, ressoando especificamente com a mente de alguns dos seus colonos!\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Events Expanded&lt;/color&gt;&lt;/i&gt;</VEE_PsychicOverdriveHediff.description>
+
+  <!-- EN: psychic relaxation -->
+  <VEE_PsychicRelaxationHediff.label>relaxamento psíquico</VEE_PsychicRelaxationHediff.label>
+
+  <!-- EN: Some distant engine of joy sent psychic vibrations that washed over the region, specifically resonating with the minds of a particular demographic.\n\n<i><color=#66E0E4FF>Vanilla Events Expanded</color></i> -->
+  <VEE_PsychicRelaxationHediff.description>Algum mecanismo distante de alegria enviou vibrações psíquicas que percorreram a região, ressoando especificamente com a mente de um grupo demográfico específico.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Events Expanded&lt;/color&gt;&lt;/i&gt;</VEE_PsychicRelaxationHediff.description>
+
+  <!-- EN: sun sickness -->
+  <VEE_SunSickness.label>doença solar</VEE_SunSickness.label>
+
+  <!-- EN: Severe cellular damage and blistering caused by unprotected exposure to solar radiation. Recovery is incredibly slow and leaves the skin highly sensitive for days.\n\n<i><color=#66E0E4FF>Vanilla Events Expanded</color></i> -->
+  <VEE_SunSickness.description>Danos celulares graves e bolhas causados pela exposição desprotegida à radiação solar. A recuperação é muito lenta e deixa a pele extremamente sensível por dias.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Events Expanded&lt;/color&gt;&lt;/i&gt;</VEE_SunSickness.description>
+
+  <!-- EN: initial -->
+  <VEE_SunSickness.stages.initial.label>inicial</VEE_SunSickness.stages.initial.label>
+
+  <!-- EN: minor -->
+  <VEE_SunSickness.stages.minor.label>leve</VEE_SunSickness.stages.minor.label>
+
+  <!-- EN: moderate -->
+  <VEE_SunSickness.stages.moderate.label>moderada</VEE_SunSickness.stages.moderate.label>
+
+  <!-- EN: serious -->
+  <VEE_SunSickness.stages.serious.label>grave</VEE_SunSickness.stages.serious.label>
+
+  <!-- EN: extreme -->
+  <VEE_SunSickness.stages.extreme.label>extrema</VEE_SunSickness.stages.extreme.label>
+</LanguageData>
