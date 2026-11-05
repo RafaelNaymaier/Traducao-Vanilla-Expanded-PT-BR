@@ -180,4 +180,12 @@ Capturar psinjuradores é uma estratégia viável e pode trazer benefícios.</VP
 
   <!-- EN: Psychic coma for -->
   <VPE.PsychicComaDuration>Coma psíquico por</VPE.PsychicComaDuration>
+  <!-- EN: Psylink level gained: {0} -->
+  <VPE.PsylinkGained>Nível de psínculo obtido: {0}</VPE.PsylinkGained>
+
+  <!-- EN: {0} has gained a new level of psylink. Upon reaching that level, {1} raised psycasting-related stats slightly. {1} can now also allocate a point to either learn a new psycast, improve psycasting stats further or unlock a new meditation focus.\n\nPsycasting experience needed for next level is: {2}. -->
+  <VPE.PsylinkGained.Desc>{0} ganhou um novo nível de psínculo. Ao atingir esse nível, {1} melhorou ligeiramente os atributos de psiconjuração. {1} agora também pode gastar um ponto para aprender uma nova psiconjuração, melhorar ainda mais os atributos de psiconjuração ou desbloquear um novo foco de meditação.\n\nExperiência de psiconjuração necessária para o próximo nível: {2}.</VPE.PsylinkGained.Desc>
+
+  <!-- EN: Unlocked via Psycaster points -->
+  <VPE.UnlockedByPoints>Desbloqueado com pontos de psinjurador</VPE.UnlockedByPoints>
 </LanguageData>
