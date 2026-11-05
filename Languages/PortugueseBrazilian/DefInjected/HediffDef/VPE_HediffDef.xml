@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: lucky -->
+  <VPE_Lucky.label>sortudo</VPE_Lucky.label>
+
+  <!-- EN: Psychically-induced luck that allows this person to always hit their target, and never be hit by their enemy. -->
+  <VPE_Lucky.description>Sorte induzida psiquicamente que permite a esta pessoa sempre acertar o alvo e nunca ser atingida por seus inimigos.</VPE_Lucky.description>
+
+  <!-- EN: mind control -->
+  <VPE_MindControlled.label>controle mental</VPE_MindControlled.label>
+
+  <!-- EN: Psychically-induced mind control, giving absolute control to another person. -->
+  <VPE_MindControlled.description>Controle mental induzido psiquicamente, que concede controle absoluto a outra pessoa.</VPE_MindControlled.description>
+
+  <!-- EN: mind scramble -->
+  <VPE_MindScramble.label>confusão mental</VPE_MindScramble.label>
+
+  <!-- EN: Psychically-induced mind scramble, caused by attempting to be two people at once. -->
+  <VPE_MindScramble.description>Confusão mental induzida psiquicamente, causada pela tentativa de ser duas pessoas ao mesmo tempo.</VPE_MindScramble.description>
+
+  <!-- EN: psychic guidance -->
+  <VPE_PsychicGuidance.label>orientação psíquica</VPE_PsychicGuidance.label>
+
+  <!-- EN: Psychically-induced guidance from another person. -->
+  <VPE_PsychicGuidance.description>Orientação induzida psiquicamente por outra pessoa.</VPE_PsychicGuidance.description>
+
+  <!-- EN: psychic guide -->
+  <VPE_PsychicGuide.label>guia psíquico</VPE_PsychicGuide.label>
+
+  <!-- EN: Psychically-induced absence of mind caused by giving guidance to another person. -->
+  <VPE_PsychicGuide.description>Ausência mental induzida psiquicamente por orientar outra pessoa.</VPE_PsychicGuide.description>
+
+  <!-- EN: unlucky -->
+  <VPE_UnLucky.label>azarado</VPE_UnLucky.label>
+
+  <!-- EN: Psychically-induced bad luck that stops this person from ever hitting their target, whilst always being hit by the enemy. -->
+  <VPE_UnLucky.description>Azar induzido psiquicamente que impede esta pessoa de acertar o alvo e faz com que seja sempre atingida pelos inimigos.</VPE_UnLucky.description>
+
+  <!-- EN: age sickness -->
+  <VPE_AgeSickness.label>mal da idade</VPE_AgeSickness.label>
+
+  <!-- EN: Age-related psychic sickness greatly reducing manipulation and consciousness. -->
+  <VPE_AgeSickness.description>Doença psíquica relacionada à idade que reduz bastante a manipulação e a consciência.</VPE_AgeSickness.description>
+
+  <!-- EN: animal shield -->
+  <VPE_AnimalOvershield.label>escudo animal</VPE_AnimalOvershield.label>
+
+  <!-- EN: An overshield that protects the animal from any ranged attacks. -->
+  <VPE_AnimalOvershield.description>Um escudo protetor que protege o animal de todos os ataques à distância.</VPE_AnimalOvershield.description>
+
+  <!-- EN: bliss -->
+  <VPE_Bliss.label>êxtase</VPE_Bliss.label>
+
+  <!-- EN: Waves of serenity emanate deep from within, bringing peace of mind and lowering consciousness. -->
+  <VPE_Bliss.description>Ondas de serenidade emanam do interior, trazendo paz de espírito e reduzindo a consciência.</VPE_Bliss.description>
+
+  <!-- EN: blizzard -->
+  <VPE_Blizzard.label>nevasca</VPE_Blizzard.label>
+
+  <!-- EN: A huge wind with extreme snow that lowers sight, manipulation and movement speed. -->
+  <VPE_Blizzard.description>Ventos fortíssimos e neve intensa que reduzem a visão, a manipulação e a velocidade de movimento.</VPE_Blizzard.description>
+
+  <!-- EN: casting blizzard -->
+  <VPE_BlizzardSource.label>conjurando nevasca</VPE_BlizzardSource.label>
+
+  <!-- EN: This entity is casting blizzard. -->
+  <VPE_BlizzardSource.description>Esta entidade está conjurando uma nevasca.</VPE_BlizzardSource.description>
+
+  <!-- EN: bodies consumed -->
+  <VPE_BodiesConsumed.label>corpos consumidos</VPE_BodiesConsumed.label>
+
+  <!-- EN: The amount of bodies that were consumed using the Consume Bodies psycast. Each body consumed increases a maximum neural heat by 1. -->
+  <VPE_BodiesConsumed.description>Quantidade de corpos consumidos com o poder psíquico Consumir Corpos. Cada corpo consumido aumenta em 1 o calor neural máximo.</VPE_BodiesConsumed.description>
+
+  <!-- EN: corpse talk -->
+  <VPE_CorpseTalk.label>conversa com cadáver</VPE_CorpseTalk.label>
+
+  <!-- EN: Psychically-induced link with a spirit of a deceased individual. -->
+  <VPE_CorpseTalk.description>Conexão induzida psiquicamente com o espírito de uma pessoa falecida.</VPE_CorpseTalk.description>
+
+  <!-- EN: darkvision -->
+  <VPE_Darkvision.label>visão noturna</VPE_Darkvision.label>
+
+  <!-- EN: Psychically-induced ability to see through the darkness and shadows. -->
+  <VPE_Darkvision.description>Capacidade induzida psiquicamente de enxergar através da escuridão e das sombras.</VPE_Darkvision.description>
+
+  <!-- EN: darkvision -->
+  <VPE_Darkvision_Display.label>visão noturna</VPE_Darkvision_Display.label>
+
+  <!-- EN: Psychically-induced night vision. -->
+  <VPE_Darkvision_Display.description>Visão noturna induzida psiquicamente.</VPE_Darkvision_Display.description>
+
+  <!-- EN: death shield -->
+  <VPE_DeathShield.label>escudo da morte</VPE_DeathShield.label>
+
+  <!-- EN: Psychically-induced immortality that lasts for one day. -->
+  <VPE_DeathShield.description>Imortalidade induzida psiquicamente que dura um dia.</VPE_DeathShield.description>
+
+  <!-- EN: Essence of -->
+  <VPE_Essence.label>Essência de </VPE_Essence.label>
+
+  <!-- EN: Psychically-split fragment of someone's personality imbued in this very being. -->
+  <VPE_Essence.description>Fragmento da personalidade de alguém, dividido psiquicamente e imbuído neste ser.</VPE_Essence.description>
+
+  <!-- EN: frost ray -->
+  <VPE_FrostRay.label>raio congelante</VPE_FrostRay.label>
+
+  <!-- EN: A heavily damaging and freezing ray of frost. -->
+  <VPE_FrostRay.description>Um raio de gelo que causa muito dano e congela.</VPE_FrostRay.description>
+
+  <!-- EN: psychic vitality -->
+  <VPE_GainedVitality.label>vitalidade psíquica</VPE_GainedVitality.label>
+
+  <!-- EN: Psychically-induced vitality stolen from another person. -->
+  <VPE_GainedVitality.description>Vitalidade induzida psiquicamente e roubada de outra pessoa.</VPE_GainedVitality.description>
+
+  <!-- EN: ghostwalk -->
+  <VPE_Ghostwalk.label>caminhada espectral</VPE_Ghostwalk.label>
+
+  <!-- EN: Psychically-induced matter phasing. -->
+  <VPE_Ghostwalk.description>Intangibilidade da matéria induzida psiquicamente.</VPE_Ghostwalk.description>
+
+  <!-- EN: group link -->
+  <VPE_GroupLink.label>elo de grupo</VPE_GroupLink.label>
+
+  <!-- EN: Psychically-induced link between several entities. Any 'word of' psycast will resonate between all linked individuals. -->
+  <VPE_GroupLink.description>Conexão induzida psiquicamente entre várias entidades. Qualquer poder psíquico do tipo "palavra de" repercutirá entre todas as pessoas conectadas.</VPE_GroupLink.description>
+
+  <!-- EN: hallucination -->
+  <VPE_Hallucination.label>alucinação</VPE_Hallucination.label>
+
+  <!-- EN: Strong psychic suggestion that reshapes reality in the eyes of the affected individuals, making them perceive their every day life as that of a luxury. -->
+  <VPE_Hallucination.description>Sugestão psíquica intensa que distorce a realidade aos olhos das pessoas afetadas, fazendo com que percebam seu cotidiano como uma vida de luxo.</VPE_Hallucination.description>
+
+  <!-- EN: haywire -->
+  <VPE_Haywire.label>pane eletrônico</VPE_Haywire.label>
+
+  <!-- EN: Psychically hacked programming that disrupts the IFF operations. -->
+  <VPE_Haywire.description>Programação invadida psiquicamente que interrompe o funcionamento do sistema de identificação amigo-inimigo (IFF).</VPE_Haywire.description>
+
+  <!-- EN: hurricane -->
+  <VPE_Hurricane.label>furacão</VPE_Hurricane.label>
+
+  <!-- EN: A hurricane is causing difficulty moving and seeing. -->
+  <VPE_Hurricane.description>Um furacão está dificultando o movimento e a visão.</VPE_Hurricane.description>
+
+  <!-- EN: frozen solid -->
+  <VPE_IceBlock.label>congelado por completo</VPE_IceBlock.label>
+
+  <!-- EN: This entity is completely frozen in a block of ice, and will not be able to move until it melts. -->
+  <VPE_IceBlock.description>Esta entidade está completamente congelada em um bloco de gelo e não poderá se mover até que ele derreta.</VPE_IceBlock.description>
+
+  <!-- EN: ice shield -->
+  <VPE_IceShield.label>escudo de gelo</VPE_IceShield.label>
+
+  <!-- EN: A psychic shield that protects from hypothermia and freezer enemies that interact with it. -->
+  <VPE_IceShield.description>Um escudo psíquico que protege contra hipotermia e congela os inimigos que entram em contato com ele.</VPE_IceShield.description>
+
+  <!-- EN: powering -->
+  <VPE_InfinitePower.label>fornecendo energia</VPE_InfinitePower.label>
+
+  <!-- EN: Generating infinite electricity supply to a given structure. -->
+  <VPE_InfinitePower.description>Fornecendo eletricidade ilimitada a uma estrutura.</VPE_InfinitePower.description>
+
+  <!-- EN: liferot -->
+  <VPE_Liferot.label>apodrecimento vital</VPE_Liferot.label>
+
+  <!-- EN: Psychically-induced mass necrosis, causing living and healthy limbs and organs to rot on the victim. -->
+  <VPE_Liferot.description>Necrose generalizada induzida psiquicamente, que faz os membros e órgãos saudáveis da vítima apodrecerem ainda em vida.</VPE_Liferot.description>
+
+  <!-- EN: psychic weakness -->
+  <VPE_LostVitality.label>fraqueza psíquica</VPE_LostVitality.label>
+
+  <!-- EN: Psychically-induced weakness caused by vitality being stolen by another person. -->
+  <VPE_LostVitality.description>Fraqueza induzida psiquicamente pela vitalidade roubada por outra pessoa.</VPE_LostVitality.description>
+
+  <!-- EN: obscured -->
+  <VPE_Obscured.label>oculto</VPE_Obscured.label>
+
+  <!-- EN: Psychically-induced invisibility. -->
+  <VPE_Obscured.description>Invisibilidade induzida psiquicamente.</VPE_Obscured.description>
+
+  <!-- EN: psychic productivity -->
+  <VPE_Productivity.label>produtividade psíquica</VPE_Productivity.label>
+
+  <!-- EN: Psychically-induced improvement to work speed. -->
+  <VPE_Productivity.description>Melhoria da velocidade de trabalho induzida psiquicamente.</VPE_Productivity.description>
+
+  <!-- EN: psychic protection -->
+  <VPE_Protection.label>proteção psíquica</VPE_Protection.label>
+
+  <!-- EN: Psychically-induced physical protection from incoming damage. -->
+  <VPE_Protection.description>Proteção física contra danos recebidos, induzida psiquicamente.</VPE_Protection.description>
+
+  <!-- EN: psychic drone -->
+  <VPE_PsychicDrone.label>zumbido psíquico</VPE_PsychicDrone.label>
+
+  <!-- EN: A strong psychic force affecting every enemy humanlike in the area, making them feel more disturbed, terrified, and paranoid. -->
+  <VPE_PsychicDrone.description>Uma poderosa força psíquica afeta todos os humanoides inimigos na área, deixando-os mais perturbados, aterrorizados e paranoicos.</VPE_PsychicDrone.description>
+
+  <!-- EN: psychic pain -->
+  <VPE_PsychicPain.label>dor psíquica</VPE_PsychicPain.label>
+
+  <!-- EN: Psychically-induced extreme physical pain. -->
+  <VPE_PsychicPain.description>Dor física extrema induzida psiquicamente.</VPE_PsychicPain.description>
+
+  <!-- EN: psychic soothe -->
+  <VPE_PsychicSoothe.label>calmante psíquico</VPE_PsychicSoothe.label>
+
+  <!-- EN: Psychically-induced, self-satisfying perceptual distortions, giving a temporary mood boost. -->
+  <VPE_PsychicSoothe.description>Distorções perceptivas autoinduzidas psiquicamente que melhoram o humor temporariamente.</VPE_PsychicSoothe.description>
+
+  <!-- EN: recharge -->
+  <VPE_Recharge.label>recarga</VPE_Recharge.label>
+
+  <!-- EN: Electricity is being channeled to a nearby battery. -->
+  <VPE_Recharge.description>Eletricidade está sendo canalizada para uma bateria próxima.</VPE_Recharge.description>
+
+  <!-- EN: rot -->
+  <VPE_Rot.label>apodrecimento</VPE_Rot.label>
+
+  <!-- EN: A rot. -->
+  <VPE_Rot.description>Um apodrecimento.</VPE_Rot.description>
+
+  <!-- EN: Rotted away -->
+  <VPE_Rot.injuryProps.destroyedLabel>Apodrecido</VPE_Rot.injuryProps.destroyedLabel>
+
+  <!-- EN: Rotted away -->
+  <VPE_Rot.injuryProps.destroyedOutLabel>Apodrecido</VPE_Rot.injuryProps.destroyedOutLabel>
+
+  <!-- EN: a rot -->
+  <VPE_Rot.labelNoun>um apodrecimento</VPE_Rot.labelNoun>
+
+  <!-- EN: {0} in the {1} -->
+  <VPE_Rot.labelNounPretty>{0} em {1}</VPE_Rot.labelNounPretty>
+
+  <!-- EN: sacrificed -->
+  <VPE_Sacrificed.label>sacrificado</VPE_Sacrificed.label>
+
+  <!-- EN: Psychically-induced limb removal caused by a powerful psycast. This body part will not regrow under any circumstances, even after using powerful healing artifacts. -->
+  <VPE_Sacrificed.description>Remoção de membro induzida por um poderoso poder psíquico. Esta parte do corpo não voltará a crescer em nenhuma circunstância, nem mesmo após o uso de artefatos de cura poderosos.</VPE_Sacrificed.description>
+
+  <!-- EN: shadowfocus -->
+  <VPE_Shadowfocus.label>foco nas sombras</VPE_Shadowfocus.label>
+
+  <!-- EN: Psychically-induced increase to psychic sensitivity based on the lack of light around the psycaster. -->
+  <VPE_Shadowfocus.description>Aumento da sensibilidade psíquica induzido psiquicamente pela falta de luz ao redor do psíquico.</VPE_Shadowfocus.description>
+
+  <!-- EN: smartbuzz -->
+  <VPE_Smartbuzz.label>clareza mental</VPE_Smartbuzz.label>
+
+  <!-- EN: Psychically-induced feelings of clarity and curiosity. This improves research speed as well as skill gain speed. -->
+  <VPE_Smartbuzz.description>Sensações de clareza e curiosidade induzidas psiquicamente. Isso aumenta a velocidade de pesquisa e de aprendizado de habilidades.</VPE_Smartbuzz.description>
+
+  <!-- EN: vortex -->
+  <VPE_Vortex.label>vórtice</VPE_Vortex.label>
+
+  <!-- EN: An electirical vortex is causing difficulty moving. -->
+  <VPE_Vortex.description>Um vórtice elétrico está dificultando o movimento.</VPE_Vortex.description>
+
+  <!-- EN: no pain sensitivity -->
+  <VPE_NoPain.label>sem sensibilidade à dor</VPE_NoPain.label>
+
+  <!-- EN: This creature has a reduced pain sensitivity, and it takes longer to be downed due to pain. -->
+  <VPE_NoPain.description>Esta criatura tem sensibilidade à dor reduzida e demora mais para cair devido à dor.</VPE_NoPain.description>
+
+  <!-- EN: psychic shock -->
+  <VPE_PsychicShock.label>choque psíquico</VPE_PsychicShock.label>
+
+  <!-- EN: A state of psychic chaos in the brain and mind. Caused by psychic attacks or critical level of neural heat, this effect is debilitating until it wears off. -->
+  <VPE_PsychicShock.description>Estado de caos psíquico no cérebro e na mente. Causado por ataques psíquicos ou por um nível crítico de calor neural, esse efeito debilita até passar.</VPE_PsychicShock.description>
+
+  <!-- EN: a psychic shock -->
+  <VPE_PsychicShock.labelNoun>um choque psíquico</VPE_PsychicShock.labelNoun>
+
+  <!-- EN: psychic stabilization -->
+  <VPE_BlockBleeding.label>estabilização psíquica</VPE_BlockBleeding.label>
+
+  <!-- EN: Psychically-induced stasis that stops any bleeding. -->
+  <VPE_BlockBleeding.description>Estase induzida psiquicamente que interrompe qualquer sangramento.</VPE_BlockBleeding.description>
+
+  <!-- EN: guardian skipbarrier -->
+  <VPE_GuardianSkipBarrier.label>barreira de salto guardiã</VPE_GuardianSkipBarrier.label>
+
+  <!-- EN: Psychically crafted defensive barrier that generates large amounts of psychic heat in order to sustain itself. -->
+  <VPE_GuardianSkipBarrier.description>Barreira defensiva criada psiquicamente que gera grandes quantidades de calor psíquico para se manter.</VPE_GuardianSkipBarrier.description>
+
+  <!-- EN: psychic healing -->
+  <VPE_Healing.label>cura psíquica</VPE_Healing.label>
+
+  <!-- EN: Psychically-induced healing boost. -->
+  <VPE_Healing.description>Aumento da cura induzido psiquicamente.</VPE_Healing.description>
+
+  <!-- EN: psychic immunity -->
+  <VPE_Immunity.label>imunidade psíquica</VPE_Immunity.label>
+
+  <!-- EN: Psychically-induced immunity boost. -->
+  <VPE_Immunity.description>Aumento da imunidade induzido psiquicamente.</VPE_Immunity.description>
+
+  <!-- EN: psychic overshield -->
+  <VPE_Overshield.label>superescudo psíquico</VPE_Overshield.label>
+
+  <!-- EN: Psychically-induced personal skipbarrier. Impenetrable by ranged projectiles. -->
+  <VPE_Overshield.description>Barreira de salto pessoal induzida psiquicamente, impenetrável por projéteis à distância.</VPE_Overshield.description>
+
+  <!-- EN: regenerating -->
+  <VPE_Regenerating.label>regeneração</VPE_Regenerating.label>
+
+  <!-- EN: Regenerating wounds, new and old. -->
+  <VPE_Regenerating.description>Regenerando ferimentos, novos e antigos.</VPE_Regenerating.description>
+
+  <!-- EN: {0} in the {1} -->
+  <VPE_Regenerating.labelNounPretty>{0} em {1}</VPE_Regenerating.labelNounPretty>
+
+  <!-- EN: psychic regeneration coma -->
+  <VPE_RegrowLimbs.label>coma de regeneração psíquica</VPE_RegrowLimbs.label>
+
+  <!-- EN: Psychically-induced tissue regeneration, which can close open wounds and regenerate missing body parts. -->
+  <VPE_RegrowLimbs.description>Regeneração de tecidos induzida psiquicamente, capaz de fechar feridas abertas e regenerar partes do corpo ausentes.</VPE_RegrowLimbs.description>
+
+  <!-- EN: psylink -->
+  <VPE_PsycastAbilityImplant.label>elo psíquico</VPE_PsycastAbilityImplant.label>
+
+  <!-- EN: Go away cheater -->
+  <VPE_PsycastAbilityImplant.description>Vá embora, trapaceiro</VPE_PsycastAbilityImplant.description>
+
+  <!-- EN: fire shield -->
+  <VPE_FireShield.label>escudo de fogo</VPE_FireShield.label>
+
+  <!-- EN: A shield of fire, sets melee attackers on fire -->
+  <VPE_FireShield.description>Um escudo de fogo que incendeia atacantes corpo a corpo.</VPE_FireShield.description>
+
+  <!-- EN: static aura -->
+  <VPE_StaticAura.label>aura estática</VPE_StaticAura.label>
+
+  <!-- EN: An aura of static electricity, causes EMP damage to everything around -->
+  <VPE_StaticAura.description>Uma aura de eletricidade estática que causa dano eletromagnético a tudo ao redor.</VPE_StaticAura.description>
+
+  <!-- EN: psychic rush -->
+  <VPE_AdrenalineRush.label>ímpeto psíquico</VPE_AdrenalineRush.label>
+
+  <!-- EN: Psychically induced adrenaline rush, increasing sight, hearing and movement capabilities. -->
+  <VPE_AdrenalineRush.description>Descarga de adrenalina induzida psiquicamente, que aumenta a visão, a audição e a capacidade de movimento.</VPE_AdrenalineRush.description>
+
+  <!-- EN: blade focus -->
+  <VPE_BladeFocus.label>foco na lâmina</VPE_BladeFocus.label>
+
+  <!-- EN: Psychically induced combat focus, greatly enhancing melee combat capabilities. -->
+  <VPE_BladeFocus.description>Foco de combate induzido psiquicamente que aprimora bastante as capacidades de combate corpo a corpo.</VPE_BladeFocus.description>
+
+  <!-- EN: psychic frenzy -->
+  <VPE_ControlledFrenzy.label>frenesi psíquico</VPE_ControlledFrenzy.label>
+
+  <!-- EN: Temporary, psychically induced frenzy. The energy restores itself with each consecutive kill. -->
+  <VPE_ControlledFrenzy.description>Frenesi temporário induzido psiquicamente. A energia se restaura a cada abate consecutivo.</VPE_ControlledFrenzy.description>
+
+  <!-- EN: firing focus -->
+  <VPE_FiringFocus.label>foco de tiro</VPE_FiringFocus.label>
+
+  <!-- EN: Psychically induced combat focus, greatly enhancing ranged combat capabilities. -->
+  <VPE_FiringFocus.description>Foco de combate induzido psiquicamente que aprimora bastante as capacidades de combate à distância.</VPE_FiringFocus.description>
+
+  <!-- EN: guided shot -->
+  <VPE_GuidedShot.label>tiro guiado</VPE_GuidedShot.label>
+
+  <!-- EN: Psychically induced insane accuracy. -->
+  <VPE_GuidedShot.description>Precisão extraordinária induzida psiquicamente.</VPE_GuidedShot.description>
+
+  <!-- EN: psychic agility -->
+  <VPE_SpeedBoost.label>agilidade psíquica</VPE_SpeedBoost.label>
+
+  <!-- EN: Psychically induced agility boost, greatly increasing movement speed. -->
+  <VPE_SpeedBoost.description>Aumento da agilidade induzido psiquicamente, que eleva bastante a velocidade de movimento.</VPE_SpeedBoost.description>
+</LanguageData>

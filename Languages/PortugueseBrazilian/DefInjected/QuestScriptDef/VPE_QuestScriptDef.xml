@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <VPE_EltexMeteor.questDescriptionRules.rulesStrings>TODO</VPE_EltexMeteor.questDescriptionRules.rulesStrings>
+
+  <VPE_EltexMeteor.questNameRules.rulesStrings>TODO</VPE_EltexMeteor.questNameRules.rulesStrings>
+
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Missão expirada: [resolvedQuestName]</VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+
+  <!-- EN: Others have mined the Eltex meteor. The quest [resolvedQuestName] has expired. -->
+  <VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Outros mineraram o meteorito de eltex. A missão [resolvedQuestName] expirou.</VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+</LanguageData>

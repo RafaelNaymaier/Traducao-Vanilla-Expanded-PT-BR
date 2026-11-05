@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: minimum neural heat -->
+  <VPE_PsychicEntropyMinimum.label>calor neural mínimo</VPE_PsychicEntropyMinimum.label>
+
+  <!-- EN: The minimum amount of neural heat. This is increased by maintaining certain psycasts, which give heat that never fades.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_PsychicEntropyMinimum.description>Quantidade mínima de calor neural. Ela aumenta ao manter certos poderes psíquicos, que geram calor que nunca desaparece.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_PsychicEntropyMinimum.description>
+
+  <!-- EN: psyfocus cost factor -->
+  <VPE_PsyfocusCostFactor.label>fator de custo de foco psíquico</VPE_PsyfocusCostFactor.label>
+
+  <!-- EN: A multiplier on psyfocus cost of psycasts.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_PsyfocusCostFactor.description>Multiplicador do custo de foco psíquico dos poderes psíquicos.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_PsyfocusCostFactor.description>
+</LanguageData>

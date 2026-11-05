@@ -1,0 +1,1809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: blinding pulse -->
+  <VPE_BlindingPulse.label>pulso cegante</VPE_BlindingPulse.label>
+
+  <!-- EN: Induce noise in the visual centers of the brain, obscuring vision of everyone near the target point. Lasts for half a minute, affected by psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_BlindingPulse.description>Induz ruído nos centros visuais do cérebro, obscurecendo a visão de todos perto do ponto escolhido. Dura meio minuto e é afetado pela sensibilidade psíquica.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_BlindingPulse.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_BlindingPulse.jobReportString>Usando habilidade: {0}</VPE_BlindingPulse.jobReportString>
+
+  <!-- EN: blinding pulse -->
+  <VPE_BlindingPulse.verbProperties.label>pulso cegante</VPE_BlindingPulse.verbProperties.label>
+
+  <!-- EN: drain psyessence -->
+  <VPE_DrainPsyessence.label>drenar psicoessência</VPE_DrainPsyessence.label>
+
+  <!-- EN: Targeting a downed psychically-talented pawn, induces intense harmonic psychic noise to liquify their flesh and convert it into psyessence to be absorbed by the caster as their own accumulated psychic talent. The final moments of psychic disintegration will be felt by everyone for many kilometers around, causing diplomatic consequences with all factions.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_DrainPsyessence.description>Ao mirar em um colono caído com talento psíquico, induz ruído harmônico intenso para liquefazer sua carne e convertê-la em psicoessência, que o conjurador absorve como talento psíquico acumulado. Os momentos finais da desintegração psíquica serão sentidos por todos em muitos quilômetros, causando consequências diplomáticas com todas as facções.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_DrainPsyessence.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_DrainPsyessence.jobReportString>Usando habilidade: {0}</VPE_DrainPsyessence.jobReportString>
+
+  <!-- EN: drain psyessence -->
+  <VPE_DrainPsyessence.verbProperties.label>drenar psicoessência</VPE_DrainPsyessence.verbProperties.label>
+
+  <!-- EN: group link -->
+  <VPE_GroupLink.label>elo de grupo</VPE_GroupLink.label>
+
+  <!-- EN: Creates a sphere of psychic suggestion around the caster, linking all pawns within to the caster and allowing any single target “Word of” psycast to affect all others. The effect ends when those linked move out of range.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_GroupLink.description>Cria uma esfera de sugestão psíquica ao redor do conjurador, conectando a ele todos os colonos dentro dela e permitindo que qualquer poder psíquico do tipo "Palavra de" que afete um único alvo atinja todos os demais. O efeito termina quando os conectados saem do alcance.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_GroupLink.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_GroupLink.jobReportString>Usando habilidade: {0}</VPE_GroupLink.jobReportString>
+
+  <!-- EN: group link -->
+  <VPE_GroupLink.verbProperties.label>elo de grupo</VPE_GroupLink.verbProperties.label>
+
+  <!-- EN: mass hallucination -->
+  <VPE_MassHallucination.label>alucinação em massa</VPE_MassHallucination.label>
+
+  <!-- EN: Creating a massive burst of psychic suggestion, convinces nearby pawns that rooms are the absolute best they could possibly be. The caster is put into a coma and the resulting effect lasts for five days.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_MassHallucination.description>Cria uma enorme onda de sugestão psíquica que convence os colonos próximos de que os cômodos são os melhores possíveis. O conjurador entra em coma e o efeito dura cinco dias.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_MassHallucination.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_MassHallucination.jobReportString>Usando habilidade: {0}</VPE_MassHallucination.jobReportString>
+
+  <!-- EN: mass hallucination -->
+  <VPE_MassHallucination.verbProperties.label>alucinação em massa</VPE_MassHallucination.verbProperties.label>
+
+  <!-- EN: mind break -->
+  <VPE_MindBreak.label>colapso mental</VPE_MindBreak.label>
+
+  <!-- EN: Using concentrated harmonic psychic noise, lobotomizes the target and turns them into a serving, restless thrall. Very much unappreciated by their former factions.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_MindBreak.description>Usa ruído harmônico psíquico concentrado para lobotomizar o alvo e transformá-lo em um servo inquieto. A antiga facção do alvo certamente não apreciará isso.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_MindBreak.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_MindBreak.jobReportString>Usando habilidade: {0}</VPE_MindBreak.jobReportString>
+
+  <!-- EN: mind break -->
+  <VPE_MindBreak.verbProperties.label>colapso mental</VPE_MindBreak.verbProperties.label>
+
+  <!-- EN: word of alliance -->
+  <VPE_WordofAlliance.label>palavra de aliança</VPE_WordofAlliance.label>
+
+  <!-- EN: Speak words of friendship and benefits to a close target using psychic suggestion, coaxing them into improving their relations. Ineffective against hostility and scales with high psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_WordofAlliance.description>Diz palavras de amizade e benefícios a um alvo próximo usando sugestão psíquica, convencendo-o a melhorar as relações. Não funciona contra hostilidade e seu efeito aumenta com a sensibilidade psíquica.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_WordofAlliance.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofAlliance.jobReportString>Usando habilidade: {0}</VPE_WordofAlliance.jobReportString>
+
+  <!-- EN: word of alliance -->
+  <VPE_WordofAlliance.verbProperties.label>palavra de aliança</VPE_WordofAlliance.verbProperties.label>
+
+  <!-- EN: word of pain -->
+  <VPE_WordofPain.label>palavra de dor</VPE_WordofPain.label>
+
+  <!-- EN: Induces noise in the target’s pain centers of the brain and overstimulates their nerve endings, scaling with their psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_WordofPain.description>Induz ruído nos centros de dor do cérebro do alvo e superestimula suas terminações nervosas. O efeito aumenta com a sensibilidade psíquica dele.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_WordofPain.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofPain.jobReportString>Usando habilidade: {0}</VPE_WordofPain.jobReportString>
+
+  <!-- EN: word of pain -->
+  <VPE_WordofPain.verbProperties.label>palavra de dor</VPE_WordofPain.verbProperties.label>
+
+  <!-- EN: word of productivity -->
+  <VPE_WordofProductivity.label>palavra de produtividade</VPE_WordofProductivity.label>
+
+  <!-- EN: Using words of motivation with a heaping boost to metabolism, makes the touched target a more productive member of society for the next few days. Considered a hostile action and duration is affected by the target’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_WordofProductivity.description>Usa palavras motivadoras e um grande impulso ao metabolismo para tornar o alvo tocado um membro mais produtivo da sociedade pelos próximos dias. É considerada uma ação hostil e sua duração depende da sensibilidade psíquica do alvo.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_WordofProductivity.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofProductivity.jobReportString>Usando habilidade: {0}</VPE_WordofProductivity.jobReportString>
+
+  <!-- EN: word of productivity -->
+  <VPE_WordofProductivity.verbProperties.label>palavra de produtividade</VPE_WordofProductivity.verbProperties.label>
+
+  <!-- EN: word of protection -->
+  <VPE_WordofProtection.label>palavra de proteção</VPE_WordofProtection.label>
+
+  <!-- EN: Using harmonic psychic noise, physically alters the target’s body to be more durable and resistant to damage. Lasts a long time and scales with the caster’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_WordofProtection.description>Usa ruído harmônico psíquico para alterar fisicamente o corpo do alvo, tornando-o mais resistente a danos. Dura bastante e seu efeito aumenta com a sensibilidade psíquica do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_WordofProtection.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofProtection.jobReportString>Usando habilidade: {0}</VPE_WordofProtection.jobReportString>
+
+  <!-- EN: word of protection -->
+  <VPE_WordofProtection.verbProperties.label>palavra de proteção</VPE_WordofProtection.verbProperties.label>
+
+  <!-- EN: word of trust -->
+  <VPE_WordofTrust.label>palavra de confiança</VPE_WordofTrust.label>
+
+  <!-- EN: Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This psycast can only reduce a prisoner's resistance, but cannot recruit him.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_WordofTrust.description>Fala com o prisioneiro usando sugestão psíquica para reduzir sua resistência ao recrutamento. Este poder só reduz a resistência do prisioneiro, não pode recrutá-lo.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_WordofTrust.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofTrust.jobReportString>Usando habilidade: {0}</VPE_WordofTrust.jobReportString>
+
+  <!-- EN: word of trust -->
+  <VPE_WordofTrust.verbProperties.label>palavra de confiança</VPE_WordofTrust.verbProperties.label>
+
+  <!-- EN: aggressive heat dump -->
+  <VPE_AggressiveHeatDump.label>descarga agressiva de calor</VPE_AggressiveHeatDump.label>
+
+  <!-- EN: Instantly dump all of your neural heat into a target, causing them to explode with an area of effect relative to the heat lost. A good declaration of war.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_AggressiveHeatDump.description>Descarrega instantaneamente todo o seu calor neural em um alvo, fazendo-o explodir em uma área proporcional ao calor perdido. Uma boa declaração de guerra.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_AggressiveHeatDump.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_AggressiveHeatDump.jobReportString>Usando habilidade: {0}</VPE_AggressiveHeatDump.jobReportString>
+
+  <!-- EN: aggressive heat dump -->
+  <VPE_AggressiveHeatDump.verbProperties.label>descarga agressiva de calor</VPE_AggressiveHeatDump.verbProperties.label>
+
+  <!-- EN: berserk -->
+  <VPE_Berserk.label>frenesi</VPE_Berserk.label>
+
+  <!-- EN: Induce a berserker psychosis in the target's mind, causing them to attack anyone nearby. They regain rationality after 15 seconds, depending on their psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Berserk.description>Induz psicose frenética na mente do alvo, fazendo-o atacar todos por perto. Ele recupera a razão após 15 segundos, dependendo de sua sensibilidade psíquica.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Berserk.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Berserk.jobReportString>Usando habilidade: {0}</VPE_Berserk.jobReportString>
+
+  <!-- EN: berserk -->
+  <VPE_Berserk.verbProperties.label>frenesi</VPE_Berserk.verbProperties.label>
+
+  <!-- EN: berserk pulse -->
+  <VPE_BerserkPulse.label>pulso de frenesi</VPE_BerserkPulse.label>
+
+  <!-- EN: Generate an overwhelming rush of undirected rage in everyone near the target point. Considered an overt act of aggression and lasts several seconds.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_BerserkPulse.description>Gera uma onda de fúria avassaladora e indiscriminada em todos perto do ponto escolhido. É considerado um ato aberto de agressão e dura vários segundos.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_BerserkPulse.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_BerserkPulse.jobReportString>Usando habilidade: {0}</VPE_BerserkPulse.jobReportString>
+
+  <!-- EN: berserk pulse -->
+  <VPE_BerserkPulse.verbProperties.label>pulso de frenesi</VPE_BerserkPulse.verbProperties.label>
+
+  <!-- EN: burden -->
+  <VPE_Burden.label>lentidão</VPE_Burden.label>
+
+  <!-- EN: Slow the target for a short time by suppressing motor activity in the brain. Considered a hostile action and affected by the target’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Burden.description>Desacelera o alvo por pouco tempo ao suprimir a atividade motora do cérebro. É considerada uma ação hostil e é afetada pela sensibilidade psíquica do alvo.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Burden.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Burden.jobReportString>Usando habilidade: {0}</VPE_Burden.jobReportString>
+
+  <!-- EN: burden -->
+  <VPE_Burden.verbProperties.label>lentidão</VPE_Burden.verbProperties.label>
+
+  <!-- EN: neural heat detonation -->
+  <VPE_NeuralHeatDetonation.label>detonação de calor neural</VPE_NeuralHeatDetonation.label>
+
+  <!-- EN: Efficiently but indiscriminately dumps all of the caster’s neural heat into an explosion away from themselves, the size being relative to the heat lost.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_NeuralHeatDetonation.description>Descarrega todo o calor neural do conjurador em uma explosão distante dele, de forma eficiente, mas indiscriminada. O tamanho depende do calor perdido.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_NeuralHeatDetonation.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_NeuralHeatDetonation.jobReportString>Usando habilidade: {0}</VPE_NeuralHeatDetonation.jobReportString>
+
+  <!-- EN: neural heat detonation -->
+  <VPE_NeuralHeatDetonation.verbProperties.label>detonação de calor neural</VPE_NeuralHeatDetonation.verbProperties.label>
+
+  <!-- EN: neural heat dump -->
+  <VPE_NeuralHeatDump.label>transferência de calor neural</VPE_NeuralHeatDump.label>
+
+  <!-- EN: Instantly dump all your neural heat into a conscious ally. As a side effect, the target will fall into a debilitating, harmless coma for about a day. The target must actively accept the psychic invasion, so only conscious allies can be targeted.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_NeuralHeatDump.description>Descarrega instantaneamente todo o seu calor neural em um aliado consciente. Como efeito colateral, o alvo entra em coma debilitante, mas inofensivo, por cerca de um dia. O alvo precisa aceitar ativamente a invasão psíquica, então só aliados conscientes podem ser escolhidos.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_NeuralHeatDump.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_NeuralHeatDump.jobReportString>Usando habilidade: {0}</VPE_NeuralHeatDump.jobReportString>
+
+  <!-- EN: neural heat dump -->
+  <VPE_NeuralHeatDump.verbProperties.label>transferência de calor neural</VPE_NeuralHeatDump.verbProperties.label>
+
+  <!-- EN: neuroquake -->
+  <VPE_Neuroquake.label>neurotremor</VPE_Neuroquake.label>
+
+  <!-- EN: Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature in range but outside of the safe inner circle will be driven violently insane. Casting this takes 12 seconds of meditation, and afterwards, the caster will go into a psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Neuroquake.description>Encontra uma descontinuidade no campo psíquico e a desdobra, liberando uma enorme quantidade de energia psíquica. Todas as criaturas ao alcance, exceto as que estiverem no pequeno círculo seguro, enlouquecerão violentamente. A conjuração exige 12 segundos de meditação e depois o conjurador entra em coma psíquico. Os ecos perturbadores do neurotremor causarão dor a todos em muitos quilômetros, gerando consequências diplomáticas com todas as facções.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Neuroquake.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Neuroquake.jobReportString>Usando habilidade: {0}</VPE_Neuroquake.jobReportString>
+
+  <!-- EN: If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes 12 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for up to 5 days.\n\nEveryone in range except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake? -->
+  <VPE_Neuroquake.modExtensions.0.message>Se usar neurotremor, todos nesta região sentirão seus ecos e você perderá boa vontade com todas as facções não hostis.\n\nA conjuração do neurotremor leva 12 segundos e não pode ser interrompida. Ao terminar, o conjurador entrará em coma psíquico por até 5 dias.\n\nTodos ao alcance serão afetados, exceto os que estiverem em um pequeno círculo ao redor do conjurador.\n\nTem certeza de que deseja conjurar o neurotremor?</VPE_Neuroquake.modExtensions.0.message>
+
+  <!-- EN: neuroquake -->
+  <VPE_Neuroquake.verbProperties.label>neurotremor</VPE_Neuroquake.verbProperties.label>
+
+  <!-- EN: psychic drone -->
+  <VPE_PsychicDrone.label>zumbido psíquico</VPE_PsychicDrone.label>
+
+  <!-- EN: Creates a massive psychic drone aura around the caster tuned to hostiles, frequently driving them insane until they overcome the break. Duration scales with the caster’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_PsychicDrone.description>Cria ao redor do conjurador uma enorme aura de zumbido psíquico sintonizada para afetar hostis, frequentemente levando-os à loucura até que superem a crise. A duração depende da sensibilidade psíquica do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_PsychicDrone.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_PsychicDrone.jobReportString>Usando habilidade: {0}</VPE_PsychicDrone.jobReportString>
+
+  <!-- EN: psychic drone -->
+  <VPE_PsychicDrone.verbProperties.label>zumbido psíquico</VPE_PsychicDrone.verbProperties.label>
+
+  <!-- EN: psychic shock -->
+  <VPE_PsychicShock.label>choque psíquico</VPE_PsychicShock.label>
+
+  <!-- EN: Psychically shocks the target's mind with chaotic images, blocking coherent perception and dropping them into a state of psychic shock. There is a risk of brain damage and is overtly hostile.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_PsychicShock.description>Ataca a mente do alvo com imagens caóticas, bloqueando a percepção coerente e mergulhando-o em estado de choque psíquico. Há risco de dano cerebral e a ação é abertamente hostil.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_PsychicShock.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_PsychicShock.jobReportString>Usando habilidade: {0}</VPE_PsychicShock.jobReportString>
+
+  <!-- EN: psychic shock -->
+  <VPE_PsychicShock.verbProperties.label>choque psíquico</VPE_PsychicShock.verbProperties.label>
+
+  <!-- EN: stun -->
+  <VPE_Stun.label>atordoar</VPE_Stun.label>
+
+  <!-- EN: Momentarily disrupts motor function in the target's brain, preventing any movement. This lasts for a few seconds and is considered a hostile action.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Stun.description>Interrompe momentaneamente a função motora do cérebro do alvo, impedindo qualquer movimento. Dura alguns segundos e é considerada uma ação hostil.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Stun.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Stun.jobReportString>Usando habilidade: {0}</VPE_Stun.jobReportString>
+
+  <!-- EN: stun -->
+  <VPE_Stun.verbProperties.label>atordoar</VPE_Stun.verbProperties.label>
+
+  <!-- EN: age -->
+  <VPE_Age.label>envelhecer</VPE_Age.label>
+
+  <!-- EN: Very inefficiently siphons life force from a living target, de-aging the caster by 2 years and aging the other by 10. Very debilitating aftereffects for the victim and considered a hostile action by allies.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Age.description>Drena a força vital de um alvo vivo de forma muito ineficiente, rejuvenescendo o conjurador em 2 anos e envelhecendo o alvo em 10. A vítima sofre efeitos colaterais debilitantes, e seus aliados consideram isso uma ação hostil.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Age.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Age.jobReportString>Usando habilidade: {0}</VPE_Age.jobReportString>
+
+  <!-- EN: age -->
+  <VPE_Age.verbProperties.label>envelhecer</VPE_Age.verbProperties.label>
+
+  <!-- EN: craft timeskip -->
+  <VPE_CraftTimeskip.label>salto temporal de fabricação</VPE_CraftTimeskip.label>
+
+  <!-- EN: Using very precise timeskipping, moves the desired item to its finished state as if the creator had continued working on it. Biologically ages the caster by a full year.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_CraftTimeskip.description>Com um salto temporal muito preciso, leva o item escolhido ao estado final, como se seu criador tivesse continuado trabalhando nele. Envelhece biologicamente o conjurador em um ano inteiro.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_CraftTimeskip.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_CraftTimeskip.jobReportString>Usando habilidade: {0}</VPE_CraftTimeskip.jobReportString>
+
+  <!-- EN: craft timeskip -->
+  <VPE_CraftTimeskip.verbProperties.label>salto temporal de fabricação</VPE_CraftTimeskip.verbProperties.label>
+
+  <!-- EN: plant timeskip -->
+  <VPE_PlantTimeskip.label>salto temporal de plantas</VPE_PlantTimeskip.label>
+
+  <!-- EN: Grows all the plants in a radius around the caster, advancing their maturity by the equivalent of 7 days. Biologically ages the caster by a full year.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_PlantTimeskip.description>Faz todas as plantas em uma área ao redor do conjurador crescerem, avançando sua maturidade em sete dias. Envelhece biologicamente o conjurador em um ano inteiro.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_PlantTimeskip.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_PlantTimeskip.jobReportString>Usando habilidade: {0}</VPE_PlantTimeskip.jobReportString>
+
+  <!-- EN: plant timeskip -->
+  <VPE_PlantTimeskip.verbProperties.label>salto temporal de plantas</VPE_PlantTimeskip.verbProperties.label>
+
+  <!-- EN: raid pause -->
+  <VPE_RaidPause.label>pausar incursão</VPE_RaidPause.label>
+
+  <!-- EN: Depending on the caster’s psychic sensitivity, slows all raiders on the map to a complete stop for up to five minutes. Attacking any single affected raider jolts all of them back into action.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_RaidPause.description>Dependendo da sensibilidade psíquica do conjurador, paralisa por até cinco minutos todos os invasores no mapa. Atacar qualquer invasor afetado faz todos voltarem à ação.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_RaidPause.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_RaidPause.jobReportString>Usando habilidade: {0}</VPE_RaidPause.jobReportString>
+
+  <!-- EN: raid pause -->
+  <VPE_RaidPause.verbProperties.label>pausar incursão</VPE_RaidPause.verbProperties.label>
+
+  <!-- EN: season timeskip -->
+  <VPE_SeasonTimeskip.label>salto temporal de estação</VPE_SeasonTimeskip.label>
+
+  <!-- EN: Locks the entire planet into a season-long psychically induced slowdown, effectively skipping forward a season. Nigh instantaneous effect, very strenuous and puts the caster in a coma, as well as biologically aging them by a full year.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_SeasonTimeskip.description>Prende o planeta inteiro em uma desaceleração psíquica que dura uma estação, avançando efetivamente uma estação. O efeito é quase instantâneo, muito exaustivo e deixa o conjurador em coma, além de envelhecê-lo biologicamente em um ano inteiro.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_SeasonTimeskip.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_SeasonTimeskip.jobReportString>Usando habilidade: {0}</VPE_SeasonTimeskip.jobReportString>
+
+  <!-- EN: season timeskip -->
+  <VPE_SeasonTimeskip.verbProperties.label>salto temporal de estação</VPE_SeasonTimeskip.verbProperties.label>
+
+  <!-- EN: timequake -->
+  <VPE_Timequake.label>tremor temporal</VPE_Timequake.label>
+
+  <!-- EN: Find a discontinuity in the psychic field and compress it, releasing a massive temporal disturbance. Every creature in range but outside of the safe inner circle will experience rapid aging and structures will warp. Casting this takes 20 seconds of meditation, and afterwards, the caster will go into a psychic coma. The disturbing timequake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Timequake.description>Encontra uma descontinuidade no campo psíquico e a comprime, liberando uma enorme perturbação temporal. Todas as criaturas ao alcance, exceto as que estiverem no pequeno círculo seguro, envelhecem rapidamente e as estruturas se deformam. A conjuração exige 20 segundos de meditação e depois o conjurador entra em coma psíquico. Os ecos perturbadores do tremor temporal causarão dor a todos em muitos quilômetros, gerando consequências diplomáticas com todas as facções.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Timequake.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Timequake.jobReportString>Usando habilidade: {0}</VPE_Timequake.jobReportString>
+
+  <!-- EN: If you use timequake, everyone in this region will feel the timequake echo, you will lose goodwill with every non-hostile faction.\n\nTimequake takes 20 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for up to 5 days.\n\nEveryone except those in a small circle around the caster will be affected.\n\nDo you really want to cast timequake? -->
+  <VPE_Timequake.modExtensions.2.message>Se usar tremor temporal, todos nesta região sentirão seus ecos e você perderá boa vontade com todas as facções não hostis.\n\nA conjuração do tremor temporal leva 20 segundos e não pode ser interrompida. Ao terminar, o conjurador entrará em coma psíquico por até 5 dias.\n\nTodos serão afetados, exceto os que estiverem em um pequeno círculo ao redor do conjurador.\n\nTem certeza de que deseja conjurar o tremor temporal?</VPE_Timequake.modExtensions.2.message>
+
+  <!-- EN: timequake -->
+  <VPE_Timequake.verbProperties.label>tremor temporal</VPE_Timequake.verbProperties.label>
+
+  <!-- EN: time reversal -->
+  <VPE_TimeReversal.label>reversão temporal</VPE_TimeReversal.label>
+
+  <!-- EN: Inefficiently siphons life force to a living target, aging the caster by 5 years and de-aging the other by 10. Has a minimum age, removes age related penalties and puts the caster in a coma.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_TimeReversal.description>Drena força vital de um alvo vivo de forma ineficiente, envelhecendo o conjurador em 5 anos e rejuvenescendo o alvo em 10. Há uma idade mínima; remove penalidades relacionadas à idade e deixa o conjurador em coma.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_TimeReversal.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_TimeReversal.jobReportString>Usando habilidade: {0}</VPE_TimeReversal.jobReportString>
+
+  <!-- EN: time reversal -->
+  <VPE_TimeReversal.verbProperties.label>reversão temporal</VPE_TimeReversal.verbProperties.label>
+
+  <!-- EN: timeskip meditation -->
+  <VPE_TimeskipMeditation.label>meditação com salto temporal</VPE_TimeskipMeditation.label>
+
+  <!-- EN: Puts the caster into a self-inflicted coma as they earn a considerable amount of experience toward their next Psycast level and regain full Psyfocus. Biologically ages the caster by five years.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_TimeskipMeditation.description>Coloca o conjurador em um coma autoinduzido enquanto ele ganha uma quantidade considerável de experiência para o próximo nível de poder psíquico e recupera todo o foco psíquico. Envelhece-o biologicamente em cinco anos.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_TimeskipMeditation.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_TimeskipMeditation.jobReportString>Usando habilidade: {0}</VPE_TimeskipMeditation.jobReportString>
+
+  <!-- EN: timeskip meditation -->
+  <VPE_TimeskipMeditation.verbProperties.label>meditação com salto temporal</VPE_TimeskipMeditation.verbProperties.label>
+
+  <!-- EN: time sphere -->
+  <VPE_TimeSphere.label>esfera temporal</VPE_TimeSphere.label>
+
+  <!-- EN: Psychically compresses the flow of time in an area. Rapidly ages living creatures, plants flourish and wither, and structures start to disintegrate from the bizarre stress.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_TimeSphere.description>Comprime psiquicamente o fluxo do tempo em uma área. Criaturas vivas envelhecem rapidamente, plantas florescem e murcham, e estruturas começam a se desintegrar devido à tensão bizarra.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_TimeSphere.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_TimeSphere.jobReportString>Usando habilidade: {0}</VPE_TimeSphere.jobReportString>
+
+  <!-- EN: time sphere -->
+  <VPE_TimeSphere.verbProperties.label>esfera temporal</VPE_TimeSphere.verbProperties.label>
+
+  <!-- EN: word of foretelling -->
+  <VPE_WordofForetelling.label>palavra de previsão</VPE_WordofForetelling.label>
+
+  <!-- EN: Psychic whispers of things to come. Colony pawns are inspired, neutrals or friendlies improve relations, prisoners lose their resistance and enemies retreat from their doom. Biologically ages the caster by a full year.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_WordofForetelling.description>Sussurros psíquicos sobre o que está por vir. Colonos recebem inspiração, neutros e aliados melhoram as relações, prisioneiros perdem resistência e inimigos recuam diante de sua perdição. Envelhece biologicamente o conjurador em um ano inteiro.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_WordofForetelling.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofForetelling.jobReportString>Usando habilidade: {0}</VPE_WordofForetelling.jobReportString>
+
+  <!-- EN: word of foretelling -->
+  <VPE_WordofForetelling.verbProperties.label>palavra de previsão</VPE_WordofForetelling.verbProperties.label>
+
+  <!-- EN: breathe flame -->
+  <VPE_BreatheFlame.label>soprar chamas</VPE_BreatheFlame.label>
+
+  <!-- EN: Spews forth flammable liquid which immediately ignites, along with everything the flames touch.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_BreatheFlame.description>Expele líquido inflamável que se incendeia imediatamente, junto com tudo que as chamas tocam.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_BreatheFlame.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_BreatheFlame.jobReportString>Usando habilidade: {0}</VPE_BreatheFlame.jobReportString>
+
+  <!-- EN: breathe flame -->
+  <VPE_BreatheFlame.verbProperties.label>soprar chamas</VPE_BreatheFlame.verbProperties.label>
+
+  <!-- EN: explosion -->
+  <VPE_Explosion.label>explosão</VPE_Explosion.label>
+
+  <!-- EN: Ignites a small amount of deepchem underneath the target area, which vents to the surface in an explosion. Burns the area and spills forth excess liquid.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Explosion.description>Incendeia uma pequena quantidade de deepchem sob a área escolhida, que irrompe na superfície em uma explosão. Incendeia a área e espalha o excesso de líquido.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Explosion.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Explosion.jobReportString>Usando habilidade: {0}</VPE_Explosion.jobReportString>
+
+  <!-- EN: explosion -->
+  <VPE_Explosion.verbProperties.label>explosão</VPE_Explosion.verbProperties.label>
+
+  <!-- EN: eye blast -->
+  <VPE_EyeBlast.label>rajada ocular</VPE_EyeBlast.label>
+
+  <!-- EN: Emulating a star, the caster compresses highly energized gas which escapes in the desired direction, with damage scaling with psychic sensitivity. Ignites a small but distant area.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_EyeBlast.description>Imitando uma estrela, o conjurador comprime gás altamente energizado, que escapa na direção escolhida. O dano aumenta com a sensibilidade psíquica. Incendeia uma pequena área distante.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_EyeBlast.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_EyeBlast.jobReportString>Usando habilidade: {0}</VPE_EyeBlast.jobReportString>
+
+  <!-- EN: eye blast -->
+  <VPE_EyeBlast.verbProperties.label>rajada ocular</VPE_EyeBlast.verbProperties.label>
+
+  <!-- EN: fire beam -->
+  <VPE_FireBeam.label>raio de fogo</VPE_FireBeam.label>
+
+  <!-- EN: Attempts to recreate the power of a star inside a concentrated column of almost liquidized oxygen. The resulting emission of plasma is so powerful that only the most advanced weapons systems can hope to compare. The long, intense concentration ends with the caster falling into a coma.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_FireBeam.description>Tenta recriar o poder de uma estrela em uma coluna concentrada de oxigênio quase liquefeito. A emissão de plasma resultante é tão poderosa que só os sistemas de armas mais avançados podem se comparar. A concentração longa e intensa termina com o conjurador entrando em coma.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_FireBeam.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_FireBeam.jobReportString>Usando habilidade: {0}</VPE_FireBeam.jobReportString>
+
+  <!-- EN: fire beam -->
+  <VPE_FireBeam.verbProperties.label>raio de fogo</VPE_FireBeam.verbProperties.label>
+
+  <!-- EN: fire shield -->
+  <VPE_FireShield.label>escudo de fogo</VPE_FireShield.label>
+
+  <!-- EN: Creates an aura of blazing flames around the target for a time, preventing them from immolation and igniting any who try to attack them in melee. Duration scales with the caster’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_FireShield.description>Cria por algum tempo uma aura de chamas intensas ao redor do alvo, impedindo que ele se incendeie e ateando fogo em quem tentar atacá-lo corpo a corpo. A duração aumenta com a sensibilidade psíquica do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_FireShield.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_FireShield.jobReportString>Usando habilidade: {0}</VPE_FireShield.jobReportString>
+
+  <!-- EN: fire shield -->
+  <VPE_FireShield.verbProperties.label>escudo de fogo</VPE_FireShield.verbProperties.label>
+
+  <!-- EN: flameball -->
+  <VPE_Flameball.label>bola de fogo</VPE_Flameball.label>
+
+  <!-- EN: Throw an orb of condensed flames, similar to a grenade, which explodes upon impact. The range scales with the caster’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Flameball.description>Arremessa um orbe de chamas condensadas, semelhante a uma granada, que explode no impacto. O alcance aumenta com a sensibilidade psíquica do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Flameball.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Flameball.jobReportString>Usando habilidade: {0}</VPE_Flameball.jobReportString>
+
+  <!-- EN: flameball -->
+  <VPE_Flameball.verbProperties.label>bola de fogo</VPE_Flameball.verbProperties.label>
+
+  <!-- EN: fire tornado -->
+  <VPE_FlameTornado.label>tornado de fogo</VPE_FlameTornado.label>
+
+  <!-- EN: Attempts to recreate the power of a star inside a vortex of concentrated oxygen. The mess of reactions occurring creates flammable byproducts in its wake while also leaving its trajectory completely unpredictable.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_FlameTornado.description>Tenta recriar o poder de uma estrela em um vórtice de oxigênio concentrado. A reação caótica gera subprodutos inflamáveis pelo caminho e torna a trajetória completamente imprevisível.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_FlameTornado.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_FlameTornado.jobReportString>Usando habilidade: {0}</VPE_FlameTornado.jobReportString>
+
+  <!-- EN: fire tornado -->
+  <VPE_FlameTornado.verbProperties.label>tornado de fogo</VPE_FlameTornado.verbProperties.label>
+
+  <!-- EN: meteor shower -->
+  <VPE_MeteorShower.label>chuva de meteoros</VPE_MeteorShower.label>
+
+  <!-- EN: Skips and immolates orbiting meteoroids to strike a designated area. The number of impacts scales with psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_MeteorShower.description>Teletransporta e incendeia meteoroides em órbita para atingirem uma área escolhida. A quantidade de impactos aumenta com a sensibilidade psíquica.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_MeteorShower.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_MeteorShower.jobReportString>Usando habilidade: {0}</VPE_MeteorShower.jobReportString>
+
+  <!-- EN: meteor shower -->
+  <VPE_MeteorShower.verbProperties.label>chuva de meteoros</VPE_MeteorShower.verbProperties.label>
+
+  <!-- EN: extinguish flames -->
+  <VPE_QuenchFlames.label>apagar chamas</VPE_QuenchFlames.label>
+
+  <!-- EN: Converts a local deposit of deepchem into fire-retardant foam which sprays forth from the user in a large area.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_QuenchFlames.description>Converte um depósito local de deepchem em espuma retardante de fogo, que é expelida pelo usuário e cobre uma grande área.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_QuenchFlames.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_QuenchFlames.jobReportString>Usando habilidade: {0}</VPE_QuenchFlames.jobReportString>
+
+  <!-- EN: extinguish flames -->
+  <VPE_QuenchFlames.verbProperties.label>apagar chamas</VPE_QuenchFlames.verbProperties.label>
+
+  <!-- EN: self explosion -->
+  <VPE_SelfExplosion.label>explosão própria</VPE_SelfExplosion.label>
+
+  <!-- EN: Expels pressurized, flammable gas from the caster which immediately ignites. High chance of igniting those in the blast site, but does little damage without harming the caster.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_SelfExplosion.description>Expele do conjurador gás inflamável pressurizado, que se incendeia imediatamente. Há grande chance de incendiar quem estiver na explosão, mas causa pouco dano sem ferir o conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_SelfExplosion.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_SelfExplosion.jobReportString>Usando habilidade: {0}</VPE_SelfExplosion.jobReportString>
+
+  <!-- EN: self explosion -->
+  <VPE_SelfExplosion.verbProperties.label>explosão própria</VPE_SelfExplosion.verbProperties.label>
+
+  <!-- EN: bliss -->
+  <VPE_Bliss.label>êxtase</VPE_Bliss.label>
+
+  <!-- EN: After a brief meditation period, induce a sense of serenity in the target that reaches maximum magnitude near the effect’s end. As the calming feeling becomes more pronounced, they will find it harder to concentrate but it is not considered a malicious action.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Bliss.description>Após um breve período de meditação, induz serenidade no alvo, que atinge a intensidade máxima perto do fim do efeito. À medida que a calma aumenta, fica mais difícil se concentrar, mas a ação não é considerada maliciosa.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Bliss.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Bliss.jobReportString>Usando habilidade: {0}</VPE_Bliss.jobReportString>
+
+  <!-- EN: bliss -->
+  <VPE_Bliss.verbProperties.label>êxtase</VPE_Bliss.verbProperties.label>
+
+  <!-- EN: energy dump -->
+  <VPE_EnergyDump.label>descarga de energia</VPE_EnergyDump.label>
+
+  <!-- EN: Purges the build-up of fatigue in a nearby target and leaves them completely refreshed, in exchange the caster is left completely exhausted and needing a good nap.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_EnergyDump.description>Elimina o cansaço acumulado de um alvo próximo e o deixa completamente revigorado; em troca, o conjurador fica exausto e precisa dormir bem.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_EnergyDump.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_EnergyDump.jobReportString>Usando habilidade: {0}</VPE_EnergyDump.jobReportString>
+
+  <!-- EN: energy dump -->
+  <VPE_EnergyDump.verbProperties.label>descarga de energia</VPE_EnergyDump.verbProperties.label>
+
+  <!-- EN: mind wipe -->
+  <VPE_MindWipe.label>apagamento mental</VPE_MindWipe.label>
+
+  <!-- EN: Induce a harmless, instantaneous retrograde amnesia in the target, purging all memories, social bonds and skills acquired outside of their backstory. They also feel a strong kinship with the caster’s colony and joy at rediscovering the joys of life without commitment.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_MindWipe.description>Induz no alvo uma amnésia retrógrada instantânea e inofensiva, apagando todas as memórias, vínculos sociais e habilidades adquiridas fora de sua história pessoal. Ele também sente forte afinidade com a colônia do conjurador e alegria ao redescobrir os prazeres da vida sem compromissos.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_MindWipe.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_MindWipe.jobReportString>Usando habilidade: {0}</VPE_MindWipe.jobReportString>
+
+  <!-- EN: mind wipe -->
+  <VPE_MindWipe.verbProperties.label>apagamento mental</VPE_MindWipe.verbProperties.label>
+
+  <!-- EN: reunion farskip -->
+  <VPE_ReunionFarskip.label>teletransporte de reunião familiar</VPE_ReunionFarskip.label>
+
+  <!-- EN: After a short meditation period and followed by a coma, taps into a target’s bloodline to skip all living family members to their proximity, knocked out through psychic shock. However, it does nothing to change their relationships and is considered rude by all other factions.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_ReunionFarskip.description>Após breve meditação, seguida de coma, acessa a linhagem sanguínea do alvo e teletransporta todos os familiares vivos para perto dele, nocauteando-os com choque psíquico. Não altera os relacionamentos e é considerada rude pelas outras facções.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_ReunionFarskip.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_ReunionFarskip.jobReportString>Usando habilidade: {0}</VPE_ReunionFarskip.jobReportString>
+
+  <!-- EN: reunion farskip -->
+  <VPE_ReunionFarskip.verbProperties.label>teletransporte de reunião familiar</VPE_ReunionFarskip.verbProperties.label>
+
+  <!-- EN: psychic sooth (female) -->
+  <VPE_SootheFemale.label>acalmar psíquico (mulheres)</VPE_SootheFemale.label>
+
+  <!-- EN: Sends out a signal to a distant engine of happiness to begin projecting a positive psychic drone, while also manipulating an orbital amplifier that only affects females.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_SootheFemale.description>Envia um sinal a um distante motor da felicidade para projetar um zumbido psíquico positivo e manipula um amplificador orbital que afeta apenas mulheres.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_SootheFemale.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_SootheFemale.jobReportString>Usando habilidade: {0}</VPE_SootheFemale.jobReportString>
+
+  <!-- EN: psychic sooth (female) -->
+  <VPE_SootheFemale.verbProperties.label>acalmar psíquico (mulheres)</VPE_SootheFemale.verbProperties.label>
+
+  <!-- EN: psychic sooth (male) -->
+  <VPE_SootheMale.label>acalmar psíquico (homens)</VPE_SootheMale.label>
+
+  <!-- EN: Sends out a signal to a distant engine of happiness to begin projecting a positive psychic drone, while also manipulating an orbital amplifier that only affects males.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_SootheMale.description>Envia um sinal a um distante motor da felicidade para projetar um zumbido psíquico positivo e manipula um amplificador orbital que afeta apenas homens.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_SootheMale.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_SootheMale.jobReportString>Usando habilidade: {0}</VPE_SootheMale.jobReportString>
+
+  <!-- EN: psychic sooth (male) -->
+  <VPE_SootheMale.verbProperties.label>acalmar psíquico (homens)</VPE_SootheMale.verbProperties.label>
+
+  <!-- EN: word of inspiration -->
+  <VPE_WordofInspiration.label>palavra de inspiração</VPE_WordofInspiration.label>
+
+  <!-- EN: Speak words encouraging creativity while psychically hypercharging the target's mind with new ideas. The target will experience a random inspiration appropriate to them.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_WordofInspiration.description>Diz palavras que incentivam a criatividade enquanto sobrecarrega psiquicamente a mente do alvo com novas ideias. O alvo recebe uma inspiração aleatória apropriada para ele.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_WordofInspiration.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofInspiration.jobReportString>Usando habilidade: {0}</VPE_WordofInspiration.jobReportString>
+
+  <!-- EN: word of inspiration -->
+  <VPE_WordofInspiration.verbProperties.label>palavra de inspiração</VPE_WordofInspiration.verbProperties.label>
+
+  <!-- EN: word of joy -->
+  <VPE_WordofJoy.label>palavra de alegria</VPE_WordofJoy.label>
+
+  <!-- EN: Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in his mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_WordofJoy.description>Diz palavras alegres e calmantes a alguém e usa sugestão psíquica para implantar um ciclo de euforia em sua mente. A euforia suprime pensamentos e sensações desagradáveis para melhorar o humor. Como efeito colateral, entorpece as sensações e a tomada de decisões, reduzindo a consciência.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_WordofJoy.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofJoy.jobReportString>Usando habilidade: {0}</VPE_WordofJoy.jobReportString>
+
+  <!-- EN: word of joy -->
+  <VPE_WordofJoy.verbProperties.label>palavra de alegria</VPE_WordofJoy.verbProperties.label>
+
+  <!-- EN: word of love -->
+  <VPE_WordofLove.label>palavra de amor</VPE_WordofLove.label>
+
+  <!-- EN: Speak about someone's romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This power can be used to connect two other people, induce love for the caster, or force oneself to love another.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_WordofLove.description>Fala das virtudes românticas de alguém e usa sugestão psíquica para despertar desejo romântico em quem ouve. Durante dias, a pessoa sentirá atração romântica induzida psiquicamente pela outra, aumentando muito a opinião e a chance de investidas românticas e pedidos de casamento. O poder pode unir duas outras pessoas, induzir amor pelo conjurador ou forçar alguém a amar outra pessoa.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_WordofLove.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofLove.jobReportString>Usando habilidade: {0}</VPE_WordofLove.jobReportString>
+
+  <!-- EN: word of love -->
+  <VPE_WordofLove.verbProperties.label>palavra de amor</VPE_WordofLove.verbProperties.label>
+
+  <!-- EN: word of serenity -->
+  <VPE_WordofSerenity.label>palavra de serenidade</VPE_WordofSerenity.label>
+
+  <!-- EN: Use calming words and psychic suggestion to end a mental break on a person or animal. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_WordofSerenity.description>Usa palavras calmantes e sugestão psíquica para encerrar o colapso mental de uma pessoa ou animal. O alvo cairá em um breve sono psíquico. O custo de foco psíquico depende da intensidade do colapso.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_WordofSerenity.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofSerenity.jobReportString>Usando habilidade: {0}</VPE_WordofSerenity.jobReportString>
+
+  <!-- EN: word of serenity -->
+  <VPE_WordofSerenity.verbProperties.label>palavra de serenidade</VPE_WordofSerenity.verbProperties.label>
+
+  <!-- EN: blizzard -->
+  <VPE_Blizzard.label>nevasca</VPE_Blizzard.label>
+
+  <!-- EN: Using differential-pressure skipgates, water-linked skipgates and nodes of psychic entropy, creates a swirling blizzard away from the caster. Those exposed to the tempest experience reduced sight, moving and manipulation, as well as hypothermia buildup and cutting cold. Duration scales with the caster’s psychic sensitivity and puts them in a coma.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Blizzard.description>Usa portais de salto de pressão diferencial, portais conectados à água e nós de entropia psíquica para criar uma nevasca giratória longe do conjurador. Quem for exposto à tempestade terá visão, movimento e manipulação reduzidos, além de acumular hipotermia e sofrer com o frio cortante. A duração aumenta com a sensibilidade psíquica do conjurador e o deixa em coma.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Blizzard.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Blizzard.jobReportString>Usando habilidade: {0}</VPE_Blizzard.jobReportString>
+
+  <!-- EN: blizzard -->
+  <VPE_Blizzard.verbProperties.label>nevasca</VPE_Blizzard.verbProperties.label>
+
+  <!-- EN: cold zone -->
+  <VPE_ColdZone.label>zona fria</VPE_ColdZone.label>
+
+  <!-- EN: Cause an area to manifest nodes of psychic entropy for the next 24 hours, drastically lowering the temperature.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_ColdZone.description>Faz nós de entropia psíquica surgirem em uma área pelas próximas 24 horas, reduzindo drasticamente a temperatura.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_ColdZone.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_ColdZone.jobReportString>Usando habilidade: {0}</VPE_ColdZone.jobReportString>
+
+  <!-- EN: cold zone -->
+  <VPE_ColdZone.verbProperties.label>zona fria</VPE_ColdZone.verbProperties.label>
+
+  <!-- EN: frost ray -->
+  <VPE_FrostRay.label>raio congelante</VPE_FrostRay.label>
+
+  <!-- EN: Push forth a concentrated stream of psychic entropy for a few seconds, rapidly inducing cuts and hypothermia. The duration scales with the caster’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_FrostRay.description>Projeta por alguns segundos um fluxo concentrado de entropia psíquica, causando cortes e hipotermia rapidamente. A duração aumenta com a sensibilidade psíquica do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_FrostRay.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_FrostRay.jobReportString>Usando habilidade: {0}</VPE_FrostRay.jobReportString>
+
+  <!-- EN: frost ray -->
+  <VPE_FrostRay.verbProperties.label>raio congelante</VPE_FrostRay.verbProperties.label>
+
+  <!-- EN: ice block -->
+  <VPE_IceBlock.label>bloco de gelo</VPE_IceBlock.label>
+
+  <!-- EN: Combining nodes of psychic entropy and a skipgate linked to an ocean, creating a large block of ice to form in the target location. Fragile and can melt if the temperature is above freezing.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_IceBlock.description>Combina nós de entropia psíquica e um portal de salto conectado a um oceano para formar um grande bloco de gelo no local escolhido. É frágil e pode derreter se a temperatura estiver acima de zero.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_IceBlock.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_IceBlock.jobReportString>Usando habilidade: {0}</VPE_IceBlock.jobReportString>
+
+  <!-- EN: ice block -->
+  <VPE_IceBlock.verbProperties.label>bloco de gelo</VPE_IceBlock.verbProperties.label>
+
+  <!-- EN: breathe ice -->
+  <VPE_IceBreath.label>sopro de gelo</VPE_IceBreath.label>
+
+  <!-- EN: Breathe forward a stream of psychic entropy, the resulting cold cutting and inducing hypothermia scaling with the distance to the target.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_IceBreath.description>Sopra um fluxo de entropia psíquica; o frio resultante causa cortes e hipotermia, cujo efeito aumenta conforme a distância até o alvo.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_IceBreath.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_IceBreath.jobReportString>Usando habilidade: {0}</VPE_IceBreath.jobReportString>
+
+  <!-- EN: breathe ice -->
+  <VPE_IceBreath.verbProperties.label>sopro de gelo</VPE_IceBreath.verbProperties.label>
+
+  <!-- EN: ice crystal -->
+  <VPE_IceCrystal.label>cristal de gelo</VPE_IceCrystal.label>
+
+  <!-- EN: Creates a node of psychic entropy in the form of a crystal, sapping the heat from the room for the next 5 days.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_IceCrystal.description>Cria um nó de entropia psíquica em forma de cristal, que absorve o calor do cômodo pelos próximos 5 dias.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_IceCrystal.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_IceCrystal.jobReportString>Usando habilidade: {0}</VPE_IceCrystal.jobReportString>
+
+  <!-- EN: ice crystal -->
+  <VPE_IceCrystal.verbProperties.label>cristal de gelo</VPE_IceCrystal.verbProperties.label>
+
+  <!-- EN: ice shield -->
+  <VPE_IceShield.label>escudo de gelo</VPE_IceShield.label>
+
+  <!-- EN: Creates an aura of psychic entropy around the target for a time, preventing them from experiencing cold and inducing hypothermia on any who try to attack them in melee. Duration scales with psychic sensitivity of the caster.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_IceShield.description>Cria por algum tempo uma aura de entropia psíquica ao redor do alvo, impedindo que sinta frio e causando hipotermia em quem tentar atacá-lo corpo a corpo. A duração aumenta com a sensibilidade psíquica do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_IceShield.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_IceShield.jobReportString>Usando habilidade: {0}</VPE_IceShield.jobReportString>
+
+  <!-- EN: ice shield -->
+  <VPE_IceShield.verbProperties.label>escudo de gelo</VPE_IceShield.verbProperties.label>
+
+  <!-- EN: ice spike -->
+  <VPE_IceSpike.label>espinho de gelo</VPE_IceSpike.label>
+
+  <!-- EN: Condenses vapor with psychic entropy into an icicle launched at a target, the damage and accuracy scaling with psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_IceSpike.description>Condensa vapor com entropia psíquica em um espinho de gelo lançado contra um alvo. O dano e a precisão aumentam com a sensibilidade psíquica.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_IceSpike.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_IceSpike.jobReportString>Usando habilidade: {0}</VPE_IceSpike.jobReportString>
+
+  <!-- EN: ice spike -->
+  <VPE_IceSpike.verbProperties.label>espinho de gelo</VPE_IceSpike.verbProperties.label>
+
+  <!-- EN: ice wall -->
+  <VPE_IceWall.label>parede de gelo</VPE_IceWall.label>
+
+  <!-- EN: Combining nodes of psychic entropy and miniature skipgates linked to an ocean, creating a circular wall of ice to form around the caster. Fragile and can melt if the temperature is above freezing.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_IceWall.description>Combina nós de entropia psíquica e pequenos portais de salto conectados a um oceano para formar uma parede circular de gelo ao redor do conjurador. É frágil e pode derreter se a temperatura estiver acima de zero.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_IceWall.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_IceWall.jobReportString>Usando habilidade: {0}</VPE_IceWall.jobReportString>
+
+  <!-- EN: ice wall -->
+  <VPE_IceWall.verbProperties.label>parede de gelo</VPE_IceWall.verbProperties.label>
+
+  <!-- EN: snap freeze -->
+  <VPE_SnapFreeze.label>congelamento instantâneo</VPE_SnapFreeze.label>
+
+  <!-- EN: Creates motes of psychic entropy and miniature skipgates to water reservoirs above all the targets in a small area, encasing them in ice. Victims will experience hypothermia but the ice can melt prematurely if the temperature is above freezing.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_SnapFreeze.description>Cria partículas de entropia psíquica e pequenos portais de salto para reservatórios de água acima dos alvos em uma pequena área, envolvendo-os em gelo. As vítimas sofrerão hipotermia, mas o gelo pode derreter antes do tempo se a temperatura estiver acima de zero.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_SnapFreeze.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_SnapFreeze.jobReportString>Usando habilidade: {0}</VPE_SnapFreeze.jobReportString>
+
+  <!-- EN: snap freeze -->
+  <VPE_SnapFreeze.verbProperties.label>congelamento instantâneo</VPE_SnapFreeze.verbProperties.label>
+
+  <!-- EN: bend probability -->
+  <VPE_BendProbability.label>distorcer probabilidade</VPE_BendProbability.label>
+
+  <!-- EN: Creates a ripple of cosmic scale that will force something to happen.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_BendProbability.description>Cria uma onda de escala cósmica que força algo a acontecer.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_BendProbability.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_BendProbability.jobReportString>Usando habilidade: {0}</VPE_BendProbability.jobReportString>
+
+  <!-- EN: bend probability -->
+  <VPE_BendProbability.verbProperties.label>distorcer probabilidade</VPE_BendProbability.verbProperties.label>
+
+  <!-- EN: health swap -->
+  <VPE_HealthSwap.label>troca de saúde</VPE_HealthSwap.label>
+
+  <!-- EN: Through the law of equivalent exchange, returns the primary target’s vitality to its origin, transferring all foreign objects and injuries to the secondary target.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_HealthSwap.description>Pela lei da troca equivalente, devolve a vitalidade do alvo principal à sua origem, transferindo todos os objetos estranhos e ferimentos para o alvo secundário.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_HealthSwap.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_HealthSwap.jobReportString>Usando habilidade: {0}</VPE_HealthSwap.jobReportString>
+
+  <!-- EN: health swap -->
+  <VPE_HealthSwap.verbProperties.label>troca de saúde</VPE_HealthSwap.verbProperties.label>
+
+  <!-- EN: heat focus -->
+  <VPE_HeatFocus.label>foco de calor</VPE_HeatFocus.label>
+
+  <!-- EN: Initiates harmonic meditation which converts all accumulated heat into psyfocus after 10 seconds. Can neither overcharge psyfocus nor heat dump.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_HeatFocus.description>Inicia uma meditação harmônica que converte todo o calor acumulado em foco psíquico após 10 segundos. Não pode sobrecarregar o foco psíquico nem descarregar calor.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_HeatFocus.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_HeatFocus.jobReportString>Usando habilidade: {0}</VPE_HeatFocus.jobReportString>
+
+  <!-- EN: heat focus -->
+  <VPE_HeatFocus.verbProperties.label>foco de calor</VPE_HeatFocus.verbProperties.label>
+
+  <!-- EN: location swap -->
+  <VPE_LocationSwap.label>troca de posição</VPE_LocationSwap.label>
+
+  <!-- EN: Using precision skipgates, swaps the positions of the caster and a visible target.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_LocationSwap.description>Usa portais de salto precisos para trocar a posição do conjurador com a de um alvo visível.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_LocationSwap.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_LocationSwap.jobReportString>Usando habilidade: {0}</VPE_LocationSwap.jobReportString>
+
+  <!-- EN: location swap -->
+  <VPE_LocationSwap.verbProperties.label>troca de posição</VPE_LocationSwap.verbProperties.label>
+
+  <!-- EN: luck transfer -->
+  <VPE_LuckTransfer.label>transferência de sorte</VPE_LuckTransfer.label>
+
+  <!-- EN: Creates a rift in karmic balance by shifting the negative karma from the first target onto the second target, as well as receiving their positive karma. Only affects combat and the duration scales with the first target’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_LuckTransfer.description>Cria uma ruptura no equilíbrio cármico, transferindo o carma negativo do primeiro alvo para o segundo e recebendo também seu carma positivo. Afeta apenas o combate e sua duração depende da sensibilidade psíquica do primeiro alvo.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_LuckTransfer.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_LuckTransfer.jobReportString>Usando habilidade: {0}</VPE_LuckTransfer.jobReportString>
+
+  <!-- EN: luck transfer -->
+  <VPE_LuckTransfer.verbProperties.label>transferência de sorte</VPE_LuckTransfer.verbProperties.label>
+
+  <!-- EN: mind control -->
+  <VPE_Mindcontrol.label>controle mental</VPE_Mindcontrol.label>
+
+  <!-- EN: Psychically dominate a target for a brief period, scaling with their psychic sensitivity, giving the caster a second body. However, it’s difficult being two people at once.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Mindcontrol.description>Domina psiquicamente um alvo por pouco tempo, dependendo de sua sensibilidade psíquica, e concede ao conjurador um segundo corpo. No entanto, é difícil ser duas pessoas ao mesmo tempo.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Mindcontrol.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Mindcontrol.jobReportString>Usando habilidade: {0}</VPE_Mindcontrol.jobReportString>
+
+  <!-- EN: mind control -->
+  <VPE_Mindcontrol.verbProperties.label>controle mental</VPE_Mindcontrol.verbProperties.label>
+
+  <!-- EN: psychic guidance -->
+  <VPE_PsychicGuidance.label>orientação psíquica</VPE_PsychicGuidance.label>
+
+  <!-- EN: Dampens the caster’s sight, hearing, movement and manipulation in exchange for overcharging the target’s own physical abilities.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_PsychicGuidance.description>Reduz a visão, a audição, o movimento e a manipulação do conjurador em troca de sobrecarregar as capacidades físicas do alvo.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_PsychicGuidance.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_PsychicGuidance.jobReportString>Usando habilidade: {0}</VPE_PsychicGuidance.jobReportString>
+
+  <!-- EN: psychic guidance -->
+  <VPE_PsychicGuidance.verbProperties.label>orientação psíquica</VPE_PsychicGuidance.verbProperties.label>
+
+  <!-- EN: skillroll -->
+  <VPE_SkillRoll.label>troca de habilidades</VPE_SkillRoll.label>
+
+  <!-- EN: Initiates a shift in the target’s knowledge and accumulated skills, attempting to rebalance them somewhat chaotically with some beneficial guidance. The strain puts the caster in a coma.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_SkillRoll.description>Inicia uma mudança nos conhecimentos e habilidades acumulados do alvo, tentando reequilibrá-los de forma um tanto caótica com alguma orientação benéfica. O esforço deixa o conjurador em coma.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_SkillRoll.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_SkillRoll.jobReportString>Usando habilidade: {0}</VPE_SkillRoll.jobReportString>
+
+  <!-- EN: skillroll -->
+  <VPE_SkillRoll.verbProperties.label>troca de habilidades</VPE_SkillRoll.verbProperties.label>
+
+  <!-- EN: transmutation -->
+  <VPE_Transmutation.label>transmutação</VPE_Transmutation.label>
+
+  <!-- EN: Through the law of equivalent exchange, converts a targeted (stack of) item(s) into an item of equal or lesser value. Completely unpredictable.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Transmutation.description>Pela lei da troca equivalente, converte o item ou pilha de itens escolhido em outro de valor igual ou menor. O resultado é completamente imprevisível.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Transmutation.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Transmutation.jobReportString>Usando habilidade: {0}</VPE_Transmutation.jobReportString>
+
+  <!-- EN: transmutation -->
+  <VPE_Transmutation.verbProperties.label>transmutação</VPE_Transmutation.verbProperties.label>
+
+  <!-- EN: transmute stone -->
+  <VPE_TransmuteStone.label>transmutar pedra</VPE_TransmuteStone.label>
+
+  <!-- EN: Designates an area of stone which will have its minerals swapped out for a single, randomized type from an underground strata.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_TransmuteStone.description>Escolhe uma área de pedra e substitui seus minerais por um único tipo aleatório de uma camada subterrânea.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_TransmuteStone.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_TransmuteStone.jobReportString>Usando habilidade: {0}</VPE_TransmuteStone.jobReportString>
+
+  <!-- EN: transmute stone -->
+  <VPE_TransmuteStone.verbProperties.label>transmutar pedra</VPE_TransmuteStone.verbProperties.label>
+
+  <!-- EN: consume bodies -->
+  <VPE_ConsumeBodies.label>consumir corpos</VPE_ConsumeBodies.label>
+
+  <!-- EN: Psychically strips all remaining life force from nearby humanoid corpses and stores the essence as a permanent stacking buffer to neural heat.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_ConsumeBodies.description>Extrai psiquicamente toda a força vital restante de cadáveres humanoides próximos e armazena a essência como um bônus permanente e acumulável de calor neural.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_ConsumeBodies.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_ConsumeBodies.jobReportString>Usando habilidade: {0}</VPE_ConsumeBodies.jobReportString>
+
+  <!-- EN: consume bodies -->
+  <VPE_ConsumeBodies.verbProperties.label>consumir corpos</VPE_ConsumeBodies.verbProperties.label>
+
+  <!-- EN: corpsetalk -->
+  <VPE_Corpsetalk.label>falar com cadáver</VPE_Corpsetalk.label>
+
+  <!-- EN: Target a corpse and temporarily appropriate the victim’s skills to make up for the caster’s deficiencies. Effect lasts for a season before returning to normal.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Corpsetalk.description>Escolhe um cadáver e se apropria temporariamente das habilidades da vítima para compensar as deficiências do conjurador. O efeito dura uma estação, depois tudo volta ao normal.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Corpsetalk.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Corpsetalk.jobReportString>Usando habilidade: {0}</VPE_Corpsetalk.jobReportString>
+
+  <!-- EN: corpsetalk -->
+  <VPE_Corpsetalk.verbProperties.label>falar com cadáver</VPE_Corpsetalk.verbProperties.label>
+
+  <!-- EN: deathshield -->
+  <VPE_Deathshield.label>escudo da morte</VPE_Deathshield.label>
+
+  <!-- EN: Locks the touched target’s life force in place for a day, preventing them from dying. After this period, they can die from accumulated wounds, blood loss, or missing limbs or organs.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Deathshield.description>Mantém a força vital do alvo tocado estável por um dia, impedindo que morra. Depois desse período, ele pode morrer devido a ferimentos acumulados, perda de sangue ou ausência de membros ou órgãos.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Deathshield.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Deathshield.jobReportString>Usando habilidade: {0}</VPE_Deathshield.jobReportString>
+
+  <!-- EN: deathshield -->
+  <VPE_Deathshield.verbProperties.label>escudo da morte</VPE_Deathshield.verbProperties.label>
+
+  <!-- EN: enthrall -->
+  <VPE_Enthrall.label>subjugar</VPE_Enthrall.label>
+
+  <!-- EN: Psychically strips the deceased target’s life force and infuses it directly into their bones, animating them for a full day. The only remaining instinct is to inflict pain on the caster’s enemies.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Enthrall.description>Extrai psiquicamente a força vital do alvo falecido e a infunde diretamente nos ossos, animando-o por um dia inteiro. Seu único instinto restante será causar dor aos inimigos do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Enthrall.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Enthrall.jobReportString>Usando habilidade: {0}</VPE_Enthrall.jobReportString>
+
+  <!-- EN: enthrall -->
+  <VPE_Enthrall.verbProperties.label>subjugar</VPE_Enthrall.verbProperties.label>
+
+  <!-- EN: ghostwalk -->
+  <VPE_Ghostwalk.label>caminhada espectral</VPE_Ghostwalk.label>
+
+  <!-- EN: Coats the caster in a layer of temporary psychic atrophy, allowing them to walk through structures unimpeded and without damaging anything. Duration scales with the caster’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Ghostwalk.description>Reveste o conjurador com uma camada temporária de atrofia psíquica, permitindo atravessar estruturas sem impedimentos e sem danificar nada. A duração depende da sensibilidade psíquica do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Ghostwalk.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Ghostwalk.jobReportString>Usando habilidade: {0}</VPE_Ghostwalk.jobReportString>
+
+  <!-- EN: ghostwalk -->
+  <VPE_Ghostwalk.verbProperties.label>caminhada espectral</VPE_Ghostwalk.verbProperties.label>
+
+  <!-- EN: liferot -->
+  <VPE_Liferot.label>apodrecimento vital</VPE_Liferot.label>
+
+  <!-- EN: Psychically induces randomized mass necrosis in a target, exposing the afflicted body parts to infection and inducing vomiting. Duration scales with the target’s psychic sensitivity and is an overtly hostile action.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Liferot.description>Induz necrose generalizada aleatória no alvo, expondo as partes afetadas a infecções e provocando vômitos. A duração depende da sensibilidade psíquica do alvo e é uma ação abertamente hostil.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Liferot.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Liferot.jobReportString>Usando habilidade: {0}</VPE_Liferot.jobReportString>
+
+  <!-- EN: liferot -->
+  <VPE_Liferot.verbProperties.label>apodrecimento vital</VPE_Liferot.verbProperties.label>
+
+  <!-- EN: paralysis pulse -->
+  <VPE_ParalysisPulse.label>pulso paralisante</VPE_ParalysisPulse.label>
+
+  <!-- EN: Emits a cloud of black particles from the caster, which afflicts all, caster included, within the area with paralytic abasia for a full day. The radius scales with the caster’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_ParalysisPulse.description>Emite uma nuvem de partículas negras do conjurador, causando abasia paralítica por um dia inteiro em todos na área, inclusive nele. O raio aumenta com a sensibilidade psíquica do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_ParalysisPulse.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_ParalysisPulse.jobReportString>Usando habilidade: {0}</VPE_ParalysisPulse.jobReportString>
+
+  <!-- EN: paralysis pulse -->
+  <VPE_ParalysisPulse.verbProperties.label>pulso paralisante</VPE_ParalysisPulse.verbProperties.label>
+
+  <!-- EN: resurrect -->
+  <VPE_Resurrect.label>ressuscitar</VPE_Resurrect.label>
+
+  <!-- EN: By sacrificing a natural finger, the caster is able to imitate the effects of resurrector mech serum on any non-dessicated corpse, the psychic energy repairing broken-down tissues and kickstarting the body back to life. The target will be incapacitated and their allegiances will remain the same. The less preserved the body is, the more likely the target is to suffer from negative side effects. The long, intense concentration ends with the caster falling into a coma.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Resurrect.description>Sacrificando um dedo natural, o conjurador imita os efeitos do soro mecânico ressuscitador em qualquer cadáver não dessecado. A energia psíquica repara tecidos degradados e reanima o corpo. O alvo ficará incapacitado e manterá suas alianças. Quanto menos preservado o corpo, maior a chance de efeitos colaterais negativos. A concentração longa e intensa termina com o conjurador em coma.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Resurrect.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Resurrect.jobReportString>Usando habilidade: {0}</VPE_Resurrect.jobReportString>
+
+  <!-- EN: resurrect -->
+  <VPE_Resurrect.verbProperties.label>ressuscitar</VPE_Resurrect.verbProperties.label>
+
+  <!-- EN: steal vitality -->
+  <VPE_StealVitality.label>roubar vitalidade</VPE_StealVitality.label>
+
+  <!-- EN: Siphons vitality from a nearby source, transferring the target’s natural healing factor, movement speed, and consciousness to the caster for a full day. Considered an overtly hostile action.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_StealVitality.description>Drena vitalidade de uma fonte próxima e transfere ao conjurador o fator de cura natural, a velocidade de movimento e a consciência do alvo por um dia inteiro. É uma ação abertamente hostil.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_StealVitality.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_StealVitality.jobReportString>Usando habilidade: {0}</VPE_StealVitality.jobReportString>
+
+  <!-- EN: steal vitality -->
+  <VPE_StealVitality.verbProperties.label>roubar vitalidade</VPE_StealVitality.verbProperties.label>
+
+  <!-- EN: word of fear -->
+  <VPE_WordofFear.label>palavra de medo</VPE_WordofFear.label>
+
+  <!-- EN: Induces panic by overloading their flight response system for a duration scaling with their psychic sensitivity. Considered a hostile action.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_WordofFear.description>Provoca pânico ao sobrecarregar o sistema de fuga do alvo por uma duração que depende de sua sensibilidade psíquica. É considerada uma ação hostil.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_WordofFear.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofFear.jobReportString>Usando habilidade: {0}</VPE_WordofFear.jobReportString>
+
+  <!-- EN: word of fear -->
+  <VPE_WordofFear.verbProperties.label>palavra de medo</VPE_WordofFear.verbProperties.label>
+
+  <!-- EN: assassinate -->
+  <VPE_Assassinate.label>assassinar</VPE_Assassinate.label>
+
+  <!-- EN: Links the caster’s shadow to a target in dark areas, allowing them to skip back and forth multiple times to attack in melee. The amount of hits depends on the caster’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Assassinate.description>Conecta a sombra do conjurador a um alvo em uma área escura, permitindo que ele se teletransporte várias vezes para atacá-lo corpo a corpo. A quantidade de golpes depende da sensibilidade psíquica do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Assassinate.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Assassinate.jobReportString>Usando habilidade: {0}</VPE_Assassinate.jobReportString>
+
+  <!-- EN: assassinate -->
+  <VPE_Assassinate.verbProperties.label>assassinar</VPE_Assassinate.verbProperties.label>
+
+  <!-- EN: darkness -->
+  <VPE_Darkness.label>escuridão</VPE_Darkness.label>
+
+  <!-- EN: Select a target area to generate an orb of completely obfuscating darkness, the duration scaling with the caster’s psychic sensitivity. All vision is blocked and any attacks within or passing through will miss entirely.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Darkness.description>Escolhe uma área para criar um orbe de escuridão completamente obscurecedora. A duração depende da sensibilidade psíquica do conjurador. Toda a visão é bloqueada e qualquer ataque realizado dentro dela ou que a atravesse errará.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Darkness.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Darkness.jobReportString>Usando habilidade: {0}</VPE_Darkness.jobReportString>
+
+  <!-- EN: darkness -->
+  <VPE_Darkness.verbProperties.label>escuridão</VPE_Darkness.verbProperties.label>
+
+  <!-- EN: darkvision -->
+  <VPE_Darkvision.label>visão noturna</VPE_Darkvision.label>
+
+  <!-- EN: Gives the targeted pawn a nictitating membrane that allows them to see equally well in darkness and daytime. Duration scales with the target's psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Darkvision.description>Concede ao colono escolhido uma membrana nictitante que lhe permite enxergar igualmente bem no escuro e durante o dia. A duração depende da sensibilidade psíquica do alvo.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Darkvision.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Darkvision.jobReportString>Usando habilidade: {0}</VPE_Darkvision.jobReportString>
+
+  <!-- EN: darkvision -->
+  <VPE_Darkvision.verbProperties.label>visão noturna</VPE_Darkvision.verbProperties.label>
+
+  <!-- EN: decoy -->
+  <VPE_Decoy.label>isca</VPE_Decoy.label>
+
+  <!-- EN: Creates a localized field of optical disharmony to travel and remain in a desired location, with a duration scaling with psychic sensitivity. The illusion will draw the ire of all enemies.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Decoy.description>Cria um campo localizado de desarmonia óptica para se deslocar e permanecer no local desejado. A duração depende da sensibilidade psíquica. A ilusão atrairá a ira de todos os inimigos.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Decoy.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Decoy.jobReportString>Usando habilidade: {0}</VPE_Decoy.jobReportString>
+
+  <!-- EN: decoy -->
+  <VPE_Decoy.verbProperties.label>isca</VPE_Decoy.verbProperties.label>
+
+  <!-- EN: eclipse -->
+  <VPE_Eclipse.label>eclipse</VPE_Eclipse.label>
+
+  <!-- EN: By strategically placing an orb of obfuscating darkness high in the sky, the caster can effectively cause a spontaneous eclipse.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Eclipse.description>Ao posicionar estrategicamente no céu um orbe de escuridão obscurecedora, o conjurador pode provocar um eclipse espontâneo.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Eclipse.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Eclipse.jobReportString>Usando habilidade: {0}</VPE_Eclipse.jobReportString>
+
+  <!-- EN: eclipse -->
+  <VPE_Eclipse.verbProperties.label>eclipse</VPE_Eclipse.verbProperties.label>
+
+  <!-- EN: intensify shadows -->
+  <VPE_IntensifyShadows.label>intensificar sombras</VPE_IntensifyShadows.label>
+
+  <!-- EN: Links the caster’s shadow with the shade and infuses it with obfuscating darkness, plummeting all areas on the map with less than 50% light levels into pitch darkness. Duration scales with the caster’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_IntensifyShadows.description>Conecta a sombra do conjurador à penumbra e a infunde com escuridão obscurecedora, mergulhando na escuridão total todas as áreas do mapa com menos de 50% de luminosidade. A duração depende da sensibilidade psíquica do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_IntensifyShadows.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_IntensifyShadows.jobReportString>Usando habilidade: {0}</VPE_IntensifyShadows.jobReportString>
+
+  <!-- EN: intensify shadows -->
+  <VPE_IntensifyShadows.verbProperties.label>intensificar sombras</VPE_IntensifyShadows.verbProperties.label>
+
+  <!-- EN: nightstep -->
+  <VPE_Nightstep.label>passo noturno</VPE_Nightstep.label>
+
+  <!-- EN: Briefly links nearby allies to a distant colonist’s shadow to instantly teleport them, even across the planet as long as they are not overburdened. Can only be cast at night and temporarily stuns the caster.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Nightstep.description>Conecta brevemente aliados próximos à sombra de um colono distante para teletransportá-los instantaneamente, mesmo para o outro lado do planeta, desde que não estejam sobrecarregados. Só pode ser conjurado à noite e atordoa temporariamente o conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Nightstep.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Nightstep.jobReportString>Usando habilidade: {0}</VPE_Nightstep.jobReportString>
+
+  <!-- EN: nightstep -->
+  <VPE_Nightstep.verbProperties.label>passo noturno</VPE_Nightstep.verbProperties.label>
+
+  <!-- EN: obscure -->
+  <VPE_Obscure.label>ocultar</VPE_Obscure.label>
+
+  <!-- EN: Creates a field of optical disharmony around the caster, causing affected allies standing in darkness to be completely invisible. Attacking breaks the illusion.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Obscure.description>Cria um campo de desarmonia óptica ao redor do conjurador, tornando completamente invisíveis os aliados afetados que estiverem na escuridão. Atacar desfaz a ilusão.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Obscure.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Obscure.jobReportString>Usando habilidade: {0}</VPE_Obscure.jobReportString>
+
+  <!-- EN: obscure -->
+  <VPE_Obscure.verbProperties.label>ocultar</VPE_Obscure.verbProperties.label>
+
+  <!-- EN: shadowfocus -->
+  <VPE_ShadowFocus.label>foco nas sombras</VPE_ShadowFocus.label>
+
+  <!-- EN: Emitting particles of absorptive darkness allows the caster to augment their psychic sensitivity, which scales inversely with the local light level.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_ShadowFocus.description>Emite partículas de escuridão absorvente para aumentar a sensibilidade psíquica do conjurador, que varia inversamente ao nível de luz local.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_ShadowFocus.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_ShadowFocus.jobReportString>Usando habilidade: {0}</VPE_ShadowFocus.jobReportString>
+
+  <!-- EN: shadowfocus -->
+  <VPE_ShadowFocus.verbProperties.label>foco nas sombras</VPE_ShadowFocus.verbProperties.label>
+
+  <!-- EN: shadowskip -->
+  <VPE_Shadowskip.label>salto pelas sombras</VPE_Shadowskip.label>
+
+  <!-- EN: Linking the caster with their own shadow allows them to teleport themselves to an area of darkness, even if they can’t see the location.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Shadowskip.description>Conecta o conjurador à própria sombra e permite que ele se teletransporte para uma área escura, mesmo sem enxergar o local.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Shadowskip.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Shadowskip.jobReportString>Usando habilidade: {0}</VPE_Shadowskip.jobReportString>
+
+  <!-- EN: shadowskip -->
+  <VPE_Shadowskip.verbProperties.label>salto pelas sombras</VPE_Shadowskip.verbProperties.label>
+
+  <!-- EN: focus -->
+  <VPE_Focus.label>foco</VPE_Focus.label>
+
+  <!-- EN: Psychically focus the target's mind for a minute, boosting their sight, hearing and moving capacities.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Focus.description>Concentra psiquicamente a mente do alvo por um minuto, aumentando sua visão, audição e capacidade de movimento.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Focus.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Focus.jobReportString>Usando habilidade: {0}</VPE_Focus.jobReportString>
+
+  <!-- EN: focus -->
+  <VPE_Focus.verbProperties.label>foco</VPE_Focus.verbProperties.label>
+
+  <!-- EN: guardian skipbarrier -->
+  <VPE_GuardianSkipbarrier.label>barreira de salto guardiã</VPE_GuardianSkipbarrier.label>
+
+  <!-- EN: Generate a spherical skipgate around the caster that sends all incoming ground-level projectiles to some distant place, lasting as long as they can manage the heat accumulation. People and items are not affected. It takes immense concentration to hold, as such the caster needs to be mindful of their steps.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_GuardianSkipbarrier.description>Gera ao redor do conjurador um portal de salto esférico que envia para longe todos os projéteis que chegam ao nível do solo. Dura enquanto ele conseguir controlar o acúmulo de calor. Pessoas e itens não são afetados. Mantê-la exige concentração imensa, então o conjurador precisa cuidar dos próprios passos.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_GuardianSkipbarrier.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_GuardianSkipbarrier.jobReportString>Usando habilidade: {0}</VPE_GuardianSkipbarrier.jobReportString>
+
+  <!-- EN: guardian skipbarrier -->
+  <VPE_GuardianSkipbarrier.verbProperties.label>barreira de salto guardiã</VPE_GuardianSkipbarrier.verbProperties.label>
+
+  <!-- EN: invisibility -->
+  <VPE_Invisibility.label>invisibilidade</VPE_Invisibility.label>
+
+  <!-- EN: Psychically manipulate the visual centers of everyone nearby, rendering them unable to perceive a particular individual for a short time.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Invisibility.description>Manipula psiquicamente os centros visuais de todos nas proximidades, impedindo-os por pouco tempo de perceber uma pessoa específica.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Invisibility.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Invisibility.jobReportString>Usando habilidade: {0}</VPE_Invisibility.jobReportString>
+
+  <!-- EN: invisibility -->
+  <VPE_Invisibility.verbProperties.label>invisibilidade</VPE_Invisibility.verbProperties.label>
+
+  <!-- EN: overshield -->
+  <VPE_Overshield.label>superescudo</VPE_Overshield.label>
+
+  <!-- EN: Generate a spherical skipgate on a target that sends all incoming ground-level projectiles to some distant place, the duration scaling with the target’s psychic sensitivity. People and items are not affected.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Overshield.description>Gera no alvo um portal de salto esférico que envia para longe todos os projéteis que chegam ao nível do solo. Pessoas e itens não são afetados. A duração depende da sensibilidade psíquica do alvo.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Overshield.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Overshield.jobReportString>Usando habilidade: {0}</VPE_Overshield.jobReportString>
+
+  <!-- EN: overshield -->
+  <VPE_Overshield.verbProperties.label>superescudo</VPE_Overshield.verbProperties.label>
+
+  <!-- EN: painblock -->
+  <VPE_Painblock.label>bloqueio da dor</VPE_Painblock.label>
+
+  <!-- EN: Severely limit pain pathways in the target's brain for a couple of minutes. This can allow a person to move and act even with grievous injuries which would normally incapacitate them.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Painblock.description>Limita severamente por alguns minutos as vias da dor no cérebro do alvo. Isso pode permitir que uma pessoa se mova e aja mesmo com ferimentos graves que normalmente a deixariam incapacitada.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Painblock.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Painblock.jobReportString>Usando habilidade: {0}</VPE_Painblock.jobReportString>
+
+  <!-- EN: painblock -->
+  <VPE_Painblock.verbProperties.label>bloqueio da dor</VPE_Painblock.verbProperties.label>
+
+  <!-- EN: regrow limbs -->
+  <VPE_RegrowLimbs.label>regenerar membros</VPE_RegrowLimbs.label>
+
+  <!-- EN: Induces a psychic, regenerative coma in the target that lasts for a full day. The psychic energy assists the target by slowly regrowing any missing limbs.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_RegrowLimbs.description>Induz no alvo um coma regenerativo psíquico que dura um dia inteiro. A energia psíquica ajuda a regenerar lentamente quaisquer membros ausentes.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_RegrowLimbs.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_RegrowLimbs.jobReportString>Usando habilidade: {0}</VPE_RegrowLimbs.jobReportString>
+
+  <!-- EN: regrow limbs -->
+  <VPE_RegrowLimbs.verbProperties.label>regenerar membros</VPE_RegrowLimbs.verbProperties.label>
+
+  <!-- EN: skipshield -->
+  <VPE_Skipshield.label>escudo de salto</VPE_Skipshield.label>
+
+  <!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected. Duration scales with psychic sensitivity of the caster.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Skipshield.description>Gera um portal de salto esférico que envia para longe todos os projéteis que chegam ou saem ao nível do solo. Pessoas e itens não são afetados. A duração depende da sensibilidade psíquica do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Skipshield.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Skipshield.jobReportString>Usando habilidade: {0}</VPE_Skipshield.jobReportString>
+
+  <!-- EN: skipshield -->
+  <VPE_Skipshield.verbProperties.label>escudo de salto</VPE_Skipshield.verbProperties.label>
+
+  <!-- EN: stabilize -->
+  <VPE_Stabilize.label>estabilizar</VPE_Stabilize.label>
+
+  <!-- EN: Temporarily puts the target’s cardiovascular system in stasis, which prevents them from bleeding out for a time, scaling with the psychic sensitivity of the caster.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Stabilize.description>Coloca temporariamente o sistema cardiovascular do alvo em estase, impedindo-o de sangrar até a morte por um período que depende da sensibilidade psíquica do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Stabilize.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Stabilize.jobReportString>Usando habilidade: {0}</VPE_Stabilize.jobReportString>
+
+  <!-- EN: stabilize -->
+  <VPE_Stabilize.verbProperties.label>estabilizar</VPE_Stabilize.verbProperties.label>
+
+  <!-- EN: word of healing -->
+  <VPE_WordofHealing.label>palavra de cura</VPE_WordofHealing.label>
+
+  <!-- EN: Psychically stimulates a person’s regenerative capabilities into overdrive, effectively tripling their natural healing factor for a few days.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_WordofHealing.description>Estimula psiquicamente as capacidades regenerativas de uma pessoa até o limite, triplicando efetivamente seu fator de cura natural por alguns dias.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_WordofHealing.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofHealing.jobReportString>Usando habilidade: {0}</VPE_WordofHealing.jobReportString>
+
+  <!-- EN: word of healing -->
+  <VPE_WordofHealing.verbProperties.label>palavra de cura</VPE_WordofHealing.verbProperties.label>
+
+  <!-- EN: word of immunity -->
+  <VPE_WordofImmunity.label>palavra de imunidade</VPE_WordofImmunity.label>
+
+  <!-- EN: Psychically stimulates a person’s immune system into overdrive, effectively nearly doubling their immunity gain speed for a few days.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_WordofImmunity.description>Estimula psiquicamente o sistema imunológico de uma pessoa até o limite, quase dobrando a velocidade de ganho de imunidade por alguns dias.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_WordofImmunity.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofImmunity.jobReportString>Usando habilidade: {0}</VPE_WordofImmunity.jobReportString>
+
+  <!-- EN: word of immunity -->
+  <VPE_WordofImmunity.verbProperties.label>palavra de imunidade</VPE_WordofImmunity.verbProperties.label>
+
+  <!-- EN: chaos skip -->
+  <VPE_ChaosSkip.label>salto caótico</VPE_ChaosSkip.label>
+
+  <!-- EN: Teleport the target to a random position from where he started, the distance scaling with the caster’s psychic sensitivity. Stuns the target for a second and is considered a hostile action.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_ChaosSkip.description>Teletransporta o alvo para uma posição aleatória a partir do ponto onde começou; a distância depende da sensibilidade psíquica do conjurador. Atordoa o alvo por um segundo e é considerada uma ação hostil.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_ChaosSkip.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_ChaosSkip.jobReportString>Usando habilidade: {0}</VPE_ChaosSkip.jobReportString>
+
+  <!-- EN: chaos skip -->
+  <VPE_ChaosSkip.verbProperties.label>salto caótico</VPE_ChaosSkip.verbProperties.label>
+
+  <!-- EN: chunk skip -->
+  <VPE_Chunkskip.label>salto de rochas</VPE_Chunkskip.label>
+
+  <!-- EN: Skip the 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Chunkskip.description>Teletransporta 5 blocos de rocha ou escória para perto do ponto escolhido. É útil para criar cobertura durante operações ofensivas.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Chunkskip.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Chunkskip.jobReportString>Usando habilidade: {0}</VPE_Chunkskip.jobReportString>
+
+  <!-- EN: chunk skip -->
+  <VPE_Chunkskip.verbProperties.label>salto de rochas</VPE_Chunkskip.verbProperties.label>
+
+  <!-- EN: farskip -->
+  <VPE_Farskip.label>salto distante</VPE_Farskip.label>
+
+  <!-- EN: Skip the caster, along with anyone standing near them, to a willing ally at a distant location. This can send people far across the planet, and the skipped people will always appear near a random ally on the target map and be stunned for a few seconds from the journey.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Farskip.description>Teletransporta o conjurador e quem estiver perto dele até um aliado disposto, em um local distante. Pode levar pessoas para longe, pelo planeta; elas sempre surgirão perto de um aliado aleatório no mapa de destino e ficarão atordoadas por alguns segundos devido à viagem.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Farskip.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Farskip.jobReportString>Usando habilidade: {0}</VPE_Farskip.jobReportString>
+
+  <!-- EN: farskip -->
+  <VPE_Farskip.verbProperties.label>salto distante</VPE_Farskip.verbProperties.label>
+
+  <!-- EN: mass chaos skip -->
+  <VPE_MassChaosSkip.label>salto caótico em massa</VPE_MassChaosSkip.label>
+
+  <!-- EN: Skip everyone near a target point to a random location nearby. Considered a nuisance as it can put allies in danger.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_MassChaosSkip.description>Teletransporta todos perto do ponto escolhido para um local aleatório nas proximidades. Pode ser inconveniente, pois coloca aliados em perigo.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_MassChaosSkip.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_MassChaosSkip.jobReportString>Usando habilidade: {0}</VPE_MassChaosSkip.jobReportString>
+
+  <!-- EN: mass chaos skip -->
+  <VPE_MassChaosSkip.verbProperties.label>salto caótico em massa</VPE_MassChaosSkip.verbProperties.label>
+
+  <!-- EN: skip -->
+  <VPE_Skip.label>salto</VPE_Skip.label>
+
+  <!-- EN: Teleport the target to a desired position, the distance scaling with the caster’s psychic sensitivity, from his starting point. This is considered a hostile action.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Skip.description>Teletransporta o alvo do ponto de partida para uma posição escolhida; a distância depende da sensibilidade psíquica do conjurador. É considerada uma ação hostil.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Skip.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Skip.jobReportString>Usando habilidade: {0}</VPE_Skip.jobReportString>
+
+  <!-- EN: skip -->
+  <VPE_Skip.verbProperties.label>salto</VPE_Skip.verbProperties.label>
+
+  <!-- EN: skipdoor -->
+  <VPE_Skipdoor.label>portal de salto</VPE_Skipdoor.label>
+
+  <!-- EN: Creates an opening to a network of skipgates which can be placed in any location with a permanent presence. The network is tied to a group’s collective consciousness, allowing others to use it and different psycasters can add to it. However, the entry points are sensitive to physical disturbances which can cause them to collapse.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Skipdoor.description>Cria uma abertura para uma rede de portais de salto, que podem ser instalados em qualquer local para permanecerem ali. A rede está ligada à consciência coletiva de um grupo, permitindo que outros a usem e que diferentes psíquicos a ampliem. Porém, os pontos de entrada são sensíveis a perturbações físicas, que podem fazê-los desabar.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Skipdoor.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Skipdoor.jobReportString>Usando habilidade: {0}</VPE_Skipdoor.jobReportString>
+
+  <!-- EN: skipdoor -->
+  <VPE_Skipdoor.verbProperties.label>portal de salto</VPE_Skipdoor.verbProperties.label>
+
+  <!-- EN: smokepop -->
+  <VPE_Smokepop.label>cortina de fumaça</VPE_Smokepop.label>
+
+  <!-- EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Smokepop.description>Teletransporta partículas de poeira debaixo da superfície para formar uma nuvem espessa. Isso reduz a precisão de disparos que a atravessam e impede que torretas travem a mira.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Smokepop.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Smokepop.jobReportString>Usando habilidade: {0}</VPE_Smokepop.jobReportString>
+
+  <!-- EN: smokepop -->
+  <VPE_Smokepop.verbProperties.label>cortina de fumaça</VPE_Smokepop.verbProperties.label>
+
+  <!-- EN: solar pinhole -->
+  <VPE_SolarPinhole.label>fresta solar</VPE_SolarPinhole.label>
+
+  <!-- EN: Generate a microscopic skipgate linked to the core of a nearby star for a few days. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area until it closes. The light is enough to work by, but not enough to grow plants.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_SolarPinhole.description>Gera por alguns dias um portal de salto microscópico conectado ao núcleo de uma estrela próxima. Material solar atravessa a fresta no espaço-tempo, iluminando e aquecendo a área ao redor até que ela se feche. A luz permite trabalhar, mas não é suficiente para cultivar plantas.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_SolarPinhole.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_SolarPinhole.jobReportString>Usando habilidade: {0}</VPE_SolarPinhole.jobReportString>
+
+  <!-- EN: solar pinhole -->
+  <VPE_SolarPinhole.verbProperties.label>fresta solar</VPE_SolarPinhole.verbProperties.label>
+
+  <!-- EN: wall raise -->
+  <VPE_Wallraise.label>erguer parede</VPE_Wallraise.label>
+
+  <!-- EN: Form a temporary wall by skipping rubble and soil up from deep under the ground. Decent range and useful in blocking line of sight and movement for a few hours.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Wallraise.description>Forma uma parede temporária ao teletransportar entulho e solo das profundezas. Tem alcance razoável e é útil para bloquear a visão e o movimento por algumas horas.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Wallraise.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Wallraise.jobReportString>Usando habilidade: {0}</VPE_Wallraise.jobReportString>
+
+  <!-- EN: wall raise -->
+  <VPE_Wallraise.verbProperties.label>erguer parede</VPE_Wallraise.verbProperties.label>
+
+  <!-- EN: waterskip -->
+  <VPE_Waterskip.label>salto de água</VPE_Waterskip.label>
+
+  <!-- EN: Douse a target in water, extinguishing fires and shorting any electrical structures. The water is archotechnologically skipped from distant bodies of water or underground aquifers, with the amount skipped scaling with psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Waterskip.description>Encharca o alvo com água, apagando incêndios e causando curto-circuito em estruturas elétricas. A água é teletransportada por meios arquotecnológicos de corpos de água distantes ou aquíferos subterrâneos; a quantidade aumenta com a sensibilidade psíquica.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Waterskip.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Waterskip.jobReportString>Usando habilidade: {0}</VPE_Waterskip.jobReportString>
+
+  <!-- EN: waterskip -->
+  <VPE_Waterskip.verbProperties.label>salto de água</VPE_Waterskip.verbProperties.label>
+
+  <!-- EN: ball lightning -->
+  <VPE_BallLightning.label>raio globular</VPE_BallLightning.label>
+
+  <!-- EN: The caster compresses a ball of condensed electricity which will slowly move to a designated location. A few seconds after release, it will start discharging into nearby surrounding targets with living bolts of electricity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_BallLightning.description>O conjurador comprime uma bola de eletricidade condensada, que se move lentamente até o local indicado. Alguns segundos após ser lançada, começa a descarregar raios elétricos vivos contra alvos próximos.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_BallLightning.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_BallLightning.jobReportString>Usando habilidade: {0}</VPE_BallLightning.jobReportString>
+
+  <!-- EN: ball lightning -->
+  <VPE_BallLightning.verbProperties.label>raio globular</VPE_BallLightning.verbProperties.label>
+
+  <!-- EN: bolt -->
+  <VPE_Bolt.label>raio</VPE_Bolt.label>
+
+  <!-- EN: Hurls a weak bolt of electricity to strike a small target area, at a distance scaling with psychic sensitivity. Burns on direct hits and inflicts area EMP damage.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Bolt.description>Arremessa um raio elétrico fraco contra uma pequena área, a uma distância que depende da sensibilidade psíquica. Incendeia alvos atingidos diretamente e causa dano eletromagnético na área.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Bolt.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Bolt.jobReportString>Usando habilidade: {0}</VPE_Bolt.jobReportString>
+
+  <!-- EN: bolt -->
+  <VPE_Bolt.verbProperties.label>raio</VPE_Bolt.verbProperties.label>
+
+  <!-- EN: chain bolt -->
+  <VPE_ChainBolt.label>raio em cadeia</VPE_ChainBolt.label>
+
+  <!-- EN: Fires a living bolt of electricity at a target which can leak out onto nearby targets, the amount scaling with psychic sensitivity. Inflicts small burns and EMP damage.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_ChainBolt.description>Dispara um raio elétrico vivo contra um alvo, que pode se propagar para alvos próximos. A quantidade depende da sensibilidade psíquica. Causa pequenas queimaduras e dano eletromagnético.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_ChainBolt.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_ChainBolt.jobReportString>Usando habilidade: {0}</VPE_ChainBolt.jobReportString>
+
+  <!-- EN: chain bolt -->
+  <VPE_ChainBolt.verbProperties.label>raio em cadeia</VPE_ChainBolt.verbProperties.label>
+
+  <!-- EN: flashstorm -->
+  <VPE_Flashstorm.label>tempestade de relâmpagos</VPE_Flashstorm.label>
+
+  <!-- EN: Use concentrated differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The storm will strike the area with lightning for some time before dissipating.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Flashstorm.description>Usa portais de salto de pressão diferencial concentrados na atmosfera para gerar uma tempestade localizada de relâmpagos. A tempestade atinge a área com raios por algum tempo antes de se dissipar.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Flashstorm.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Flashstorm.jobReportString>Usando habilidade: {0}</VPE_Flashstorm.jobReportString>
+
+  <!-- EN: flashstorm -->
+  <VPE_Flashstorm.verbProperties.label>tempestade de relâmpagos</VPE_Flashstorm.verbProperties.label>
+
+  <!-- EN: hurricane -->
+  <VPE_Hurricane.label>furacão</VPE_Hurricane.label>
+
+  <!-- EN: The caster forcibly changes the weather - using widespread differential-pressure skipgates - to a downpour with hurricane-force winds, which lasts as long as the caster can manage the heat accumulation and can instantly stop at-will. Those outdoors will experience progressively severe limitations to sight, moving and manipulation to the point they come to a complete stop.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Hurricane.description>O conjurador altera à força o clima — usando portais de salto de pressão diferencial espalhados — para criar uma chuva torrencial com ventos de força de furacão. Ela dura enquanto ele conseguir controlar o acúmulo de calor e pode ser interrompida a qualquer momento. Quem estiver ao ar livre sofrerá limitações progressivamente severas na visão, no movimento e na manipulação, até parar completamente.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Hurricane.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Hurricane.jobReportString>Usando habilidade: {0}</VPE_Hurricane.jobReportString>
+
+  <!-- EN: hurricane -->
+  <VPE_Hurricane.verbProperties.label>furacão</VPE_Hurricane.verbProperties.label>
+
+  <!-- EN: recharge -->
+  <VPE_Recharge.label>recarregar</VPE_Recharge.label>
+
+  <!-- EN: Carefully and delicately tunes a stream of electricity to a touched battery to charge it with 100kW or the equivalent of 100 Wd/s. The duration of charge depends on the caster’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Recharge.description>Ajusta com cuidado um fluxo de eletricidade para carregar uma bateria tocada com 100 kW, o equivalente a 100 Wd/s. A duração da carga depende da sensibilidade psíquica do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Recharge.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Recharge.jobReportString>Usando habilidade: {0}</VPE_Recharge.jobReportString>
+
+  <!-- EN: recharge -->
+  <VPE_Recharge.verbProperties.label>recarregar</VPE_Recharge.verbProperties.label>
+
+  <!-- EN: static aura -->
+  <VPE_StaticAura.label>aura estática</VPE_StaticAura.label>
+
+  <!-- EN: The caster designates a nearby target to receive an aura of surging electricity, which will inflict EMP effects on anything foreign that they approach, including structures, pawns and electrical objects.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_StaticAura.description>O conjurador escolhe um alvo próximo para receber uma aura de eletricidade crescente, que causa efeitos eletromagnéticos em tudo que não lhe pertence e de que se aproxime, incluindo estruturas, colonos e objetos elétricos.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_StaticAura.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_StaticAura.jobReportString>Usando habilidade: {0}</VPE_StaticAura.jobReportString>
+
+  <!-- EN: static aura -->
+  <VPE_StaticAura.verbProperties.label>aura estática</VPE_StaticAura.verbProperties.label>
+
+  <!-- EN: static pulse -->
+  <VPE_StaticPulse.label>pulso estático</VPE_StaticPulse.label>
+
+  <!-- EN: The caster dumps a massive amount of voltage into the surrounding air, causing an EMP blast in a huge radius which is otherwise harmless.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_StaticPulse.description>O conjurador despeja uma enorme voltagem no ar ao redor, causando uma explosão eletromagnética de grande raio que, fora isso, é inofensiva.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_StaticPulse.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_StaticPulse.jobReportString>Usando habilidade: {0}</VPE_StaticPulse.jobReportString>
+
+  <!-- EN: static pulse -->
+  <VPE_StaticPulse.verbProperties.label>pulso estático</VPE_StaticPulse.verbProperties.label>
+
+  <!-- EN: thunderbolt -->
+  <VPE_Thunderbolt.label>raio trovejante</VPE_Thunderbolt.label>
+
+  <!-- EN: Summons a bolt of lightning to strike a target, inflicting burns on direct hits and a larger area EMP damage. The impact radius scales with the caster’s psychic sensitivity, up to a maximum of 12 cells.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Thunderbolt.description>Invoca um raio para atingir um alvo, causando queimaduras em impactos diretos e dano eletromagnético em uma área maior. O raio de impacto aumenta com a sensibilidade psíquica do conjurador, até o máximo de 12 células.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Thunderbolt.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Thunderbolt.jobReportString>Usando habilidade: {0}</VPE_Thunderbolt.jobReportString>
+
+  <!-- EN: thunderbolt -->
+  <VPE_Thunderbolt.verbProperties.label>raio trovejante</VPE_Thunderbolt.verbProperties.label>
+
+  <!-- EN: vortex -->
+  <VPE_Vortex.label>vórtice</VPE_Vortex.label>
+
+  <!-- EN: Manifests a gaping vortex of high-voltage electricity - redirected via skipgate from a nebula storm - at a target area with a large effect. Severely hampers movement and manipulating proportionately, with the strongest effect at the center.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Vortex.description>Manifesta em uma área um enorme vórtice de eletricidade de alta voltagem, redirecionada de uma tempestade de nebulosa por um portal de salto. Reduz drasticamente o movimento e a manipulação, sobretudo no centro.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Vortex.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Vortex.jobReportString>Usando habilidade: {0}</VPE_Vortex.jobReportString>
+
+  <!-- EN: vortex -->
+  <VPE_Vortex.verbProperties.label>vórtice</VPE_Vortex.verbProperties.label>
+
+  <!-- EN: conjure heat pearls -->
+  <VPE_ConjureHeatPearls.label>conjurar pérolas de calor</VPE_ConjureHeatPearls.label>
+
+  <!-- EN: Converts the caster’s neural heat into compressed metaphysical pearls. Completely harmless, but dumps a tremendous amount of neural heat into a small area when shattered.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_ConjureHeatPearls.description>Converte o calor neural do conjurador em pérolas metafísicas comprimidas. São completamente inofensivas, mas liberam uma quantidade imensa de calor neural em uma pequena área quando quebradas.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_ConjureHeatPearls.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_ConjureHeatPearls.jobReportString>Usando habilidade: {0}</VPE_ConjureHeatPearls.jobReportString>
+
+  <!-- EN: conjure heat pearls -->
+  <VPE_ConjureHeatPearls.verbProperties.label>conjurar pérolas de calor</VPE_ConjureHeatPearls.verbProperties.label>
+
+  <!-- EN: craft psyring -->
+  <VPE_CraftPsyRing.label>fabricar anel psíquico</VPE_CraftPsyRing.label>
+
+  <!-- EN: Psychically alters the form of a piece of eltex into the shape of a ring, which is imbued with psycasting knowledge of the caster. When worn by another psycaster, this temporarily allows them to use this knowledge to perform the stored psycast without practice.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_CraftPsyRing.description>Altera psiquicamente um pedaço de eltex para dar a ele a forma de um anel, imbuído com o conhecimento de conjuração do psíquico. Quando usado por outro psíquico, permite temporariamente que ele use esse conhecimento para executar o poder armazenado sem praticar.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_CraftPsyRing.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_CraftPsyRing.jobReportString>Usando habilidade: {0}</VPE_CraftPsyRing.jobReportString>
+
+  <!-- EN: craft psyring -->
+  <VPE_CraftPsyRing.verbProperties.label>fabricar anel psíquico</VPE_CraftPsyRing.verbProperties.label>
+
+  <!-- EN: enchant quality -->
+  <VPE_EnchantQuality.label>encantar qualidade</VPE_EnchantQuality.label>
+
+  <!-- EN: Psychically manipulate an object or structure to improve its overall quality. Maximum quality depends on psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_EnchantQuality.description>Manipula psiquicamente um objeto ou estrutura para melhorar sua qualidade geral. A qualidade máxima depende da sensibilidade psíquica.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_EnchantQuality.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_EnchantQuality.jobReportString>Usando habilidade: {0}</VPE_EnchantQuality.jobReportString>
+
+  <!-- EN: enchant quality -->
+  <VPE_EnchantQuality.verbProperties.label>encantar qualidade</VPE_EnchantQuality.verbProperties.label>
+
+  <!-- EN: haywire -->
+  <VPE_Haywire.label>pane eletrônico</VPE_Haywire.label>
+
+  <!-- EN: Subjects an area to psychic interference, temporarily reconfiguring up to 3 automated weapons systems to protect the caster and their allies. Duration scales with the caster’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Haywire.description>Submete uma área a interferência psíquica, reconfigurando temporariamente até 3 sistemas de armas automatizados para proteger o conjurador e seus aliados. A duração depende da sensibilidade psíquica do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Haywire.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Haywire.jobReportString>Usando habilidade: {0}</VPE_Haywire.jobReportString>
+
+  <!-- EN: haywire -->
+  <VPE_Haywire.verbProperties.label>pane eletrônico</VPE_Haywire.verbProperties.label>
+
+  <!-- EN: mend -->
+  <VPE_Mend.label>reparar</VPE_Mend.label>
+
+  <!-- EN: Psychically manipulate an object or structure to restore its condition. Requires high psychic sensitivity for any meaningful restoration.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Mend.description>Manipula psiquicamente um objeto ou estrutura para restaurar sua condição. É necessária alta sensibilidade psíquica para uma restauração significativa.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Mend.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Mend.jobReportString>Usando habilidade: {0}</VPE_Mend.jobReportString>
+
+  <!-- EN: mend -->
+  <VPE_Mend.verbProperties.label>reparar</VPE_Mend.verbProperties.label>
+
+  <!-- EN: power -->
+  <VPE_Power.label>energizar</VPE_Power.label>
+
+  <!-- EN: Metaphysically alters the designated equipment’s power input to extract energy directly from fluctuations in the quantum foam for a few days. Duration scales with psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Power.description>Altera metafisicamente a entrada de energia do equipamento escolhido para extrair energia diretamente das flutuações da espuma quântica por alguns dias. A duração depende da sensibilidade psíquica.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Power.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Power.jobReportString>Usando habilidade: {0}</VPE_Power.jobReportString>
+
+  <!-- EN: power -->
+  <VPE_Power.verbProperties.label>energizar</VPE_Power.verbProperties.label>
+
+  <!-- EN: reverse engineer -->
+  <VPE_ReverseEngineer.label>fazer engenharia reversa</VPE_ReverseEngineer.label>
+
+  <!-- EN: Psychically manipulate an object or structure to learn its history and principles, annihilating it in the process. Extremely taxing, resulting in the caster falling into a temporary coma.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_ReverseEngineer.description>Manipula psiquicamente um objeto ou estrutura para descobrir sua história e seus princípios, destruindo-o no processo. É extremamente exaustivo e deixa o conjurador em coma temporário.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_ReverseEngineer.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_ReverseEngineer.jobReportString>Usando habilidade: {0}</VPE_ReverseEngineer.jobReportString>
+
+  <!-- EN: reverse engineer -->
+  <VPE_ReverseEngineer.verbProperties.label>fazer engenharia reversa</VPE_ReverseEngineer.verbProperties.label>
+
+  <!-- EN: rock construct -->
+  <VPE_RockConstruct.label>constructo de rocha</VPE_RockConstruct.label>
+
+  <!-- EN: Compresses a portion of the caster’s neural heat tolerance into metaphysical crystals, then implanting them into a stone chunk. Creates a construct capable of simple chores. Breaking the crystals restores heat tolerance.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_RockConstruct.description>Comprime parte da tolerância do conjurador ao calor neural em cristais metafísicos e os implanta em um bloco de pedra. Cria um constructo capaz de realizar tarefas simples. Quebrar os cristais restaura a tolerância ao calor.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_RockConstruct.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_RockConstruct.jobReportString>Usando habilidade: {0}</VPE_RockConstruct.jobReportString>
+
+  <!-- EN: rock construct -->
+  <VPE_RockConstruct.verbProperties.label>constructo de rocha</VPE_RockConstruct.verbProperties.label>
+
+  <!-- EN: steel construct -->
+  <VPE_SteelConstruct.label>constructo de aço</VPE_SteelConstruct.label>
+
+  <!-- EN: Compresses a portion of the caster’s neural heat tolerance into metaphysical crystals, then implanting them into steel slag. Creates a construct that guards the caster. Breaking the crystals restores heat tolerance.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_SteelConstruct.description>Comprime parte da tolerância do conjurador ao calor neural em cristais metafísicos e os implanta em escória de aço. Cria um constructo que protege o conjurador. Quebrar os cristais restaura a tolerância ao calor.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_SteelConstruct.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_SteelConstruct.jobReportString>Usando habilidade: {0}</VPE_SteelConstruct.jobReportString>
+
+  <!-- EN: steel construct -->
+  <VPE_SteelConstruct.verbProperties.label>constructo de aço</VPE_SteelConstruct.verbProperties.label>
+
+  <!-- EN: word of progress -->
+  <VPE_WordofProgress.label>palavra de progresso</VPE_WordofProgress.label>
+
+  <!-- EN: Speak words encouraging problem solving capabilities while psychically hypercharging the target’s mind with keen insight. The target will experience double research speed and intellectual skill gain for 5 days, scaling with their psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_WordofProgress.description>Diz palavras que incentivam a resolução de problemas enquanto sobrecarrega psiquicamente a mente do alvo com percepções aguçadas. O alvo terá o dobro da velocidade de pesquisa e de aprendizado intelectual por 5 dias, dependendo de sua sensibilidade psíquica.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_WordofProgress.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofProgress.jobReportString>Usando habilidade: {0}</VPE_WordofProgress.jobReportString>
+
+  <!-- EN: word of progress -->
+  <VPE_WordofProgress.verbProperties.label>palavra de progresso</VPE_WordofProgress.verbProperties.label>
+
+  <!-- EN: adrenaline rush -->
+  <VPE_AdrenalineRush.label>descarga de adrenalina</VPE_AdrenalineRush.label>
+
+  <!-- EN: Psychically induces a surge of adrenaline in the caster, blocking all pain and augmenting their sight, hearing and movement. Lasts roughly thirty seconds depending on the user’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_AdrenalineRush.description>Induz psiquicamente uma descarga de adrenalina no conjurador, bloqueando toda a dor e ampliando sua visão, audição e movimento. Dura cerca de trinta segundos, dependendo da sensibilidade psíquica do usuário.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_AdrenalineRush.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_AdrenalineRush.jobReportString>Usando habilidade: {0}</VPE_AdrenalineRush.jobReportString>
+
+  <!-- EN: adrenaline rush -->
+  <VPE_AdrenalineRush.verbProperties.label>descarga de adrenalina</VPE_AdrenalineRush.verbProperties.label>
+
+  <!-- EN: beckon -->
+  <VPE_Beckon.label>atrair</VPE_Beckon.label>
+
+  <!-- EN: Psychically command the target to approach the caster.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Beckon.description>Ordena psiquicamente que o alvo se aproxime do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Beckon.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Beckon.jobReportString>Usando habilidade: {0}</VPE_Beckon.jobReportString>
+
+  <!-- EN: beckon -->
+  <VPE_Beckon.verbProperties.label>atrair</VPE_Beckon.verbProperties.label>
+
+  <!-- EN: blade focus -->
+  <VPE_BladeFocus.label>foco na lâmina</VPE_BladeFocus.label>
+
+  <!-- EN: Psychically augments the muscle fibers, ligaments and joints in the caster’s arms, doubling their melee attack speed for roughly two minutes depending on their psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_BladeFocus.description>Aprimora psiquicamente as fibras musculares, os ligamentos e as articulações dos braços do conjurador, dobrando sua velocidade de ataque corpo a corpo por cerca de dois minutos, dependendo de sua sensibilidade psíquica.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_BladeFocus.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_BladeFocus.jobReportString>Usando habilidade: {0}</VPE_BladeFocus.jobReportString>
+
+  <!-- EN: blade focus -->
+  <VPE_BladeFocus.verbProperties.label>foco na lâmina</VPE_BladeFocus.verbProperties.label>
+
+  <!-- EN: controlled frenzy -->
+  <VPE_ControlledFrenzy.label>frenesi controlado</VPE_ControlledFrenzy.label>
+
+  <!-- EN: Psychically augments the caster’s prowess and killing urges, doubling their damage output with all weapons. Each kill reduces the caster’s heat by 10 and resets the duration of the frenzy.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_ControlledFrenzy.description>Aprimora psiquicamente o talento e o ímpeto assassino do conjurador, dobrando o dano causado por todas as armas. Cada abate reduz o calor do conjurador em 10 e reinicia a duração do frenesi.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_ControlledFrenzy.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_ControlledFrenzy.jobReportString>Usando habilidade: {0}</VPE_ControlledFrenzy.jobReportString>
+
+  <!-- EN: controlled frenzy -->
+  <VPE_ControlledFrenzy.verbProperties.label>frenesi controlado</VPE_ControlledFrenzy.verbProperties.label>
+
+  <!-- EN: firing focus -->
+  <VPE_FiringFocus.label>foco de tiro</VPE_FiringFocus.label>
+
+  <!-- EN: Psychically augments the hands, eyes and reaction speed of the caster, reducing their ranged attack cooldown by 80% for roughly two minutes depending on their psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_FiringFocus.description>Aprimora psiquicamente as mãos, os olhos e o tempo de reação do conjurador, reduzindo em 80% o intervalo entre ataques à distância por cerca de dois minutos, dependendo de sua sensibilidade psíquica.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_FiringFocus.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_FiringFocus.jobReportString>Usando habilidade: {0}</VPE_FiringFocus.jobReportString>
+
+  <!-- EN: firing focus -->
+  <VPE_FiringFocus.verbProperties.label>foco de tiro</VPE_FiringFocus.verbProperties.label>
+
+  <!-- EN: guided shot -->
+  <VPE_GuidedShot.label>tiro guiado</VPE_GuidedShot.label>
+
+  <!-- EN: Projects a psychic aura for a few moments that allows the caster to alter the path of any bullet they fire, effectively doubling their weapon range and guaranteeing hits for the duration. Duration scales with psychic sensitivity of the caster.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_GuidedShot.description>Projeta por alguns instantes uma aura psíquica que permite ao conjurador alterar a trajetória de qualquer bala que disparar, dobrando efetivamente o alcance da arma e garantindo acertos durante o efeito. A duração depende da sensibilidade psíquica do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_GuidedShot.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_GuidedShot.jobReportString>Usando habilidade: {0}</VPE_GuidedShot.jobReportString>
+
+  <!-- EN: guided shot -->
+  <VPE_GuidedShot.verbProperties.label>tiro guiado</VPE_GuidedShot.verbProperties.label>
+
+  <!-- EN: killskip -->
+  <VPE_Killskip.label>salto assassino</VPE_Killskip.label>
+
+  <!-- EN: Teleports to the target and executes a melee strike, weakened or augmented by the caster’s melee skill. If the target is killed, teleports to the next closest enemy at no cost and attacks again, until there is nothing left to kill.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Killskip.description>Teletransporta o conjurador até o alvo e desfere um golpe corpo a corpo, cuja força depende de sua habilidade nessa modalidade. Se o alvo morrer, teletransporta-se sem custo até o inimigo mais próximo e ataca novamente, até não restar ninguém para matar.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Killskip.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Killskip.jobReportString>Usando habilidade: {0}</VPE_Killskip.jobReportString>
+
+  <!-- EN: killskip -->
+  <VPE_Killskip.verbProperties.label>salto assassino</VPE_Killskip.verbProperties.label>
+
+  <!-- EN: mass beckon -->
+  <VPE_MassBeckon.label>atração em massa</VPE_MassBeckon.label>
+
+  <!-- EN: Psychically command the targets within an area to approach the caster.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_MassBeckon.description>Ordena psiquicamente que os alvos dentro de uma área se aproximem do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_MassBeckon.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_MassBeckon.jobReportString>Usando habilidade: {0}</VPE_MassBeckon.jobReportString>
+
+  <!-- EN: mass beckon -->
+  <VPE_MassBeckon.verbProperties.label>atração em massa</VPE_MassBeckon.verbProperties.label>
+
+  <!-- EN: power leap -->
+  <VPE_PowerLeap.label>salto poderoso</VPE_PowerLeap.label>
+
+  <!-- EN: Drastically augments the caster’s legs, feet and spine to be able to leap great distances and land without injury, the distance improving with the user’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_PowerLeap.description>Aprimora drasticamente as pernas, os pés e a coluna do conjurador, permitindo que salte grandes distâncias e aterrisse sem ferimentos. A distância aumenta com a sensibilidade psíquica do usuário.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_PowerLeap.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_PowerLeap.jobReportString>Usando habilidade: {0}</VPE_PowerLeap.jobReportString>
+
+  <!-- EN: power leap -->
+  <VPE_PowerLeap.verbProperties.label>salto poderoso</VPE_PowerLeap.verbProperties.label>
+
+  <!-- EN: speedboost -->
+  <VPE_SpeedBoost.label>aumento de velocidade</VPE_SpeedBoost.label>
+
+  <!-- EN: Psychically augments the muscle fibers, ligaments and joints in the caster’s legs, tripling their movement speed for roughly two minutes depending on their psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_SpeedBoost.description>Aprimora psiquicamente as fibras musculares, os ligamentos e as articulações das pernas do conjurador, triplicando sua velocidade de movimento por cerca de dois minutos, dependendo de sua sensibilidade psíquica.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_SpeedBoost.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_SpeedBoost.jobReportString>Usando habilidade: {0}</VPE_SpeedBoost.jobReportString>
+
+  <!-- EN: speedboost -->
+  <VPE_SpeedBoost.verbProperties.label>aumento de velocidade</VPE_SpeedBoost.verbProperties.label>
+
+  <!-- EN: animal allies -->
+  <VPE_AnimalAllies.label>aliados animais</VPE_AnimalAllies.label>
+
+  <!-- EN: Infuses a large area with harmonic life force that influences animal behavior, causing them to attack those hostile to the caster for a duration scaling with their psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_AnimalAllies.description>Infunde uma grande área com força vital harmônica que influencia o comportamento dos animais, fazendo-os atacar quem for hostil ao conjurador. A duração depende da sensibilidade psíquica dele.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_AnimalAllies.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_AnimalAllies.jobReportString>Usando habilidade: {0}</VPE_AnimalAllies.jobReportString>
+
+  <!-- EN: animal allies -->
+  <VPE_AnimalAllies.verbProperties.label>aliados animais</VPE_AnimalAllies.verbProperties.label>
+
+  <!-- EN: bramble maze -->
+  <VPE_BrambleMaze.label>labirinto de espinheiros</VPE_BrambleMaze.label>
+
+  <!-- EN: Infuses a fertile area with chaotic life energy, causing it to sprout shoots of brambles that wither after 12 hours.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_BrambleMaze.description>Infunde uma área fértil com energia vital caótica, fazendo brotar espinheiros que murcham após 12 horas.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_BrambleMaze.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_BrambleMaze.jobReportString>Usando habilidade: {0}</VPE_BrambleMaze.jobReportString>
+
+  <!-- EN: bramble maze -->
+  <VPE_BrambleMaze.verbProperties.label>labirinto de espinheiros</VPE_BrambleMaze.verbProperties.label>
+
+  <!-- EN: crop burst -->
+  <VPE_CropBurst.label>explosão de cultivo</VPE_CropBurst.label>
+
+  <!-- EN: Infuses a fertile area with life energy, causing it to sprout plantable crops that finish growth in relation to the caster’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_CropBurst.description>Infunde uma área fértil com energia vital, fazendo brotar plantas cultiváveis que completam o crescimento de acordo com a sensibilidade psíquica do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_CropBurst.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_CropBurst.jobReportString>Usando habilidade: {0}</VPE_CropBurst.jobReportString>
+
+  <!-- EN: crop burst -->
+  <VPE_CropBurst.verbProperties.label>explosão de cultivo</VPE_CropBurst.verbProperties.label>
+
+  <!-- EN: essence transfer -->
+  <VPE_EssenceTransfer.label>transferência de essência</VPE_EssenceTransfer.label>
+
+  <!-- EN: Infuses the life force of another nearby person into a colony animal, linking them and putting the caster in a coma. Should the linked person die, the linked animal will go to their side and transfer their own harmonized life essence to them, dying upon completion. Should the linked animal die first, the effect is lost, and there can only be one link at a time.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_EssenceTransfer.description>Infunde a força vital de outra pessoa próxima em um animal da colônia, conectando-os e deixando o conjurador em coma. Se a pessoa conectada morrer, o animal irá até ela e transferirá sua própria essência vital harmonizada, morrendo ao concluir. Se o animal morrer primeiro, o efeito se perde. Só pode haver uma conexão por vez.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_EssenceTransfer.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_EssenceTransfer.jobReportString>Usando habilidade: {0}</VPE_EssenceTransfer.jobReportString>
+
+  <!-- EN: essence transfer -->
+  <VPE_EssenceTransfer.verbProperties.label>transferência de essência</VPE_EssenceTransfer.verbProperties.label>
+
+  <!-- EN: manhunter pulse -->
+  <VPE_ManhunterPulse.label>pulso de caçador enfurecido</VPE_ManhunterPulse.label>
+
+  <!-- EN: Drive animals in a large area into a manhunting rage using a psychic pulse, lasting a minute. Considered a declaration of war if it affects the animals in a caravan.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_ManhunterPulse.description>Enfurece animais em uma grande área com um pulso psíquico, fazendo-os caçar humanos por um minuto. É considerado uma declaração de guerra se afetar animais de uma caravana.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_ManhunterPulse.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_ManhunterPulse.jobReportString>Usando habilidade: {0}</VPE_ManhunterPulse.jobReportString>
+
+  <!-- EN: manhunter pulse -->
+  <VPE_ManhunterPulse.verbProperties.label>pulso de caçador enfurecido</VPE_ManhunterPulse.verbProperties.label>
+
+  <!-- EN: shield animals -->
+  <VPE_ShieldAnimals.label>proteger animais</VPE_ShieldAnimals.label>
+
+  <!-- EN: Generates spherical skipgates on all colony animals in range that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected and the duration scales with the caster’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_ShieldAnimals.description>Gera portais de salto esféricos em todos os animais da colônia ao alcance, enviando para longe todos os projéteis que chegam ou saem ao nível do solo. Pessoas e itens não são afetados. A duração depende da sensibilidade psíquica do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_ShieldAnimals.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_ShieldAnimals.jobReportString>Usando habilidade: {0}</VPE_ShieldAnimals.jobReportString>
+
+  <!-- EN: shield animals -->
+  <VPE_ShieldAnimals.verbProperties.label>proteger animais</VPE_ShieldAnimals.verbProperties.label>
+
+  <!-- EN: shrineshield -->
+  <VPE_Shrineshield.label>escudo de santuário</VPE_Shrineshield.label>
+
+  <!-- EN: Generate a spherical skipgate on a nature shrine that sends any incoming and outgoing projectiles, including mortar shells, to some distant place. People and items are not affected and the size of the sphere depends on the size of the shrine, while duration scales with the caster’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_Shrineshield.description>Gera um portal de salto esférico em um santuário da natureza, enviando para longe todos os projéteis que chegam ou saem, inclusive projéteis de morteiro. Pessoas e itens não são afetados. O tamanho da esfera depende do santuário e a duração, da sensibilidade psíquica do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_Shrineshield.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_Shrineshield.jobReportString>Usando habilidade: {0}</VPE_Shrineshield.jobReportString>
+
+  <!-- EN: shrineshield -->
+  <VPE_Shrineshield.verbProperties.label>escudo de santuário</VPE_Shrineshield.verbProperties.label>
+
+  <!-- EN: summon pack -->
+  <VPE_SummonPack.label>invocar matilha</VPE_SummonPack.label>
+
+  <!-- EN: Sends out a pulse of lifeforce into the region, inducing territorial manhunting aggression into numerous animals that will appear to defend the colony. Once all invaders are defeated, the animals will return to their homes. The relative strength of the creatures summoned is influenced by the caster’s psychic sensitivity.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_SummonPack.description>Envia um pulso de força vital pela região, provocando agressividade territorial em vários animais que surgirão para defender a colônia. Quando todos os invasores forem derrotados, os animais voltarão para casa. A força das criaturas invocadas depende da sensibilidade psíquica do conjurador.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_SummonPack.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_SummonPack.jobReportString>Usando habilidade: {0}</VPE_SummonPack.jobReportString>
+
+  <!-- EN: summon pack -->
+  <VPE_SummonPack.verbProperties.label>invocar matilha</VPE_SummonPack.verbProperties.label>
+
+  <!-- EN: tree sprout -->
+  <VPE_TreeSprout.label>brotar árvores</VPE_TreeSprout.label>
+
+  <!-- EN: Infuses a fertile area with potent life energy, causing it to sprout fully grown native trees. The effective radius scales with psychic sensitivity, up to a maximum of 8 tiles.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_TreeSprout.description>Infunde uma área fértil com potente energia vital, fazendo brotar árvores nativas já adultas. O raio efetivo depende da sensibilidade psíquica, até o máximo de 8 células.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_TreeSprout.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_TreeSprout.jobReportString>Usando habilidade: {0}</VPE_TreeSprout.jobReportString>
+
+  <!-- EN: tree sprout -->
+  <VPE_TreeSprout.verbProperties.label>brotar árvores</VPE_TreeSprout.verbProperties.label>
+
+  <!-- EN: word of animals -->
+  <VPE_WordofAnimals.label>palavra dos animais</VPE_WordofAnimals.label>
+
+  <!-- EN: Soothe an animal using psychic suggestion, either calming a manhunting animal or taming them. Depending on the psychic sensitivity of the caster and the body size of an animal, the psycast may backfire and turn the animal manhunter.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i> -->
+  <VPE_WordofAnimals.description>Acalma um animal usando sugestão psíquica, acalmando um animal enfurecido ou domesticando-o. Dependendo da sensibilidade psíquica do conjurador e do tamanho do animal, o poder pode sair pela culatra e enfurecê-lo.\n\n&lt;i&gt;&lt;color=#66E0E4FF&gt;Vanilla Psycasts Expanded&lt;/color&gt;&lt;/i&gt;</VPE_WordofAnimals.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofAnimals.jobReportString>Usando habilidade: {0}</VPE_WordofAnimals.jobReportString>
+
+  <!-- EN: word of animals -->
+  <VPE_WordofAnimals.verbProperties.label>palavra dos animais</VPE_WordofAnimals.verbProperties.label>
+
+</LanguageData>

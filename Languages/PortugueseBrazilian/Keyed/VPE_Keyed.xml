@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Vanilla Psycasts Expanded -->
+  <VanillaPsycastsExpanded>Vanilla Psycasts Expanded</VanillaPsycastsExpanded>
+
+  <!-- EN: Psycaster XP per Psyfocus % gained -->
+  <VPE.XPPerPercent>EXP de psíquico por % de foco psíquico obtido</VPE.XPPerPercent>
+
+  <!-- EN: Basilicus Bestower Psycaster spawn chance -->
+  <VPE.PsycasterSpawnBaseChance>Chance de surgimento de psíquico doador de Basilicus</VPE.PsycasterSpawnBaseChance>
+
+  <!-- EN: Basilicus Bestower Psycaster strength factor -->
+  <VPE.PsycasterSpawnAdditional>Fator de força do psíquico doador de Basilicus</VPE.PsycasterSpawnAdditional>
+
+  <!-- EN: Allow shrinking? -->
+  <VPE.AllowShrink>Permitir reduzir?</VPE.AllowShrink>
+
+  <!-- EN: Allow psycast gizmos to be shrunken to half size when there are a lot of them. -->
+  <VPE.AllowShrink.Desc>Permite reduzir os comandos de poderes psíquicos à metade do tamanho quando houver muitos.</VPE.AllowShrink.Desc>
+
+  <!-- EN: UI small mode -->
+  <VPE.SmallMode>Modo compacto da interface</VPE.SmallMode>
+
+  <!-- EN: In small mode, the stats are moved to a tooltip and the psysets are moved to a separate dialog. If checked, this will force small mode. If X'ed, this will ban small mode. If partial (yellow line), this will allow default behavior (small mode will be active if your vertical resolution is less than 1080). -->
+  <VPE.SmallMode.Desc>No modo compacto, os atributos são movidos para uma dica e os conjuntos de poderes para uma janela separada. Marcado, força o modo compacto. Desmarcado, impede o modo compacto. Parcial (linha amarela), permite o comportamento padrão: o modo compacto será ativado se a resolução vertical for inferior a 1080.</VPE.SmallMode.Desc>
+
+  <!-- EN: Mute Skipdoor Sound -->
+  <VPE.MuteSkipdoor>Silenciar o som do portal de salto</VPE.MuteSkipdoor>
+
+  <!-- EN: Maximum psycaster level -->
+  <VPE.MaxLevel>Nível máximo de psíquico</VPE.MaxLevel>
+
+  <!-- EN: Scale base psyfocus gain with stat points? -->
+  <VPE.ChangeFocusGain>Escalar o ganho básico de foco psíquico com pontos de atributo?</VPE.ChangeFocusGain>
+
+  <!-- EN: If enabled, then the base psyfocus gain before any foci can be increased by spending stat points. -->
+  <VPE.ChangeFocusGain.Desc>Se ativado, o ganho básico de foco psíquico antes de qualquer foco pode ser aumentado gastando pontos de atributo.</VPE.ChangeFocusGain.Desc>
+
+  <!-- EN: Psycasts -->
+  <VPE.Psycasts>Psiconjurações</VPE.Psycasts>
+
+  <!-- EN: Psycaster Level: {0} -->
+  <VPE.PsyLevel>Nível do psíquico: {0}</VPE.PsyLevel>
+
+  <!-- EN: Earn psycaster experience by meditating. -->
+  <VPE.EarnXP>Ganhe experiência de psíquico meditando.</VPE.EarnXP>
+
+  <!-- EN: Available points to spend: {0} -->
+  <VPE.Points>Pontos disponíveis para gastar: {0}</VPE.Points>
+
+  <!-- EN: Spend points on unlocking new paths, unlocking psycasts, unlocking meditation foci, improving stats, etc. -->
+  <VPE.SpendPoints>Gaste pontos para desbloquear novos caminhos, poderes psíquicos e focos de meditação, melhorar atributos etc.</VPE.SpendPoints>
+
+  <!-- EN: Psycaster stats -->
+  <VPE.PsycasterStats>Atributos do psíquico</VPE.PsycasterStats>
+
+  <!-- EN: Upgrade -->
+  <VPE.Upgrade>Aprimorar</VPE.Upgrade>
+
+  <!-- EN: Focus types: -->
+  <VPE.FocusTypes>Tipos de foco:</VPE.FocusTypes>
+
+  <!-- EN: Customize Psysets -->
+  <VPE.PsysetCustomize>Personalizar conjuntos de poderes</VPE.PsysetCustomize>
+
+  <!-- EN: Drag and drop learnt psycasts into psysets that you can cycle between ingame. -->
+  <VPE.PsysetDesc>Arraste e solte os poderes psíquicos aprendidos nos conjuntos, que podem ser alternados durante o jogo.</VPE.PsysetDesc>
+
+  <!-- EN: Create Psyset -->
+  <VPE.CreatePsyset>Criar conjunto de poderes</VPE.CreatePsyset>
+
+  <!-- EN: Unlock -->
+  <VPE.Unlock>Desbloquear</VPE.Unlock>
+
+  <!-- EN: Click to Unlock -->
+  <VPE.ClickToUnlock>Clique para desbloquear</VPE.ClickToUnlock>
+
+  <!-- EN: Use alternative backgrounds -->
+  <VPE.UseAltBackground>Usar fundos alternativos</VPE.UseAltBackground>
+
+  <!-- EN: Destroy -->
+  <VPE.DestroySkipdoor>Destruir</VPE.DestroySkipdoor>
+
+  <!-- EN: Destroy this skipdoor. It will no longer be usable, but will no longer impact the max heat of {0}. -->
+  <VPE.DestroySkipdoor.Desc>Destrói este portal de salto. Ele não poderá mais ser usado, mas deixará de afetar o calor máximo de {0}.</VPE.DestroySkipdoor.Desc>
+
+  <!-- EN: Rename -->
+  <VPE.RenameSkipdoor>Renomear</VPE.RenameSkipdoor>
+
+  <!-- EN: Rename this skipdoor. -->
+  <VPE.RenameSkipdoor.Desc>Renomeia este portal de salto.</VPE.RenameSkipdoor.Desc>
+
+  <!-- EN: Teleport to {0} -->
+  <VPE.TeleportTo>Teletransportar para {0}</VPE.TeleportTo>
+
+  <!-- EN: Cancel Skipbarrier -->
+  <VPE.CancelSkipbarrier>Cancelar barreira de salto</VPE.CancelSkipbarrier>
+
+  <!-- EN: Click to cancel Skipbarrier on the caster. -->
+  <VPE.CancelSkipbarrierDesc>Clique para cancelar a barreira de salto do conjurador.</VPE.CancelSkipbarrierDesc>
+
+  <!-- EN: Edit -->
+  <VPE.Edit>Editar</VPE.Edit>
+
+  <!-- EN: Rename -->
+  <VPE.Rename>Renomear</VPE.Rename>
+
+  <!-- EN: Untitled -->
+  <VPE.Untitled>Sem título</VPE.Untitled>
+
+  <!-- EN: Remove -->
+  <VPE.Remove>Remover</VPE.Remove>
+
+  <!-- EN: Contents: -->
+  <VPE.Contents>Conteúdo:</VPE.Contents>
+
+  <!-- EN: Click to Remove -->
+  <VPE.ClickRemove>Clique para remover</VPE.ClickRemove>
+
+  <!-- EN: Selling Eltex is against Imperial law. This may or may not affect your relations with the Empire in the future. -->
+  <VPE.SellingEltexWarning>Vender eltex é contra a lei imperial. Isso pode ou não afetar seu relacionamento com o Império no futuro.</VPE.SellingEltexWarning>
+
+  <!-- EN: Gifting Eltex is against Imperial law. This may or may not affect your relations with the Empire in the future. -->
+  <VPE.GiftingEltexWarning>Presentear com eltex é contra a lei imperial. Isso pode ou não afetar seu relacionamento com o Império no futuro.</VPE.GiftingEltexWarning>
+
+  <!-- EN: Empire angered -->
+  <VPE.EmpireAngeredTitle>Império enfurecido</VPE.EmpireAngeredTitle>
+
+  <!-- EN: Empire caught wind that you have been {0} Eltex behind their back. They consider it to be against Imperial law, and your relations have degraded. -->
+  <VPE.EmpireAngeredDesc>O Império descobriu que você {0} eltex às escondidas. Consideram isso uma violação da lei imperial, e seu relacionamento com eles piorou.</VPE.EmpireAngeredDesc>
+
+  <!-- EN: gifting -->
+  <VPE.Gifting>dando de presente</VPE.Gifting>
+
+  <!-- EN: trading -->
+  <VPE.Trading>negociando</VPE.Trading>
+
+  <!-- EN: Goodwill with {FACTION_name} is now {1}. (Reduced by {2}) -->
+  <VPE.FactionRelationReducedInfo>A boa vontade de {FACTION_name} agora é {1}. (Reduzida em {2})</VPE.FactionRelationReducedInfo>
+
+  <!-- EN: Choose Psycast: -->
+  <VPE.CreatePsyringTitle>Escolha o poder psíquico:</VPE.CreatePsyringTitle>
+
+  <!-- EN: Create Psyring -->
+  <VPE.CreatePsyringButton>Criar anel psíquico</VPE.CreatePsyringButton>
+
+  <!-- EN: Locked -->
+  <VPE.Locked>Bloqueado</VPE.Locked>
+
+  <!-- EN: Bodies consumed: +{0} -->
+  <VPE.StatsReport_BodiesConsumed>Corpos consumidos: +{0}</VPE.StatsReport_BodiesConsumed>
+
+  <!-- EN: Developer mode -->
+  <VPE.DevMode>Modo de desenvolvedor</VPE.DevMode>
+
+  <!-- EN: Not enough points available -->
+  <VPE.NotEnoughPoints>Pontos disponíveis insuficientes</VPE.NotEnoughPoints>
+
+  <!-- EN: Psycasts included: -->
+  <VPE.AbilitiesList>Poderes psíquicos incluídos:</VPE.AbilitiesList>
+
+  <!-- EN: hover -->
+  <VPE.Hover>sobrevoar</VPE.Hover>
+
+  <!-- EN: -->
+  <VPE.PsycasterRaidDescription>TODO</VPE.PsycasterRaidDescription>
+
+  <!-- EN: Locked: Requires a Royal Title -->
+  <VPE.LockedTitle>Bloqueado: requer um título real</VPE.LockedTitle>
+
+  <!-- EN: Locked: Cannot be unlocked with points -->
+  <VPE.LockedLocked>Bloqueado: não pode ser desbloqueado com pontos</VPE.LockedLocked>
+
+  <!-- EN: Success chance -->
+  <VPE.SuccessChance>Chance de sucesso</VPE.SuccessChance>
+
+  <!-- EN: Psychic coma for -->
+  <VPE.PsychicComaDuration>Coma psíquico por</VPE.PsychicComaDuration>
+</LanguageData>

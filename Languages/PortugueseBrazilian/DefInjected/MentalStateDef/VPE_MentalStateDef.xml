@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: sad wandering -->
+  <VPE_Wander_Sad.label>perambulação triste</VPE_Wander_Sad.label>
+
+  <!-- EN: Mental state: Sad wandering -->
+  <VPE_Wander_Sad.baseInspectLine>Estado mental: perambulação triste</VPE_Wander_Sad.baseInspectLine>
+
+  <!-- EN: {0} has broken down and is wandering around in sadness. -->
+  <VPE_Wander_Sad.beginLetter>{0} teve um colapso e está perambulando tristemente.</VPE_Wander_Sad.beginLetter>
+
+  <!-- EN: sad wander -->
+  <VPE_Wander_Sad.beginLetterLabel>perambulação triste</VPE_Wander_Sad.beginLetterLabel>
+
+  <!-- EN: {0} is no longer wandering in sadness. -->
+  <VPE_Wander_Sad.recoveryMessage>{0} não está mais perambulando tristemente.</VPE_Wander_Sad.recoveryMessage>
+
+  <!-- EN: fleeing -->
+  <VPE_Flee.label>fugindo</VPE_Flee.label>
+
+  <!-- EN: Mental state: Fleeing -->
+  <VPE_Flee.baseInspectLine>Estado mental: fugindo</VPE_Flee.baseInspectLine>
+
+  <!-- EN: {0} is fleeing. -->
+  <VPE_Flee.beginLetter>{0} está fugindo.</VPE_Flee.beginLetter>
+
+  <!-- EN: flee -->
+  <VPE_Flee.beginLetterLabel>fuga</VPE_Flee.beginLetterLabel>
+
+  <!-- EN: {0} is no longer fleeing. -->
+  <VPE_Flee.recoveryMessage>{0} não está mais fugindo.</VPE_Flee.recoveryMessage>
+
+  <!-- EN: rage -->
+  <VPE_Manhunter.label>fúria</VPE_Manhunter.label>
+
+  <!-- EN: Raging -->
+  <VPE_Manhunter.baseInspectLine>Enfurecido</VPE_Manhunter.baseInspectLine>
+
+  <!-- EN: {0} is raging! -->
+  <VPE_Manhunter.beginLetter>{0} está enfurecido!</VPE_Manhunter.beginLetter>
+
+  <!-- EN: {0}'s rage has come to an end. -->
+  <VPE_Manhunter.recoveryMessage>A fúria de {0} chegou ao fim.</VPE_Manhunter.recoveryMessage>
+
+  <!-- EN: territorial manhunter -->
+  <VPE_ManhunterTerritorial.label>caçador territorial enfurecido</VPE_ManhunterTerritorial.label>
+
+  <!-- EN: Maddened: Territorial Manhunter -->
+  <VPE_ManhunterTerritorial.baseInspectLine>Enlouquecido: caçador territorial</VPE_ManhunterTerritorial.baseInspectLine>
+
+  <!-- EN: {0} has become a territorial manhunter! -->
+  <VPE_ManhunterTerritorial.beginLetter>{0} se tornou um caçador territorial enfurecido!</VPE_ManhunterTerritorial.beginLetter>
+
+  <!-- EN: {0}'s territorial defense instincts have come to an end. -->
+  <VPE_ManhunterTerritorial.recoveryMessage>Os instintos de defesa territorial de {0} chegaram ao fim.</VPE_ManhunterTerritorial.recoveryMessage>
+</LanguageData>
