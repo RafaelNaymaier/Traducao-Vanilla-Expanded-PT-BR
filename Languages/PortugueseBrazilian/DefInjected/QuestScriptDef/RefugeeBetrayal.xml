@@ -160,4 +160,47 @@
 		<li>questName->Oferta de Traição: [factionOpponent_nameDef]</li>
 	</RefugeeBetrayal.questNameRules.rulesStrings.0>
 
+
+  <!-- Variantes preservadas do antigo VGE_Chapter1_QuestScriptDef.xml.
+       As quatro listas abaixo repetiam chaves deste arquivo e interrompiam o carregamento.
+       Textos e regras diferentes foram mantidos aqui para revisão, sem injeção duplicada.
+  <RefugeeBetrayal.questContentRules.rulesStrings>
+    <li>hospedesLabelSingularOuPlural(lodgerCount==1)->[lodgersLabel]</li>
+    <li>hospedesLabelSingularOuPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
+    <li>recompensaOfertaTraicaoRótuloCarta->Recompensa por Traição: [factionOpponent_nameDef]</li>
+    <li>recompensaOfertaTraicaoTextoCarta->[factionOpponent_nameDef] prometeu uma recompensa se você matasse [asker_nameDef] [otherMembers]. [factionOpponent_pronoun] soube que isso foi feito e está enviando a você o seguinte via cápsula de carga (valor total [betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
+    <li>recompensaOfertaFalhouPorqueRecrutadoRótuloCarta->Recompensa por Traição Retirada</li>
+    <li>recompensaOfertaFalhouPorqueRecrutadoTextoCarta->[asker_nameDef] se juntou aos [asker_faction_name]. A oferta de [factionOpponent_nameDef] de uma recompensa pela cabeça de [asker_nameDef] foi, portanto, revogada. Sua chance de recompensa passou.</li>
+    <li>recompensaOfertaFalhouPorqueMorreuRótuloCarta->Recompensa por Traição Retirada</li>
+    <li>recompensaOfertaFalhouPorqueMorreuTextoCarta->[asker_nameDef] morreu sem a sua ajuda. A oferta de [factionOpponent_nameDef] de uma recompensa pela cabeça de [asker_nameDef] foi, portanto, revogada. Sua chance de recompensa passou.</li>
+    <li>traiçãoConcluídaRótuloCarta->Traição Concluída</li>
+    <li>traiçãoConcluídaTextoCarta->Você traiu [asker_nameDef] para [factionOpponent_nameDef]. [factionOpponent_nameDef] enviou a você o seguinte via cápsula de carga (valor total [betrayalRewardMarketValue_money]):\n\n[betrayalRewards].\n\n[questOver]</li>
+    <li>otherLodgers(lodgerCount>=3)->e vários [lodgersLabelPlural]</li>
+    <li>otherMembers(lodgerCount==1)-></li>
+    <li>otherMembers(lodgerCount>=2)->e todos os outros membros de [faction_name]</li>
+    <li>questOver->A missão '[resolvedQuestName]' terminou.</li>
+  </RefugeeBetrayal.questContentRules.rulesStrings>
+
+  <RefugeeBetrayal.questDescriptionRules.rulesStrings>
+    <li>introdução->[asker_nameDef], um [asker_title] [outrosHóspedes], [estãoÉ] pedindo para ficar com você por [durationTicks_duration].</li>
+    <li>detalhes->[asker_nameDef] [estãoÉ] sendo perseguido(a) por [factionOpponent_nameDef] e se for capturado(a), provavelmente será [asker_captured_verb].</li>
+    <li>outrosHóspedes(lodgerCount==1)-></li>
+    <li>outrosHóspedes(lodgerCount==2)->e outro [lodgersLabel]</li>
+    <li>outrosHóspedes(lodgerCount>=3)->e vários [lodgersLabelPlural]</li>
+    <li>outrosMembros(lodgerCount==1)-></li>
+    <li>outrosMembros(lodgerCount>=2)-> e todos os outros membros da [faction_name]</li>
+    <li>estãoÉ(lodgerCount==1)->está</li>
+    <li>estãoÉ(lodgerCount>=2)->estão</li>
+  </RefugeeBetrayal.questDescriptionRules.rulesStrings>
+
+  <RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->refugiado</li>
+    <li>lodgersLabelPlural->refugiados</li>
+  </RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
+
+  <RefugeeBetrayal.questNameRules.rulesStrings>
+    <li>questName->Oferta de Traição: [factionOpponent_nameDef]</li>
+  </RefugeeBetrayal.questNameRules.rulesStrings>
+  -->
+
 </LanguageData>

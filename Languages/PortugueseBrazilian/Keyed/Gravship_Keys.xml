@@ -246,7 +246,7 @@ Please note that keeping several maps open may affect your performance. -->
     <!-- EN: Estimated gravdata yield: {0} -->
   <VGE_GravdataYieldInfo>Rendimento de gravidados estimado: {0}</VGE_GravdataYieldInfo>
     <!-- EN: No gravtech research project selected. Launching will not yield any gravdata. -->
-  <VGE_NoGravtechProjectSelected>Nenhum projeto de pesquisa de gravitec selecionado. O lançamento não renderá gravidados.</VGE_NoGravtechProjectSelected>
+  <VGE_NoGravtechProjectSelected>Nenhum projeto de pesquisa de gravitech selecionado. O lançamento não renderá gravidados.</VGE_NoGravtechProjectSelected>
     <!-- EN: With the current predictions, there is a {0}% chance for a positive boon to happen. -->
   <VGE_LaunchBoonChanceInfo>Com as previsões atuais, há uma {0}% de chance de ocorrer um benefício positivo.</VGE_LaunchBoonChanceInfo>
     <!-- EN: Based on the gravship's launch, there was a {0_percentage} chance of a positive outcome. -->
@@ -254,13 +254,13 @@ Please note that keeping several maps open may affect your performance. -->
     <!-- EN: Gravdata stored: {0} -->
   <VGE_GravdataStored>gravidados armazenados: {0}</VGE_GravdataStored>
     <!-- EN: Stored gravdata will automatically be applied to the selected gravtech research project on next landing. -->
-  <VGE_GravdataStoredInfo>Os gravidados armazenados serão aplicados automaticamente ao projeto de pesquisa de gravitec selecionado na próxima aterrissagem.</VGE_GravdataStoredInfo>
+  <VGE_GravdataStoredInfo>Os gravidados armazenados serão aplicados automaticamente ao projeto de pesquisa de gravitech selecionado na próxima aterrissagem.</VGE_GravdataStoredInfo>
     <!-- EN: Convert gravdata -->
   <VGE_ConvertGravdata>Converter gravidados</VGE_ConvertGravdata>
     <!-- EN: Convert stored gravdata into points towards the chosen non-gravtech research project. Conversion rate is one to one. -->
-  <VGE_ConvertGravdataDesc>Converter gravidados armazenados em pontos para o projeto de pesquisa não-gravitec escolhido. A taxa de conversão é um para um.</VGE_ConvertGravdataDesc>
+  <VGE_ConvertGravdataDesc>Converter gravidados armazenados em pontos para o projeto de pesquisa não-gravitech escolhido. A taxa de conversão é um para um.</VGE_ConvertGravdataDesc>
     <!-- EN: No non-gravtech research project selected. -->
-  <VGE_NoNonGravtechProjectSelected>Nenhum projeto de pesquisa não-gravitec selecionado.</VGE_NoNonGravtechProjectSelected>
+  <VGE_NoNonGravtechProjectSelected>Nenhum projeto de pesquisa não-gravitech selecionado.</VGE_NoNonGravtechProjectSelected>
     <!-- EN: Converted {0} gravdata to research points for {1}. -->
   <VGE_ConvertedGravdataToResearch>Convertido {0} gravidados em pontos de pesquisa para {1}.</VGE_ConvertedGravdataToResearch>
     <!-- EN: Escape pod crash -->
@@ -342,7 +342,7 @@ Please note that keeping several maps open may affect your performance. -->
     <!-- Grav engine inspection replacement text (overwrites Odyssey's) -->
 
     <!-- EN: Amongst the remnants of the crashed gravship, a still-intact gravjumper engine hums with energy.\n\nIt is possible to repair the substructure, but various components of the gravship are beyond saving. The engine pushes against gravity, levitating the ship and allowing long-distance travel. By travelling, you may unlock the technology that will give you an opportunity to rebuild these systems and more.\n\nLaunch a gravship by scaling it down, fixing damaged substructure and replacing damaged thrusters and astrofuel tanks. Refine more astrofuel in the biofuel refinery and select a gravtech research project to progress as you travel and stress the grav engine.\n\nLaunching a gravship will give you an option to abandon your current map.\n\n  - Research project completed: Basic gravtech\n  - Flooring unlocked: Gravship substructure\n  - Wall unlocked: Gravship hull\n  - Structures unlocked: Pilot cockpit, Gravjumper engine, Small thruster, Small astrofuel tank, Astrofuel pipe, Astrofuel valve, Astrofuel tap, Astrofuel drain, Grav field extender, Small heatsink\n  - Recipe unlocked: Make astrofuel from chemfuel -->
-  <GravEngineInspectedLetterContents>Entre os restos da gravinave acidentada, um motor gravisaltador ainda intacto zune com energia. É possível reparar a subestrutura, mas vários componentes da gravinave estão além da salvação. O motor empurra contra a gravidade, levitando a nave e permitindo viagens de longa distância. Ao viajar, poderá desbloquear a tecnologia que lhe dará a oportunidade de reconstruir estes sistemas e mais. Lance uma gravinave ao reduzi-la, consertando subestrutura danificada e substituindo propulsores danificados e tanques de astrocombustível. Refine mais astrocombustível na refinaria de biocombustível e selecione um projeto de pesquisa de gravitec para progredir à medida que viaja e exerce pressão sobre o motor gravitacional. O lançamento de uma gravinave dará a opção de abandonar o seu mapa atual.\n\n  - Projeto de pesquisa concluído: gravitec básica\n  - Pavimento desbloqueado: Subestrutura da gravinave\n  - Parede desbloqueada: Casco da gravinave\n  - Estruturas desbloqueadas: Cockpit do piloto, motor gravisaltador, propulsor pequeno, pequeno tanque de astrocombustível, tubo de astrocombustível, válvula de astrocombustível, torneira de astrocombustível, dreno de astrocombustível, extensor de campo gravitacional\n  - Receita desbloqueada: Fazer astrocombustível a partir de combustivel químico</GravEngineInspectedLetterContents>
+  <GravEngineInspectedLetterContents>Entre os restos da gravinave acidentada, um motor gravisaltador ainda intacto zune com energia. É possível reparar a subestrutura, mas vários componentes da gravinave estão além da salvação. O motor empurra contra a gravidade, levitando a nave e permitindo viagens de longa distância. Ao viajar, poderá desbloquear a tecnologia que lhe dará a oportunidade de reconstruir estes sistemas e mais. Lance uma gravinave ao reduzi-la, consertando subestrutura danificada e substituindo propulsores danificados e tanques de astrocombustível. Refine mais astrocombustível na refinaria de biocombustível e selecione um projeto de pesquisa de gravitech para progredir à medida que viaja e exerce pressão sobre o motor gravitacional. O lançamento de uma gravinave dará a opção de abandonar o seu mapa atual.\n\n  - Projeto de pesquisa concluído: gravitech básica\n  - Pavimento desbloqueado: Subestrutura da gravinave\n  - Parede desbloqueada: Casco da gravinave\n  - Estruturas desbloqueadas: Cockpit do piloto, motor gravisaltador, propulsor pequeno, pequeno tanque de astrocombustível, tubo de astrocombustível, válvula de astrocombustível, torneira de astrocombustível, dreno de astrocombustível, extensor de campo gravitacional\n  - Receita desbloqueada: Fazer astrocombustível a partir de combustivel químico</GravEngineInspectedLetterContents>
 
     <!-- Agrocell text -->
     <!-- EN: Turn sun lamp on -->

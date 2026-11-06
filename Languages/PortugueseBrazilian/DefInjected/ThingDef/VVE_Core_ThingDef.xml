@@ -37,8 +37,8 @@
   <VVE_GarageDoorOpened.label>porta de garagem aberta (1x4)</VVE_GarageDoorOpened.label>
   <VVE_GarageDoorOpened.description>Divide quartos. A operação manual permite que as pessoas a abram, permitindo a passagem de veículos.</VVE_GarageDoorOpened.description>
 
-  <VVE_BangBus.label>Bang Bus</VVE_BangBus.label>
-  <VVE_BangBus.description>Um transporte de passageiros básico, o Bangbus é uma peça de maquinaria relativamente barata para construir e transportar pessoas por estradas de terreno plano. Não é recomendado para uso na estação de inverno ou em terreno com neve, ou ambos, pois as leves placas de blindagem que protegem os passageiros afetam negativamente sua aceleração.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x5\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_BangBus.description>
+  <VVE_BangBus.label>Busão</VVE_BangBus.label>
+  <VVE_BangBus.description>Um transporte de passageiros básico, o Busão é uma peça de maquinaria relativamente barata para construir e transportar pessoas por estradas de terreno plano. Não é recomendado para uso na estação de inverno ou em terreno com neve, ou ambos, pois as leves placas de blindagem que protegem os passageiros afetam negativamente sua aceleração.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x5\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_BangBus.description>
   <VVE_BangBus.components.0.label>Motor</VVE_BangBus.components.0.label>
   <VVE_BangBus.components.1.label>Roda dianteira esquerda</VVE_BangBus.components.1.label>
   <VVE_BangBus.components.2.label>Roda dianteira direita</VVE_BangBus.components.2.label>
@@ -64,8 +64,8 @@
 
   <Bullet_Bulldog_MainTurret.label>projétil altamente explosivo</Bullet_Bulldog_MainTurret.label>
 
-  <VVE_Bulldog.label>Bulldog</VVE_Bulldog.label>
-  <VVE_Bulldog.description>Um tanque de batalha principal geral, o Bulldog é um veículo de combate aprimorado que apresenta bom desempenho em qualquer combate. Possui melhor performance em terrenos menos favoráveis com todos os lados blindados, sendo a blindagem mais fina na parte traseira, próxima ao motor.\n\nDiferente de outros veículos de nível 2, este possui eficiência de combustível regular e é bastante visível, o que ainda é uma melhoria em relação ao tanque de nível 1.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Atirador x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Bulldog.description>
+  <VVE_Bulldog.label>Buldogue</VVE_Bulldog.label>
+  <VVE_Bulldog.description>Um tanque de batalha principal geral, o Buldogue é um veículo de combate aprimorado que apresenta bom desempenho em qualquer combate. Possui melhor performance em terrenos menos favoráveis com todos os lados blindados, sendo a blindagem mais fina na parte traseira, próxima ao motor.\n\nDiferente de outros veículos de nível 2, este possui eficiência de combustível regular e é bastante visível, o que ainda é uma melhoria em relação ao tanque de nível 1.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Atirador x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Bulldog.description>
   
   <VVE_Bulldog.components.0.label>Motor</VVE_Bulldog.components.0.label>
   <VVE_Bulldog.components.1.label>Lagarta esquerda</VVE_Bulldog.components.1.label>
@@ -90,8 +90,8 @@
 
   <VVE_Bullet_Bunsen.label>jorro</VVE_Bullet_Bunsen.label>
 
-  <VVE_Bunsen.label>Bunsen</VVE_Bunsen.label>
-  <VVE_Bunsen.description>Um tanque leve básico, o Bunsen é um veículo blindado modificado adequado para enfrentar fortificações inimigas e infantaria exposta. Blindagem leve especial para evitar a autoimolação, combinada com sua arma principal que extrai combustível diretamente de seus tanques ampliados, o tornam um modelo muito precário para o campo de batalha.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias, no entanto, também é menos eficiente em termos de combustível no mapa mundial.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Atirador x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Bunsen.description>
+  <VVE_Bunsen.label>Maçarico</VVE_Bunsen.label>
+  <VVE_Bunsen.description>Um tanque leve básico, o Maçarico é um veículo blindado modificado adequado para enfrentar fortificações inimigas e infantaria exposta. Blindagem leve especial para evitar a autoimolação, combinada com sua arma principal que extrai combustível diretamente de seus tanques ampliados, o tornam um modelo muito precário para o campo de batalha.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias, no entanto, também é menos eficiente em termos de combustível no mapa mundial.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Atirador x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Bunsen.description>
   <VVE_Bunsen.components.0.label>Motor</VVE_Bunsen.components.0.label>
   <VVE_Bunsen.components.1.label>Lagarta esquerda</VVE_Bunsen.components.1.label>
   <VVE_Bunsen.components.2.label>Lagarta direita</VVE_Bunsen.components.2.label>
@@ -113,8 +113,8 @@
   <VVE_Bunsen.properties.roles.0.label>Motorista</VVE_Bunsen.properties.roles.0.label>
   <VVE_Bunsen.properties.roles.1.label>Atirador</VVE_Bunsen.properties.roles.1.label>
 
-  <VVE_Charley.label>Charley</VVE_Charley.label>
-  <VVE_Charley.description>Uma motocicleta versátil, a Charley é um veículo individual muito eficaz com uma pequena capacidade de carga. Apresenta bom desempenho em qualquer estrada, exceto durante a estação de inverno ou terreno com neve, ou ambos, com uma velocidade aumentada no mapa mundial.\n\nSemelhante a outros veículos de nível 2, esta possui o dobro da eficiência de combustível no mapa mundial, o que os torna mais eficientes do que os veículos de nível 1. Também são menos visíveis devido à fabricação aprimorada.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Charley.description>
+  <VVE_Charley.label>Carlinhos</VVE_Charley.label>
+  <VVE_Charley.description>Uma motocicleta versátil, o Carlinhos é um veículo individual muito eficaz com uma pequena capacidade de carga. Apresenta bom desempenho em qualquer estrada, exceto durante a estação de inverno ou terreno com neve, ou ambos, com uma velocidade aumentada no mapa mundial.\n\nSemelhante a outros veículos de nível 2, este possui o dobro da eficiência de combustível no mapa mundial, o que os torna mais eficientes do que os veículos de nível 1. Também são menos visíveis devido à fabricação aprimorada.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Charley.description>
   <VVE_Charley.components.0.label>Roda dianteira</VVE_Charley.components.0.label>
   <VVE_Charley.components.1.label>Roda traseira</VVE_Charley.components.1.label>
   <VVE_Charley.components.2.label>Motor</VVE_Charley.components.2.label>
@@ -122,8 +122,8 @@
   <VVE_Charley.components.4.label>Suspensão traseira</VVE_Charley.components.4.label>
   <VVE_Charley.properties.roles.0.label>Motociclista</VVE_Charley.properties.roles.0.label>
 
-  <VVE_Dinghy.label>Dinghy</VVE_Dinghy.label>
-  <VVE_Dinghy.description>Um barco motorizado muito básico, o Dinghy é um método de transporte sobre a água incrivelmente barato e discreto. Possui uma boa capacidade de carga, no entanto, é provável que congele completamente nos períodos de inverno e se mova lentamente em rios. O motor exposto montado na traseira é vulnerável a ataques e não se deve esperar que a blindagem do casco resista a armas de projéteis.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x5\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Dinghy.description>
+  <VVE_Dinghy.label>Bote</VVE_Dinghy.label>
+  <VVE_Dinghy.description>Um barco motorizado muito básico, o Bote é um método de transporte sobre a água incrivelmente barato e discreto. Possui uma boa capacidade de carga, no entanto, é provável que congele completamente nos períodos de inverno e se mova lentamente em rios. O motor exposto montado na traseira é vulnerável a ataques e não se deve esperar que a blindagem do casco resista a armas de projéteis.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x5\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Dinghy.description>
   <VVE_Dinghy.components.0.label>Motor</VVE_Dinghy.components.0.label>
   <VVE_Dinghy.components.1.label>Painel lateral esquerdo</VVE_Dinghy.components.1.label>
   <VVE_Dinghy.components.2.label>Painel lateral direito</VVE_Dinghy.components.2.label>
@@ -134,8 +134,8 @@
   <VVE_Dinghy.properties.roles.4.label>Passageiro 4</VVE_Dinghy.properties.roles.4.label>
   <VVE_Dinghy.properties.roles.5.label>Passageiro 5</VVE_Dinghy.properties.roles.5.label>
 
-  <VVE_Dirtbike.label>Dirtbike</VVE_Dirtbike.label>
-  <VVE_Dirtbike.description>Uma motocicleta off-road básica, a Dirtbike é um veículo muito barato que permite a um único usuário viajar de forma rápida, eficiente e silenciosa. Incrivelmente leve e com blindagem praticamente inexistente, apresenta baixo desempenho no inverno ou na neve, ou ambos, e não possui absolutamente nenhuma capacidade de carga.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Dirtbike.description>
+  <VVE_Dirtbike.label>Moto de Trilha</VVE_Dirtbike.label>
+  <VVE_Dirtbike.description>Uma motocicleta off-road básica, a Moto de Trilha é um veículo muito barato que permite a um único usuário viajar de forma rápida, eficiente e silenciosa. Incrivelmente leve e com blindagem praticamente inexistente, apresenta baixo desempenho no inverno ou na neve, ou ambos, e não possui absolutamente nenhuma capacidade de carga.\n\nSemelhante a outros veículos de nível 1, esta é uma gastadora de combustível e é melhor usada para distâncias médias.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Dirtbike.description>
   <VVE_Dirtbike.components.0.label>Roda dianteira</VVE_Dirtbike.components.0.label>
   <VVE_Dirtbike.components.1.label>Roda traseira</VVE_Dirtbike.components.1.label>
   <VVE_Dirtbike.components.2.label>Motor</VVE_Dirtbike.components.2.label>
@@ -143,8 +143,8 @@
   <VVE_Dirtbike.components.4.label>Suspensão traseira</VVE_Dirtbike.components.4.label>
   <VVE_Dirtbike.properties.roles.0.label>Motociclista</VVE_Dirtbike.properties.roles.0.label>
 
-  <VVE_Frog.label>Frog</VVE_Frog.label>
-  <VVE_Frog.description>Uma cápsula de transporte reutilizável básica, o Frog é um veículo relativamente barato que serve como a primeira opção quando se trata de voar sem colidir com o solo. Diversas vezes mais rápido que as cápsulas de transporte convencionais e com blindagem aceitável para seu único passageiro, tornando-o um veículo de emboscada ideal.\n\nAinda pior que outros veículos de nível 1, a eficiência de combustível não existe com este transporte. Deve-se ter cuidado para reabastecer no local de pouso ou viajar com combustível reserva suficiente para fazer a viagem de volta.\n\nSendo um veículo voador, é extremamente óbvio quando está em movimento.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Frog.description>
+  <VVE_Frog.label>Rã</VVE_Frog.label>
+  <VVE_Frog.description>Uma cápsula de transporte reutilizável básica, a Rã é um veículo relativamente barato que serve como a primeira opção quando se trata de voar sem colidir com o solo. Diversas vezes mais rápida que as cápsulas de transporte convencionais e com blindagem aceitável para seu único passageiro, tornando-a um veículo de emboscada ideal.\n\nAinda pior que outros veículos de nível 1, a eficiência de combustível não existe com este transporte. Deve-se ter cuidado para reabastecer no local de pouso ou viajar com combustível reserva suficiente para fazer a viagem de volta.\n\nSendo um veículo voador, é extremamente óbvia quando está em movimento.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Frog.description>
   <VVE_Frog.components.0.label>Motor</VVE_Frog.components.0.label>
   <VVE_Frog.components.1.label>Primeiro propulsor</VVE_Frog.components.1.label>
   <VVE_Frog.components.2.label>Segundo propulsor</VVE_Frog.components.2.label>
@@ -152,8 +152,8 @@
   <VVE_Frog.components.4.label>Estabilizadores</VVE_Frog.components.4.label>
   <VVE_Frog.properties.roles.0.label>Operador</VVE_Frog.properties.roles.0.label>
 
-  <VVE_Highwayman.label>Highwayman</VVE_Highwayman.label>
-  <VVE_Highwayman.description>Um veículo de combate de infantaria básico, o Highwayman é a opção armada mais barata para transportar três pessoas. Reforçado contra fogo de armas pequenas, mas muito vulnerável na traseira, destina-se a fornecer suporte de fogo móvel para a infantaria e viajar rapidamente por estradas pavimentadas.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias, no entanto, também é menos eficiente em termos de combustível no mapa mundial.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Atirador x1, Passageiro x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Highwayman.description>
+  <VVE_Highwayman.label>Salteador</VVE_Highwayman.label>
+  <VVE_Highwayman.description>Um veículo de combate de infantaria básico, o Salteador é a opção armada mais barata para transportar três pessoas. Reforçado contra fogo de armas pequenas, mas muito vulnerável na traseira, destina-se a fornecer suporte de fogo móvel para a infantaria e viajar rapidamente por estradas pavimentadas.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias, no entanto, também é menos eficiente em termos de combustível no mapa mundial.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Atirador x1, Passageiro x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Highwayman.description>
   <VVE_Highwayman.components.0.label>Motor</VVE_Highwayman.components.0.label>
   <VVE_Highwayman.components.1.label>Roda dianteira esquerda</VVE_Highwayman.components.1.label>
   <VVE_Highwayman.components.2.label>Roda dianteira direita</VVE_Highwayman.components.2.label>
@@ -230,8 +230,8 @@
   <VVE_Mosquito.properties.roles.0.label>Piloto</VVE_Mosquito.properties.roles.0.label>
   <VVE_Mosquito.properties.roles.1.label>Passageiro</VVE_Mosquito.properties.roles.1.label>
 
-  <VVE_Mule.label>Mule</VVE_Mule.label>
-  <VVE_Mule.description>Um transporte de carga básico, o Mule é um veículo relativamente barato que pode carregar uma grande quantidade de carga por estradas suaves de terreno plano. Não recomendado para uso na estação de inverno ou em terreno com neve, ou ambos, e possui blindagem muito leve para economizar peso.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias. Ao contrário de outros veículos de nível 1, este apresenta melhor desempenho no mapa mundial por ser ligeiramente mais rápido e mais eficiente em combustível.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Mule.description>
+  <VVE_Mule.label>Mula</VVE_Mule.label>
+  <VVE_Mule.description>Um transporte de carga básico, a Mula é um veículo relativamente barato que pode carregar uma grande quantidade de carga por estradas suaves de terreno plano. Não recomendada para uso na estação de inverno ou em terreno com neve, ou ambos, e possui blindagem muito leve para economizar peso.\n\nSemelhante a outros veículos de nível 1, esta é uma gastadora de combustível e é melhor usada para distâncias médias. Ao contrário de outros veículos de nível 1, esta apresenta melhor desempenho no mapa mundial por ser ligeiramente mais rápida e mais eficiente em combustível.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Mule.description>
   <VVE_Mule.components.0.label>Motor</VVE_Mule.components.0.label>
   <VVE_Mule.components.1.label>Roda dianteira esquerda</VVE_Mule.components.1.label>
   <VVE_Mule.components.2.label>Roda dianteira direita</VVE_Mule.components.2.label>
@@ -256,8 +256,8 @@
   <VVE_Mule.properties.roles.0.label>Motorista</VVE_Mule.properties.roles.0.label>
   <VVE_Mule.properties.roles.1.label>Passageiro</VVE_Mule.properties.roles.1.label>
 
-  <VVE_Prowler.label>Prowler</VVE_Prowler.label>
-  <VVE_Prowler.description>Um veículo de exploração off-road básico, o Prowler é relativamente barato de construir e é uma opção eficaz para qualquer clima para viagens eficientes em terrenos íngremes. Com blindagem muito leve e um motor vulnerável montado na traseira, é melhor manter este automóvel de usuário único longe do combate.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Prowler.description>
+  <VVE_Prowler.label>Espreitador</VVE_Prowler.label>
+  <VVE_Prowler.description>Um veículo de exploração off-road básico, o Espreitador é relativamente barato de construir e é uma opção eficaz para qualquer clima para viagens eficientes em terrenos íngremes. Com blindagem muito leve e um motor vulnerável montado na traseira, é melhor manter este automóvel de usuário único longe do combate.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Prowler.description>
   <VVE_Prowler.components.0.label>Motor</VVE_Prowler.components.0.label>
   <VVE_Prowler.components.1.label>Roda dianteira esquerda</VVE_Prowler.components.1.label>
   <VVE_Prowler.components.2.label>Roda dianteira direita</VVE_Prowler.components.2.label>
@@ -283,8 +283,8 @@
 
   <Bullet_Roadkill_MainTurret.label>obus de alto explosivo</Bullet_Roadkill_MainTurret.label>
 
-  <VVE_Roadkill.label>Roadkill</VVE_Roadkill.label>
-  <VVE_Roadkill.description>Um tanque médio básico, o Roadkill é um veículo blindado comparativamente barato, adequado para engajamentos curtos. Muito bem blindado contra ataques frontais, no entanto, ataques laterais podem desativar o movimento e o motor exposto montado na traseira o torna vulnerável a flanqueamentos.\n\nEnquanto outros veículos de nível 1 são gastadores de combustível, este queima combustível a uma taxa alarmante e é extremamente lento para reparar.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Roadkill.description>
+  <VVE_Roadkill.label>Atropelo</VVE_Roadkill.label>
+  <VVE_Roadkill.description>Um tanque médio básico, o Atropelo é um veículo blindado comparativamente barato, adequado para engajamentos curtos. Muito bem blindado contra ataques frontais, no entanto, ataques laterais podem desativar o movimento e o motor exposto montado na traseira o torna vulnerável a flanqueamentos.\n\nEnquanto outros veículos de nível 1 são gastadores de combustível, este queima combustível a uma taxa alarmante e é extremamente lento para reparar.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Roadkill.description>
   <VVE_Roadkill.components.0.label>Motor</VVE_Roadkill.components.0.label>
   <VVE_Roadkill.components.1.label>Lagarta esquerda</VVE_Roadkill.components.1.label>
   <VVE_Roadkill.components.2.label>Lagarta direita</VVE_Roadkill.components.2.label>
@@ -304,8 +304,8 @@
   <VVE_Roadkill.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Torre principal</VVE_Roadkill.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
   <VVE_Roadkill.properties.roles.0.label>Motorista</VVE_Roadkill.properties.roles.0.label> 
 
-  <VVE_Roadrunner.label>Roadrunner</VVE_Roadrunner.label>
-  <VVE_Roadrunner.description>Um transportador de carga geral, o Roadrunner é um excelente veículo para levar muito material de um local para outro. Mais adequado para estradas planas e terá certa dificuldade em colinas, neve ou áreas de inverno.\n\nSemelhante a outros veículos de nível 2, este possui o dobro da eficiência de combustível no mapa mundial, o que os torna mais eficientes do que os veículos de nível 1. Também são menos visíveis devido à fabricação aprimorada.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Roadrunner.description>
+  <VVE_Roadrunner.label>Papa-Léguas</VVE_Roadrunner.label>
+  <VVE_Roadrunner.description>Um transportador de carga geral, o Papa-Léguas é um excelente veículo para levar muito material de um local para outro. Mais adequado para estradas planas e terá certa dificuldade em colinas, neve ou áreas de inverno.\n\nSemelhante a outros veículos de nível 2, este possui o dobro da eficiência de combustível no mapa mundial, o que os torna mais eficientes do que os veículos de nível 1. Também são menos visíveis devido à fabricação aprimorada.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Roadrunner.description>
   <VVE_Roadrunner.components.0.label>Motor</VVE_Roadrunner.components.0.label>
   <VVE_Roadrunner.components.1.label>Roda dianteira esquerda</VVE_Roadrunner.components.1.label>
   <VVE_Roadrunner.components.2.label>Roda dianteira direita</VVE_Roadrunner.components.2.label>
@@ -332,8 +332,8 @@
 
   <Rocket_Scytheman_MainTurret.label>roquete de enxame</Rocket_Scytheman_MainTurret.label>
 
-  <VVE_Scytheman.label>Scytheman</VVE_Scytheman.label>
-  <VVE_Scytheman.description>Um sistema de lançamento múltiplo de foguetes improvisado, o Scytheman é um veículo agrícola reaproveitado destinado a saturar um local com salvas imprecisas de explosivos. Devido ao design, não se destina a disparar salvas sucessivas ou ser exposto ao fogo inimigo.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias. Apresenta pior desempenho no inverno, mas ligeiramente melhor em estradas planas e abertas.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Scytheman.description>
+  <VVE_Scytheman.label>Ceifeiro</VVE_Scytheman.label>
+  <VVE_Scytheman.description>Um sistema de lançamento múltiplo de foguetes improvisado, o Ceifeiro é um veículo agrícola reaproveitado destinado a saturar um local com salvas imprecisas de explosivos. Devido ao design, não se destina a disparar salvas sucessivas ou ser exposto ao fogo inimigo.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias. Apresenta pior desempenho no inverno, mas ligeiramente melhor em estradas planas e abertas.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Scytheman.description>
   <VVE_Scytheman.components.0.label>Motor</VVE_Scytheman.components.0.label>
   <VVE_Scytheman.components.1.label>Roda dianteira esquerda</VVE_Scytheman.components.1.label>
   <VVE_Scytheman.components.2.label>Roda dianteira direita</VVE_Scytheman.components.2.label>
@@ -359,8 +359,8 @@
   <VVE_Scytheman.comps.CompVehicleTurrets.turrets.0.gizmoLabel>Salva de foguetes</VVE_Scytheman.comps.CompVehicleTurrets.turrets.0.gizmoLabel>
   <VVE_Scytheman.properties.roles.0.label>Motorista</VVE_Scytheman.properties.roles.0.label>
 
-  <VVE_Smuggler.label>Smuggler</VVE_Smuggler.label>
-  <VVE_Smuggler.description>Uma aeronave de uso geral, o Smuggler é um meio de transporte extremamente rápido e eficaz. Embora seja mais veloz e possa carregar mais carga do que helicópteros, ele requer uma pista de pouso tanto para decolar quanto para pousar.\n\nDiferente de outros veículos de nível 2, este possui eficiência de combustível regular no mapa mundial, mas em troca se move significativamente mais rápido.\n\nPor ser um veículo voador, é extremamente óbvio quando está em movimento.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Piloto x1, Passageiro x3\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Smuggler.description>
+  <VVE_Smuggler.label>Contrabandista</VVE_Smuggler.label>
+  <VVE_Smuggler.description>Uma aeronave de uso geral, o Contrabandista é um meio de transporte extremamente rápido e eficaz. Embora seja mais veloz e possa carregar mais carga do que helicópteros, ele requer uma pista de pouso tanto para decolar quanto para pousar.\n\nDiferente de outros veículos de nível 2, este possui eficiência de combustível regular no mapa mundial, mas em troca se move significativamente mais rápido.\n\nPor ser um veículo voador, é extremamente óbvio quando está em movimento.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Piloto x1, Passageiro x3\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Smuggler.description>
   <VVE_Smuggler.components.0.label>Motor</VVE_Smuggler.components.0.label>
   <VVE_Smuggler.components.1.label>Roda de pouso esquerda</VVE_Smuggler.components.1.label>
   <VVE_Smuggler.components.2.label>Roda de pouso direita</VVE_Smuggler.components.2.label>
@@ -380,8 +380,8 @@
   <VVE_Smuggler.properties.roles.0.label>Piloto</VVE_Smuggler.properties.roles.0.label>
   <VVE_Smuggler.properties.roles.1.label>Passageiro</VVE_Smuggler.properties.roles.1.label>
 
-  <VVE_Snatcher.label>Snatcher</VVE_Snatcher.label>
-  <VVE_Snatcher.description>Um transportador de passageiros geral, o Snatcher é um veículo sólido para transportar pessoas para diferentes locais. Mais adequado para estradas planas e terá sérias dificuldades na neve ou em colinas.\n\nSemelhante a outros veículos de nível 2, possui o dobro da eficiência de combustível no mapa mundial, o que os torna mais eficientes do que os veículos de nível 1. Também são menos visíveis devido à fabricação aprimorada.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x5\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Snatcher.description>
+  <VVE_Snatcher.label>Raptador</VVE_Snatcher.label>
+  <VVE_Snatcher.description>Um transportador de passageiros geral, o Raptador é um veículo sólido para transportar pessoas para diferentes locais. Mais adequado para estradas planas e terá sérias dificuldades na neve ou em colinas.\n\nSemelhante a outros veículos de nível 2, possui o dobro da eficiência de combustível no mapa mundial, o que os torna mais eficientes do que os veículos de nível 1. Também são menos visíveis devido à fabricação aprimorada.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x5\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Snatcher.description>
   <VVE_Snatcher.components.0.label>Motor</VVE_Snatcher.components.0.label>
   <VVE_Snatcher.components.1.label>Roda dianteira esquerda</VVE_Snatcher.components.1.label>
   <VVE_Snatcher.components.2.label>Roda dianteira direita</VVE_Snatcher.components.2.label>
@@ -428,8 +428,8 @@
   <VVE_Tango.properties.roles.1.label>Artilheiro</VVE_Tango.properties.roles.1.label>
   <VVE_Tango.properties.roles.2.label>Passageiro</VVE_Tango.properties.roles.2.label>
 
-  <VVE_Toad.label>Toad</VVE_Toad.label>
-  <VVE_Toad.description>Uma cápsula de implantação de esquadrão e morteiro, o Toad é um veículo um tanto caro para montar rapidamente um cerco em um local próximo sem expor seus artilheiros ao perigo. Com mais blindagem do que um tanque e um design feito para ser lançado de órbita, ele serve como um veículo de assalto semi-descartável.\n\nEficiência de combustível não faz parte do design deste veículo; considere utilizá-lo apenas em distâncias curtas com combustível suficiente para retornar.\n\nPor ser um veículo voador, é extremamente óbvio quando está em movimento.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Operador x1, Passageiro x3\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Toad.description>
+  <VVE_Toad.label>Sapo</VVE_Toad.label>
+  <VVE_Toad.description>Uma cápsula de implantação de esquadrão e morteiro, o Sapo é um veículo um tanto caro para montar rapidamente um cerco em um local próximo sem expor seus artilheiros ao perigo. Com mais blindagem do que um tanque e um design feito para ser lançado de órbita, ele serve como um veículo de assalto semi-descartável.\n\nEficiência de combustível não faz parte do design deste veículo; considere utilizá-lo apenas em distâncias curtas com combustível suficiente para retornar.\n\nPor ser um veículo voador, é extremamente óbvio quando está em movimento.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Operador x1, Passageiro x3\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Toad.description>
   <VVE_Toad.components.0.label>Motor</VVE_Toad.components.0.label>
   <VVE_Toad.components.1.label>Primeiro propulsor</VVE_Toad.components.1.label>
   <VVE_Toad.components.2.label>Segundo propulsor</VVE_Toad.components.2.label>
@@ -441,8 +441,8 @@
   <VVE_Toad.properties.roles.0.label>Operador</VVE_Toad.properties.roles.0.label>
   <VVE_Toad.properties.roles.1.label>Passageiro</VVE_Toad.properties.roles.1.label>
 
-  <VVE_Traveller.label>Traveller</VVE_Traveller.label>
-  <VVE_Traveller.description>Um veículo rodoviário básico adequado para terrenos planos, o Traveller é uma opção relativamente barata e rápida que ainda tem um desempenho bastante amigável em climas frios e condições de neve. A blindagem leve e o motor exposto montado na frente reforçam sua tendência de fugir de problemas em vez de enfrentá-los.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias. A velocidade e aceleração extras o tornam ainda menos eficiente em combustível, além de exigir mais tempo para reparos.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Traveller.description>
+  <VVE_Traveller.label>Viajante</VVE_Traveller.label>
+  <VVE_Traveller.description>Um veículo rodoviário básico adequado para terrenos planos, o Viajante é uma opção relativamente barata e rápida que ainda tem um desempenho bastante amigável em climas frios e condições de neve. A blindagem leve e o motor exposto montado na frente reforçam sua tendência de fugir de problemas em vez de enfrentá-los.\n\nSemelhante a outros veículos de nível 1, este é um gastador de combustível e é melhor usado para distâncias médias. A velocidade e aceleração extras o tornam ainda menos eficiente em combustível, além de exigir mais tempo para reparos.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Traveller.description>
   <VVE_Traveller.components.0.label>Motor</VVE_Traveller.components.0.label>
   <VVE_Traveller.components.1.label>Roda dianteira esquerda</VVE_Traveller.components.1.label>
   <VVE_Traveller.components.2.label>Roda dianteira direita</VVE_Traveller.components.2.label>
@@ -467,16 +467,16 @@
   <VVE_Traveller.properties.roles.0.label>Motorista</VVE_Traveller.properties.roles.0.label>
   <VVE_Traveller.properties.roles.1.label>Passageiro</VVE_Traveller.properties.roles.1.label>
 
-  <VVE_Trawler.label>Trawler</VVE_Trawler.label>
-  <VVE_Trawler.description>Um barco de uso geral, o Trawler é um transporte eficaz de longa distância em águas abertas. Possui um desempenho medíocre em rios e deve navegar lentamente durante a temporada de inverno.\n\nSemelhante a outros veículos de nível 2, possui o dobro da eficiência de combustível no mapa mundial, o que os torna mais eficientes do que os veículos de nível 1. Também são menos visíveis devido à fabricação aprimorada.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Condutor x1, Passageiro x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Trawler.description>
+  <VVE_Trawler.label>Barco de Arrasto</VVE_Trawler.label>
+  <VVE_Trawler.description>Um barco de uso geral, o Barco de Arrasto é um transporte eficaz de longa distância em águas abertas. Possui um desempenho medíocre em rios e deve navegar lentamente durante a temporada de inverno.\n\nSemelhante a outros veículos de nível 2, possui o dobro da eficiência de combustível no mapa mundial, o que os torna mais eficientes do que os veículos de nível 1. Também são menos visíveis devido à fabricação aprimorada.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Condutor x1, Passageiro x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Trawler.description>
   <VVE_Trawler.components.0.label>Motor</VVE_Trawler.components.0.label>
   <VVE_Trawler.components.1.label>Costado esquerdo</VVE_Trawler.components.1.label>
   <VVE_Trawler.components.2.label>Costado direito</VVE_Trawler.components.2.label>
   <VVE_Trawler.properties.roles.0.label>Condutor</VVE_Trawler.properties.roles.0.label>
   <VVE_Trawler.properties.roles.1.label>Passageiro</VVE_Trawler.properties.roles.1.label>
 
-  <VVE_Wagon.label>Wagon</VVE_Wagon.label>
-  <VVE_Wagon.description>Um veículo versátil de uso geral, o Wagon tem um bom desempenho em todas as categorias, com boa capacidade de carga e de passageiros. Mais adequado para estradas planas e terá certa dificuldade em colinas, neve ou biomas de inverno.\n\nSemelhante a outros veículos de nível 2, possui o dobro da eficiência de combustível no mapa mundial, o que os torna mais eficientes do que os veículos de nível 1. Também são menos visíveis devido à fabricação aprimorada.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x3\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Wagon.description>
+  <VVE_Wagon.label>Perua</VVE_Wagon.label>
+  <VVE_Wagon.description>Um veículo versátil de uso geral, a Perua tem um bom desempenho em todas as categorias, com boa capacidade de carga e de passageiros. Mais adequada para estradas planas e terá certa dificuldade em colinas, neve ou biomas de inverno.\n\nSemelhante a outros veículos de nível 2, possui o dobro da eficiência de combustível no mapa mundial, o que os torna mais eficientes do que os veículos de nível 1. Também são menos visíveis devido à fabricação aprimorada.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x3\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Wagon.description>
   <VVE_Wagon.components.0.label>Motor</VVE_Wagon.components.0.label>
   <VVE_Wagon.components.1.label>Roda dianteira esquerda</VVE_Wagon.components.1.label>
   <VVE_Wagon.components.2.label>Roda dianteira direita</VVE_Wagon.components.2.label>
@@ -501,8 +501,8 @@
   <VVE_Wagon.properties.roles.0.label>Motorista</VVE_Wagon.properties.roles.0.label>
   <VVE_Wagon.properties.roles.1.label>Passageiro</VVE_Wagon.properties.roles.1.label>
 
-  <VVE_Warbird.label>Warbird</VVE_Warbird.label>
-  <VVE_Warbird.description>Um avião de caça de uso geral, o Warbird é uma aeronave de ataque incrivelmente rápida e eficaz. Com carga mínima destinada apenas a equipamentos de manutenção e combustível, seu objetivo principal é engajar outras aeronaves e iniciar manobras de metralhamento (strafing).\n\nDiferente de outros veículos de nível 2, este possui eficiência de combustível regular no mapa mundial, mas em troca se move significativamente mais rápido.\n\nPor ser um veículo voador, é extremamente óbvio quando está em movimento.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Piloto x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Warbird.description>
+  <VVE_Warbird.label>Ave de Guerra</VVE_Warbird.label>
+  <VVE_Warbird.description>Um avião de caça de uso geral, a Ave de Guerra é uma aeronave de ataque incrivelmente rápida e eficaz. Com carga mínima destinada apenas a equipamentos de manutenção e combustível, seu objetivo principal é engajar outras aeronaves e iniciar manobras de metralhamento (strafing).\n\nDiferente de outros veículos de nível 2, esta possui eficiência de combustível regular no mapa mundial, mas em troca se move significativamente mais rápido.\n\nPor ser um veículo voador, é extremamente óbvia quando está em movimento.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Piloto x1\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Warbird.description>
   <VVE_Warbird.components.0.label>Motor</VVE_Warbird.components.0.label>
   <VVE_Warbird.components.1.label>Roda de pouso esquerda</VVE_Warbird.components.1.label>
   <VVE_Warbird.components.2.label>Roda de pouso direita</VVE_Warbird.components.2.label>
@@ -521,8 +521,8 @@
   <VVE_Warbird.components.15.label>Servomotores</VVE_Warbird.components.15.label>
   <VVE_Warbird.properties.roles.0.label>Piloto</VVE_Warbird.properties.roles.0.label>
 
-  <VVE_Wisent.label>Wisent</VVE_Wisent.label>
-  <VVE_Wisent.description>Um transportador de uso geral de nível militar, o Wisent é um caminhão potente capaz de transportar tanto cargas abundantes quanto soldados para território hostil. Possui uma péssima economia de combustível, porém pode navegar rapidamente por terrenos acidentados.\n\nAo contrário de outros veículos de nível 2, este é menos eficiente, mas mais eficaz ao viajar fora das estradas. Os passageiros sentados na parte traseira ficarão expostos ao fogo inimigo e a blindagem é adequada apenas para fogo mínimo de armas leves.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x7\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Wisent.description>
+  <VVE_Wisent.label>Bisão</VVE_Wisent.label>
+  <VVE_Wisent.description>Um transportador de uso geral de nível militar, o Bisão é um caminhão potente capaz de transportar tanto cargas abundantes quanto soldados para território hostil. Possui uma péssima economia de combustível, porém pode navegar rapidamente por terrenos acidentados.\n\nAo contrário de outros veículos de nível 2, este é menos eficiente, mas mais eficaz ao viajar fora das estradas. Os passageiros sentados na parte traseira ficarão expostos ao fogo inimigo e a blindagem é adequada apenas para fogo mínimo de armas leves.\n\n&lt;color=#bb8f04&gt;Tripulação:&lt;/color&gt; Motorista x1, Passageiro x7\n&lt;color=#bb8f04&gt;Tipo de combustível:&lt;/color&gt; Combustível químico</VVE_Wisent.description>
   <VVE_Wisent.components.0.label>Motor</VVE_Wisent.components.0.label>
   <VVE_Wisent.components.1.label>Roda dianteira esquerda</VVE_Wisent.components.1.label>
   <VVE_Wisent.components.2.label>Roda dianteira direita</VVE_Wisent.components.2.label>

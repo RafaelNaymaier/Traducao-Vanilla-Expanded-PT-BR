@@ -2,7 +2,7 @@
 <LanguageData>
   
   <VVE_AerialVehicles.label>veículos aéreos</VVE_AerialVehicles.label>
-  <VVE_AerialVehicles.description>Aprenda a construir veículos capazes de viajar acima do solo, como o helicóptero Mosquito e o avião de carga Smuggler.</VVE_AerialVehicles.description>
+  <VVE_AerialVehicles.description>Aprenda a construir veículos capazes de viajar acima do solo, como o helicóptero Mosquito e o avião de carga Contrabandista.</VVE_AerialVehicles.description>
   <VVE_AerialVehicles.generalRules.rulesStrings>
     <li>subject->máquinas voadoras</li>
     <li>subject_story->criou helicópteros e aviões de carga para sobrevoar obstáculos</li>
@@ -12,7 +12,7 @@
   </VVE_AerialVehicles.generalRules.rulesStrings>
   
   <VVE_BasicVehicles.label>veículos básicos</VVE_BasicVehicles.label>
-  <VVE_BasicVehicles.description>Aprenda a construir veículos básicos e ineficientes, desde o buggy Prowler até tanques individuais Roadkill.</VVE_BasicVehicles.description>
+  <VVE_BasicVehicles.description>Aprenda a construir veículos básicos e ineficientes, desde o buggy Espreitador até tanques individuais Atropelo.</VVE_BasicVehicles.description>
   <VVE_BasicVehicles.generalRules.rulesStrings>
     <li>subject->primeiros veículos</li>
     <li>subject_story->começou a fabricar veículos simples como buggies e tanques individuais</li>
@@ -22,7 +22,7 @@
   </VVE_BasicVehicles.generalRules.rulesStrings>
   
   <VVE_CombatVehicles.label>veículos de combate</VVE_CombatVehicles.label>
-  <VVE_CombatVehicles.description>Aprenda a construir veículos de combate complexos, como os tanques de batalha Bulldog, transportes blindados Tango e aviões de combate Warbird.</VVE_CombatVehicles.description>
+  <VVE_CombatVehicles.description>Aprenda a construir veículos de combate complexos, como os tanques de batalha Buldogue, transportes blindados Tango e aviões de combate Ave de Guerra.</VVE_CombatVehicles.description>
   <VVE_CombatVehicles.generalRules.rulesStrings>
     <li>subject->veículos de guerra</li>
     <li>subject_story->fabricou veículos de combate poderosos como tanques e aviões blindados</li>
@@ -32,7 +32,7 @@
   </VVE_CombatVehicles.generalRules.rulesStrings>
   
   <VVE_ComplexVehicles.label>veículos complexos</VVE_ComplexVehicles.label>
-  <VVE_ComplexVehicles.description>Aprenda a construir veículos complexos, como as furgões Wagon, Roadrunners e Snatchers, utilizando componentes que você pode fabricar facilmente.</VVE_ComplexVehicles.description>
+  <VVE_ComplexVehicles.description>Aprenda a construir veículos complexos, como a Perua, o Papa-Léguas e o Raptador, utilizando componentes que você pode fabricar facilmente.</VVE_ComplexVehicles.description>
   <VVE_ComplexVehicles.generalRules.rulesStrings>
     <li>subject->veículos aprimorados</li>
     <li>subject_story->construiu veículos mais complexos, como furgões e carros velozes</li>

@@ -187,23 +187,23 @@
   <!-- EN: The remains of a giant orbital station artillery platform, twisted and wrecked after the destruction of the weapon it once held. Now only serves as salvage. -->
   <VGE_DestroyedGiantWeaponPlatform.description>Os restos de uma plataforma de artilharia de uma estação orbital gigante, retorcida e destruída junto com a arma que sustentava. Agora serve apenas como sucata.</VGE_DestroyedGiantWeaponPlatform.description>
   <!-- EN: destroyed gravcore power cell -->
-  <VGE_DestroyedGravcorePowerCell.label>Célula de energia de gravinúcleo destruída</VGE_DestroyedGravcorePowerCell.label>
+  <VGE_DestroyedGravcorePowerCell.label>Célula de energia de gravicore destruída</VGE_DestroyedGravcorePowerCell.label>
   <!-- EN: A destroyed power generator, once capable of passively harvesting gravitational wave energy and amplifying adjacent power cells. Some resources may still be salvaged from it. -->
   <VGE_DestroyedGravcorePowerCell.description>Um gerador de energia destruído, que antes captava passivamente a energia das ondas gravitacionais e amplificava células de energia próximas. Ainda é possível recuperar alguns recursos.</VGE_DestroyedGravcorePowerCell.description>
   <!-- EN: destroyed gravcore power coil -->
-  <VGE_DestroyedGravcorePowerCoil.label>Bobina de energia de gravinúcleo destruída</VGE_DestroyedGravcorePowerCoil.label>
+  <VGE_DestroyedGravcorePowerCoil.label>Bobina de energia de gravicore destruída</VGE_DestroyedGravcorePowerCoil.label>
   <!-- EN: A massive gravtech reactor, now utterly destroyed, with its reinforced coils twisted and inert, can be salvaged for its valuable components. -->
   <VGE_DestroyedGravcorePowerCoil.description>Um reator de gravtecnologia enorme, completamente destruído, com suas bobinas reforçadas retorcidas e inertes. Ainda é possível recuperar seus componentes valiosos.</VGE_DestroyedGravcorePowerCoil.description>
   <!-- EN: destroyed gravship engine -->
   <VGE_DestroyedGravEngine.label>Motor gravitacional destruído</VGE_DestroyedGravEngine.label>
   <!-- EN: The collapsed remains of a gravship engine, no longer capable of lifting the vessel. It seems the gravity field collapse did not result in any detonation, so it can still be salvaged for a valuable gravcore. -->
-  <VGE_DestroyedGravEngine.description>Os restos colapsados de um motor gravitacional, incapaz de erguer a gravinave. Ao que parece, o colapso do campo gravitacional não causou uma detonação; ainda é possível recuperar um gravinúcleo valioso.</VGE_DestroyedGravEngine.description>
+  <VGE_DestroyedGravEngine.description>Os restos colapsados de um motor gravitacional, incapaz de erguer a gravinave. Ao que parece, o colapso do campo gravitacional não causou uma detonação; ainda é possível recuperar um gravicore valioso.</VGE_DestroyedGravEngine.description>
   <!-- EN: Contains: Gravcore -->
-  <VGE_DestroyedGravEngine.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_DestroyedGravEngine.comps.CompInspectString.inspectString>
+  <VGE_DestroyedGravEngine.comps.CompInspectString.inspectString>Contém: Gravicore</VGE_DestroyedGravEngine.comps.CompInspectString.inspectString>
   <!-- EN: destroyed grav field amplifier -->
   <VGE_DestroyedGravFieldAmplifier.label>Amplificador de campo gravitacional destruído</VGE_DestroyedGravFieldAmplifier.label>
   <!-- EN: The shattered remains of an advanced ultratech device that once dramatically increased a gravship's size and build area. The core systems are utterly destroyed, but a specialized gravcore may still be salvaged from the wreckage. -->
-  <VGE_DestroyedGravFieldAmplifier.description>Os restos de um dispositivo ultratecnológico avançado que aumentava bastante o tamanho e a área de construção de uma gravinave. Os sistemas centrais foram completamente destruídos, mas talvez ainda seja possível recuperar um gravinúcleo especializado.</VGE_DestroyedGravFieldAmplifier.description>
+  <VGE_DestroyedGravFieldAmplifier.description>Os restos de um dispositivo ultratecnológico avançado que aumentava bastante o tamanho e a área de construção de uma gravinave. Os sistemas centrais foram completamente destruídos, mas talvez ainda seja possível recuperar um gravicore especializado.</VGE_DestroyedGravFieldAmplifier.description>
   <!-- EN: destroyed gravheat absorber -->
   <VGE_DestroyedGravheatAbsorber.label>Absorvedor de calor gravitacional destruído</VGE_DestroyedGravheatAbsorber.label>
   <!-- EN: A warped, scorched, and inoperable specialized thermal sink, originally used to instantly cool a grav engine, is now useless for its primary function due to melted internal systems and cracked shielding. However, its dense, exotic metal casing and components can still be salvaged. -->
@@ -211,15 +211,15 @@
   <!-- EN: destroyed gravhulk engine -->
   <VGE_DestroyedGravhulkEngine.label>Motor de gravicolosso destruído</VGE_DestroyedGravhulkEngine.label>
   <!-- EN: The huge, destroyed wreck of a gravhulk engine, no longer operational. It seems the gravity field collapse did not result in any detonation, so it can still be salvaged for a valuable gravcore. -->
-  <VGE_DestroyedGravhulkEngine.description>Os enormes destroços de um motor de gravicolosso, sem qualquer funcionamento. Ao que parece, o colapso do campo gravitacional não causou uma detonação; ainda é possível recuperar um gravinúcleo valioso.</VGE_DestroyedGravhulkEngine.description>
+  <VGE_DestroyedGravhulkEngine.description>Os enormes destroços de um motor de gravicolosso, sem qualquer funcionamento. Ao que parece, o colapso do campo gravitacional não causou uma detonação; ainda é possível recuperar um gravicore valioso.</VGE_DestroyedGravhulkEngine.description>
   <!-- EN: Contains: Gravcore -->
-  <VGE_DestroyedGravhulkEngine.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_DestroyedGravhulkEngine.comps.CompInspectString.inspectString>
+  <VGE_DestroyedGravhulkEngine.comps.CompInspectString.inspectString>Contém: Gravicore</VGE_DestroyedGravhulkEngine.comps.CompInspectString.inspectString>
   <!-- EN: destroyed gravjumper engine -->
   <VGE_DestroyedGravjumperEngine.label>Motor de gravisalto destruído</VGE_DestroyedGravjumperEngine.label>
   <!-- EN: The mangled remains of a gravjumper engine, now useless for short-range jumps. It seems the gravity field collapse did not result in any detonation, so it can still be salvaged for a valuable gravcore. -->
-  <VGE_DestroyedGravjumperEngine.description>Os restos retorcidos de um motor de gravisalto, agora inútil para saltos de curto alcance. Ao que parece, o colapso do campo gravitacional não causou uma detonação; ainda é possível recuperar um gravinúcleo valioso.</VGE_DestroyedGravjumperEngine.description>
+  <VGE_DestroyedGravjumperEngine.description>Os restos retorcidos de um motor de gravisalto, agora inútil para saltos de curto alcance. Ao que parece, o colapso do campo gravitacional não causou uma detonação; ainda é possível recuperar um gravicore valioso.</VGE_DestroyedGravjumperEngine.description>
   <!-- EN: Contains: Gravcore -->
-  <VGE_DestroyedGravjumperEngine.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_DestroyedGravjumperEngine.comps.CompInspectString.inspectString>
+  <VGE_DestroyedGravjumperEngine.comps.CompInspectString.inspectString>Contém: Gravicore</VGE_DestroyedGravjumperEngine.comps.CompInspectString.inspectString>
   <!-- EN: destroyed gravlift -->
   <VGE_DestroyedGravlift.label>Elevador gravitacional destruído</VGE_DestroyedGravlift.label>
   <!-- EN: A mangled wreck of a complex stabilization device. The core thrusters are fused and the gravitic dampeners shattered, rendering it useless for flight or stability, however, its mass of exotic metals and components can be deconstructed for a valuable resource yield. -->
@@ -227,9 +227,9 @@
   <!-- EN: destroyed gravlock tether -->
   <VGE_DestroyedGravlockTether.label>Cabo de ancoragem gravitacional destruído</VGE_DestroyedGravlockTether.label>
   <!-- EN: The ruined remains of a gravlock tether that once anchored an orbital station in place. The core stabilization systems are completely shattered, but its bulky frame can still be deconstructed to yield valuable salvage, including a gravcore. -->
-  <VGE_DestroyedGravlockTether.description>Os destroços de um cabo de ancoragem gravitacional que mantinha uma estação orbital no lugar. Os sistemas centrais de estabilização estão completamente destruídos, mas sua estrutura volumosa ainda pode ser desmontada para recuperar materiais valiosos, incluindo um gravinúcleo.</VGE_DestroyedGravlockTether.description>
+  <VGE_DestroyedGravlockTether.description>Os destroços de um cabo de ancoragem gravitacional que mantinha uma estação orbital no lugar. Os sistemas centrais de estabilização estão completamente destruídos, mas sua estrutura volumosa ainda pode ser desmontada para recuperar materiais valiosos, incluindo um gravicore.</VGE_DestroyedGravlockTether.description>
   <!-- EN: Contains: Gravcore -->
-  <VGE_DestroyedGravlockTether.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_DestroyedGravlockTether.comps.CompInspectString.inspectString>
+  <VGE_DestroyedGravlockTether.comps.CompInspectString.inspectString>Contém: Gravicore</VGE_DestroyedGravlockTether.comps.CompInspectString.inspectString>
   <!-- EN: destroyed gravlaunch cloaker -->
   <VGE_DestroyedGravlunchCloaker.label>Camuflador de lançamento gravitacional destruído</VGE_DestroyedGravlunchCloaker.label>
   <!-- EN: The shattered remains of a gravlaunch cloaker that once masked a gravship's energy signature. While it can no longer hide launch signatures, its frame and components can still be salvaged for valuable components. -->
@@ -313,9 +313,9 @@
   <!-- EN: destroyed warcomputer -->
   <VGE_DestroyedWarComputer.label>Computador de guerra destruído</VGE_DestroyedWarComputer.label>
   <!-- EN: The shattered remains of a warcomputer. Its advanced tactical processing systems are offline and completely unresponsive. While the unit is beyond repair, the core housing contains a valuable, intact gravcore that can still be salvaged. -->
-  <VGE_DestroyedWarComputer.description>Os destroços de um computador de guerra. Seus sistemas avançados de processamento tático estão desligados e completamente inoperantes. Embora a unidade não possa ser reparada, o compartimento do núcleo contém um gravinúcleo intacto e valioso que ainda pode ser recuperado.</VGE_DestroyedWarComputer.description>
+  <VGE_DestroyedWarComputer.description>Os destroços de um computador de guerra. Seus sistemas avançados de processamento tático estão desligados e completamente inoperantes. Embora a unidade não possa ser reparada, o compartimento do núcleo contém um gravicore intacto e valioso que ainda pode ser recuperado.</VGE_DestroyedWarComputer.description>
   <!-- EN: Contains: Gravcore -->
-  <VGE_DestroyedWarComputer.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_DestroyedWarComputer.comps.CompInspectString.inspectString>
+  <VGE_DestroyedWarComputer.comps.CompInspectString.inspectString>Contém: Gravicore</VGE_DestroyedWarComputer.comps.CompInspectString.inspectString>
   <!-- EN: grav junk -->
   <VGE_GravJunk.label>Sucata gravitacional</VGE_GravJunk.label>
   <!-- EN: A twisted chunk of a grav engine. Doesn't contain anything of value. -->
@@ -327,13 +327,13 @@
   <!-- EN: ancient signal jammer -->
   <VGE_AncientSignalJammer.label>Bloqueador de sinais ancestral</VGE_AncientSignalJammer.label>
   <!-- EN: An archaic broadcasting array emitting a high-frequency interference field that cripples long-range communications and disrupts gravship navigational locks. As long as it’s active, gravship or shuttle launches from this area will not be possible, and comms consoles will not be able to be used. It contains a valuable gravcore. -->
-  <VGE_AncientSignalJammer.description>Uma antiga matriz de transmissão que emite um campo de interferência de alta frequência, prejudicando comunicações de longo alcance e interrompendo os sistemas de navegação de gravinaves. Enquanto estiver ativa, não será possível lançar gravinaves ou ônibus espaciais desta área, nem usar consoles de comunicação. Contém um gravinúcleo valioso.</VGE_AncientSignalJammer.description>
+  <VGE_AncientSignalJammer.description>Uma antiga matriz de transmissão que emite um campo de interferência de alta frequência, prejudicando comunicações de longo alcance e interrompendo os sistemas de navegação de gravinaves. Enquanto estiver ativa, não será possível lançar gravinaves ou ônibus espaciais desta área, nem usar consoles de comunicação. Contém um gravicore valioso.</VGE_AncientSignalJammer.description>
   <!-- EN: Signal jammer -->
   <VGE_AncientSignalJammer.comps.CompLetterOnRevealed.label>Bloqueador de sinais</VGE_AncientSignalJammer.comps.CompLetterOnRevealed.label>
   <!-- EN: You've discovered an ancient signal jammer actively preventing vessels from leaving the area. Destroy it to lift the lockdown and obtain a gravcore. -->
-  <VGE_AncientSignalJammer.comps.CompLetterOnRevealed.text>Você descobriu um bloqueador de sinais ancestral que impede ativamente as naves de deixar a área. Destrua-o para suspender o bloqueio e obter um gravinúcleo.</VGE_AncientSignalJammer.comps.CompLetterOnRevealed.text>
+  <VGE_AncientSignalJammer.comps.CompLetterOnRevealed.text>Você descobriu um bloqueador de sinais ancestral que impede ativamente as naves de deixar a área. Destrua-o para suspender o bloqueio e obter um gravicore.</VGE_AncientSignalJammer.comps.CompLetterOnRevealed.text>
   <!-- EN: Contains: Gravcore -->
-  <VGE_AncientSignalJammer.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_AncientSignalJammer.comps.CompInspectString.inspectString>
+  <VGE_AncientSignalJammer.comps.CompInspectString.inspectString>Contém: Gravicore</VGE_AncientSignalJammer.comps.CompInspectString.inspectString>
   <!-- EN: anticraft beam -->
   <VGE_Bullet_AnticraftBeam.label>Feixe antiaéreo</VGE_Bullet_AnticraftBeam.label>
   <!-- EN: defender turret bullet -->
@@ -349,13 +349,13 @@
   <!-- EN: enemy anticraft beam -->
   <VGE_EnemyAnticraftBeam.label>feixe antiaéreo inimigo</VGE_EnemyAnticraftBeam.label>
   <!-- EN: A massive anti-ship beam weapon intended to destroy flying craft, but also capable of firing onto the surface from space. Ships using ultratech signal jammers can delay the targeting of these weapons.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be destroyed to yield some valuable resources, including a gravcore. -->
-  <VGE_EnemyAnticraftBeam.description>Uma arma de feixe antinave enorme, projetada para destruir aeronaves, mas também capaz de disparar contra a superfície a partir do espaço. Naves que usam bloqueadores de sinais ultratecnológicos podem atrasar a mira dessas armas.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser destruído para recuperar recursos valiosos, incluindo um gravinúcleo.</VGE_EnemyAnticraftBeam.description>
+  <VGE_EnemyAnticraftBeam.description>Uma arma de feixe antinave enorme, projetada para destruir aeronaves, mas também capaz de disparar contra a superfície a partir do espaço. Naves que usam bloqueadores de sinais ultratecnológicos podem atrasar a mira dessas armas.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser destruído para recuperar recursos valiosos, incluindo um gravicore.</VGE_EnemyAnticraftBeam.description>
   <!-- EN: Contains: Gravcore -->
-  <VGE_EnemyAnticraftBeam.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_EnemyAnticraftBeam.comps.CompInspectString.inspectString>
+  <VGE_EnemyAnticraftBeam.comps.CompInspectString.inspectString>Contém: Gravicore</VGE_EnemyAnticraftBeam.comps.CompInspectString.inspectString>
   <!-- EN: Beam emitter -->
   <VGE_EnemyAnticraftBeam.comps.CompLetterOnRevealed.label>Emissor de feixe</VGE_EnemyAnticraftBeam.comps.CompLetterOnRevealed.label>
   <!-- EN: You've discovered an anticraft beam. This powerful orbital weapon can annihilate any gravship that challenges it. Destroy it to secure the airspace and obtain a gravcore. -->
-  <VGE_EnemyAnticraftBeam.comps.CompLetterOnRevealed.text>Você descobriu um feixe antiaéreo. Esta poderosa arma orbital pode aniquilar qualquer gravinave que a desafie. Destrua-a para garantir o controle do espaço aéreo e obter um gravinúcleo.</VGE_EnemyAnticraftBeam.comps.CompLetterOnRevealed.text>
+  <VGE_EnemyAnticraftBeam.comps.CompLetterOnRevealed.text>Você descobriu um feixe antiaéreo. Esta poderosa arma orbital pode aniquilar qualquer gravinave que a desafie. Destrua-a para garantir o controle do espaço aéreo e obter um gravicore.</VGE_EnemyAnticraftBeam.comps.CompLetterOnRevealed.text>
   <!-- EN: anticraft beam strike -->
   <VGE_EnemyAnticraftBeamStrike.label>Ataque de feixe antiaéreo</VGE_EnemyAnticraftBeamStrike.label>
   <!-- EN: enemy anticraft caster -->
@@ -373,13 +373,13 @@
   <!-- EN: enemy gauss cannon -->
   <VGE_EnemyGaussCannon.label>canhão Gauss inimigo</VGE_EnemyGaussCannon.label>
   <!-- EN: A massive, single-barrel anti-ship cannon that uses powerful electromagnets to launch large metallic darts at extreme velocities. While formidable, ships equipped with ultratech signal jammers can temporarily paralyze its targeting systems, rendering it unable to fire during the disruption.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be destroyed to yield some valuable resources, including a gravcore. -->
-  <VGE_EnemyGaussCannon.description>Um canhão antinave enorme, de cano único, que usa eletroímãs poderosos para lançar dardos metálicos a velocidades extremas. Bloqueadores de sinais ultratecnológicos podem paralisar temporariamente seus sistemas de mira, impedindo o disparo durante a interferência.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser destruído para recuperar recursos valiosos, incluindo um gravinúcleo.</VGE_EnemyGaussCannon.description>
+  <VGE_EnemyGaussCannon.description>Um canhão antinave enorme, de cano único, que usa eletroímãs poderosos para lançar dardos metálicos a velocidades extremas. Bloqueadores de sinais ultratecnológicos podem paralisar temporariamente seus sistemas de mira, impedindo o disparo durante a interferência.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser destruído para recuperar recursos valiosos, incluindo um gravicore.</VGE_EnemyGaussCannon.description>
   <!-- EN: Contains: Gravcore -->
-  <VGE_EnemyGaussCannon.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_EnemyGaussCannon.comps.CompInspectString.inspectString>
+  <VGE_EnemyGaussCannon.comps.CompInspectString.inspectString>Contém: Gravicore</VGE_EnemyGaussCannon.comps.CompInspectString.inspectString>
   <!-- EN: Gauss cannon -->
   <VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.label>Canhão Gauss</VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.label>
   <!-- EN: You've discovered a gauss cannon, a devastating piece of orbital artillery. Destroy it to eliminate the threat and obtain a gravcore. -->
-  <VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.text>Você descobriu um canhão Gauss, uma peça devastadora de artilharia orbital. Destrua-o para eliminar a ameaça e obter um gravinúcleo.</VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.text>
+  <VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.text>Você descobriu um canhão Gauss, uma peça devastadora de artilharia orbital. Destrua-o para eliminar a ameaça e obter um gravicore.</VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.text>
   <!-- EN: enemy gauss gun -->
   <VGE_EnemyGaussGun.label>arma Gauss inimiga</VGE_EnemyGaussGun.label>
   <!-- EN: A small, single-barrel electromagnetic cannon that launches dense uranium slugs at extreme velocities. Designed for both local bombardments and medium-range engagements, it can also target other gravships in orbit. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
@@ -395,13 +395,13 @@
   <!-- EN: enemy gravship engine -->
   <VGE_EnemyGravEngine.label>Motor de gravinave inimiga</VGE_EnemyGravEngine.label>
   <!-- EN: The ultratech heart of a gravship. The grav engine generates lift by inverting and intensifying the effect of gravity in a field around itself. This engine can lift upwards, but does not produce forward thrust.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore. -->
-  <VGE_EnemyGravEngine.description>O coração ultratecnológico de uma gravinave. O motor gravitacional gera elevação ao inverter e intensificar o efeito da gravidade em um campo ao seu redor. Pode elevar a gravinave, mas não produz impulso para a frente.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos, incluindo um gravinúcleo.</VGE_EnemyGravEngine.description>
+  <VGE_EnemyGravEngine.description>O coração ultratecnológico de uma gravinave. O motor gravitacional gera elevação ao inverter e intensificar o efeito da gravidade em um campo ao seu redor. Pode elevar a gravinave, mas não produz impulso para a frente.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos, incluindo um gravicore.</VGE_EnemyGravEngine.description>
   <!-- EN: Contains: Gravcore -->
-  <VGE_EnemyGravEngine.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_EnemyGravEngine.comps.CompInspectString.inspectString>
+  <VGE_EnemyGravEngine.comps.CompInspectString.inspectString>Contém: Gravicore</VGE_EnemyGravEngine.comps.CompInspectString.inspectString>
   <!-- EN: Gravship engine -->
   <VGE_EnemyGravEngine.comps.CompLetterOnRevealed.label>Motor de gravinave</VGE_EnemyGravEngine.comps.CompLetterOnRevealed.label>
   <!-- EN: You've discovered an enemy gravship engine. Destroy it to obtain a gravcore and permanently disable the ship's ability to move. -->
-  <VGE_EnemyGravEngine.comps.CompLetterOnRevealed.text>Você descobriu o motor de uma gravinave inimiga. Destrua-o para obter um gravinúcleo e desativar permanentemente a capacidade de movimento da gravinave.</VGE_EnemyGravEngine.comps.CompLetterOnRevealed.text>
+  <VGE_EnemyGravEngine.comps.CompLetterOnRevealed.text>Você descobriu o motor de uma gravinave inimiga. Destrua-o para obter um gravicore e desativar permanentemente a capacidade de movimento da gravinave.</VGE_EnemyGravEngine.comps.CompLetterOnRevealed.text>
   <!-- EN: enemy grav field amplifier -->
   <VGE_EnemyGravFieldAmplifier.label>Amplificador de campo gravitacional inimigo</VGE_EnemyGravFieldAmplifier.label>
   <!-- EN: An advanced ultratech device that dramatically increases the size of a gravship.  It extends the area in which substructure can be built, and increases the amount of substructure that a gravship can support.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
@@ -413,33 +413,33 @@
   <!-- EN: enemy gravhulk engine -->
   <VGE_EnemyGravhulkEngine.label>Motor de gravicolosso inimigo</VGE_EnemyGravhulkEngine.label>
   <!-- EN: The gravhulk is a colossal class of gravship, engineered to transport entire megacolonies, orbital platforms, or mobile city-cores across the skies of a planet. The grav engine generates lift by inverting and intensifying the effect of gravity in a field around itself. This engine can lift upwards, but does not produce forward thrust. It can't function far from a large gravity well like a planet, so it is useless for interplanetary travel.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore. -->
-  <VGE_EnemyGravhulkEngine.description>O gravicolosso é uma classe colossal de gravinave, projetada para transportar megacolônias inteiras, plataformas orbitais ou núcleos de cidades móveis pelos céus de um planeta. O motor gravitacional gera elevação ao inverter e intensificar o efeito da gravidade em um campo ao seu redor. Pode elevar a gravinave, mas não produz impulso para a frente. Não funciona longe de um grande poço gravitacional, como um planeta, sendo inútil para viagens interplanetárias.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos, incluindo um gravinúcleo.</VGE_EnemyGravhulkEngine.description>
+  <VGE_EnemyGravhulkEngine.description>O gravicolosso é uma classe colossal de gravinave, projetada para transportar megacolônias inteiras, plataformas orbitais ou núcleos de cidades móveis pelos céus de um planeta. O motor gravitacional gera elevação ao inverter e intensificar o efeito da gravidade em um campo ao seu redor. Pode elevar a gravinave, mas não produz impulso para a frente. Não funciona longe de um grande poço gravitacional, como um planeta, sendo inútil para viagens interplanetárias.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos, incluindo um gravicore.</VGE_EnemyGravhulkEngine.description>
   <!-- EN: Contains: Gravcore -->
-  <VGE_EnemyGravhulkEngine.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_EnemyGravhulkEngine.comps.CompInspectString.inspectString>
+  <VGE_EnemyGravhulkEngine.comps.CompInspectString.inspectString>Contém: Gravicore</VGE_EnemyGravhulkEngine.comps.CompInspectString.inspectString>
   <!-- EN: Gravhulk engine -->
   <VGE_EnemyGravhulkEngine.comps.CompLetterOnRevealed.label>Motor de gravicolosso</VGE_EnemyGravhulkEngine.comps.CompLetterOnRevealed.label>
   <!-- EN: You've discovered an enemy gravhulk engine. Destroy it to obtain a gravcore and permanently cripple this massive vessel's mobility. -->
-  <VGE_EnemyGravhulkEngine.comps.CompLetterOnRevealed.text>Você descobriu o motor de um gravicolosso inimigo. Destrua-o para obter um gravinúcleo e incapacitar permanentemente a mobilidade desta nave enorme.</VGE_EnemyGravhulkEngine.comps.CompLetterOnRevealed.text>
+  <VGE_EnemyGravhulkEngine.comps.CompLetterOnRevealed.text>Você descobriu o motor de um gravicolosso inimigo. Destrua-o para obter um gravicore e incapacitar permanentemente a mobilidade desta nave enorme.</VGE_EnemyGravhulkEngine.comps.CompLetterOnRevealed.text>
   <!-- EN: enemy gravjumper engine -->
   <VGE_EnemyGravjumperEngine.label>Motor de gravisalto inimigo</VGE_EnemyGravjumperEngine.label>
   <!-- EN: A compact gravtech engine designed for short-range jumps within a planet's atmosphere. The gravjumper engine creates a brief, localized distortion in gravitational flow, allowing rapid vertical lift, but does not produce forward thrust. It can't function far from a large gravity well like a planet, so it is useless for interplanetary travel.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore. -->
-  <VGE_EnemyGravjumperEngine.description>Um motor de gravtecnologia compacto, projetado para saltos de curto alcance na atmosfera de um planeta. O motor de gravisalto cria uma distorção breve e localizada no fluxo gravitacional, permitindo uma rápida elevação vertical, mas não produz impulso para a frente. Não funciona longe de um poço gravitacional grande, como um planeta, e por isso é inútil para viagens interplanetárias.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos, incluindo um gravinúcleo.</VGE_EnemyGravjumperEngine.description>
+  <VGE_EnemyGravjumperEngine.description>Um motor de gravtecnologia compacto, projetado para saltos de curto alcance na atmosfera de um planeta. O motor de gravisalto cria uma distorção breve e localizada no fluxo gravitacional, permitindo uma rápida elevação vertical, mas não produz impulso para a frente. Não funciona longe de um poço gravitacional grande, como um planeta, e por isso é inútil para viagens interplanetárias.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos, incluindo um gravicore.</VGE_EnemyGravjumperEngine.description>
   <!-- EN: Contains: Gravcore -->
-  <VGE_EnemyGravjumperEngine.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_EnemyGravjumperEngine.comps.CompInspectString.inspectString>
+  <VGE_EnemyGravjumperEngine.comps.CompInspectString.inspectString>Contém: Gravicore</VGE_EnemyGravjumperEngine.comps.CompInspectString.inspectString>
   <!-- EN: Gravjumper engine -->
   <VGE_EnemyGravjumperEngine.comps.CompLetterOnRevealed.label>Motor de gravisalto</VGE_EnemyGravjumperEngine.comps.CompLetterOnRevealed.label>
   <!-- EN: You've discovered an enemy gravjumper engine. Destroy it to obtain a gravcore and permanently disable the vessel's ability to move. -->
-  <VGE_EnemyGravjumperEngine.comps.CompLetterOnRevealed.text>Você descobriu o motor de um gravisalto inimigo. Destrua-o para obter um gravinúcleo e desativar permanentemente a capacidade de movimento do gravisalto.</VGE_EnemyGravjumperEngine.comps.CompLetterOnRevealed.text>
+  <VGE_EnemyGravjumperEngine.comps.CompLetterOnRevealed.text>Você descobriu o motor de um gravisalto inimigo. Destrua-o para obter um gravicore e desativar permanentemente a capacidade de movimento do gravisalto.</VGE_EnemyGravjumperEngine.comps.CompLetterOnRevealed.text>
   <!-- EN: enemy gravlock tether -->
   <VGE_EnemyGravlockTether.label>Cabo de ancoragem gravitacional inimigo</VGE_EnemyGravlockTether.label>
   <!-- EN: The gravlock tether is the core stabilization unit of an orbital station, anchoring it in a fixed position. A specialized conversion of the gravhulk engine, this device generates a stabilized gravitational field to maintain the station's orbital trajectory.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources, including a gravcore. -->
-  <VGE_EnemyGravlockTether.description>O cabo de ancoragem gravitacional é a unidade central de estabilização de uma estação orbital, mantendo-a em posição fixa. Uma versão especializada do motor de gravicolosso, este dispositivo gera um campo gravitacional estabilizado para manter a trajetória orbital da estação.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos, incluindo um gravinúcleo.</VGE_EnemyGravlockTether.description>
+  <VGE_EnemyGravlockTether.description>O cabo de ancoragem gravitacional é a unidade central de estabilização de uma estação orbital, mantendo-a em posição fixa. Uma versão especializada do motor de gravicolosso, este dispositivo gera um campo gravitacional estabilizado para manter a trajetória orbital da estação.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos, incluindo um gravicore.</VGE_EnemyGravlockTether.description>
   <!-- EN: Contains: Gravcore -->
-  <VGE_EnemyGravlockTether.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_EnemyGravlockTether.comps.CompInspectString.inspectString>
+  <VGE_EnemyGravlockTether.comps.CompInspectString.inspectString>Contém: Gravicore</VGE_EnemyGravlockTether.comps.CompInspectString.inspectString>
   <!-- EN: Gravlock tether -->
   <VGE_EnemyGravlockTether.comps.CompLetterOnRevealed.label>Cabo de ancoragem gravitacional</VGE_EnemyGravlockTether.comps.CompLetterOnRevealed.label>
   <!-- EN: You've discovered an enemy gravlock tether, anchoring an orbital base in place. Destroy it to obtain a gravcore. -->
-  <VGE_EnemyGravlockTether.comps.CompLetterOnRevealed.text>Você descobriu um cabo de ancoragem gravitacional inimigo, que mantém uma base orbital no lugar. Destrua-o para obter um gravinúcleo.</VGE_EnemyGravlockTether.comps.CompLetterOnRevealed.text>
+  <VGE_EnemyGravlockTether.comps.CompLetterOnRevealed.text>Você descobriu um cabo de ancoragem gravitacional inimigo, que mantém uma base orbital no lugar. Destrua-o para obter um gravicore.</VGE_EnemyGravlockTether.comps.CompLetterOnRevealed.text>
   <!-- EN: enemy gravship autocannon turret -->
   <VGE_EnemyGravshipAutocannonTurret.label>Torreta de autocanhão de gravinave inimiga</VGE_EnemyGravshipAutocannonTurret.label>
   <!-- EN: A compact gravship-mounted automatic turret. Its large-caliber shells do heavy damage over significant ranges, but despite its efficiency, the barrel must be refurbished after heavy use. It cannot fire at close-up targets, and may explode when damaged.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
@@ -577,11 +577,11 @@
   <!-- EN: The tactical core of an orbital warplatform. This advanced supercomputer maintains active target locks and manages the platform's long-range artillery systems. It can be accessed and hacked to download a payload of gravdata, scaling based on progress on the currently selected gravtech research project. Destroying or hacking the warcomputer will disable the platform entirely. -->
   <VGE_HostileWarcomputer.description>O núcleo tático de uma plataforma de guerra orbital. Este supercomputador avançado mantém bloqueios ativos de alvos e gerencia os sistemas de artilharia de longo alcance da plataforma. Pode ser acessado e hackeado para baixar uma carga de gravdados, cuja quantidade depende do progresso no projeto de pesquisa de gravtecnologia selecionado no momento. Destruir ou hackear o computador de guerra desabilitará a plataforma por completo.</VGE_HostileWarcomputer.description>
   <!-- EN: Contains: Gravcore -->
-  <VGE_HostileWarcomputer.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_HostileWarcomputer.comps.CompInspectString.inspectString>
+  <VGE_HostileWarcomputer.comps.CompInspectString.inspectString>Contém: Gravicore</VGE_HostileWarcomputer.comps.CompInspectString.inspectString>
   <!-- EN: Warcomputer -->
   <VGE_HostileWarcomputer.comps.CompLetterOnRevealed.label>Computador de guerra</VGE_HostileWarcomputer.comps.CompLetterOnRevealed.label>
   <!-- EN: You've discovered a hostile warcomputer running an orbital warplatform. Destroy it to disable all platform weaponry and obtain a gravcore. -->
-  <VGE_HostileWarcomputer.comps.CompLetterOnRevealed.text>Você descobriu um computador de guerra hostil que controla uma plataforma de guerra orbital. Destrua-o para desativar todas as armas da plataforma e obter um gravinúcleo.</VGE_HostileWarcomputer.comps.CompLetterOnRevealed.text>
+  <VGE_HostileWarcomputer.comps.CompLetterOnRevealed.text>Você descobriu um computador de guerra hostil que controla uma plataforma de guerra orbital. Destrua-o para desativar todas as armas da plataforma e obter um gravicore.</VGE_HostileWarcomputer.comps.CompLetterOnRevealed.text>
   <!-- EN: Mote -->
   <VGE_Mote_AnticraftBeam.label>Mote</VGE_Mote_AnticraftBeam.label>
   <!-- EN: defender turret -->
@@ -639,7 +639,7 @@
   <!-- EN: mechanoid grav tether -->
   <VGE_MechanoidGravTether.label>Cabo gravitacional mechanoide</VGE_MechanoidGravTether.label>
   <!-- EN: A vast, artificial core of colossal mechanoid orbital platforms. Unlike human-built grav engines, these are constructed by the mechanoid core itself, optimized for ruthless efficiency and unending operation. They generate monumental lift and stabilization fields that allow entire, sprawling space stations to remain suspended in orbit, forming the backbone of mechanoid dominance in space. While largely incompatible with human systems, they can be destroyed to yield a gravcore, a rare and valuable prize for any who dare to challenge them. -->
-  <VGE_MechanoidGravTether.description>Um núcleo artificial vasto, pertencente a plataformas orbitais mechanoides colossais. Ao contrário dos motores gravitacionais construídos por humanos, estes são produzidos pelo próprio núcleo mechanoide e otimizados para eficiência implacável e operação contínua. Geram campos monumentais de elevação e estabilização, que mantêm estações espaciais inteiras suspensas em órbita e sustentam o domínio mechanoide no espaço. Embora sejam em grande parte incompatíveis com sistemas humanos, podem ser destruídos para obter um gravinúcleo, um prêmio raro e valioso para quem ousar enfrentá-los.</VGE_MechanoidGravTether.description>
+  <VGE_MechanoidGravTether.description>Um núcleo artificial vasto, pertencente a plataformas orbitais mechanoides colossais. Ao contrário dos motores gravitacionais construídos por humanos, estes são produzidos pelo próprio núcleo mechanoide e otimizados para eficiência implacável e operação contínua. Geram campos monumentais de elevação e estabilização, que mantêm estações espaciais inteiras suspensas em órbita e sustentam o domínio mechanoide no espaço. Embora sejam em grande parte incompatíveis com sistemas humanos, podem ser destruídos para obter um gravicore, um prêmio raro e valioso para quem ousar enfrentá-los.</VGE_MechanoidGravTether.description>
   <!-- EN: mechanoid heatsink -->
   <VGE_MechanoidHeatsink.label>Dissipador de calor mechanoide</VGE_MechanoidHeatsink.label>
   <!-- EN: A long, skeletal thermal regulator strut, built into the structure of mechanoid platforms to ensure total thermal stability. It absorbs waste heat from active mechanoid systems and converts a fraction of it into operational power, thus preventing core overheating and maintaining maximum efficiency. -->
@@ -747,13 +747,13 @@
   <!-- EN: infested gravlock tether -->
   <VGE_InfestedGravlockTether.label>cabo de gravitrava infestado</VGE_InfestedGravlockTether.label>
   <!-- EN: A corrupted gravlock tether that has been hollowed out and repurposed into a gigantic exoinsectoid hive. Integrated directly into the station's ventilation system, this pulsing structure continuously pumps larvae through the vents, spawning new insectoids that spread throughout the station.\n\nDestroy the infested gravlock tether to obtain a gravcore. -->
-  <VGE_InfestedGravlockTether.description>Um cabo de gravitrava corrompido, escavado por dentro e reaproveitado como uma gigantesca colmeia de insetos extraterrestres. Integrada diretamente ao sistema de ventilação da estação, essa estrutura pulsante bombeia larvas continuamente pelos dutos, gerando novos insetos que se espalham por toda a estação.\n\nDestrua o cabo de gravitrava infestado para obter um gravinúcleo.</VGE_InfestedGravlockTether.description>
+  <VGE_InfestedGravlockTether.description>Um cabo de gravitrava corrompido, escavado por dentro e reaproveitado como uma gigantesca colmeia de insetos extraterrestres. Integrada diretamente ao sistema de ventilação da estação, essa estrutura pulsante bombeia larvas continuamente pelos dutos, gerando novos insetos que se espalham por toda a estação.\n\nDestrua o cabo de gravitrava infestado para obter um gravicore.</VGE_InfestedGravlockTether.description>
   <!-- EN: Contains: Gravcore -->
-  <VGE_InfestedGravlockTether.comps.CompInspectString.inspectString>Contém: Gravinúcleo</VGE_InfestedGravlockTether.comps.CompInspectString.inspectString>
+  <VGE_InfestedGravlockTether.comps.CompInspectString.inspectString>Contém: Gravicore</VGE_InfestedGravlockTether.comps.CompInspectString.inspectString>
   <!-- EN: Infested gravlock tether -->
   <VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.label>Cabo de gravitrava infestado</VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.label>
   <!-- EN: You detect the heavy signs of the exoinsectoid mega-hive nearby. The infested gravlock tether must be destroyed to yield valuable gravcore and stop the ongoing infestation. -->
-  <VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.text>Você detecta fortes indícios da megacolmeia de insetos extraterrestres nas proximidades. O cabo de gravitrava infestado precisa ser destruído para obter um valioso gravinúcleo e interromper a infestação.</VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.text>
+  <VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.text>Você detecta fortes indícios da megacolmeia de insetos extraterrestres nas proximidades. O cabo de gravitrava infestado precisa ser destruído para obter um valioso gravicore e interromper a infestação.</VGE_InfestedGravlockTether.comps.CompLetterOnRevealed.text>
   <!-- EN: infested vent -->
   <VGE_InfestedVent.label>duto infestado</VGE_InfestedVent.label>
   <!-- EN: A broken down vent leading deeper into the orbital station installation. Chittering and movement can be heard down below. -->
