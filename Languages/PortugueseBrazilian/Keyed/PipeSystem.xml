@@ -18,7 +18,7 @@
 	<PipeSystem_ResourceStored>{0} armazenado:</PipeSystem_ResourceStored>
 
 	<PipeSystem_NotConnected>Não conectado a {0}.</PipeSystem_NotConnected>
-	<PipeSystem_ExcessStored>{0} em excesso na rede</PipeSystem_ExcessStored>
+	<PipeSystem_ExcessStored>Saldo/estoque de {0} na rede: {1} {3}/dia / {2} {3}</PipeSystem_ExcessStored>
 	<PipeSystem_Stored>Total de {0} na rede</PipeSystem_Stored>
 
 	<PipeSystem_PipeSize>Tamanho máximo do tubo: {0} {1}/d</PipeSystem_PipeSize>

@@ -1,34 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Patch>
   <Operation Class="PatchOperationFindMod">
     <mods>
-      <li>Vanilla Armour Expanded</li>
+      <li>Vanilla Apparel Expanded</li>
     </mods>
     <match Class="PatchOperationSequence">
       <operations>
-        <li Class="PatchOperationFindMod">
-          <mods>
-            <li>Vanilla Apparel Expanded</li>
-          </mods>
-          <nomatch Class="PatchOperationAdd">
-            <xpath>/Defs</xpath>
+        <li Class="PatchOperationConditional">
+          <xpath>Defs/ResearchProjectDef[defName="VAE_MilitaryClothing"]/label</xpath>
+          <match Class="PatchOperationReplace">
+            <xpath>Defs/ResearchProjectDef[defName="VAE_MilitaryClothing"]/label</xpath>
             <value>
-              <ResearchProjectDef>
-                <defName>VAE_MilitaryClothing</defName>
-                <label>vestuário militar</label>
-                <description>Fabrique trajes à prova de balas e resistentes às intempéries para proteger seus soldados.</description>
-                <baseCost>1000</baseCost>
-                <techLevel>Industrial</techLevel>
-                <prerequisites>
-                  <li>VAE_LeatherTanning</li>
-                </prerequisites>
-                <researchViewX>2</researchViewX>
-                <researchViewY>4.5</researchViewY>
-              </ResearchProjectDef>
+              <label>roupas militares</label>
             </value>
-          </nomatch>
+          </match>
+        </li>
+        <li Class="PatchOperationConditional">
+          <xpath>Defs/ResearchProjectDef[defName="VAE_MilitaryClothing"]/description</xpath>
+          <match Class="PatchOperationReplace">
+            <xpath>Defs/ResearchProjectDef[defName="VAE_MilitaryClothing"]/description</xpath>
+            <value>
+              <description>Produza roupas resistentes ao clima para proteger seus soldados.</description>
+            </value>
+          </match>
+        </li>
+        <li Class="PatchOperationConditional">
+          <xpath>Defs/ResearchProjectDef[defName="VAE_MilitaryClothing"]/generalRules/rulesStrings</xpath>
+          <match Class="PatchOperationReplace">
+            <xpath>Defs/ResearchProjectDef[defName="VAE_MilitaryClothing"]/generalRules/rulesStrings</xpath>
+            <value>
+              <rulesStrings>
+                <li>subject-&gt;equipamento tático</li>
+                <li>subject_story-&gt;criou camuflagens que se misturam a diversos tipos de terreno</li>
+                <li>subject_story-&gt;criou placas de armadura leves e à prova de balas</li>
+                <li>subject_story-&gt;equipou tropas com uniformes de combate adaptados ao clima</li>
+                <li>subject_gerund-&gt;montando uniformes militares avançados</li>
+              </rulesStrings>
+            </value>
+          </match>
         </li>
       </operations>
     </match>
+    <nomatch Class="PatchOperationFindMod">
+      <mods>
+        <li>Vanilla Armour Expanded</li>
+      </mods>
+      <match Class="PatchOperationSequence">
+        <operations>
+          <li Class="PatchOperationConditional">
+            <xpath>Defs/ResearchProjectDef[defName="VAE_MilitaryClothing"]/label</xpath>
+            <match Class="PatchOperationReplace">
+              <xpath>Defs/ResearchProjectDef[defName="VAE_MilitaryClothing"]/label</xpath>
+              <value>
+                <label>roupas militares</label>
+              </value>
+            </match>
+          </li>
+          <li Class="PatchOperationConditional">
+            <xpath>Defs/ResearchProjectDef[defName="VAE_MilitaryClothing"]/description</xpath>
+            <match Class="PatchOperationReplace">
+              <xpath>Defs/ResearchProjectDef[defName="VAE_MilitaryClothing"]/description</xpath>
+              <value>
+                <description>Fabrique trajes à prova de balas e resistentes às intempéries para proteger seus soldados.</description>
+              </value>
+            </match>
+          </li>
+        </operations>
+      </match>
+    </nomatch>
   </Operation>
 </Patch>

@@ -39,24 +39,6 @@
     <li>subject_gerund->confeccionando roupas formais requintadas</li>
   </VAE_FormalWear.generalRules.rulesStrings>
 
-  <!-- EN: military clothing -->
-  <VAE_MilitaryClothing.label>roupas militares</VAE_MilitaryClothing.label>
-  <!-- EN: Craft weatherproof outfits to protect your soldiers. -->
-  <VAE_MilitaryClothing.description>Produza roupas resistentes ao clima para proteger seus soldados.</VAE_MilitaryClothing.description>
-  <!-- EN:
-    <li>subject->tactical gear</li>
-    <li>subject_story->designed camouflage that blends into multiple terrains</li>
-    <li>subject_story->created armor inserts that are both lightweight and bulletproof</li>
-    <li>subject_story->equipped units with climate-controlled battle dress</li>
-    <li>subject_gerund->assembling advanced military outfits</li>
-  -->
-  <VAE_MilitaryClothing.generalRules.rulesStrings>
-    <li>subject->equipamento tático</li>
-    <li>subject_story->criou camuflagens que se misturam a diversos tipos de terreno</li>
-    <li>subject_story->criou placas de armadura leves e à prova de balas</li>
-    <li>subject_story->equipou tropas com uniformes de combate adaptados ao clima</li>
-    <li>subject_gerund->montando uniformes militares avançados</li>
-  </VAE_MilitaryClothing.generalRules.rulesStrings>
 
   <!-- EN: sterile attire -->
   <VAE_SterileAttire.label>roupas estéreis</VAE_SterileAttire.label>

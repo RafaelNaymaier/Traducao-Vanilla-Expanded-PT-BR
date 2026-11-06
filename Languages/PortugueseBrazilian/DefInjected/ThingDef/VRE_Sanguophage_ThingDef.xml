@@ -55,4 +55,9 @@
 
     <VRE_PsychofluidWell.comps.CompRefuelable.fuelLabel>Hemogênio</VRE_PsychofluidWell.comps.CompRefuelable.fuelLabel>
 
+    <!-- EN: hemogen pack (corpse) -->
+    <VRE_HemogenPack_Corpse.label>pacote de hemogênio (cadáver)</VRE_HemogenPack_Corpse.label>
+    <!-- EN: Tainted, rotting hemogen from a cadaver. Greatly weakens the carrier of this hemogen type, but increases the blood filtration significantly. -->
+    <VRE_HemogenPack_Corpse.description>Hemogênio contaminado e em decomposição, extraído de um cadáver. Enfraquece drasticamente o portador deste tipo de hemogênio, mas aumenta significativamente sua capacidade de filtragem sanguínea.</VRE_HemogenPack_Corpse.description>
+
 </LanguageData>

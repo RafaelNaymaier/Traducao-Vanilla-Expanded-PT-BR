@@ -307,4 +307,13 @@
   <VQE_Weapon_Cryptobolter.tools.barrel-1.label>cano</VQE_Weapon_Cryptobolter.tools.barrel-1.label>
   <VQE_Weapon_Cryptobolter.verbs.Verb_Shoot.label>criptobesta</VQE_Weapon_Cryptobolter.verbs.Verb_Shoot.label>
   
+  <!-- gizmoText stores Keyed identifiers: VQE_LootChunk in 1.5, VQE_Scavenge in 1.6/1.7. -->
+  <VQE_TwistedMetal.modExtensions.0.gizmoText>VQE_Scavenge_Metal</VQE_TwistedMetal.modExtensions.0.gizmoText>
+  <VQE_LargeTwistedMetal.modExtensions.0.gizmoText>VQE_Scavenge_LargeMetal</VQE_LargeTwistedMetal.modExtensions.0.gizmoText>
+  <VQE_HugeTwistedMetal.modExtensions.0.gizmoText>VQE_Scavenge_HugeMetal</VQE_HugeTwistedMetal.modExtensions.0.gizmoText>
+  <VQE_TwistedComponents.modExtensions.0.gizmoText>VQE_Scavenge_Components</VQE_TwistedComponents.modExtensions.0.gizmoText>
+  <VQE_TwistedPlasteel.modExtensions.0.gizmoText>VQE_Scavenge_Plasteel</VQE_TwistedPlasteel.modExtensions.0.gizmoText>
+  <VQE_GoldPile.modExtensions.0.gizmoText>VQE_Scavenge_Gold</VQE_GoldPile.modExtensions.0.gizmoText>
+  <VQE_TwistedAdvancedComponents.modExtensions.0.gizmoText>VQE_Scavenge_AdvComponents</VQE_TwistedAdvancedComponents.modExtensions.0.gizmoText>
+
 </LanguageData>
