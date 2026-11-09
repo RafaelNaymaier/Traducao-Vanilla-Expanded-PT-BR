@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Brain leech -->
+  <VPEP_BrainLeech.label>Parasita cerebral</VPEP_BrainLeech.label>
+
+  <!-- EN: A brain parasite that leeches consciousness of the victim and gives a fraction of that consciousness to the psycaster that cast it. -->
+  <VPEP_BrainLeech.description>Um parasita cerebral que drena a consciência da vítima e transfere uma fração dela ao psinjurador que o conjurou.</VPEP_BrainLeech.description>
+
+  <!-- EN: Leeching -->
+  <VPEP_Leeching.label>Drenagem</VPEP_Leeching.label>
+
+  <!-- EN: A psychic consciousness boost provided by the brain leech on another person. -->
+  <VPEP_Leeching.description>Um aumento psíquico da consciência proporcionado pelo parasita cerebral em outra pessoa.</VPEP_Leeching.description>
+
+  <!-- EN: Puppet -->
+  <VPEP_Puppet.label>Marionete</VPEP_Puppet.label>
+
+  <!-- EN: This individual is a puppet. They inherit their backstories and traits from their puppetmaster, however they have no needs other than food and rest. They have lowered consiousness and have their experience gain greatly reduced. They will enter the same mental state as their puppeteer. -->
+  <VPEP_Puppet.description>Este indivíduo é uma marionete. Herda os históricos de vida e os traços de seu marionetista, mas não possui necessidades além de alimentação e descanso. Sua consciência é reduzida e seu ganho de experiência é muito menor. Entrará no mesmo estado mental que seu marionetista.</VPEP_Puppet.description>
+
+  <!-- EN: Puppeteer -->
+  <VPEP_Puppeteer.label>Marionetista</VPEP_Puppeteer.label>
+
+  <!-- EN: This individual is a puppeteer and uses psychic influence to control puppets. Puppets share their experience gain with the puppeteer. If the puppeteer dies, a psychic shockwave will knock all puppets into paralytic abasia. -->
+  <VPEP_Puppeteer.description>Este indivíduo é um marionetista e usa influência psíquica para controlar marionetes. As marionetes compartilham seu ganho de experiência com o marionetista. Se o marionetista morrer, uma onda de choque psíquica fará todas as marionetes entrarem em abasia paralítica.</VPEP_Puppeteer.description>
+
+  <!-- EN: subjugation -->
+  <VPEP_Subjugation.label>subjugação</VPEP_Subjugation.label>
+
+  <!-- EN: A psychic indoctrination that reduces consciousness, manipulation and breathing of the subject until they reach a breaking point and join your colony. -->
+  <VPEP_Subjugation.description>Uma doutrinação psíquica que reduz a consciência, a manipulação e a respiração do indivíduo até que ele atinja seu limite e se junte à sua colônia.</VPEP_Subjugation.description>
+
+  <!-- EN: minor -->
+  <VPEP_Subjugation.stages.minor.label>leve</VPEP_Subjugation.stages.minor.label>
+
+  <!-- EN: major -->
+  <VPEP_Subjugation.stages.major.label>grave</VPEP_Subjugation.stages.major.label>
+
+  <!-- EN: extreme -->
+  <VPEP_Subjugation.stages.extreme.label>extrema</VPEP_Subjugation.stages.extreme.label>
+
+</LanguageData>
+

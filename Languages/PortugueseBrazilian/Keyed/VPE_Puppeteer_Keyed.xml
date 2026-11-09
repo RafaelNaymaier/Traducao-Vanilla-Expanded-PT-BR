@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Target cannot be colonist. -->
+  <VPEP.TargetCannotBeSameFactionAsCaster>O alvo não pode ser um colono.</VPEP.TargetCannotBeSameFactionAsCaster>
+
+  <!-- EN: Target must be prisoner or colonist. -->
+  <VPEP.TargetMustBeSameFactionAsCaster>O alvo deve ser prisioneiro ou colono.</VPEP.TargetMustBeSameFactionAsCaster>
+
+  <!-- EN: Target must be prisoner or slave. -->
+  <VPEP.TargetMustBePrisonerOrSlave>O alvo deve ser prisioneiro ou escravo.</VPEP.TargetMustBePrisonerOrSlave>
+
+  <!-- EN: It was caused by the Degrade psycast. -->
+  <VPEP.DegradePsycast>Isso foi causado pela psiconjuração “Regredir”.</VPEP.DegradePsycast>
+
+  <!-- EN: Target must have brain leech from the caster. -->
+  <VPEP.TargetMustHaveBrainLeech>O alvo deve estar sob o efeito de parasita cerebral do conjurador.</VPEP.TargetMustHaveBrainLeech>
+
+  <!-- EN: Target is a puppet already. -->
+  <VPEP.TargetIsPuppetAlready>O alvo já é uma marionete.</VPEP.TargetIsPuppetAlready>
+
+  <!-- EN: Cannot have more puppets due to the puppet limit. -->
+  <VPEP.CannotHaveMorePuppets>Não é possível controlar mais marionetes: o limite foi atingido.</VPEP.CannotHaveMorePuppets>
+
+  <!-- EN: Puppets -->
+  <VPEP.Puppets>Marionetes</VPEP.Puppets>
+
+  <!-- EN: A puppeteer can only sustain a puppet if there is enough psychic capacity to do so. Gain more psychic capacity to sustain more puppets by casting mind split, however bear in mind it will send the puppeteer and all their puppets into a {0} coma.\n\nPsychic capacity: {1} -->
+  <VPEP.PuppetsGizmoTip>Um marionetista só pode manter uma marionete se tiver capacidade psíquica suficiente. Obtenha mais capacidade psíquica para manter mais marionetes conjurando cisão mental, mas lembre-se de que isso colocará o marionetista e todas as suas marionetes em coma por {0}.\n\nCapacidade psíquica: {1}</VPEP.PuppetsGizmoTip>
+
+  <!-- EN: Current puppets: -->
+  <VPEP.PuppetsUsage>Marionetes atuais:</VPEP.PuppetsUsage>
+
+  <!-- EN: Target must be a puppet of the caster. -->
+  <VPEP.TargetMustBePuppetOfCaster>O alvo deve ser uma marionete do conjurador.</VPEP.TargetMustBePuppetOfCaster>
+
+  <!-- EN: No puppets. -->
+  <VPEP.NoPuppets>Nenhuma marionete.</VPEP.NoPuppets>
+
+  <!-- EN: Mind jump -->
+  <VPEP.MindJumpTitle>Salto mental</VPEP.MindJumpTitle>
+
+  <!-- EN: {Puppeteer_nameDef} has died. Before {Puppeteer_pronoun} died, {Puppeteer_pronoun} used the mind jump ability on {NewPuppeteer_nameDef}. Now {NewPuppeteer_nameDef} is a new puppeteer. -->
+  <VPEP.MindJumpText>{Puppeteer_nameDef} morreu. Antes de {Puppeteer_pronoun} morrer, {Puppeteer_pronoun} usou a habilidade salto mental em {NewPuppeteer_nameDef}. Agora {NewPuppeteer_nameDef} assumiu o papel de marionetista.</VPEP.MindJumpText>
+
+</LanguageData>
+
