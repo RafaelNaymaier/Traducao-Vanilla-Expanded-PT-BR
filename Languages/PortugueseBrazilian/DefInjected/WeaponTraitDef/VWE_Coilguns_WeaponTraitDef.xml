@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: bypass relay -->
+  <VWE_BypassRelay.label>relé de derivação</VWE_BypassRelay.label>
+
+  <!-- EN: This weapon features an optimized charging sequence that halves the aiming time normally required to fire in high-power mode. -->
+  <VWE_BypassRelay.description>Esta arma possui uma sequência de carregamento otimizada que reduz pela metade o tempo de mira normalmente necessário para disparar no modo de alta potência.</VWE_BypassRelay.description>
+
+  <!-- EN: high power mode -->
+  <VWE_BypassRelay.modExtensions.0.conditionalStatAffecters.0.explanationLabel>modo de alta potência</VWE_BypassRelay.modExtensions.0.conditionalStatAffecters.0.explanationLabel>
+
+  <!-- EN: hypercapacitors -->
+  <VWE_Hypercapacitors.label>hipercapacitores</VWE_Hypercapacitors.label>
+
+  <!-- EN: This weapon is fitted with advanced energy banks that double the possible burst count for all shots, though the resulting rapid-fire sequence no longer guarantees armor penetration. -->
+  <VWE_Hypercapacitors.description>Esta arma está equipada com reservatórios avançados de energia que dobram o número de tiros por rajada em todos os modos de disparo, embora a sequência de tiro rápido resultante não garanta mais a penetração de armadura.</VWE_Hypercapacitors.description>
+
+  <!-- EN: inertial core -->
+  <VWE_InertialCore.label>núcleo inercial</VWE_InertialCore.label>
+
+  <!-- EN: This weapon maintains absolute kinetic energy during overcharge, ensuring each consecutively pierced target takes the exact same amount of damage without falloff. -->
+  <VWE_InertialCore.description>Esta arma conserva toda a energia cinética durante a sobrecarga, garantindo que todos os alvos perfurados em sequência recebam exatamente a mesma quantidade de dano, sem redução.</VWE_InertialCore.description>
+
+  <!-- EN: inverted rail tuning -->
+  <VWE_InvertedRailTuning.label>ajuste invertido dos trilhos</VWE_InvertedRailTuning.label>
+
+  <!-- EN: This weapon is radically tuned to deliver devastating low-power shots at close range while reserving its high-power mode for sweeping but less lethal long-range engagements. -->
+  <VWE_InvertedRailTuning.description>Esta arma foi radicalmente ajustada para produzir disparos devastadores de baixa potência a curta distância, reservando seu modo de alta potência para varrer alvos a longa distância com menor letalidade.</VWE_InvertedRailTuning.description>
+
+  <!-- EN: low power mode -->
+  <VWE_InvertedRailTuning.modExtensions.0.conditionalStatAffecters.0.explanationLabel>modo de baixa potência</VWE_InvertedRailTuning.modExtensions.0.conditionalStatAffecters.0.explanationLabel>
+
+  <!-- EN: high power mode -->
+  <VWE_InvertedRailTuning.modExtensions.0.conditionalStatAffecters.1.explanationLabel>modo de alta potência</VWE_InvertedRailTuning.modExtensions.0.conditionalStatAffecters.1.explanationLabel>
+
+  <!-- EN: ionized sabot -->
+  <VWE_IonizedSabot.label>projétil sabot ionizado</VWE_IonizedSabot.label>
+
+  <!-- EN: This weapon magnetizes its projectiles with volatile energy, increasing damage across all firing modes. -->
+  <VWE_IonizedSabot.description>Esta arma magnetiza seus projéteis com energia volátil, aumentando o dano em todos os modos de disparo.</VWE_IonizedSabot.description>
+
+  <!-- EN: low power shot -->
+  <VWE_IonizedSabot.modExtensions.0.verbsOverride.low_power_shot.label>disparo de baixa potência</VWE_IonizedSabot.modExtensions.0.verbsOverride.low_power_shot.label>
+
+  <!-- EN: high power shot -->
+  <VWE_IonizedSabot.modExtensions.0.verbsOverride.high_power_shot.label>disparo de alta potência</VWE_IonizedSabot.modExtensions.0.verbsOverride.high_power_shot.label>
+
+  <!-- EN: overdrawn coils -->
+  <VWE_OverdrawnCoils.label>bobinas sobrecarregadas</VWE_OverdrawnCoils.label>
+
+  <!-- EN: This weapon draws excessive power from its reserves during high-power mode, taking slightly longer to charge but delivering vastly increased damage. -->
+  <VWE_OverdrawnCoils.description>Esta arma consome energia em excesso de suas reservas no modo de alta potência, demorando um pouco mais para carregar, mas causando muito mais dano.</VWE_OverdrawnCoils.description>
+
+  <!-- EN: high power mode -->
+  <VWE_OverdrawnCoils.modExtensions.0.conditionalStatAffecters.0.explanationLabel>modo de alta potência</VWE_OverdrawnCoils.modExtensions.0.conditionalStatAffecters.0.explanationLabel>
+
+</LanguageData>
+

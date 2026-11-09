@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: mass drivers -->
+  <VWE_MassDrivers.label>aceleradores de massa</VWE_MassDrivers.label>
+
+  <!-- EN: Assemble weapons which utilize electromagnets to catapult sabots up to hypervelocity, penetrating thick armor and piercing through targets alike. Note that these also require advanced components. -->
+  <VWE_MassDrivers.description>Monte armas que usam eletroímãs para acelerar projéteis sabot a hipervelocidades, perfurando armaduras espessas e atravessando alvos. Observe que elas também exigem componentes avançados.</VWE_MassDrivers.description>
+
+  <!-- EN: <li>subject->velocity as a weapon</li><li>subject_story->mastered the physics of electromagnetic acceleration, creating weapons that launch projectiles at staggering speeds</li><li>subject_story->engineered mass drivers capable of breaching the most formidable armor, reshaping the principles of warfare and defense</li><li>subject_story->unveiled a new era where kinetic energy defines the cutting edge of military technology</li><li>subject_gerund->harnessing the unstoppable force of hypervelocity for unmatched offensive capability</li> -->
+  <VWE_MassDrivers.generalRules.rulesStrings>
+    <!-- EN: subject->velocity as a weapon -->
+    <li>subject->a velocidade como arma</li>
+    <!-- EN: subject_story->mastered the physics of electromagnetic acceleration, creating weapons that launch projectiles at staggering speeds -->
+    <li>subject_story->dominou a física da aceleração eletromagnética, criando armas que lançam projéteis a velocidades impressionantes</li>
+    <!-- EN: subject_story->engineered mass drivers capable of breaching the most formidable armor, reshaping the principles of warfare and defense -->
+    <li>subject_story->projetou aceleradores de massa capazes de atravessar as armaduras mais resistentes, redefinindo os princípios da guerra e da defesa</li>
+    <!-- EN: subject_story->unveiled a new era where kinetic energy defines the cutting edge of military technology -->
+    <li>subject_story->inaugurou uma nova era em que a energia cinética define a vanguarda da tecnologia militar</li>
+    <!-- EN: subject_gerund->harnessing the unstoppable force of hypervelocity for unmatched offensive capability -->
+    <li>subject_gerund->aproveitando a força irrefreável da hipervelocidade para obter capacidade ofensiva incomparável</li>
+  </VWE_MassDrivers.generalRules.rulesStrings>
+
+</LanguageData>
+

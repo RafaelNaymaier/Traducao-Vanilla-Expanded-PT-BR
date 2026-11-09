@@ -733,12 +733,6 @@
   <!-- EN: on cooldown -->
   <VWE_Bow_Compound_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Bow_Compound_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
 
-  <!-- EN: <li>compound bow</li> -->
-  <VWE_Bow_Compound_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: compound bow -->
-    <li>arco composto</li>
-  </VWE_Bow_Compound_Unique.comps.CompUniqueWeapon.namerLabels>
-
   <!-- EN: limb -->
   <VWE_Bow_Compound_Unique.tools.limb.label>braço</VWE_Bow_Compound_Unique.tools.limb.label>
 
@@ -756,12 +750,6 @@
 
   <!-- EN: on cooldown -->
   <VWE_Bow_Crossbow_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Bow_Crossbow_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
-
-  <!-- EN: <li>crossbow</li> -->
-  <VWE_Bow_Crossbow_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: crossbow -->
-    <li>besta</li>
-  </VWE_Bow_Crossbow_Unique.comps.CompUniqueWeapon.namerLabels>
 
   <!-- EN: limb -->
   <VWE_Bow_Crossbow_Unique.tools.limb.label>braço</VWE_Bow_Crossbow_Unique.tools.limb.label>
@@ -784,12 +772,6 @@
   <!-- EN: on cooldown -->
   <VWE_Bow_Long_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Bow_Long_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
 
-  <!-- EN: <li>longbow</li> -->
-  <VWE_Bow_Long_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: longbow -->
-    <li>arco longo</li>
-  </VWE_Bow_Long_Unique.comps.CompUniqueWeapon.namerLabels>
-
   <!-- EN: limb -->
   <VWE_Bow_Long_Unique.tools.limb.label>braço</VWE_Bow_Long_Unique.tools.limb.label>
 
@@ -807,24 +789,6 @@
 
   <!-- EN: on cooldown -->
   <VWE_Gun_AntiMaterialRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_AntiMaterialRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
-
-  <!-- EN: <li>precision rifle</li><li>anti-materiel rifle</li><li>sniper</li><li>headshotter</li><li>snipegun</li><li>stalker</li><li>assassinator</li> -->
-  <VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: precision rifle -->
-    <li>fuzil de precisão</li>
-    <!-- EN: anti-materiel rifle -->
-    <li>fuzil antimaterial</li>
-    <!-- EN: sniper -->
-    <li>atirador de elite</li>
-    <!-- EN: headshotter -->
-    <li>caça-cabeças</li>
-    <!-- EN: snipegun -->
-    <li>arma de precisão</li>
-    <!-- EN: stalker -->
-    <li>espreitador</li>
-    <!-- EN: assassinator -->
-    <li>assassino</li>
-  </VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels>
 
   <!-- EN: stock -->
   <VWE_Gun_AntiMaterialRifle_Unique.tools.stock.label>coronha</VWE_Gun_AntiMaterialRifle_Unique.tools.stock.label>
@@ -847,18 +811,6 @@
   <!-- EN: on cooldown -->
   <VWE_Gun_BattleRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_BattleRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
 
-  <!-- EN: <li>battle rifle</li><li>war rifle</li><li>wargun</li><li>fusil</li> -->
-  <VWE_Gun_BattleRifle_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: battle rifle -->
-    <li>fuzil de combate</li>
-    <!-- EN: war rifle -->
-    <li>fuzil de guerra</li>
-    <!-- EN: wargun -->
-    <li>arma de guerra</li>
-    <!-- EN: fusil -->
-    <li>fuzil</li>
-  </VWE_Gun_BattleRifle_Unique.comps.CompUniqueWeapon.namerLabels>
-
   <!-- EN: stock -->
   <VWE_Gun_BattleRifle_Unique.tools.stock.label>coronha</VWE_Gun_BattleRifle_Unique.tools.stock.label>
 
@@ -879,18 +831,6 @@
 
   <!-- EN: on cooldown -->
   <VWE_Gun_Carbine_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_Carbine_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
-
-  <!-- EN: <li>carbine</li><li>war rifle</li><li>wargun</li><li>fusil</li> -->
-  <VWE_Gun_Carbine_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: carbine -->
-    <li>carabina</li>
-    <!-- EN: war rifle -->
-    <li>fuzil de guerra</li>
-    <!-- EN: wargun -->
-    <li>arma de guerra</li>
-    <!-- EN: fusil -->
-    <li>fuzil</li>
-  </VWE_Gun_Carbine_Unique.comps.CompUniqueWeapon.namerLabels>
 
   <!-- EN: stock -->
   <VWE_Gun_Carbine_Unique.tools.stock.label>coronha</VWE_Gun_Carbine_Unique.tools.stock.label>
@@ -913,12 +853,6 @@
   <!-- EN: on cooldown -->
   <VWE_Gun_ChargeLMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_ChargeLMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
 
-  <!-- EN: <li>charge blaster</li> -->
-  <VWE_Gun_ChargeLMG_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: charge blaster -->
-    <li>metralhadora de carga</li>
-  </VWE_Gun_ChargeLMG_Unique.comps.CompUniqueWeapon.namerLabels>
-
   <!-- EN: barrel -->
   <VWE_Gun_ChargeLMG_Unique.tools.barrel.label>cano</VWE_Gun_ChargeLMG_Unique.tools.barrel.label>
 
@@ -937,12 +871,6 @@
   <!-- EN: on cooldown -->
   <VWE_Gun_ChargeMinigun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_ChargeMinigun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
 
-  <!-- EN: <li>heavy charge blaster</li> -->
-  <VWE_Gun_ChargeMinigun_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: heavy charge blaster -->
-    <li>metralhadora de carga pesada</li>
-  </VWE_Gun_ChargeMinigun_Unique.comps.CompUniqueWeapon.namerLabels>
-
   <!-- EN: barrel -->
   <VWE_Gun_ChargeMinigun_Unique.tools.barrel.label>cano</VWE_Gun_ChargeMinigun_Unique.tools.barrel.label>
 
@@ -960,12 +888,6 @@
 
   <!-- EN: on cooldown -->
   <VWE_Gun_ChargePistol_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_ChargePistol_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
-
-  <!-- EN: <li>charge pistol</li> -->
-  <VWE_Gun_ChargePistol_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: charge pistol -->
-    <li>pistola de carga</li>
-  </VWE_Gun_ChargePistol_Unique.comps.CompUniqueWeapon.namerLabels>
 
   <!-- EN: stock -->
   <VWE_Gun_ChargePistol_Unique.tools.stock.label>coronha</VWE_Gun_ChargePistol_Unique.tools.stock.label>
@@ -988,12 +910,6 @@
   <!-- EN: on cooldown -->
   <VWE_Gun_ChargeShotgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_ChargeShotgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
 
-  <!-- EN: <li>charge shotgun</li> -->
-  <VWE_Gun_ChargeShotgun_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: charge shotgun -->
-    <li>espingarda de carga</li>
-  </VWE_Gun_ChargeShotgun_Unique.comps.CompUniqueWeapon.namerLabels>
-
   <!-- EN: stock -->
   <VWE_Gun_ChargeShotgun_Unique.tools.stock.label>coronha</VWE_Gun_ChargeShotgun_Unique.tools.stock.label>
 
@@ -1014,12 +930,6 @@
 
   <!-- EN: on cooldown -->
   <VWE_Gun_ChargeSMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_ChargeSMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
-
-  <!-- EN: <li>charge SMG</li> -->
-  <VWE_Gun_ChargeSMG_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: charge SMG -->
-    <li>SMG de carga</li>
-  </VWE_Gun_ChargeSMG_Unique.comps.CompUniqueWeapon.namerLabels>
 
   <!-- EN: stock -->
   <VWE_Gun_ChargeSMG_Unique.tools.stock.label>coronha</VWE_Gun_ChargeSMG_Unique.tools.stock.label>
@@ -1042,22 +952,6 @@
   <!-- EN: on cooldown -->
   <VWE_Gun_ChargeSniperRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_ChargeSniperRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
 
-  <!-- EN: <li>charge sniper rifle</li><li>sniper</li><li>headshotter</li><li>snipegun</li><li>stalker</li><li>assassinator</li> -->
-  <VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: charge sniper rifle -->
-    <li>fuzil de precisão de carga</li>
-    <!-- EN: sniper -->
-    <li>atirador de elite</li>
-    <!-- EN: headshotter -->
-    <li>caça-cabeças</li>
-    <!-- EN: snipegun -->
-    <li>arma de precisão</li>
-    <!-- EN: stalker -->
-    <li>espreitador</li>
-    <!-- EN: assassinator -->
-    <li>assassino</li>
-  </VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels>
-
   <!-- EN: stock -->
   <VWE_Gun_ChargeSniperRifle_Unique.tools.stock.label>coronha</VWE_Gun_ChargeSniperRifle_Unique.tools.stock.label>
 
@@ -1078,12 +972,6 @@
 
   <!-- EN: on cooldown -->
   <VWE_Gun_CombatHandgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_CombatHandgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
-
-  <!-- EN: <li>combat handgun</li> -->
-  <VWE_Gun_CombatHandgun_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: combat handgun -->
-    <li>pistola de combate</li>
-  </VWE_Gun_CombatHandgun_Unique.comps.CompUniqueWeapon.namerLabels>
 
   <!-- EN: grip -->
   <VWE_Gun_CombatHandgun_Unique.tools.grip.label>empunhadura</VWE_Gun_CombatHandgun_Unique.tools.grip.label>
@@ -1106,18 +994,6 @@
   <!-- EN: on cooldown -->
   <VWE_Gun_HandCannon_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_HandCannon_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
 
-  <!-- EN: <li>revolver</li><li>six-shooter</li><li>iron</li><li>hammer</li> -->
-  <VWE_Gun_HandCannon_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: revolver -->
-    <li>revólver</li>
-    <!-- EN: six-shooter -->
-    <li>seis-tiros</li>
-    <!-- EN: iron -->
-    <li>ferro</li>
-    <!-- EN: hammer -->
-    <li>martelo</li>
-  </VWE_Gun_HandCannon_Unique.comps.CompUniqueWeapon.namerLabels>
-
   <!-- EN: grip -->
   <VWE_Gun_HandCannon_Unique.tools.grip.label>empunhadura</VWE_Gun_HandCannon_Unique.tools.grip.label>
 
@@ -1138,14 +1014,6 @@
 
   <!-- EN: on cooldown -->
   <VWE_Gun_HMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_HMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
-
-  <!-- EN: <li>HMG</li><li>chugger</li> -->
-  <VWE_Gun_HMG_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: HMG -->
-    <li>HMG</li>
-    <!-- EN: chugger -->
-    <li>trovejante</li>
-  </VWE_Gun_HMG_Unique.comps.CompUniqueWeapon.namerLabels>
 
   <!-- EN: stock -->
   <VWE_Gun_HMG_Unique.tools.stock.label>coronha</VWE_Gun_HMG_Unique.tools.stock.label>
@@ -1168,18 +1036,6 @@
   <!-- EN: on cooldown -->
   <VWE_Gun_LeverActionRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_LeverActionRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
 
-  <!-- EN: <li>lever-action rifle</li><li>rifle</li><li>longshot</li><li>longshooter</li> -->
-  <VWE_Gun_LeverActionRifle_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: lever-action rifle -->
-    <li>fuzil de alavanca</li>
-    <!-- EN: rifle -->
-    <li>rifle</li>
-    <!-- EN: longshot -->
-    <li>tiro longo</li>
-    <!-- EN: longshooter -->
-    <li>atirador de longo alcance</li>
-  </VWE_Gun_LeverActionRifle_Unique.comps.CompUniqueWeapon.namerLabels>
-
   <!-- EN: stock -->
   <VWE_Gun_LeverActionRifle_Unique.tools.stock.label>coronha</VWE_Gun_LeverActionRifle_Unique.tools.stock.label>
 
@@ -1200,16 +1056,6 @@
 
   <!-- EN: on cooldown -->
   <VWE_Gun_LightSMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_LightSMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
-
-  <!-- EN: <li>light SMG</li><li>SMG</li><li>chugger</li> -->
-  <VWE_Gun_LightSMG_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: light SMG -->
-    <li>SMG leve</li>
-    <!-- EN: SMG -->
-    <li>SMG</li>
-    <!-- EN: chugger -->
-    <li>trovejante</li>
-  </VWE_Gun_LightSMG_Unique.comps.CompUniqueWeapon.namerLabels>
 
   <!-- EN: grip -->
   <VWE_Gun_LightSMG_Unique.tools.grip.label>empunhadura</VWE_Gun_LightSMG_Unique.tools.grip.label>
@@ -1232,24 +1078,6 @@
   <!-- EN: on cooldown -->
   <VWE_Gun_MarksmanRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_MarksmanRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
 
-  <!-- EN: <li>precision rifle</li><li>marksman rifle</li><li>sniper</li><li>headshotter</li><li>snipegun</li><li>stalker</li><li>assassinator</li> -->
-  <VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: precision rifle -->
-    <li>fuzil de precisão</li>
-    <!-- EN: marksman rifle -->
-    <li>fuzil de atirador</li>
-    <!-- EN: sniper -->
-    <li>atirador de elite</li>
-    <!-- EN: headshotter -->
-    <li>caça-cabeças</li>
-    <!-- EN: snipegun -->
-    <li>arma de precisão</li>
-    <!-- EN: stalker -->
-    <li>espreitador</li>
-    <!-- EN: assassinator -->
-    <li>assassino</li>
-  </VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels>
-
   <!-- EN: stock -->
   <VWE_Gun_MarksmanRifle_Unique.tools.stock.label>coronha</VWE_Gun_MarksmanRifle_Unique.tools.stock.label>
 
@@ -1270,20 +1098,6 @@
 
   <!-- EN: on cooldown -->
   <VWE_Gun_SawedOffShotgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_SawedOffShotgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
-
-  <!-- EN: <li>sawed-off shotgun</li><li>shotgun</li><li>blaststick</li><li>sweeper</li><li>gutspewer</li> -->
-  <VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: sawed-off shotgun -->
-    <li>espingarda de cano serrado</li>
-    <!-- EN: shotgun -->
-    <li>espingarda</li>
-    <!-- EN: blaststick -->
-    <li>bastão de estrondo</li>
-    <!-- EN: sweeper -->
-    <li>varredora</li>
-    <!-- EN: gutspewer -->
-    <li>cospe-tripas</li>
-  </VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels>
 
   <!-- EN: stock -->
   <VWE_Gun_SawedOffShotgun_Unique.tools.stock.label>coronha</VWE_Gun_SawedOffShotgun_Unique.tools.stock.label>
@@ -1306,18 +1120,6 @@
   <!-- EN: on cooldown -->
   <VWE_Gun_SemiAutomaticRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_SemiAutomaticRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
 
-  <!-- EN: <li>semi-automatic rifle</li><li>rifle</li><li>longshot</li><li>longshooter</li> -->
-  <VWE_Gun_SemiAutomaticRifle_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: semi-automatic rifle -->
-    <li>fuzil semiautomático</li>
-    <!-- EN: rifle -->
-    <li>rifle</li>
-    <!-- EN: longshot -->
-    <li>tiro longo</li>
-    <!-- EN: longshooter -->
-    <li>atirador de longo alcance</li>
-  </VWE_Gun_SemiAutomaticRifle_Unique.comps.CompUniqueWeapon.namerLabels>
-
   <!-- EN: stock -->
   <VWE_Gun_SemiAutomaticRifle_Unique.tools.stock.label>coronha</VWE_Gun_SemiAutomaticRifle_Unique.tools.stock.label>
 
@@ -1338,18 +1140,6 @@
 
   <!-- EN: on cooldown -->
   <VWE_Gun_ServiceRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_ServiceRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
-
-  <!-- EN: <li>service rifle</li><li>war rifle</li><li>wargun</li><li>fusil</li> -->
-  <VWE_Gun_ServiceRifle_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: service rifle -->
-    <li>fuzil de serviço</li>
-    <!-- EN: war rifle -->
-    <li>fuzil de guerra</li>
-    <!-- EN: wargun -->
-    <li>arma de guerra</li>
-    <!-- EN: fusil -->
-    <li>fuzil</li>
-  </VWE_Gun_ServiceRifle_Unique.comps.CompUniqueWeapon.namerLabels>
 
   <!-- EN: stock -->
   <VWE_Gun_ServiceRifle_Unique.tools.stock.label>coronha</VWE_Gun_ServiceRifle_Unique.tools.stock.label>
@@ -1372,14 +1162,6 @@
   <!-- EN: on cooldown -->
   <VWE_Gun_SMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_SMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
 
-  <!-- EN: <li>SMG</li><li>chugger</li> -->
-  <VWE_Gun_SMG_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: SMG -->
-    <li>SMG</li>
-    <!-- EN: chugger -->
-    <li>trovejante</li>
-  </VWE_Gun_SMG_Unique.comps.CompUniqueWeapon.namerLabels>
-
   <!-- EN: grip -->
   <VWE_Gun_SMG_Unique.tools.grip.label>empunhadura</VWE_Gun_SMG_Unique.tools.grip.label>
 
@@ -1400,18 +1182,6 @@
 
   <!-- EN: on cooldown -->
   <VWE_Gun_TrenchGun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_TrenchGun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
-
-  <!-- EN: <li>trench gun</li><li>blaststick</li><li>sweeper</li><li>gutspewer</li> -->
-  <VWE_Gun_TrenchGun_Unique.comps.CompUniqueWeapon.namerLabels>
-    <!-- EN: trench gun -->
-    <li>espingarda de trincheira</li>
-    <!-- EN: blaststick -->
-    <li>bastão de estrondo</li>
-    <!-- EN: sweeper -->
-    <li>varredora</li>
-    <!-- EN: gutspewer -->
-    <li>cospe-tripas</li>
-  </VWE_Gun_TrenchGun_Unique.comps.CompUniqueWeapon.namerLabels>
 
   <!-- EN: stock -->
   <VWE_Gun_TrenchGun_Unique.tools.stock.label>coronha</VWE_Gun_TrenchGun_Unique.tools.stock.label>
