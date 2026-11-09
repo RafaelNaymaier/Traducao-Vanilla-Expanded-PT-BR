@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <VFEP_AdvancedWarcaskets.label>carcaças de guerra avançadas</VFEP_AdvancedWarcaskets.label>
@@ -74,4 +74,20 @@
     <li>subject_gerund->armando os gigantes da guerra</li>
   </VFEP_WarcasketWeaponry.generalRules.rulesStrings>
 
+  <!-- EN:
+    <li>subject->biochemical ingenuity</li>
+    <li>subject_story->turned the cycle of waste into a source of sustenance and spirit, crafting rum from the sweat of toil</li>
+    <li>subject_story->blurred the lines between distillation and desperation, finding innovation in the unconventional</li>
+    <li>subject_story->created a self-sustaining cycle of work, waste, and whiskey, fueling both body and morale</li>
+    <li>subject_gerund->brewing resilience from refuse</li>
+  -->
+  <VFEP_SweatFermentation.generalRules.rulesStrings>
+    <li>subject->engenhosidade bioquímica</li>
+    <li>subject_story->transformou o ciclo de resíduos em uma fonte de sustento e ânimo, produzindo rum a partir do suor do trabalho</li>
+    <li>subject_story->tornou tênue a linha entre destilação e desespero, encontrando inovação no inusitado</li>
+    <li>subject_story->criou um ciclo autossustentável de trabalho, resíduos e uísque, alimentando tanto o corpo quanto o ânimo</li>
+    <li>subject_gerund->produzindo resiliência a partir de resíduos</li>
+  </VFEP_SweatFermentation.generalRules.rulesStrings>
+
 </LanguageData>
+

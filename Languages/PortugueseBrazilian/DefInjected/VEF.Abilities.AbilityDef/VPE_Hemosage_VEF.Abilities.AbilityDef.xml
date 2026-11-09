@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: blood focus -->
+  <VPEH_Bloodfocus.label>foco sanguíneo</VPEH_Bloodfocus.label>
+
+  <!-- EN: By forcibly manipulating the body’s stores of hemogen, the caster can enter a state of rapid meditation, regaining psyfocus at the cost of hemogen. -->
+  <VPEH_Bloodfocus.description>Ao manipular à força as reservas de hemogênio do corpo, o conjurador pode entrar em um estado de meditação acelerada, recuperando foco psíquico à custa de hemogênio.</VPEH_Bloodfocus.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPEH_Bloodfocus.jobReportString>Usando habilidade: {0}</VPEH_Bloodfocus.jobReportString>
+
+  <!-- EN: blood focus -->
+  <VPEH_Bloodfocus.verbProperties.label>foco sanguíneo</VPEH_Bloodfocus.verbProperties.label>
+
+  <!-- EN: blood rite -->
+  <VPEH_BloodRite.label>rito de sangue</VPEH_BloodRite.label>
+
+  <!-- EN: Creates a mote of hemogen that follows the caster, acting as an amplifier for psychic sensitivity based on the caster’s current hemogen level. -->
+  <VPEH_BloodRite.description>Cria uma partícula de hemogênio que acompanha o conjurador e amplifica sua sensibilidade psíquica de acordo com seu nível atual de hemogênio.</VPEH_BloodRite.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPEH_BloodRite.jobReportString>Usando habilidade: {0}</VPEH_BloodRite.jobReportString>
+
+  <!-- EN: blood rite -->
+  <VPEH_BloodRite.verbProperties.label>rito de sangue</VPEH_BloodRite.verbProperties.label>
+
+  <!-- EN: blood shard -->
+  <VPEH_BloodShard.label>estilhaço de sangue</VPEH_BloodShard.label>
+
+  <!-- EN: Launch a small amount of excess blood as a lethal projectile by forcibly expelling hemogen that has been solidified into a crystalline structure. -->
+  <VPEH_BloodShard.description>Lança uma pequena quantidade de sangue excedente como um projétil letal, expelindo à força hemogênio solidificado em uma estrutura cristalina.</VPEH_BloodShard.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPEH_BloodShard.jobReportString>Usando habilidade: {0}</VPEH_BloodShard.jobReportString>
+
+  <!-- EN: blood shard -->
+  <VPEH_BloodShard.verbProperties.label>estilhaço de sangue</VPEH_BloodShard.verbProperties.label>
+
+  <!-- EN: blood spew -->
+  <VPEH_BloodSpew.label>jato de sangue</VPEH_BloodSpew.label>
+
+  <!-- EN: Spew forth a fine mist of hemogen towards the targets, coating them in sticky, nauseating blood. Those affected are overcome with intense vomiting. -->
+  <VPEH_BloodSpew.description>Expele uma fina névoa de hemogênio em direção aos alvos, cobrindo-os de sangue pegajoso e nauseante. Os afetados sofrem vômitos intensos.</VPEH_BloodSpew.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPEH_BloodSpew.jobReportString>Usando habilidade: {0}</VPEH_BloodSpew.jobReportString>
+
+  <!-- EN: blood spew -->
+  <VPEH_BloodSpew.verbProperties.label>jato de sangue</VPEH_BloodSpew.verbProperties.label>
+
+  <!-- EN: bloodstorm -->
+  <VPEH_Bloodstorm.label>tempestade de sangue</VPEH_Bloodstorm.label>
+
+  <!-- EN: Creates a downpour of blood, inflicting non-hemogenic individuals with bloodmist, causing intense vomiting. Sanguophages instead regenerate hemogen, and don’t gain psychic heat when casting any psycasts under the effects of bloodstorm. -->
+  <VPEH_Bloodstorm.description>Cria uma chuva torrencial de sangue que aflige indivíduos não hemogênicos com névoa de sangue, provocando vômitos intensos. Sanguófagos, por sua vez, regeneram hemogênio e não acumulam calor psíquico ao lançar qualquer psiconjuração sob os efeitos da tempestade de sangue.</VPEH_Bloodstorm.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPEH_Bloodstorm.jobReportString>Usando habilidade: {0}</VPEH_Bloodstorm.jobReportString>
+
+  <!-- EN: If you use bloodstorm, everyone in this local area will be affected by it, and you will lose goodwill with every non-hostile faction that currently is visiting this place.\n\nBloodstorm takes 10 seconds to cast, and cannot be interrupted. When complete, the rain of blood will fall everywhere, affecting both normal people and sanguophages.\n\nEveryone on the map except Sanguophages will be affected by blood mist, causing intense vomiting. Sanguophages will not generate Psychic heat when casting psycasts of any kind.\n\nDo you really want to cast bloodstorm? -->
+  <VPEH_Bloodstorm.modExtensions.3.message>Se você usar tempestade de sangue, todos nesta área serão afetados, e você perderá boa vontade com todas as facções não hostis que estiverem visitando este local.\n\nTempestade de sangue leva 10 segundos para ser conjurada e não pode ser interrompida. Ao término da conjuração, a chuva de sangue cairá por toda parte, afetando tanto pessoas comuns quanto sanguófagos.\n\nTodos no mapa, exceto sanguófagos, serão afetados pela névoa de sangue, que provoca vômitos intensos. Sanguófagos não gerarão calor psíquico ao lançar psiconjurações de qualquer tipo.\n\nVocê realmente deseja conjurar tempestade de sangue?</VPEH_Bloodstorm.modExtensions.3.message>
+
+  <!-- EN: bloodstorm -->
+  <VPEH_Bloodstorm.verbProperties.label>tempestade de sangue</VPEH_Bloodstorm.verbProperties.label>
+
+  <!-- EN: close wounds -->
+  <VPEH_CloseWounds.label>fechar feridas</VPEH_CloseWounds.label>
+
+  <!-- EN: Forcibly move excess blood to stop any ongoing bleeding. However, it does not actually heal. -->
+  <VPEH_CloseWounds.description>Move à força o sangue excedente para estancar qualquer sangramento em curso. No entanto, isso não cura os ferimentos.</VPEH_CloseWounds.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPEH_CloseWounds.jobReportString>Usando habilidade: {0}</VPEH_CloseWounds.jobReportString>
+
+  <!-- EN: close wounds -->
+  <VPEH_CloseWounds.verbProperties.label>fechar feridas</VPEH_CloseWounds.verbProperties.label>
+
+  <!-- EN: corpse explosion -->
+  <VPEH_CorpseExplosion.label>explosão de cadáver</VPEH_CorpseExplosion.label>
+
+  <!-- EN: Uses the caster’s hemogen to overstimulate the blood of a corpse, causing an explosion which deals no damage, but covers everyone in thick bloodmist. Those affected are overcome with intense vomiting. -->
+  <VPEH_CorpseExplosion.description>Usa o hemogênio do conjurador para superestimular o sangue de um cadáver, provocando uma explosão que não causa dano, mas cobre todos com uma densa névoa de sangue. Os afetados sofrem vômitos intensos.</VPEH_CorpseExplosion.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPEH_CorpseExplosion.jobReportString>Usando habilidade: {0}</VPEH_CorpseExplosion.jobReportString>
+
+  <!-- EN: corpse explosion -->
+  <VPEH_CorpseExplosion.verbProperties.label>explosão de cadáver</VPEH_CorpseExplosion.verbProperties.label>
+
+  <!-- EN: hemodrain -->
+  <VPEH_Hemodrain.label>hemodrenagem</VPEH_Hemodrain.label>
+
+  <!-- EN: Forcibly extracts the blood of the target at a distance and converts it to hemogen. Practical but inefficient. -->
+  <VPEH_Hemodrain.description>Extrai à força o sangue do alvo à distância e o converte em hemogênio. Prático, mas ineficiente.</VPEH_Hemodrain.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPEH_Hemodrain.jobReportString>Usando habilidade: {0}</VPEH_Hemodrain.jobReportString>
+
+  <!-- EN: hemodrain -->
+  <VPEH_Hemodrain.verbProperties.label>hemodrenagem</VPEH_Hemodrain.verbProperties.label>
+
+  <!-- EN: sanguine spear -->
+  <VPEH_SanguineSpear.label>lança sanguínea</VPEH_SanguineSpear.label>
+
+  <!-- EN: Launches a pressurized spear of blood over to the target, damaging the target and creating a bloodmist explosion. Damage depends on the caster's hemogen level. -->
+  <VPEH_SanguineSpear.description>Lança uma lança de sangue pressurizado contra o alvo, causando dano e criando uma explosão de névoa de sangue. O dano depende do nível de hemogênio do conjurador.</VPEH_SanguineSpear.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPEH_SanguineSpear.jobReportString>Usando habilidade: {0}</VPEH_SanguineSpear.jobReportString>
+
+  <!-- EN: sanguine spear -->
+  <VPEH_SanguineSpear.verbProperties.label>lança sanguínea</VPEH_SanguineSpear.verbProperties.label>
+
+  <!-- EN: word of offering -->
+  <VPEH_WordofOffering.label>palavra de oferenda</VPEH_WordofOffering.label>
+
+  <!-- EN: Convinces the target to offer their blood to the caster. Can be used on visitors or even during combat. -->
+  <VPEH_WordofOffering.description>Convence o alvo a oferecer seu sangue ao conjurador. Pode ser usada em visitantes ou até mesmo durante o combate.</VPEH_WordofOffering.description>
+
+  <!-- EN: Using ability: {0} -->
+  <VPEH_WordofOffering.jobReportString>Usando habilidade: {0}</VPEH_WordofOffering.jobReportString>
+
+  <!-- EN: word of offering -->
+  <VPEH_WordofOffering.verbProperties.label>palavra de oferenda</VPEH_WordofOffering.verbProperties.label>
+
+</LanguageData>
+

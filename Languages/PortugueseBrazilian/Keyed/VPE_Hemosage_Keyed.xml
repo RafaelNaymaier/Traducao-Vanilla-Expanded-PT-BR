@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Is a deathrest building. -->
+  <VPEH.DeathrestBuilding>É uma construção de descanso mortal.</VPEH.DeathrestBuilding>
+
+  <!-- EN: {0} deathrest buildings nearby. -->
+  <VPEH.DeathrestBuildingsNearby>{0} construções de descanso mortal nas proximidades.</VPEH.DeathrestBuildingsNearby>
+
+  <!-- EN: Hemogen is too low. Minimum {0} is required. -->
+  <VPEH.HemogenTooLow>Hemogênio insuficiente. É necessário um mínimo de {0}.</VPEH.HemogenTooLow>
+
+  <!-- EN: Pawn does not have hemogen gene. -->
+  <VPEH.NoHemogenGene>O personagem não possui o gene hemogênico.</VPEH.NoHemogenGene>
+
+  <!-- EN: Corpse must be not dessicated. -->
+  <VPEH.MustBeNotDessicated>O cadáver não pode estar ressecado.</VPEH.MustBeNotDessicated>
+
+  <!-- EN: Cannot cast: target is hemogenic. -->
+  <VPEH.OnlyNonHemogenic>Não é possível conjurar: o alvo é hemogênico.</VPEH.OnlyNonHemogenic>
+
+  <!-- EN: Cancel Bloodfocus -->
+  <VPEH.CancelBloodfocus>Cancelar foco sanguíneo</VPEH.CancelBloodfocus>
+
+  <!-- EN: Click to cancel Bloodfocus on the caster. -->
+  <VPEH.CancelBloodfocusDesc>Clique para cancelar o foco sanguíneo do conjurador.</VPEH.CancelBloodfocusDesc>
+
+  <!-- EN: H -->
+  <VPEH.HemogenLetter>H</VPEH.HemogenLetter>
+
+  <!-- EN: Cannot cast: target is not human -->
+  <VPEH.OnlyHumanlikes>Não é possível conjurar: o alvo não é humanoide.</VPEH.OnlyHumanlikes>
+
+</LanguageData>
+
