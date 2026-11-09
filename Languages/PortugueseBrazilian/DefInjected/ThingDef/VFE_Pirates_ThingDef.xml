@@ -277,7 +277,7 @@
   <VFEP_Box_Broadsword.label>espada larga de carcaça de guerra</VFEP_Box_Broadsword.label>
   <VFEP_Box_Broadsword.description>Uma arma corpo a corpo única, feita exclusivamente para carcaças de guerra. Ela combina um peso massivo e uma força de corte sem igual no combate corpo a corpo. Embora tenha sido projetada para uso contra outras carcaças de guerra, funciona tão bem quanto contra alvos menores que normalmente seriam considerados blindados.</VFEP_Box_Broadsword.description>
   
-  <VFEP_Box_ChargeBlaster.label>blaster de carga de carcaça de guerra</VFEP_Box_ChargeBlaster.label>
+  <VFEP_Box_ChargeBlaster.label>minigun de carga para carcaça de guerra</VFEP_Box_ChargeBlaster.label>
   <VFEP_Box_ChargeBlaster.description>Essencialmente uma minigun de carga ampliada projetada para ser usada por um carcaça de guerra de guerra. Embora dispare menos projéteis em cada rajada, a munição foi aprimorada com cargas explosivas. Projetada como uma arma de suporte que invalida completamente as coberturas para os azarados no lado receptor do disparo.</VFEP_Box_ChargeBlaster.description>
   
   <VFEP_Box_ChargeLance.label>lança de carga de carcaça de guerra</VFEP_Box_ChargeLance.label>
@@ -373,7 +373,7 @@
   
   <VFEP_Bullet_WarcasketAutorifle.label>projétil de fuzil automático de carcaça de guerra</VFEP_Bullet_WarcasketAutorifle.label>
   
-  <VFEP_Bullet_WarcasketChargeBlaster.label>disparo de blaster de carga de carcaça de guerra</VFEP_Bullet_WarcasketChargeBlaster.label>
+  <VFEP_Bullet_WarcasketChargeBlaster.label>disparo de minigun de carga para carcaça de guerra</VFEP_Bullet_WarcasketChargeBlaster.label>
   
   <VFEP_Bullet_WarcasketChargeLance.label>disparo de lança de carga de carcaça de guerra</VFEP_Bullet_WarcasketChargeLance.label>
   
@@ -389,11 +389,11 @@
   <VFEP_WarcasketGun_Autorifle.tools.barrel.label>cano</VFEP_WarcasketGun_Autorifle.tools.barrel.label>
   <VFEP_WarcasketGun_Autorifle.verbs.Verb_Shoot.label>fuzil automático de carcaça de guerra</VFEP_WarcasketGun_Autorifle.verbs.Verb_Shoot.label>
   
-  <VFEP_WarcasketGun_ChargeBlaster.label>blaster de carga de carcaça de guerra</VFEP_WarcasketGun_ChargeBlaster.label>
+  <VFEP_WarcasketGun_ChargeBlaster.label>minigun de carga para carcaça de guerra</VFEP_WarcasketGun_ChargeBlaster.label>
   <VFEP_WarcasketGun_ChargeBlaster.description>Essencialmente uma minigun de carga ampliada projetada para ser usada por um carcaça de guerra de guerra. Embora dispare menos projéteis em cada rajada, a munição foi aprimorada com cargas explosivas. Projetada como uma arma de suporte que invalida completamente as coberturas para os azarados no lado receptor do disparo.</VFEP_WarcasketGun_ChargeBlaster.description>
   <VFEP_WarcasketGun_ChargeBlaster.tools.stock.label>coronha</VFEP_WarcasketGun_ChargeBlaster.tools.stock.label>
   <VFEP_WarcasketGun_ChargeBlaster.tools.barrel.label>cano</VFEP_WarcasketGun_ChargeBlaster.tools.barrel.label>
-  <VFEP_WarcasketGun_ChargeBlaster.verbs.Verb_Shoot.label>blaster de carga de carcaça de guerra</VFEP_WarcasketGun_ChargeBlaster.verbs.Verb_Shoot.label>
+  <VFEP_WarcasketGun_ChargeBlaster.verbs.Verb_Shoot.label>minigun de carga para carcaça de guerra</VFEP_WarcasketGun_ChargeBlaster.verbs.Verb_Shoot.label>
   
   <VFEP_WarcasketGun_ChargeLance.label>lança de carga de carcaça de guerra</VFEP_WarcasketGun_ChargeLance.label>
   <VFEP_WarcasketGun_ChargeLance.description>Um terror no campo de batalha, a lança de carga recebeu uma atualização massiva para o uso em carcaças de guerra. Uma fonte de energia consideravelmente mais poderosa confere-lhe um poder de parada superior, sendo capaz de disparar múltiplos projéteis maiores a um alcance superior, com precisão e penetração aprimoradas.</VFEP_WarcasketGun_ChargeLance.description>
@@ -477,7 +477,10 @@
   -->
 
   <!-- EN: warcasket laser blaster -->
-  <VFEP_WarcasketGun_LaserBlaster.label>blaster laser de carcaça de guerra</VFEP_WarcasketGun_LaserBlaster.label>
+  <VFEP_WarcasketGun_LaserBlaster.label>repetidora laser de carcaça de guerra</VFEP_WarcasketGun_LaserBlaster.label>
+
+  <!-- EN: An enlarged laser weapon, combining both modern and antique methods into a compact package. Taking advantage of a greater weight tolerance, this system includes a revolver cylinder using advanced battery cells instead of cartridges. This allows the weapon to fire more powerful shots at a slower warmup reduction, meaning safer sustained fire for the operator. -->
+  <VFEP_WarcasketGun_LaserBlaster.description>Uma arma laser ampliada que combina técnicas modernas e antigas em um conjunto compacto. Aproveitando a capacidade de suportar mais peso, o sistema incorpora um tambor de revólver que usa células avançadas de bateria em vez de cartuchos. Isso permite disparos mais potentes, com uma redução mais lenta do tempo de preparação do disparo, tornando o fogo sustentado mais seguro para o operador.</VFEP_WarcasketGun_LaserBlaster.description>
 
 </LanguageData>
 

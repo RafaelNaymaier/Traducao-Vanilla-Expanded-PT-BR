@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: heavy weapons -->
+  <VWE_HeavyWeapons.label>armas pesadas</VWE_HeavyWeapons.label>
+
+  <!-- EN: Construct heavy weapons that offer superior firepower, at the cost of being very physically demanding. -->
+  <VWE_HeavyWeapons.description>Construa armas pesadas que oferecem poder de fogo superior, mas exigem grande esforço físico.</VWE_HeavyWeapons.description>
+
+  <!-- EN: <li>subject->the weight of power</li><li>subject_story->developed weapons that bring unparalleled firepower to the battlefield</li><li>subject_story->balanced the scales of warfare with heavy, decisive armaments</li><li>subject_story->created training programs for specialized units to operate these weapons</li><li>subject_story->engineered mobility solutions to transport and deploy heavy armaments</li><li>subject_gerund->mastering the art of destruction with heavy weapons</li> -->
+  <VWE_HeavyWeapons.generalRules.rulesStrings>
+    <!-- EN: subject->the weight of power -->
+    <li>subject->o peso do poder</li>
+    <!-- EN: subject_story->developed weapons that bring unparalleled firepower to the battlefield -->
+    <li>subject_story->desenvolveu armas que levam poder de fogo incomparável ao campo de batalha</li>
+    <!-- EN: subject_story->balanced the scales of warfare with heavy, decisive armaments -->
+    <li>subject_story->equilibrou as forças da guerra com armamentos pesados e decisivos</li>
+    <!-- EN: subject_story->created training programs for specialized units to operate these weapons -->
+    <li>subject_story->criou programas de treinamento para unidades especializadas operarem essas armas</li>
+    <!-- EN: subject_story->engineered mobility solutions to transport and deploy heavy armaments -->
+    <li>subject_story->projetou soluções de mobilidade para transportar e posicionar armamentos pesados</li>
+    <!-- EN: subject_gerund->mastering the art of destruction with heavy weapons -->
+    <li>subject_gerund->dominando a arte da destruição com armas pesadas</li>
+  </VWE_HeavyWeapons.generalRules.rulesStrings>
+
+  <!-- EN: laser targeting systems -->
+  <VWE_LaserTargetingSystems.label>sistemas de mira a laser</VWE_LaserTargetingSystems.label>
+
+  <!-- EN: Adapt laser targeting systems for accurate and swift delivery of charged payloads. -->
+  <VWE_LaserTargetingSystems.description>Adapte sistemas de mira a laser para lançar cargas energizadas com rapidez e precisão.</VWE_LaserTargetingSystems.description>
+
+  <!-- EN: <li>subject->pinpoint accuracy</li><li>subject_story->revolutionized precision strikes with advanced laser guidance</li><li>subject_story->enabled real-time target acquisition and adjustment</li><li>subject_story->integrated systems with existing weaponry for enhanced combat effectiveness</li><li>subject_story->developed compact, portable laser designators for field operations</li><li>subject_gerund->honing the edge of warfare with technology</li> -->
+  <VWE_LaserTargetingSystems.generalRules.rulesStrings>
+    <!-- EN: subject->pinpoint accuracy -->
+    <li>subject->precisão absoluta</li>
+    <!-- EN: subject_story->revolutionized precision strikes with advanced laser guidance -->
+    <li>subject_story->revolucionou os ataques de precisão com orientação avançada a laser</li>
+    <!-- EN: subject_story->enabled real-time target acquisition and adjustment -->
+    <li>subject_story->permitiu adquirir alvos e ajustar a mira em tempo real</li>
+    <!-- EN: subject_story->integrated systems with existing weaponry for enhanced combat effectiveness -->
+    <li>subject_story->integrou os sistemas ao armamento existente para aumentar a eficácia em combate</li>
+    <!-- EN: subject_story->developed compact, portable laser designators for field operations -->
+    <li>subject_story->desenvolveu designadores laser compactos e portáteis para operações em campo</li>
+    <!-- EN: subject_gerund->honing the edge of warfare with technology -->
+    <li>subject_gerund->aprimorando o combate com tecnologia</li>
+  </VWE_LaserTargetingSystems.generalRules.rulesStrings>
+
+</LanguageData>
+
