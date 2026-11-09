@@ -87,4 +87,54 @@
 	<VEF_RangedDodgeChance.label>chance de desvio à distância</VEF_RangedDodgeChance.label>
 	<VEF_RangedDodgeChance.description>Chance de desviar de um ataque à distância que de outra forma teria atingido.</VEF_RangedDodgeChance.description>
 
+
+  <!-- EN: breakdown factor -->
+  <VEF_BuildingBreakdownFactor.label>fator de avarias</VEF_BuildingBreakdownFactor.label>
+
+  <!-- EN: A multiplier on how often this building breaks down. -->
+  <VEF_BuildingBreakdownFactor.description>Um multiplicador da frequência com que este edifício sofre avarias.</VEF_BuildingBreakdownFactor.description>
+
+  <!-- EN: maximum overclock factor -->
+  <VEF_BuildingMaxOverclockFactor.label>fator máximo de overclock</VEF_BuildingMaxOverclockFactor.label>
+
+  <!-- EN: A multiplier on the maximum possible overclock of a factory. -->
+  <VEF_BuildingMaxOverclockFactor.description>Um multiplicador do overclock máximo possível de uma fábrica.</VEF_BuildingMaxOverclockFactor.description>
+
+  <!-- EN: heat per second factor -->
+  <VEF_FactoryHeatPerSecondFactor.label>fator de calor por segundo</VEF_FactoryHeatPerSecondFactor.label>
+
+  <!-- EN: A multiplier on the heat per second produced by a factory. -->
+  <VEF_FactoryHeatPerSecondFactor.description>Um multiplicador do calor produzido por uma fábrica a cada segundo.</VEF_FactoryHeatPerSecondFactor.description>
+
+  <!-- EN: animal product interval factor -->
+  <VEF_AnimalProductIntervalFactor.label>fator de intervalo de produção animal</VEF_AnimalProductIntervalFactor.label>
+
+  <!-- EN: A multiplier on the interval of time needed for this animal to produce special animal products. -->
+  <VEF_AnimalProductIntervalFactor.description>Um multiplicador do intervalo de tempo necessário para este animal produzir produtos animais especiais.</VEF_AnimalProductIntervalFactor.description>
+
+  <!-- EN: animal product yield factor -->
+  <VEF_AnimalProductYieldFactor.label>fator de rendimento da produção animal</VEF_AnimalProductYieldFactor.label>
+
+  <!-- EN: A multiplier on the amount of special animal products produced by this animal. -->
+  <VEF_AnimalProductYieldFactor.description>Um multiplicador da quantidade de produtos animais especiais produzidos por este animal.</VEF_AnimalProductYieldFactor.description>
+
+  <!-- EN: Heatstroke buildup multiplier -->
+  <VEF_HeatstrokeBuildupMultiplier.label>Multiplicador de acúmulo de insolação</VEF_HeatstrokeBuildupMultiplier.label>
+
+  <!-- EN: A factor on how fast heatstroke will be gained. -->
+  <VEF_HeatstrokeBuildupMultiplier.description>Um fator da velocidade com que a insolação se acumula.</VEF_HeatstrokeBuildupMultiplier.description>
+
+  <!-- EN: base health multiplier -->
+  <VRE_HealthFromGenesScale.label>multiplicador de saúde base</VRE_HealthFromGenesScale.label>
+
+  <!-- EN: Base health multiplier of this animal due to its genes. -->
+  <VRE_HealthFromGenesScale.description>Multiplicador de saúde base deste animal devido aos seus genes.</VRE_HealthFromGenesScale.description>
+
+  <!-- EN: piercing damage modifier -->
+  <VEF_GaussProjectileDamageModifier.label>modificador de dano de perfuração</VEF_GaussProjectileDamageModifier.label>
+
+  <!-- EN: How much the damage dealt is modified (as a percentage of the base damage) for each previously hit target. -->
+  <VEF_GaussProjectileDamageModifier.description>Quanto o dano causado é modificado (como uma porcentagem do dano base) para cada alvo atingido anteriormente.</VEF_GaussProjectileDamageModifier.description>
+
 </LanguageData>
+

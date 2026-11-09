@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
 	<VEF_AnimalResource.reportString>extraindo recurso animal de TargetA.</VEF_AnimalResource.reportString>
@@ -46,4 +46,12 @@
 	<VEF_RefuelSecondary.reportString>reabastecendo munição em TargetA.</VEF_RefuelSecondary.reportString>
 
 
+
+  <!-- EN: extracting a flower. -->
+  <VEF_ExtractFlower.reportString>extraindo uma flor.</VEF_ExtractFlower.reportString>
+
+  <!-- EN: removing weeds. -->
+  <VEF_RemoveWeeds.reportString>removendo ervas daninhas.</VEF_RemoveWeeds.reportString>
+
 </LanguageData>
+

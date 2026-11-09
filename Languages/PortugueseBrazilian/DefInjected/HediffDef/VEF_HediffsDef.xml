@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
 	<VEF_PermanentBurn.label>Queimadura Permanente</VEF_PermanentBurn.label>
@@ -34,4 +34,12 @@
   <VEF_ControlledInvisibility.label>invisibilidade</VEF_ControlledInvisibility.label>
   <VEF_ControlledInvisibility.description>Encoberto em um véu de invisibilidade controlada.</VEF_ControlledInvisibility.description>
 
+
+  <!-- EN: stillborn animal -->
+  <VEF_StillbornAnimal.label>animal natimorto</VEF_StillbornAnimal.label>
+
+  <!-- EN: This animal died due to non-specific complications during pregnancy. -->
+  <VEF_StillbornAnimal.description>Este animal morreu devido a complicações inespecíficas durante a gestação.</VEF_StillbornAnimal.description>
+
 </LanguageData>
+

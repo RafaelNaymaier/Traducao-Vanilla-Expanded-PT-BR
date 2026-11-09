@@ -115,6 +115,11 @@
   <VREA_NeutroTap.label>torneira de neutroamina</VREA_NeutroTap.label>
   <VREA_NeutroTap.description>Uma bacia de armazenamento semelhante a um funil, destinada a reter a neutroamina dispensada dos tanques periodicamente para uso posterior.</VREA_NeutroTap.description>
   
+  <!-- EN: neutroamine valve -->
+  <VREA_NeutroValve.label>válvula de neutroamina</VREA_NeutroValve.label>
+  <!-- EN: Switches neutroamine flow on/off. -->
+  <VREA_NeutroValve.description>Ativa ou desativa o fluxo de neutroamina.</VREA_NeutroValve.description>
+
   <VREA_SubterraneanNeutroPipe.label>tubo de neutroamina oculto</VREA_SubterraneanNeutroPipe.label>
   <VREA_SubterraneanNeutroPipe.description>Tubos leves e estéreis para transportar neutroamina líquida a granel de e para os tanques. Este tubo fica oculto à vista. Mais caro de construir do que os tubos comuns.</VREA_SubterraneanNeutroPipe.description>
 

@@ -16,7 +16,7 @@
   <VPE_Archotechist.description>O caminho do arquotecnólogo é especial e exclusivo dos psinjuradores imperiais. Ele permite espalhar a loucura, derrubar malfeitores com choque psíquico, transferir calor neural para outras pessoas e usar esse calor em combate.</VPE_Archotechist.description>
 
   <!-- EN: Imperials only -->
-  <VPE_Archotechist.lockedReason>Apenas imperiais</VPE_Archotechist.lockedReason>
+  <VPE_Archotechist.lockedReason>Imperial</VPE_Archotechist.lockedReason>
 
   <!-- EN: A path so mysterious only imperial scholars can confirm rumours, archotechists are able to tap into archotech engines and exert power so ridiculous and bizarre that it really makes one question their sanity. Archotechists can simply drive entire armies to insanity, and can even manipulate neural heat to mutilate their adversaries. -->
   <VPE_Archotechist.tooltip>Um caminho tão misterioso que só estudiosos imperiais podem confirmar os rumores. Arquotecnólogos conseguem acessar motores arquotecnológicos e exercer poderes tão absurdos e bizarros que fazem qualquer um duvidar da própria sanidade. Eles podem enlouquecer exércitos inteiros e até manipular o calor neural para mutilar seus adversários.</VPE_Archotechist.tooltip>
@@ -136,8 +136,61 @@
   <VPE_Wildspeaker.description>O caminho da voz da natureza é especial e exclusivo dos psinjuradores tribais. Ele permite controlar a natureza e os animais para se defender e sobreviver.</VPE_Wildspeaker.description>
 
   <!-- EN: Tribals only -->
-  <VPE_Wildspeaker.lockedReason>Apenas tribais</VPE_Wildspeaker.lockedReason>
+  <VPE_Wildspeaker.lockedReason>Tribal</VPE_Wildspeaker.lockedReason>
 
   <!-- EN: A secret path of the tribal communities, wildspeaking is the art of living in harmony with the forest and nature, and being able to summon the aid of the forest when needed. Tribal wildspeakers are known to control packs of territorial animals, be protected from all damage by an impenetrable shield, and they can also seem to make brambles and trees sprout out of the ground on a whim. -->
   <VPE_Wildspeaker.tooltip>Um caminho secreto das comunidades tribais, a voz da natureza é a arte de viver em harmonia com a floresta e invocar sua ajuda quando necessário. Seus praticantes controlam bandos de animais territoriais, protegem-se de todo dano com um escudo impenetrável e fazem arbustos espinhosos e árvores brotarem do chão à vontade.</VPE_Wildspeaker.tooltip>
+
+  <!-- EN: Psycasts -->
+  <VPE_Archon.tab>Psiconjurações</VPE_Archon.tab>
+
+  <!-- EN: Psycasts -->
+  <VPE_Archotechist.tab>Psiconjurações</VPE_Archotechist.tab>
+
+  <!-- EN: Psycasts -->
+  <VPE_Chronopath.tab>Psiconjurações</VPE_Chronopath.tab>
+
+  <!-- EN: Psycasts -->
+  <VPE_Conflagrator.tab>Psiconjurações</VPE_Conflagrator.tab>
+
+  <!-- EN: Psycasts -->
+  <VPE_Empath.tab>Psiconjurações</VPE_Empath.tab>
+
+  <!-- EN: Psycasts -->
+  <VPE_Frostshaper.tab>Psiconjurações</VPE_Frostshaper.tab>
+
+  <!-- EN: Psycasts -->
+  <VPE_Harmonist.tab>Psiconjurações</VPE_Harmonist.tab>
+
+  <!-- EN: Psycasts -->
+  <VPE_Necropath.tab>Psiconjurações</VPE_Necropath.tab>
+
+  <!-- EN: Psycasts -->
+  <VPE_Nightstalker.tab>Psiconjurações</VPE_Nightstalker.tab>
+
+  <!-- EN: Psycasts -->
+  <VPE_Protector.tab>Psiconjurações</VPE_Protector.tab>
+
+  <!-- EN: Psycasts -->
+  <VPE_Skipmaster.tab>Psiconjurações</VPE_Skipmaster.tab>
+
+  <!-- EN: Psycasts -->
+  <VPE_Staticlord.tab>Psiconjurações</VPE_Staticlord.tab>
+
+  <!-- EN: Psycasts -->
+  <VPE_Technomancer.tab>Psiconjurações</VPE_Technomancer.tab>
+
+  <!-- EN: Psycasts -->
+  <VPE_Warlord.tab>Psiconjurações</VPE_Warlord.tab>
+
+  <!-- EN: Psycasts -->
+  <VPE_Wildspeaker.tab>Psiconjurações</VPE_Wildspeaker.tab>
+
+  <!-- EN: Psycasts -->
+  <VREA_Transcendent.tab>Psiconjurações</VREA_Transcendent.tab>
+
+  <!-- EN: Transcendent only -->
+  <VREA_Transcendent.lockedReason>Transcendente</VREA_Transcendent.lockedReason>
+
+  
 </LanguageData>
