@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: heavy incinerator -->
+  <VWEB_HeavyIncinerator.label>incinerador pesado</VWEB_HeavyIncinerator.label>
+
+  <!-- EN: A powerful, experimental incinerator that can spray a stream of flame into an area. It can shoot in an arc over allies without harming them. The flame burns off rapidly, so it will only ignite the most flammable targets.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\n\nWhile the main incinerator flamethrower has limited number of uses, the weapon also comes equipped with a bioferrite-powered vaporizer unit which generates a massive blast of superheated plasma from a pressurized bioferrite charge, destroying everything hit. The vaporizer unit must be refueled after each use. -->
+  <VWEB_HeavyIncinerator.description>Um incinerador experimental potente que projeta um jato de chamas sobre uma área. Pode disparar em arco por cima de aliados sem feri-los. As chamas se extinguem rapidamente, incendiando apenas os alvos mais inflamáveis.\n\nPor ser extremamente pesada, esta arma exige armadura motorizada para ser usada com eficácia.\n\nEmbora o lança-chamas principal do incinerador tenha um número limitado de usos, a arma também possui um vaporizador alimentado por bioferrita. Ele gera uma enorme descarga de plasma superaquecido a partir de uma carga pressurizada de bioferrita, destruindo tudo que atinge. O vaporizador deve ser reabastecido após cada uso.</VWEB_HeavyIncinerator.description>
+
+  <!-- EN: burner charge -->
+  <VWEB_HeavyIncinerator.comps.CompEquippableAbilityReloadable.chargeNoun>carga do queimador</VWEB_HeavyIncinerator.comps.CompEquippableAbilityReloadable.chargeNoun>
+
+  <!-- EN: on cooldown -->
+  <VWEB_HeavyIncinerator.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWEB_HeavyIncinerator.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+  <!-- EN: stock -->
+  <VWEB_HeavyIncinerator.tools.stock.label>coronha</VWEB_HeavyIncinerator.tools.stock.label>
+
+  <!-- EN: barrel -->
+  <VWEB_HeavyIncinerator.tools.barrel.label>cano</VWEB_HeavyIncinerator.tools.barrel.label>
+
+  <!-- EN: heavy incinerator -->
+  <VWEB_HeavyIncinerator.verbs.Verb_ArcSprayIncineratorHeavy.label>incinerador pesado</VWEB_HeavyIncinerator.verbs.Verb_ArcSprayIncineratorHeavy.label>
+
+  <!-- EN: Mote -->
+  <VWEB_Mote_Blue_IncineratorBurst.label>Partícula</VWEB_Mote_Blue_IncineratorBurst.label>
+
+  <!-- EN: Mote -->
+  <VWEB_Mote_FirestormBurst.label>Partícula</VWEB_Mote_FirestormBurst.label>
+
+  <!-- EN: cyclone minigun bullet -->
+  <VWEB_Bullet_CycloneMinigun.label>projétil de minigun ciclone</VWEB_Bullet_CycloneMinigun.label>
+
+  <!-- EN: firestorm shotgun blast -->
+  <VWEB_Bullet_FirestormShotgun.label>disparo de espingarda tempestade de fogo</VWEB_Bullet_FirestormShotgun.label>
+
+  <!-- EN: flarestrike rifle bullet -->
+  <VWEB_Bullet_FlarestrikeRifle.label>projétil de fuzil clarão</VWEB_Bullet_FlarestrikeRifle.label>
+
+  <!-- EN: piercer rifle bullet -->
+  <VWEB_Bullet_PiercerRifle.label>projétil de fuzil perfurador</VWEB_Bullet_PiercerRifle.label>
+
+  <!-- EN: cyclone minigun -->
+  <VWEB_Gun_CycloneMinigun.label>minigun ciclone</VWEB_Gun_CycloneMinigun.label>
+
+  <!-- EN: An unwieldy, multi-barrel machine gun. Once the barrels spin up, it fires very fast. While most self-loading guns are powered by the gunpowder energy, minigun uses an electric motor to rapidly cycle cartridges through the weapon. \n\nIt comes equipped with a separate, overdrive engine that utilises bioferrite to greatly accelerate the rate of fire. The overdrive can be used two times before the minigun needs to be reloaded with bioferrite. -->
+  <VWEB_Gun_CycloneMinigun.description>Uma metralhadora de vários canos, difícil de manusear. Quando os canos atingem a rotação necessária, dispara muito rapidamente. Enquanto a maioria das armas de carregamento automático aproveita a energia da pólvora, a minigun usa um motor elétrico para acionar rapidamente o ciclo de disparo.\n\nVem equipada com um motor auxiliar que usa bioferrita para aumentar muito a cadência de tiro. Essa aceleração pode ser usada duas vezes antes que a minigun precise ser recarregada com bioferrita.</VWEB_Gun_CycloneMinigun.description>
+
+  <!-- EN: burner charge -->
+  <VWEB_Gun_CycloneMinigun.comps.CompEquippableAbilityReloadable.chargeNoun>carga do queimador</VWEB_Gun_CycloneMinigun.comps.CompEquippableAbilityReloadable.chargeNoun>
+
+  <!-- EN: on cooldown -->
+  <VWEB_Gun_CycloneMinigun.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWEB_Gun_CycloneMinigun.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+  <!-- EN: barrels -->
+  <VWEB_Gun_CycloneMinigun.tools.barrels.label>canos</VWEB_Gun_CycloneMinigun.tools.barrels.label>
+
+  <!-- EN: cyclone minigun -->
+  <VWEB_Gun_CycloneMinigun.verbs.Verb_Shoot.label>minigun ciclone</VWEB_Gun_CycloneMinigun.verbs.Verb_Shoot.label>
+
+  <!-- EN: firestorm shotgun -->
+  <VWEB_Gun_FirestormShotgun.label>espingarda tempestade de fogo</VWEB_Gun_FirestormShotgun.label>
+
+  <!-- EN: A strong, short range shotgun that fires a tight-packed spray of pellets. Very deadly, but only in close quarters.\n\nIt also comes equipped with a bioferrite-powered mini-blazer unit which generates a short-ranged blast of flame from pressurized bioferrite charges. The mini-blazer unit can be used four times before refueling. -->
+  <VWEB_Gun_FirestormShotgun.description>Uma espingarda potente de curto alcance que dispara uma carga de chumbinhos bem concentrada. Muito letal, mas apenas no combate a curta distância.\n\nTambém vem equipada com um miniqueimador alimentado por bioferrita, que gera uma descarga de chamas de curto alcance a partir de cargas pressurizadas de bioferrita. O miniqueimador pode ser usado quatro vezes antes de ser reabastecido.</VWEB_Gun_FirestormShotgun.description>
+
+  <!-- EN: burner charge -->
+  <VWEB_Gun_FirestormShotgun.comps.CompEquippableAbilityReloadable.chargeNoun>carga do queimador</VWEB_Gun_FirestormShotgun.comps.CompEquippableAbilityReloadable.chargeNoun>
+
+  <!-- EN: on cooldown -->
+  <VWEB_Gun_FirestormShotgun.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWEB_Gun_FirestormShotgun.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+  <!-- EN: stock -->
+  <VWEB_Gun_FirestormShotgun.tools.stock.label>coronha</VWEB_Gun_FirestormShotgun.tools.stock.label>
+
+  <!-- EN: barrel -->
+  <VWEB_Gun_FirestormShotgun.tools.barrel.label>cano</VWEB_Gun_FirestormShotgun.tools.barrel.label>
+
+  <!-- EN: firestorm shotgun -->
+  <VWEB_Gun_FirestormShotgun.verbs.Verb_Shoot.label>espingarda tempestade de fogo</VWEB_Gun_FirestormShotgun.verbs.Verb_Shoot.label>
+
+  <!-- EN: flarestrike rifle -->
+  <VWEB_Gun_FlarestrikeRifle.label>fuzil clarão</VWEB_Gun_FlarestrikeRifle.label>
+
+  <!-- EN: A versatile semi-automatic battle rifle with good range, decent power and great accuracy.\n\nIt comes equipped with an underbarrel bioferrite-powered disruptor flare gun. On impact, the flare burns a capsule of bioferrite, which creates a bright flash and a local psychic disruption. The flare gun can be used four times before the rifle needs to be reloaded with bioferrite. -->
+  <VWEB_Gun_FlarestrikeRifle.description>Um fuzil de combate semiautomático versátil, com bom alcance, potência razoável e ótima precisão.\n\nPossui um lança-sinalizadores disruptores alimentado por bioferrita, acoplado sob o cano. No impacto, o sinalizador queima uma cápsula de bioferrita, produzindo um clarão intenso e interferência psíquica local. O lança-sinalizadores pode ser usado quatro vezes antes que o fuzil precise ser recarregado com bioferrita.</VWEB_Gun_FlarestrikeRifle.description>
+
+  <!-- EN: burner charge -->
+  <VWEB_Gun_FlarestrikeRifle.comps.CompEquippableAbilityReloadable.chargeNoun>carga do queimador</VWEB_Gun_FlarestrikeRifle.comps.CompEquippableAbilityReloadable.chargeNoun>
+
+  <!-- EN: on cooldown -->
+  <VWEB_Gun_FlarestrikeRifle.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWEB_Gun_FlarestrikeRifle.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+  <!-- EN: stock -->
+  <VWEB_Gun_FlarestrikeRifle.tools.stock.label>coronha</VWEB_Gun_FlarestrikeRifle.tools.stock.label>
+
+  <!-- EN: barrel -->
+  <VWEB_Gun_FlarestrikeRifle.tools.barrel.label>cano</VWEB_Gun_FlarestrikeRifle.tools.barrel.label>
+
+  <!-- EN: flarestrike rifle -->
+  <VWEB_Gun_FlarestrikeRifle.verbs.Verb_Shoot.label>fuzil clarão</VWEB_Gun_FlarestrikeRifle.verbs.Verb_Shoot.label>
+
+  <!-- EN: piercer rifle -->
+  <VWEB_Gun_PiercerRifle.label>fuzil perfurador</VWEB_Gun_PiercerRifle.label>
+
+  <!-- EN: A versatile, but still ancient pattern bolt-action rifle. Has a long range but suffers from low rate of fire. It’s unlikely to drive animals to revenge, which makes it a preferred weapon for hunting. \n\nIt comes equipped with delicate but incredibly sharp bioferrite bayonet, which can be used in melee combat to deal substantial sharp damage in case an enemy gets too close. -->
+  <VWEB_Gun_PiercerRifle.description>Um fuzil de ferrolho versátil, embora de concepção antiga. Tem longo alcance, mas baixa cadência de tiro. É pouco provável que leve animais a retaliar, o que o torna uma arma preferida para a caça.\n\nVem equipado com uma baioneta delicada, mas incrivelmente afiada, feita de bioferrita. Ela pode ser usada em combate corpo a corpo para causar bastante dano cortante caso um inimigo se aproxime demais.</VWEB_Gun_PiercerRifle.description>
+
+  <!-- EN: stock -->
+  <VWEB_Gun_PiercerRifle.tools.stock.label>coronha</VWEB_Gun_PiercerRifle.tools.stock.label>
+
+  <!-- EN: bayonet -->
+  <VWEB_Gun_PiercerRifle.tools.bayonet.label>baioneta</VWEB_Gun_PiercerRifle.tools.bayonet.label>
+
+  <!-- EN: piercer rifle -->
+  <VWEB_Gun_PiercerRifle.verbs.Verb_Shoot.label>fuzil perfurador</VWEB_Gun_PiercerRifle.verbs.Verb_Shoot.label>
+
+</LanguageData>
+
