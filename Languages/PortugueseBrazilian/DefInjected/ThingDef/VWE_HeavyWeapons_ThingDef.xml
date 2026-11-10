@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: exoskeleton frame -->
+  <VWE_Apparel_Exoframe.label>exoesqueleto</VWE_Apparel_Exoframe.label>
+
+  <!-- EN: A wearable frame, powered by a system of hydraulics, electric motors, levers and pneumatics, designed to permit quick movement. Whilst it does not provide any protection, it allows the user to walk faster, lift heavier objects and maintain balance more easily. -->
+  <VWE_Apparel_Exoframe.description>Uma estrutura vestível acionada por sistemas hidráulicos, motores elétricos, alavancas e sistemas pneumáticos, projetada para permitir movimentos rápidos. Embora não ofereça proteção, permite ao usuário andar mais rápido, levantar objetos mais pesados e manter o equilíbrio com mais facilidade.</VWE_Apparel_Exoframe.description>
+
+  <!-- EN: heavy flamer shot -->
+  <VWE_Bullet_HeavyFlamer.label>disparo de lança-chamas pesado</VWE_Bullet_HeavyFlamer.label>
+
+  <!-- EN: swarm rocket -->
+  <VWE_Bullet_SwarmRocket.label>foguete de enxame</VWE_Bullet_SwarmRocket.label>
+
+  <!-- EN: autocannon -->
+  <VWE_Gun_Autocannon.label>canhão automático</VWE_Gun_Autocannon.label>
+
+  <!-- EN: A self-loading large-bore cannon. Its large-caliber shells do heavy damage over significant ranges. It's slow to aim and it cannot fire at close-up targets.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\n\nThis weapon has limited number of uses. -->
+  <VWE_Gun_Autocannon.description>Um canhão de grande calibre com carregamento automático. Seus projéteis de grande calibre causam grandes danos a distâncias consideráveis. É lento para mirar e não pode disparar contra alvos muito próximos.\n\nPor ser extremamente pesada, esta arma exige uma armadura motorizada para ser usada com eficácia.\n\nEsta arma tem um número limitado de usos.</VWE_Gun_Autocannon.description>
+
+  <!-- EN: grip -->
+  <VWE_Gun_Autocannon.tools.grip.label>cabo</VWE_Gun_Autocannon.tools.grip.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_Autocannon.tools.barrel.label>cano</VWE_Gun_Autocannon.tools.barrel.label>
+
+  <!-- EN: autocannon -->
+  <VWE_Gun_Autocannon.verbs.Verb_Shoot.label>canhão automático</VWE_Gun_Autocannon.verbs.Verb_Shoot.label>
+
+  <!-- EN: handheld mortar -->
+  <VWE_Gun_HandheldMortar.label>morteiro portátil</VWE_Gun_HandheldMortar.label>
+
+  <!-- EN: Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. It's slow to aim and it cannot fire at close-up targets.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\n\nThis weapon has limited number of uses. -->
+  <VWE_Gun_HandheldMortar.description>Um lançador de morteiro que dispara bombas por cima de paredes. Muito impreciso, mas de longo alcance. É lento para mirar e não pode disparar contra alvos muito próximos.\n\nPor ser extremamente pesada, esta arma exige uma armadura motorizada para ser usada com eficácia.\n\nEsta arma tem um número limitado de usos.</VWE_Gun_HandheldMortar.description>
+
+  <!-- EN: grip -->
+  <VWE_Gun_HandheldMortar.tools.grip.label>cabo</VWE_Gun_HandheldMortar.tools.grip.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_HandheldMortar.tools.barrel.label>cano</VWE_Gun_HandheldMortar.tools.barrel.label>
+
+  <!-- EN: handheld mortar -->
+  <VWE_Gun_HandheldMortar.verbs.Verb_Shoot.label>morteiro portátil</VWE_Gun_HandheldMortar.verbs.Verb_Shoot.label>
+
+  <!-- EN: heavy flamer -->
+  <VWE_Gun_HeavyFlamer.label>lança-chamas pesado</VWE_Gun_HeavyFlamer.label>
+
+  <!-- EN: A powerful, military-grade flamer based on mechanoid inferno spewers. It can cover the entire area in front of the user in flames.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\n\nThis weapon has limited number of uses. -->
+  <VWE_Gun_HeavyFlamer.description>Um potente lança-chamas de uso militar, baseado nos lançadores infernais dos mecanoides. Pode cobrir de chamas toda a área à frente do usuário.\n\nPor ser extremamente pesada, esta arma exige uma armadura motorizada para ser usada com eficácia.\n\nEsta arma tem um número limitado de usos.</VWE_Gun_HeavyFlamer.description>
+
+  <!-- EN: grip -->
+  <VWE_Gun_HeavyFlamer.tools.grip.label>cabo</VWE_Gun_HeavyFlamer.tools.grip.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_HeavyFlamer.tools.barrel.label>cano</VWE_Gun_HeavyFlamer.tools.barrel.label>
+
+  <!-- EN: heavy flamer -->
+  <VWE_Gun_HeavyFlamer.verbs.Verb_Shoot.label>lança-chamas pesado</VWE_Gun_HeavyFlamer.verbs.Verb_Shoot.label>
+
+  <!-- EN: swarm missile launcher -->
+  <VWE_Gun_SwarmMissileLauncher.label>lançador de mísseis em enxame</VWE_Gun_SwarmMissileLauncher.label>
+
+  <!-- EN: A rocket launcher that fires eight small-bore explosive missiles that track different targets.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\n\nThis weapon has limited number of uses. -->
+  <VWE_Gun_SwarmMissileLauncher.description>Um lançador de foguetes que dispara oito mísseis explosivos de pequeno calibre, capazes de perseguir alvos diferentes.\n\nPor ser extremamente pesada, esta arma exige uma armadura motorizada para ser usada com eficácia.\n\nEsta arma tem um número limitado de usos.</VWE_Gun_SwarmMissileLauncher.description>
+
+  <!-- EN: grip -->
+  <VWE_Gun_SwarmMissileLauncher.tools.grip.label>cabo</VWE_Gun_SwarmMissileLauncher.tools.grip.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_SwarmMissileLauncher.tools.barrel.label>cano</VWE_Gun_SwarmMissileLauncher.tools.barrel.label>
+
+  <!-- EN: swarm missile launcher -->
+  <VWE_Gun_SwarmMissileLauncher.verbs.Verb_Shoot.label>lançador de mísseis em enxame</VWE_Gun_SwarmMissileLauncher.verbs.Verb_Shoot.label>
+
+  <!-- EN: uranium slug rifle -->
+  <VWE_Gun_UraniumSlugRifle.label>rifle de urânio</VWE_Gun_UraniumSlugRifle.label>
+
+  <!-- EN: A self-loading uranium slug cannon. Its ultra-dense uranium shells can punch through heavy armor. It's more accurate at longer ranges, and can't fire at all close up.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\n\nThis weapon has limited number of uses. -->
+  <VWE_Gun_UraniumSlugRifle.description>Um canhão de projéteis de urânio com carregamento automático. Seus projéteis de urânio ultradensos podem perfurar armaduras pesadas. É mais preciso a longas distâncias e não pode disparar contra alvos muito próximos.\n\nPor ser extremamente pesada, esta arma exige uma armadura motorizada para ser usada com eficácia.\n\nEsta arma tem um número limitado de usos.</VWE_Gun_UraniumSlugRifle.description>
+
+  <!-- EN: grip -->
+  <VWE_Gun_UraniumSlugRifle.tools.grip.label>cabo</VWE_Gun_UraniumSlugRifle.tools.grip.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_UraniumSlugRifle.tools.barrel.label>cano</VWE_Gun_UraniumSlugRifle.tools.barrel.label>
+
+  <!-- EN: uranium slug rifle -->
+  <VWE_Gun_UraniumSlugRifle.verbs.Verb_Shoot.label>rifle de urânio</VWE_Gun_UraniumSlugRifle.verbs.Verb_Shoot.label>
+
+</LanguageData>
+
