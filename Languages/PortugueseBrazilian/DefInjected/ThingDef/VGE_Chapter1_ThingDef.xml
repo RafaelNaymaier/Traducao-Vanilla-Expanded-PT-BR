@@ -47,17 +47,17 @@
   <VGE_Agrocell.label>agrocélula</VGE_Agrocell.label>
   <VGE_Agrocell.description>Uma unidade de cultivo fechada e eficiente em termos de espaço, projetada para uso em gravinaves. Construída no piso para movimento desimpedido, possui lâmpadas solares integradas e um sistema de nutrientes que deve permanecer ligado, pois as plantas morrerão se a energia for cortada.</VGE_Agrocell.description>
 
-  <VGE_AmmoBox_GaussShell.label>caixa de munição de projétil gauss</VGE_AmmoBox_GaussShell.label>
-  <VGE_AmmoBox_GaussShell.description>Uma caixa de pequeno porte contendo grandes projéteis de urânio. Usada por diferentes torres de artilharia gauss para recarregar. Uma caixa é alimentada diretamente em uma peça de artilharia de gravinave adjacente quando precisa ser recarregada.</VGE_AmmoBox_GaussShell.description>
+  <VGE_AmmoBox_GaussShell.label>caixa de projéteis para artilharia eletromagnética</VGE_AmmoBox_GaussShell.label>
+  <VGE_AmmoBox_GaussShell.description>Uma caixa de pequeno porte contendo grandes projéteis de urânio. Usada por diferentes torres de artilharia eletromagnética para recarregar. Uma caixa é alimentada diretamente em uma peça de artilharia de gravinave adjacente quando precisa ser recarregada.</VGE_AmmoBox_GaussShell.description>
   
   <VGE_AnticraftCaster.label>lançador antiaéreo</VGE_AnticraftCaster.label>
   <VGE_AnticraftCaster.description>Uma arma de energia de médio porte montada em uma gravinave que dispara rajadas curtas e afiadas de feixe de corte com precisão cirúrgica. Construído para abrir buracos em sistemas críticos, o lançador troca a supressão sustentada por ataques rápidos e precisos. Requer um terminal de mira ligado com um operador para funcionar. Consome muita energia para disparar.</VGE_AnticraftCaster.description>
   
   <VGE_Bullet_AnticraftCaster.label>feixe de lançador antiaéreo</VGE_Bullet_AnticraftCaster.label>
   
-  <VGE_Bullet_GaussGun.label>disparo de canhão gauss</VGE_Bullet_GaussGun.label>
+  <VGE_Bullet_GaussGun.label>projétil de arma eletromagnética</VGE_Bullet_GaussGun.label>
   
-  <VGE_GaussGun.label>canhão gauss</VGE_GaussGun.label>
+  <VGE_GaussGun.label>arma eletromagnética</VGE_GaussGun.label>
   <VGE_GaussGun.description>Um pequeno canhão eletromagnético de cano único que lança projéteis densos de urânio em velocidades extremas. Projetado tanto para bombardeios locais quanto para engajamentos de médio alcance, também pode alvejar outras naves de gravidade em órbita. Requer um terminal de mira ligado com um operador para funcionar. Ele consome energia diretamente do motor de gravidade.</VGE_GaussGun.description>
   <VGE_GaussGun.comps.CompRefuelable.fuelGizmoLabel>projéteis de urânio</VGE_GaussGun.comps.CompRefuelable.fuelGizmoLabel>
   <VGE_GaussGun.comps.CompRefuelable.fuelLabel>projéteis de urânio</VGE_GaussGun.comps.CompRefuelable.fuelLabel>
@@ -66,9 +66,9 @@
   <VGE_Gun_AnticraftCaster.description>Uma arma de energia de médio porte montada em uma gravinave.</VGE_Gun_AnticraftCaster.description>
   <VGE_Gun_AnticraftCaster.verbs.Verb_ShootWithWorldTargeting.label>lançador antiaéreo</VGE_Gun_AnticraftCaster.verbs.Verb_ShootWithWorldTargeting.label>
   
-  <VGE_Gun_GaussGun.label>canhão gauss</VGE_Gun_GaussGun.label>
+  <VGE_Gun_GaussGun.label>arma eletromagnética</VGE_Gun_GaussGun.label>
   <VGE_Gun_GaussGun.description>Um pequeno canhão eletromagnético de cano único.</VGE_Gun_GaussGun.description>
-  <VGE_Gun_GaussGun.verbs.Verb_ShootWithSmoke.label>canhão gauss</VGE_Gun_GaussGun.verbs.Verb_ShootWithSmoke.label>
+  <VGE_Gun_GaussGun.verbs.Verb_ShootWithSmoke.label>arma eletromagnética</VGE_Gun_GaussGun.verbs.Verb_ShootWithSmoke.label>
   
   <VGE_Gun_JavelinPod.label>arma de módulo dardo</VGE_Gun_JavelinPod.label>
   <VGE_Gun_JavelinPod.description>Uma plataforma de mísseis compacta de tubo múltiplo.</VGE_Gun_JavelinPod.description>

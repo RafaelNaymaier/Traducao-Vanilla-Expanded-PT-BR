@@ -47,7 +47,7 @@
   <VWEFT_Gun_HeavyRevolver.verbs.Verb_Shoot.label>revólver pesado</VWEFT_Gun_HeavyRevolver.verbs.Verb_Shoot.label>
 
   <!-- EN: repeating shotgun -->
-  <VWEFT_Gun_RepeatingShotgun.label>espingarda de repetição</VWEFT_Gun_RepeatingShotgun.label>
+  <VWEFT_Gun_RepeatingShotgun.label>espingarda repetidora</VWEFT_Gun_RepeatingShotgun.label>
 
   <!-- EN: An ornate and surprisingly portable shotgun meant to be fired one handed from a mounted position. Packs a punch, earning the title "boomalope leg".\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots. -->
   <VWEFT_Gun_RepeatingShotgun.description>Uma espingarda ornamentada e surpreendentemente portátil, feita para ser disparada com uma só mão enquanto se está montado. Seu impacto é tão forte que lhe rendeu o apelido de "pata de bumalope".\n\nAs histórias de pistoleiros de mundos a vapor sugerem que esta arma e outras semelhantes são capazes de acertar tiros de sorte incríveis de vez em quando.</VWEFT_Gun_RepeatingShotgun.description>
@@ -59,7 +59,7 @@
   <VWEFT_Gun_RepeatingShotgun.tools.barrel.label>cano</VWEFT_Gun_RepeatingShotgun.tools.barrel.label>
 
   <!-- EN: repeating shotgun -->
-  <VWEFT_Gun_RepeatingShotgun.verbs.Verb_Shoot.label>espingarda de repetição</VWEFT_Gun_RepeatingShotgun.verbs.Verb_Shoot.label>
+  <VWEFT_Gun_RepeatingShotgun.verbs.Verb_Shoot.label>espingarda repetidora</VWEFT_Gun_RepeatingShotgun.verbs.Verb_Shoot.label>
 
   <!-- EN: rolling block rifle -->
   <VWEFT_Gun_RollingBlockRifle.label>fuzil de bloco pivotante</VWEFT_Gun_RollingBlockRifle.label>
@@ -92,16 +92,16 @@
   <VWEFT_Gun_VolcanicPistol.verbs.Verb_Shoot.label>pistola Volcanic</VWEFT_Gun_VolcanicPistol.verbs.Verb_Shoot.label>
 
   <!-- EN: gauss repeater sabot -->
-  <VWEFT_Bullet_GaussRepeater.label>sabot de rifle de repetição gauss</VWEFT_Bullet_GaussRepeater.label>
+  <VWEFT_Bullet_GaussRepeater.label>sabot de rifle de repetição eletromagnético</VWEFT_Bullet_GaussRepeater.label>
 
   <!-- EN: gauss revolver sabot -->
-  <VWEFT_Bullet_GaussRevolver.label>sabot de revólver gauss</VWEFT_Bullet_GaussRevolver.label>
+  <VWEFT_Bullet_GaussRevolver.label>sabot de revólver eletromagnético</VWEFT_Bullet_GaussRevolver.label>
 
   <!-- EN: gauss repeater -->
-  <VWEFT_Gun_GaussRepeater.label>rifle de repetição gauss</VWEFT_Gun_GaussRepeater.label>
+  <VWEFT_Gun_GaussRepeater.label>rifle de repetição eletromagnético</VWEFT_Gun_GaussRepeater.label>
 
   <!-- EN: A spacer-tech gauss rifle themed as a steamworld-inspired repeater. A set of coils accelerate terromagnetic sabots capable of penetrating multiple layers of flesh and armor.\n\nJust like its conventional counterpart, this gun supposedly is capable of incredibly lucky shots. -->
-  <VWEFT_Gun_GaussRepeater.description>Um rifle gauss de tecnologia espacial com o visual de um rifle de repetição inspirado nos mundos a vapor. Um conjunto de bobinas acelera sabots terromagnéticos capazes de atravessar várias camadas de carne e armadura.\n\nAssim como sua versão convencional, esta arma supostamente é capaz de acertar tiros de sorte incríveis.</VWEFT_Gun_GaussRepeater.description>
+  <VWEFT_Gun_GaussRepeater.description>Um rifle eletromagnético de tecnologia espacial com o visual de um rifle de repetição inspirado nos mundos a vapor. Um conjunto de bobinas acelera sabots terromagnéticos capazes de atravessar várias camadas de carne e armadura.\n\nAssim como sua versão convencional, esta arma supostamente é capaz de acertar tiros de sorte incríveis.</VWEFT_Gun_GaussRepeater.description>
 
   <!-- EN: stock -->
   <VWEFT_Gun_GaussRepeater.tools.stock.label>coronha</VWEFT_Gun_GaussRepeater.tools.stock.label>
@@ -110,10 +110,10 @@
   <VWEFT_Gun_GaussRepeater.tools.barrel.label>cano</VWEFT_Gun_GaussRepeater.tools.barrel.label>
 
   <!-- EN: gauss repeater -->
-  <VWEFT_Gun_GaussRepeater.verbs.Verb_Shoot.label>rifle de repetição gauss</VWEFT_Gun_GaussRepeater.verbs.Verb_Shoot.label>
+  <VWEFT_Gun_GaussRepeater.verbs.Verb_Shoot.label>rifle de repetição eletromagnético</VWEFT_Gun_GaussRepeater.verbs.Verb_Shoot.label>
 
   <!-- EN: gauss revolver -->
-  <VWEFT_Gun_GaussRevolver.label>revólver gauss</VWEFT_Gun_GaussRevolver.label>
+  <VWEFT_Gun_GaussRevolver.label>revólver eletromagnético</VWEFT_Gun_GaussRevolver.label>
 
   <!-- EN: A spacer-tech revolver for that frontier feel with high-tech power. A coil-array accelerates single shots capable of popping the heads of multiple ne'er do wells in a neat line.\n\nJust like its conventional counterpart, this gun supposedly is capable of incredibly lucky shots. -->
   <VWEFT_Gun_GaussRevolver.description>Um revólver de tecnologia espacial que combina o estilo da fronteira com a potência da alta tecnologia. Um conjunto de bobinas acelera disparos individuais capazes de estourar as cabeças de vários malfeitores bem alinhados.\n\nAssim como sua versão convencional, esta arma supostamente é capaz de acertar tiros de sorte incríveis.</VWEFT_Gun_GaussRevolver.description>
@@ -125,13 +125,13 @@
   <VWEFT_Gun_GaussRevolver.tools.barrel.label>cano</VWEFT_Gun_GaussRevolver.tools.barrel.label>
 
   <!-- EN: gauss revolver -->
-  <VWEFT_Gun_GaussRevolver.verbs.Verb_Shoot.label>revólver gauss</VWEFT_Gun_GaussRevolver.verbs.Verb_Shoot.label>
+  <VWEFT_Gun_GaussRevolver.verbs.Verb_Shoot.label>revólver eletromagnético</VWEFT_Gun_GaussRevolver.verbs.Verb_Shoot.label>
 
   <!-- EN: handheld gatling gun bullet -->
-  <VWEFT_Bullet_HandheldGatlingGun.label>projétil de metralhadora gatling portátil</VWEFT_Bullet_HandheldGatlingGun.label>
+  <VWEFT_Bullet_HandheldGatlingGun.label>projétil de metralhadora rotativa portátil</VWEFT_Bullet_HandheldGatlingGun.label>
 
   <!-- EN: handheld gatling gun -->
-  <VWEFT_Gun_HandheldGatlingGun.label>metralhadora gatling portátil</VWEFT_Gun_HandheldGatlingGun.label>
+  <VWEFT_Gun_HandheldGatlingGun.label>metralhadora rotativa portátil</VWEFT_Gun_HandheldGatlingGun.label>
 
   <!-- EN: A heavy weapon meant as a portable turret, dismantled from its base and now carryable by strong individuals, power armor, or a powered exosuit. Despite this, the gun still requires hand cranking to reach maximum fire rate and now has a limited ammo supply.\n\nAs a last line of defense, many frontiersmen claim to land incredibly lucky shots with this weapon, swiftly turning enemies into fine red mist. -->
   <VWEFT_Gun_HandheldGatlingGun.description>Uma arma pesada que serve como torre portátil. Removida de sua base, pode ser carregada por pessoas fortes ou por quem usa armadura motorizada ou um exotraje motorizado. Ainda exige que uma manivela seja girada à mão para atingir a cadência máxima de tiro e agora tem um suprimento limitado de munição.\n\nMuitos habitantes da fronteira afirmam que, como último recurso de defesa, conseguem acertar tiros de sorte incríveis com esta arma, transformando rapidamente os inimigos em uma fina névoa vermelha.</VWEFT_Gun_HandheldGatlingGun.description>
@@ -140,7 +140,7 @@
   <VWEFT_Gun_HandheldGatlingGun.tools.barrels.label>canos</VWEFT_Gun_HandheldGatlingGun.tools.barrels.label>
 
   <!-- EN: handheld gatling gun -->
-  <VWEFT_Gun_HandheldGatlingGun.verbs.Verb_Shoot.label>metralhadora gatling portátil</VWEFT_Gun_HandheldGatlingGun.verbs.Verb_Shoot.label>
+  <VWEFT_Gun_HandheldGatlingGun.verbs.Verb_Shoot.label>metralhadora rotativa portátil</VWEFT_Gun_HandheldGatlingGun.verbs.Verb_Shoot.label>
 
   <!-- EN: unstable precise laser shot -->
   <VWEFT_Bullet_SalvagedLaserHuntingRifle.label>disparo laser preciso e instável</VWEFT_Bullet_SalvagedLaserHuntingRifle.label>

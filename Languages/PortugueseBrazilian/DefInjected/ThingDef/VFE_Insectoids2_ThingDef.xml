@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <VFEI2_LargeBurrow.label>toca insetoide grande</VFEI2_LargeBurrow.label>
@@ -187,8 +187,8 @@
   <VFEI2_Thumper_Teramantis.description>Um dispositivo bate-estaca produtor de vibrações. Quando ativado, começa a emitir pulsos de batida poderosos, que atrairão uma teramantis insetoide para atacar junto de sua escolta. Se você conseguir derrotá-la, poderá coletar um feronúcleo especial de seu cadáver. As batidas desestabilizam o bate-estaca, portanto, esta estrutura só pode ser usada uma vez.</VFEI2_Thumper_Teramantis.description>
   <VFEI2_Thumper_Teramantis.comps.CompUsable.useLabel>Ativar bate-estaca</VFEI2_Thumper_Teramantis.comps.CompUsable.useLabel>
   
-  <VFEI2_Thumper_Titantick.label>bate-estaca de peçonhácaro</VFEI2_Thumper_Titantick.label>
-  <VFEI2_Thumper_Titantick.description>Um dispositivo bate-estaca produtor de vibrações. Quando ativado, começa a emitir pulsos de batida poderosos, que atrairão um peçonhácaro insetoide para atacar junto de sua escolta. Se você conseguir derrotá-lo, poderá coletar um feronúcleo especial de seu cadáver. As batidas desestabilizam o bate-estaca, portanto, esta estrutura só pode ser usada uma vez.</VFEI2_Thumper_Titantick.description>
+  <VFEI2_Thumper_Titantick.label>bate-estaca de titancarrapato</VFEI2_Thumper_Titantick.label>
+  <VFEI2_Thumper_Titantick.description>Um dispositivo bate-estaca produtor de vibrações. Quando ativado, começa a emitir pulsos de batida poderosos, que atrairão um titancarrapato insetoide para atacar junto de sua escolta. Se você conseguir derrotá-lo, poderá coletar um feronúcleo especial de seu cadáver. As batidas desestabilizam o bate-estaca, portanto, esta estrutura só pode ser usada uma vez.</VFEI2_Thumper_Titantick.description>
   <VFEI2_Thumper_Titantick.comps.CompUsable.useLabel>Ativar bate-estaca</VFEI2_Thumper_Titantick.comps.CompUsable.useLabel>
 
   <VFEI_Mote_CocoonDestroyedFlyingPiece.label>partícula</VFEI_Mote_CocoonDestroyedFlyingPiece.label>
@@ -247,8 +247,8 @@
   <VFEI2_Acidspitter.tools.mandibles.label>mandíbulas</VFEI2_Acidspitter.tools.mandibles.label>
   <VFEI2_Acidspitter.tools.head.label>cabeça</VFEI2_Acidspitter.tools.head.label>
 
-  <VFEI2_Boomtick.label>bumácaro</VFEI2_Boomtick.label>
-  <VFEI2_Boomtick.description>Um carrapato grande e geneticamente modificado. Criado com o propósito de refinar combustível no planeta fundido de Nuchadus, o bumácaro é agora visto com frequência em muitos planetas, onde é considerado uma praga perigosa e volátil. Seu saco de combustível químico explode ao morrer, incendiando tudo ao redor. Uma criatura eussocial, não pode se reproduzir individualmente.</VFEI2_Boomtick.description>
+  <VFEI2_Boomtick.label>bumarrapato</VFEI2_Boomtick.label>
+  <VFEI2_Boomtick.description>Um carrapato grande e geneticamente modificado. Criado com o propósito de refinar combustível no planeta fundido de Nuchadus, o bumarrapato é agora visto com frequência em muitos planetas, onde é considerado uma praga perigosa e volátil. Seu saco de combustível químico explode ao morrer, incendiando tudo ao redor. Uma criatura eussocial, não pode se reproduzir individualmente.</VFEI2_Boomtick.description>
   <VFEI2_Boomtick.tools.mandibles.label>mandíbulas</VFEI2_Boomtick.tools.mandibles.label>
   <VFEI2_Boomtick.tools.head.label>cabeça</VFEI2_Boomtick.tools.head.label>
 
@@ -293,14 +293,14 @@
   <VFEI2_Macrofly.tools.head_claw.label>garra da cabeça</VFEI2_Macrofly.tools.head_claw.label>
   <VFEI2_Macrofly.tools.head.label>cabeça</VFEI2_Macrofly.tools.head.label>
 
-  <VFEI2_Megapede.label>megapeia</VFEI2_Megapede.label>
+  <VFEI2_Megapede.label>megacentopeia</VFEI2_Megapede.label>
   <VFEI2_Megapede.description>Um insetoide gigante e pesado que desliza sobre dúzias de patas minúsculas. Sua espessa armadura de quitina e mandíbulas afiadas do tamanho das presas de um elefante a tornam uma excelente máquina de cerco. Por serem extremamente lentas, são um tanto vulneráveis a táticas de bater e correr.</VFEI2_Megapede.description>
   <VFEI2_Megapede.tools.head_claw.label>garra da cabeça</VFEI2_Megapede.tools.head_claw.label>
   <VFEI2_Megapede.tools.mandibles.label>mandíbulas</VFEI2_Megapede.tools.mandibles.label>
   <VFEI2_Megapede.tools.head.label>cabeça</VFEI2_Megapede.tools.head.label>
 
-  <VFEI2_Megathrips.label>tripes</VFEI2_Megathrips.label>
-  <VFEI2_Megathrips.description>Um tripes grande e geneticamente modificado. Uma casta operária de um ecossistema artificial de insetoides projetado para lutar contra humanos em guerras de grande escala, agora compõe a maioria das colmeias da linhagem Kemian. O tripes usa mandíbulas afiadas para rasgar armaduras em pedaços, enquanto glândulas de ácido sobrecarregadas cobrem a carne exposta com uma substância corrosiva, causando queimaduras graves. Uma criatura eussocial, não pode se reproduzir individualmente.</VFEI2_Megathrips.description>
+  <VFEI2_Megathrips.label>megatripes</VFEI2_Megathrips.label>
+  <VFEI2_Megathrips.description>Um megatripes grande e geneticamente modificado. Uma casta operária de um ecossistema artificial de insetoides projetado para lutar contra humanos em guerras de grande escala, agora compõe a maioria das colmeias da linhagem Kemian. O megatripes usa mandíbulas afiadas para rasgar armaduras em pedaços, enquanto glândulas de ácido sobrecarregadas cobrem a carne exposta com uma substância corrosiva, causando queimaduras graves. Uma criatura eussocial, não pode se reproduzir individualmente.</VFEI2_Megathrips.description>
   <VFEI2_Megathrips.tools.mandibles.label>mandíbulas</VFEI2_Megathrips.tools.mandibles.label>
   <VFEI2_Megathrips.tools.head.label>cabeça</VFEI2_Megathrips.tools.head.label>
 
@@ -315,8 +315,8 @@
   <VFEI2_Patriarch.tools.front_claw.label>garra frontal</VFEI2_Patriarch.tools.front_claw.label>
   <VFEI2_Patriarch.tools.head.label>cabeça</VFEI2_Patriarch.tools.head.label>
 
-  <VFEI2_Queen.label>rainha insetoide</VFEI2_Queen.label>
-  <VFEI2_Queen.description>Um insetoide gigante, geneticamente modificado, responsável por criar novas proles. Uma progenitora para os insetos em sua colmeia, a rainha não faz trabalho pesado e tenta evitar o combate, se possível. Tão massiva quanto um thrumbo adulto, a rainha infunde medo na maioria dos oponentes. Sua espessa armadura de quitina a torna difícil de matar, enquanto lâminas longas e letais podem rasgar blindagens de plastaço em segundos. Apesar de ser bastante lenta em terreno aberto, uma rainha insetoide é capaz de criar novos enxames de larvas em um ritmo acelerado e nunca deve ter permissão para se estabelecer.</VFEI2_Queen.description>
+  <VFEI2_Queen.label>princesa insetoide</VFEI2_Queen.label>
+  <VFEI2_Queen.description>Um insetoide gigante, geneticamente modificado, responsável por criar novas proles. Uma progenitora para os insetos em sua colmeia, a princesa não faz trabalho pesado e tenta evitar o combate, se possível. Tão massiva quanto um thrumbo adulto, a princesa infunde medo na maioria dos oponentes. Sua espessa armadura de quitina a torna difícil de matar, enquanto lâminas longas e letais podem rasgar blindagens de plastaço em segundos. Apesar de ser bastante lenta em terreno aberto, uma princesa insetoide é capaz de criar novos enxaminhos em um ritmo acelerado e nunca deve ter permissão para se estabelecer.</VFEI2_Queen.description>
   <VFEI2_Queen.tools.head_claw.label>garra da cabeça</VFEI2_Queen.tools.head_claw.label>
   <VFEI2_Queen.tools.head.label>cabeça</VFEI2_Queen.tools.head.label>
 
@@ -342,8 +342,8 @@
   <VFEI2_Silverfish.tools.left_claw.label>garra esquerda</VFEI2_Silverfish.tools.left_claw.label>
   <VFEI2_Silverfish.tools.head.label>cabeça</VFEI2_Silverfish.tools.head.label>
 
-  <VFEI2_Swarmling.label>enxameantes</VFEI2_Swarmling.label>
-  <VFEI2_Swarmling.description>A forma juvenil dos insetoides, os enxameantes são mais ou menos inofensivos, lentos e fáceis de matar. Após algum tempo, eles passam por uma metamorfose, formando um casulo do qual um insetoide adulto emergirá. Não há como saber que tipo de inseto sairá de seu casulo.</VFEI2_Swarmling.description>
+  <VFEI2_Swarmling.label>enxaminhos</VFEI2_Swarmling.label>
+  <VFEI2_Swarmling.description>A forma juvenil dos insetoides, os enxaminhos são mais ou menos inofensivos, lentos e fáceis de matar. Após algum tempo, eles passam por uma metamorfose, formando um casulo do qual um insetoide adulto emergirá. Não há como saber que tipo de inseto sairá de seu casulo.</VFEI2_Swarmling.description>
   <VFEI2_Swarmling.tools.mouth.label>boca</VFEI2_Swarmling.tools.mouth.label>
 
   <VFEI2_Tankroach.label>baratanque</VFEI2_Tankroach.label>
@@ -375,3 +375,4 @@
 
   
 </LanguageData>
+

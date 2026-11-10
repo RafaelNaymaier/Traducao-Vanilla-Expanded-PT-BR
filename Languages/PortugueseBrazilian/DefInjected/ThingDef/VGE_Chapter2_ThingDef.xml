@@ -57,13 +57,13 @@
   <!-- EN: anticraft emitter beam -->
   <VGE_Bullet_AnticraftEmitter.label>feixe do emissor antiaéreo</VGE_Bullet_AnticraftEmitter.label>
   <!-- EN: Gauss howitzer shot -->
-  <VGE_Bullet_GaussHowitzer.label>projétil de Obuseiro Gauss</VGE_Bullet_GaussHowitzer.label>
+  <VGE_Bullet_GaussHowitzer.label>projétil de obuseiro eletromagnético</VGE_Bullet_GaussHowitzer.label>
   <!-- EN: autocannon shell -->
   <VGE_Bullet_GravshipAutocannon.label>munição de autocanhão</VGE_Bullet_GravshipAutocannon.label>
   <!-- EN: uranium slug -->
   <VGE_Bullet_GravshipUraniumSlug.label>projétil de urânio</VGE_Bullet_GravshipUraniumSlug.label>
   <!-- EN: gauss howitzer -->
-  <VGE_GaussHowitzer.label>Obuseiro Gauss</VGE_GaussHowitzer.label>
+  <VGE_GaussHowitzer.label>obuseiro eletromagnético</VGE_GaussHowitzer.label>
   <!-- EN: A triple-barrel electromagnetic artillery piece that fires dense uranium slugs at high velocity. Designed for both local bombardments and long-range engagements, it can also target other gravships in orbit. Requires a linked targeting terminal with an operator to function. It draws power directly from the grav engine. -->
   <VGE_GaussHowitzer.description>Uma arma de artilharia eletromagnética de três canos que dispara projéteis densos de urânio em alta velocidade. Projetada para bombardeios locais e engajamentos de longo alcance, também pode mirar em outras gravinaves em órbita. Exige um terminal de mira ligado com um operador para funcionar. Extrai energia diretamente do motor gravitacional.</VGE_GaussHowitzer.description>
   <!-- EN: gravmine -->
@@ -89,11 +89,11 @@
   <!-- EN: anticraft emitter -->
   <VGE_Gun_AnticraftEmitter.verbs.Verb_ShootWithWorldTargeting.label>emissor antiaéreo</VGE_Gun_AnticraftEmitter.verbs.Verb_ShootWithWorldTargeting.label>
   <!-- EN: gauss howitzer -->
-  <VGE_Gun_GaussHowitzer.label>Obuseiro Gauss</VGE_Gun_GaussHowitzer.label>
+  <VGE_Gun_GaussHowitzer.label>obuseiro eletromagnético</VGE_Gun_GaussHowitzer.label>
   <!-- EN: A triple-barrel electromagnetic artillery piece. -->
   <VGE_Gun_GaussHowitzer.description>Uma peça de artilharia eletromagnética de três canos.</VGE_Gun_GaussHowitzer.description>
   <!-- EN: gauss howitzer -->
-  <VGE_Gun_GaussHowitzer.verbs.Verb_ShootWithSmoke.label>Obuseiro Gauss</VGE_Gun_GaussHowitzer.verbs.Verb_ShootWithSmoke.label>
+  <VGE_Gun_GaussHowitzer.verbs.Verb_ShootWithSmoke.label>obuseiro eletromagnético</VGE_Gun_GaussHowitzer.verbs.Verb_ShootWithSmoke.label>
   <!-- EN: gravship autocannon -->
   <VGE_Gun_GravshipAutocannon.label>autocanhão de gravinave</VGE_Gun_GravshipAutocannon.label>
   <!-- EN: gravship autocannon -->
@@ -339,9 +339,9 @@
   <!-- EN: defender turret bullet -->
   <VGE_Bullet_DefenderTurret.label>Projétil da torreta defensora</VGE_Bullet_DefenderTurret.label>
   <!-- EN: gauss bombard shot -->
-  <VGE_Bullet_GaussBombard.label>Disparo de bombardeio Gauss</VGE_Bullet_GaussBombard.label>
+  <VGE_Bullet_GaussBombard.label>projétil de bombarda eletromagnética</VGE_Bullet_GaussBombard.label>
   <!-- EN: gauss cannon shot -->
-  <VGE_Bullet_GaussCannon.label>Disparo de canhão Gauss</VGE_Bullet_GaussCannon.label>
+  <VGE_Bullet_GaussCannon.label>projétil de canhão eletromagnético</VGE_Bullet_GaussCannon.label>
   <!-- EN: enemy algae oxygenator -->
   <VGE_EnemyAlgaeOxygenator.label>Oxigenador de algas inimigo</VGE_EnemyAlgaeOxygenator.label>
   <!-- EN: A vital device that processes harvested oxyalgae into breathable oxygen. Converts biomass into gas and pumps it into the oxygen network to supply pressurized rooms and equipment.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
@@ -367,25 +367,25 @@
   <!-- EN: A specialized structure that refines chemfuel into high-grade astrofuel.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyAstrofuelSynthesizer.description>Uma estrutura especializada que refina Combustível químico para produzir astrocombustível de alta qualidade.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyAstrofuelSynthesizer.description>
   <!-- EN: enemy gauss bombard -->
-  <VGE_EnemyGaussBombard.label>bombardeio Gauss inimigo</VGE_EnemyGaussBombard.label>
+  <VGE_EnemyGaussBombard.label>bombarda eletromagnética inimiga</VGE_EnemyGaussBombard.label>
   <!-- EN: A heavy, slow-firing electromagnetic launcher that discharges bursts of two kinetic impactors. Designed to bombard locations designated by an orbital bombardment targeter.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyGaussBombard.description>Um lançador eletromagnético pesado e de disparo lento, que dispara rajadas de dois projéteis cinéticos. Projetado para bombardear locais designados por um marcador de bombardeio orbital.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyGaussBombard.description>
   <!-- EN: enemy gauss cannon -->
-  <VGE_EnemyGaussCannon.label>canhão Gauss inimigo</VGE_EnemyGaussCannon.label>
+  <VGE_EnemyGaussCannon.label>canhão eletromagnético inimigo</VGE_EnemyGaussCannon.label>
   <!-- EN: A massive, single-barrel anti-ship cannon that uses powerful electromagnets to launch large metallic darts at extreme velocities. While formidable, ships equipped with ultratech signal jammers can temporarily paralyze its targeting systems, rendering it unable to fire during the disruption.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be destroyed to yield some valuable resources, including a gravcore. -->
   <VGE_EnemyGaussCannon.description>Um canhão antinave enorme, de cano único, que usa eletroímãs poderosos para lançar dardos metálicos a velocidades extremas. Bloqueadores de sinais ultratecnológicos podem paralisar temporariamente seus sistemas de mira, impedindo o disparo durante a interferência.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser destruído para recuperar recursos valiosos, incluindo um gravicore.</VGE_EnemyGaussCannon.description>
   <!-- EN: Contains: Gravcore -->
   <VGE_EnemyGaussCannon.comps.CompInspectString.inspectString>Contém: Gravicore</VGE_EnemyGaussCannon.comps.CompInspectString.inspectString>
   <!-- EN: Gauss cannon -->
-  <VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.label>Canhão Gauss</VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.label>
+  <VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.label>Canhão eletromagnético</VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.label>
   <!-- EN: You've discovered a gauss cannon, a devastating piece of orbital artillery. Destroy it to eliminate the threat and obtain a gravcore. -->
-  <VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.text>Você descobriu um canhão Gauss, uma peça devastadora de artilharia orbital. Destrua-o para eliminar a ameaça e obter um gravicore.</VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.text>
+  <VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.text>Você descobriu um canhão eletromagnético, uma peça devastadora de artilharia orbital. Destrua-o para eliminar a ameaça e obter um gravicore.</VGE_EnemyGaussCannon.comps.CompLetterOnRevealed.text>
   <!-- EN: enemy gauss gun -->
-  <VGE_EnemyGaussGun.label>arma Gauss inimiga</VGE_EnemyGaussGun.label>
+  <VGE_EnemyGaussGun.label>arma eletromagnética inimiga</VGE_EnemyGaussGun.label>
   <!-- EN: A small, single-barrel electromagnetic cannon that launches dense uranium slugs at extreme velocities. Designed for both local bombardments and medium-range engagements, it can also target other gravships in orbit. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyGaussGun.description>Um canhão eletromagnético pequeno, de cano único, que lança projéteis densos de urânio a velocidades extremas. Projetado para bombardeios locais e combates de médio alcance, também pode mirar em outras gravinaves em órbita. Extrai energia diretamente do motor gravitacional e não precisa de um terminal conectado para funcionar.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyGaussGun.description>
   <!-- EN: enemy gauss howitzer -->
-  <VGE_EnemyGaussHowitzer.label>Obuseiro Gauss inimigo</VGE_EnemyGaussHowitzer.label>
+  <VGE_EnemyGaussHowitzer.label>obuseiro eletromagnético inimigo</VGE_EnemyGaussHowitzer.label>
   <!-- EN: A triple-barrel electromagnetic artillery piece that fires dense uranium slugs at high velocity. Designed for both local bombardments and long-range engagements, it can also target other gravships in orbit. It draws power directly from the grav engine and does not require a linked terminal to function.\n\nThis particular device is owned by the enemy and can't be decrypted or unlocked. It can still be deconstructed to yield some valuable resources. -->
   <VGE_EnemyGaussHowitzer.description>Uma peça de artilharia eletromagnética de três canos que dispara projéteis densos de urânio em alta velocidade. Projetada para bombardeios locais e combates de longo alcance, também pode mirar em outras gravinaves em órbita. Extrai energia diretamente do motor gravitacional e não precisa de um terminal conectado para funcionar.\n\nEste dispositivo pertence ao inimigo e não pode ser decifrado nem desbloqueado. Ainda pode ser desmontado para recuperar recursos valiosos.</VGE_EnemyGaussHowitzer.description>
   <!-- EN: enemy giant thruster -->
@@ -527,25 +527,25 @@
   <!-- EN: enemy anticraft caster -->
   <VGE_Gun_EnemyAnticraftCaster.verbs.Verb_ShootWithWorldTargeting.label>lançador antiaéreo inimigo</VGE_Gun_EnemyAnticraftCaster.verbs.Verb_ShootWithWorldTargeting.label>
   <!-- EN: enemy gauss bombard -->
-  <VGE_Gun_EnemyGaussBombard.label>bombardeio Gauss inimigo</VGE_Gun_EnemyGaussBombard.label>
+  <VGE_Gun_EnemyGaussBombard.label>bombarda eletromagnética inimiga</VGE_Gun_EnemyGaussBombard.label>
   <!-- EN: A heavy, slow-firing electromagnetic launcher. -->
   <VGE_Gun_EnemyGaussBombard.description>Um lançador eletromagnético pesado e de disparo lento.</VGE_Gun_EnemyGaussBombard.description>
   <!-- EN: enemy gauss bombard -->
-  <VGE_Gun_EnemyGaussBombard.verbs.Verb_ShootWithSmoke.label>bombardeio Gauss inimigo</VGE_Gun_EnemyGaussBombard.verbs.Verb_ShootWithSmoke.label>
+  <VGE_Gun_EnemyGaussBombard.verbs.Verb_ShootWithSmoke.label>bombarda eletromagnética inimiga</VGE_Gun_EnemyGaussBombard.verbs.Verb_ShootWithSmoke.label>
   <!-- EN: enemy gauss cannon -->
-  <VGE_Gun_EnemyGaussCannon.label>canhão Gauss inimigo</VGE_Gun_EnemyGaussCannon.label>
+  <VGE_Gun_EnemyGaussCannon.label>canhão eletromagnético inimigo</VGE_Gun_EnemyGaussCannon.label>
   <!-- EN: An incredibly powerful anti-ship gauss artillery mounted on an orbital station. -->
-  <VGE_Gun_EnemyGaussCannon.description>Uma artilharia Gauss anti-navio incrivelmente poderosa montada em uma estação orbital.</VGE_Gun_EnemyGaussCannon.description>
+  <VGE_Gun_EnemyGaussCannon.description>Uma peça de artilharia eletromagnética antinave incrivelmente poderosa, montada em uma estação orbital.</VGE_Gun_EnemyGaussCannon.description>
   <!-- EN: enemy gauss cannon -->
-  <VGE_Gun_EnemyGaussCannon.verbs.Verb_ShootWithSmoke.label>canhão Gauss inimigo</VGE_Gun_EnemyGaussCannon.verbs.Verb_ShootWithSmoke.label>
+  <VGE_Gun_EnemyGaussCannon.verbs.Verb_ShootWithSmoke.label>canhão eletromagnético inimigo</VGE_Gun_EnemyGaussCannon.verbs.Verb_ShootWithSmoke.label>
   <!-- EN: enemy gauss gun -->
-  <VGE_Gun_EnemyGaussGun.label>arma Gauss inimiga</VGE_Gun_EnemyGaussGun.label>
+  <VGE_Gun_EnemyGaussGun.label>arma eletromagnética inimiga</VGE_Gun_EnemyGaussGun.label>
   <!-- EN: enemy gauss gun -->
-  <VGE_Gun_EnemyGaussGun.verbs.Verb_ShootWithSmoke.label>arma Gauss inimiga</VGE_Gun_EnemyGaussGun.verbs.Verb_ShootWithSmoke.label>
+  <VGE_Gun_EnemyGaussGun.verbs.Verb_ShootWithSmoke.label>arma eletromagnética inimiga</VGE_Gun_EnemyGaussGun.verbs.Verb_ShootWithSmoke.label>
   <!-- EN: enemy gauss howitzer -->
-  <VGE_Gun_EnemyGaussHowitzer.label>Obuseiro Gauss inimigo</VGE_Gun_EnemyGaussHowitzer.label>
+  <VGE_Gun_EnemyGaussHowitzer.label>obuseiro eletromagnético inimigo</VGE_Gun_EnemyGaussHowitzer.label>
   <!-- EN: enemy gauss howitzer -->
-  <VGE_Gun_EnemyGaussHowitzer.verbs.Verb_ShootWithSmoke.label>Obuseiro Gauss inimigo</VGE_Gun_EnemyGaussHowitzer.verbs.Verb_ShootWithSmoke.label>
+  <VGE_Gun_EnemyGaussHowitzer.verbs.Verb_ShootWithSmoke.label>obuseiro eletromagnético inimigo</VGE_Gun_EnemyGaussHowitzer.verbs.Verb_ShootWithSmoke.label>
   <!-- EN: gravship autocannon -->
   <VGE_Gun_EnemyGravshipAutocannon.label>autocanhão de gravinave</VGE_Gun_EnemyGravshipAutocannon.label>
   <!-- EN: gravship autocannon -->
@@ -911,7 +911,7 @@
   <!-- EN: warcomputer -->
   <VGE_Warcomputer.label>Computador de guerra</VGE_Warcomputer.label>
   <!-- EN: The tactical supercomputer core of a gravship. It enhances the weapons and defenses of the gravship: it makes gauss artillery more accurate, javelin missiles fire faster, anticraft beam weaponry fire longer bursts, and point defense turrets intercept projectiles at greater distances. It draws power directly from the grav engine. -->
-  <VGE_Warcomputer.description>O núcleo do supercomputador tático de uma gravinave. Ele melhora as armas e defesas da gravinave: torna a artilharia gauss mais precisa, os mísseis Javelin disparam mais rápido, as armas de feixe antiaéreo disparam rajadas mais longas e as torres de defesa de ponto interceptam projéteis a distâncias maiores. Extrai energia diretamente do motor de gravidade.</VGE_Warcomputer.description>
+  <VGE_Warcomputer.description>O núcleo do supercomputador tático de uma gravinave. Ele melhora as armas e defesas da gravinave: torna a artilharia eletromagnética mais precisa, os mísseis Javelin disparam mais rápido, as armas de feixe antiaéreo disparam rajadas mais longas e as torres de defesa de ponto interceptam projéteis a distâncias maiores. Extrai energia diretamente do motor de gravidade.</VGE_Warcomputer.description>
   <!-- EN: gravship armor -->
   <VGE_GravshipArmor.label>Armadura de gravinave</VGE_GravshipArmor.label>
   <!-- EN: A heavily reinforced airtight wall designed to withstand extreme impacts and hostile fire in the vacuum of space. The wall connects directly into the underlying substructure, meaning it can only be built on a gravship. -->
