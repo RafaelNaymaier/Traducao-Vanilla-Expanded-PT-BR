@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: salvaged laser weapons -->
+  <VWE_LaserWeapons.label>armas laser recuperadas</VWE_LaserWeapons.label>
+
+  <!-- EN: Learn to break down and salvage advanced components into unstable, experimental laser weaponry. -->
+  <VWE_LaserWeapons.description>Aprenda a desmontar e reaproveitar componentes avançados para criar armamentos laser instáveis e experimentais.</VWE_LaserWeapons.description>
+
+  <!-- EN:
+    <li>subject->the beacon of innovation</li>
+    <li>subject_story->ventured into the unknown by dismantling advanced technology to forge experimental laser weapons</li>
+    <li>subject_story->combined salvaged components with cutting-edge research, creating armaments that blaze with the power of controlled light</li>
+    <li>subject_gerund->illuminating the path to superiority with the brilliance of salvaged laser weaponry</li>
+  -->
+  <VWE_LaserWeapons.generalRules.rulesStrings>
+    <li>subject->o farol da inovação</li>
+    <li>subject_story->aventurou-se pelo desconhecido, desmontando tecnologia avançada para criar armas laser experimentais</li>
+    <li>subject_story->combinou componentes recuperados com pesquisas de ponta, criando armamentos que resplandecem com o poder da luz controlada</li>
+    <li>subject_gerund->iluminando o caminho para a superioridade com o brilho das armas laser recuperadas</li>
+  </VWE_LaserWeapons.generalRules.rulesStrings>
+
+</LanguageData>
+
