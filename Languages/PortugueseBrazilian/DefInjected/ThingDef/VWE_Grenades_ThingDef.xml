@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: EMP grenade belt -->
+  <VWE_Apparel_GrenadeEMPBelt.label>cinto de granadas PEM</VWE_Apparel_GrenadeEMPBelt.label>
+
+  <!-- EN: Electromagnetic pulse grenades damaging to electronic equipment strapped to a belt. They can be thrown a short distance, where they'll explode, disabling any electronics for a brief duration. -->
+  <VWE_Apparel_GrenadeEMPBelt.description>Granadas de pulso eletromagnético presas a um cinto, capazes de danificar equipamentos eletrônicos. Podem ser arremessadas a curta distância, onde explodem e desativam os dispositivos eletrônicos próximos por um breve período.</VWE_Apparel_GrenadeEMPBelt.description>
+
+  <!-- EN: EMP -->
+  <VWE_Apparel_GrenadeEMPBelt.comps.CompApparelReloadable.chargeNoun>PEM</VWE_Apparel_GrenadeEMPBelt.comps.CompApparelReloadable.chargeNoun>
+
+  <!-- EN: on cooldown -->
+  <VWE_Apparel_GrenadeEMPBelt.comps.CompApparelReloadable.cooldownGerund>em recarga</VWE_Apparel_GrenadeEMPBelt.comps.CompApparelReloadable.cooldownGerund>
+
+  <!-- EN: throw EMP grenade -->
+  <VWE_Apparel_GrenadeEMPBelt.verbs.throw_EMP_grenade.label>arremessar granada PEM</VWE_Apparel_GrenadeEMPBelt.verbs.throw_EMP_grenade.label>
+
+  <!-- EN: frag grenade belt -->
+  <VWE_Apparel_GrenadeFragBelt.label>cinto de granadas de fragmentação</VWE_Apparel_GrenadeFragBelt.label>
+
+  <!-- EN: Old-school fragmentation grenades strapped to a belt. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. Can be reloaded using frag grenades. -->
+  <VWE_Apparel_GrenadeFragBelt.description>Granadas de fragmentação tradicionais presas a um cinto. Podem ser arremessadas a curta distância, onde explodem e causam danos a tudo e a todos por perto. O cinto pode ser recarregado com granadas de fragmentação.</VWE_Apparel_GrenadeFragBelt.description>
+
+  <!-- EN: frag -->
+  <VWE_Apparel_GrenadeFragBelt.comps.CompApparelReloadable.chargeNoun>granada de fragmentação</VWE_Apparel_GrenadeFragBelt.comps.CompApparelReloadable.chargeNoun>
+
+  <!-- EN: on cooldown -->
+  <VWE_Apparel_GrenadeFragBelt.comps.CompApparelReloadable.cooldownGerund>em recarga</VWE_Apparel_GrenadeFragBelt.comps.CompApparelReloadable.cooldownGerund>
+
+  <!-- EN: throw frag grenade -->
+  <VWE_Apparel_GrenadeFragBelt.verbs.throw_frag_grenade.label>arremessar granada de fragmentação</VWE_Apparel_GrenadeFragBelt.verbs.throw_frag_grenade.label>
+
+  <!-- EN: molotov belt -->
+  <VWE_Apparel_GrenadeMolotovBelt.label>cinto de coquetéis molotov</VWE_Apparel_GrenadeMolotovBelt.label>
+
+  <!-- EN: Glass bottles filled with flammable liquid, with a burning cloth in the neck, strapped to a belt. A favorite weapon of hooligans and desperate warriors from rim to rim. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby, setting chemfuel on fire. Can be reloaded using molotovs. -->
+  <VWE_Apparel_GrenadeMolotovBelt.description>Garrafas de vidro cheias de líquido inflamável, com um pano em chamas no gargalo, presas a um cinto. Uma das armas favoritas de vândalos e guerreiros desesperados de toda a borda. Podem ser arremessadas a curta distância, onde explodem e causam danos a tudo e a todos por perto, incendiando combustível químico. O cinto pode ser recarregado com coquetéis molotov.</VWE_Apparel_GrenadeMolotovBelt.description>
+
+  <!-- EN: molotov -->
+  <VWE_Apparel_GrenadeMolotovBelt.comps.CompApparelReloadable.chargeNoun>coquetel molotov</VWE_Apparel_GrenadeMolotovBelt.comps.CompApparelReloadable.chargeNoun>
+
+  <!-- EN: on cooldown -->
+  <VWE_Apparel_GrenadeMolotovBelt.comps.CompApparelReloadable.cooldownGerund>em recarga</VWE_Apparel_GrenadeMolotovBelt.comps.CompApparelReloadable.cooldownGerund>
+
+  <!-- EN: throw molotov -->
+  <VWE_Apparel_GrenadeMolotovBelt.verbs.throw_molotov.label>arremessar coquetel molotov</VWE_Apparel_GrenadeMolotovBelt.verbs.throw_molotov.label>
+
+</LanguageData>
+
