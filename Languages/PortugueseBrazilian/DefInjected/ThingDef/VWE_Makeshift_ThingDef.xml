@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: makeshift LMG bullet -->
+  <VWE_Bullet_MakeshiftLMG.label>projétil de LMG improvisada</VWE_Bullet_MakeshiftLMG.label>
+
+  <!-- EN: makeshift pistol bullet -->
+  <VWE_Bullet_MakeshiftPistol.label>projétil de pistola improvisada</VWE_Bullet_MakeshiftPistol.label>
+
+  <!-- EN: makeshift rifle bullet -->
+  <VWE_Bullet_MakeshiftRifle.label>projétil de rifle improvisado</VWE_Bullet_MakeshiftRifle.label>
+
+  <!-- EN: makeshift shotgun pellet -->
+  <VWE_Bullet_MakeshiftShotgun.label>chumbo de espingarda improvisada</VWE_Bullet_MakeshiftShotgun.label>
+
+  <!-- EN: makeshift SMG bullet -->
+  <VWE_Bullet_MakeshiftSMG.label>projétil de SMG improvisada</VWE_Bullet_MakeshiftSMG.label>
+
+  <!-- EN: makeshift LMG -->
+  <VWE_Gun_MakeshiftLMG.label>LMG improvisada</VWE_Gun_MakeshiftLMG.label>
+
+  <!-- EN: An improvised, gas-operated light machine gun. Unwieldy and inaccurate, it is also very prone to jamming. Its long bursts of fire are effective against groups of enemies, but their shot counts are completely random. -->
+  <VWE_Gun_MakeshiftLMG.description>Uma metralhadora leve improvisada, operada a gás. Difícil de manejar e imprecisa, também é muito propensa a emperrar. Suas longas rajadas são eficazes contra grupos de inimigos, mas a quantidade de tiros em cada rajada é completamente aleatória.</VWE_Gun_MakeshiftLMG.description>
+
+  <!-- EN: stock -->
+  <VWE_Gun_MakeshiftLMG.tools.stock.label>coronha</VWE_Gun_MakeshiftLMG.tools.stock.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_MakeshiftLMG.tools.barrel.label>cano</VWE_Gun_MakeshiftLMG.tools.barrel.label>
+
+  <!-- EN: makeshift LMG -->
+  <VWE_Gun_MakeshiftLMG.verbs.Verb_MakeshiftShoot.label>LMG improvisada</VWE_Gun_MakeshiftLMG.verbs.Verb_MakeshiftShoot.label>
+
+  <!-- EN: makeshift pistol -->
+  <VWE_Gun_MakeshiftPistol.label>pistola improvisada</VWE_Gun_MakeshiftPistol.label>
+
+  <!-- EN: An improvised, rough, ancient-design pattern blowback-operated self-loading pistol. It lacks stopping power and range and is prone to jamming. -->
+  <VWE_Gun_MakeshiftPistol.description>Uma pistola improvisada e rudimentar, de projeto antigo, com carregamento automático e funcionamento por recuo direto. Tem pouco poder de parada e curto alcance, além de ser propensa a emperrar.</VWE_Gun_MakeshiftPistol.description>
+
+  <!-- EN: grip -->
+  <VWE_Gun_MakeshiftPistol.tools.grip.label>cabo</VWE_Gun_MakeshiftPistol.tools.grip.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_MakeshiftPistol.tools.barrel.label>cano</VWE_Gun_MakeshiftPistol.tools.barrel.label>
+
+  <!-- EN: makeshift pistol -->
+  <VWE_Gun_MakeshiftPistol.verbs.Verb_MakeshiftShoot.label>pistola improvisada</VWE_Gun_MakeshiftPistol.verbs.Verb_MakeshiftShoot.label>
+
+  <!-- EN: makeshift rifle -->
+  <VWE_Gun_MakeshiftRifle.label>rifle improvisado</VWE_Gun_MakeshiftRifle.label>
+
+  <!-- EN: A general-purpose gas-operated improvised assault rifle, utilising various salvaged components mounted on a militia rifle receiver. It has good range, decent power, and good accuracy, but is prone to jamming. -->
+  <VWE_Gun_MakeshiftRifle.description>Um rifle de assalto improvisado de uso geral, operado a gás, feito com diversos componentes recuperados montados na caixa de mecanismos de um rifle de milícia. Tem bom alcance, potência razoável e boa precisão, mas é propenso a emperrar.</VWE_Gun_MakeshiftRifle.description>
+
+  <!-- EN: stock -->
+  <VWE_Gun_MakeshiftRifle.tools.stock.label>coronha</VWE_Gun_MakeshiftRifle.tools.stock.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_MakeshiftRifle.tools.barrel.label>cano</VWE_Gun_MakeshiftRifle.tools.barrel.label>
+
+  <!-- EN: makeshift rifle -->
+  <VWE_Gun_MakeshiftRifle.verbs.Verb_MakeshiftShoot.label>rifle improvisado</VWE_Gun_MakeshiftRifle.verbs.Verb_MakeshiftShoot.label>
+
+  <!-- EN: makeshift shotgun -->
+  <VWE_Gun_MakeshiftShotgun.label>espingarda improvisada</VWE_Gun_MakeshiftShotgun.label>
+
+  <!-- EN: An improvised design powerful shotgun that emits a large barrage of pellets. Deadly, but short range. Due to numerous faults in design, the amount of pellets fired varies shot by shot. -->
+  <VWE_Gun_MakeshiftShotgun.description>Uma potente espingarda improvisada que dispara uma grande quantidade de chumbos. Letal, mas de curto alcance. Devido às numerosas falhas de projeto, a quantidade de chumbos disparados varia a cada tiro.</VWE_Gun_MakeshiftShotgun.description>
+
+  <!-- EN: stock -->
+  <VWE_Gun_MakeshiftShotgun.tools.stock.label>coronha</VWE_Gun_MakeshiftShotgun.tools.stock.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_MakeshiftShotgun.tools.barrel.label>cano</VWE_Gun_MakeshiftShotgun.tools.barrel.label>
+
+  <!-- EN: makeshift shotgun -->
+  <VWE_Gun_MakeshiftShotgun.verbs.Verb_MakeshiftShoot.label>espingarda improvisada</VWE_Gun_MakeshiftShotgun.verbs.Verb_MakeshiftShoot.label>
+
+  <!-- EN: makeshift SMG -->
+  <VWE_Gun_MakeshiftSMG.label>SMG improvisada</VWE_Gun_MakeshiftSMG.label>
+
+  <!-- EN: A small, home-made micro-submachine gun. It's short range and very prone to jamming due to the rough design and faulty elements. Its rate of fire tends to make up for its weakness. -->
+  <VWE_Gun_MakeshiftSMG.description>Uma pequena submetralhadora de fabricação caseira. Tem curto alcance e é muito propensa a emperrar devido ao projeto rudimentar e às peças defeituosas. Sua cadência de tiro tende a compensar suas limitações.</VWE_Gun_MakeshiftSMG.description>
+
+  <!-- EN: grip -->
+  <VWE_Gun_MakeshiftSMG.tools.grip.label>cabo</VWE_Gun_MakeshiftSMG.tools.grip.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_MakeshiftSMG.tools.barrel.label>cano</VWE_Gun_MakeshiftSMG.tools.barrel.label>
+
+  <!-- EN: makeshift SMG -->
+  <VWE_Gun_MakeshiftSMG.verbs.Verb_MakeshiftShoot.label>SMG improvisada</VWE_Gun_MakeshiftSMG.verbs.Verb_MakeshiftShoot.label>
+
+</LanguageData>
+
