@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: heavy club -->
+  <VWE_MeleeWeapon_HeavyClub.label>porrete pesado</VWE_MeleeWeapon_HeavyClub.label>
+
+  <!-- EN: A large, two handed, shaped stick for bashing enemies. Extreme weight at the end of this tool allows user to crush flesh and bones alike, leaving enemies maimed, paralysed and often dead. -->
+  <VWE_MeleeWeapon_HeavyClub.description>Um grande bastão moldado, empunhado com as duas mãos para golpear inimigos. O enorme peso na extremidade permite esmagar carne e ossos, deixando os inimigos mutilados, paralisados e, muitas vezes, mortos.</VWE_MeleeWeapon_HeavyClub.description>
+
+  <!-- EN: handle -->
+  <VWE_MeleeWeapon_HeavyClub.tools.handle.label>cabo</VWE_MeleeWeapon_HeavyClub.tools.handle.label>
+
+  <!-- EN: head -->
+  <VWE_MeleeWeapon_HeavyClub.tools.head.label>cabeça</VWE_MeleeWeapon_HeavyClub.tools.head.label>
+
+  <!-- EN: light club -->
+  <VWE_MeleeWeapon_LightClub.label>porrete leve</VWE_MeleeWeapon_LightClub.label>
+
+  <!-- EN: A small, one handed club. Whilst it's fast to swing, it is not going to cause tremendous damage due to its low weight and short length. -->
+  <VWE_MeleeWeapon_LightClub.description>Um pequeno porrete para usar com uma só mão. Embora permita golpes rápidos, seu baixo peso e curto comprimento limitam o dano que pode causar.</VWE_MeleeWeapon_LightClub.description>
+
+  <!-- EN: handle -->
+  <VWE_MeleeWeapon_LightClub.tools.handle.label>cabo</VWE_MeleeWeapon_LightClub.tools.handle.label>
+
+  <!-- EN: head -->
+  <VWE_MeleeWeapon_LightClub.tools.head.label>cabeça</VWE_MeleeWeapon_LightClub.tools.head.label>
+
+  <!-- EN: shiv -->
+  <VWE_MeleeWeapon_Shiv.label>faca rudimentar</VWE_MeleeWeapon_Shiv.label>
+
+  <!-- EN: One of mankind's oldest manufactured objects. A shiv is a short but sharp piece of rock or metal with a small handle. -->
+  <VWE_MeleeWeapon_Shiv.description>Um dos objetos fabricados mais antigos da humanidade. Uma faca rudimentar é uma peça curta, mas afiada, de pedra ou metal, com um pequeno cabo.</VWE_MeleeWeapon_Shiv.description>
+
+  <!-- EN: blade -->
+  <VWE_MeleeWeapon_Shiv.tools.blade.label>lâmina</VWE_MeleeWeapon_Shiv.tools.blade.label>
+
+  <!-- EN: point -->
+  <VWE_MeleeWeapon_Shiv.tools.point.label>ponta</VWE_MeleeWeapon_Shiv.tools.point.label>
+
+  <!-- EN: tribal axe -->
+  <VWE_MeleeWeapon_TribalAxe.label>machado tribal</VWE_MeleeWeapon_TribalAxe.label>
+
+  <!-- EN: A sharp piece of rock mounted on a sturdy piece of wood. Often used as a tool, it has been recorded that tribal axes also served as a great weapon due to their small size and ability to inflict deep wounds. -->
+  <VWE_MeleeWeapon_TribalAxe.description>Uma pedra afiada presa a um pedaço resistente de madeira. Muito usado como ferramenta, o machado tribal também se mostrou uma ótima arma por seu tamanho reduzido e sua capacidade de causar ferimentos profundos.</VWE_MeleeWeapon_TribalAxe.description>
+
+  <!-- EN: handle -->
+  <VWE_MeleeWeapon_TribalAxe.tools.handle.label>cabo</VWE_MeleeWeapon_TribalAxe.tools.handle.label>
+
+  <!-- EN: edge -->
+  <VWE_MeleeWeapon_TribalAxe.tools.edge.label>lâmina</VWE_MeleeWeapon_TribalAxe.tools.edge.label>
+
+  <!-- EN: shard -->
+  <VWE_FlyingShard.label>fragmento</VWE_FlyingShard.label>
+
+  <!-- EN: fire bomb -->
+  <VWE_Proj_FireBomb.label>bomba incendiária</VWE_Proj_FireBomb.label>
+
+  <!-- EN: sling -->
+  <VWE_Sling.label>funda</VWE_Sling.label>
+
+  <!-- EN: A small pouch in the middle of two lengths of cord. Used to slingshot sharp rocks over medium distance. -->
+  <VWE_Sling.description>Uma pequena bolsa presa entre dois cordões. Usada para lançar pedras afiadas a médias distâncias.</VWE_Sling.description>
+
+  <!-- EN: sling -->
+  <VWE_Sling.tools.sling.label>funda</VWE_Sling.tools.sling.label>
+
+  <!-- EN: sling -->
+  <VWE_Sling.verbs.Verb_Shoot.label>funda</VWE_Sling.verbs.Verb_Shoot.label>
+
+  <!-- EN: sling rock -->
+  <VWE_SlingRock.label>pedra de funda</VWE_SlingRock.label>
+
+  <!-- EN: throwing shards -->
+  <VWE_Throwing_Shards.label>fragmentos de arremesso</VWE_Throwing_Shards.label>
+
+  <!-- EN: A set of crude rock or metal shards that can be thrown a short distance. -->
+  <VWE_Throwing_Shards.description>Um conjunto de fragmentos rudimentares de pedra ou metal, que podem ser arremessados a curta distância.</VWE_Throwing_Shards.description>
+
+  <!-- EN: handle -->
+  <VWE_Throwing_Shards.tools.handle.label>cabo</VWE_Throwing_Shards.tools.handle.label>
+
+  <!-- EN: edge -->
+  <VWE_Throwing_Shards.tools.edge.label>lâmina</VWE_Throwing_Shards.tools.edge.label>
+
+  <!-- EN: point -->
+  <VWE_Throwing_Shards.tools.point.label>ponta</VWE_Throwing_Shards.tools.point.label>
+
+  <!-- EN: throwing shards -->
+  <VWE_Throwing_Shards.verbs.Verb_Shoot.label>fragmentos de arremesso</VWE_Throwing_Shards.verbs.Verb_Shoot.label>
+
+  <!-- EN: fire bombs -->
+  <VWE_Weapon_FireBomb.label>bombas incendiárias</VWE_Weapon_FireBomb.label>
+
+  <!-- EN: A small clay pot with various flammable substances inside - be it chemfuel, cloth, gunpowder or animal fats. -->
+  <VWE_Weapon_FireBomb.description>Um pequeno pote de barro contendo diversas substâncias inflamáveis, como combustível químico, tecido, pólvora ou gorduras animais.</VWE_Weapon_FireBomb.description>
+
+  <!-- EN: throw firebomb -->
+  <VWE_Weapon_FireBomb.verbs.throw_firebomb.label>arremessar bomba incendiária</VWE_Weapon_FireBomb.verbs.throw_firebomb.label>
+
+</LanguageData>
+
