@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: frontier weapons -->
+  <VWEFT_FrontierWeapons.label>armas da fronteira</VWEFT_FrontierWeapons.label>
+
+  <!-- EN: Craft frontier guns like revolvers, rifles, and shotguns. -->
+  <VWEFT_FrontierWeapons.description>Fabrique armas da fronteira, como revólveres, rifles e espingardas.</VWEFT_FrontierWeapons.description>
+
+  <!-- EN:
+    <li>subject->echoes of the frontier</li>
+    <li>subject_story->revived the rugged spirit of the frontier, crafting firearms that embody the essence of survival and exploration</li>
+    <li>subject_story->perfected the art of gunsmithing to produce revolvers, rifles, and shotguns, tools as much for defense as for forging ahead into the unknown</li>
+    <li>subject_story->imbued each weapon with the reliability and durability needed to face the untamed wilds and protect burgeoning communities</li>
+    <li>subject_gerund->carving out civilization's edge with the steadfast companionship of frontier firearms</li>
+  -->
+  <VWEFT_FrontierWeapons.generalRules.rulesStrings>
+    <li>subject->ecos da fronteira</li>
+    <li>subject_story->resgataram o espírito intrépido da fronteira, fabricando armas de fogo que incorporam a essência da sobrevivência e da exploração</li>
+    <li>subject_story->aperfeiçoaram a arte de fabricar armas para produzir revólveres, rifles e espingardas, ferramentas que servem tanto para a defesa quanto para desbravar o desconhecido</li>
+    <li>subject_story->conferiram a cada arma a confiabilidade e a durabilidade necessárias para enfrentar a natureza indomada e proteger comunidades em formação</li>
+    <li>subject_gerund->expandindo os limites da civilização na companhia fiel das armas de fogo da fronteira</li>
+  </VWEFT_FrontierWeapons.generalRules.rulesStrings>
+
+</LanguageData>
+

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: frontier pistol bullet -->
+  <VWEFT_Bullet_FrontierPistol.label>projétil de pistola da fronteira</VWEFT_Bullet_FrontierPistol.label>
+
+  <!-- EN: heavy revolver bullet -->
+  <VWEFT_Bullet_HeavyRevolver.label>projétil de revólver pesado</VWEFT_Bullet_HeavyRevolver.label>
+
+  <!-- EN: shotgun blast -->
+  <VWEFT_Bullet_RepeatingShotgun.label>disparo de espingarda</VWEFT_Bullet_RepeatingShotgun.label>
+
+  <!-- EN: rolling block rifle bullet -->
+  <VWEFT_Bullet_RollingBlockRifle.label>projétil de fuzil de bloco pivotante</VWEFT_Bullet_RollingBlockRifle.label>
+
+  <!-- EN: volcanic pistol bullet -->
+  <VWEFT_Bullet_VolcanicPistol.label>projétil de pistola Volcanic</VWEFT_Bullet_VolcanicPistol.label>
+
+  <!-- EN: frontier pistol -->
+  <VWEFT_Gun_FrontierPistol.label>pistola da fronteira</VWEFT_Gun_FrontierPistol.label>
+
+  <!-- EN: An ornate variant of a commonplace Old World pistol, effective at short and medium ranges.\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots. -->
+  <VWEFT_Gun_FrontierPistol.description>Uma variante ornamentada de uma pistola comum do Velho Mundo, eficaz a curtas e médias distâncias.\n\nAs histórias de pistoleiros de mundos a vapor sugerem que esta arma e outras semelhantes são capazes de acertar tiros de sorte incríveis de vez em quando.</VWEFT_Gun_FrontierPistol.description>
+
+  <!-- EN: grip -->
+  <VWEFT_Gun_FrontierPistol.tools.grip.label>cabo</VWEFT_Gun_FrontierPistol.tools.grip.label>
+
+  <!-- EN: barrel -->
+  <VWEFT_Gun_FrontierPistol.tools.barrel.label>cano</VWEFT_Gun_FrontierPistol.tools.barrel.label>
+
+  <!-- EN: frontier pistol -->
+  <VWEFT_Gun_FrontierPistol.verbs.Verb_Shoot.label>pistola da fronteira</VWEFT_Gun_FrontierPistol.verbs.Verb_Shoot.label>
+
+  <!-- EN: heavy revolver -->
+  <VWEFT_Gun_HeavyRevolver.label>revólver pesado</VWEFT_Gun_HeavyRevolver.label>
+
+  <!-- EN: An ornate favorite among wealthy lawmen and bandits alike for its increased firepower and range at the cost of reload speed.\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots. -->
+  <VWEFT_Gun_HeavyRevolver.description>Uma arma ornamentada, muito apreciada por homens da lei e bandidos abastados por seu maior poder de fogo e alcance, em troca de uma recarga mais lenta.\n\nAs histórias de pistoleiros de mundos a vapor sugerem que esta arma e outras semelhantes são capazes de acertar tiros de sorte incríveis de vez em quando.</VWEFT_Gun_HeavyRevolver.description>
+
+  <!-- EN: grip -->
+  <VWEFT_Gun_HeavyRevolver.tools.grip.label>cabo</VWEFT_Gun_HeavyRevolver.tools.grip.label>
+
+  <!-- EN: barrel -->
+  <VWEFT_Gun_HeavyRevolver.tools.barrel.label>cano</VWEFT_Gun_HeavyRevolver.tools.barrel.label>
+
+  <!-- EN: heavy revolver -->
+  <VWEFT_Gun_HeavyRevolver.verbs.Verb_Shoot.label>revólver pesado</VWEFT_Gun_HeavyRevolver.verbs.Verb_Shoot.label>
+
+  <!-- EN: repeating shotgun -->
+  <VWEFT_Gun_RepeatingShotgun.label>espingarda de repetição</VWEFT_Gun_RepeatingShotgun.label>
+
+  <!-- EN: An ornate and surprisingly portable shotgun meant to be fired one handed from a mounted position. Packs a punch, earning the title "boomalope leg".\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots. -->
+  <VWEFT_Gun_RepeatingShotgun.description>Uma espingarda ornamentada e surpreendentemente portátil, feita para ser disparada com uma só mão enquanto se está montado. Seu impacto é tão forte que lhe rendeu o apelido de "pata de bumalope".\n\nAs histórias de pistoleiros de mundos a vapor sugerem que esta arma e outras semelhantes são capazes de acertar tiros de sorte incríveis de vez em quando.</VWEFT_Gun_RepeatingShotgun.description>
+
+  <!-- EN: stock -->
+  <VWEFT_Gun_RepeatingShotgun.tools.stock.label>coronha</VWEFT_Gun_RepeatingShotgun.tools.stock.label>
+
+  <!-- EN: barrel -->
+  <VWEFT_Gun_RepeatingShotgun.tools.barrel.label>cano</VWEFT_Gun_RepeatingShotgun.tools.barrel.label>
+
+  <!-- EN: repeating shotgun -->
+  <VWEFT_Gun_RepeatingShotgun.verbs.Verb_Shoot.label>espingarda de repetição</VWEFT_Gun_RepeatingShotgun.verbs.Verb_Shoot.label>
+
+  <!-- EN: rolling block rifle -->
+  <VWEFT_Gun_RollingBlockRifle.label>fuzil de bloco pivotante</VWEFT_Gun_RollingBlockRifle.label>
+
+  <!-- EN: An ornate high-power marksmen rifle originally designed for dispatching muffalo in a single shot. Once outfitted with a long-range scope and modernized reloading system it didn't take long for would-be bounty hunters to embrace the hunting instrument.\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots. -->
+  <VWEFT_Gun_RollingBlockRifle.description>Um fuzil de precisão ornamentado e de alta potência, originalmente projetado para abater um mufalo com um único tiro. Depois que recebeu uma mira telescópica de longo alcance e um sistema de recarga modernizado, não demorou para que aspirantes a caçadores de recompensas adotassem essa arma de caça.\n\nAs histórias de pistoleiros de mundos a vapor sugerem que esta arma e outras semelhantes são capazes de acertar tiros de sorte incríveis de vez em quando.</VWEFT_Gun_RollingBlockRifle.description>
+
+  <!-- EN: stock -->
+  <VWEFT_Gun_RollingBlockRifle.tools.stock.label>coronha</VWEFT_Gun_RollingBlockRifle.tools.stock.label>
+
+  <!-- EN: barrel -->
+  <VWEFT_Gun_RollingBlockRifle.tools.barrel.label>cano</VWEFT_Gun_RollingBlockRifle.tools.barrel.label>
+
+  <!-- EN: rolling block rifle -->
+  <VWEFT_Gun_RollingBlockRifle.verbs.Verb_Shoot.label>fuzil de bloco pivotante</VWEFT_Gun_RollingBlockRifle.verbs.Verb_Shoot.label>
+
+  <!-- EN: volcanic pistol -->
+  <VWEFT_Gun_VolcanicPistol.label>pistola Volcanic</VWEFT_Gun_VolcanicPistol.label>
+
+  <!-- EN: An ornate pistol meant to provide the strength of a full-sized rifle with the portability of a revolver. Surprisingly high ammo capacity and range at the cost of a long time to reload and rather poor accuracy due to recoil.\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots. -->
+  <VWEFT_Gun_VolcanicPistol.description>Uma pistola ornamentada, feita para oferecer a potência de um rifle de tamanho normal com a portabilidade de um revólver. Tem capacidade de munição e alcance surpreendentemente altos, em troca de uma recarga demorada e de uma precisão bastante baixa devido ao recuo.\n\nAs histórias de pistoleiros de mundos a vapor sugerem que esta arma e outras semelhantes são capazes de acertar tiros de sorte incríveis de vez em quando.</VWEFT_Gun_VolcanicPistol.description>
+
+  <!-- EN: grip -->
+  <VWEFT_Gun_VolcanicPistol.tools.grip.label>cabo</VWEFT_Gun_VolcanicPistol.tools.grip.label>
+
+  <!-- EN: barrel -->
+  <VWEFT_Gun_VolcanicPistol.tools.barrel.label>cano</VWEFT_Gun_VolcanicPistol.tools.barrel.label>
+
+  <!-- EN: volcanic pistol -->
+  <VWEFT_Gun_VolcanicPistol.verbs.Verb_Shoot.label>pistola Volcanic</VWEFT_Gun_VolcanicPistol.verbs.Verb_Shoot.label>
+
+  <!-- EN: gauss repeater sabot -->
+  <VWEFT_Bullet_GaussRepeater.label>sabot de rifle de repetição gauss</VWEFT_Bullet_GaussRepeater.label>
+
+  <!-- EN: gauss revolver sabot -->
+  <VWEFT_Bullet_GaussRevolver.label>sabot de revólver gauss</VWEFT_Bullet_GaussRevolver.label>
+
+  <!-- EN: gauss repeater -->
+  <VWEFT_Gun_GaussRepeater.label>rifle de repetição gauss</VWEFT_Gun_GaussRepeater.label>
+
+  <!-- EN: A spacer-tech gauss rifle themed as a steamworld-inspired repeater. A set of coils accelerate terromagnetic sabots capable of penetrating multiple layers of flesh and armor.\n\nJust like its conventional counterpart, this gun supposedly is capable of incredibly lucky shots. -->
+  <VWEFT_Gun_GaussRepeater.description>Um rifle gauss de tecnologia espacial com o visual de um rifle de repetição inspirado nos mundos a vapor. Um conjunto de bobinas acelera sabots terromagnéticos capazes de atravessar várias camadas de carne e armadura.\n\nAssim como sua versão convencional, esta arma supostamente é capaz de acertar tiros de sorte incríveis.</VWEFT_Gun_GaussRepeater.description>
+
+  <!-- EN: stock -->
+  <VWEFT_Gun_GaussRepeater.tools.stock.label>coronha</VWEFT_Gun_GaussRepeater.tools.stock.label>
+
+  <!-- EN: barrel -->
+  <VWEFT_Gun_GaussRepeater.tools.barrel.label>cano</VWEFT_Gun_GaussRepeater.tools.barrel.label>
+
+  <!-- EN: gauss repeater -->
+  <VWEFT_Gun_GaussRepeater.verbs.Verb_Shoot.label>rifle de repetição gauss</VWEFT_Gun_GaussRepeater.verbs.Verb_Shoot.label>
+
+  <!-- EN: gauss revolver -->
+  <VWEFT_Gun_GaussRevolver.label>revólver gauss</VWEFT_Gun_GaussRevolver.label>
+
+  <!-- EN: A spacer-tech revolver for that frontier feel with high-tech power. A coil-array accelerates single shots capable of popping the heads of multiple ne'er do wells in a neat line.\n\nJust like its conventional counterpart, this gun supposedly is capable of incredibly lucky shots. -->
+  <VWEFT_Gun_GaussRevolver.description>Um revólver de tecnologia espacial que combina o estilo da fronteira com a potência da alta tecnologia. Um conjunto de bobinas acelera disparos individuais capazes de estourar as cabeças de vários malfeitores bem alinhados.\n\nAssim como sua versão convencional, esta arma supostamente é capaz de acertar tiros de sorte incríveis.</VWEFT_Gun_GaussRevolver.description>
+
+  <!-- EN: grip -->
+  <VWEFT_Gun_GaussRevolver.tools.grip.label>cabo</VWEFT_Gun_GaussRevolver.tools.grip.label>
+
+  <!-- EN: barrel -->
+  <VWEFT_Gun_GaussRevolver.tools.barrel.label>cano</VWEFT_Gun_GaussRevolver.tools.barrel.label>
+
+  <!-- EN: gauss revolver -->
+  <VWEFT_Gun_GaussRevolver.verbs.Verb_Shoot.label>revólver gauss</VWEFT_Gun_GaussRevolver.verbs.Verb_Shoot.label>
+
+  <!-- EN: handheld gatling gun bullet -->
+  <VWEFT_Bullet_HandheldGatlingGun.label>projétil de metralhadora gatling portátil</VWEFT_Bullet_HandheldGatlingGun.label>
+
+  <!-- EN: handheld gatling gun -->
+  <VWEFT_Gun_HandheldGatlingGun.label>metralhadora gatling portátil</VWEFT_Gun_HandheldGatlingGun.label>
+
+  <!-- EN: A heavy weapon meant as a portable turret, dismantled from its base and now carryable by strong individuals, power armor, or a powered exosuit. Despite this, the gun still requires hand cranking to reach maximum fire rate and now has a limited ammo supply.\n\nAs a last line of defense, many frontiersmen claim to land incredibly lucky shots with this weapon, swiftly turning enemies into fine red mist. -->
+  <VWEFT_Gun_HandheldGatlingGun.description>Uma arma pesada que serve como torre portátil. Removida de sua base, pode ser carregada por pessoas fortes ou por quem usa armadura motorizada ou um exotraje motorizado. Ainda exige que uma manivela seja girada à mão para atingir a cadência máxima de tiro e agora tem um suprimento limitado de munição.\n\nMuitos habitantes da fronteira afirmam que, como último recurso de defesa, conseguem acertar tiros de sorte incríveis com esta arma, transformando rapidamente os inimigos em uma fina névoa vermelha.</VWEFT_Gun_HandheldGatlingGun.description>
+
+  <!-- EN: barrels -->
+  <VWEFT_Gun_HandheldGatlingGun.tools.barrels.label>canos</VWEFT_Gun_HandheldGatlingGun.tools.barrels.label>
+
+  <!-- EN: handheld gatling gun -->
+  <VWEFT_Gun_HandheldGatlingGun.verbs.Verb_Shoot.label>metralhadora gatling portátil</VWEFT_Gun_HandheldGatlingGun.verbs.Verb_Shoot.label>
+
+  <!-- EN: unstable precise laser shot -->
+  <VWEFT_Bullet_SalvagedLaserHuntingRifle.label>disparo laser preciso e instável</VWEFT_Bullet_SalvagedLaserHuntingRifle.label>
+
+  <!-- EN: An unstable long range laser beam. -->
+  <VWEFT_Bullet_SalvagedLaserHuntingRifle.description>Um feixe laser instável de longo alcance.</VWEFT_Bullet_SalvagedLaserHuntingRifle.description>
+
+  <!-- EN: unstable laser shot -->
+  <VWEFT_Bullet_SalvagedLaserRepeater.label>disparo laser instável</VWEFT_Bullet_SalvagedLaserRepeater.label>
+
+  <!-- EN: unstable laser revolver shot -->
+  <VWEFT_Bullet_SalvagedLaserRevolver.label>disparo instável de revólver laser</VWEFT_Bullet_SalvagedLaserRevolver.label>
+
+  <!-- EN: salvaged laser hunting rifle -->
+  <VWEFT_Gun_SalvagedLaserHuntingRifle.label>rifle de caça laser recuperado</VWEFT_Gun_SalvagedLaserHuntingRifle.label>
+
+  <!-- EN: A scoped marksmen laser rifle capable of firing unstable light at very long range, supposedly used for mag train robberies long ago.\n\nBy using makeshift battery cells, this weapon is capable of quickly warming up, boosting the firing speed with each consecutive shot when standing still. -->
+  <VWEFT_Gun_SalvagedLaserHuntingRifle.description>Um rifle laser de precisão com mira telescópica, capaz de disparar luz instável a distâncias muito longas. Supostamente era usado em assaltos a trens magnéticos há muito tempo.\n\nCom células de bateria improvisadas, esta arma aquece rapidamente, aumentando a velocidade de disparo a cada tiro consecutivo enquanto o atirador permanece parado.</VWEFT_Gun_SalvagedLaserHuntingRifle.description>
+
+  <!-- EN: barrel -->
+  <VWEFT_Gun_SalvagedLaserHuntingRifle.tools.barrel.label>cano</VWEFT_Gun_SalvagedLaserHuntingRifle.tools.barrel.label>
+
+  <!-- EN: grip -->
+  <VWEFT_Gun_SalvagedLaserHuntingRifle.tools.grip.label>cabo</VWEFT_Gun_SalvagedLaserHuntingRifle.tools.grip.label>
+
+  <!-- EN: Standard -->
+  <VWEFT_Gun_SalvagedLaserHuntingRifle.verbs.Standard.label>Padrão</VWEFT_Gun_SalvagedLaserHuntingRifle.verbs.Standard.label>
+
+  <!-- EN: salvaged laser repeater -->
+  <VWEFT_Gun_SalvagedLaserRepeater.label>rifle de repetição laser recuperado</VWEFT_Gun_SalvagedLaserRepeater.label>
+
+  <!-- EN: A salvaged repeating rifle capable of firing unstable light at both close and medium distance, surprisingly accurate.\n\nBy using makeshift battery cells, this weapon is capable of quickly warming up, boosting the firing speed with each consecutive shot when standing still. -->
+  <VWEFT_Gun_SalvagedLaserRepeater.description>Um rifle de repetição recuperado, capaz de disparar luz instável a curtas e médias distâncias, com uma precisão surpreendente.\n\nCom células de bateria improvisadas, esta arma aquece rapidamente, aumentando a velocidade de disparo a cada tiro consecutivo enquanto o atirador permanece parado.</VWEFT_Gun_SalvagedLaserRepeater.description>
+
+  <!-- EN: barrel -->
+  <VWEFT_Gun_SalvagedLaserRepeater.tools.barrel.label>cano</VWEFT_Gun_SalvagedLaserRepeater.tools.barrel.label>
+
+  <!-- EN: grip -->
+  <VWEFT_Gun_SalvagedLaserRepeater.tools.grip.label>cabo</VWEFT_Gun_SalvagedLaserRepeater.tools.grip.label>
+
+  <!-- EN: Standard -->
+  <VWEFT_Gun_SalvagedLaserRepeater.verbs.Standard.label>Padrão</VWEFT_Gun_SalvagedLaserRepeater.verbs.Standard.label>
+
+  <!-- EN: salvaged laser revolver -->
+  <VWEFT_Gun_SalvagedLaserRevolver.label>revólver laser recuperado</VWEFT_Gun_SalvagedLaserRevolver.label>
+
+  <!-- EN: A drum-based laser pistol capable of heating up quite quickly, each chamber containing an individual microbattery primed to focus each shot.\n\nBy using makeshift battery cells, this weapon is capable of quickly warming up, boosting the firing speed with each consecutive shot when standing still. -->
+  <VWEFT_Gun_SalvagedLaserRevolver.description>Uma pistola laser de tambor que aquece muito rapidamente. Cada câmara contém uma microbateria individual preparada para focalizar cada disparo.\n\nCom células de bateria improvisadas, esta arma aquece rapidamente, aumentando a velocidade de disparo a cada tiro consecutivo enquanto o atirador permanece parado.</VWEFT_Gun_SalvagedLaserRevolver.description>
+
+  <!-- EN: barrel -->
+  <VWEFT_Gun_SalvagedLaserRevolver.tools.barrel.label>cano</VWEFT_Gun_SalvagedLaserRevolver.tools.barrel.label>
+
+  <!-- EN: grip -->
+  <VWEFT_Gun_SalvagedLaserRevolver.tools.grip.label>cabo</VWEFT_Gun_SalvagedLaserRevolver.tools.grip.label>
+
+  <!-- EN: Standard -->
+  <VWEFT_Gun_SalvagedLaserRevolver.verbs.Standard.label>Padrão</VWEFT_Gun_SalvagedLaserRevolver.verbs.Standard.label>
+
+  <!-- EN: derringer bullet -->
+  <VWEFT_Bullet_Derringer.label>projétil de derringer</VWEFT_Bullet_Derringer.label>
+
+  <!-- EN: shotgun blast -->
+  <VWEFT_Bullet_LeverActionShotgun.label>disparo de espingarda</VWEFT_Bullet_LeverActionShotgun.label>
+
+  <!-- EN: derringer -->
+  <VWEFT_Gun_Derringer.label>derringer</VWEFT_Gun_Derringer.label>
+
+  <!-- EN: An ornate, easily concealable pistol meant for disabling aggressive humans and wildlife alike at very close range. Often carried by working girls, farmhands, and shady businessmen of far-off steamworlds.\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots. -->
+  <VWEFT_Gun_Derringer.description>Uma pistola ornamentada e fácil de ocultar, feita para incapacitar tanto humanos agressivos quanto animais selvagens a curtíssima distância. Costuma ser carregada por prostitutas, trabalhadores rurais e negociantes de reputação duvidosa de mundos a vapor distantes.\n\nAs histórias de pistoleiros de mundos a vapor sugerem que esta arma e outras semelhantes são capazes de acertar tiros de sorte incríveis de vez em quando.</VWEFT_Gun_Derringer.description>
+
+  <!-- EN: grip -->
+  <VWEFT_Gun_Derringer.tools.grip.label>cabo</VWEFT_Gun_Derringer.tools.grip.label>
+
+  <!-- EN: barrel -->
+  <VWEFT_Gun_Derringer.tools.barrel.label>cano</VWEFT_Gun_Derringer.tools.barrel.label>
+
+  <!-- EN: derringer -->
+  <VWEFT_Gun_Derringer.verbs.Verb_Shoot.label>derringer</VWEFT_Gun_Derringer.verbs.Verb_Shoot.label>
+
+  <!-- EN: lever-action shotgun -->
+  <VWEFT_Gun_LeverActionShotgun.label>espingarda de alavanca</VWEFT_Gun_LeverActionShotgun.label>
+
+  <!-- EN: An ornate, quick-loading simple shotgun used most often for defending ones claim on the frontier, although also a favorite of bartenders and store owners as an imposing tool against rowdy patrons or thieves.\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots. -->
+  <VWEFT_Gun_LeverActionShotgun.description>Uma espingarda simples, ornamentada e de recarga rápida, usada principalmente para defender propriedades na fronteira. Também é muito apreciada por donos de bares e lojas como uma arma intimidadora contra clientes arruaceiros ou ladrões.\n\nAs histórias de pistoleiros de mundos a vapor sugerem que esta arma e outras semelhantes são capazes de acertar tiros de sorte incríveis de vez em quando.</VWEFT_Gun_LeverActionShotgun.description>
+
+  <!-- EN: stock -->
+  <VWEFT_Gun_LeverActionShotgun.tools.stock.label>coronha</VWEFT_Gun_LeverActionShotgun.tools.stock.label>
+
+  <!-- EN: barrel -->
+  <VWEFT_Gun_LeverActionShotgun.tools.barrel.label>cano</VWEFT_Gun_LeverActionShotgun.tools.barrel.label>
+
+  <!-- EN: lever-action shotgun -->
+  <VWEFT_Gun_LeverActionShotgun.verbs.Verb_Shoot.label>espingarda de alavanca</VWEFT_Gun_LeverActionShotgun.verbs.Verb_Shoot.label>
+
+</LanguageData>
+
