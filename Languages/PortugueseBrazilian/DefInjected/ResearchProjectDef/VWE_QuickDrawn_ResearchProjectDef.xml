@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: quick draw -->
+  <VWE_Quickdraw.label>saque rápido</VWE_Quickdraw.label>
+
+  <!-- EN: Create lightweight, fast to draw and fire weapons. -->
+  <VWE_Quickdraw.description>Crie armas leves, rápidas de sacar e disparar.</VWE_Quickdraw.description>
+
+  <!-- EN:
+    <li>subject->the edge of speed</li>
+    <li>subject_story->mastered the art of weapon design for speed, crafting firearms that are as swift to engage as they are lethal</li>
+    <li>subject_story->engineered mechanisms that minimize draw time, ensuring that readiness and rapid response define every encounter</li>
+    <li>subject_gerund->shaping the future of combat with the quicksilver grace of rapid deployment</li>
+  -->
+  <VWE_Quickdraw.generalRules.rulesStrings>
+    <li>subject->a vantagem da velocidade</li>
+    <li>subject_story->dominou o projeto de armas voltadas à rapidez, criando armas de fogo tão ágeis quanto letais</li>
+    <li>subject_story->desenvolveu mecanismos que reduzem o tempo de saque, garantindo prontidão e resposta rápida em cada confronto</li>
+    <li>subject_gerund->moldando o futuro do combate com a fluidez e a agilidade do saque rápido</li>
+  </VWE_Quickdraw.generalRules.rulesStrings>
+
+</LanguageData>
+

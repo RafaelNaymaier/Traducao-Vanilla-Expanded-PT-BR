@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: bullpup DMR bullet -->
+  <Bullet_BullpupDMR.label>projétil de DMR bullpup</Bullet_BullpupDMR.label>
+
+  <!-- EN: bullpup rifle bullet -->
+  <VWE_Bullet_BullpupRifle.label>projétil de rifle bullpup</VWE_Bullet_BullpupRifle.label>
+
+  <!-- EN: lightweight pistol bullet -->
+  <VWE_Bullet_LightweightPistol.label>projétil de pistola leve</VWE_Bullet_LightweightPistol.label>
+
+  <!-- EN: PDW bullet -->
+  <VWE_Bullet_PDW.label>projétil de PDW</VWE_Bullet_PDW.label>
+
+  <!-- EN: lightweight pistol -->
+  <VWE_Gun_AutomaticPistol.label>pistola leve</VWE_Gun_AutomaticPistol.label>
+
+  <!-- EN: A highly modified, fully automatic variant of the autopistol, designed to deliver maximum short-range firepower in a compact package. Due to light weight, it is very quick to draw. -->
+  <VWE_Gun_AutomaticPistol.description>Uma variante bastante modificada da pistola automática, com disparo totalmente automático, projetada para oferecer o máximo de poder de fogo a curta distância em uma arma compacta. Seu baixo peso permite sacá-la com muita rapidez.</VWE_Gun_AutomaticPistol.description>
+
+  <!-- EN: grip -->
+  <VWE_Gun_AutomaticPistol.tools.grip.label>cabo</VWE_Gun_AutomaticPistol.tools.grip.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_AutomaticPistol.tools.barrel.label>cano</VWE_Gun_AutomaticPistol.tools.barrel.label>
+
+  <!-- EN: lightweight pistol -->
+  <VWE_Gun_AutomaticPistol.verbs.Verb_Shoot.label>pistola leve</VWE_Gun_AutomaticPistol.verbs.Verb_Shoot.label>
+
+  <!-- EN: bullpup DMR -->
+  <VWE_Gun_BullpupDMR.label>DMR bullpup</VWE_Gun_BullpupDMR.label>
+
+  <!-- EN: A compact designated marksman rifle utilizing a bullpup configuration. This design shifts the action back, resulting in a shorter, lighter package that enables an extremely fast draw and aiming time. -->
+  <VWE_Gun_BullpupDMR.description>Um rifle compacto de atirador designado, com configuração bullpup. Esse projeto desloca o mecanismo para trás, resultando em uma arma mais curta e leve, que pode ser sacada e apontada com extrema rapidez.</VWE_Gun_BullpupDMR.description>
+
+  <!-- EN: stock -->
+  <VWE_Gun_BullpupDMR.tools.stock.label>coronha</VWE_Gun_BullpupDMR.tools.stock.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_BullpupDMR.tools.barrel.label>cano</VWE_Gun_BullpupDMR.tools.barrel.label>
+
+  <!-- EN: bullpup DMR -->
+  <VWE_Gun_BullpupDMR.verbs.Verb_Shoot.label>DMR bullpup</VWE_Gun_BullpupDMR.verbs.Verb_Shoot.label>
+
+  <!-- EN: bullpup rifle -->
+  <VWE_Gun_BullpupRifle.label>rifle bullpup</VWE_Gun_BullpupRifle.label>
+
+  <!-- EN: A compact, general-purpose assault rifle utilizing a bullpup configuration. The weapon's design places the action behind the trigger group, significantly reducing its overall length for enhanced maneuverability and an extremely fast draw time. -->
+  <VWE_Gun_BullpupRifle.description>Um rifle de assalto compacto e de uso geral, com configuração bullpup. O projeto posiciona o mecanismo de funcionamento atrás do conjunto do gatilho, reduzindo significativamente o comprimento total para facilitar o manuseio e permitir um saque extremamente rápido.</VWE_Gun_BullpupRifle.description>
+
+  <!-- EN: stock -->
+  <VWE_Gun_BullpupRifle.tools.stock.label>coronha</VWE_Gun_BullpupRifle.tools.stock.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_BullpupRifle.tools.barrel.label>cano</VWE_Gun_BullpupRifle.tools.barrel.label>
+
+  <!-- EN: bullpup rifle -->
+  <VWE_Gun_BullpupRifle.verbs.Verb_Shoot.label>rifle bullpup</VWE_Gun_BullpupRifle.verbs.Verb_Shoot.label>
+
+  <!-- EN: PDW -->
+  <VWE_Gun_PDW.label>PDW</VWE_Gun_PDW.label>
+
+  <!-- EN: A lightweight, modern personal defense weapon designed for maximum portability and quick engagement. Its high rate of fire in a long burst makes it highly effective at close to medium range. Due to light weight, it is very quick to draw. -->
+  <VWE_Gun_PDW.description>Uma arma moderna e leve de defesa pessoal, projetada para máxima portabilidade e rápida entrada em ação. Sua alta cadência de tiro em rajadas longas a torna muito eficaz a curtas e médias distâncias. O baixo peso permite sacá-la com muita rapidez.</VWE_Gun_PDW.description>
+
+  <!-- EN: grip -->
+  <VWE_Gun_PDW.tools.grip.label>cabo</VWE_Gun_PDW.tools.grip.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_PDW.tools.barrel.label>cano</VWE_Gun_PDW.tools.barrel.label>
+
+  <!-- EN: PDW -->
+  <VWE_Gun_PDW.verbs.Verb_Shoot.label>PDW</VWE_Gun_PDW.verbs.Verb_Shoot.label>
+
+  <!-- EN: unique lightweight pistol -->
+  <VWE_Gun_AutomaticPistol_Unique.label>pistola leve única</VWE_Gun_AutomaticPistol_Unique.label>
+
+  <!-- EN: A lightweight pistol with customized parts. -->
+  <VWE_Gun_AutomaticPistol_Unique.description>Uma pistola leve com peças personalizadas.</VWE_Gun_AutomaticPistol_Unique.description>
+
+  <!-- EN: grip -->
+  <VWE_Gun_AutomaticPistol_Unique.tools.grip.label>cabo</VWE_Gun_AutomaticPistol_Unique.tools.grip.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_AutomaticPistol_Unique.tools.barrel.label>cano</VWE_Gun_AutomaticPistol_Unique.tools.barrel.label>
+
+  <!-- EN: unique lightweight pistol -->
+  <VWE_Gun_AutomaticPistol_Unique.verbs.Verb_Shoot.label>pistola leve única</VWE_Gun_AutomaticPistol_Unique.verbs.Verb_Shoot.label>
+
+  <!-- EN: unique bullpup DMR -->
+  <VWE_Gun_BullpupDMR_Unique.label>DMR bullpup único</VWE_Gun_BullpupDMR_Unique.label>
+
+  <!-- EN: A bullpup DMR with customized parts. -->
+  <VWE_Gun_BullpupDMR_Unique.description>Um DMR bullpup com peças personalizadas.</VWE_Gun_BullpupDMR_Unique.description>
+
+  <!-- EN: stock -->
+  <VWE_Gun_BullpupDMR_Unique.tools.stock.label>coronha</VWE_Gun_BullpupDMR_Unique.tools.stock.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_BullpupDMR_Unique.tools.barrel.label>cano</VWE_Gun_BullpupDMR_Unique.tools.barrel.label>
+
+  <!-- EN: unique bullpup DMR -->
+  <VWE_Gun_BullpupDMR_Unique.verbs.Verb_Shoot.label>DMR bullpup único</VWE_Gun_BullpupDMR_Unique.verbs.Verb_Shoot.label>
+
+  <!-- EN: unique bullpup rifle -->
+  <VWE_Gun_BullpupRifle_Unique.label>rifle bullpup único</VWE_Gun_BullpupRifle_Unique.label>
+
+  <!-- EN: A bullpup rifle with customized parts. -->
+  <VWE_Gun_BullpupRifle_Unique.description>Um rifle bullpup com peças personalizadas.</VWE_Gun_BullpupRifle_Unique.description>
+
+  <!-- EN: stock -->
+  <VWE_Gun_BullpupRifle_Unique.tools.stock.label>coronha</VWE_Gun_BullpupRifle_Unique.tools.stock.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_BullpupRifle_Unique.tools.barrel.label>cano</VWE_Gun_BullpupRifle_Unique.tools.barrel.label>
+
+  <!-- EN: unique bullpup rifle -->
+  <VWE_Gun_BullpupRifle_Unique.verbs.Verb_Shoot.label>rifle bullpup único</VWE_Gun_BullpupRifle_Unique.verbs.Verb_Shoot.label>
+
+  <!-- EN: unique PDW -->
+  <VWE_Gun_PDW_Unique.label>PDW única</VWE_Gun_PDW_Unique.label>
+
+  <!-- EN: A PDW with customized parts. -->
+  <VWE_Gun_PDW_Unique.description>Uma PDW com peças personalizadas.</VWE_Gun_PDW_Unique.description>
+
+  <!-- EN: grip -->
+  <VWE_Gun_PDW_Unique.tools.grip.label>cabo</VWE_Gun_PDW_Unique.tools.grip.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_PDW_Unique.tools.barrel.label>cano</VWE_Gun_PDW_Unique.tools.barrel.label>
+
+  <!-- EN: unique PDW -->
+  <VWE_Gun_PDW_Unique.verbs.Verb_Shoot.label>PDW única</VWE_Gun_PDW_Unique.verbs.Verb_Shoot.label>
+
+</LanguageData>
+
