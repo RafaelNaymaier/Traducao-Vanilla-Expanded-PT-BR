@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: anesthetic -->
+  <VWE_Anesthetic.label>anestésico</VWE_Anesthetic.label>
+
+  <!-- EN: Sleep drugs in the bloodstream. Anesthetic renders creatures unconscious. -->
+  <VWE_Anesthetic.description>Substâncias sedativas na corrente sanguínea. O anestésico deixa as criaturas inconscientes.</VWE_Anesthetic.description>
+
+  <!-- EN: wearing off -->
+  <VWE_Anesthetic.stages.wearing_off.label>efeito diminuindo</VWE_Anesthetic.stages.wearing_off.label>
+
+  <!-- EN: woozy -->
+  <VWE_Anesthetic.stages.woozy.label>tontura</VWE_Anesthetic.stages.woozy.label>
+
+  <!-- EN: sedated -->
+  <VWE_Anesthetic.stages.sedated.label>sedação</VWE_Anesthetic.stages.sedated.label>
+
+  <!-- EN: sedative kicking in -->
+  <VWE_Anesthetic.stages.sedative_kicking_in.label>sedativo fazendo efeito</VWE_Anesthetic.stages.sedative_kicking_in.label>
+
+  <!-- EN: dart wound -->
+  <VWE_Dart.label>ferimento por dardo</VWE_Dart.label>
+
+  <!-- EN: A dart wound. -->
+  <VWE_Dart.description>Um ferimento por dardo.</VWE_Dart.description>
+
+  <!-- EN: permanent dart injury -->
+  <VWE_Dart.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>lesão permanente por dardo</VWE_Dart.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+
+  <!-- EN: old dart scar -->
+  <VWE_Dart.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz antiga por dardo</VWE_Dart.comps.HediffComp_GetsPermanent.permanentLabel>
+
+  <!-- EN: Shot off -->
+  <VWE_Dart.injuryProps.destroyedLabel>Arrancado por disparo</VWE_Dart.injuryProps.destroyedLabel>
+
+  <!-- EN: Shot out -->
+  <VWE_Dart.injuryProps.destroyedOutLabel>Destruído por disparo</VWE_Dart.injuryProps.destroyedOutLabel>
+
+  <!-- EN: a dart wound -->
+  <VWE_Dart.labelNoun>um ferimento por dardo</VWE_Dart.labelNoun>
+
+  <!-- EN: {0} in the {1} -->
+  <VWE_Dart.labelNounPretty>{0} em {1}</VWE_Dart.labelNounPretty>
+
+  <!-- EN: tear gas -->
+  <VWE_TearGas.label>gás lacrimogêneo</VWE_TearGas.label>
+
+  <!-- EN: Tear gas causing burning sensation in the eyes and nose, totally disabling the sight ability of the victim. -->
+  <VWE_TearGas.description>Gás lacrimogêneo que provoca ardência nos olhos e no nariz, impedindo completamente a vítima de enxergar.</VWE_TearGas.description>
+
+  <!-- EN: wearing off -->
+  <VWE_TearGas.stages.wearing_off.label>efeito diminuindo</VWE_TearGas.stages.wearing_off.label>
+
+  <!-- EN: teary -->
+  <VWE_TearGas.stages.teary.label>lacrimejamento</VWE_TearGas.stages.teary.label>
+
+  <!-- EN: blinded -->
+  <VWE_TearGas.stages.blinded.label>cegueira</VWE_TearGas.stages.blinded.label>
+
+</LanguageData>
+

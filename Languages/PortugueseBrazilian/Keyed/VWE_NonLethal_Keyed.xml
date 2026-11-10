@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Allow stun and paralize damage to affect entities -->
+  <VQE_MakeStunAndParalizeAffectAnomalies>Permitir que danos de atordoamento e paralisia afetem entidades</VQE_MakeStunAndParalizeAffectAnomalies>
+
+  <!-- EN: If disabled, stun and paralize damage from this mod will NOT affect entities from the Anomaly DLC -->
+  <VQE_MakeStunAndParalizeAffectAnomaliesDesc>Se desativado, os danos de atordoamento e paralisia deste mod NÃO afetarão as entidades da DLC Anomaly</VQE_MakeStunAndParalizeAffectAnomaliesDesc>
+
+  <!-- EN: Allow stun and paralize damage to affect insectoid bosses -->
+  <VQE_MakeStunAndParalizeAffectInsectoidBosses>Permitir que danos de atordoamento e paralisia afetem chefes insetoides</VQE_MakeStunAndParalizeAffectInsectoidBosses>
+
+  <!-- EN: If disabled, stun and paralize damage from this mod will NOT affect insectoid bosses from Vanilla Factions Expanded - Insectoids 2 -->
+  <VQE_MakeStunAndParalizeAffectInsectoidBossesDesc>Se desativado, os danos de atordoamento e paralisia deste mod NÃO afetarão os chefes insetoides de Vanilla Factions Expanded - Insectoids 2</VQE_MakeStunAndParalizeAffectInsectoidBossesDesc>
+
+  <!-- EN: Allow stun and paralize damage to affect specific creatures -->
+  <VQE_MakeStunAndParalizeAffectXMLDefined>Permitir que danos de atordoamento e paralisia afetem criaturas específicas</VQE_MakeStunAndParalizeAffectXMLDefined>
+
+  <!-- EN: If disabled, stun and paralize damage from this mod will NOT affect specific creatures that are defined via XML. These can be defined by other modders. Dy default this affects the Gallatross, Behemoth, Summit Crab, Fungal Husk and Archotech Centipede. -->
+  <VQE_MakeStunAndParalizeAffectXMLDefinedDesc>Se desativado, os danos de atordoamento e paralisia deste mod NÃO afetarão criaturas específicas definidas por XML. Outros criadores de mods podem definir essas criaturas. Por padrão, isso afeta Gallatross, Behemoth, Summit Crab, Fungal Husk e Archotech Centipede.</VQE_MakeStunAndParalizeAffectXMLDefinedDesc>
+
+</LanguageData>
+

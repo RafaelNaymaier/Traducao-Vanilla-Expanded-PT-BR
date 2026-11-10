@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: tear gas -->
+  <VWENL_TearGasCloud.label>gás lacrimogêneo</VWENL_TearGasCloud.label>
+
+  <!-- EN: tear gas grenades -->
+  <VWE_TearGasGrenade.label>granadas lacrimogêneas</VWE_TearGasGrenade.label>
+
+  <!-- EN: Modern canister containing a special compound commonly referred to as tear gas. Temporarily blinds victims. -->
+  <VWE_TearGasGrenade.description>Um recipiente moderno contendo um composto especial conhecido como gás lacrimogêneo. Causa cegueira temporária nas vítimas.</VWE_TearGasGrenade.description>
+
+  <!-- EN: throw smoke grenade -->
+  <VWE_TearGasGrenade.verbs.throw_smoke_grenade.label>arremessar granada lacrimogênea</VWE_TearGasGrenade.verbs.throw_smoke_grenade.label>
+
+  <!-- EN: tear gas grenade -->
+  <VWENL_Projectile_TearGasGrenade.label>granada lacrimogênea</VWENL_Projectile_TearGasGrenade.label>
+
+  <!-- EN: taser beam -->
+  <VWENLBeamGraphic.label>descarga elétrica</VWENLBeamGraphic.label>
+
+  <!-- EN: tranquilizer dart -->
+  <VWE_Bullet_DartGun.label>dardo tranquilizante</VWE_Bullet_DartGun.label>
+
+  <!-- EN: rubber bullet -->
+  <VWE_Bullet_RubberPistol.label>bala de borracha</VWE_Bullet_RubberPistol.label>
+
+  <!-- EN: taser shot -->
+  <VWE_Bullet_Taser.label>descarga elétrica</VWE_Bullet_Taser.label>
+
+  <!-- EN: A high-voltage taser shot. -->
+  <VWE_Bullet_Taser.description>Uma descarga elétrica de alta tensão.</VWE_Bullet_Taser.description>
+
+  <!-- EN: dart gun -->
+  <VWE_Gun_DartGun.label>arma de dardos</VWE_Gun_DartGun.label>
+
+  <!-- EN: A non-lethal air gun used to reduce irritability or agitation in animals or humans via anesthetic drugs commonly referred to as tranquilizers. -->
+  <VWE_Gun_DartGun.description>Uma arma de ar comprimido não letal, usada para reduzir a irritabilidade ou a agitação de animais ou humanos por meio de substâncias anestésicas conhecidas como tranquilizantes.</VWE_Gun_DartGun.description>
+
+  <!-- EN: stock -->
+  <VWE_Gun_DartGun.tools.stock.label>coronha</VWE_Gun_DartGun.tools.stock.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_DartGun.tools.barrel.label>cano</VWE_Gun_DartGun.tools.barrel.label>
+
+  <!-- EN: dart gun -->
+  <VWE_Gun_DartGun.verbs.Verb_Shoot.label>arma de dardos</VWE_Gun_DartGun.verbs.Verb_Shoot.label>
+
+  <!-- EN: non-lethal pistol -->
+  <VWE_Gun_RubberBulletPistol.label>pistola não letal</VWE_Gun_RubberBulletPistol.label>
+
+  <!-- EN: A modern design of a gas-operated pistol firing rubber pellets. While chances of serious injury are lower, there is still a chance blunt trauma will result in death. -->
+  <VWE_Gun_RubberBulletPistol.description>Uma pistola moderna, operada a gás, que dispara projéteis de borracha. Embora as chances de ferimentos graves sejam menores, ainda há a possibilidade de o trauma por impacto causar a morte.</VWE_Gun_RubberBulletPistol.description>
+
+  <!-- EN: grip -->
+  <VWE_Gun_RubberBulletPistol.tools.grip.label>cabo</VWE_Gun_RubberBulletPistol.tools.grip.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_RubberBulletPistol.tools.barrel.label>cano</VWE_Gun_RubberBulletPistol.tools.barrel.label>
+
+  <!-- EN: non-lethal pistol -->
+  <VWE_Gun_RubberBulletPistol.verbs.Verb_Shoot.label>pistola não letal</VWE_Gun_RubberBulletPistol.verbs.Verb_Shoot.label>
+
+  <!-- EN: taser gun -->
+  <VWE_Gun_Taser.label>pistola de choque</VWE_Gun_Taser.label>
+
+  <!-- EN: An industrial tech short range taser pistol. It delivers an electric shock aimed at temporarily disrupting muscle functions and inflicting pain without usually causing significant injury. -->
+  <VWE_Gun_Taser.description>Uma pistola de choque de curto alcance e tecnologia industrial. Produz um choque elétrico destinado a interromper temporariamente o funcionamento dos músculos e causar dor, geralmente sem provocar ferimentos significativos.</VWE_Gun_Taser.description>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_Taser.tools.barrel.label>cano</VWE_Gun_Taser.tools.barrel.label>
+
+  <!-- EN: grip -->
+  <VWE_Gun_Taser.tools.grip.label>cabo</VWE_Gun_Taser.tools.grip.label>
+
+  <!-- EN: Standard -->
+  <VWE_Gun_Taser.verbs.Standard.label>Padrão</VWE_Gun_Taser.verbs.Standard.label>
+
+  <!-- EN: tear gas launcher -->
+  <VWE_Gun_TearGasLauncher.label>lançador de gás lacrimogêneo</VWE_Gun_TearGasLauncher.label>
+
+  <!-- EN: A modern single-shell launcher loaded with tear gas canisters. Often used by riot police across almost all urbworlds. -->
+  <VWE_Gun_TearGasLauncher.description>Um lançador moderno de tiro único, carregado com cartuchos de gás lacrimogêneo. Muito usado por tropas de choque em quase todos os mundos urbanos.</VWE_Gun_TearGasLauncher.description>
+
+  <!-- EN: stock -->
+  <VWE_Gun_TearGasLauncher.tools.stock.label>coronha</VWE_Gun_TearGasLauncher.tools.stock.label>
+
+  <!-- EN: barrel -->
+  <VWE_Gun_TearGasLauncher.tools.barrel.label>cano</VWE_Gun_TearGasLauncher.tools.barrel.label>
+
+  <!-- EN: tear gas launcher -->
+  <VWE_Gun_TearGasLauncher.verbs.Verb_Shoot.label>lançador de gás lacrimogêneo</VWE_Gun_TearGasLauncher.verbs.Verb_Shoot.label>
+
+  <!-- EN: stun baton -->
+  <VWE_MeleeWeapon_StunBaton.label>bastão de choque</VWE_MeleeWeapon_StunBaton.label>
+
+  <!-- EN: A short peacekeeping baton with electroshock prod that delivers an electric shock aimed at temporarily disrupting muscle functions. -->
+  <VWE_MeleeWeapon_StunBaton.description>Um bastão curto para manutenção da ordem, com uma ponta de eletrochoque que produz descargas elétricas destinadas a interromper temporariamente o funcionamento dos músculos.</VWE_MeleeWeapon_StunBaton.description>
+
+  <!-- EN: handle -->
+  <VWE_MeleeWeapon_StunBaton.tools.handle.label>cabo</VWE_MeleeWeapon_StunBaton.tools.handle.label>
+
+  <!-- EN: head -->
+  <VWE_MeleeWeapon_StunBaton.tools.head.label>cabeça</VWE_MeleeWeapon_StunBaton.tools.head.label>
+
+</LanguageData>
+
