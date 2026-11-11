@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: achieve excruciating pain -->
+  <VAspirE_AchieveExcruciatingPain.label>sentir dor excruciante</VAspirE_AchieveExcruciatingPain.label>
+
+  <!-- EN: {0} wants to achieve an exquisite, excruciating pain. -->
+  <VAspirE_AchieveExcruciatingPain.description>{0} quer sentir uma dor deliciosa e excruciante.</VAspirE_AchieveExcruciatingPain.description>
+
+  <!-- EN: {0} reaches a pain level of 100% (Extreme). -->
+  <VAspirE_AchieveExcruciatingPain.satisfiedWhenText>{0} atinge um nível de dor de 100% (Extrema).</VAspirE_AchieveExcruciatingPain.satisfiedWhenText>
+
+  <!-- EN: link with anima tree -->
+  <VAspirE_AnimaTreeLink.label>criar um vínculo com a árvore anima</VAspirE_AnimaTreeLink.label>
+
+  <!-- EN: {0} wants to undergo an anima tree linking ritual with them as the main recipient of the boons. -->
+  <VAspirE_AnimaTreeLink.description>{0} quer participar de um ritual de vínculo com a árvore anima e ser o principal beneficiário de suas dádivas.</VAspirE_AnimaTreeLink.description>
+
+  <!-- EN: {0} links with the anima tree. -->
+  <VAspirE_AnimaTreeLink.satisfiedWhenText>{0} cria um vínculo com a árvore anima.</VAspirE_AnimaTreeLink.satisfiedWhenText>
+
+  <!-- EN: attend an inspirational throne speech -->
+  <VAspirE_AttendSpeech.label>assistir a um discurso inspirador do trono</VAspirE_AttendSpeech.label>
+
+  <!-- EN: {0} wants to be there when an inspirational speech is given. -->
+  <VAspirE_AttendSpeech.description>{0} quer estar presente quando um discurso inspirador for proferido.</VAspirE_AttendSpeech.description>
+
+  <!-- EN: get a tentacle -->
+  <VAspirE_BecomeAHentaiCharacter.label>ganhar um tentáculo</VAspirE_BecomeAHentaiCharacter.label>
+
+  <!-- EN: {0} wants to get a warped body. -->
+  <VAspirE_BecomeAHentaiCharacter.description>{0} quer ter um corpo deformado.</VAspirE_BecomeAHentaiCharacter.description>
+
+  <!-- EN: become disliked -->
+  <VAspirE_BecomeDisliked.label>conquistar a antipatia dos outros</VAspirE_BecomeDisliked.label>
+
+  <!-- EN: {0} wants to be hated by many of their peers. -->
+  <VAspirE_BecomeDisliked.description>{0} quer conquistar o ódio de muitos de seus pares.</VAspirE_BecomeDisliked.description>
+
+  <!-- EN: {0} has 10 people with negative opinion about them. -->
+  <VAspirE_BecomeDisliked.satisfiedWhenText>{0} tem 10 pessoas com uma opinião negativa a seu respeito.</VAspirE_BecomeDisliked.satisfiedWhenText>
+
+  <!-- EN: become a grandparent -->
+  <VAspirE_BecomeGrandParent.label>ter um neto</VAspirE_BecomeGrandParent.label>
+
+  <!-- EN: {0} wants to become a grandparent and have a grandchild. -->
+  <VAspirE_BecomeGrandParent.description>{0} quer ter um neto.</VAspirE_BecomeGrandParent.description>
+
+  <!-- EN: become an ideological figure -->
+  <VAspirE_BecomeIdeologicalFigure.label>tornar-se uma figura ideológica</VAspirE_BecomeIdeologicalFigure.label>
+
+  <!-- EN: {0} wants to become a meaningful figure in their ideology. -->
+  <VAspirE_BecomeIdeologicalFigure.description>{0} quer se tornar uma figura de destaque em sua ideologia.</VAspirE_BecomeIdeologicalFigure.description>
+
+  <!-- EN: {0} gains any role in their ideology - leader, moralist, specialist. -->
+  <VAspirE_BecomeIdeologicalFigure.satisfiedWhenText>{0} assume qualquer papel em sua ideologia: líder, guia moral ou especialista.</VAspirE_BecomeIdeologicalFigure.satisfiedWhenText>
+
+  <!-- EN: become inhuman -->
+  <VAspirE_BecomeInhuman.label>tornar-se inumano</VAspirE_BecomeInhuman.label>
+
+  <!-- EN: {0} wants to be dominated by the psychic patterns of the void and become inhuman. -->
+  <VAspirE_BecomeInhuman.description>{0} quer sucumbir aos padrões psíquicos do vazio e se tornar inumano.</VAspirE_BecomeInhuman.description>
+
+  <!-- EN: become a leader -->
+  <VAspirE_BecomeLeader.label>tornar-se líder</VAspirE_BecomeLeader.label>
+
+  <!-- EN: {0} wants to lead their people from a position of power. -->
+  <VAspirE_BecomeLeader.description>{0} quer liderar seu povo a partir de uma posição de poder.</VAspirE_BecomeLeader.description>
+
+  <!-- EN: {0} becomes an ideology Leader. -->
+  <VAspirE_BecomeLeader.satisfiedWhenText>{0} se torna Líder de uma ideologia.</VAspirE_BecomeLeader.satisfiedWhenText>
+
+  <!-- EN: become liked -->
+  <VAspirE_BecomeLiked.label>conquistar a simpatia dos outros</VAspirE_BecomeLiked.label>
+
+  <!-- EN: {0} wants to be liked by many of their peers. -->
+  <VAspirE_BecomeLiked.description>{0} quer conquistar a simpatia de muitos de seus pares.</VAspirE_BecomeLiked.description>
+
+  <!-- EN: {0} has 10 people with positive opinion about them. -->
+  <VAspirE_BecomeLiked.satisfiedWhenText>{0} tem 10 pessoas com uma opinião positiva a seu respeito.</VAspirE_BecomeLiked.satisfiedWhenText>
+
+  <!-- EN: become a mechanitor -->
+  <VAspirE_BecomeMechanitor.label>tornar-se mecanitor</VAspirE_BecomeMechanitor.label>
+
+  <!-- EN: {0} wants to control the march of the machines. -->
+  <VAspirE_BecomeMechanitor.description>{0} quer controlar a marcha das máquinas.</VAspirE_BecomeMechanitor.description>
+
+  <!-- EN: become noble -->
+  <VAspirE_BecomeNoble.label>tornar-se nobre</VAspirE_BecomeNoble.label>
+
+  <!-- EN: {0} wants to join the imperial great hierarchy. -->
+  <VAspirE_BecomeNoble.description>{0} quer ingressar na grande hierarquia imperial.</VAspirE_BecomeNoble.description>
+
+  <!-- EN: {0} becomes at least Yeoman. -->
+  <VAspirE_BecomeNoble.satisfiedWhenText>{0} alcança pelo menos o título de Noviço.</VAspirE_BecomeNoble.satisfiedWhenText>
+
+  <!-- EN: become a parent -->
+  <VAspirE_BecomeParent.label>ter um filho</VAspirE_BecomeParent.label>
+
+  <!-- EN: {0} wants to become a parent and have a child of their own. -->
+  <VAspirE_BecomeParent.description>{0} quer ter um filho.</VAspirE_BecomeParent.description>
+
+  <!-- EN: become a psycaster -->
+  <VAspirE_BecomePsycaster.label>tornar-se psinjurador</VAspirE_BecomePsycaster.label>
+
+  <!-- EN: {0} wants to become acquainted with the psychic powers of psycasters. -->
+  <VAspirE_BecomePsycaster.description>{0} quer conhecer os poderes psíquicos dos psinjuradores.</VAspirE_BecomePsycaster.description>
+
+  <!-- EN: become rich -->
+  <VAspirE_BecomeRich.label>enriquecer</VAspirE_BecomeRich.label>
+
+  <!-- EN: {0} wants their colony to prosper and become excessively rich. -->
+  <VAspirE_BecomeRich.description>{0} quer que sua colônia prospere e se torne imensamente rica.</VAspirE_BecomeRich.description>
+
+  <!-- EN: {0}’s colony wealth exceeds 300.000. -->
+  <VAspirE_BecomeRich.satisfiedWhenText>A riqueza da colônia de {0} ultrapassa 300.000.</VAspirE_BecomeRich.satisfiedWhenText>
+
+  <!-- EN: become a sanguophage -->
+  <VAspirE_BecomeSanguophage.label>tornar-se sanguófago</VAspirE_BecomeSanguophage.label>
+
+  <!-- EN: {0} wants to live forever as a sanguophage. -->
+  <VAspirE_BecomeSanguophage.description>{0} quer viver para sempre como sanguófago.</VAspirE_BecomeSanguophage.description>
+
+  <!-- EN: bond with an animal -->
+  <VAspirE_BondWithAnimal.label>criar um vínculo com um animal</VAspirE_BondWithAnimal.label>
+
+  <!-- EN: {0} wants to bond with an animal companion. -->
+  <VAspirE_BondWithAnimal.description>{0} quer criar um vínculo com um companheiro animal.</VAspirE_BondWithAnimal.description>
+
+  <!-- EN: burn some luciferium -->
+  <VAspirE_BurnSomeLuciferium.label>queimar um pouco de lucifério</VAspirE_BurnSomeLuciferium.label>
+
+  <!-- EN: {0} wants to get rid of some disgusting luciferium in a crematorium or fireplace. -->
+  <VAspirE_BurnSomeLuciferium.description>{0} quer se livrar de um pouco desse lucifério repugnante em um crematório ou uma lareira.</VAspirE_BurnSomeLuciferium.description>
+
+  <!-- EN: complete machine body -->
+  <VAspirE_CompleteMachineBody.label>completar um corpo mecânico</VAspirE_CompleteMachineBody.label>
+
+  <!-- EN: {0} would like to have 6 different artificial body parts. -->
+  <VAspirE_CompleteMachineBody.description>{0} gostaria de ter 6 partes artificiais diferentes no corpo.</VAspirE_CompleteMachineBody.description>
+
+  <!-- EN: connect with a gauranlen tree -->
+  <VAspirE_ConnectWithGauranlenTree.label>conectar-se a uma árvore gauranlen</VAspirE_ConnectWithGauranlenTree.label>
+
+  <!-- EN: {0} would love to connect with a Gauranlen tree in a tree linking ceremony. -->
+  <VAspirE_ConnectWithGauranlenTree.description>{0} adoraria se conectar a uma árvore Gauranlen em uma cerimônia de vínculo com árvore.</VAspirE_ConnectWithGauranlenTree.description>
+
+  <!-- EN: {0} connects to a Gauranlen tree via tree linking ceremony. -->
+  <VAspirE_ConnectWithGauranlenTree.satisfiedWhenText>{0} se conecta a uma árvore Gauranlen por meio de uma cerimônia de vínculo com árvore.</VAspirE_ConnectWithGauranlenTree.satisfiedWhenText>
+
+  <!-- EN: consume human meat -->
+  <VAspirE_ConsumeHumanMeat.label>consumir carne humana</VAspirE_ConsumeHumanMeat.label>
+
+  <!-- EN: {0} wants to see what long pig tastes like. -->
+  <VAspirE_ConsumeHumanMeat.description>{0} quer descobrir que gosto tem esse tal de porco de duas pernas.</VAspirE_ConsumeHumanMeat.description>
+
+  <!-- EN: consume luciferium -->
+  <VAspirE_ConsumeLuciferium.label>consumir lucifério</VAspirE_ConsumeLuciferium.label>
+
+  <!-- EN: {0} wants to ride the luciferium high. -->
+  <VAspirE_ConsumeLuciferium.description>{0} quer curtir a onda do lucifério.</VAspirE_ConsumeLuciferium.description>
+
+  <!-- EN: create a legendary work -->
+  <VAspirE_CreateLegendary.label>criar uma obra lendária</VAspirE_CreateLegendary.label>
+
+  <!-- EN: {0} wants to leave their mark on the world and create a legendary work. -->
+  <VAspirE_CreateLegendary.description>{0} quer deixar sua marca no mundo e criar uma obra lendária.</VAspirE_CreateLegendary.description>
+
+  <!-- EN: {0} creates any legendary object - weapon, armor, sculpture, furniture, anything. -->
+  <VAspirE_CreateLegendary.satisfiedWhenText>{0} cria qualquer objeto lendário: arma, armadura, escultura, móvel, qualquer coisa.</VAspirE_CreateLegendary.satisfiedWhenText>
+
+  <!-- EN: dead rival -->
+  <VAspirE_DeadRival.label>ter um rival morto</VAspirE_DeadRival.label>
+
+  <!-- EN: {0} would like to have a rival, and for them to die. -->
+  <VAspirE_DeadRival.description>{0} gostaria de ter um rival e que ele morresse.</VAspirE_DeadRival.description>
+
+  <!-- EN: defeat faction leader -->
+  <VAspirE_DefeatFactionLeader.label>derrotar um líder de facção</VAspirE_DefeatFactionLeader.label>
+
+  <!-- EN: {0} wants to be the one to defeat an enemy faction leader. -->
+  <VAspirE_DefeatFactionLeader.description>{0} quer ser responsável por derrotar o líder de uma facção inimiga.</VAspirE_DefeatFactionLeader.description>
+
+  <!-- EN: destroy a mech cluster -->
+  <VAspirE_DestroyCluster.label>destruir um agrupamento mecanoide</VAspirE_DestroyCluster.label>
+
+  <!-- EN: {0} wants to completely destroy a mech cluster. -->
+  <VAspirE_DestroyCluster.description>{0} quer destruir completamente um agrupamento mecanoide.</VAspirE_DestroyCluster.description>
+
+  <!-- EN: destroy an insect hive -->
+  <VAspirE_DestroyInsectHive.label>destruir uma colmeia de insetos</VAspirE_DestroyInsectHive.label>
+
+  <!-- EN: {0} wants to completely destroy an insect hive. -->
+  <VAspirE_DestroyInsectHive.description>{0} quer destruir completamente uma colmeia de insetos.</VAspirE_DestroyInsectHive.description>
+
+  <!-- EN: experience resurrection -->
+  <VAspirE_ExperienceResurrection.label>vivenciar a ressurreição</VAspirE_ExperienceResurrection.label>
+
+  <!-- EN: {0} wants to experience true death and be resurrected using a mech serum. -->
+  <VAspirE_ExperienceResurrection.description>{0} quer vivenciar a morte de verdade e voltar à vida com um soro mecanoide.</VAspirE_ExperienceResurrection.description>
+
+  <!-- EN: feel catharsis -->
+  <VAspirE_FeelCatharsis.label>sentir catarse</VAspirE_FeelCatharsis.label>
+
+  <!-- EN: {0} wants to unbottle their feelings and feel the serenity afterwards. -->
+  <VAspirE_FeelCatharsis.description>{0} quer colocar os sentimentos para fora e sentir a serenidade que vem depois.</VAspirE_FeelCatharsis.description>
+
+  <!-- EN: form a psychic bond -->
+  <VAspirE_FormPsychicBond.label>formar um vínculo psíquico</VAspirE_FormPsychicBond.label>
+
+  <!-- EN: {0} wants to psychically bond with a perfect partner. -->
+  <VAspirE_FormPsychicBond.description>{0} quer formar um vínculo psíquico com o par perfeito.</VAspirE_FormPsychicBond.description>
+
+  <!-- EN: gain a level five psycast -->
+  <VAspirE_GainALevel5Psycast.label>obter uma psiconjuração de nível cinco</VAspirE_GainALevel5Psycast.label>
+
+  <!-- EN: {0} would like to gain access to a psycast of the fifth level. -->
+  <VAspirE_GainALevel5Psycast.description>{0} gostaria de ter acesso a uma psiconjuração de quinto nível.</VAspirE_GainALevel5Psycast.description>
+
+  <!-- EN: get a beautiful lover -->
+  <VAspirE_GetBeautifulLover.label>conquistar uma pessoa bonita</VAspirE_GetBeautifulLover.label>
+
+  <!-- EN: {0} wants to be told that they are punching above their weight, and become lovers with a beautiful person. -->
+  <VAspirE_GetBeautifulLover.description>{0} quer ouvir que conseguiu alguém bom demais para si e começar um romance com uma pessoa bonita.</VAspirE_GetBeautifulLover.description>
+
+  <!-- EN: {0} becomes lovers with a pawn with a Beauty stat of 1 or higher. -->
+  <VAspirE_GetBeautifulLover.satisfiedWhenText>{0} começa um romance com um colono cujo atributo de Beleza é 1 ou mais.</VAspirE_GetBeautifulLover.satisfiedWhenText>
+
+  <!-- EN: get bionic spine -->
+  <VAspirE_GetBionicSpine.label>obter uma coluna biônica</VAspirE_GetBionicSpine.label>
+
+  <!-- EN: {0} would love to have a bionic spine. -->
+  <VAspirE_GetBionicSpine.description>{0} adoraria ter uma coluna biônica.</VAspirE_GetBionicSpine.description>
+
+  <!-- EN: get blackout drunk -->
+  <VAspirE_GetBlackoutDrunk.label>beber até apagar</VAspirE_GetBlackoutDrunk.label>
+
+  <!-- EN: {0} wants to get absolutely shitfaced. -->
+  <VAspirE_GetBlackoutDrunk.description>{0} quer encher a cara até cair.</VAspirE_GetBlackoutDrunk.description>
+
+  <!-- EN: get digested -->
+  <VAspirE_GetDigested.label>ser digerido</VAspirE_GetDigested.label>
+
+  <!-- EN: {0} wants to get digested whole. {0} swears this is not a kink thing. -->
+  <VAspirE_GetDigested.description>{0} quer ser digerido por inteiro. {0} jura que isso não é um fetiche.</VAspirE_GetDigested.description>
+
+  <!-- EN: get five burn scars -->
+  <VAspirE_GetFiveBurnScars.label>ganhar cinco cicatrizes de queimadura</VAspirE_GetFiveBurnScars.label>
+
+  <!-- EN: {0} wants to get five burn scars. -->
+  <VAspirE_GetFiveBurnScars.description>{0} quer ganhar cinco cicatrizes de queimadura.</VAspirE_GetFiveBurnScars.description>
+
+  <!-- EN: get inspiration -->
+  <VAspirE_GetInspiration.label>obter inspiração</VAspirE_GetInspiration.label>
+
+  <!-- EN: {0} aspires to be inspired. -->
+  <VAspirE_GetInspiration.description>{0} aspira a se inspirar.</VAspirE_GetInspiration.description>
+
+  <!-- EN: {0} gains any inspiration. -->
+  <VAspirE_GetInspiration.satisfiedWhenText>{0} recebe qualquer inspiração.</VAspirE_GetInspiration.satisfiedWhenText>
+
+  <!-- EN: get joywired -->
+  <VAspirE_GetJoywired.label>implantar um estimulador de prazer</VAspirE_GetJoywired.label>
+
+  <!-- EN: {0} would like to feel the effects of joywire. -->
+  <VAspirE_GetJoywired.description>{0} gostaria de sentir os efeitos de um estimulador de prazer.</VAspirE_GetJoywired.description>
+
+  <!-- EN: get married -->
+  <VAspirE_GetMarried.label>casar-se</VAspirE_GetMarried.label>
+
+  <!-- EN: {0} would like to get married. -->
+  <VAspirE_GetMarried.description>{0} gostaria de se casar.</VAspirE_GetMarried.description>
+
+  <!-- EN: get rid of asthma -->
+  <VAspirE_GetRidOfAsthma.label>livrar-se da asma</VAspirE_GetRidOfAsthma.label>
+
+  <!-- EN: {0} wants to get rid of asthma. -->
+  <VAspirE_GetRidOfAsthma.description>{0} quer se livrar da asma.</VAspirE_GetRidOfAsthma.description>
+
+  <!-- EN: get rid of cataracts -->
+  <VAspirE_GetRidOfCataracts.label>livrar-se da catarata</VAspirE_GetRidOfCataracts.label>
+
+  <!-- EN: {0} wants to get rid of cataracts. -->
+  <VAspirE_GetRidOfCataracts.description>{0} quer se livrar da catarata.</VAspirE_GetRidOfCataracts.description>
+
+  <!-- EN: get rid of hearing loss -->
+  <VAspirE_GetRidOfHearingLoss.label>livrar-se da perda auditiva</VAspirE_GetRidOfHearingLoss.label>
+
+  <!-- EN: {0} wants to get rid of hearing loss. -->
+  <VAspirE_GetRidOfHearingLoss.description>{0} quer se livrar da perda auditiva.</VAspirE_GetRidOfHearingLoss.description>
+
+  <!-- EN: get some lovin' -->
+  <VAspirE_GetSomeLovin.label>fazer um amorzinho</VAspirE_GetSomeLovin.label>
+
+  <!-- EN: {0} would like to get some lovin’. -->
+  <VAspirE_GetSomeLovin.description>{0} gostaria de fazer um amorzinho.</VAspirE_GetSomeLovin.description>
+
+  <!-- EN: get ultimate revenge on a Centipede -->
+  <VAspirE_GetUltimateRevengeOnCentipede.label>vingar-se de vez de uma Centopeia</VAspirE_GetUltimateRevengeOnCentipede.label>
+
+  <!-- EN: {0} wants to shred a Centipede blaster to show him who's boss now. -->
+  <VAspirE_GetUltimateRevengeOnCentipede.description>{0} quer triturar uma Centopeia artilheira para mostrar a ela quem manda agora.</VAspirE_GetUltimateRevengeOnCentipede.description>
+
+  <!-- EN: grow old -->
+  <VAspirE_GrowOld.label>envelhecer</VAspirE_GrowOld.label>
+
+  <!-- EN: {0} wants to live long enough to see a different person in the mirror. -->
+  <VAspirE_GrowOld.description>{0} quer viver o bastante para ver uma pessoa diferente no espelho.</VAspirE_GrowOld.description>
+
+  <!-- EN: {0} gets birthday event/becomes 65, whichever comes first. -->
+  <VAspirE_GrowOld.satisfiedWhenText>{0} tem um evento de aniversário ou completa 65 anos, o que ocorrer primeiro.</VAspirE_GrowOld.satisfiedWhenText>
+
+  <!-- EN: have a wonderful room -->
+  <VAspirE_HaveWonderfulRoom.label>ter um quarto maravilhoso</VAspirE_HaveWonderfulRoom.label>
+
+  <!-- EN: {0} wants to have the most wonderful bedroom. -->
+  <VAspirE_HaveWonderfulRoom.description>{0} quer ter o quarto mais maravilhoso de todos.</VAspirE_HaveWonderfulRoom.description>
+
+  <!-- EN: hear anima scream -->
+  <VAspirE_HearAnimaScream.label>ouvir o grito da anima</VAspirE_HearAnimaScream.label>
+
+  <!-- EN: {0} wants to hear the screams of a dying anima tree. -->
+  <VAspirE_HearAnimaScream.description>{0} quer ouvir os gritos de uma árvore anima moribunda.</VAspirE_HearAnimaScream.description>
+
+  <!-- EN: held a concert -->
+  <VAspirE_HeldConcert.label>realizar um concerto</VAspirE_HeldConcert.label>
+
+  <!-- EN: {0} would like to hold a concert for other colonists. -->
+  <VAspirE_HeldConcert.description>{0} gostaria de realizar um concerto para os outros colonos.</VAspirE_HeldConcert.description>
+
+  <!-- EN: kill someone -->
+  <VAspirE_KillSomeone.label>matar alguém</VAspirE_KillSomeone.label>
+
+  <!-- EN: {0} wants to inflict pain and kill another being. -->
+  <VAspirE_KillSomeone.description>{0} quer causar dor e matar outro ser.</VAspirE_KillSomeone.description>
+
+  <!-- EN: {0} kills a humanoid. -->
+  <VAspirE_KillSomeone.satisfiedWhenText>{0} mata um humanoide.</VAspirE_KillSomeone.satisfiedWhenText>
+
+  <!-- EN: witness flesh shaping -->
+  <VAspirE_LearnToShapeFlesh.label>presenciar a moldagem de carne</VAspirE_LearnToShapeFlesh.label>
+
+  <!-- EN: {0} wants to see another person use the flesh shaping ability. -->
+  <VAspirE_LearnToShapeFlesh.description>{0} quer ver outra pessoa usar a habilidade de moldagem de carne.</VAspirE_LearnToShapeFlesh.description>
+
+  <!-- EN: obtain legendary gear -->
+  <VAspirE_ObtainLegendaryGear.label>obter equipamento lendário</VAspirE_ObtainLegendaryGear.label>
+
+  <!-- EN: {0} wants to feel the work of a legendary master in their grasp. -->
+  <VAspirE_ObtainLegendaryGear.description>{0} quer ter em mãos a obra de um mestre lendário.</VAspirE_ObtainLegendaryGear.description>
+
+  <!-- EN: {0} equips a legendary weapon or wears legendary apparel of any kind. -->
+  <VAspirE_ObtainLegendaryGear.satisfiedWhenText>{0} equipa uma arma lendária ou veste uma peça de vestuário lendária de qualquer tipo.</VAspirE_ObtainLegendaryGear.satisfiedWhenText>
+
+  <!-- EN: overdose -->
+  <VAspirE_Overdose.label>ter uma overdose</VAspirE_Overdose.label>
+
+  <!-- EN: {0} wants to see what it’s like to overdose. -->
+  <VAspirE_Overdose.description>{0} quer descobrir como é ter uma overdose.</VAspirE_Overdose.description>
+
+  <!-- EN: play with a golden cube -->
+  <VAspirE_PlayWithCube.label>brincar com um cubo dourado</VAspirE_PlayWithCube.label>
+
+  <!-- EN: {0} wants to play with a golden cube. -->
+  <VAspirE_PlayWithCube.description>{0} quer brincar com um cubo dourado.</VAspirE_PlayWithCube.description>
+
+  <!-- EN: propose -->
+  <VAspirE_Propose.label>pedir alguém em casamento</VAspirE_Propose.label>
+
+  <!-- EN: {0} would like to propose to somebody. -->
+  <VAspirE_Propose.description>{0} gostaria de pedir alguém em casamento.</VAspirE_Propose.description>
+
+  <!-- EN: read a fascinating tome -->
+  <VAspirE_ReadAFascinatingTome.label>ler um tomo fascinante</VAspirE_ReadAFascinatingTome.label>
+
+  <!-- EN: {0} wants to read a fascinating eldritch tome. -->
+  <VAspirE_ReadAFascinatingTome.description>{0} quer ler um tomo fascinante de conhecimentos sobrenaturais.</VAspirE_ReadAFascinatingTome.description>
+
+  <!-- EN: read an amazing book -->
+  <VAspirE_ReadAmazingBook.label>ler um livro incrível</VAspirE_ReadAmazingBook.label>
+
+  <!-- EN: {0} wants to read a book detailing a skill on which they are passionate about. -->
+  <VAspirE_ReadAmazingBook.description>{0} quer ler um livro sobre uma habilidade pela qual tem paixão.</VAspirE_ReadAmazingBook.description>
+
+  <!-- EN: see an aurora -->
+  <VAspirE_SeeAurora.label>ver uma aurora</VAspirE_SeeAurora.label>
+
+  <!-- EN: {0} wants to skygaze during an aurora. -->
+  <VAspirE_SeeAurora.description>{0} quer contemplar o céu durante uma aurora.</VAspirE_SeeAurora.description>
+
+  <!-- EN: use a flame weapon -->
+  <VAspirE_UseFireWeapon.label>usar uma arma de chamas</VAspirE_UseFireWeapon.label>
+
+  <!-- EN: {0} wants to use a flame weapon in combat. -->
+  <VAspirE_UseFireWeapon.description>{0} quer usar uma arma de chamas em combate.</VAspirE_UseFireWeapon.description>
+
+  <!-- EN: wield bladelink weapon -->
+  <VAspirE_WieldBladelink.label>empunhar uma arma de persona</VAspirE_WieldBladelink.label>
+
+  <!-- EN: {0} would like to bond with a bladelink weapon. -->
+  <VAspirE_WieldBladelink.description>{0} gostaria de criar um vínculo com uma arma de persona.</VAspirE_WieldBladelink.description>
+
+  <!-- EN: {0} psychically bonds with a bladelink weapon. -->
+  <VAspirE_WieldBladelink.satisfiedWhenText>{0} cria um vínculo psíquico com uma arma de persona.</VAspirE_WieldBladelink.satisfiedWhenText>
+
+  <!-- EN: be bonded to a royal animal -->
+  <VAspirE_BeBondedToARoyalAnimal.label>ter um vínculo com um animal real</VAspirE_BeBondedToARoyalAnimal.label>
+
+  <!-- EN: {0} would like to bond with one of the royal animals. -->
+  <VAspirE_BeBondedToARoyalAnimal.description>{0} gostaria de criar um vínculo com um dos animais reais.</VAspirE_BeBondedToARoyalAnimal.description>
+
+  <!-- EN: {0} bonds with either of: Crane, Orangutan, Peacock, Pheasant, Quail, Royal Tiger, Swan, Angora rabbit, Megachicken. -->
+  <VAspirE_BeBondedToARoyalAnimal.satisfiedWhenText>{0} cria um vínculo com um destes animais: grou, orangotango, pavão, faisão, codorna, tigre real, cisne, coelho angorá ou megagalinha.</VAspirE_BeBondedToARoyalAnimal.satisfiedWhenText>
+
+  <!-- EN: nuzzle with the fleshling -->
+  <VAspirE_NuzzleWithTheFleshling.label>trocar carinhos com a criatura de carne</VAspirE_NuzzleWithTheFleshling.label>
+
+  <!-- EN: {0} would like to nuzzle with the fleshling monstrosity. -->
+  <VAspirE_NuzzleWithTheFleshling.description>{0} gostaria de trocar carinhos com a monstruosa criatura de carne.</VAspirE_NuzzleWithTheFleshling.description>
+
+  <!-- EN: consume opium -->
+  <VAspirE_ConsumeOpium.label>consumir ópio</VAspirE_ConsumeOpium.label>
+
+  <!-- EN: {0} wants to taste opium. -->
+  <VAspirE_ConsumeOpium.description>{0} quer provar ópio.</VAspirE_ConsumeOpium.description>
+
+  <!-- EN: join the deserters -->
+  <VAspirE_JoinTheDeserters.label>juntar-se aos desertores</VAspirE_JoinTheDeserters.label>
+
+  <!-- EN: {0} wants to join the deserter cause. -->
+  <VAspirE_JoinTheDeserters.description>{0} quer se juntar à causa dos desertores.</VAspirE_JoinTheDeserters.description>
+
+  <!-- EN: use a declassifier -->
+  <VAspirE_UseADeclassifier.label>usar um desclassificador</VAspirE_UseADeclassifier.label>
+
+  <!-- EN: {0} wants to see what it’s like to use a deserter declassifier on an enemy noble. -->
+  <VAspirE_UseADeclassifier.description>{0} quer descobrir como é usar um desclassificador dos desertores em um nobre inimigo.</VAspirE_UseADeclassifier.description>
+
+  <!-- EN: become a consul -->
+  <VAspirE_BecomeAConsul.label>tornar-se cônsul</VAspirE_BecomeAConsul.label>
+
+  <!-- EN: {0} wants to gain a rank of a consul in the imperial hierarchy. -->
+  <VAspirE_BecomeAConsul.description>{0} quer alcançar o posto de cônsul na hierarquia imperial.</VAspirE_BecomeAConsul.description>
+
+  <!-- EN: {0} reaches the rank of Consul. -->
+  <VAspirE_BecomeAConsul.satisfiedWhenText>{0} alcança o posto de Cônsul.</VAspirE_BecomeAConsul.satisfiedWhenText>
+
+  <!-- EN: drink aperitif -->
+  <VAspirE_DrinkAperitif.label>beber aperitivo</VAspirE_DrinkAperitif.label>
+
+  <!-- EN: {0} would like to taste the luxury that is the aperitif. -->
+  <VAspirE_DrinkAperitif.description>{0} gostaria de provar o luxo que é o aperitivo.</VAspirE_DrinkAperitif.description>
+
+  <!-- EN: get entombed -->
+  <VAspirE_GetEntombed.label>ser enclausurado</VAspirE_GetEntombed.label>
+
+  <!-- EN: {0} wants to be entombed in a warcasket. -->
+  <VAspirE_GetEntombed.description>{0} quer ser enclausurado em uma carcaça de guerra.</VAspirE_GetEntombed.description>
+
+  <!-- EN: earn a cornerstone -->
+  <VAspirE_EarnACornerstone.label>conquistar um alicerce</VAspirE_EarnACornerstone.label>
+
+  <!-- EN: {0} desires to witness the technological advancement of their faction, the achievement of the cornerstone. -->
+  <VAspirE_EarnACornerstone.description>{0} deseja testemunhar o avanço tecnológico de sua facção e a conquista de um alicerce.</VAspirE_EarnACornerstone.description>
+
+  <!-- EN: {0} participates in any of the tech advancement rituals. -->
+  <VAspirE_EarnACornerstone.satisfiedWhenText>{0} participa de qualquer um dos rituais de avanço tecnológico.</VAspirE_EarnACornerstone.satisfiedWhenText>
+
+  <!-- EN: become an android lover -->
+  <VAspirE_BecomeAnAndroidLover.label>namorar um androide</VAspirE_BecomeAnAndroidLover.label>
+
+  <!-- EN: {0} wants to fall in love with an android. -->
+  <VAspirE_BecomeAnAndroidLover.description>{0} quer se apaixonar por um androide.</VAspirE_BecomeAnAndroidLover.description>
+
+  <!-- EN: {0} becomes lovers with a pawn that has the Power (android) gene. -->
+  <VAspirE_BecomeAnAndroidLover.satisfiedWhenText>{0} começa um romance com um colono que tem o gene Energia (androide).</VAspirE_BecomeAnAndroidLover.satisfiedWhenText>
+
+  <!-- EN: become transcendent -->
+  <VAspirE_BecomeTranscendent.label>tornar-se transcendente</VAspirE_BecomeTranscendent.label>
+
+  <!-- EN: {0} wants to become one of the transcendent. -->
+  <VAspirE_BecomeTranscendent.description>{0} quer se tornar um dos transcendentes.</VAspirE_BecomeTranscendent.description>
+
+  <!-- EN: become a fungoid -->
+  <VAspirE_BecomeFungoid.label>tornar-se fungoide</VAspirE_BecomeFungoid.label>
+
+  <!-- EN: {0} wants to have the fungal flesh gene. -->
+  <VAspirE_BecomeFungoid.description>{0} quer ter o gene de carne fúngica.</VAspirE_BecomeFungoid.description>
+
+  <!-- EN: ride in a classic car -->
+  <VAspirE_RideInAClassicCar.label>andar em um carro clássico</VAspirE_RideInAClassicCar.label>
+
+  <!-- EN: {0} would love to feel classy and ride in the classic car. -->
+  <VAspirE_RideInAClassicCar.description>{0} adoraria se sentir elegante e andar no carro clássico.</VAspirE_RideInAClassicCar.description>
+</LanguageData>
+
