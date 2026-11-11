@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ammo pack -->
+  <VAEA_Apparel_AmmoPack.label>bandoleira de munição</VAEA_Apparel_AmmoPack.label>
+
+  <!-- EN: Bandolier with ammunition. -->
+  <VAEA_Apparel_AmmoPack.description>Bandoleira com munição.</VAEA_Apparel_AmmoPack.description>
+
+  <!-- EN: backpack -->
+  <VAEA_Apparel_Backpack.label>mochila</VAEA_Apparel_Backpack.label>
+
+  <!-- EN: A simple roomy backpack. Greatly increases the carry weight of the wearer. -->
+  <VAEA_Apparel_Backpack.description>Uma mochila simples e espaçosa. Aumenta bastante a capacidade de carga de quem a usa.</VAEA_Apparel_Backpack.description>
+
+  <!-- EN: battle banner -->
+  <VAEA_Apparel_BattleBanner.label>estandarte de batalha</VAEA_Apparel_BattleBanner.label>
+
+  <!-- EN: A battle banner. Gives the wearer a fighting spirit and confidence. -->
+  <VAEA_Apparel_BattleBanner.description>Um estandarte de batalha. Dá espírito de luta e confiança a quem o usa.</VAEA_Apparel_BattleBanner.description>
+
+  <!-- EN: explosive belt -->
+  <VAEA_Apparel_ExplosiveBelt.label>cinto explosivo</VAEA_Apparel_ExplosiveBelt.label>
+
+  <!-- EN: A belt with explosives. -->
+  <VAEA_Apparel_ExplosiveBelt.description>Um cinto com explosivos.</VAEA_Apparel_ExplosiveBelt.description>
+
+  <!-- EN: medic bag -->
+  <VAEA_Apparel_MedicBag.label>bolsa médica</VAEA_Apparel_MedicBag.label>
+
+  <!-- EN: A bag with everything needed to provide medical treatment. -->
+  <VAEA_Apparel_MedicBag.description>Uma bolsa com tudo o que é necessário para prestar atendimento médico.</VAEA_Apparel_MedicBag.description>
+
+  <!-- EN: mini-turret pack -->
+  <VAEA_Apparel_MiniTurretPack.label>mini pacote de torreta</VAEA_Apparel_MiniTurretPack.label>
+
+  <!-- EN: A small pack of ammunition and components that control a shoulder mounted mini-turret. -->
+  <VAEA_Apparel_MiniTurretPack.description>Um pequeno pacote de munição e componentes que controlam uma minitorreta montada no ombro.</VAEA_Apparel_MiniTurretPack.description>
+
+  <!-- EN: A simple automatic gun made to be mounted on a shoulder. -->
+  <VAEA_Apparel_MiniTurretPack.comps.Comp_VerbGiver.verbProps.0.description>Uma arma automática simples feita para ser montada no ombro.</VAEA_Apparel_MiniTurretPack.comps.Comp_VerbGiver.verbProps.0.description>
+
+  <!-- EN: mini-turret gun -->
+  <VAEA_Apparel_MiniTurretPack.comps.Comp_VerbGiver.verbProps.0.visualLabel>arma da minitorreta</VAEA_Apparel_MiniTurretPack.comps.Comp_VerbGiver.verbProps.0.visualLabel>
+
+  <!-- EN: Gun -->
+  <VAEA_Apparel_MiniTurretPack.verbs.Gun.label>Arma</VAEA_Apparel_MiniTurretPack.verbs.Gun.label>
+
+  <!-- EN: quiver -->
+  <VAEA_Apparel_Quiver.label>aljava</VAEA_Apparel_Quiver.label>
+
+  <!-- EN: Small quiver for arrows. -->
+  <VAEA_Apparel_Quiver.description>Uma pequena aljava para flechas.</VAEA_Apparel_Quiver.description>
+
+  <!-- EN: ranged shield belt -->
+  <VAEA_Apparel_RangedShieldBelt.label>cinto com escudo para atiradores</VAEA_Apparel_RangedShieldBelt.label>
+
+  <!-- EN: A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It doesn't prevent the wearer from firing out, and shuts down instantly if hit by EMP. -->
+  <VAEA_Apparel_RangedShieldBelt.description>Um dispositivo que repele projéteis. Tenta deter projéteis ou estilhaços que se aproximam, mas não oferece proteção contra ataques corpo a corpo ou calor. Não impede que o usuário atire e desliga instantaneamente se for atingido por um pulso eletromagnético (EMP).</VAEA_Apparel_RangedShieldBelt.description>
+
+  <!-- EN: resurrector belt -->
+  <VAEA_Apparel_RessurectorBelt.label>cinto ressuscitador</VAEA_Apparel_RessurectorBelt.label>
+
+  <!-- EN: A belt containing a dose of resurrector serum. Injects the serum immediately after death. -->
+  <VAEA_Apparel_RessurectorBelt.description>Um cinto que contém uma dose de soro ressuscitador. Injeta o soro imediatamente após a morte.</VAEA_Apparel_RessurectorBelt.description>
+
+  <!-- EN: tool belt -->
+  <VAEA_Apparel_ToolBelt.label>cinto de ferramentas</VAEA_Apparel_ToolBelt.label>
+
+  <!-- EN: A simple tool belt with everything needed to nail a couple of planks or fix electrical appliances. -->
+  <VAEA_Apparel_ToolBelt.description>Um cinto de ferramentas simples com tudo o que é necessário para pregar algumas tábuas ou consertar aparelhos elétricos.</VAEA_Apparel_ToolBelt.description>
+</LanguageData>
+
