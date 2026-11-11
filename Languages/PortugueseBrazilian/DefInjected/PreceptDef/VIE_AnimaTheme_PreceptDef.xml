@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: We have a special connection with the anima nexus trees. The trees refocus production easily under our influence, and we are not satisfied unless we have that connection. -->
+  <GauranlenConnection_Strong.description>Temos uma conexão especial com as árvores de nexo anima. Sob nossa influência, as árvores mudam facilmente o foco de sua produção, e não nos sentimos satisfeitos sem essa conexão.</GauranlenConnection_Strong.description>
+
+  <!-- EN: <li>Anima nexus connection</li><li>Want anima nexus connection (min expectation: Very low)</li><li>Want anima nexus connection (min expectation: Low)</li><li>Want anima nexus connection (min expectation: Moderate)</li><li>Want anima nexus connection (min expectation: High)</li><li>Want anima nexus connection (min expectation: Sky high)</li> -->
+  <GauranlenConnection_Strong.comps.PreceptComp_SituationalThought.thoughtStageDescriptions>
+    <li>Conexão com nexo anima</li>
+    <li>Deseja conexão com nexo anima (expectativa mín.: Muito baixa)</li>
+    <li>Deseja conexão com nexo anima (expectativa mín.: Baixa)</li>
+    <li>Deseja conexão com nexo anima (expectativa mín.: Moderada)</li>
+    <li>Deseja conexão com nexo anima (expectativa mín.: Alta)</li>
+    <li>Deseja conexão com nexo anima (expectativa mín.: Altíssima)</li>
+  </GauranlenConnection_Strong.comps.PreceptComp_SituationalThought.thoughtStageDescriptions>
+
+  <!-- EN: A connector will connect with an anima nexus tree. The connector will touch the anima nexus tree and speak to it, forming a permanent link. Others gather in a circle to watch and add force to the ritual. -->
+  <TreeConnection.description>Uma pessoa se conectará a uma árvore de nexo anima. Ela tocará a árvore e falará com ela, formando um vínculo permanente. As outras pessoas se reúnem em círculo para assistir e dar força ao ritual.</TreeConnection.description>
+
+  <!-- EN: planted anima nexus tree -->
+  <GauranlenConnection_Strong.comps.PreceptComp_DevelopmentPoints.eventLabel>plantou árvore de nexo anima</GauranlenConnection_Strong.comps.PreceptComp_DevelopmentPoints.eventLabel>
+</LanguageData>
+

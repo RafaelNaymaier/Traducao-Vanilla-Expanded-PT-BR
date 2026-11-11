@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: anima nexus tree -->
+  <Plant_TreeGauranlen.label>árvore de nexo anima</Plant_TreeGauranlen.label>
+
+  <!-- EN: A large, distinctive-looking tree with a unique life-cycle, warm, skin-smooth bark and long iridescent leaves. Infused with bioluminescent micro-organisms, anima trees develop a unique form of psychic symbiosis with surrounding lifeforms. Each anima nexus tree contains a small non-conscious dryad queen. The queen births creatures called dryads which guard and tend the tree. In exchange, the tree nurtures its protectors by feeding them directly. From the outside, it appears the dryads are created by the tree directly and act as part of it.\n\nIt is possible for a person to form a connection with a tree and partially control the dryads it produces.\n\nSome say anima nexus trees are the homes of nature spirits that follow humanity across worlds. Tribal psycasters are also able to draw psyfocus from anima trees while meditating to them.\n\nAnima trees' psychic properties are weakened if artificial structures are placed nearby. They refuse to be caged or studied, and must remain part of nature. -->
+  <Plant_TreeGauranlen.description>Uma árvore grande e de aparência peculiar, com um ciclo de vida único, casca quente e lisa como a pele e longas folhas iridescentes. Infundidas com microrganismos bioluminescentes, as árvores de anima desenvolvem uma forma única de simbiose psíquica com as formas de vida ao redor. Cada árvore de nexo anima abriga uma pequena rainha dríade sem consciência. A rainha dá à luz criaturas chamadas dríades, que protegem e cuidam da árvore. Em troca, a árvore nutre suas protetoras, alimentando-as diretamente. Vistas de fora, as dríades parecem ser criadas diretamente pela árvore e agir como parte dela.\n\nÉ possível uma pessoa formar uma conexão com uma árvore e controlar parcialmente as dríades que ela produz.\n\nAlguns dizem que as árvores de nexo anima são lares de espíritos da natureza que acompanham a humanidade de um mundo a outro. Psinjuradores tribais também conseguem extrair foco psíquico das árvores de anima enquanto meditam junto delas.\n\nAs propriedades psíquicas das árvores de anima são enfraquecidas pela presença de estruturas artificiais nas proximidades. Elas se recusam a ser aprisionadas ou estudadas e devem permanecer como parte da natureza.</Plant_TreeGauranlen.description>
+
+  <!-- EN: anima bush -->
+  <Plant_MossGauranlen.label>arbusto de anima</Plant_MossGauranlen.label>
+
+  <!-- EN: Symbiotic bush infused with luminous microorganisms, often found growing around anima nexus trees. -->
+  <Plant_MossGauranlen.description>Um arbusto simbiótico infundido com microrganismos luminosos, frequentemente encontrado ao redor de árvores de nexo anima.</Plant_MossGauranlen.description>
+
+  <!-- EN: anima pod -->
+  <Plant_PodGauranlen.label>vagem de anima</Plant_PodGauranlen.label>
+
+  <!-- EN: A small pod that protects a single anima seed. This seed can be harvested and used to plant an anima nexus tree. -->
+  <Plant_PodGauranlen.description>Uma pequena vagem que protege uma única semente de anima. Essa semente pode ser colhida e usada para plantar uma árvore de nexo anima.</Plant_PodGauranlen.description>
+
+  <!-- EN: anima seed -->
+  <GauranlenSeed.label>semente de anima</GauranlenSeed.label>
+
+  <!-- EN: The seed of an anima nexus tree. It can be planted to create a new anima nexus tree. -->
+  <GauranlenSeed.description>A semente de uma árvore de nexo anima. Pode ser plantada para criar uma nova árvore de nexo anima.</GauranlenSeed.description>
+
+  <!-- EN: Dryads are small mammalian creatures that have a symbiotic relationship with the anima nexus trees. This immature dryad can support and protect its tree, but its main purpose is to morph into more specialized and powerful dryad forms. -->
+  <Dryad_Basic.description>Dríades são pequenas criaturas mamíferas que mantêm uma relação simbiótica com as árvores de nexo anima. Esta dríade imatura pode ajudar a sustentar e proteger sua árvore, mas sua principal função é se transformar em formas de dríade mais especializadas e poderosas.</Dryad_Basic.description>
+
+  <!-- EN: A slow, bumbling caste of dryad which specializes in wood production. Together with its anima nexus tree, this dryad can generate a wood-like material on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the anima nexus trees. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
+  <Dryad_Woodmaker.description>Uma casta de dríade lenta e desajeitada, especializada na produção de madeira. Junto de sua árvore de nexo anima, esta dríade pode gerar continuamente um material semelhante à madeira. Porém, é lenta e pouco eficaz no trabalho ou em combate.\n\nEm geral, as dríades são criaturas semelhantes a mamíferos que mantêm uma relação simbiótica com as árvores de nexo anima. Elas se reproduzem junto de sua árvore, que abriga uma rainha dríade oculta. As dríades podem se transformar em várias castas especializadas.</Dryad_Woodmaker.description>
+
+  <!-- EN: A dryad caste specialized in food production. Together with its anima nexus tree, this dryad can generate nourishing berries on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the anima nexus trees. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
+  <Dryad_Berrymaker.description>Uma casta de dríade especializada na produção de alimentos. Junto de sua árvore de nexo anima, esta dríade pode gerar continuamente bagas nutritivas. Porém, é lenta e pouco eficaz no trabalho ou em combate.\n\nEm geral, as dríades são criaturas semelhantes a mamíferos que mantêm uma relação simbiótica com as árvores de nexo anima. Elas se reproduzem junto de sua árvore, que abriga uma rainha dríade oculta. As dríades podem se transformar em várias castas especializadas.</Dryad_Berrymaker.description>
+
+  <!-- EN: A dryad caste specialized in medicine production. Together with its anima nexus tree, this dryad can generate medicinal herbs on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the anima nexus trees. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
+  <Dryad_Medicinemaker.description>Uma casta de dríade especializada na produção de medicamentos. Junto de sua árvore de nexo anima, esta dríade pode gerar continuamente ervas medicinais. Porém, é lenta e pouco eficaz no trabalho ou em combate.\n\nEm geral, as dríades são criaturas semelhantes a mamíferos que mantêm uma relação simbiótica com as árvores de nexo anima. Elas se reproduzem junto de sua árvore, que abriga uma rainha dríade oculta. As dríades podem se transformar em várias castas especializadas.</Dryad_Medicinemaker.description>
+
+  <!-- EN: A dryad caste with the unique ability to produce new anima seed pods and reproduce the anima nexus tree along with its symbiote, the dryad queen. To do this, three seedmaker dryads must slowly merge.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the anima nexus trees. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
+  <Dryad_Gaumaker.description>Uma casta de dríade com a capacidade única de produzir novas vagens de sementes de anima e reproduzir a árvore de nexo anima junto de sua simbionte, a rainha dríade. Para isso, três dríades produtoras de sementes precisam se fundir lentamente.\n\nEm geral, as dríades são criaturas semelhantes a mamíferos que mantêm uma relação simbiótica com as árvores de nexo anima. Elas se reproduzem junto de sua árvore, que abriga uma rainha dríade oculta. As dríades podem se transformar em várias castas especializadas.</Dryad_Gaumaker.description>
+
+  <!-- EN: A dryad caste with huge claws that is specialized in aggression and damage-dealing attacks. Though it can do tremendous damage, it is vulnerable to attacks itself.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the anima nexus trees. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
+  <Dryad_Clawer.description>Uma casta de dríade com garras enormes, especializada em agressão e ataques que causam muito dano. Embora possa causar danos imensos, ela própria é vulnerável a ataques.\n\nEm geral, as dríades são criaturas semelhantes a mamíferos que mantêm uma relação simbiótica com as árvores de nexo anima. Elas se reproduzem junto de sua árvore, que abriga uma rainha dríade oculta. As dríades podem se transformar em várias castas especializadas.</Dryad_Clawer.description>
+
+  <!-- EN: A dryad caste specialized in absorbing hits during combat. Barkskin dryads are covered by a thick bark-like hide which is partly formed by the anima tree itself. Under human influence, it can act as a damage-absorbing fighter.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the anima nexus trees. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
+  <Dryad_Barkskin.description>Uma casta de dríade especializada em absorver golpes durante o combate. As dríades de pele de casca são cobertas por uma pele espessa semelhante à casca de árvore, parcialmente formada pela própria árvore de anima. Sob influência humana, podem atuar como combatentes que absorvem dano.\n\nEm geral, as dríades são criaturas semelhantes a mamíferos que mantêm uma relação simbiótica com as árvores de nexo anima. Elas se reproduzem junto de sua árvore, que abriga uma rainha dríade oculta. As dríades podem se transformar em várias castas especializadas.</Dryad_Barkskin.description>
+
+  <!-- EN: A sphere of fibrous plant matter. A dryad inside is slowly morphing into a new form. Anima nexus trees grow these spheres to help protect the dryads as they morph. -->
+  <DryadCocoon.description>Uma esfera de matéria vegetal fibrosa. Uma dríade em seu interior está se transformando lentamente. As árvores de nexo anima produzem essas esferas para proteger as dríades durante a transformação.</DryadCocoon.description>
+
+  <!-- EN: The result of the merging of several Seedmaker dryads, this symbiotic plant/animal pod is an essential part of the anima nexus life cycle. After some time, it will flower into a mature anima nexus pod which can be harvested to plant a new anima nexus tree. -->
+  <GaumakerCocoon.description>Resultado da fusão de várias dríades Produtoras de sementes, esta vagem simbiótica de planta e animal é uma parte essencial do ciclo de vida do nexo anima. Depois de algum tempo, ela florescerá e se tornará uma vagem madura de nexo anima, que poderá ser colhida para plantar uma nova árvore de nexo anima.</GaumakerCocoon.description>
+
+  <!-- EN: Seedmaker pod -->
+  <GaumakerCocoon.label>Vagem de produtora de sementes</GaumakerCocoon.label>
+
+  <!-- EN: chopped anima nexus stump -->
+  <ChoppedStump_Gauranlen.label>toco cortado de nexo anima</ChoppedStump_Gauranlen.label>
+
+  <!-- EN: A stump left behind after an anima nexus tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <ChoppedStump_Gauranlen.description>Um toco deixado após o corte de uma árvore de nexo anima. Pode ser extraído, mas rende muito pouca madeira aproveitável. Ao ar livre, ele se deteriorará com o tempo.</ChoppedStump_Gauranlen.description>
+
+  <!-- EN: smashed anima nexus stump -->
+  <SmashedStump_Gauranlen.label>toco destroçado de nexo anima</SmashedStump_Gauranlen.label>
+
+  <!-- EN: The remnants of an anima nexus tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
+  <SmashedStump_Gauranlen.description>Os restos de uma árvore de nexo anima destruída por danos. São feios. O toco pode ser extraído, mas rende muito pouca madeira aproveitável. Ao ar livre, ele se deteriorará com o tempo.</SmashedStump_Gauranlen.description>
+</LanguageData>
+

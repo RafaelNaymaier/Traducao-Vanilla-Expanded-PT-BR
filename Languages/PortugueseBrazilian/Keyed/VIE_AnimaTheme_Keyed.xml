@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: One or more Anima Nexus trees do not have their dryad caste set.\n\nSelect the tree and click the '{0}' button to set produced dryad caste. -->
+  <AlertGauranlenTreeWithoutDryadTypeDesc>Uma ou mais árvores de Nexo Anima não têm sua casta de dríade definida.\n\nSelecione a árvore e clique no botão '{0}' para definir a casta de dríade produzida.</AlertGauranlenTreeWithoutDryadTypeDesc>
+
+  <!-- EN: You have Anima Nexus trees which are set to be pruned, but their connectors are not assigned to plant cutting.\n\nYou should assign plant cutting work to the following people -->
+  <AlertConnectedPawnNotAssignedToPlantCuttingDesc>Você tem árvores de Nexo Anima definidas para serem podadas, mas as pessoas conectadas a elas não estão designadas ao corte de plantas.\n\nDesigne o trabalho de corte de plantas às seguintes pessoas</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
+
+  <!-- EN: If this creature is injured, it will return to its connected Anima Nexus tree and enter a woody healing pod. After {DAYS} days, the dryad will emerge with its wounds healed. -->
+  <CommandHealInHealingPodDesc>Se esta criatura for ferida, ela retornará à árvore de Nexo Anima à qual está conectada e entrará em uma vagem lenhosa de cura. Após {DAYS} dias, a dríade sairá com suas feridas curadas.</CommandHealInHealingPodDesc>
+
+  <!-- EN: An unconnected Anima Nexus tree. -->
+  <RitualTargetUnconnectedGaruanlenTreeInfo>Uma árvore de Nexo Anima sem conexão.</RitualTargetUnconnectedGaruanlenTreeInfo>
+
+  <!-- EN: The {0} has induced an Anima Nexus pod to sprout nearby. -->
+  <RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>O {0} fez uma vagem de Nexo Anima brotar nas proximidades.</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
+
+  <!-- EN: {ANIMAL_nameDef} is connected to {MASTER_nameDef} through {ANIMAL_possessive} Anima Nexus tree. {ANIMAL_possessive} master cannot be changed. -->
+  <DryadCannotChangeMaster>{ANIMAL_nameDef} tem uma conexão com {MASTER_nameDef} por meio de {ANIMAL_possessive} árvore de Nexo Anima. {ANIMAL_possessive} mestre não pode ser alterado.</DryadCannotChangeMaster>
+
+  <!-- EN: Connection strength too low to create Anima Nexus pod. -->
+  <ConnectionStrengthTooWeakForGaumakerPod>Força da conexão baixa demais para criar uma vagem de Nexo Anima.</ConnectionStrengthTooWeakForGaumakerPod>
+</LanguageData>
+

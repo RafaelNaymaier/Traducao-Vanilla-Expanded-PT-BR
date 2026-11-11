@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: <li>r_logentry-&gt;[INITIATOR_nameDef] [spokeof] [speechtopic].</li><li>speechtopic-&gt;the trees and the people</li><li>speechtopic-&gt;the trees and psychic powers</li><li>speechtopic-&gt;dryads</li><li>speechtopic-&gt;the anima nexus life cycle</li><li>speechtopic-&gt;the spiritual presence of anima nexus trees</li><li>speechtopic-&gt;psychic dendro-pathy</li><li>speechtopic-&gt;how cute dryads are</li><li>speechtopic-&gt;the nobility of the dryads</li><li>speechtopic-&gt;the age of the trees</li><li>speechtopic-&gt;humanity's role below the trees</li><li>speechtopic-&gt;plant life and eternity</li><li>speechtopic-&gt;connecting with nature</li> -->
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>speechtopic->as árvores e as pessoas</li>
+    <li>speechtopic->as árvores e os poderes psíquicos</li>
+    <li>speechtopic->as dríades</li>
+    <li>speechtopic->o ciclo de vida do nexo anima</li>
+    <li>speechtopic->a presença espiritual das árvores de nexo anima</li>
+    <li>speechtopic->a dendropatia psíquica</li>
+    <li>speechtopic->como as dríades são fofas</li>
+    <li>speechtopic->a nobreza das dríades</li>
+    <li>speechtopic->a idade das árvores</li>
+    <li>speechtopic->o papel da humanidade sob as árvores</li>
+    <li>speechtopic->a vida vegetal e a eternidade</li>
+    <li>speechtopic->a conexão com a natureza</li>
+  </Speech_TreeConnection.logRulesInitiator.rulesStrings>
+</LanguageData>
+
