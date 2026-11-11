@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: printing -->
+  <VBE_Printing.label>impressão</VBE_Printing.label>
+
+  <!-- EN: Build a typewriter, which allows your colonists to write books significantly faster, as well as create newspapers for temporary joy boost. -->
+  <VBE_Printing.description>Construa uma máquina de escrever, que permite aos colonos escrever livros muito mais depressa e produzir jornais que proporcionam um aumento temporário de recreação.</VBE_Printing.description>
+
+  <!-- EN:
+    <li>subject->o caminho da inovação</li>
+    <li>subject_story->revelou verdades simples por trás de fenômenos complexos</li>
+    <li>subject_story->simplificou o intrincado para abrir caminho para aplicações práticas</li>
+    <li>subject_story->aproveitou princípios básicos para alcançar feitos notáveis</li>
+    <li>subject_gerund->otimizando a essência da descoberta</li>
+    <li>subject->os blocos de construção do progresso</li>
+    <li>subject_story->lançou as bases para saltos monumentais adiante</li>
+    <li>subject_story->conectou pontos entre disciplinas para revelar novos insights</li>
+    <li>subject_story->criou a fundação sobre a qual as inovações futuras se sustentam</li>
+    <li>subject_gerund->assentando as pedras angulares do avanço</li>
+    <li>subject->sementes do amanhã</li>
+    <li>subject_story->plantou ideias que se transformariam em soluções transformadoras</li>
+    <li>subject_story->cultivou um jardim de conhecimento, repleto de potencial</li>
+    <li>subject_story->nutriu as raízes da mudança com cuidado e previsão</li>
+    <li>subject_gerund->semeando o futuro com as descobertas de hoje</li>
+    <li>subject->a onda de curiosidade</li>
+    <li>subject_story->lançou ondas de investigação que ecoaram através do tempo</li>
+    <li>subject_story->pisou com ousadia em territórios inexplorados do conhecimento</li>
+    <li>subject_story->superou a lacuna entre o conhecido e o desconhecido</li>
+    <li>subject_story->aventurou-se onde a curiosidade ousou liderar</li>
+    <li>subject_gerund->embarcando em jornadas de descoberta</li>
+    <li>subject->a essência da engenhosidade</li>
+    <li>subject_story->transformou desafios em oportunidades de crescimento</li>
+    <li>subject_story->aplicou o pensamento criativo para superar obstáculos tradicionais</li>
+    <li>subject_story->criou soluções elegantes com uma mistura de arte e ciência</li>
+    <li>subject_gerund->desbloqueando potencial através da inovação</li>
+    <li>subject->a colheita do conhecimento</li>
+    <li>subject_story->reuniu insights como se colhe os campos na época da colheita</li>
+    <li>subject_story->cultivou uma abundância de compreensão a partir das sementes da investigação</li>
+    <li>subject_story->compartilhou os frutos da pesquisa com o mundo</li>
+    <li>subject_gerund->colhendo as recompensas da curiosidade incessante</li>
+    <li>subject->o enigma do progresso</li>
+    <li>subject_story->montou as peças do mistério para revelar o panorama geral</li>
+    <li>subject_story->combinou teoria com prática para resolver enigmas de longa data</li>
+    <li>subject_story->descobriu conexões ocultas que desbloquearam novas possibilidades</li>
+    <li>subject_gerund->reunindo os elementos do avanço</li>
+  -->
+  <VBE_Printing.generalRules.rulesStrings>
+    <li>subject->o caminho da inovação</li>
+    <li>subject_story->revelou verdades simples por trás de fenômenos complexos</li>
+    <li>subject_story->simplificou o intrincado para abrir caminho para aplicações práticas</li>
+    <li>subject_story->aproveitou princípios básicos para alcançar feitos notáveis</li>
+    <li>subject_gerund->otimizando a essência da descoberta</li>
+    <li>subject->os blocos de construção do progresso</li>
+    <li>subject_story->lançou as bases para saltos monumentais adiante</li>
+    <li>subject_story->conectou pontos entre disciplinas para revelar novos insights</li>
+    <li>subject_story->criou a fundação sobre a qual as inovações futuras se sustentam</li>
+    <li>subject_gerund->assentando as pedras angulares do avanço</li>
+    <li>subject->sementes do amanhã</li>
+    <li>subject_story->plantou ideias que se transformariam em soluções transformadoras</li>
+    <li>subject_story->cultivou um jardim de conhecimento, repleto de potencial</li>
+    <li>subject_story->nutriu as raízes da mudança com cuidado e previsão</li>
+    <li>subject_gerund->semeando o futuro com as descobertas de hoje</li>
+    <li>subject->a onda de curiosidade</li>
+    <li>subject_story->lançou ondas de investigação que ecoaram através do tempo</li>
+    <li>subject_story->pisou com ousadia em territórios inexplorados do conhecimento</li>
+    <li>subject_story->superou a lacuna entre o conhecido e o desconhecido</li>
+    <li>subject_story->aventurou-se onde a curiosidade ousou liderar</li>
+    <li>subject_gerund->embarcando em jornadas de descoberta</li>
+    <li>subject->a essência da engenhosidade</li>
+    <li>subject_story->transformou desafios em oportunidades de crescimento</li>
+    <li>subject_story->aplicou o pensamento criativo para superar obstáculos tradicionais</li>
+    <li>subject_story->criou soluções elegantes com uma mistura de arte e ciência</li>
+    <li>subject_gerund->desbloqueando potencial através da inovação</li>
+    <li>subject->a colheita do conhecimento</li>
+    <li>subject_story->reuniu insights como se colhe os campos na época da colheita</li>
+    <li>subject_story->cultivou uma abundância de compreensão a partir das sementes da investigação</li>
+    <li>subject_story->compartilhou os frutos da pesquisa com o mundo</li>
+    <li>subject_gerund->colhendo as recompensas da curiosidade incessante</li>
+    <li>subject->o enigma do progresso</li>
+    <li>subject_story->montou as peças do mistério para revelar o panorama geral</li>
+    <li>subject_story->combinou teoria com prática para resolver enigmas de longa data</li>
+    <li>subject_story->descobriu conexões ocultas que desbloquearam novas possibilidades</li>
+    <li>subject_gerund->reunindo os elementos do avanço</li>
+  </VBE_Printing.generalRules.rulesStrings>
+
+  <!-- EN: writing -->
+  <VBE_Writing.label>escrita</VBE_Writing.label>
+
+  <!-- EN: Construct a writing desk and have your colonists write books that pass their knowledge to other members of their society. -->
+  <VBE_Writing.description>Construa uma escrivaninha para que os colonos escrevam livros e transmitam seus conhecimentos a outros membros da sociedade.</VBE_Writing.description>
+
+  <!-- EN:
+    <li>subject->o caminho da inovação</li>
+    <li>subject_story->revelou verdades simples por trás de fenômenos complexos</li>
+    <li>subject_story->simplificou o intrincado para abrir caminho para aplicações práticas</li>
+    <li>subject_story->aproveitou princípios básicos para alcançar feitos notáveis</li>
+    <li>subject_gerund->otimizando a essência da descoberta</li>
+    <li>subject->os blocos de construção do progresso</li>
+    <li>subject_story->lançou as bases para saltos monumentais adiante</li>
+    <li>subject_story->conectou pontos entre disciplinas para revelar novos insights</li>
+    <li>subject_story->criou a fundação sobre a qual as inovações futuras se sustentam</li>
+    <li>subject_gerund->assentando as pedras angulares do avanço</li>
+    <li>subject->sementes do amanhã</li>
+    <li>subject_story->plantou ideias que se transformariam em soluções transformadoras</li>
+    <li>subject_story->cultivou um jardim de conhecimento, repleto de potencial</li>
+    <li>subject_story->nutriu as raízes da mudança com cuidado e previsão</li>
+    <li>subject_gerund->semeando o futuro com as descobertas de hoje</li>
+    <li>subject->a onda de curiosidade</li>
+    <li>subject_story->lançou ondas de investigação que ecoaram através do tempo</li>
+    <li>subject_story->pisou com ousadia em territórios inexplorados do conhecimento</li>
+    <li>subject_story->superou a lacuna entre o conhecido e o desconhecido</li>
+    <li>subject_story->aventurou-se onde a curiosidade ousou liderar</li>
+    <li>subject_gerund->embarcando em jornadas de descoberta</li>
+    <li>subject->a essência da engenhosidade</li>
+    <li>subject_story->transformou desafios em oportunidades de crescimento</li>
+    <li>subject_story->aplicou o pensamento criativo para superar obstáculos tradicionais</li>
+    <li>subject_story->criou soluções elegantes com uma mistura de arte e ciência</li>
+    <li>subject_gerund->desbloqueando potencial através da inovação</li>
+    <li>subject->a colheita do conhecimento</li>
+    <li>subject_story->reuniu insights como se colhe os campos na época da colheita</li>
+    <li>subject_story->cultivou uma abundância de compreensão a partir das sementes da investigação</li>
+    <li>subject_story->compartilhou os frutos da pesquisa com o mundo</li>
+    <li>subject_gerund->colhendo as recompensas da curiosidade incessante</li>
+    <li>subject->o enigma do progresso</li>
+    <li>subject_story->montou as peças do mistério para revelar o panorama geral</li>
+    <li>subject_story->combinou teoria com prática para resolver enigmas de longa data</li>
+    <li>subject_story->descobriu conexões ocultas que desbloquearam novas possibilidades</li>
+    <li>subject_gerund->reunindo os elementos do avanço</li>
+  -->
+  <VBE_Writing.generalRules.rulesStrings>
+    <li>subject->o caminho da inovação</li>
+    <li>subject_story->revelou verdades simples por trás de fenômenos complexos</li>
+    <li>subject_story->simplificou o intrincado para abrir caminho para aplicações práticas</li>
+    <li>subject_story->aproveitou princípios básicos para alcançar feitos notáveis</li>
+    <li>subject_gerund->otimizando a essência da descoberta</li>
+    <li>subject->os blocos de construção do progresso</li>
+    <li>subject_story->lançou as bases para saltos monumentais adiante</li>
+    <li>subject_story->conectou pontos entre disciplinas para revelar novos insights</li>
+    <li>subject_story->criou a fundação sobre a qual as inovações futuras se sustentam</li>
+    <li>subject_gerund->assentando as pedras angulares do avanço</li>
+    <li>subject->sementes do amanhã</li>
+    <li>subject_story->plantou ideias que se transformariam em soluções transformadoras</li>
+    <li>subject_story->cultivou um jardim de conhecimento, repleto de potencial</li>
+    <li>subject_story->nutriu as raízes da mudança com cuidado e previsão</li>
+    <li>subject_gerund->semeando o futuro com as descobertas de hoje</li>
+    <li>subject->a onda de curiosidade</li>
+    <li>subject_story->lançou ondas de investigação que ecoaram através do tempo</li>
+    <li>subject_story->pisou com ousadia em territórios inexplorados do conhecimento</li>
+    <li>subject_story->superou a lacuna entre o conhecido e o desconhecido</li>
+    <li>subject_story->aventurou-se onde a curiosidade ousou liderar</li>
+    <li>subject_gerund->embarcando em jornadas de descoberta</li>
+    <li>subject->a essência da engenhosidade</li>
+    <li>subject_story->transformou desafios em oportunidades de crescimento</li>
+    <li>subject_story->aplicou o pensamento criativo para superar obstáculos tradicionais</li>
+    <li>subject_story->criou soluções elegantes com uma mistura de arte e ciência</li>
+    <li>subject_gerund->desbloqueando potencial através da inovação</li>
+    <li>subject->a colheita do conhecimento</li>
+    <li>subject_story->reuniu insights como se colhe os campos na época da colheita</li>
+    <li>subject_story->cultivou uma abundância de compreensão a partir das sementes da investigação</li>
+    <li>subject_story->compartilhou os frutos da pesquisa com o mundo</li>
+    <li>subject_gerund->colhendo as recompensas da curiosidade incessante</li>
+    <li>subject->o enigma do progresso</li>
+    <li>subject_story->montou as peças do mistério para revelar o panorama geral</li>
+    <li>subject_story->combinou teoria com prática para resolver enigmas de longa data</li>
+    <li>subject_story->descobriu conexões ocultas que desbloquearam novas possibilidades</li>
+    <li>subject_gerund->reunindo os elementos do avanço</li>
+  </VBE_Writing.generalRules.rulesStrings>
+</LanguageData>
+
