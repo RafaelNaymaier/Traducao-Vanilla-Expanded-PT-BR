@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make eggnog -->
+  <VCE_MakeEggnog.label>preparar gemada</VCE_MakeEggnog.label>
+
+  <!-- EN: Make a rich and creamy beverage crafted from eggs, perfect for festive occasions or a sweet treat. -->
+  <VCE_MakeEggnog.description>Prepare uma bebida rica e cremosa feita de ovos, perfeita para ocasiões festivas ou para adoçar o dia.</VCE_MakeEggnog.description>
+
+  <!-- EN: eggs -->
+  <VCE_MakeEggnog.ingredients.0.filter.customSummary>ovos</VCE_MakeEggnog.ingredients.0.filter.customSummary>
+
+  <!-- EN: Making eggnog. -->
+  <VCE_MakeEggnog.jobString>Preparando gemada.</VCE_MakeEggnog.jobString>
+
+  <!-- EN: make hot cocoa -->
+  <VCE_MakeHotCocoa.label>preparar chocolate quente</VCE_MakeHotCocoa.label>
+
+  <!-- EN: Make a comforting and creamy beverage offering a rich chocolate flavor that warms both body and soul. -->
+  <VCE_MakeHotCocoa.description>Prepare uma bebida cremosa e reconfortante, com um intenso sabor de chocolate que aquece o corpo e a alma.</VCE_MakeHotCocoa.description>
+
+  <!-- EN: Making hot cocoa. -->
+  <VCE_MakeHotCocoa.jobString>Preparando chocolate quente.</VCE_MakeHotCocoa.jobString>
+
+  <!-- EN: make milk and cookies -->
+  <VCE_MakeMilkAndCookies.label>preparar leite com biscoitos</VCE_MakeMilkAndCookies.label>
+
+  <!-- EN: Make a sweet and tasty dessert bound to make anyone happy. -->
+  <VCE_MakeMilkAndCookies.description>Prepare uma sobremesa doce e saborosa, capaz de alegrar qualquer pessoa.</VCE_MakeMilkAndCookies.description>
+
+  <!-- EN: Making milk and cookies. -->
+  <VCE_MakeMilkAndCookies.jobString>Preparando leite com biscoitos.</VCE_MakeMilkAndCookies.jobString>
+
+  <!-- EN: make a plushie toy -->
+  <VCE_MakeToy_Cloth.label>fabricar um brinquedo de pelúcia</VCE_MakeToy_Cloth.label>
+
+  <!-- EN: Make a small toy out of cloth. -->
+  <VCE_MakeToy_Cloth.description>Fabrique um pequeno brinquedo de tecido.</VCE_MakeToy_Cloth.description>
+
+  <!-- EN:  Making toy out of cloth. -->
+  <VCE_MakeToy_Cloth.jobString> Fabricando brinquedo de tecido.</VCE_MakeToy_Cloth.jobString>
+
+  <!-- EN: make a metal toy -->
+  <VCE_MakeToy_Metal.label>fabricar um brinquedo de metal</VCE_MakeToy_Metal.label>
+
+  <!-- EN: Make a small toy out of steel. -->
+  <VCE_MakeToy_Metal.description>Fabrique um pequeno brinquedo de aço.</VCE_MakeToy_Metal.description>
+
+  <!-- EN:  Making toy out of steel. -->
+  <VCE_MakeToy_Metal.jobString> Fabricando brinquedo de aço.</VCE_MakeToy_Metal.jobString>
+
+  <!-- EN: make a wooden toy -->
+  <VCE_MakeToy_Wooden.label>fabricar um brinquedo de madeira</VCE_MakeToy_Wooden.label>
+
+  <!-- EN: Make a small toy out of wood -->
+  <VCE_MakeToy_Wooden.description>Fabrique um pequeno brinquedo de madeira</VCE_MakeToy_Wooden.description>
+
+  <!-- EN:  Making toy out of wood. -->
+  <VCE_MakeToy_Wooden.jobString> Fabricando brinquedo de madeira.</VCE_MakeToy_Wooden.jobString>
+
+  <!-- EN: prepare borscht -->
+  <VCE_CookBorscht.label>preparar borscht</VCE_CookBorscht.label>
+
+  <!-- EN: Prepare a traditional uncooked borscht from beetroots. -->
+  <VCE_CookBorscht.description>Prepare um borscht tradicional cru com beterrabas.</VCE_CookBorscht.description>
+
+  <!-- EN: Preparing borscht. -->
+  <VCE_CookBorscht.jobString>Preparando borscht.</VCE_CookBorscht.jobString>
+</LanguageData>
+

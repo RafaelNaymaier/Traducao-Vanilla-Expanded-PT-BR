@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: festive cold -->
+  <VCE_ColdSnap.label>frio natalino</VCE_ColdSnap.label>
+
+  <!-- EN: A festive cold snap is freezing the region. -->
+  <VCE_ColdSnap.description>Uma onda de frio natalina está congelando a região.</VCE_ColdSnap.description>
+
+  <!-- EN: a front of cold air will cool the area around [map_definite] for [gameConditionDuration_duration], harming crops and any person or animal without adequate protection -->
+  <VCE_ColdSnap.descriptionFuture>uma frente fria resfriará a área que cerca [map_definite] por [gameConditionDuration_duration], prejudicando plantações e qualquer pessoa ou animal sem proteção adequada</VCE_ColdSnap.descriptionFuture>
+
+  <!-- EN: The festive cold is over. -->
+  <VCE_ColdSnap.endMessage>O frio natalino acabou.</VCE_ColdSnap.endMessage>
+
+  <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
+  <VCE_ColdSnap.letterText>Uma onda de frio incomum se instalou.\n\nOndas de frio podem matar rapidamente por hipotermia. Construa um espaço aquecido para sobreviver, vista roupas adequadas e tente colher as plantações antes que congelem e morram.</VCE_ColdSnap.letterText>
+</LanguageData>
+

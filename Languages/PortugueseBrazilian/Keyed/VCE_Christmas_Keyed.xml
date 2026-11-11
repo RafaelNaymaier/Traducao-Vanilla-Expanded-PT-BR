@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: The opened present contained {0} inside! -->
+  <VCE_OpenedPresent>O presente aberto continha {0}!</VCE_OpenedPresent>
+
+  <!-- EN: Festive Favor: {0} -->
+  <VCE_FestiveFavor>Favor natalino: {0}</VCE_FestiveFavor>
+
+  <!-- EN: Days until festive presents: {0} -->
+  <VCE_DaysUntilPresents>Dias até os presentes de Natal: {0}</VCE_DaysUntilPresents>
+
+  <!-- EN: Change the festive decorations of the object. -->
+  <VCE_ChangeDecorationsDesc>Altere a decoração natalina do objeto.</VCE_ChangeDecorationsDesc>
+
+  <!-- EN: Change decorations -->
+  <VCE_ChangeDecorations>Alterar decoração</VCE_ChangeDecorations>
+
+  <!-- EN: Festive Favor -->
+  <VCE_FestiveFavor_Label>Favor Natalino</VCE_FestiveFavor_Label>
+
+  <!-- EN: Not Decembary -->
+  <VCE_NotDecembary>Fora de Decembary</VCE_NotDecembary>
+
+  <!-- EN: Gingerbread object in Decembary: x2 -->
+  <VCE_GingerbreadInDecembary>Objeto de pão de gengibre em Decembary: x2</VCE_GingerbreadInDecembary>
+
+  <!-- EN: Activate snow spewer -->
+  <VCE_ActivateSnowSpewer>Ativar gerador de neve</VCE_ActivateSnowSpewer>
+
+  <!-- EN: Initiate the snow spewing process, which will gradually lower the local temperature and generate snowfall. -->
+  <VCE_ActivateSnowSpewerDesc>Inicie a geração de neve, que reduzirá gradualmente a temperatura local e provocará uma nevasca.</VCE_ActivateSnowSpewerDesc>
+
+  <!-- EN: Stop snow spewer -->
+  <VCE_DeactivateSnowSpewer>Desativar gerador de neve</VCE_DeactivateSnowSpewer>
+
+  <!-- EN: Stop the snow spewing process. -->
+  <VCE_DeactivateSnowSpewerDesc>Interrompa a geração de neve.</VCE_DeactivateSnowSpewerDesc>
+
+  <!-- EN: Aerodrone self-destructs in {0} -->
+  <VCE_AerodroneSelfDestructsIn>O aerodrone se autodestrói em {0}</VCE_AerodroneSelfDestructsIn>
+
+  <!-- EN: Aerodrone incoming -->
+  <VCE_LetterLabelAerodroneIncoming>Aerodrone chegando</VCE_LetterLabelAerodroneIncoming>
+
+  <!-- EN: An aerodrone is landing nearby. -->
+  <VCE_LetterTextAerodroneIncoming>Um aerodrone está pousando por perto.</VCE_LetterTextAerodroneIncoming>
+
+  <!-- EN: A raid from {0} has arrived to destroy the {1} that was forced to land nearby. -->
+  <VCE_LetterTextRaidSpacedrone>Uma invasão de {0} chegou para destruir o {1} que foi forçado a pousar por perto.</VCE_LetterTextRaidSpacedrone>
+
+  <!-- EN: Raids arriving in {0} -->
+  <VCE_QuestPartRaidsDelay>Invasões chegando em {0}</VCE_QuestPartRaidsDelay>
+
+  <!-- EN: Raids will start arriving in {0}.\n\nThe raiders will target the aerodrone and attempt to destroy it. -->
+  <VCE_QuestPartRaidsDelayDesc>As invasões começarão a chegar em {0}.\n\nOs invasores terão o aerodrone como alvo e tentarão destruí-lo.</VCE_QuestPartRaidsDelayDesc>
+
+  <!-- EN: Snow spread radius: {0} -->
+  <VCE_SnowSpreadRadius>Raio de propagação da neve: {0}</VCE_SnowSpreadRadius>
+
+  <!-- EN: Since you’ve donated {0} toys to {1}, you have received {2} festive favor! -->
+  <VCE_DonatedToys>Por doar {0} brinquedos a {1}, você recebeu {2} de favor natalino!</VCE_DonatedToys>
+</LanguageData>
+
