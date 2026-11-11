@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: no pain sensitivity -->
+  <VDE_NoPain.label>sem sensibilidade à dor</VDE_NoPain.label>
+
+  <!-- EN: This animal has a reduced pain sensitivity, and it takes longer to be downed due to pain. -->
+  <VDE_NoPain.description>Este animal tem sensibilidade reduzida à dor e demora mais para ficar incapacitado por ela.</VDE_NoPain.description>
+
+  <!-- EN: separation sickness -->
+  <VDE_SeparationSickness.label>doença da separação</VDE_SeparationSickness.label>
+
+  <!-- EN: When an awakened dryad reaches 2 years of age, they start getting affected by separation sickness. This sickness is progressive and always lethal. It is caused by the dryad losing its connection to the Anima Nexus tree, and not being able to restore it due to being unshackled.\n\nSeparation sickness can be slowed down by medicine, but eventually every Awakened dryad dies. -->
+  <VDE_SeparationSickness.description>Quando uma dríade desperta chega aos 2 anos de idade, começa a sofrer da doença da separação. Essa doença é progressiva e sempre fatal. Ela é causada pela perda da conexão da dríade com a árvore de Nexo Anima e pela impossibilidade de restabelecê-la por estar livre de vínculos.\n\nA progressão da doença da separação pode ser retardada com medicina, mas toda dríade Desperta acaba morrendo.</VDE_SeparationSickness.description>
+
+  <!-- EN: weakened -->
+  <VDE_SeparationSickness.stages.weakened.label>enfraquecida</VDE_SeparationSickness.stages.weakened.label>
+
+  <!-- EN: withering -->
+  <VDE_SeparationSickness.stages.withering.label>definhando</VDE_SeparationSickness.stages.withering.label>
+
+  <!-- EN: vanishing -->
+  <VDE_SeparationSickness.stages.vanishing.label>desaparecendo</VDE_SeparationSickness.stages.vanishing.label>
+
+</LanguageData>
+
