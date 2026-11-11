@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ambrandy inspiration -->
+  <VBE_AmbrandyInspiration.label>inspiração de conhaque de ambrosia</VBE_AmbrandyInspiration.label>
+
+  <!-- EN: Consumed ambrandy. Masterwork and Legendary quality ambrandy will provide an artistic inspiration if the colonist is capable of getting it. -->
+  <VBE_AmbrandyInspiration.description>Consumiu conhaque de ambrosia. O conhaque de ambrosia de qualidade Obra-prima ou Lendária concede uma inspiração artística se o colono puder recebê-la.</VBE_AmbrandyInspiration.description>
+
+  <!-- EN: an ambrandy inspiration -->
+  <VBE_AmbrandyInspiration.labelNoun>uma inspiração de conhaque de ambrosia</VBE_AmbrandyInspiration.labelNoun>
+
+  <!-- EN: gin high -->
+  <VBE_GinHigh.label>embriaguez por gim</VBE_GinHigh.label>
+
+  <!-- EN: Drank some gin. Increases social impact. -->
+  <VBE_GinHigh.description>Bebeu gim. Aumenta o impacto social.</VBE_GinHigh.description>
+
+  <!-- EN: a gin high -->
+  <VBE_GinHigh.labelNoun>uma embriaguez por gim</VBE_GinHigh.labelNoun>
+
+  <!-- EN: warm -->
+  <VBE_GinHigh.stages.warm.label>calor</VBE_GinHigh.stages.warm.label>
+
+  <!-- EN: tipsy -->
+  <VBE_GinHigh.stages.tipsy.label>embriaguez leve</VBE_GinHigh.stages.tipsy.label>
+
+  <!-- EN: drunk -->
+  <VBE_GinHigh.stages.drunk.label>embriaguez</VBE_GinHigh.stages.drunk.label>
+
+  <!-- EN: hammered -->
+  <VBE_GinHigh.stages.hammered.label>embriaguez intensa</VBE_GinHigh.stages.hammered.label>
+
+  <!-- EN: blackout -->
+  <VBE_GinHigh.stages.blackout.label>apagão</VBE_GinHigh.stages.blackout.label>
+
+  <!-- EN: tequila high -->
+  <VBE_TequilaHigh.label>embriaguez por tequila</VBE_TequilaHigh.label>
+
+  <!-- EN: Drank some tequila. Imbibers of tequila are known to excel at extended combat. -->
+  <VBE_TequilaHigh.description>Bebeu tequila. Quem bebe tequila costuma se destacar em combates prolongados.</VBE_TequilaHigh.description>
+
+  <!-- EN: a tequila high -->
+  <VBE_TequilaHigh.labelNoun>uma embriaguez por tequila</VBE_TequilaHigh.labelNoun>
+
+  <!-- EN: warm -->
+  <VBE_TequilaHigh.stages.warm.label>calor</VBE_TequilaHigh.stages.warm.label>
+
+  <!-- EN: tipsy -->
+  <VBE_TequilaHigh.stages.tipsy.label>embriaguez leve</VBE_TequilaHigh.stages.tipsy.label>
+
+  <!-- EN: drunk -->
+  <VBE_TequilaHigh.stages.drunk.label>embriaguez</VBE_TequilaHigh.stages.drunk.label>
+
+  <!-- EN: hammered -->
+  <VBE_TequilaHigh.stages.hammered.label>embriaguez intensa</VBE_TequilaHigh.stages.hammered.label>
+
+  <!-- EN: blackout -->
+  <VBE_TequilaHigh.stages.blackout.label>apagão</VBE_TequilaHigh.stages.blackout.label>
+
+  <!-- EN: vodka high -->
+  <VBE_VodkaHigh.label>embriaguez por vodca</VBE_VodkaHigh.label>
+
+  <!-- EN: Drank some vodka. Provides a melee accuracy buff that scales with drunkeness. -->
+  <VBE_VodkaHigh.description>Bebeu vodca. Concede um bônus de precisão corpo a corpo que aumenta conforme a embriaguez.</VBE_VodkaHigh.description>
+
+  <!-- EN: a vodka high -->
+  <VBE_VodkaHigh.labelNoun>uma embriaguez por vodca</VBE_VodkaHigh.labelNoun>
+
+  <!-- EN: warm -->
+  <VBE_VodkaHigh.stages.warm.label>calor</VBE_VodkaHigh.stages.warm.label>
+
+  <!-- EN: tipsy -->
+  <VBE_VodkaHigh.stages.tipsy.label>embriaguez leve</VBE_VodkaHigh.stages.tipsy.label>
+
+  <!-- EN: drunk -->
+  <VBE_VodkaHigh.stages.drunk.label>embriaguez</VBE_VodkaHigh.stages.drunk.label>
+
+  <!-- EN: hammered -->
+  <VBE_VodkaHigh.stages.hammered.label>embriaguez intensa</VBE_VodkaHigh.stages.hammered.label>
+
+  <!-- EN: blackout -->
+  <VBE_VodkaHigh.stages.blackout.label>apagão</VBE_VodkaHigh.stages.blackout.label>
+
+  <!-- EN: double whiskey high -->
+  <VBE_DoubleWhiskeyHigh.label>embriaguez por uísque duplamente envelhecido</VBE_DoubleWhiskeyHigh.label>
+
+  <!-- EN: Drank some double whiskey. Increases global work speed by 20% and trade pricing by 20%. -->
+  <VBE_DoubleWhiskeyHigh.description>Bebeu uísque duplamente envelhecido. Aumenta a velocidade global de trabalho em 20% e melhora os preços de negociação em 20%.</VBE_DoubleWhiskeyHigh.description>
+
+  <!-- EN: a double whiskey high -->
+  <VBE_DoubleWhiskeyHigh.labelNoun>uma embriaguez por uísque duplamente envelhecido</VBE_DoubleWhiskeyHigh.labelNoun>
+
+  <!-- EN: whiskey high -->
+  <VBE_WhiskeyHigh.label>embriaguez por uísque</VBE_WhiskeyHigh.label>
+
+  <!-- EN: Drank some whiskey. Increases global work speed by 15%. -->
+  <VBE_WhiskeyHigh.description>Bebeu uísque. Aumenta a velocidade global de trabalho em 15%.</VBE_WhiskeyHigh.description>
+
+  <!-- EN: a whiskey high -->
+  <VBE_WhiskeyHigh.labelNoun>uma embriaguez por uísque</VBE_WhiskeyHigh.labelNoun>
+
+  <!-- EN: caffeine addiction -->
+  <VBE_CaffeineAddiction.label>dependência de cafeína</VBE_CaffeineAddiction.label>
+
+  <!-- EN: A chemical addiction to caffeine. Long-term presence of caffeine has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of caffeine, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <VBE_CaffeineAddiction.description>Uma dependência química de cafeína. A presença prolongada de cafeína causou adaptações neurológicas no nível celular, de modo que o cérebro já não consegue funcionar corretamente sem a droga.\n\nSem doses regulares de cafeína, surgem sintomas de abstinência. No entanto, um período prolongado sem consumo força o cérebro a se readaptar ao estado normal, eliminando a dependência.</VBE_CaffeineAddiction.description>
+
+  <!-- EN: withdrawal -->
+  <VBE_CaffeineAddiction.stages.withdrawal.label>abstinência</VBE_CaffeineAddiction.stages.withdrawal.label>
+
+  <!-- EN: caffeine tolerance -->
+  <VBE_CaffeineTolerance.label>tolerância à cafeína</VBE_CaffeineTolerance.label>
+
+  <!-- EN: A built-up tolerance to caffeine. The more severe this tolerance is, the more caffeine it takes to get the same effect. -->
+  <VBE_CaffeineTolerance.description>Uma tolerância adquirida à cafeína. Quanto maior a tolerância, mais cafeína é necessária para obter o mesmo efeito.</VBE_CaffeineTolerance.description>
+
+  <!-- EN: small -->
+  <VBE_CaffeineTolerance.stages.small.label>baixa</VBE_CaffeineTolerance.stages.small.label>
+
+  <!-- EN: large -->
+  <VBE_CaffeineTolerance.stages.large.label>alta</VBE_CaffeineTolerance.stages.large.label>
+
+  <!-- EN: massive -->
+  <VBE_CaffeineTolerance.stages.massive.label>enorme</VBE_CaffeineTolerance.stages.massive.label>
+
+  <!-- EN: caffeine high (hot) -->
+  <VBE_HotCoffeeHigh.label>estímulo de cafeína (quente)</VBE_HotCoffeeHigh.label>
+
+  <!-- EN: Caffeine naturally found in coffee once metabolised increases the stimuli in ones nervous system, suppressing the need to sleep, as well as clearing ones mind. Increases learning speed by a 15% amount and 15% reduction in rest fall rate. Hot coffee reduces hypothermia, cold reduces heatstroke. -->
+  <VBE_HotCoffeeHigh.description>Ao ser metabolizada, a cafeína naturalmente presente no café estimula o sistema nervoso, reduzindo a necessidade de dormir e clareando a mente. Aumenta a velocidade de aprendizado em 15% e reduz a velocidade de perda de descanso em 15%. O café quente reduz a hipotermia, e o gelado reduz a insolação.</VBE_HotCoffeeHigh.description>
+
+  <!-- EN: a caffeine high (hot) -->
+  <VBE_HotCoffeeHigh.labelNoun>um estímulo de cafeína (quente)</VBE_HotCoffeeHigh.labelNoun>
+
+  <!-- EN: caffeine high (iced) -->
+  <VBE_IcedCoffeeHigh.label>estímulo de cafeína (gelado)</VBE_IcedCoffeeHigh.label>
+
+  <!-- EN: Caffeine naturally found in coffee once metabolised increases the stimuli in ones nervous system, suppressing the need to sleep, as well as clearing ones mind. Increases learning speed by a 15% amount and 15% reduction in rest fall rate. Hot coffee reduces hypothermia, cold reduces heatstroke. -->
+  <VBE_IcedCoffeeHigh.description>Ao ser metabolizada, a cafeína naturalmente presente no café estimula o sistema nervoso, reduzindo a necessidade de dormir e clareando a mente. Aumenta a velocidade de aprendizado em 15% e reduz a velocidade de perda de descanso em 15%. O café quente reduz a hipotermia, e o gelado reduz a insolação.</VBE_IcedCoffeeHigh.description>
+
+  <!-- EN: caffeine high (iced) -->
+  <VBE_IcedCoffeeHigh.labelNoun>estímulo de cafeína (gelado)</VBE_IcedCoffeeHigh.labelNoun>
+
+  <!-- EN: energy drink crash -->
+  <VBE_EnergyDrinkCrash.label>queda de energia após energético</VBE_EnergyDrinkCrash.label>
+
+  <!-- EN: An unpleasant delayed after-effect of energy drink consumption. -->
+  <VBE_EnergyDrinkCrash.description>Um efeito desagradável que surge algum tempo depois do consumo de energético.</VBE_EnergyDrinkCrash.description>
+
+  <!-- EN: an energy drink crash -->
+  <VBE_EnergyDrinkCrash.labelNoun>uma queda de energia após energético</VBE_EnergyDrinkCrash.labelNoun>
+
+  <!-- EN: energy drink high -->
+  <VBE_EnergyDrinkHigh.label>estímulo de energético</VBE_EnergyDrinkHigh.label>
+
+  <!-- EN: Energy drinks restore rest immediately, and increase moving speed, but at the cost of a later crash. -->
+  <VBE_EnergyDrinkHigh.description>Energéticos restauram o descanso imediatamente e aumentam a velocidade de movimento, mas provocam uma queda de energia mais tarde.</VBE_EnergyDrinkHigh.description>
+
+  <!-- EN: an energy drink high -->
+  <VBE_EnergyDrinkHigh.labelNoun>um estímulo de energético</VBE_EnergyDrinkHigh.labelNoun>
+
+  <!-- EN: drank ambrandy based cocktail -->
+  <VBE_AmbrandyAsIngredient.label>bebeu coquetel à base de conhaque de ambrosia</VBE_AmbrandyAsIngredient.label>
+
+  <!-- EN: This colonist drank a cocktail that had ambrandy as one of its ingredients. -->
+  <VBE_AmbrandyAsIngredient.description>Este colono bebeu um coquetel que tinha conhaque de ambrosia entre os ingredientes.</VBE_AmbrandyAsIngredient.description>
+
+  <!-- EN: consumed go-juice stock (from meal) -->
+  <VBE_ConsumedGoStock.label>consumiu caldo de Go-Juice (na refeição)</VBE_ConsumedGoStock.label>
+
+  <!-- EN: Go-juice stock is a gelatinized cube of Go-Juice, able to be digested rather than injected. So diluted, the drug won't block so much pain, and combat advantages will be much more subtle. -->
+  <VBE_ConsumedGoStock.description>O caldo de Go-Juice é um cubo gelatinoso de Go-Juice que pode ser digerido em vez de injetado. Tão diluída, a droga bloqueia menos dor, e suas vantagens em combate ficam bem mais discretas.</VBE_ConsumedGoStock.description>
+
+  <!-- EN: consumed luciferium powder (from meal) -->
+  <VBE_ConsumedLuciferiumPowder.label>consumiu pó de lucifério (na refeição)</VBE_ConsumedLuciferiumPowder.label>
+
+  <!-- EN: Luciferium powder is a very finely blended powder made from luciferium. So diluted, the drug won't certainly heal any wounds, but it will reinvigorate its consumer considerably. -->
+  <VBE_ConsumedLuciferiumPowder.description>O pó de lucifério é feito de lucifério finamente triturado. Tão diluída, a droga certamente não cura ferimentos, mas revigora bastante quem a consome.</VBE_ConsumedLuciferiumPowder.description>
+
+  <!-- EN: consumed wake-up powder (from meal) -->
+  <VBE_ConsumedWakeupPowder.label>consumiu pó de Wake-up (na refeição)</VBE_ConsumedWakeupPowder.label>
+
+  <!-- EN: Wake-up powder is a crushed and powdered form of wake-up, surprisingly sweet and sometimes used as a replacement for sugar in desserts or dissolved into a morning espresso. So diluted, the drug won't be as stimulating. Note that, while not addictive, wake-up powder still carries risk (albeit very small) of a heart attack. -->
+  <VBE_ConsumedWakeupPowder.description>O pó de Wake-up é uma forma triturada de Wake-up, surpreendentemente doce e às vezes usada para substituir o açúcar em sobremesas ou dissolvida no café expresso da manhã. Tão diluída, a droga tem menos efeito estimulante. Embora não cause dependência, o pó de Wake-up ainda apresenta um risco, mesmo que muito pequeno, de ataque cardíaco.</VBE_ConsumedWakeupPowder.description>
+
+  <!-- EN: drank soda -->
+  <VBE_DrankSoda.label>bebeu refrigerante</VBE_DrankSoda.label>
+
+  <!-- EN: A burst of sugar enters the bloodstream, providing some short-lived energy. Provides a 5% manipulation buff for 5 hours. -->
+  <VBE_DrankSoda.description>Uma descarga de açúcar entra na corrente sanguínea e fornece energia por pouco tempo. Concede um bônus de 5% na manipulação durante 5 horas.</VBE_DrankSoda.description>
+
+  <!-- EN: drank tea -->
+  <VBE_DrankTea.label>bebeu chá</VBE_DrankTea.label>
+
+  <!-- EN: Tannins naturally found in tea once metabolised increase the stimuli in ones nervous system, suppressing ones urge to sleep, as well as boosting ones immune system. Increases immunity gain speed by 15% and provides 10% reduction in rest fall rate for 5 hours. -->
+  <VBE_DrankTea.description>Ao serem metabolizados, os taninos naturalmente presentes no chá estimulam o sistema nervoso, reduzem a vontade de dormir e fortalecem o sistema imunológico. Aumentam a velocidade de ganho de imunidade em 15% e reduzem a velocidade de perda de descanso em 10% durante 5 horas.</VBE_DrankTea.description>
+
+  <!-- EN: drank gin based cocktail -->
+  <VBE_GinAsIngredient.label>bebeu coquetel à base de gim</VBE_GinAsIngredient.label>
+
+  <!-- EN: This colonist drank a cocktail that had gin as one of its ingredients. -->
+  <VBE_GinAsIngredient.description>Este colono bebeu um coquetel que tinha gim entre os ingredientes.</VBE_GinAsIngredient.description>
+
+  <!-- EN: drank mead based cocktail -->
+  <VBE_RBMeadAsIngredient.label>bebeu coquetel à base de hidromel</VBE_RBMeadAsIngredient.label>
+
+  <!-- EN: This colonist drank a cocktail that had mead as one of its ingredients. -->
+  <VBE_RBMeadAsIngredient.description>Este colono bebeu um coquetel que tinha hidromel entre os ingredientes.</VBE_RBMeadAsIngredient.description>
+
+  <!-- EN: drank tequila based cocktail -->
+  <VBE_TequilaAsIngredient.label>bebeu coquetel à base de tequila</VBE_TequilaAsIngredient.label>
+
+  <!-- EN: This colonist drank a cocktail that had tequila as one of its ingredients. Provides an animal tame chance bonus of 15%. -->
+  <VBE_TequilaAsIngredient.description>Este colono bebeu um coquetel que tinha tequila entre os ingredientes. Concede um bônus de 15% na chance de domesticar animais.</VBE_TequilaAsIngredient.description>
+
+  <!-- EN: drank vodka based cocktail -->
+  <VBE_VodkaAsIngredient.label>bebeu coquetel à base de vodca</VBE_VodkaAsIngredient.label>
+
+  <!-- EN: This colonist drank a cocktail that had vodka as one of its ingredients. Increases dodge chance by 20%. -->
+  <VBE_VodkaAsIngredient.description>Este colono bebeu um coquetel que tinha vodca entre os ingredientes. Aumenta a chance de esquiva em 20%.</VBE_VodkaAsIngredient.description>
+
+  <!-- EN: drank whiskey based cocktail -->
+  <VBE_WhiskeyAsIngredient.label>bebeu coquetel à base de uísque</VBE_WhiskeyAsIngredient.label>
+
+  <!-- EN: This colonist drank a cocktail that had whiskey as one of its ingredients. Provides a shooting accuracy bonus. -->
+  <VBE_WhiskeyAsIngredient.description>Este colono bebeu um coquetel que tinha uísque entre os ingredientes. Concede um bônus de precisão de tiro.</VBE_WhiskeyAsIngredient.description>
+
+  <!-- EN: drank wine based cocktail -->
+  <VBE_WineAsIngredient.label>bebeu coquetel à base de vinho</VBE_WineAsIngredient.label>
+
+  <!-- EN: This colonist drank a cocktail that had wine as one of its ingredients. You monster. -->
+  <VBE_WineAsIngredient.description>Este colono bebeu um coquetel que tinha vinho entre os ingredientes. Seu monstro.</VBE_WineAsIngredient.description>
+
+  <!-- EN: consumed cocktail -->
+  <VBE_ConsumedCocktail.label>consumiu coquetel</VBE_ConsumedCocktail.label>
+
+  <!-- EN: Consumed a nice cocktail. Has a chance to provide a random inspiration. -->
+  <VBE_ConsumedCocktail.description>Consumiu um bom coquetel. Há uma chance de receber uma inspiração aleatória.</VBE_ConsumedCocktail.description>
+
+  <!-- EN: a cocktail drink -->
+  <VBE_ConsumedCocktail.labelNoun>um coquetel</VBE_ConsumedCocktail.labelNoun>
+
+  <!-- EN: high-quality tobacco high -->
+  <VBE_DeluxeTobaccoHigh.label>estímulo de tabaco de alta qualidade</VBE_DeluxeTobaccoHigh.label>
+
+  <!-- EN: Nicotine in the bloodstream. Generates a soft feeling of fuzzy well-being. -->
+  <VBE_DeluxeTobaccoHigh.description>Nicotina na corrente sanguínea. Produz uma suave e difusa sensação de bem-estar.</VBE_DeluxeTobaccoHigh.description>
+
+  <!-- EN: a high-quality tobacco high -->
+  <VBE_DeluxeTobaccoHigh.labelNoun>um estímulo de tabaco de alta qualidade</VBE_DeluxeTobaccoHigh.labelNoun>
+
+  <!-- EN: tobacco dependence -->
+  <VBE_TobaccoAddiction.label>dependência de tabaco</VBE_TobaccoAddiction.label>
+
+  <!-- EN: A chemical addiction to tobacco. Long-term use of tobacco has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of tobacco, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <VBE_TobaccoAddiction.description>Uma dependência química de tabaco. O uso prolongado de tabaco causou adaptações neurológicas no nível celular, de modo que o cérebro já não consegue funcionar corretamente sem a droga.\n\nSem doses regulares de tabaco, surgem sintomas de abstinência. No entanto, um período prolongado sem consumo força o cérebro a se readaptar ao estado normal, eliminando a dependência.</VBE_TobaccoAddiction.description>
+
+  <!-- EN: withdrawal -->
+  <VBE_TobaccoAddiction.stages.withdrawal.label>abstinência</VBE_TobaccoAddiction.stages.withdrawal.label>
+
+  <!-- EN: tobacco high -->
+  <VBE_TobaccoHigh.label>estímulo de tabaco</VBE_TobaccoHigh.label>
+
+  <!-- EN: Nicotine in the bloodstream. Generates a soft feeling of fuzzy well-being. -->
+  <VBE_TobaccoHigh.description>Nicotina na corrente sanguínea. Produz uma suave e difusa sensação de bem-estar.</VBE_TobaccoHigh.description>
+
+  <!-- EN: a tobacco high -->
+  <VBE_TobaccoHigh.labelNoun>um estímulo de tabaco</VBE_TobaccoHigh.labelNoun>
+
+  <!-- EN: tobacco tolerance -->
+  <VBE_TobaccoTolerance.label>tolerância ao tabaco</VBE_TobaccoTolerance.label>
+
+  <!-- EN: A built-up tolerance to tobacco. The more severe this tolerance is, the more tobacco it takes to get the same effect. -->
+  <VBE_TobaccoTolerance.description>Uma tolerância adquirida ao tabaco. Quanto maior a tolerância, mais tabaco é necessário para obter o mesmo efeito.</VBE_TobaccoTolerance.description>
+
+  <!-- EN: small -->
+  <VBE_TobaccoTolerance.stages.small.label>baixa</VBE_TobaccoTolerance.stages.small.label>
+
+  <!-- EN: large -->
+  <VBE_TobaccoTolerance.stages.large.label>alta</VBE_TobaccoTolerance.stages.large.label>
+
+  <!-- EN: massive -->
+  <VBE_TobaccoTolerance.stages.massive.label>enorme</VBE_TobaccoTolerance.stages.massive.label>
+
+  <!-- EN: drank cider based cocktail -->
+  <VBE_CiderAsIngredient.label>bebeu coquetel à base de sidra</VBE_CiderAsIngredient.label>
+
+  <!-- EN: This colonist drank a cocktail that had cider as one of its ingredients. Many praise cider for its supposed antioxidant properties. Slightly removes toxic buildup. -->
+  <VBE_CiderAsIngredient.description>Este colono bebeu um coquetel que tinha sidra entre os ingredientes. Muitos elogiam as supostas propriedades antioxidantes da sidra. Reduz levemente o acúmulo tóxico.</VBE_CiderAsIngredient.description>
+
+  <!-- EN: cider high -->
+  <VBE_CiderHigh.label>embriaguez por sidra</VBE_CiderHigh.label>
+
+  <!-- EN: Alcohol from cider in the bloodstream. It makes people happy, but reduces capacities. Cannot cause alcohol addiction. Cannot get past the “warm” drunken stage no matter how many are downed. -->
+  <VBE_CiderHigh.description>Álcool de sidra na corrente sanguínea. Deixa as pessoas felizes, mas reduz suas capacidades. Não causa dependência de álcool. Nunca passa do estágio de embriaguez “calor”, por mais que se beba.</VBE_CiderHigh.description>
+
+  <!-- EN: a cider high -->
+  <VBE_CiderHigh.labelNoun>uma embriaguez por sidra</VBE_CiderHigh.labelNoun>
+
+  <!-- EN: warm -->
+  <VBE_CiderHigh.stages.warm.label>calor</VBE_CiderHigh.stages.warm.label>
+</LanguageData>
+

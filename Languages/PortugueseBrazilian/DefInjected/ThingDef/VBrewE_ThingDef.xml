@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ambrandy -->
+  <VBE_Ambrandy.label>conhaque de ambrosia</VBE_Ambrandy.label>
+
+  <!-- EN: Also known as “liquid sunshine” ambrandy is a twice-fermented, distilled liquor of the highest calibre. Glitterworld aristocrats are known to send entire private militias to assist in shipping singular bottles.\n\nBeyond being flavorful enough to bring one to tears, studies have found this liquor when deeply aged causes increased stimulation in the section of the human brain known for artistic creativity and expression while also dampening the section of the brain in control of emotions.\n\nEven the bottle itself is a beauty to behold, when hit with even the tiniest amount of light golden flecks are seen dancing in the liquid within, like embers rising from a campfire. While Ambrandy can be mixed into cocktails, those few who have had the privilege to drink it say it is best on its own. -->
+  <VBE_Ambrandy.description>Também chamado de “luz do sol líquida”, o conhaque de ambrosia é uma bebida destilada de altíssima qualidade, produzida com dupla fermentação. Aristocratas de mundos reluzentes chegam a enviar milícias particulares inteiras para escoltar o transporte de uma única garrafa.\n\nAlém de ter um sabor capaz de levar às lágrimas, estudos descobriram que, após um longo envelhecimento, a bebida estimula a região do cérebro humano associada à criatividade e à expressão artística, ao mesmo tempo que reduz a atividade da região responsável pelo controle das emoções.\n\nAté a garrafa é um espetáculo à parte: basta um mínimo de luz para revelar flocos dourados dançando no líquido, como brasas subindo de uma fogueira. Embora o Conhaque de ambrosia possa ser misturado em coquetéis, as poucas pessoas que tiveram o privilégio de prová-lo dizem que é melhor bebê-lo puro.</VBE_Ambrandy.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_Ambrandy.ingestible.ingestCommandString>Beber {0}</VBE_Ambrandy.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_Ambrandy.ingestible.ingestReportString>Bebendo {0}.</VBE_Ambrandy.ingestible.ingestReportString>
+
+  <!-- EN: gin -->
+  <VBE_Gin.label>gim</VBE_Gin.label>
+
+  <!-- EN: A particularly mild and colorless spirit, aromatically speaking this bottle has a pine-tree like scent as well as subtle fruity notes. This liquor has a reputation for being light-hearted and fun to drink and for causing what is known as  “gin drunkenness”, during which one feels increased empathy and understanding. -->
+  <VBE_Gin.description>Uma bebida destilada particularmente suave e incolor, com aroma semelhante ao de pinho e notas frutadas sutis. Tem fama de ser leve e divertida de beber e de causar a chamada “embriaguez de gim”, durante a qual as pessoas sentem mais empatia e compreensão.</VBE_Gin.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_Gin.ingestible.ingestCommandString>Beber {0}</VBE_Gin.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_Gin.ingestible.ingestReportString>Bebendo {0}.</VBE_Gin.ingestible.ingestReportString>
+
+  <!-- EN: bottle -->
+  <VBE_Gin.tools.bottle.label>garrafa</VBE_Gin.tools.bottle.label>
+
+  <!-- EN: neck -->
+  <VBE_Gin.tools.neck.label>gargalo</VBE_Gin.tools.neck.label>
+
+  <!-- EN: tequila -->
+  <VBE_Tequila.label>tequila</VBE_Tequila.label>
+
+  <!-- EN: A fermented liquor made from agave sap, a favorite of wild, rowdy banditos and muffalo wranglers alike. Includes a high-protein snack at the bottom of the bottle believed to bring good luck. Imbibers are known to excel at extended combat. -->
+  <VBE_Tequila.description>Uma bebida alcoólica fermentada feita de seiva de agave, favorita tanto de bandidos arruaceiros quanto de tratadores de mufalos. Traz no fundo da garrafa um petisco rico em proteínas que, dizem, dá boa sorte. Quem a bebe costuma se destacar em combates prolongados.</VBE_Tequila.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_Tequila.ingestible.ingestCommandString>Beber {0}</VBE_Tequila.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_Tequila.ingestible.ingestReportString>Bebendo {0}.</VBE_Tequila.ingestible.ingestReportString>
+
+  <!-- EN: bottle -->
+  <VBE_Tequila.tools.bottle.label>garrafa</VBE_Tequila.tools.bottle.label>
+
+  <!-- EN: neck -->
+  <VBE_Tequila.tools.neck.label>gargalo</VBE_Tequila.tools.neck.label>
+
+  <!-- EN: vodka -->
+  <VBE_Vodka.label>vodca</VBE_Vodka.label>
+
+  <!-- EN: A clear and mostly flavorless alcohol made from fermented potatoes. While vodka is drinkable alone it is mostly known for being a perfect mixing agent and for causing foolishly high levels of boldness in those who choose to drink it. -->
+  <VBE_Vodka.description>Uma bebida alcoólica transparente e quase sem sabor, feita de batatas fermentadas. Embora possa ser bebida pura, a vodca é mais conhecida por ser perfeita para misturas e por dar a quem a bebe uma coragem que beira a insensatez.</VBE_Vodka.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_Vodka.ingestible.ingestCommandString>Beber {0}</VBE_Vodka.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_Vodka.ingestible.ingestReportString>Bebendo {0}.</VBE_Vodka.ingestible.ingestReportString>
+
+  <!-- EN: bottle -->
+  <VBE_Vodka.tools.bottle.label>garrafa</VBE_Vodka.tools.bottle.label>
+
+  <!-- EN: neck -->
+  <VBE_Vodka.tools.neck.label>gargalo</VBE_Vodka.tools.neck.label>
+
+  <!-- EN: double-aged whiskey -->
+  <VBE_DoubleWhiskey.label>uísque duplamente envelhecido</VBE_DoubleWhiskey.label>
+
+  <!-- EN: The result of whiskey being aged once more in an unused or lightly used secondary barrel. Flavor profiles are stronger and the afterburn in one's throat notably reduced. The increased aging time for fine whiskey generally portrays a sense of mercantilism and class among its consumers. -->
+  <VBE_DoubleWhiskey.description>O resultado de envelhecer o uísque mais uma vez em um segundo barril, novo ou pouco usado. O sabor fica mais intenso, e a ardência na garganta diminui bastante. O envelhecimento prolongado desse uísque fino costuma transmitir uma imagem de tino comercial e classe entre seus apreciadores.</VBE_DoubleWhiskey.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_DoubleWhiskey.ingestible.ingestCommandString>Beber {0}</VBE_DoubleWhiskey.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_DoubleWhiskey.ingestible.ingestReportString>Bebendo {0}.</VBE_DoubleWhiskey.ingestible.ingestReportString>
+
+  <!-- EN: bottle -->
+  <VBE_DoubleWhiskey.tools.bottle.label>garrafa</VBE_DoubleWhiskey.tools.bottle.label>
+
+  <!-- EN: neck -->
+  <VBE_DoubleWhiskey.tools.neck.label>gargalo</VBE_DoubleWhiskey.tools.neck.label>
+
+  <!-- EN: whiskey -->
+  <VBE_Whiskey.label>uísque</VBE_Whiskey.label>
+
+  <!-- EN: A potent liquor distilled from fermented grain. The flavors of the aging barrel tend to permeate this spirit more than others. A woody, almost smokey flavor is pronounced throughout. Simple whiskeys are stereotypically associated with rough manual laborers and hard workers, a common sight in steamworlds across the galaxy. -->
+  <VBE_Whiskey.description>Uma bebida forte, destilada de grãos fermentados. Os sabores do barril de envelhecimento impregnam esse destilado mais do que outros, com um gosto amadeirado e quase defumado bem marcante. Os uísques simples costumam ser associados a trabalhadores braçais rudes e dedicados, comuns nos mundos a vapor da galáxia.</VBE_Whiskey.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_Whiskey.ingestible.ingestCommandString>Beber {0}</VBE_Whiskey.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_Whiskey.ingestible.ingestReportString>Bebendo {0}.</VBE_Whiskey.ingestible.ingestReportString>
+
+  <!-- EN: bottle -->
+  <VBE_Whiskey.tools.bottle.label>garrafa</VBE_Whiskey.tools.bottle.label>
+
+  <!-- EN: neck -->
+  <VBE_Whiskey.tools.neck.label>gargalo</VBE_Whiskey.tools.neck.label>
+
+  <!-- EN: bar -->
+  <VBE_Bar.label>bar</VBE_Bar.label>
+
+  <!-- EN: A somewhat ornate countertop stocked to the brim with different vessels and devices for making a variety of drinks. An ice box, a series of taps, hoses, and carbonators means anybody tending it can brew much quicker than at a rudimentary brewery. -->
+  <VBE_Bar.description>Um balcão um tanto ornamentado, cheio de recipientes e utensílios para preparar uma variedade de bebidas. Com uma caixa de gelo, torneiras, mangueiras e gaseificadores, quem trabalha nele consegue produzir bebidas muito mais depressa do que em uma cervejaria rudimentar.</VBE_Bar.description>
+
+  <!-- EN: coffee -->
+  <VBE_HotCoffee.label>café</VBE_HotCoffee.label>
+
+  <!-- EN: A warm, bitter beverage usually complemented with milk and sugar. A favorite among students and office workers across the galaxy due to high caffeine content and pleasing aroma. -->
+  <VBE_HotCoffee.description>Uma bebida quente e amarga, geralmente acompanhada de leite e açúcar. O alto teor de cafeína e o aroma agradável fazem dela uma favorita entre estudantes e trabalhadores de escritório por toda a galáxia.</VBE_HotCoffee.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_HotCoffee.ingestible.ingestCommandString>Beber {0}</VBE_HotCoffee.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_HotCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_HotCoffee.ingestible.ingestReportString>
+
+  <!-- EN: iced coffee -->
+  <VBE_IceCoffee.label>café gelado</VBE_IceCoffee.label>
+
+  <!-- EN: An icy, chilled coffee. Chilling coffee is preferred by many in warmer climates, anecdotally it also smooths out bitter flavors and brings out subtle nuttiness. Just like its warm counterpart, it is ubiquitous among students and professionals alike across the galaxy. -->
+  <VBE_IceCoffee.description>Um café bem gelado. Muitas pessoas de climas quentes preferem resfriá-lo e dizem que isso também suaviza o amargor e realça notas sutis de castanhas. Assim como a versão quente, está por toda parte entre estudantes e profissionais da galáxia.</VBE_IceCoffee.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_IceCoffee.ingestible.ingestCommandString>Beber {0}</VBE_IceCoffee.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_IceCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_IceCoffee.ingestible.ingestReportString>
+
+  <!-- EN: energy drink -->
+  <VBE_EnergyDrink.label>energético</VBE_EnergyDrink.label>
+
+  <!-- EN: A sour and fizzy drink finished off with a hint of bitterness. The combination of sugar and caffeine means a burst of energy upfront, but with a crash later. Notable aftertaste of radiation. -->
+  <VBE_EnergyDrink.description>Uma bebida ácida e gaseificada, com um toque final de amargor. A combinação de açúcar e cafeína dá uma explosão inicial de energia, mas provoca uma queda mais tarde. Tem um marcante gosto residual de radiação.</VBE_EnergyDrink.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_EnergyDrink.ingestible.ingestCommandString>Beber {0}</VBE_EnergyDrink.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_EnergyDrink.ingestible.ingestReportString>Bebendo {0}.</VBE_EnergyDrink.ingestible.ingestReportString>
+
+  <!-- EN: juice -->
+  <VBE_Juice.label>suco</VBE_Juice.label>
+
+  <!-- EN: Juiced fruit, tart and tangy, can be made from a singular fruit or a mixed variety - Also known as a juice medley. Many drinks can be brewed or mixed using juices as base. While no more nutritious than non juiced fruit it is much easier to store and transport. -->
+  <VBE_Juice.description>Frutas espremidas, de sabor ácido e intenso. Pode ser feito de uma única fruta ou de uma mistura de variedades, também chamada de suco misto. Sucos servem de base para a produção ou mistura de muitas bebidas. Embora não sejam mais nutritivos do que as frutas inteiras, são muito mais fáceis de armazenar e transportar.</VBE_Juice.description>
+
+  <!-- EN: soda -->
+  <VBE_Soda.label>refrigerante</VBE_Soda.label>
+
+  <!-- EN: A very sweet and semi-citrusy beverage best enjoyed chilled. Whilst not exactly nutritious the sugar rush is welcomed and the effervescence is quite refreshing. -->
+  <VBE_Soda.description>Uma bebida muito doce e ligeiramente cítrica, melhor quando servida gelada. Não é exatamente nutritiva, mas a energia do açúcar é bem-vinda e a efervescência refresca bastante.</VBE_Soda.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_Soda.ingestible.ingestCommandString>Beber {0}</VBE_Soda.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_Soda.ingestible.ingestReportString>Bebendo {0}.</VBE_Soda.ingestible.ingestReportString>
+
+  <!-- EN: bottle -->
+  <VBE_Soda.tools.bottle.label>garrafa</VBE_Soda.tools.bottle.label>
+
+  <!-- EN: neck -->
+  <VBE_Soda.tools.neck.label>gargalo</VBE_Soda.tools.neck.label>
+
+  <!-- EN: tea -->
+  <VBE_Tea.label>chá</VBE_Tea.label>
+
+  <!-- EN: A pleasing, aromatic beverage prepared by steeping a bag of tea leaves in boiling water. Tea can range anywhere from citrusy to bitter to spicy flavor profiles. Tea has been one of humanity's favorite beverages since ancient times and is believed to possess many natural healing properties. -->
+  <VBE_Tea.description>Uma bebida agradável e aromática, preparada pela infusão de um saquinho de folhas de chá em água fervente. Seu sabor pode variar do cítrico ao amargo ou picante. É uma das bebidas favoritas da humanidade desde a Antiguidade e, segundo a crença popular, possui várias propriedades curativas naturais.</VBE_Tea.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_Tea.ingestible.ingestCommandString>Beber {0}</VBE_Tea.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_Tea.ingestible.ingestReportString>Bebendo {0}.</VBE_Tea.ingestible.ingestReportString>
+
+  <!-- EN: fine cocktail -->
+  <VBE_FineCocktail.label>coquetel refinado</VBE_FineCocktail.label>
+
+  <!-- EN: A fine complex cocktail, mixed precisely from multiple ingredients. -->
+  <VBE_FineCocktail.description>Um coquetel refinado e complexo, preparado com a mistura precisa de vários ingredientes.</VBE_FineCocktail.description>
+
+  <!-- EN: gourmet cocktail -->
+  <VBE_GourmetCocktail.label>coquetel gourmet</VBE_GourmetCocktail.label>
+
+  <!-- EN: A veritable miracle of mixology. This cocktails every factor from temperature of glass, choice of stirring instrument and type of garnish has been precisely calculated for the maximum flavor and body possible. -->
+  <VBE_GourmetCocktail.description>Um verdadeiro milagre da mixologia. Cada detalhe, da temperatura do copo à escolha do utensílio de mistura e da guarnição, foi calculado com precisão para obter o máximo de sabor e corpo.</VBE_GourmetCocktail.description>
+
+  <!-- EN: lavish cocktail -->
+  <VBE_LavishCocktail.label>coquetel luxuoso</VBE_LavishCocktail.label>
+
+  <!-- EN: A masterpiece of bartending incarnate, this cocktail was mixed from a wide variety of ingredients and chilled to perfection before meticulously shaken and served. -->
+  <VBE_LavishCocktail.description>Uma verdadeira obra-prima da coquetelaria. Este coquetel reúne uma grande variedade de ingredientes, resfriados à perfeição antes de uma agitação meticulosa e do serviço.</VBE_LavishCocktail.description>
+
+  <!-- EN: simple cocktail -->
+  <VBE_SimpleCocktail.label>coquetel simples</VBE_SimpleCocktail.label>
+
+  <!-- EN: A simple cocktail quickly mixed from a duo of ingredients. -->
+  <VBE_SimpleCocktail.description>Um coquetel simples, preparado rapidamente com uma dupla de ingredientes.</VBE_SimpleCocktail.description>
+
+  <!-- EN: ambrosia mush -->
+  <VBE_AmbrandyMush.label>polpa de ambrosia</VBE_AmbrandyMush.label>
+
+  <!-- EN: Sliced and pressed ambrosia, can be left alone to ripen into must to be further distilled into an extremely fine liquor. -->
+  <VBE_AmbrandyMush.description>Ambrosia fatiada e prensada, que pode repousar até amadurecer e formar um mosto, depois destilado em uma bebida de altíssima qualidade.</VBE_AmbrandyMush.description>
+
+  <!-- EN: ambrandy must -->
+  <VBE_AmbrandyMust.label>mosto de ambrosia</VBE_AmbrandyMust.label>
+
+  <!-- EN: Fully ripened ambrosia liquified into essentially a thick juice and left alone to grow bacteria for fermenting. Ready to be distilled into a drinkable form. -->
+  <VBE_AmbrandyMust.description>Ambrosia completamente madura, liquefeita em um suco espesso e deixada em repouso para desenvolver as bactérias da fermentação. Pronta para a destilação em uma bebida própria para consumo.</VBE_AmbrandyMust.description>
+
+  <!-- EN: gin mush -->
+  <VBE_GinMush.label>polpa para gim</VBE_GinMush.label>
+
+  <!-- EN: A clear but cloudy mixture of juiced berries and miscellaneous grain, ready to be fermented. -->
+  <VBE_GinMush.description>Uma mistura clara, mas turva, de suco de bagas e grãos variados, pronta para fermentar.</VBE_GinMush.description>
+
+  <!-- EN: soda syrup -->
+  <VBE_SodaSyrup.label>xarope para refrigerante</VBE_SodaSyrup.label>
+
+  <!-- EN: A thick and disgustingly sweet mixture made by boiling citric acid and natural sugars together - Usually derived straight from cane sugar or as corn syrup. Must be cut with water and left to carbonate briefly in a sealed environment before consumption. -->
+  <VBE_SodaSyrup.description>Uma mistura espessa e enjoativamente doce, feita ao ferver ácido cítrico com açúcares naturais, geralmente obtidos de cana-de-açúcar ou de xarope de milho. Precisa ser diluída em água e gaseificada por um breve período em um recipiente fechado antes do consumo.</VBE_SodaSyrup.description>
+
+  <!-- EN: tequila must -->
+  <VBE_TequilaMust.label>mosto para tequila</VBE_TequilaMust.label>
+
+  <!-- EN: A thin mixture of juiced agave sap or prickly cactus pear and insect meat starter, ready to be cut and fermented in a barrel. -->
+  <VBE_TequilaMust.description>Uma mistura rala de seiva de agave ou figo-da-índia e uma cultura inicial de carne de inseto, pronta para ser diluída e fermentada em um barril.</VBE_TequilaMust.description>
+
+  <!-- EN: vodka mash -->
+  <VBE_VodkaMash.label>massa para vodca</VBE_VodkaMash.label>
+
+  <!-- EN: A thick, starchy mash of raw potatoes and a starter, ready to be fermented. -->
+  <VBE_VodkaMash.description>Uma massa espessa e rica em amido, feita de batatas cruas e uma cultura inicial, pronta para fermentar.</VBE_VodkaMash.description>
+
+  <!-- EN: whiskey mash -->
+  <VBE_WhiskeyMash.label>mosto para uísque</VBE_WhiskeyMash.label>
+
+  <!-- EN: A starchy and mostly liquid mixture with pulpy chunks strewn throughout. Ready To be aged. -->
+  <VBE_WhiskeyMash.description>Uma mistura rica em amido e quase toda líquida, com pedaços de polpa espalhados. Pronta para o envelhecimento.</VBE_WhiskeyMash.description>
+
+  <!-- EN: coffee beans -->
+  <VBE_RawCoffee.label>grãos de café</VBE_RawCoffee.label>
+
+  <!-- EN: The pits of coffee plant berries, known succinctly as “coffee beans”. They can be roasted to bring out a robust and bitter flavor, as well as natural caffeine. -->
+  <VBE_RawCoffee.description>As sementes dos frutos do cafeeiro, conhecidas simplesmente como “grãos de café”. Podem ser torradas para realçar o sabor forte e amargo, além da cafeína natural.</VBE_RawCoffee.description>
+
+  <!-- EN: tea leaves -->
+  <VBE_RawTea.label>folhas de chá</VBE_RawTea.label>
+
+  <!-- EN: The leaves of the tea plant. They can be boiled into a variety of earthy and soothing beverages. -->
+  <VBE_RawTea.description>As folhas da planta de chá. Podem ser fervidas para preparar várias bebidas terrosas e reconfortantes.</VBE_RawTea.description>
+
+  <!-- EN: tobacco leaves -->
+  <VBE_RawTobacco.label>folhas de tabaco</VBE_RawTobacco.label>
+
+  <!-- EN: The leaves of the tobacco plant. Tobacco leaves can be dried quite easily to then be rolled and smoked, providing a mild stimulating effect. -->
+  <VBE_RawTobacco.description>As folhas do tabaco. Secam com facilidade e podem ser enroladas e fumadas, proporcionando um leve efeito estimulante.</VBE_RawTobacco.description>
+
+  <!-- EN: cigarettes -->
+  <VBE_Cigarettes.label>cigarros</VBE_Cigarettes.label>
+
+  <!-- EN: A small, rolled paper tube stuffed loosely with tobacco leaves. Offers a brief euphoria as well as mental stimulation, and is very addictive. The pungent odor is generally disliked at first, but becomes much more pleasurable as the smoker becomes more addicted. Can be crafted without equipment, at a crafting spot. -->
+  <VBE_Cigarettes.description>Um pequeno tubo de papel enrolado, preenchido sem muita compactação com folhas de tabaco. Proporciona uma breve euforia e estímulo mental, e causa muita dependência. O cheiro forte costuma desagradar no início, mas se torna mais prazeroso conforme a dependência aumenta. Pode ser feito sem equipamentos, em um ponto de fabricação.</VBE_Cigarettes.description>
+
+  <!-- EN: Smoke {0} -->
+  <VBE_Cigarettes.ingestible.ingestCommandString>Fumar {0}</VBE_Cigarettes.ingestible.ingestCommandString>
+
+  <!-- EN: Smoking {0}. -->
+  <VBE_Cigarettes.ingestible.ingestReportString>Fumando {0}.</VBE_Cigarettes.ingestible.ingestReportString>
+
+  <!-- EN: Consuming {0}. -->
+  <VBE_Cigarettes.ingestible.ingestReportStringEat>Consumindo {0}.</VBE_Cigarettes.ingestible.ingestReportStringEat>
+
+  <!-- EN: cigars -->
+  <VBE_Cigars.label>charutos</VBE_Cigars.label>
+
+  <!-- EN: A fat, dried tobacco leaf stuffed to the brim with more tobacco leaves and a gold foil wrap around it. Cigars have a historically posh presentation and are usually only affordable by those who mingle with glitterworld elite regularly. Cigars are often flavored with citrus or vanilla to make their flavor and odor less acrid. -->
+  <VBE_Cigars.description>Uma folha grossa e seca de tabaco, recheada com mais folhas e envolta por uma cinta dourada. Charutos têm uma apresentação historicamente sofisticada e costumam caber apenas no bolso de quem convive com a elite dos mundos reluzentes. Muitas vezes recebem aromas cítricos ou de baunilha para suavizar o sabor e o cheiro acre.</VBE_Cigars.description>
+
+  <!-- EN: Smoke {0} -->
+  <VBE_Cigars.ingestible.ingestCommandString>Fumar {0}</VBE_Cigars.ingestible.ingestCommandString>
+
+  <!-- EN: Smoking {0}. -->
+  <VBE_Cigars.ingestible.ingestReportString>Fumando {0}.</VBE_Cigars.ingestible.ingestReportString>
+
+  <!-- EN: Consuming {0}. -->
+  <VBE_Cigars.ingestible.ingestReportStringEat>Consumindo {0}.</VBE_Cigars.ingestible.ingestReportStringEat>
+
+  <!-- EN: ambrandy distillery -->
+  <VBE_AmbrandyDistillery.label>destilaria de conhaque de ambrosia</VBE_AmbrandyDistillery.label>
+
+  <!-- EN: A gilded distillery of very delicate craftsmanship meant for aging ambrosia must into a drinkable form. -->
+  <VBE_AmbrandyDistillery.description>Uma destilaria dourada, de fabricação muito delicada, destinada a envelhecer o mosto de ambrosia até torná-lo próprio para consumo.</VBE_AmbrandyDistillery.description>
+
+  <!-- EN: gin still -->
+  <VBE_GinStill.label>alambique de gim</VBE_GinStill.label>
+
+  <!-- EN: A fully metal industrial distilling device, meant to purify and ferment gin into a drinkable form. The metallic design means aging is possible in a wide range of temperatures and conditions. -->
+  <VBE_GinStill.description>Um destilador industrial inteiramente metálico, destinado a purificar e fermentar gim até torná-lo próprio para consumo. A construção em metal permite o envelhecimento em uma ampla faixa de temperaturas e condições.</VBE_GinStill.description>
+
+  <!-- EN: soda fountain -->
+  <VBE_SodaFountain.label>máquina de refrigerantes</VBE_SodaFountain.label>
+
+  <!-- EN: An all-in-one soda manufacturing unit. Syrup is mixed with water thoroughly, carbonated and then deeply chilled before being dispensed into sterilized bottles. -->
+  <VBE_SodaFountain.description>Uma unidade completa de fabricação de refrigerantes. Mistura bem o xarope com água, gaseifica a bebida e a resfria intensamente antes de encher garrafas esterilizadas.</VBE_SodaFountain.description>
+
+  <!-- EN: tequila barrel -->
+  <VBE_TequilaBarrel.label>barril de tequila</VBE_TequilaBarrel.label>
+
+  <!-- EN: A small still and fermenter combo unit, perfect for storing behind the counter of a warm saloon, but doesn’t fare very well in rain. -->
+  <VBE_TequilaBarrel.description>Uma pequena unidade que combina alambique e fermentador, perfeita para ficar atrás do balcão de um saloon aquecido, mas pouco resistente à chuva.</VBE_TequilaBarrel.description>
+
+  <!-- EN: vodka drum -->
+  <VBE_VodkaDrum.label>tambor de vodca</VBE_VodkaDrum.label>
+
+  <!-- EN: A cheap container meant for storing water retrofitted to be air tight for short-term fermenting. -->
+  <VBE_VodkaDrum.description>Um recipiente barato de armazenamento de água, adaptado para ficar hermético e permitir fermentações de curta duração.</VBE_VodkaDrum.description>
+
+  <!-- EN: whiskey cask -->
+  <VBE_WhiskeyCask.label>tonel de uísque</VBE_WhiskeyCask.label>
+
+  <!-- EN: A huge barrel meant for aging a high volume of whiskey at once. Natural woody flavors are imparted into the mixture as the barrel itself absorbs a portion of the liquid during the fermenting process. Any sunlight (or light above 50% brightness) hitting the barrel may slow down the fermenting process, or even ruin the whole batch. -->
+  <VBE_WhiskeyCask.description>Um enorme barril destinado a envelhecer uma grande quantidade de uísque de uma só vez. Durante a fermentação, a madeira transmite seus sabores naturais à mistura e absorve parte do líquido. A incidência de luz solar, ou de qualquer luz com mais de 50% de intensidade, pode retardar a fermentação ou até estragar o lote inteiro.</VBE_WhiskeyCask.description>
+
+  <!-- EN: coffee plant -->
+  <VBE_Plant_Coffee.label>cafeeiro</VBE_Plant_Coffee.label>
+
+  <!-- EN: A low-lying bush of tropical origin, dotted by small reddish berries when fully grown. The pits of these berries are known succinctly as “coffee beans” and can be roasted to bring out a robust and bitter flavor, as well as natural caffeine. This particular genus has been selectively bred for quick maturing compared to its ancient counterpart. -->
+  <VBE_Plant_Coffee.description>Um arbusto baixo de origem tropical, coberto de pequenos frutos avermelhados quando adulto. As sementes desses frutos são conhecidas simplesmente como “grãos de café” e podem ser torradas para realçar o sabor forte e amargo, além da cafeína natural. Esta variedade foi selecionada para amadurecer mais depressa do que sua ancestral.</VBE_Plant_Coffee.description>
+
+  <!-- EN: tea grass -->
+  <VBE_Plant_Tea.label>planta de chá</VBE_Plant_Tea.label>
+
+  <!-- EN: A very leafy shrub that is particularly easy to cultivate. Since early mankind it was discovered the leaves of these plants can be boiled into a variety of earthy and soothing tea. This particular genus has been selectively bred for quick maturing compared to its ancient counterpart. -->
+  <VBE_Plant_Tea.description>Um arbusto muito frondoso e particularmente fácil de cultivar. Desde os primórdios da humanidade, sabe-se que suas folhas podem ser fervidas para preparar chás terrosos e reconfortantes. Esta variedade foi selecionada para amadurecer mais depressa do que sua ancestral.</VBE_Plant_Tea.description>
+
+  <!-- EN: tobacco plant -->
+  <VBE_Plant_Tobacco.label>planta de tabaco</VBE_Plant_Tobacco.label>
+
+  <!-- EN: A short, broad-leafed plant that thrives in warm climates. Tobacco leaves can be dried quite easily to then be rolled and smoked, providing a mild stimulating effect. -->
+  <VBE_Plant_Tobacco.description>Uma planta baixa de folhas largas que prospera em climas quentes. Suas folhas secam com facilidade e podem ser enroladas e fumadas, proporcionando um leve efeito estimulante.</VBE_Plant_Tobacco.description>
+
+  <!-- EN: go-juice stock -->
+  <VBE_GoJuiceStock.label>caldo de Go-Juice</VBE_GoJuiceStock.label>
+
+  <!-- EN: A gelatinized cube of Go-Juice, able to be digested rather than injected. While it can be used in any meal, it is often melted into soups or used as a thickening agent in cocktails. Provides a very diluted version of the drug without risk of addictions. -->
+  <VBE_GoJuiceStock.description>Um cubo gelatinoso de Go-Juice que pode ser digerido em vez de injetado. Pode ser usado em qualquer refeição, mas costuma ser dissolvido em sopas ou usado para engrossar coquetéis. Fornece uma versão muito diluída da droga, sem risco de dependência.</VBE_GoJuiceStock.description>
+
+  <!-- EN: luciferium powder -->
+  <VBE_LuciferiumPowder.label>pó de lucifério</VBE_LuciferiumPowder.label>
+
+  <!-- EN: A very finely blended powder made from luciferium. Usually put around rims of alcoholic drinks in bars frequented by the wealthy and powerful. Provides a very diluted version of the drug without risk of addictions. -->
+  <VBE_LuciferiumPowder.description>Um pó finíssimo feito de lucifério. Costuma ser colocado na borda de copos de bebidas alcoólicas em bares frequentados pelos ricos e poderosos. Fornece uma versão muito diluída da droga, sem risco de dependência.</VBE_LuciferiumPowder.description>
+
+  <!-- EN: wake-up powder -->
+  <VBE_WakeUpPowder.label>pó de Wake-up</VBE_WakeUpPowder.label>
+
+  <!-- EN: A crushed and powdered form of wake-up, surprisingly sweet and sometimes used as a replacement for sugar in desserts or dissolved into a morning espresso. Provides a very diluted version of the drug without risk of addictions. -->
+  <VBE_WakeUpPowder.description>Uma forma triturada de Wake-up, surpreendentemente doce e às vezes usada para substituir o açúcar em sobremesas ou dissolvida no café expresso da manhã. Fornece uma versão muito diluída da droga, sem risco de dependência.</VBE_WakeUpPowder.description>
+
+  <!-- EN: cider -->
+  <VBE_Cider.label>sidra</VBE_Cider.label>
+
+  <!-- EN: A barely alcoholic beverage meant to be refreshing and fruity. Try as anybody might it is pointless trying to get inebriated by cider alone, thus it is popular among those with prior addiction. Anecdotally, many praise it for supposed antioxidant properties. -->
+  <VBE_Cider.description>Uma bebida de baixíssimo teor alcoólico, feita para ser refrescante e frutada. Por mais que se tente, é inútil buscar embriaguez só com sidra, o que a torna popular entre pessoas com histórico de dependência. Muitos também elogiam suas supostas propriedades antioxidantes.</VBE_Cider.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_Cider.ingestible.ingestCommandString>Beber {0}</VBE_Cider.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_Cider.ingestible.ingestReportString>Bebendo {0}.</VBE_Cider.ingestible.ingestReportString>
+
+  <!-- EN: bottle -->
+  <VBE_Cider.tools.bottle.label>garrafa</VBE_Cider.tools.bottle.label>
+
+  <!-- EN: neck -->
+  <VBE_Cider.tools.neck.label>gargalo</VBE_Cider.tools.neck.label>
+
+  <!-- EN: unfermented cider -->
+  <VBE_UnfermentedCider.label>sidra não fermentada</VBE_UnfermentedCider.label>
+
+  <!-- EN: Unfermented cider with a starter in an air-tight bottle. If left alone to develop the proper bacteria the end result will be a weak alcoholic beverage. -->
+  <VBE_UnfermentedCider.description>Sidra não fermentada com uma cultura inicial em uma garrafa hermética. Se deixada em repouso para desenvolver as bactérias adequadas, resulta em uma bebida de baixo teor alcoólico.</VBE_UnfermentedCider.description>
+</LanguageData>
+

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Syrup to Insert -->
+  <VBE_InsertSyrupDesc>Xarope a inserir</VBE_InsertSyrupDesc>
+
+  <!-- EN: Bring Syrup -->
+  <VBE_StartInsertion>Levar xarope</VBE_StartInsertion>
+
+  <!-- EN: Bring a syrup to the soda fountain to start processing -->
+  <VBE_StartInsertionDesc>Leve xarope à máquina de refrigerantes para iniciar o processamento</VBE_StartInsertionDesc>
+
+  <!-- EN: Cancel Bringing Syrup -->
+  <VBE_CancelBringingSyrup>Cancelar transporte de xarope</VBE_CancelBringingSyrup>
+
+  <!-- EN: Cancel bringing syrup to the soda fountain. -->
+  <VBE_CancelBringingSyrupDesc>Cancele o transporte de xarope para a máquina de refrigerantes.</VBE_CancelBringingSyrupDesc>
+
+  <!-- EN: The soda has spoiled due to a power failure in the soda fountain -->
+  <VBE_SyrupFailurePower>O refrigerante estragou devido a uma falha de energia na máquina de refrigerantes</VBE_SyrupFailurePower>
+
+  <!-- EN: This soda fountain is not working at the moment -->
+  <VCE_SodaFountainNotWorking>Esta máquina de refrigerantes não está funcionando no momento</VCE_SodaFountainNotWorking>
+
+  <!-- EN: The syrup mix is spoiling fast due to a lack of fuel in the soda fountain -->
+  <VCE_SyrupFailurePowerWarning>A mistura de xarope está estragando depressa por falta de combustível na máquina de refrigerantes</VCE_SyrupFailurePowerWarning>
+
+  <!-- EN: Must to Insert -->
+  <VBE_InsertAmbMustDesc>Mosto a inserir</VBE_InsertAmbMustDesc>
+
+  <!-- EN: Bring Must -->
+  <VBE_StartInsertionAmbMust>Levar mosto</VBE_StartInsertionAmbMust>
+
+  <!-- EN: Bring ambrandy must to the ambrandy distillery to start fermentation -->
+  <VBE_StartInsertionAmbMustDesc>Leve mosto de ambrosia à destilaria de conhaque de ambrosia para iniciar a fermentação</VBE_StartInsertionAmbMustDesc>
+
+  <!-- EN: Cancel Bringing Must -->
+  <VBE_CancelBringingAmbMust>Cancelar transporte de mosto</VBE_CancelBringingAmbMust>
+
+  <!-- EN: Cancel bringing ambrandy must to the ambrandy distillery. -->
+  <VBE_CancelBringingAmbMustDesc>Cancele o transporte de mosto de ambrosia para a destilaria de conhaque de ambrosia.</VBE_CancelBringingAmbMustDesc>
+
+  <!-- EN: The ambrandy has spoiled due to a power failure in the ambrandy distillery -->
+  <VBE_AmbrandyFailurePower>O conhaque de ambrosia estragou devido a uma falha de energia na destilaria</VBE_AmbrandyFailurePower>
+
+  <!-- EN: Remove Ambrandy ({0}) -->
+  <VBE_RemoveAmbrandy>Retirar conhaque de ambrosia ({0})</VBE_RemoveAmbrandy>
+
+  <!-- EN: Remove ambrandy from the ambrandy distillery. The ambrandy will be acquired at the present quality level ({0}) -->
+  <VBE_RemoveAmbrandyDesc>Retire o conhaque de ambrosia da destilaria. A bebida será obtida no nível de qualidade atual ({0})</VBE_RemoveAmbrandyDesc>
+
+  <!-- EN: This ambrandy distillery is not working at the moment -->
+  <VCE_AmbrandyNotWorking>Esta destilaria de conhaque de ambrosia não está funcionando no momento</VCE_AmbrandyNotWorking>
+
+  <!-- EN: Mash or Whiskey to Insert -->
+  <VBE_InsertMustOrWhiskeyDesc>Mosto ou uísque a inserir</VBE_InsertMustOrWhiskeyDesc>
+
+  <!-- EN: Bring Mash or Whiskey -->
+  <VBE_StartInsertionMustOrWhiskey>Levar mosto ou uísque</VBE_StartInsertionMustOrWhiskey>
+
+  <!-- EN: Bring mash to the whiskey cask to start fermentation or whiskey to start double-aging process -->
+  <VBE_StartInsertionMustOrWhiskeyDesc>Leve mosto ao tonel de uísque para iniciar a fermentação, ou uísque para iniciar o segundo envelhecimento</VBE_StartInsertionMustOrWhiskeyDesc>
+
+  <!-- EN: Cancel bringing mash or whiskey must to the whiskey cask. -->
+  <VBE_CancelBringingMustOrWhiskey>Cancele o transporte de mosto ou uísque para o tonel de uísque.</VBE_CancelBringingMustOrWhiskey>
+
+  <!-- EN: This whiskey cask is not working at the moment -->
+  <VCE_WhiskeyCaskNotWorking>Este tonel de uísque não está funcionando no momento</VCE_WhiskeyCaskNotWorking>
+
+  <!-- EN: Must to Insert -->
+  <VBE_InsertTequilaMustDesc>Mosto a inserir</VBE_InsertTequilaMustDesc>
+
+  <!-- EN: Bring Must -->
+  <VBE_StartInsertionTequilaMust>Levar mosto</VBE_StartInsertionTequilaMust>
+
+  <!-- EN: Bring tequila must to the tequila barrel to start fermentation process -->
+  <VBE_StartInsertionTequilaMustDesc>Leve mosto para tequila ao barril de tequila para iniciar a fermentação</VBE_StartInsertionTequilaMustDesc>
+
+  <!-- EN: Cancel Bringing Must -->
+  <VBE_CancelBringingTequilaMust>Cancelar transporte de mosto</VBE_CancelBringingTequilaMust>
+
+  <!-- EN: Cancel bringing tequila must to the tequila barrel. -->
+  <VBE_CancelBringingTequilaMustDesc>Cancele o transporte de mosto para tequila para o barril de tequila.</VBE_CancelBringingTequilaMustDesc>
+
+  <!-- EN: This tequila barrel is not working at the moment -->
+  <VCE_TequilaBarrelNotWorking>Este barril de tequila não está funcionando no momento</VCE_TequilaBarrelNotWorking>
+
+  <!-- EN: Mash to Insert -->
+  <VBE_InsertVodkaMustDesc>Massa a inserir</VBE_InsertVodkaMustDesc>
+
+  <!-- EN: Bring Mash -->
+  <VBE_StartInsertionVodkaMust>Levar massa</VBE_StartInsertionVodkaMust>
+
+  <!-- EN: Bring vodka mash to the vodka drum to start fermentation process -->
+  <VBE_StartInsertionVodkaMustDesc>Leve massa para vodca ao tambor de vodca para iniciar a fermentação</VBE_StartInsertionVodkaMustDesc>
+
+  <!-- EN: Cancel Bringing Mash -->
+  <VBE_CancelBringingVodkaMust>Cancelar transporte de massa</VBE_CancelBringingVodkaMust>
+
+  <!-- EN: Cancel bringing vodka mash to the vodka drum. -->
+  <VBE_CancelBringingVodkaMustDesc>Cancele o transporte de massa para vodca para o tambor de vodca.</VBE_CancelBringingVodkaMustDesc>
+
+  <!-- EN: This vodka drum is not working at the moment -->
+  <VCE_VodkaDrumNotWorking>Este tambor de vodca não está funcionando no momento</VCE_VodkaDrumNotWorking>
+
+  <!-- EN: Mush to Insert -->
+  <VBE_InsertGinMushDesc>Polpa a inserir</VBE_InsertGinMushDesc>
+
+  <!-- EN: Bring Mush -->
+  <VBE_StartInsertionGinMush>Levar polpa</VBE_StartInsertionGinMush>
+
+  <!-- EN: Bring gin mush to the gin still to start fermentation process -->
+  <VBE_StartInsertionGinMushDesc>Leve polpa para gim ao alambique de gim para iniciar a fermentação</VBE_StartInsertionGinMushDesc>
+
+  <!-- EN: Cancel Bringing Mush -->
+  <VBE_CancelBringingGinMush>Cancelar transporte de polpa</VBE_CancelBringingGinMush>
+
+  <!-- EN: Cancel bringing gin mush to the gin still. -->
+  <VBE_CancelBringingGinMushDesc>Cancele o transporte de polpa para gim para o alambique de gim.</VBE_CancelBringingGinMushDesc>
+
+  <!-- EN: This gin still is not working at the moment -->
+  <VCE_GinStillNotWorking>Este alambique de gim não está funcionando no momento</VCE_GinStillNotWorking>
+
+  <!-- EN: Mush ripening -->
+  <VBE_MushRipening>Amadurecimento da polpa</VBE_MushRipening>
+
+  <!-- EN: This mush is frozen and will not ripen into ambrandy must -->
+  <VBE_MushCurrentlyFrozen>Esta polpa está congelada e não amadurecerá para formar mosto de ambrosia</VBE_MushCurrentlyFrozen>
+
+  <!-- EN: This mush is refrigerated and will not ripen into ambrandy must as fast as it could (ripens in {0}) -->
+  <VBE_MushCurrentlyRefrigerated>Esta polpa está refrigerada e amadurecerá mais devagar até formar mosto de ambrosia (amadurece em {0})</VBE_MushCurrentlyRefrigerated>
+
+  <!-- EN: This mush is ripening into ambrandy must correctly (ripens in {0}) -->
+  <VBE_MushDryingCorrectly>Esta polpa está amadurecendo normalmente até formar mosto de ambrosia (amadurece em {0})</VBE_MushDryingCorrectly>
+
+  <!-- EN: Cider maturing -->
+  <VBE_CiderMaturing>Maturação da sidra</VBE_CiderMaturing>
+
+  <!-- EN: This unfermented cider is frozen and will not mature into cider -->
+  <VBE_CiderCurrentlyFrozen>Esta sidra não fermentada está congelada e não maturará para formar sidra</VBE_CiderCurrentlyFrozen>
+
+  <!-- EN: This unfermented cider is refrigerated and will not mature into cider as fast as it could (matures in {0}) -->
+  <VBE_CiderCurrentlyRefrigerated>Esta sidra não fermentada está refrigerada e maturará mais devagar até formar sidra (matura em {0})</VBE_CiderCurrentlyRefrigerated>
+
+  <!-- EN: This unfermented cider is maturing into cider correctly (matures in {0}) -->
+  <VBE_CiderMaturingCorrectly>Esta sidra não fermentada está maturando normalmente até formar sidra (matura em {0})</VBE_CiderMaturingCorrectly>
+
+  <!-- EN: Unforbid dropped fruit -->
+  <VBE_UnforbidDroppedFruit>Permitir frutas caídas</VBE_UnforbidDroppedFruit>
+
+  <!-- EN: Never -->
+  <VBE_Never>Nunca</VBE_Never>
+
+  <!-- EN: Never unforbid automatically dropped fruit -->
+  <VBE_NeverDesc>Nunca permita automaticamente frutas que caíram</VBE_NeverDesc>
+
+  <!-- EN: Home area -->
+  <VBE_HomeArea>Área doméstica</VBE_HomeArea>
+
+  <!-- EN: Only unforbid automatically dropped fruit if the tree is in the home area -->
+  <VBE_HomeAreaDesc>Permita automaticamente frutas que caíram apenas se a árvore estiver na área doméstica</VBE_HomeAreaDesc>
+
+  <!-- EN: Always -->
+  <VBE_Always>Sempre</VBE_Always>
+
+  <!-- EN: Always unforbid automatically dropped fruit -->
+  <VBE_AlwaysDesc>Sempre permita automaticamente frutas que caíram</VBE_AlwaysDesc>
+</LanguageData>
+

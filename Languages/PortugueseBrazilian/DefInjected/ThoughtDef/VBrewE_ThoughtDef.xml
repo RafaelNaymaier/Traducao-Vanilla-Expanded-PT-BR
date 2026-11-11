@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: caffeine withdrawal -->
+  <VBE_CaffeineWithdrawal.stages.caffeine_withdrawal.label>abstinência de cafeína</VBE_CaffeineWithdrawal.stages.caffeine_withdrawal.label>
+
+  <!-- EN: I'm so tired. Everything's annoying, my hands are shaking and my head is pounding. -->
+  <VBE_CaffeineWithdrawal.stages.caffeine_withdrawal.description>Não aguento de cansaço. Tudo me irrita, minhas mãos estão tremendo e minha cabeça está latejando.</VBE_CaffeineWithdrawal.stages.caffeine_withdrawal.description>
+
+  <!-- EN: Drank hot coffee -->
+  <VBE_HotCoffeeHigh.stages.Drank_hot_coffee.label>Bebeu café quente</VBE_HotCoffeeHigh.stages.Drank_hot_coffee.label>
+
+  <!-- EN: That coffee hit the spot. -->
+  <VBE_HotCoffeeHigh.stages.Drank_hot_coffee.description>Esse café caiu muito bem.</VBE_HotCoffeeHigh.stages.Drank_hot_coffee.description>
+
+  <!-- EN: Drank iced coffee -->
+  <VBE_IcedCoffeeHigh.stages.Drank_iced_coffee.label>Bebeu café gelado</VBE_IcedCoffeeHigh.stages.Drank_iced_coffee.label>
+
+  <!-- EN: That coffee hit the spot. -->
+  <VBE_IcedCoffeeHigh.stages.Drank_iced_coffee.description>Esse café caiu muito bem.</VBE_IcedCoffeeHigh.stages.Drank_iced_coffee.description>
+
+  <!-- EN: Drank energy drink -->
+  <VBE_EnergyDrinkHigh.stages.Drank_energy_drink.label>Bebeu energético</VBE_EnergyDrinkHigh.stages.Drank_energy_drink.label>
+
+  <!-- EN: I feel like I’ve been given wings! -->
+  <VBE_EnergyDrinkHigh.stages.Drank_energy_drink.description>Parece que ganhei asas!</VBE_EnergyDrinkHigh.stages.Drank_energy_drink.description>
+
+  <!-- EN: Smoked cigar -->
+  <VBE_DeluxeTobaccoHigh.stages.Smoked_cigar.label>Fumou charuto</VBE_DeluxeTobaccoHigh.stages.Smoked_cigar.label>
+
+  <!-- EN: Smoking a cigar makes me feel like I’ve made it big in life. -->
+  <VBE_DeluxeTobaccoHigh.stages.Smoked_cigar.description>Fumar um charuto me faz sentir que venci na vida.</VBE_DeluxeTobaccoHigh.stages.Smoked_cigar.description>
+
+  <!-- EN: Smoked cigarette -->
+  <VBE_TobaccoHigh.stages.Smoked_cigarette.label>Fumou cigarro</VBE_TobaccoHigh.stages.Smoked_cigarette.label>
+
+  <!-- EN: That cigarette was just what I needed. -->
+  <VBE_TobaccoHigh.stages.Smoked_cigarette.description>Esse cigarro era tudo de que eu precisava.</VBE_TobaccoHigh.stages.Smoked_cigarette.description>
+
+  <!-- EN: tobacco withdrawal -->
+  <VBE_TobaccoWithdrawal.stages.tobacco_withdrawal.label>abstinência de tabaco</VBE_TobaccoWithdrawal.stages.tobacco_withdrawal.label>
+
+  <!-- EN: I really wish I could smoke. I'd really like a cigarette. -->
+  <VBE_TobaccoWithdrawal.stages.tobacco_withdrawal.description>Como eu queria poder fumar. Um cigarro cairia tão bem.</VBE_TobaccoWithdrawal.stages.tobacco_withdrawal.description>
+
+  <!-- EN: Drank ambrandy-based cocktail -->
+  <VBE_AmbrandyAsIngredient.stages.Drank_ambrandybased_cocktail.label>Bebeu coquetel à base de conhaque de ambrosia</VBE_AmbrandyAsIngredient.stages.Drank_ambrandybased_cocktail.label>
+
+  <!-- EN: Yummy. -->
+  <VBE_AmbrandyAsIngredient.stages.Drank_ambrandybased_cocktail.description>Que delícia.</VBE_AmbrandyAsIngredient.stages.Drank_ambrandybased_cocktail.description>
+
+  <!-- EN: Consumed go-juice stock -->
+  <VBE_ConsumedGoStock.stages.Consumed_gojuice_stock.label>Consumiu caldo de Go-Juice</VBE_ConsumedGoStock.stages.Consumed_gojuice_stock.label>
+
+  <!-- EN: Yummy. -->
+  <VBE_ConsumedGoStock.stages.Consumed_gojuice_stock.description>Que delícia.</VBE_ConsumedGoStock.stages.Consumed_gojuice_stock.description>
+
+  <!-- EN: Consumed luciferium powder -->
+  <VBE_ConsumedLuciferiumPowder.stages.Consumed_luciferium_powder.label>Consumiu pó de lucifério</VBE_ConsumedLuciferiumPowder.stages.Consumed_luciferium_powder.label>
+
+  <!-- EN: Yummy. -->
+  <VBE_ConsumedLuciferiumPowder.stages.Consumed_luciferium_powder.description>Que delícia.</VBE_ConsumedLuciferiumPowder.stages.Consumed_luciferium_powder.description>
+
+  <!-- EN: Consumed wake-up powder -->
+  <VBE_ConsumedWakeupPowder.stages.Consumed_wakeup_powder.label>Consumiu pó de Wake-up</VBE_ConsumedWakeupPowder.stages.Consumed_wakeup_powder.label>
+
+  <!-- EN: Yummy. -->
+  <VBE_ConsumedWakeupPowder.stages.Consumed_wakeup_powder.description>Que delícia.</VBE_ConsumedWakeupPowder.stages.Consumed_wakeup_powder.description>
+
+  <!-- EN: Drank soda -->
+  <VBE_DrankSoda.stages.Drank_soda.label>Bebeu refrigerante</VBE_DrankSoda.stages.Drank_soda.label>
+
+  <!-- EN: I drank a sweet and fizzy soda, a small luxury. -->
+  <VBE_DrankSoda.stages.Drank_soda.description>Bebi um refrigerante doce e gaseificado, um pequeno luxo.</VBE_DrankSoda.stages.Drank_soda.description>
+
+  <!-- EN: Drank tea -->
+  <VBE_DrankTea.stages.Drank_tea.label>Bebeu chá</VBE_DrankTea.stages.Drank_tea.label>
+
+  <!-- EN: A simple cup of tea really brightens the day. -->
+  <VBE_DrankTea.stages.Drank_tea.description>Uma simples xícara de chá melhora muito o dia.</VBE_DrankTea.stages.Drank_tea.description>
+
+  <!-- EN: Drank gin-based cocktail -->
+  <VBE_GinAsIngredient.stages.Drank_ginbased_cocktail.label>Bebeu coquetel à base de gim</VBE_GinAsIngredient.stages.Drank_ginbased_cocktail.label>
+
+  <!-- EN: Yummy. -->
+  <VBE_GinAsIngredient.stages.Drank_ginbased_cocktail.description>Que delícia.</VBE_GinAsIngredient.stages.Drank_ginbased_cocktail.description>
+
+  <!-- EN: Drank mead-based cocktail -->
+  <VBE_RBMeadAsIngredient.stages.Drank_meadbased_cocktail.label>Bebeu coquetel à base de hidromel</VBE_RBMeadAsIngredient.stages.Drank_meadbased_cocktail.label>
+
+  <!-- EN: Yummy. -->
+  <VBE_RBMeadAsIngredient.stages.Drank_meadbased_cocktail.description>Que delícia.</VBE_RBMeadAsIngredient.stages.Drank_meadbased_cocktail.description>
+
+  <!-- EN: Drank tequila-based cocktail -->
+  <VBE_TequilaAsIngredient.stages.Drank_tequilabased_cocktail.label>Bebeu coquetel à base de tequila</VBE_TequilaAsIngredient.stages.Drank_tequilabased_cocktail.label>
+
+  <!-- EN: Yummy. -->
+  <VBE_TequilaAsIngredient.stages.Drank_tequilabased_cocktail.description>Que delícia.</VBE_TequilaAsIngredient.stages.Drank_tequilabased_cocktail.description>
+
+  <!-- EN: Drank vodka-based cocktail -->
+  <VBE_VodkaAsIngredient.stages.Drank_vodkabased_cocktail.label>Bebeu coquetel à base de vodca</VBE_VodkaAsIngredient.stages.Drank_vodkabased_cocktail.label>
+
+  <!-- EN: Yummy. -->
+  <VBE_VodkaAsIngredient.stages.Drank_vodkabased_cocktail.description>Que delícia.</VBE_VodkaAsIngredient.stages.Drank_vodkabased_cocktail.description>
+
+  <!-- EN: Drank whiskey-based cocktail -->
+  <VBE_WhiskeyAsIngredient.stages.Drank_whiskeybased_cocktail.label>Bebeu coquetel à base de uísque</VBE_WhiskeyAsIngredient.stages.Drank_whiskeybased_cocktail.label>
+
+  <!-- EN: Yummy. -->
+  <VBE_WhiskeyAsIngredient.stages.Drank_whiskeybased_cocktail.description>Que delícia.</VBE_WhiskeyAsIngredient.stages.Drank_whiskeybased_cocktail.description>
+
+  <!-- EN: Drank wine-based cocktail -->
+  <VBE_WineAsIngredient.stages.Drank_winebased_cocktail.label>Bebeu coquetel à base de vinho</VBE_WineAsIngredient.stages.Drank_winebased_cocktail.label>
+
+  <!-- EN: Yummy. -->
+  <VBE_WineAsIngredient.stages.Drank_winebased_cocktail.description>Que delícia.</VBE_WineAsIngredient.stages.Drank_winebased_cocktail.description>
+
+  <!-- EN: Drank cider-based cocktail -->
+  <VBE_CiderAsIngredient.stages.Drank_ciderbased_cocktail.label>Bebeu coquetel à base de sidra</VBE_CiderAsIngredient.stages.Drank_ciderbased_cocktail.label>
+
+  <!-- EN: Yummy. -->
+  <VBE_CiderAsIngredient.stages.Drank_ciderbased_cocktail.description>Que delícia.</VBE_CiderAsIngredient.stages.Drank_ciderbased_cocktail.description>
+
+  <!-- EN: Drank chemshine-based cocktail -->
+  <VBE_ChemshineAsIngredient.stages.Drank_chemshinebased_cocktail.label>Bebeu coquetel à base de destilado químico</VBE_ChemshineAsIngredient.stages.Drank_chemshinebased_cocktail.label>
+
+  <!-- EN: Yummy. -->
+  <VBE_ChemshineAsIngredient.stages.Drank_chemshinebased_cocktail.description>Que delícia.</VBE_ChemshineAsIngredient.stages.Drank_chemshinebased_cocktail.description>
+</LanguageData>
+
