@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: adept -->
+  <VME_Fishing_Adept.label>perito</VME_Fishing_Adept.label>
+
+  <!-- EN: discouraged -->
+  <VME_Ranching_Discouraged.label>desencorajado</VME_Ranching_Discouraged.label>
+
+  <!-- EN: Why would we raise land animals or hunt, waste our time training and butchering them when we can get all the meat we need from the sea? -->
+  <VME_Ranching_Discouraged.description>Para que criar animais terrestres ou caçar, gastando tempo em adestramento e abate, se o mar pode fornecer toda a carne de que precisamos?</VME_Ranching_Discouraged.description>
+
+  <!-- EN: fishing -->
+  <VME_Recreation_Fishing.label>pesca</VME_Recreation_Fishing.label>
+
+  <!-- EN: Fishing is one of the most relaxing and fulfilling activities you could possibly spend your free time doing.\n\n<color=#E5E54C>Stats:</color>\n - Colonists gain recreation when fishing. -->
+  <VME_Recreation_Fishing.description>Pescar é uma das atividades mais relaxantes e gratificantes para ocupar o tempo livre.\n\n&lt;color=#E5E54C&gt;Estatísticas:&lt;/color&gt;\n - Colonos ganham recreação ao pescar.</VME_Recreation_Fishing.description>
+
+  <!-- EN: forbidden -->
+  <VME_Fishing_Forbidden.label>proibido</VME_Fishing_Forbidden.label>
+
+  <!-- EN: Fish are animals, and as such fishing should be a banned activity. -->
+  <VME_Fishing_Forbidden.description>Peixes são animais; portanto, pescar deveria ser proibido.</VME_Fishing_Forbidden.description>
+</LanguageData>
+

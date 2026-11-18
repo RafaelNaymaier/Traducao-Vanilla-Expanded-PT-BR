@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Ideology Expanded - Memes and Structures</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationFindMod">
+          <mods>
+            <li>Precepts and Memes</li>
+          </mods>
+          <match Class="PatchOperationSequence">
+            <operations>
+              <li Class="PatchOperationReplace">
+                <xpath>Defs/PreceptDef[defName="VME_Death_DontCare"]/label</xpath>
+                <value>
+                  <!-- EN: extremely irrelevant -->
+                  <label>extremamente irrelevante</label>
+                </value>
+              </li>
+            </operations>
+          </match>
+          <nomatch Class="PatchOperationSequence">
+            <operations>
+              <li Class="PatchOperationReplace">
+                <xpath>Defs/PreceptDef[defName="VME_Death_DontCare"]/label</xpath>
+                <value>
+                  <!-- EN: don't care -->
+                  <label>indiferente</label>
+                </value>
+              </li>
+            </operations>
+          </nomatch>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>
+

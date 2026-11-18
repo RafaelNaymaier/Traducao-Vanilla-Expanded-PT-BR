@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: read a book -->
+  <VME_BookReading_Desired.stages.read_a_book.label>leu um livro</VME_BookReading_Desired.stages.read_a_book.label>
+
+  <!-- EN: Reading a good book is like nourishing the mind. -->
+  <VME_BookReading_Desired.stages.read_a_book.description>Ler um bom livro é como alimentar a mente.</VME_BookReading_Desired.stages.read_a_book.description>
+
+  <!-- EN: read a book -->
+  <VME_BookReading_Disliked.stages.read_a_book.label>leu um livro</VME_BookReading_Disliked.stages.read_a_book.label>
+
+  <!-- EN: I hate reading. I was forced to read this book and hated every second of it. -->
+  <VME_BookReading_Disliked.stages.read_a_book.description>Odeio ler. Tive que ler esse livro e odiei cada segundo.</VME_BookReading_Disliked.stages.read_a_book.description>
+
+  <!-- EN: wrote a book -->
+  <VME_BookWriting_Disliked.stages.wrote_a_book.label>escreveu um livro</VME_BookWriting_Disliked.stages.wrote_a_book.label>
+
+  <!-- EN: I had to write a book. Putting your thoughts to paper is sinful and disgusting. -->
+  <VME_BookWriting_Disliked.stages.wrote_a_book.description>Tive que escrever um livro. Colocar pensamentos no papel é pecaminoso e repugnante.</VME_BookWriting_Disliked.stages.wrote_a_book.description>
+
+  <!-- EN: writer of thoughts -->
+  <VME_BookWriting_Disliked_Know.stages.writer_of_thoughts.label>autor de pensamentos</VME_BookWriting_Disliked_Know.stages.writer_of_thoughts.label>
+
+  <!-- EN: wrote a book -->
+  <VME_BookWriting_Exalted.stages.wrote_a_book.label>escreveu um livro</VME_BookWriting_Exalted.stages.wrote_a_book.label>
+
+  <!-- EN: I did it! I am now a distinguished author. -->
+  <VME_BookWriting_Exalted.stages.wrote_a_book.description>Consegui! Agora sou um autor de prestígio.</VME_BookWriting_Exalted.stages.wrote_a_book.description>
+
+  <!-- EN: distinguished author -->
+  <VME_BookWriting_Exalted_Know.stages.distinguished_author.label>autor de prestígio</VME_BookWriting_Exalted_Know.stages.distinguished_author.label>
+
+  <!-- EN: need library -->
+  <VME_Library_Required.stages.need_library.label>precisa de biblioteca</VME_Library_Required.stages.need_library.label>
+
+  <!-- EN: We lack a place of knowledge. -->
+  <VME_Library_Required.stages.need_library.description>Falta um lugar de conhecimento.</VME_Library_Required.stages.need_library.description>
+
+  <!-- EN: lame library -->
+  <VME_Library_Required.stages.lame_library.label>biblioteca fraca</VME_Library_Required.stages.lame_library.label>
+
+  <!-- EN: We have a library, but it needs to be "decent" at least! -->
+  <VME_Library_Required.stages.lame_library.description>Temos uma biblioteca, mas ela precisa ser pelo menos "decente"!</VME_Library_Required.stages.lame_library.description>
+
+  <!-- EN: dirty library -->
+  <VME_Library_Required.stages.dirty_library.label>biblioteca suja</VME_Library_Required.stages.dirty_library.label>
+
+  <!-- EN: We have a library, but it is incredibly dirty. We are not animals! -->
+  <VME_Library_Required.stages.dirty_library.description>Temos uma biblioteca, mas ela está imunda. Não somos animais!</VME_Library_Required.stages.dirty_library.description>
+
+  <!-- EN: small library -->
+  <VME_Library_Required.stages.small_library.label>biblioteca pequena</VME_Library_Required.stages.small_library.label>
+
+  <!-- EN: We have a small library. -->
+  <VME_Library_Required.stages.small_library.description>Temos uma biblioteca pequena.</VME_Library_Required.stages.small_library.description>
+
+  <!-- EN: spacious library -->
+  <VME_Library_Required.stages.spacious_library.label>biblioteca espaçosa</VME_Library_Required.stages.spacious_library.label>
+
+  <!-- EN: We have a very spacious library. -->
+  <VME_Library_Required.stages.spacious_library.description>Temos uma biblioteca muito espaçosa.</VME_Library_Required.stages.spacious_library.description>
+
+  <!-- EN: huge library -->
+  <VME_Library_Required.stages.huge_library.label>biblioteca enorme</VME_Library_Required.stages.huge_library.label>
+
+  <!-- EN: We have a huge, professional library! -->
+  <VME_Library_Required.stages.huge_library.description>Temos uma biblioteca enorme e profissional!</VME_Library_Required.stages.huge_library.description>
+</LanguageData>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Ideology Expanded - Memes and Structures</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationFindMod">
+          <mods>
+            <li>Improved Insectoids</li>
+          </mods>
+          <match Class="PatchOperationSequence">
+            <operations>
+              <li Class="PatchOperationReplace">
+                <xpath>Defs/MemeDef[defName="VME_InsectoidSupremacy"]/label</xpath>
+                <value>
+                  <!-- EN: insectoid mastery -->
+                  <label>domínio insetoide</label>
+                </value>
+              </li>
+            </operations>
+          </match>
+          <nomatch Class="PatchOperationSequence">
+            <operations>
+              <li Class="PatchOperationReplace">
+                <xpath>Defs/MemeDef[defName="VME_InsectoidSupremacy"]/label</xpath>
+                <value>
+                  <!-- EN: insectoid supremacy -->
+                  <label>supremacia insetoide</label>
+                </value>
+              </li>
+            </operations>
+          </nomatch>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>
+

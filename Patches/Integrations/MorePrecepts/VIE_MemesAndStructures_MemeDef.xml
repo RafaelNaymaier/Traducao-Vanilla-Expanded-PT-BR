@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Ideology Expanded - Memes and Structures</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationFindMod">
+          <mods>
+            <li>More Precepts</li>
+          </mods>
+          <match Class="PatchOperationSequence">
+            <operations>
+              <li Class="PatchOperationReplace">
+                <xpath>Defs/MemeDef[defName="VME_Nomad"]/label</xpath>
+                <value>
+                  <!-- EN: wanderlust -->
+                  <label>vontade de viajar</label>
+                </value>
+              </li>
+            </operations>
+          </match>
+          <nomatch Class="PatchOperationSequence">
+            <operations>
+              <li Class="PatchOperationReplace">
+                <xpath>Defs/MemeDef[defName="VME_Nomad"]/label</xpath>
+                <value>
+                  <!-- EN: nomad -->
+                  <label>nômade</label>
+                </value>
+              </li>
+            </operations>
+          </nomatch>
+        </li>
+        <li Class="PatchOperationFindMod">
+          <mods>
+            <li>More Precepts</li>
+          </mods>
+          <match Class="PatchOperationSequence">
+            <operations>
+              <li Class="PatchOperationReplace">
+                <xpath>Defs/MemeDef[defName="VME_Pacifist"]/label</xpath>
+                <value>
+                  <!-- EN: nonaggression -->
+                  <label>não agressão</label>
+                </value>
+              </li>
+            </operations>
+          </match>
+          <nomatch Class="PatchOperationSequence">
+            <operations>
+              <li Class="PatchOperationReplace">
+                <xpath>Defs/MemeDef[defName="VME_Pacifist"]/label</xpath>
+                <value>
+                  <!-- EN: pacifist -->
+                  <label>pacifista</label>
+                </value>
+              </li>
+            </operations>
+          </nomatch>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>
+

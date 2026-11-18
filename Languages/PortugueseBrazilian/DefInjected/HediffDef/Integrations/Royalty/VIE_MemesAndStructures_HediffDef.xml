@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: work command -->
+  <VME_WorkCommand.label>ordem de trabalho</VME_WorkCommand.label>
+
+  <!-- EN: Instruct everyone around to work harder and be more diligent, boosting global work speed and the cost of depleting recreation. The effect remains attached to the caster for 24 hours. -->
+  <VME_WorkCommand.description>Instrui todos ao redor a trabalhar com mais empenho e atenção, aumentando a velocidade de trabalho global ao custo de consumir recreação. O efeito acompanha quem usa a habilidade por 24 horas.</VME_WorkCommand.description>
+
+  <!-- EN: work command -->
+  <VME_WorkCommandBuff.label>ordem de trabalho</VME_WorkCommandBuff.label>
+
+  <!-- EN: This person's work speed is boosted thanks to being near someone who is using the work command ability. -->
+  <VME_WorkCommandBuff.description>A velocidade de trabalho desta pessoa está aumentada por estar perto de alguém que usa a habilidade ordem de trabalho.</VME_WorkCommandBuff.description>
+</LanguageData>
+

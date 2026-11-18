@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: attempt interrogation -->
+  <VFEA_InterrogatePrisoner.label>tentar interrogar</VFEA_InterrogatePrisoner.label>
+
+  <!-- EN: 
+    <li>r_logentry->[INITIATOR_nameDef] demanded [information] from [RECIPIENT_nameDef].</li>
+    <li>information->information</li>
+    <li>information->knowledge</li>
+    <li>information->intelligence</li>
+  -->
+  <VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] exigiu [information] de [RECIPIENT_nameDef].</li>
+    <li>information->informações</li>
+    <li>information->conhecimento</li>
+    <li>information->informações estratégicas</li>
+  </VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings>
+
+  <!-- EN: try to intimidate -->
+  <VFEA_Intimidate.label>tentar intimidar</VFEA_Intimidate.label>
+
+  <!-- EN: 
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] [RECIPIENT_pronoun] [negative].</li>
+    <li>r_logentry->[INITIATOR_nameDef] explained that [RECIPIENT_nameDef] [negative].</li>
+    <li>r_logentry->[INITIATOR_nameDef] threatened [RECIPIENT_nameDef] with [threat] if [RECIPIENT_pronoun] [refused].</li>
+    <li>r_logentry->[INITIATOR_nameDef] informed [RECIPIENT_nameDef] that [RECIPIENT_pronoun] [disillusionment].</li>
+    <li>r_logentry->[INITIATOR_nameDef] demanded [RECIPIENT_nameDef] [givein] to the colony.</li>
+    <li>negative->had no future</li>
+    <li>negative->had no way to escape</li>
+    <li>negative->should submit immediately</li>
+    <li>negative->should forget [RECIPIENT_possessive] aspirations</li>
+    <li>negative->should submit to the colony</li>
+    <li>negative->should give up the information</li>
+    <li>threat->torture</li>
+    <li>threat->punishment</li>
+    <li>threat->mutilation</li>
+    <li>threat->starvation</li>
+    <li>threat->lifetime incarceration</li>
+    <li>threat->death</li>
+    <li>threat->isolation</li>
+    <li>threat->dismemberment</li>
+    <li>threat->blunt trauma</li>
+    <li>threat->lacerations</li>
+    <li>threat->cannibalism</li>
+    <li>threat->organ harvesting</li>
+    <li>threat->long confinement</li>
+    <li>refused->tried to escape</li>
+    <li>refused->insulted the colony</li>
+    <li>refused->resisted submitting</li>
+    <li>refused->behaved impertinently</li>
+    <li>disillusionment->should accept [RECIPIENT_possessive] situation</li>
+    <li>disillusionment->had no hope for another future</li>
+    <li>disillusionment->would be best off submitting</li>
+    <li>disillusionment->would not survive on [RECIPIENT_possessive] own</li>
+    <li>disillusionment->had no option but to submit</li>
+    <li>givein->give in</li>
+    <li>givein->submit [RECIPIENT_objective]self</li>
+    <li>givein->surrender [RECIPIENT_objective]self</li>
+    <li>givein->yield [RECIPIENT_objective]self</li>
+  -->
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] disse a [RECIPIENT_nameDef] que [RECIPIENT_pronoun] [negative].</li>
+    <li>r_logentry->[INITIATOR_nameDef] explicou que [RECIPIENT_nameDef] [negative].</li>
+    <li>r_logentry->[INITIATOR_nameDef] ameaçou [RECIPIENT_nameDef] com [threat] se [RECIPIENT_pronoun] [refused].</li>
+    <li>r_logentry->[INITIATOR_nameDef] informou a [RECIPIENT_nameDef] que [RECIPIENT_pronoun] [disillusionment].</li>
+    <li>r_logentry->[INITIATOR_nameDef] exigiu que [RECIPIENT_nameDef] [givein] à colônia.</li>
+    <li>negative->não tinha futuro</li>
+    <li>negative->não tinha como escapar</li>
+    <li>negative->deveria se submeter imediatamente</li>
+    <li>negative->deveria esquecer [RECIPIENT_possessive] aspirações</li>
+    <li>negative->deveria se submeter à colônia</li>
+    <li>negative->deveria entregar as informações</li>
+    <li>threat->tortura</li>
+    <li>threat->punição</li>
+    <li>threat->mutilação</li>
+    <li>threat->inanição</li>
+    <li>threat->prisão perpétua</li>
+    <li>threat->morte</li>
+    <li>threat->isolamento</li>
+    <li>threat->desmembramento</li>
+    <li>threat->traumatismo por impacto</li>
+    <li>threat->lacerações</li>
+    <li>threat->canibalismo</li>
+    <li>threat->extração de órgãos</li>
+    <li>threat->confinamento prolongado</li>
+    <li>refused->tentasse escapar</li>
+    <li>refused->insultasse a colônia</li>
+    <li>refused->resistisse a se submeter</li>
+    <li>refused->se comportasse de forma insolente</li>
+    <li>disillusionment->deveria aceitar [RECIPIENT_possessive] situação</li>
+    <li>disillusionment->não tinha esperança de outro futuro</li>
+    <li>disillusionment->estaria melhor se cedesse</li>
+    <li>disillusionment->não sobreviveria por [RECIPIENT_possessive] conta</li>
+    <li>disillusionment->não tinha opção além de se submeter</li>
+    <li>givein->cedesse</li>
+    <li>givein->submetesse a si [RECIPIENT_objective]</li>
+    <li>givein->entregasse a si [RECIPIENT_objective]</li>
+    <li>givein->rendesse a si [RECIPIENT_objective]</li>
+  </VFEA_Intimidate.logRulesInitiator.rulesStrings>
+</LanguageData>
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Ideology Expanded - Memes and Structures</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <operations>
+        <li Class="PatchOperationFindMod">
+          <mods>
+            <li>More Precepts</li>
+          </mods>
+          <match Class="PatchOperationSequence">
+            <operations>
+              <li Class="PatchOperationReplace">
+                <xpath>Defs/IssueDef[defName="Alcohol"]/label</xpath>
+                <value>
+                  <!-- EN: alcohol scheduling -->
+                  <label>programação do consumo de álcool</label>
+                </value>
+              </li>
+            </operations>
+          </match>
+        </li>
+        <li Class="PatchOperationFindMod">
+          <mods>
+            <li>More Precepts</li>
+          </mods>
+          <match Class="PatchOperationSequence">
+            <operations>
+              <li Class="PatchOperationReplace">
+                <xpath>Defs/IssueDef[defName="VME_Violence"]/label</xpath>
+                <value>
+                  <!-- EN: aggression -->
+                  <label>agressão</label>
+                </value>
+              </li>
+            </operations>
+          </match>
+          <nomatch Class="PatchOperationSequence">
+            <operations>
+              <li Class="PatchOperationReplace">
+                <xpath>Defs/IssueDef[defName="VME_Violence"]/label</xpath>
+                <value>
+                  <!-- EN: violence -->
+                  <label>violência</label>
+                </value>
+              </li>
+            </operations>
+          </nomatch>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>
+

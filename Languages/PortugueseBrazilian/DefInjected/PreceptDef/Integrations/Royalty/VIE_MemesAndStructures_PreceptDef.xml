@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: best psycaster -->
+  <VME_Leader_BestPsycaster.label>melhor psinjurador</VME_Leader_BestPsycaster.label>
+
+  <!-- EN: We will only be led by one who’s proven themselves to be our most powerful psyker among us.\n\n<color=#E5E54C>Gameplay effect:</color>\n - The leader role will periodically be forced upon the highest level psycaster in the colony (this will only work if the ideology is the primary one). Leader role will be assigned to the last pawn who achieved highest psylink level in your colony. Even if the current leader has the same level. -->
+  <VME_Leader_BestPsycaster.description>Só seremos liderados por quem provar ser nosso psíquico mais poderoso.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt;\n - A função de líder será periodicamente atribuída ao psinjurador de maior nível da colônia, desde que esta seja a ideologia principal. Ela será atribuída à última pessoa que atingir o maior nível de psínculo da colônia, mesmo que o líder atual tenha o mesmo nível.</VME_Leader_BestPsycaster.description>
+
+  <!-- EN: highest title -->
+  <VME_Leader_HighestTitle.label>título mais alto</VME_Leader_HighestTitle.label>
+
+  <!-- EN: Standing at imperial court is the most significant trait a leader can have.\n\n<color=#E5E54C>Gameplay effect:</color>\n - The leader role will periodically be forced upon the highest royalty title in the colony (this will only work if the ideology is the primary one). Leader role will be assigned to the last pawn who achieved highest royalty title in your colony. Even if the current leader has the same level. -->
+  <VME_Leader_HighestTitle.description>A posição na corte imperial é a característica mais importante de um líder.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt;\n - A função de líder será periodicamente atribuída a quem tiver o maior título real da colônia, desde que esta seja a ideologia principal. Ela será atribuída à última pessoa que atingir o maior título real da colônia, mesmo que o líder atual tenha o mesmo nível.</VME_Leader_HighestTitle.description>
+
+  <!-- EN: exquisite -->
+  <VME_Meditation_Exquisite.label>requintada</VME_Meditation_Exquisite.label>
+
+  <!-- EN: Hear, feel, think… Beyond meditation, enter trance and surrender yourself to your own soul and those souls around it. -->
+  <VME_Meditation_Exquisite.description>Ouça, sinta, pense... Vá além da meditação, entre em transe e se entregue à sua alma e às almas ao redor.</VME_Meditation_Exquisite.description>
+
+  <!-- EN: increased -->
+  <VME_PermitCooldown_Increased.label>aumentada</VME_PermitCooldown_Increased.label>
+
+  <!-- EN: Patience is a virtue, and now a necessity, as the cooldown of permits is doubled. Time crawls as the court awaits the next invocation of royal privilege. -->
+  <VME_PermitCooldown_Increased.description>Paciência é uma virtude, agora também uma necessidade: o tempo de recarga das permissões é dobrado. O tempo se arrasta enquanto a corte aguarda a próxima invocação de um privilégio real.</VME_PermitCooldown_Increased.description>
+
+  <!-- EN: lowered -->
+  <VME_PermitCooldown_Lowered.label>reduzido</VME_PermitCooldown_Lowered.label>
+
+  <!-- EN: Royalty demands swift action; thus, the cooldown of permits is lessened, allowing for a more rapid response to the ever-changing whims of noble desire. -->
+  <VME_PermitCooldown_Lowered.description>A realeza exige agilidade; por isso, a recarga das permissões é reduzida, permitindo responder mais rapidamente aos caprichos sempre mutáveis da nobreza.</VME_PermitCooldown_Lowered.description>
+
+  <!-- EN: doubled -->
+  <VME_PermitHonorCost_Doubled.label>dobrado</VME_PermitHonorCost_Doubled.label>
+
+  <!-- EN: Every call for aid is a heavy toll, a demand of honor twice the usual rate. Such is the price of urgency, a cost only to be borne when the need is direst. -->
+  <VME_PermitHonorCost_Doubled.description>Cada pedido de ajuda cobra um pesado tributo: o dobro do custo normal de honra. Esse é o preço da urgência, a ser pago apenas nas necessidades mais extremas.</VME_PermitHonorCost_Doubled.description>
+
+  <!-- EN: halved -->
+  <VME_PermitHonorCost_Halved.label>pela metade</VME_PermitHonorCost_Halved.label>
+
+  <!-- EN: The honored have the privilege of calling upon their allies more frequently, their requests for aid met with a nod and a half a cost, easing the burden of leadership. -->
+  <VME_PermitHonorCost_Halved.description>Os honrados têm o privilégio de recorrer aos aliados com mais frequência: seus pedidos de ajuda são atendidos pela metade do custo, aliviando o fardo da liderança.</VME_PermitHonorCost_Halved.description>
+
+  <!-- EN: heightened -->
+  <VME_PsychicSensitivity_Heightened.label>elevada</VME_PsychicSensitivity_Heightened.label>
+
+  <!-- EN: Reach with your mind to encompass the whole world. Let your mind be a swift weapon of psychic retribution. -->
+  <VME_PsychicSensitivity_Heightened.description>Expanda a mente para abranger o mundo inteiro. Faça dela uma arma veloz de retaliação psíquica.</VME_PsychicSensitivity_Heightened.description>
+
+  <!-- EN: lowered -->
+  <VME_PsychicSensitivity_Lowered.label>reduzido</VME_PsychicSensitivity_Lowered.label>
+
+  <!-- EN: Barricade your mind to all thoughts that aren’t your own. Let your mind be a veritable fortress of unwavering mental constitution. -->
+  <VME_PsychicSensitivity_Lowered.description>Proteja sua mente contra pensamentos que não sejam seus. Faça dela uma verdadeira fortaleza de resistência mental inabalável.</VME_PsychicSensitivity_Lowered.description>
+
+  <!-- EN: doubled -->
+  <VME_PsyfocusGain_Doubled.label>dobrado</VME_PsyfocusGain_Doubled.label>
+
+  <!-- EN: By inducing trance on oneself and reaching erudition you cast away the shackles of the physical and find the ability to manipulate the world just as trivial as breathing. -->
+  <VME_PsyfocusGain_Doubled.description>Ao entrar em transe e alcançar a erudição, você se liberta das amarras físicas e descobre que manipular o mundo é tão trivial quanto respirar.</VME_PsyfocusGain_Doubled.description>
+
+  <!-- EN: majordomo -->
+  <VME_IdeoRole_Majordomo.label>mordomo-mor</VME_IdeoRole_Majordomo.label>
+
+  <!-- EN: A management specialist, Majordomo is the steward of nobility and overseer of estates. They wield authority to organize, manage, and ensure the seamless operation of every aspect of aristocratic life, but are unable to hold titles themselves. They possess an ability to inspire everyone around them to go an extra mile, at the cost of greatly lowering their recreation.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Gains recreation from any work. -->
+  <VME_IdeoRole_Majordomo.description>Especialista em gestão, o Mordomo-mor serve à nobreza e supervisiona propriedades. Tem autoridade para organizar, administrar e garantir o funcionamento de cada aspecto da vida aristocrática, mas não pode possuir títulos. Sua habilidade inspira todos ao redor a se esforçar mais, ao custo de uma grande redução da recreação.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt;\n - Ganha recreação com qualquer trabalho.</VME_IdeoRole_Majordomo.description>
+
+  <!-- EN: disliked -->
+  <VME_Royalty_Disliked.label>desaprovado</VME_Royalty_Disliked.label>
+
+  <!-- EN: Titles and crowns, relics of a bygone era, draw ire more than admiration. Those who flaunt their noble status find themselves at the receiving end of equal disdain. -->
+  <VME_Royalty_Disliked.description>Títulos e coroas, relíquias de uma era passada, despertam mais ira que admiração. Quem ostenta sua condição de nobre recebe igual desprezo.</VME_Royalty_Disliked.description>
+
+  <!-- EN: exalted -->
+  <VME_Royalty_Exalted.label>exaltado</VME_Royalty_Exalted.label>
+
+  <!-- EN: Those who drape themselves in the vestments of royalty ascend beyond mere mortals. Each step up the ladder of nobility brings greater veneration from the common folk, from a respectful nod for a Yeoman to awestruck reverence for a High Stellarch. -->
+  <VME_Royalty_Exalted.description>Quem veste os trajes da realeza se eleva acima dos simples mortais. Cada degrau na nobreza traz mais veneração do povo, de um aceno respeitoso a um Alferes à reverência admirada a um Alto Estelarca.</VME_Royalty_Exalted.description>
+
+  <!-- EN: hated -->
+  <VME_Royalty_Hated.label>odiado</VME_Royalty_Hated.label>
+
+  <!-- EN: Royal titles are chains that bind freedom, and each title is a shackle more cursed than the last. From Yeoman to High Stellarch, the disdain grows with the weight of the crown, heavy is the head that wears it. -->
+  <VME_Royalty_Hated.description>Títulos reais são correntes que prendem a liberdade, e cada título é um grilhão mais maldito que o anterior. Do Alferes ao Alto Estelarca, o desprezo cresce com o peso da coroa; pesada é a cabeça que a usa.</VME_Royalty_Hated.description>
+
+  <!-- EN: respected -->
+  <VME_Royalty_Respected.label>respeitado</VME_Royalty_Respected.label>
+
+  <!-- EN: Every crown and every title is a symbol of burdens shouldered for the good of all. Regardless of the rank, a title earns a uniform respect, an acknowledgment of the wearer's elevated place in our order. -->
+  <VME_Royalty_Respected.description>Cada coroa e título simboliza fardos assumidos pelo bem de todos. Qualquer que seja a patente, um título conquista respeito uniforme, reconhecendo a posição elevada de seu portador em nossa ordem.</VME_Royalty_Respected.description>
+
+  <!-- EN: inherited -->
+  <VME_TitleInheritance_Inherited.label>herdados</VME_TitleInheritance_Inherited.label>
+
+  <!-- EN: Nobility flows through blood, as titles pass from the fallen to their kin. A parent's demise elevates the firstborn, inheriting the mantle of leadership. -->
+  <VME_TitleInheritance_Inherited.description>A nobreza corre no sangue: os títulos passam dos mortos aos seus parentes. A morte de um dos pais eleva o primogênito, que herda o manto da liderança.</VME_TitleInheritance_Inherited.description>
+</LanguageData>
+

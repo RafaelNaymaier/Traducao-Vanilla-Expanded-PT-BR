@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: pâtissier -->
+  <VME_IdeoRole_Patissier.label>confeiteiro</VME_IdeoRole_Patissier.label>
+
+  <!-- EN: A talented and epicurious provisioner of all things sweet. Capable of deftly altering any variety of meal into a most tantalizing dessert. Remarkably swift at cooking regardless of meal type.\n\n<color=#E5E54C>Stats:</color>\n - The pâtissier receives a +20% Cooking speed bonus. -->
+  <VME_IdeoRole_Patissier.description>Um fornecedor talentoso e apreciador de tudo que é doce. Pode transformar habilmente qualquer refeição numa sobremesa irresistível. Cozinha com notável rapidez, qualquer que seja o tipo de refeição.\n\n&lt;color=#E5E54C&gt;Estatísticas:&lt;/color&gt;\n - O confeiteiro recebe +20% de velocidade de Culinária.</VME_IdeoRole_Patissier.description>
+
+  <!-- EN: craved -->
+  <VME_Sweets_Craved.label>cobiçados</VME_Sweets_Craved.label>
+
+  <!-- EN: Desserts and treats shouldn’t be withheld, sugary confections should be eaten at least every couple days.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Bear in mind this precept has a minimum expectation required. Moderate expectations or higher are needed for the "Desserts" need to show up.\n\n - Desserts that increase the need: Chocolate (15%), Simple dessert (30%), Fine dessert (40%), Lavish dessert (50%), Gourmet dessert (75%) -->
+  <VME_Sweets_Craved.description>Não devemos nos privar de sobremesas e guloseimas; doces devem ser consumidos pelo menos a cada dois dias.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt;\n - Este preceito exige expectativas mínimas. É preciso ter expectativas Moderadas ou superiores para que a necessidade de "Sobremesas" apareça.\n\n - Sobremesas que aumentam a necessidade: Chocolate (15%), Sobremesa simples (30%), Sobremesa fina (40%), Sobremesa luxuosa (50%), Sobremesa gourmet (75%)</VME_Sweets_Craved.description>
+
+  <!-- EN: impartial -->
+  <VME_Sweets_Impartial.label>imparcial</VME_Sweets_Impartial.label>
+
+  <!-- EN: Sweets aren’t that great, they can easily be left behind. -->
+  <VME_Sweets_Impartial.description>Doces não são tão bons assim; é fácil abrir mão deles.</VME_Sweets_Impartial.description>
+</LanguageData>
+

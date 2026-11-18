@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: fishing culture -->
+  <VME_Angler.label>cultura pesqueira</VME_Angler.label>
+
+  <!-- EN: Serene and therapeutic, placid lakes and lapping shores are criminally underappreciated. With a little time or simple engineering rivers and oceans alike can leave our bellies full of tasty fish. -->
+  <VME_Angler.description>Serenos e terapêuticos, lagos tranquilos e praias de ondas suaves são injustamente subestimados. Com um pouco de tempo ou engenharia simples, rios e oceanos podem encher nossas barrigas de peixes saborosos.</VME_Angler.description>
+
+  <!-- EN: 
+    <li>creation(tag=meme_Anglers)        ->[deity0_name] spoke to all [deity0_possessive] followers and told them: "Again, the kingdom of heaven is like a dragnet cast into the sea, and gathering fish of every kind."</li>
+    <li>episode(uses=1,tag=meme_Anglers)  ->[deity0_name] said to all the [memberNamePlural], "Follow Me, and I will make you fishers of men."</li>
+    <li>intro(tag=meme_Anglers)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], and great angling competitions took place there every year.</li>
+    <li>conflict(tag=meme_Anglers)        ->An envious [foeLeader], seeking to deny the will of [deity0_name], told [foeLeader_possessive] [foeSoldiers] to poison the lakes and seas surrounding the [altarName].</li>
+    <li>founderJoin(tag=meme_Anglers)     ->[deity0_name] blessed a [place_job] named [founderName] with [deity0_possessive] divine intelligence and [founder_pronoun] built a great water purifier, and the waters once again teamed with thousands of fish.</li>
+    <li>victory(tag=meme_Anglers)         ->The [foeSoldiers] and the [foeLeader] were humiliated and thwarted, and they had to leave the [memberNamePlural] alone.</li>
+    <li>setup(tag=meme_Anglers)           ->Our founder [founderName] was the greatest angler to have lived. No fish was big enough for [founderName_objective].</li>
+    <li>story(uses=1,tag=meme_Anglers)    ->[founderName] taught us that fishing is a state of mind. [founderName_pronoun] always said that the charm of fishing is that it is the pursuit of what is elusive but attainable, a perpetual series of occasions for hope.</li>
+    <li>lessonIntro(tag=meme_Anglers)         ->I've spent as much of my life fishing as decency allowed, and sometimes I don't let even that get in my way. I have learned that</li>
+    <li>lesson(tag=meme_Anglers)              ->fishing is a hard job. Fishing at night. Rain. Day, night. You have to be wise and smart. And quick.</li>
+    <li>lessonReinforcement(tag=meme_Anglers) ->After a day's fishing, I'll know the solution to something or have good ideas that were not accessible before.</li>
+    <li>archistBasis(tag=meme_Anglers)    ->The archotechs filled the oceans and the rivers with wondrous plenty, accessible to anyone with the knowledge to take advantage of it.</li>
+    <li>archistFact(tag=meme_Anglers)     ->Archotechs value resourcefulness above other things, and we must accept the bounty of the waters as their gift.</li>
+    <li>archistProphecy(tag=meme_Anglers) ->[inTheEnd], the archotechs will be the greatest anglers, and their catch will be the ones worthy of transcendence.</li>
+    <li>animistFact(tag=meme_Anglers)     ->The spirits of fish provide us with the greatest bounty: the teeming life present in rivers and oceans.</li>
+    <li>serketistProphecy(tag=meme_Anglers)->[itIsSaid] we will learn the ways of insects to find food whenever it's needed, by exploiting the greatest bounty: the teeming life present in rivers and oceans.</li>
+    <li>chthonianProphecy(tag=meme_Anglers)->Ph'nglui mglw'nafh [deity0_name] [place_name] wgah'nagl fhtagn.</li>
+    <li>esotericismProphecy(tag=meme_Anglers)->We will discern what is hidden behind these secrets, perhaps by divining the entrails of dead fish.</li>
+    <li>eschatologismFact(tag=meme_Anglers)->Like the slippery fish that hide beyond the abyssal depths, we will strike from the darkness and we will be unstoppable.</li>
+    <li>introMemo(tag=meme_Anglers)->Good news! In this year's company-wide raffle we are again including as a prize a two weeks, all expenses paid fishing trip! I know you are as excited as I am, so get those tickets as soon as possible!</li>
+  -->
+  <VME_Angler.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Anglers)        ->[deity0_name] disse a todos [deity0_possessive] seguidores: "O reino dos céus é como uma rede lançada ao mar, que reúne peixes de todo tipo."</li>
+    <li>episode(uses=1,tag=meme_Anglers)  ->[deity0_name] disse a todos os [memberNamePlural]: "Sigam-me, e farei de vocês pescadores de homens."</li>
+    <li>intro(tag=meme_Anglers)           ->Os [memberNamePlural] construíram um grande [altarName] em [place_summary] [place_name], onde ocorriam grandes competições anuais de pesca.</li>
+    <li>conflict(tag=meme_Anglers)        ->Um [foeLeader] invejoso, querendo negar a vontade de [deity0_name], mandou [foeLeader_possessive] [foeSoldiers] envenenar lagos e mares ao redor do [altarName].</li>
+    <li>founderJoin(tag=meme_Anglers)     ->[deity0_name] abençoou um [place_job] chamado [founderName] com [deity0_possessive] inteligência divina; [founder_pronoun] construiu um grande purificador e as águas voltaram a abrigar milhares de peixes.</li>
+    <li>victory(tag=meme_Anglers)         ->Os [foeSoldiers] e [foeLeader] foram humilhados e derrotados, tendo de deixar os [memberNamePlural] em paz.</li>
+    <li>setup(tag=meme_Anglers)           ->Nosso fundador [founderName] foi o maior pescador de todos. Nenhum peixe era grande o bastante para [founderName_objective].</li>
+    <li>story(uses=1,tag=meme_Anglers)    ->[founderName] ensinou que pescar é um estado de espírito. [founderName_pronoun] dizia que seu encanto está em buscar o esquivo, mas alcançável: uma sequência infinita de ocasiões para ter esperança.</li>
+    <li>lessonIntro(tag=meme_Anglers)         ->Passei pescando tanto tempo quanto a decência permitia, e às vezes nem ela me impediu. Aprendi que</li>
+    <li>lesson(tag=meme_Anglers)              ->pescar é um trabalho duro. Pescar à noite. Chuva. Dia, noite. É preciso sabedoria e esperteza. E rapidez.</li>
+    <li>lessonReinforcement(tag=meme_Anglers) ->Após um dia pescando, encontro soluções ou boas ideias antes inacessíveis.</li>
+    <li>archistBasis(tag=meme_Anglers)    ->Os arquitecs encheram oceanos e rios de fartura maravilhosa, acessível a quem sabe aproveitá-la.</li>
+    <li>archistFact(tag=meme_Anglers)     ->Arquitecs valorizam a engenhosidade; devemos aceitar a fartura das águas como sua dádiva.</li>
+    <li>archistProphecy(tag=meme_Anglers) ->[inTheEnd], os arquitecs serão os maiores pescadores, e sua captura serão os dignos da transcendência.</li>
+    <li>animistFact(tag=meme_Anglers)     ->Os espíritos dos peixes nos dão a maior fartura: a vida abundante de rios e oceanos.</li>
+    <li>serketistProphecy(tag=meme_Anglers)->[itIsSaid] aprenderemos com os insetos a encontrar alimento quando necessário, explorando a vida abundante dos rios e oceanos.</li>
+    <li>chthonianProphecy(tag=meme_Anglers)->Ph'nglui mglw'nafh [deity0_name] [place_name]wgah'nagl fhtagn.</li>
+    <li>esotericismProphecy(tag=meme_Anglers)->Descobriremos o que esses segredos ocultam, talvez adivinhando nas entranhas de peixes mortos.</li>
+    <li>eschatologismFact(tag=meme_Anglers)->Como peixes escorregadios nas profundezas abissais, atacaremos da escuridão e seremos imparáveis.</li>
+    <li>introMemo(tag=meme_Anglers)->Boas notícias! O sorteio anual da empresa inclui novamente duas semanas de pesca com tudo pago! Sei que estão tão animados quanto eu; comprem logo os bilhetes!</li>
+  </VME_Angler.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: 
+    <li>memeAdjective->piscatorial</li>
+    <li>memeAdjective->coastal</li>
+    <li>memeAdjective->seafaring</li>
+    <li>memeAdjective->angling</li>
+    <li>memeHyphenPrefix->fish</li>
+    <li>memeHyphenPrefix->river</li>
+    <li>memeHyphenPrefix->sea</li>
+    <li>memeConcept->fishing</li>
+  -->
+  <VME_Angler.generalRules.rulesStrings>
+    <li>memeAdjective->pesqueiro</li>
+    <li>memeAdjective->costeiro</li>
+    <li>memeAdjective->marítimo</li>
+    <li>memeAdjective->pesca com anzol</li>
+    <li>memeHyphenPrefix->peixe</li>
+    <li>memeHyphenPrefix->rio</li>
+    <li>memeHyphenPrefix->mar</li>
+    <li>memeConcept->pesca</li>
+  </VME_Angler.generalRules.rulesStrings>
+
+  <!-- EN: angling -->
+  <VME_Angler.symbolPacks.0.adjective>pesca com anzol</VME_Angler.symbolPacks.0.adjective>
+
+  <!-- EN: Angler -->
+  <VME_Angler.symbolPacks.0.ideoName>Pescador</VME_Angler.symbolPacks.0.ideoName>
+
+  <!-- EN: angler -->
+  <VME_Angler.symbolPacks.0.member>pescador</VME_Angler.symbolPacks.0.member>
+
+  <!-- EN: fishing -->
+  <VME_Angler.symbolPacks.0.theme>pesca</VME_Angler.symbolPacks.0.theme>
+</LanguageData>
+

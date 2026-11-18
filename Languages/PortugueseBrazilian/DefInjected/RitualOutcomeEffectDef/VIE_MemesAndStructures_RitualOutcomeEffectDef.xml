@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Depending on ritual quality, participants will receive a recreation boost that last between 4 hours and 3 days that will raise their recreation bar. They'll also get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.\n\nThe ritual bonfire will stay lit for at least two quadrums, providing a beauty bonus nearby and counting towards the number of fires around for the Fire: Desired precept. -->
+  <VME_BonfireOutcome.description>Conforme a qualidade do ritual, os participantes recebem um efeito que aumenta sua barra de recreação por um período de 4 horas a 3 dias. Também recebem entre {MINMOOD} e {MAXMOOD} de humor por {MOODDAYS} dias.\n\nA fogueira ritual permanecerá acesa por pelo menos dois quadrums, concedendo beleza nas proximidades e contando como um fogo para o preceito Fogo: Desejado.</VME_BonfireOutcome.description>
+
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_BonfireOutcome.comps.0.label>impacto social de {PAWN_labelShort}</VME_BonfireOutcome.comps.0.label>
+
+  <!-- EN: speaker's social impact -->
+  <VME_BonfireOutcome.comps.0.labelAbstract>impacto social do orador</VME_BonfireOutcome.comps.0.labelAbstract>
+
+  <!-- EN: participant count -->
+  <VME_BonfireOutcome.comps.1.label>número de participantes</VME_BonfireOutcome.comps.1.label>
+
+  <!-- EN: Terrible -->
+  <VME_BonfireOutcome.outcomeChances.0.label>Terrível</VME_BonfireOutcome.outcomeChances.0.label>
+
+  <!-- EN: The {0} was terrible! Some pathetic little flames drifted around, and they went away too soon (no recreation effect applied). -->
+  <VME_BonfireOutcome.outcomeChances.0.description>{0} foi terrível! Algumas chaminhas patéticas apareceram e sumiram cedo demais (nenhum efeito de recreação aplicado).</VME_BonfireOutcome.outcomeChances.0.description>
+
+  <!-- EN: Lackluster -->
+  <VME_BonfireOutcome.outcomeChances.1.label>Sem brilho</VME_BonfireOutcome.outcomeChances.1.label>
+
+  <!-- EN: The {0} was lackluster. We were expecting a wondrous conflagration, and instead we got an oversized campfire. At least it was kinda entertaining.\n\nRecreation of all participants will be raised for 4 hours. -->
+  <VME_BonfireOutcome.outcomeChances.1.description>{0} foi sem brilho. Esperávamos um incêndio maravilhoso, mas recebemos uma fogueira de acampamento grande demais. Pelo menos foi um pouco divertido.\n\nA recreação de todos os participantes aumentará por 4 horas.</VME_BonfireOutcome.outcomeChances.1.description>
+
+  <!-- EN: Good -->
+  <VME_BonfireOutcome.outcomeChances.2.label>Bom</VME_BonfireOutcome.outcomeChances.2.label>
+
+  <!-- EN: The {0} was good. The flames rose and crackled majestically over the settlement, and it lifted all our spirits considerably.\n\nRecreation of all participants will be raised for 1 day. -->
+  <VME_BonfireOutcome.outcomeChances.2.description>{0} foi bom. As chamas se ergueram e crepitaram majestosamente sobre o assentamento, melhorando muito nosso ânimo.\n\nA recreação de todos os participantes aumentará por 1 dia.</VME_BonfireOutcome.outcomeChances.2.description>
+
+  <!-- EN: Glorious -->
+  <VME_BonfireOutcome.outcomeChances.3.label>Glorioso</VME_BonfireOutcome.outcomeChances.3.label>
+
+  <!-- EN: The {0} was glorious! It was super fun and we really connected with each other with the shared experience.\n\nRecreation of all participants will be raised for 3 days. -->
+  <VME_BonfireOutcome.outcomeChances.3.description>{0} foi glorioso! Foi muito divertido, e a experiência compartilhada realmente nos aproximou.\n\nA recreação de todos os participantes aumentará por 3 dias.</VME_BonfireOutcome.outcomeChances.3.description>
+
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. All participants must be healthy to attend. -->
+  <VME_CeremonialSuicideRitualOutcome.description>Conforme a qualidade do ritual, os participantes recebem entre {MINMOOD} e {MAXMOOD} de humor por {MOODDAYS} dias. Todos os participantes precisam estar saudáveis para comparecer.</VME_CeremonialSuicideRitualOutcome.description>
+
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_CeremonialSuicideRitualOutcome.comps.0.label>impacto social de {PAWN_labelShort}</VME_CeremonialSuicideRitualOutcome.comps.0.label>
+
+  <!-- EN: speaker's social impact -->
+  <VME_CeremonialSuicideRitualOutcome.comps.0.labelAbstract>impacto social do orador</VME_CeremonialSuicideRitualOutcome.comps.0.labelAbstract>
+
+  <!-- EN: room impressiveness -->
+  <VME_CeremonialSuicideRitualOutcome.comps.1.label>imponência da sala</VME_CeremonialSuicideRitualOutcome.comps.1.label>
+
+  <!-- EN: participant count -->
+  <VME_CeremonialSuicideRitualOutcome.comps.2.label>número de participantes</VME_CeremonialSuicideRitualOutcome.comps.2.label>
+
+  <!-- EN: Terrible -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.0.label>Terrível</VME_CeremonialSuicideRitualOutcome.outcomeChances.0.label>
+
+  <!-- EN: The {0} was terrible! The blade was thrust laterally and there was blood and entrails everywhere. Disgusting! -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.0.description>{0} foi terrível! A lâmina entrou de lado, e havia sangue e entranhas por toda parte. Repugnante!</VME_CeremonialSuicideRitualOutcome.outcomeChances.0.description>
+
+  <!-- EN: Boring -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.1.label>Entediante</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.label>
+
+  <!-- EN: The {0} was boring. The speech seemed forced. At the very least we have restored the honor of our colony. -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>{0} foi entediante. O discurso pareceu forçado. Pelo menos restauramos a honra da colônia.</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>
+
+  <!-- EN: Honorable -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.2.label>Honroso</VME_CeremonialSuicideRitualOutcome.outcomeChances.2.label>
+
+  <!-- EN: The {0} has restored the honor of our colony. The shadow of defeat no longer clouds our minds. -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.2.description>{0} restaurou a honra da colônia. A sombra da derrota já não obscurece nossas mentes.</VME_CeremonialSuicideRitualOutcome.outcomeChances.2.description>
+
+  <!-- EN: Unforgettable -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.3.label>Inesquecível</VME_CeremonialSuicideRitualOutcome.outcomeChances.3.label>
+
+  <!-- EN: The {0} was unforgettable! Everyone will remember the courage, self-control, and strong resolve. The honor of our colony is now spotless. -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.3.description>{0} foi inesquecível! Todos se lembrarão da coragem, do autocontrole e da firme determinação. A honra da colônia está imaculada.</VME_CeremonialSuicideRitualOutcome.outcomeChances.3.description>
+
+  <!-- EN: Participants will get completely random results, with no regard for ritual quality. -->
+  <VME_DivineStarsRitualOutcome.description>Os participantes recebem resultados completamente aleatórios, independentemente da qualidade do ritual.</VME_DivineStarsRitualOutcome.description>
+
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_DivineStarsRitualOutcome.comps.0.label>impacto social de {PAWN_labelShort}</VME_DivineStarsRitualOutcome.comps.0.label>
+
+  <!-- EN: speaker's social impact -->
+  <VME_DivineStarsRitualOutcome.comps.0.labelAbstract>impacto social do orador</VME_DivineStarsRitualOutcome.comps.0.labelAbstract>
+
+  <!-- EN: participant count -->
+  <VME_DivineStarsRitualOutcome.comps.1.label>número de participantes</VME_DivineStarsRitualOutcome.comps.1.label>
+
+  <!-- EN: Inscrutable -->
+  <VME_DivineStarsRitualOutcome.outcomeChances.0.label>Insondável</VME_DivineStarsRitualOutcome.outcomeChances.0.label>
+
+  <!-- EN: Our destiny has been revealed by the stars. -->
+  <VME_DivineStarsRitualOutcome.outcomeChances.0.description>Nosso destino foi revelado pelas estrelas.</VME_DivineStarsRitualOutcome.outcomeChances.0.description>
+
+  <!-- EN: Inscrutable -->
+  <VME_DivineStarsRitualOutcome.outcomeChances.1.label>Insondável</VME_DivineStarsRitualOutcome.outcomeChances.1.label>
+
+  <!-- EN: Our destiny has been revealed by the stars. -->
+  <VME_DivineStarsRitualOutcome.outcomeChances.1.description>Nosso destino foi revelado pelas estrelas.</VME_DivineStarsRitualOutcome.outcomeChances.1.description>
+
+  <!-- EN: If the incantation ritual goes well (positive outcome) it will increase the corruption need of all participants by 20%, as well as provide a mood bonus. -->
+  <VME_IncantationOutcome.description>Se o ritual de encantamento der certo (resultado positivo), aumentará em 20% a necessidade de corrupção de todos os participantes e concederá um bônus de humor.</VME_IncantationOutcome.description>
+
+  <!-- EN: room impressiveness -->
+  <VME_IncantationOutcome.comps.0.label>imponência da sala</VME_IncantationOutcome.comps.0.label>
+
+  <!-- EN: participant count -->
+  <VME_IncantationOutcome.comps.1.label>número de participantes</VME_IncantationOutcome.comps.1.label>
+
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_IncantationOutcome.comps.2.label>impacto social de {PAWN_labelShort}</VME_IncantationOutcome.comps.2.label>
+
+  <!-- EN: speaker's social impact -->
+  <VME_IncantationOutcome.comps.2.labelAbstract>impacto social do orador</VME_IncantationOutcome.comps.2.labelAbstract>
+
+  <!-- EN: Squamous -->
+  <VME_IncantationOutcome.outcomeChances.0.label>Escamoso</VME_IncantationOutcome.outcomeChances.0.label>
+
+  <!-- EN: The {0} was abnormal! An indescribably hideous gibbering! We'd even describe it as squamous, but we don't even know what that is! An unutterable word! -->
+  <VME_IncantationOutcome.outcomeChances.0.description>{0} foi anormal! Um balbucio indescritivelmente horrendo! Até diríamos escamoso, mas nem sabemos o que isso significa! Uma palavra impronunciável!</VME_IncantationOutcome.outcomeChances.0.description>
+
+  <!-- EN: Accursed -->
+  <VME_IncantationOutcome.outcomeChances.1.label>Amaldiçoado</VME_IncantationOutcome.outcomeChances.1.label>
+
+  <!-- EN: The {0} was suitably accursed. A litany of dark morbidities expressed in crime, perversion, and insanity. -->
+  <VME_IncantationOutcome.outcomeChances.1.description>{0} foi devidamente amaldiçoado. Uma ladainha de morbidezas sombrias expressas em crime, perversão e insanidade.</VME_IncantationOutcome.outcomeChances.1.description>
+
+  <!-- EN: Blasphemous -->
+  <VME_IncantationOutcome.outcomeChances.2.label>Blasfemo</VME_IncantationOutcome.outcomeChances.2.label>
+
+  <!-- EN: The {0} was blasphemous. A promise of hidden and fathomless worlds of strange life which pulsate in the gulfs beyond the stars and press hideously upon our own globe in unholy dimensions which only the dead and the moonstruck can glimpse. -->
+  <VME_IncantationOutcome.outcomeChances.2.description>{0} foi blasfemo. Uma promessa de mundos ocultos e insondáveis de vida estranha, que pulsam nos abismos além das estrelas e pressionam horrendamente nosso globo em dimensões profanas que só os mortos e os lunáticos podem vislumbrar.</VME_IncantationOutcome.outcomeChances.2.description>
+
+  <!-- EN: Loathsome -->
+  <VME_IncantationOutcome.outcomeChances.3.label>Repulsivo</VME_IncantationOutcome.outcomeChances.3.label>
+
+  <!-- EN: The {0} was loathsome! We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far. -->
+  <VME_IncantationOutcome.outcomeChances.3.description>{0} foi repulsivo! Vivemos numa ilha plácida de ignorância entre mares negros de infinito, e não fomos feitos para viajar tão longe.</VME_IncantationOutcome.outcomeChances.3.description>
+
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <VME_InsectoidHymnRitualOutcome.description>Conforme a qualidade do ritual, os participantes recebem entre {MINMOOD} e {MAXMOOD} de humor por {MOODDAYS} dias.</VME_InsectoidHymnRitualOutcome.description>
+
+  <!-- EN: chanter present -->
+  <VME_InsectoidHymnRitualOutcome.comps.0.label>entoante presente</VME_InsectoidHymnRitualOutcome.comps.0.label>
+
+  <!-- EN: participant count -->
+  <VME_InsectoidHymnRitualOutcome.comps.1.label>número de participantes</VME_InsectoidHymnRitualOutcome.comps.1.label>
+
+  <!-- EN: room impressiveness -->
+  <VME_InsectoidHymnRitualOutcome.comps.2.label>imponência da sala</VME_InsectoidHymnRitualOutcome.comps.2.label>
+
+  <!-- EN: Uninteresting -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.0.label>Desinteressante</VME_InsectoidHymnRitualOutcome.outcomeChances.0.label>
+
+  <!-- EN: The {0} was incredibly uninteresting. Yeah, yeah, insects are cool. Bah.\n\nThe ritual had no effect over the insectoid herder's nest building ability. -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.0.description>{0} foi incrivelmente desinteressante. Sim, sim, insetos são legais. Bah.\n\nO ritual não afetou a habilidade de construir ninhos do pastor de insetoides.</VME_InsectoidHymnRitualOutcome.outcomeChances.0.description>
+
+  <!-- EN: Awkward -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.1.label>Constrangedor</VME_InsectoidHymnRitualOutcome.outcomeChances.1.label>
+
+  <!-- EN: The {0} was awkward. The speech was repetitive, and it did nothing to convince us of the divinity of our beloved insects.\n\nThe ritual had no effect over the insectoid herder's nest building ability. -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.1.description>{0} foi constrangedor. O discurso foi repetitivo e não nos convenceu da divindade dos nossos amados insetos.\n\nO ritual não afetou a habilidade de construir ninhos do pastor de insetoides.</VME_InsectoidHymnRitualOutcome.outcomeChances.1.description>
+
+  <!-- EN: Rousing -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.2.label>Empolgante</VME_InsectoidHymnRitualOutcome.outcomeChances.2.label>
+
+  <!-- EN: The {0} was very rousing. The chanter showed impressing skill and the hymn appropriately extolled the virtues of our way of life.\n\nThe ritual refreshed the cooldown of the insectoid herder's nest building ability. -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.2.description>{0} foi muito empolgante. O entoante demonstrou habilidade impressionante, e o hino exaltou devidamente as virtudes do nosso modo de vida.\n\nO ritual reiniciou a recarga da habilidade de construir ninhos do pastor de insetoides.</VME_InsectoidHymnRitualOutcome.outcomeChances.2.description>
+
+  <!-- EN: Entrancing -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.3.label>Hipnotizante</VME_InsectoidHymnRitualOutcome.outcomeChances.3.label>
+
+  <!-- EN: The {0} was entrancing! We can still hear the mesmerizing words of the hymn, like a myriad insectile legs crawling all over our bodies.\n\nThe ritual refreshed the cooldown of the insectoid herder's nest building ability.\n\nThe ritual also made any insectoids that were assaulting the colony flee. -->
+  <VME_InsectoidHymnRitualOutcome.outcomeChances.3.description>{0} foi hipnotizante! Ainda ouvimos as palavras hipnotizantes do hino, como uma miríade de pernas de insetos rastejando pelos nossos corpos.\n\nO ritual reiniciou a recarga da habilidade de construir ninhos do pastor de insetoides.\n\nO ritual também fez fugir os insetoides que atacavam a colônia.</VME_InsectoidHymnRitualOutcome.outcomeChances.3.description>
+
+  <!-- EN: If it goes well, target's ideoligion certainty will be reduced or they will convert. If it goes badly, they will gain certainty in their old beliefs. -->
+  <VME_LeaderConversionOutcome.description>Se der certo, a certeza do alvo em sua ideologia diminuirá ou ele se converterá. Se der errado, ganhará certeza em suas antigas crenças.</VME_LeaderConversionOutcome.description>
+
+  <!-- EN: room impressiveness -->
+  <VME_LeaderConversionOutcome.comps.0.label>imponência da sala</VME_LeaderConversionOutcome.comps.0.label>
+
+  <!-- EN: participant count -->
+  <VME_LeaderConversionOutcome.comps.1.label>número de participantes</VME_LeaderConversionOutcome.comps.1.label>
+
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_LeaderConversionOutcome.comps.2.label>impacto social de {PAWN_labelShort}</VME_LeaderConversionOutcome.comps.2.label>
+
+  <!-- EN: speaker's social impact -->
+  <VME_LeaderConversionOutcome.comps.2.labelAbstract>impacto social do orador</VME_LeaderConversionOutcome.comps.2.labelAbstract>
+
+  <!-- EN: {PAWN_labelShort}'s expectations -->
+  <VME_LeaderConversionOutcome.comps.3.label>expectativas de {PAWN_labelShort}</VME_LeaderConversionOutcome.comps.3.label>
+
+  <!-- EN: convertee's expectations -->
+  <VME_LeaderConversionOutcome.comps.3.labelAbstract>expectativas de quem será convertido</VME_LeaderConversionOutcome.comps.3.labelAbstract>
+
+  <!-- EN: Terrible -->
+  <VME_LeaderConversionOutcome.outcomeChances.0.label>Terrível</VME_LeaderConversionOutcome.outcomeChances.0.label>
+
+  <!-- EN: The {0} was terrible! From the first word, it was a fruitless back-and-forth argument. It dragged on for a cringe-inducingly long time. -->
+  <VME_LeaderConversionOutcome.outcomeChances.0.description>{0} foi terrível! Desde a primeira palavra, foi uma discussão improdutiva que se arrastou por um tempo constrangedoramente longo.</VME_LeaderConversionOutcome.outcomeChances.0.description>
+
+  <!-- EN: Ineffective -->
+  <VME_LeaderConversionOutcome.outcomeChances.1.label>Ineficaz</VME_LeaderConversionOutcome.outcomeChances.1.label>
+
+  <!-- EN: The {0} was ineffective. Most of the arguments were unclear, and the convertee countered those that made sense. -->
+  <VME_LeaderConversionOutcome.outcomeChances.1.description>{0} foi ineficaz. A maioria dos argumentos era confusa, e os que faziam sentido foram refutados por quem deveria ser convertido.</VME_LeaderConversionOutcome.outcomeChances.1.description>
+
+  <!-- EN: Effective -->
+  <VME_LeaderConversionOutcome.outcomeChances.2.label>Eficaz</VME_LeaderConversionOutcome.outcomeChances.2.label>
+
+  <!-- EN: The {0} was effective. The speech not only delivered solid arguments and visibly swayed the convertee's thoughts, but kept the crowd entertained as well. -->
+  <VME_LeaderConversionOutcome.outcomeChances.2.description>{0} foi eficaz. O discurso trouxe argumentos sólidos, influenciou visivelmente a pessoa a ser convertida e ainda manteve a plateia entretida.</VME_LeaderConversionOutcome.outcomeChances.2.description>
+
+  <!-- EN: Masterful -->
+  <VME_LeaderConversionOutcome.outcomeChances.3.label>Magistral</VME_LeaderConversionOutcome.outcomeChances.3.label>
+
+  <!-- EN: The {0} was masterful! Old beliefs seemed to dissolve effortlessly and inevitably, and our true knowledge was accepted. -->
+  <VME_LeaderConversionOutcome.outcomeChances.3.description>{0} foi magistral! As antigas crenças pareceram se dissolver sem esforço e inevitavelmente, e nosso conhecimento verdadeiro foi aceito.</VME_LeaderConversionOutcome.outcomeChances.3.description>
+
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <VME_LeadershipChallengeRitualOutcome.description>Conforme a qualidade do ritual, os participantes recebem entre {MINMOOD} e {MAXMOOD} de humor por {MOODDAYS} dias.</VME_LeadershipChallengeRitualOutcome.description>
+
+  <!-- EN: challenge organizer present -->
+  <VME_LeadershipChallengeRitualOutcome.comps.0.label>organizador do desafio presente</VME_LeadershipChallengeRitualOutcome.comps.0.label>
+
+  <!-- EN: room impressiveness -->
+  <VME_LeadershipChallengeRitualOutcome.comps.1.label>imponência da sala</VME_LeadershipChallengeRitualOutcome.comps.1.label>
+
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_LeadershipChallengeRitualOutcome.comps.2.label>impacto social de {PAWN_labelShort}</VME_LeadershipChallengeRitualOutcome.comps.2.label>
+
+  <!-- EN: organizer's social impact -->
+  <VME_LeadershipChallengeRitualOutcome.comps.2.labelAbstract>impacto social do organizador</VME_LeadershipChallengeRitualOutcome.comps.2.labelAbstract>
+
+  <!-- EN: participant count -->
+  <VME_LeadershipChallengeRitualOutcome.comps.3.label>número de participantes</VME_LeadershipChallengeRitualOutcome.comps.3.label>
+
+  <!-- EN: <li>This is a duel to the death. Whoever wins will get (or keep) the leader title.</li> -->
+  <VME_LeadershipChallengeRitualOutcome.extraPredictedOutcomeDescriptions>
+    <li>Este é um duelo até a morte. Quem vencer receberá ou manterá o título de líder.</li>
+  </VME_LeadershipChallengeRitualOutcome.extraPredictedOutcomeDescriptions>
+
+  <!-- EN: Terrible -->
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.0.label>Terrível</VME_LeadershipChallengeRitualOutcome.outcomeChances.0.label>
+
+  <!-- EN: The leadership challenge was terrible! The fighters bumbled around, ineptly avoiding each other in a extended display of cowardice and weakness. Watching it just made people sad. -->
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.0.description>O desafio de liderança foi terrível! Os combatentes se atrapalharam e evitaram um ao outro numa longa demonstração de covardia e fraqueza. Assistir só deixou as pessoas tristes.</VME_LeadershipChallengeRitualOutcome.outcomeChances.0.description>
+
+  <!-- EN: Boring -->
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.1.label>Entediante</VME_LeadershipChallengeRitualOutcome.outcomeChances.1.label>
+
+  <!-- EN: The leadership challenge was boring. The fighters wouldn't commit, so there were no exciting moments. At least our leader is the strongest. -->
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.1.description>O desafio de liderança foi entediante. Os combatentes não se empenharam, e não houve momentos emocionantes. Pelo menos nosso líder é o mais forte.</VME_LeadershipChallengeRitualOutcome.outcomeChances.1.description>
+
+  <!-- EN: Good -->
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.2.label>Bom</VME_LeadershipChallengeRitualOutcome.outcomeChances.2.label>
+
+  <!-- EN: The leadership challenge was good. The fighters went for blood and showed real heart. We now know that our leader is the strongest. -->
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.2.description>O desafio de liderança foi bom. Os combatentes buscaram sangue e mostraram garra. Agora sabemos que nosso líder é o mais forte.</VME_LeadershipChallengeRitualOutcome.outcomeChances.2.description>
+
+  <!-- EN: Unforgettable -->
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.3.label>Inesquecível</VME_LeadershipChallengeRitualOutcome.outcomeChances.3.label>
+
+  <!-- EN: The leadership challenge was unforgettable! Both fighters gave all they had, and we know that our leader is now the strongest among us! -->
+  <VME_LeadershipChallengeRitualOutcome.outcomeChances.3.description>O desafio de liderança foi inesquecível! Os dois combatentes deram tudo de si, e agora sabemos que nosso líder é o mais forte entre nós!</VME_LeadershipChallengeRitualOutcome.outcomeChances.3.description>
+
+  <!-- EN: Every participant will get a "got some lovin'" memory, but the negative effects of a bad quality orgy will be much more severe than usual. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.\nNote that all participants must be consenting adults. If the moral guide is not an adult the ritual will appear as blocked. -->
+  <VME_OrgyRitualOutcome.description>Todos os participantes recebem uma lembrança de "fez amor", mas os efeitos negativos de uma orgia de baixa qualidade serão muito mais intensos que o normal. Conforme a qualidade do ritual, os participantes recebem entre {MINMOOD} e {MAXMOOD} de humor por {MOODDAYS} dias.\nTodos os participantes precisam ser adultos e consentir. Se o guia moral não for adulto, o ritual ficará bloqueado.</VME_OrgyRitualOutcome.description>
+
+  <!-- EN: orgy organizer present -->
+  <VME_OrgyRitualOutcome.comps.0.label>organizador da orgia presente</VME_OrgyRitualOutcome.comps.0.label>
+
+  <!-- EN: room impressiveness -->
+  <VME_OrgyRitualOutcome.comps.1.label>imponência da sala</VME_OrgyRitualOutcome.comps.1.label>
+
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_OrgyRitualOutcome.comps.2.label>impacto social de {PAWN_labelShort}</VME_OrgyRitualOutcome.comps.2.label>
+
+  <!-- EN: organizer's social impact -->
+  <VME_OrgyRitualOutcome.comps.2.labelAbstract>impacto social do organizador</VME_OrgyRitualOutcome.comps.2.labelAbstract>
+
+  <!-- EN: participant count -->
+  <VME_OrgyRitualOutcome.comps.3.label>número de participantes</VME_OrgyRitualOutcome.comps.3.label>
+
+  <!-- EN: Grotesque -->
+  <VME_OrgyRitualOutcome.outcomeChances.0.label>Grotesco</VME_OrgyRitualOutcome.outcomeChances.0.label>
+
+  <!-- EN: The {0} was grotesque! When you think of an orgy, you tend to imagine attractive people. This was... the entire opposite. The mental images will take a while to go away. -->
+  <VME_OrgyRitualOutcome.outcomeChances.0.description>{0} foi grotesco! Quando se pensa em orgia, imaginam-se pessoas atraentes. Isto foi... o completo oposto. Essas imagens mentais vão demorar a desaparecer.</VME_OrgyRitualOutcome.outcomeChances.0.description>
+
+  <!-- EN: Awkward -->
+  <VME_OrgyRitualOutcome.outcomeChances.1.label>Constrangedor</VME_OrgyRitualOutcome.outcomeChances.1.label>
+
+  <!-- EN: The {0} was awkward. Everyone sat around not knowing exactly what to do, naked bodies laying everywhere. Quite disappointing. -->
+  <VME_OrgyRitualOutcome.outcomeChances.1.description>{0} foi constrangedor. Todos ficaram sem saber direito o que fazer, com corpos nus espalhados por todo lado. Bastante decepcionante.</VME_OrgyRitualOutcome.outcomeChances.1.description>
+
+  <!-- EN: Sexy -->
+  <VME_OrgyRitualOutcome.outcomeChances.2.label>Sensual</VME_OrgyRitualOutcome.outcomeChances.2.label>
+
+  <!-- EN: The {0} was very sexy. We gave ourselves to each other in a communal expression of our deepest passions. -->
+  <VME_OrgyRitualOutcome.outcomeChances.2.description>{0} foi muito sensual. Nós nos entregamos uns aos outros numa expressão coletiva de nossas paixões mais profundas.</VME_OrgyRitualOutcome.outcomeChances.2.description>
+
+  <!-- EN: Exhilarating -->
+  <VME_OrgyRitualOutcome.outcomeChances.3.label>Eletrizante</VME_OrgyRitualOutcome.outcomeChances.3.label>
+
+  <!-- EN: The {0} was exhilarating! We all donned our high-society masquerade masks and uncovered our bodies. A barrage of ecstasy unlike no other made our bodies tremble with barely concealed excitement. -->
+  <VME_OrgyRitualOutcome.outcomeChances.3.description>{0} foi eletrizante! Vestimos máscaras de baile da alta sociedade e descobrimos nossos corpos. Uma enxurrada inigualável de êxtase nos fez tremer de uma excitação mal disfarçada.</VME_OrgyRitualOutcome.outcomeChances.3.description>
+
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. If the ritual is boring or better, it will reward all participants with the Plague. -->
+  <VME_PlagueFestivalRitualOutcome.description>Conforme a qualidade do ritual, os participantes recebem entre {MINMOOD} e {MAXMOOD} de humor por {MOODDAYS} dias. Se o ritual for entediante ou melhor, todos serão recompensados com a Peste.</VME_PlagueFestivalRitualOutcome.description>
+
+  <!-- EN: moral guide present -->
+  <VME_PlagueFestivalRitualOutcome.comps.2.label>guia moral presente</VME_PlagueFestivalRitualOutcome.comps.2.label>
+
+  <!-- EN: participant count -->
+  <VME_PlagueFestivalRitualOutcome.comps.3.label>número de participantes</VME_PlagueFestivalRitualOutcome.comps.3.label>
+
+  <!-- EN: started at altar -->
+  <VME_PlagueFestivalRitualOutcome.comps.4.label>iniciado num altar</VME_PlagueFestivalRitualOutcome.comps.4.label>
+
+  <!-- EN: an altar -->
+  <VME_PlagueFestivalRitualOutcome.comps.4.expectedThingLabelTip>um altar</VME_PlagueFestivalRitualOutcome.comps.4.expectedThingLabelTip>
+
+  <!-- EN: Terrible -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.0.label>Terrível</VME_PlagueFestivalRitualOutcome.outcomeChances.0.label>
+
+  <!-- EN: The {0} was terrible! The speech was stuttering and incoherent, and the killing technique was botched. The corpse laid there, inert, and no holy miasma was liberated from it. What a waste of time! -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.0.description>{0} foi terrível! O discurso foi gaguejante e incoerente, e a técnica de abate deu errado. O cadáver ficou inerte, sem liberar nenhum miasma sagrado. Que perda de tempo!</VME_PlagueFestivalRitualOutcome.outcomeChances.0.description>
+
+  <!-- EN: Boring -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.1.label>Entediante</VME_PlagueFestivalRitualOutcome.outcomeChances.1.label>
+
+  <!-- EN: The {0} was boring. The speech was repetitive and the killing technique was noticeably flawed. However the blessed plague is now among us. -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>{0} foi entediante. O discurso foi repetitivo, e a técnica de abate tinha falhas claras. Mas a peste abençoada agora está entre nós.</VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>
+
+  <!-- EN: Satisfying -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.2.label>Satisfatório</VME_PlagueFestivalRitualOutcome.outcomeChances.2.label>
+
+  <!-- EN: The {0} was satisfying. The speech felt meaningful, and a holy miasma was liberated from the corpse, bathing us all in a sacred plague wind. -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.2.description>{0} foi satisfatório. O discurso pareceu significativo, e um miasma sagrado saiu do cadáver, banhando todos num vento sagrado de peste.</VME_PlagueFestivalRitualOutcome.outcomeChances.2.description>
+
+  <!-- EN: Spectacular -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.3.label>Espetacular</VME_PlagueFestivalRitualOutcome.outcomeChances.3.label>
+
+  <!-- EN: The {0} was spectacular! The speech brought everyone to the edge of a frenzy and a sacred plague wind wafted from the animal's corpse, blessing us. -->
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.3.description>{0} foi espetacular! O discurso levou todos à beira do frenesi, e um vento sagrado de peste saiu do cadáver do animal para nos abençoar.</VME_PlagueFestivalRitualOutcome.outcomeChances.3.description>
+
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <VME_SlaveEmancipationOutcome.description>Conforme a qualidade do ritual, os participantes recebem entre {MINMOOD} e {MAXMOOD} de humor por {MOODDAYS} dias.</VME_SlaveEmancipationOutcome.description>
+
+  <!-- EN: room impressiveness -->
+  <VME_SlaveEmancipationOutcome.comps.0.label>imponência da sala</VME_SlaveEmancipationOutcome.comps.0.label>
+
+  <!-- EN: participant count -->
+  <VME_SlaveEmancipationOutcome.comps.1.label>número de participantes</VME_SlaveEmancipationOutcome.comps.1.label>
+
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_SlaveEmancipationOutcome.comps.2.label>impacto social de {PAWN_labelShort}</VME_SlaveEmancipationOutcome.comps.2.label>
+
+  <!-- EN: speaker's social impact -->
+  <VME_SlaveEmancipationOutcome.comps.2.labelAbstract>impacto social do orador</VME_SlaveEmancipationOutcome.comps.2.labelAbstract>
+
+  <!-- EN: Demagogic -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.0.label>Demagógico</VME_SlaveEmancipationOutcome.outcomeChances.0.label>
+
+  <!-- EN: The {0} was horribly demagogic! We ended up looking as the evil guys here... With such a display, it's unlikely anyone will freely want to join the colony. -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.0.description>{0} foi horrivelmente demagógico! Acabamos parecendo os vilões... Com uma apresentação dessas, dificilmente alguém vai querer se juntar à colônia por vontade própria.</VME_SlaveEmancipationOutcome.outcomeChances.0.description>
+
+  <!-- EN: Freethinking -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.1.label>Esclarecedor</VME_SlaveEmancipationOutcome.outcomeChances.1.label>
+
+  <!-- EN: The {0} was a nice display of freethinking. Our leader's speech was clear and succint, explaining all the evils of slavery in a concise way. Participating slaves have a 25% chance of joining the colony. -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.1.description>{0} foi uma bela demonstração de pensamento livre. O discurso do nosso líder foi claro e sucinto, explicando todos os males da escravidão de forma concisa. Os escravos participantes têm 25% de chance de se juntar à colônia.</VME_SlaveEmancipationOutcome.outcomeChances.1.description>
+
+  <!-- EN: Unshackling -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.2.label>Emancipador</VME_SlaveEmancipationOutcome.outcomeChances.2.label>
+
+  <!-- EN: The {0} was unshackling. Our leader's speech was very inspiring, detailing all the evils caused by slavery and the immense advantages of a free society. Participating slaves have a 50% chance of joining the colony. -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.2.description>{0} foi emancipador. O discurso do nosso líder foi muito inspirador, detalhando os males da escravidão e as imensas vantagens de uma sociedade livre. Os escravos participantes têm 50% de chance de se juntar à colônia.</VME_SlaveEmancipationOutcome.outcomeChances.2.description>
+
+  <!-- EN: Liberating -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.3.label>Libertador</VME_SlaveEmancipationOutcome.outcomeChances.3.label>
+
+  <!-- EN: The {0} was liberating! Our leader's speech was a masterclass in extolling the virtues of a free society, liberated for the shackles of slavery. Participating slaves have a 75% chance of joining the colony. -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.3.description>{0} foi libertador! O discurso do nosso líder foi uma aula sobre as virtudes de uma sociedade livre das amarras da escravidão. Os escravos participantes têm 75% de chance de se juntar à colônia.</VME_SlaveEmancipationOutcome.outcomeChances.3.description>
+
+  <!-- EN: Amazing -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.4.label>Incrível</VME_SlaveEmancipationOutcome.outcomeChances.4.label>
+
+  <!-- EN: The {0} was amazing! Legends will be told about our leader's speech, and how those words will resonate in the future, elevating the cause of emancipation. Participating slaves have a 100% chance of joining the colony. -->
+  <VME_SlaveEmancipationOutcome.outcomeChances.4.description>{0} foi incrível! Lendas serão contadas sobre o discurso do nosso líder e sobre como suas palavras ecoarão no futuro, elevando a causa da libertação. Os escravos participantes têm 100% de chance de se juntar à colônia.</VME_SlaveEmancipationOutcome.outcomeChances.4.description>
+
+  <!-- EN: Depending on ritual quality and as long as it is positive, between 1 and 6 trade caravans arrive from friendly factions. Also, depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.\n\nIf Microelectronics has been researched, you will need to have at least 200 silver near a valid trading beacon for the fair to work properly, or else participants will receive a "cheap trading fair" mood penalty. -->
+  <VME_TradingFairRitualOutcome.description>Conforme a qualidade do ritual, desde que positiva, chegarão de 1 a 6 caravanas comerciais de facções amigas. Os participantes também recebem entre {MINMOOD} e {MAXMOOD} de humor por {MOODDAYS} dias, conforme a qualidade do ritual.\n\nSe Microeletrônica tiver sido pesquisada, será preciso ter pelo menos 200 de prata perto de um sinalizador comercial válido para a feira funcionar corretamente; caso contrário, os participantes receberão uma penalidade de humor por "feira comercial mesquinha".</VME_TradingFairRitualOutcome.description>
+
+  <!-- EN: trading fair organizer present -->
+  <VME_TradingFairRitualOutcome.comps.0.label>organizador da feira comercial presente</VME_TradingFairRitualOutcome.comps.0.label>
+
+  <!-- EN: participant count -->
+  <VME_TradingFairRitualOutcome.comps.1.label>número de participantes</VME_TradingFairRitualOutcome.comps.1.label>
+
+  <!-- EN: Poorly Organized -->
+  <VME_TradingFairRitualOutcome.outcomeChances.0.label>Mal Organizado</VME_TradingFairRitualOutcome.outcomeChances.0.label>
+
+  <!-- EN: The {0} was very poorly organized! With such a low quality effort, no additional caravans will be attracted to our settlement... -->
+  <VME_TradingFairRitualOutcome.outcomeChances.0.description>{0} foi muito mal organizado! Com um esforço tão fraco, nenhuma caravana adicional será atraída ao assentamento...</VME_TradingFairRitualOutcome.outcomeChances.0.description>
+
+  <!-- EN: Unexciting -->
+  <VME_TradingFairRitualOutcome.outcomeChances.1.label>Sem emoção</VME_TradingFairRitualOutcome.outcomeChances.1.label>
+
+  <!-- EN: The {0} was unexciting. Some exciting transactions took place, but the majority of it was boring business talk. Luckily, it was interesting enough to attract a caravan to our settlement, which should arrive soon. -->
+  <VME_TradingFairRitualOutcome.outcomeChances.1.description>{0} foi sem emoção. Houve algumas transações empolgantes, mas a maior parte foi conversa comercial entediante. Felizmente, foi interessante o bastante para atrair uma caravana, que deve chegar em breve.</VME_TradingFairRitualOutcome.outcomeChances.1.description>
+
+  <!-- EN: Well Organized -->
+  <VME_TradingFairRitualOutcome.outcomeChances.2.label>Bem Organizado</VME_TradingFairRitualOutcome.outcomeChances.2.label>
+
+  <!-- EN: The {0} was very well organized. There was a lot of back and forth and networking. Luckily, at least three caravans will be attracted to our settlement, which should arrive soon. -->
+  <VME_TradingFairRitualOutcome.outcomeChances.2.description>{0} foi muito bem organizado. Houve muita troca de ideias e formação de contatos. Felizmente, pelo menos três caravanas serão atraídas ao assentamento e devem chegar em breve.</VME_TradingFairRitualOutcome.outcomeChances.2.description>
+
+  <!-- EN: Wondrous -->
+  <VME_TradingFairRitualOutcome.outcomeChances.3.label>Maravilhoso</VME_TradingFairRitualOutcome.outcomeChances.3.label>
+
+  <!-- EN: The {0} was a wondrous event! We discussed exciting and innovative economical paradigms, and our settlement will be renowned as a center of finance learning. With such a display, at least six caravans will be attracted to our settlement, and they should arrive soon. -->
+  <VME_TradingFairRitualOutcome.outcomeChances.3.description>{0} foi um evento maravilhoso! Discutimos paradigmas econômicos empolgantes e inovadores, e nosso assentamento será conhecido como um centro de conhecimento financeiro. Pelo menos seis caravanas serão atraídas e devem chegar em breve.</VME_TradingFairRitualOutcome.outcomeChances.3.description>
+
+  <!-- EN: Violent conversion has a 50% chance of either completely converting the participant to your ideoligion or just being executed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <VME_ViolentConversionRitualOutcome.description>A conversão violenta tem 50% de chance de converter totalmente o participante à sua ideologia ou de executá-lo. Conforme a qualidade do ritual, os participantes recebem entre {MINMOOD} e {MAXMOOD} de humor por {MOODDAYS} dias.</VME_ViolentConversionRitualOutcome.description>
+
+  <!-- EN: participant count -->
+  <VME_ViolentConversionRitualOutcome.comps.0.label>número de participantes</VME_ViolentConversionRitualOutcome.comps.0.label>
+
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_ViolentConversionRitualOutcome.comps.1.label>impacto social de {PAWN_labelShort}</VME_ViolentConversionRitualOutcome.comps.1.label>
+
+  <!-- EN: speaker's social impact -->
+  <VME_ViolentConversionRitualOutcome.comps.1.labelAbstract>impacto social do orador</VME_ViolentConversionRitualOutcome.comps.1.labelAbstract>
+
+  <!-- EN: started at altar or ideogram -->
+  <VME_ViolentConversionRitualOutcome.comps.2.label>iniciado num altar ou ideograma</VME_ViolentConversionRitualOutcome.comps.2.label>
+
+  <!-- EN: an altar or an ideogram -->
+  <VME_ViolentConversionRitualOutcome.comps.2.expectedThingLabelTip>um altar ou ideograma</VME_ViolentConversionRitualOutcome.comps.2.expectedThingLabelTip>
+
+  <!-- EN: Awkward -->
+  <VME_ViolentConversionRitualOutcome.outcomeChances.0.label>Constrangedor</VME_ViolentConversionRitualOutcome.outcomeChances.0.label>
+
+  <!-- EN: The {0} was awkward. The speech dragged on and it was a fruitless back-and-forth argument. The words were vague and unconvincing. -->
+  <VME_ViolentConversionRitualOutcome.outcomeChances.0.description>{0} foi constrangedor. O discurso se arrastou numa discussão improdutiva. As palavras eram vagas e pouco convincentes.</VME_ViolentConversionRitualOutcome.outcomeChances.0.description>
+
+  <!-- EN: Satisfying -->
+  <VME_ViolentConversionRitualOutcome.outcomeChances.1.label>Satisfatório</VME_ViolentConversionRitualOutcome.outcomeChances.1.label>
+
+  <!-- EN: The {0} was satisfying. The speech was stirring and enjoyable to listen to. -->
+  <VME_ViolentConversionRitualOutcome.outcomeChances.1.description>{0} foi satisfatório. O discurso foi emocionante e agradável de ouvir.</VME_ViolentConversionRitualOutcome.outcomeChances.1.description>
+
+  <!-- EN: Spectacular -->
+  <VME_ViolentConversionRitualOutcome.outcomeChances.2.label>Espetacular</VME_ViolentConversionRitualOutcome.outcomeChances.2.label>
+
+  <!-- EN: The {0} was spectacular! Surely our beliefs will prevail over any others! -->
+  <VME_ViolentConversionRitualOutcome.outcomeChances.2.description>{0} foi espetacular! Nossas crenças certamente prevalecerão sobre todas as outras!</VME_ViolentConversionRitualOutcome.outcomeChances.2.description>
+
+  <!-- EN: A prisoner of the colony will be locked in a cage, and set fire, killing the prisoner in the process. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <VME_WickerManBurningOutcome.description>Um prisioneiro da colônia será trancado numa jaula e queimado até morrer. Conforme a qualidade do ritual, os participantes recebem entre {MINMOOD} e {MAXMOOD} de humor por {MOODDAYS} dias.</VME_WickerManBurningOutcome.description>
+
+  <!-- EN: participant count -->
+  <VME_WickerManBurningOutcome.comps.0.label>número de participantes</VME_WickerManBurningOutcome.comps.0.label>
+
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_WickerManBurningOutcome.comps.1.label>impacto social de {PAWN_labelShort}</VME_WickerManBurningOutcome.comps.1.label>
+
+  <!-- EN: speaker's social impact -->
+  <VME_WickerManBurningOutcome.comps.1.labelAbstract>impacto social do orador</VME_WickerManBurningOutcome.comps.1.labelAbstract>
+
+  <!-- EN: Terrible -->
+  <VME_WickerManBurningOutcome.outcomeChances.0.label>Terrível</VME_WickerManBurningOutcome.outcomeChances.0.label>
+
+  <!-- EN: The {0} was terrible! The prisoner rattled the cage all the time and it smelled like rotten bacon. -->
+  <VME_WickerManBurningOutcome.outcomeChances.0.description>{0} foi terrível! O prisioneiro sacudiu a jaula o tempo todo, e o cheiro era de bacon podre.</VME_WickerManBurningOutcome.outcomeChances.0.description>
+
+  <!-- EN: Lackluster -->
+  <VME_WickerManBurningOutcome.outcomeChances.1.label>Sem brilho</VME_WickerManBurningOutcome.outcomeChances.1.label>
+
+  <!-- EN: The {0} was lackluster. The prisoner just burned to death too fast, and the fire didn't even lift our spirits much. -->
+  <VME_WickerManBurningOutcome.outcomeChances.1.description>{0} foi sem brilho. O prisioneiro morreu queimado rápido demais, e o fogo nem melhorou muito nosso ânimo.</VME_WickerManBurningOutcome.outcomeChances.1.description>
+
+  <!-- EN: Good -->
+  <VME_WickerManBurningOutcome.outcomeChances.2.label>Bom</VME_WickerManBurningOutcome.outcomeChances.2.label>
+
+  <!-- EN: The {0} was good. The anguished cries of the prisoner will resonate with us for a long time, another soul consumed by the flames. -->
+  <VME_WickerManBurningOutcome.outcomeChances.2.description>{0} foi bom. Os gritos angustiados do prisioneiro ecoarão em nós por muito tempo, outra alma consumida pelas chamas.</VME_WickerManBurningOutcome.outcomeChances.2.description>
+
+  <!-- EN: Glorious -->
+  <VME_WickerManBurningOutcome.outcomeChances.3.label>Glorioso</VME_WickerManBurningOutcome.outcomeChances.3.label>
+
+  <!-- EN: The {0} was glorious! We will forever remember the thrashing of the prisoner, the frightened crescendo of screams as another soul was consumed by the holy flames. -->
+  <VME_WickerManBurningOutcome.outcomeChances.3.description>{0} foi glorioso! Sempre nos lembraremos dos espasmos do prisioneiro e do crescendo de gritos aterrorizados enquanto outra alma era consumida pelas chamas sagradas.</VME_WickerManBurningOutcome.outcomeChances.3.description>
+</LanguageData>
+

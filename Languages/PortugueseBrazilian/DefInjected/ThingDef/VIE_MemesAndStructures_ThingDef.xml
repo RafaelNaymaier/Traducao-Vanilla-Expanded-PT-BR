@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: ancient barrel -->
+  <VME_AncientBarrel.label>barril antigo</VME_AncientBarrel.label>
+
+  <!-- EN: An ancient, broken barrel that looks like it once contained waste of some sort. The only thing it contains now is a smear of dried sludge. -->
+  <VME_AncientBarrel.description>Um barril antigo e quebrado que parece ter guardado algum tipo de resíduo. Agora só contém uma mancha de lodo seco.</VME_AncientBarrel.description>
+
+  <!-- EN: ancient bed -->
+  <VME_AncientBed.label>cama antiga</VME_AncientBed.label>
+
+  <!-- EN: An old, rotted mattress on a rusty frame. Though uncomfortable, it can still be used, but it's too dilapidated to restore. -->
+  <VME_AncientBed.description>Um colchão velho e apodrecido sobre uma armação enferrujada. Embora desconfortável, ainda pode ser usado, mas está deteriorado demais para ser restaurado.</VME_AncientBed.description>
+
+  <!-- EN: ancient crate -->
+  <VME_AncientCrate.label>caixote antigo</VME_AncientCrate.label>
+
+  <!-- EN: An ancient, broken crate. Any valuables it once contained have degraded to uselessness. -->
+  <VME_AncientCrate.description>Um caixote antigo e quebrado. Qualquer objeto valioso que tenha guardado se deteriorou até ficar inútil.</VME_AncientCrate.description>
+
+  <!-- EN: ancient display bank -->
+  <VME_AncientDisplayBank.label>painel de monitores antigo</VME_AncientDisplayBank.label>
+
+  <!-- EN: An ancient computer interface. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VME_AncientDisplayBank.description>Uma interface de computador antiga. As peças valiosas desapareceram, e o resto se deteriorou até ficar inútil.</VME_AncientDisplayBank.description>
+
+  <!-- EN: ancient equipment blocks -->
+  <VME_AncientEquipmentBlocks.label>blocos de equipamentos antigos</VME_AncientEquipmentBlocks.label>
+
+  <!-- EN: A collection of ancient equipment blocks of unknown function. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VME_AncientEquipmentBlocks.description>Um conjunto de blocos de equipamentos antigos de função desconhecida. As peças valiosas desapareceram, e todo o resto se deteriorou até ficar inútil.</VME_AncientEquipmentBlocks.description>
+
+  <!-- EN: ancient generator -->
+  <VME_AncientGenerator.label>gerador antigo</VME_AncientGenerator.label>
+
+  <!-- EN: An ancient electrical generator. Its usable parts were smashed or looted long ago, and the rest has rusted into uselessness. -->
+  <VME_AncientGenerator.description>Um gerador elétrico antigo. Suas peças aproveitáveis foram destruídas ou saqueadas há muito tempo, e o resto ficou inutilizado pela ferrugem.</VME_AncientGenerator.description>
+
+  <!-- EN: ancient lamp -->
+  <VME_AncientLamp.label>luminária antiga</VME_AncientLamp.label>
+
+  <!-- EN: An ancient self-powered lamp. Its internal power supply is badly depleted, but it still emits a weak glow. -->
+  <VME_AncientLamp.description>Uma luminária antiga com alimentação própria. Sua fonte interna está quase esgotada, mas ela ainda emite um brilho fraco.</VME_AncientLamp.description>
+
+  <!-- EN: ancient locker bank -->
+  <VME_AncientLockerBank.label>conjunto de armários antigos</VME_AncientLockerBank.label>
+
+  <!-- EN: An ancient, rusted bank of lockers. All of the lockers have been forced open with nothing valuable left behind. -->
+  <VME_AncientLockerBank.description>Um conjunto antigo e enferrujado de armários. Todos foram arrombados, sem deixar nada valioso.</VME_AncientLockerBank.description>
+
+  <!-- EN: ancient machine -->
+  <VME_AncientMachine.label>máquina antiga</VME_AncientMachine.label>
+
+  <!-- EN: A large ancient machine case filled with unknown machinery. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VME_AncientMachine.description>Uma grande carcaça de máquina antiga cheia de mecanismos desconhecidos. As peças valiosas desapareceram, e todo o resto se deteriorou até ficar inútil.</VME_AncientMachine.description>
+
+  <!-- EN: ancient military crate -->
+  <VME_AncientMilitaryCrate.label>caixote militar antigo</VME_AncientMilitaryCrate.label>
+
+  <!-- EN: An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted. -->
+  <VME_AncientMilitaryCrate.description>Um caixote antigo de aparência militar. Foi quebrado há muito tempo, e todos os objetos valiosos foram saqueados.</VME_AncientMilitaryCrate.description>
+
+  <!-- EN: ancient operating table -->
+  <VME_AncientOperatingTable.label>mesa cirúrgica antiga</VME_AncientOperatingTable.label>
+
+  <!-- EN: A table once used for surgical operations. It has long since deteriorated into uselessness. -->
+  <VME_AncientOperatingTable.description>Uma mesa usada antigamente para cirurgias. Há muito tempo se deteriorou até ficar inútil.</VME_AncientOperatingTable.description>
+
+  <!-- EN: ancient spacer crate -->
+  <VME_AncientSpacerCrate.label>caixote antigo de tecnologia espacial</VME_AncientSpacerCrate.label>
+
+  <!-- EN: An ancient, broken crate. Any valuables it once contained were taken long ago. -->
+  <VME_AncientSpacerCrate.description>Um caixote antigo e quebrado. Todos os objetos valiosos foram levados há muito tempo.</VME_AncientSpacerCrate.description>
+
+  <!-- EN: ancient storage cylinder -->
+  <VME_AncientStorageCylinder.label>cilindro de armazenamento antigo</VME_AncientStorageCylinder.label>
+
+  <!-- EN: An ancient device that looks like it once stored some kind of fluid. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VME_AncientStorageCylinder.description>Um aparelho antigo que parece ter armazenado algum tipo de fluido. As peças valiosas desapareceram, e todo o resto se deteriorou até ficar inútil.</VME_AncientStorageCylinder.description>
+
+  <!-- EN: ancient system rack -->
+  <VME_AncientSystemRack.label>rack de sistemas antigo</VME_AncientSystemRack.label>
+
+  <!-- EN: An ancient rack unit packed with unidentifiable devices. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <VME_AncientSystemRack.description>Um rack antigo cheio de aparelhos não identificáveis. As peças valiosas desapareceram, e todo o resto se deteriorou até ficar inútil.</VME_AncientSystemRack.description>
+
+  <!-- EN: ancient air conditioner -->
+  <VME_AncientAirConditioner.label>ar-condicionado antigo</VME_AncientAirConditioner.label>
+
+  <!-- EN: An ancient air conditioning machine. Its internals were smashed long ago and what wasn't looted has rusted away in the time since. -->
+  <VME_AncientAirConditioner.description>Uma máquina de ar-condicionado antiga. Seus mecanismos foram destruídos há muito tempo, e o que não foi saqueado acabou corroído pela ferrugem.</VME_AncientAirConditioner.description>
+
+  <!-- EN: ancient ruined APC -->
+  <VME_AncientAPC.label>transporte blindado antigo arruinado</VME_AncientAPC.label>
+
+  <!-- EN: The remains of an ancient armoured troop carrier which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
+  <VME_AncientAPC.description>Os restos de um transporte blindado de tropas antigo, destruído por alguma arma pesada. Todos os componentes úteis foram saqueados ou se deterioraram há muito tempo.</VME_AncientAPC.description>
+
+  <!-- EN: ancient ATM -->
+  <VME_AncientATM.label>caixa eletrônico antigo</VME_AncientATM.label>
+
+  <!-- EN: An ancient ATM. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <VME_AncientATM.description>Um caixa eletrônico antigo. Destroçado e enferrujado, agora é completamente inútil.\n\nÉ difícil dizer como veio parar aqui.</VME_AncientATM.description>
+
+  <!-- EN: ancient container -->
+  <VME_AncientContainer.label>contêiner antigo</VME_AncientContainer.label>
+
+  <!-- EN: A large container from some ancient freight carrying vehicle. It has long since been looted and deteriorted into uselessness. -->
+  <VME_AncientContainer.description>Um grande contêiner de algum antigo veículo de carga. Foi saqueado há muito tempo e se deteriorou até ficar inútil.</VME_AncientContainer.description>
+
+  <!-- EN: ancient dropship engine -->
+  <VME_AncientDropshipEngine.label>motor antigo de nave de desembarque</VME_AncientDropshipEngine.label>
+
+  <!-- EN: An ancient dropship engine. It probably came off a military troop carrier. Its delicate internals are rusted to uselessness, and the valuable parts were looted long ago. -->
+  <VME_AncientDropshipEngine.description>Um motor antigo de nave de desembarque, provavelmente de um transporte militar de tropas. Seus mecanismos delicados ficaram inutilizados pela ferrugem, e as peças valiosas foram saqueadas há muito tempo.</VME_AncientDropshipEngine.description>
+
+  <!-- EN: ancient fence -->
+  <VME_AncientFence.label>cerca antiga</VME_AncientFence.label>
+
+  <!-- EN: An ancient fence made of reinforced concrete posts joined by concrete panels. -->
+  <VME_AncientFence.description>Uma cerca antiga feita de postes de concreto reforçado unidos por painéis de concreto.</VME_AncientFence.description>
+
+  <!-- EN: ancient giant wheel -->
+  <VME_AncientGiantWheel.label>roda gigante antiga</VME_AncientGiantWheel.label>
+
+  <!-- EN: A giant wheel which came off some large vehicle many ages ago. The rubber has disintegrated away and the metal is twisted and rusted. -->
+  <VME_AncientGiantWheel.description>Uma roda gigante que se soltou de algum veículo enorme há muitas eras. A borracha se desintegrou, e o metal está retorcido e enferrujado.</VME_AncientGiantWheel.description>
+
+  <!-- EN: ancient hydrant -->
+  <VME_AncientHydrant.label>hidrante antigo</VME_AncientHydrant.label>
+
+  <!-- EN: An ancient hydrant. Heavily rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <VME_AncientHydrant.description>Um hidrante antigo. Muito enferrujado, agora é completamente inútil.\n\nÉ difícil dizer como veio parar aqui.</VME_AncientHydrant.description>
+
+  <!-- EN: ancient jet engine -->
+  <VME_AncientJetEngine.label>motor a jato antigo</VME_AncientJetEngine.label>
+
+  <!-- EN: An ancient jet engine, probably detached from a large airplane. Its delicate internals are rusted to uselessness, and the valuable parts were looted long ago. -->
+  <VME_AncientJetEngine.description>Um motor a jato antigo, provavelmente desprendido de um avião grande. Seus mecanismos delicados ficaram inutilizados pela ferrugem, e as peças valiosas foram saqueadas há muito tempo.</VME_AncientJetEngine.description>
+
+  <!-- EN: ancient kitchen sink -->
+  <VME_AncientKitchenSink.label>pia de cozinha antiga</VME_AncientKitchenSink.label>
+
+  <!-- EN: An ancient kitchen sink made of some non-metallic fiber-sheet material. It is badly deteriorated and there's no way to salvage anything from it.\n\nHow it got here must be a long story. -->
+  <VME_AncientKitchenSink.description>Uma pia de cozinha antiga feita de algum material de lâminas fibrosas não metálicas. Está muito deteriorada, e nada pode ser aproveitado.\n\nA história de como veio parar aqui deve ser longa.</VME_AncientKitchenSink.description>
+
+  <!-- EN: ancient large crate -->
+  <VME_AncientLargeCrate.label>caixote grande antigo</VME_AncientLargeCrate.label>
+
+  <!-- EN: A large crate which was abandoned ages ago. It's too rusted to store anything. -->
+  <VME_AncientLargeCrate.description>Um caixote grande abandonado há eras. Está enferrujado demais para guardar qualquer coisa.</VME_AncientLargeCrate.description>
+
+  <!-- EN: ancient macro-engine block -->
+  <VME_AncientLargeRustedEngineBlock.label>bloco de macromotor antigo</VME_AncientLargeRustedEngineBlock.label>
+
+  <!-- EN: An large, ancient engine block from some giant vehicle or power source. It's rusted through, and all the useful components are gone. No repair could salvage this. -->
+  <VME_AncientLargeRustedEngineBlock.description>Um grande bloco de motor antigo, de algum veículo gigante ou fonte de energia. Está todo corroído, e todos os componentes úteis desapareceram. Nenhum reparo poderia recuperá-lo.</VME_AncientLargeRustedEngineBlock.description>
+
+  <!-- EN: ancient long crate -->
+  <VME_AncientLongCrate.label>caixote comprido antigo</VME_AncientLongCrate.label>
+
+  <!-- EN: A long, empty crate which was abandoned ages ago. It's too rusted to store anything. -->
+  <VME_AncientLongCrate.description>Um caixote comprido e vazio abandonado há eras. Está enferrujado demais para guardar qualquer coisa.</VME_AncientLongCrate.description>
+
+  <!-- EN: ancient mechanoid detritus -->
+  <VME_AncientMechanoidShell.label>restos antigos de mecanoide</VME_AncientMechanoidShell.label>
+
+  <!-- EN: The remains of a smashed mechanoid. All the useful components and materials are ruined or missing. -->
+  <VME_AncientMechanoidShell.description>Os restos de um mecanoide destroçado. Todos os componentes e materiais úteis estão arruinados ou desapareceram.</VME_AncientMechanoidShell.description>
+
+  <!-- EN: ancient mech drop beacon -->
+  <VME_AncientMechDropBeacon.label>sinalizador antigo de queda mecanoide</VME_AncientMechDropBeacon.label>
+
+  <!-- EN: The broken shell of a mech drop beacon. Its useful components are missing and the shell has deteriorated after many years. -->
+  <VME_AncientMechDropBeacon.description>A carcaça quebrada de um sinalizador de queda mecanoide. Seus componentes úteis desapareceram, e a carcaça se deteriorou com os anos.</VME_AncientMechDropBeacon.description>
+
+  <!-- EN: ancient mega-cannon barrel -->
+  <VME_AncientMegaCannonBarrel.label>cano de megacanhão antigo</VME_AncientMegaCannonBarrel.label>
+
+  <!-- EN: A barrel from a long-range cannon for artillery or anti-ship use. When it was new, it must have been frighteningly powerful. Now, it's far beyond repair and every useful component has been looted. -->
+  <VME_AncientMegaCannonBarrel.description>Um cano de canhão de longo alcance para artilharia ou combate antinave. Quando novo, devia ser assustadoramente poderoso. Agora é irrecuperável, e todos os componentes úteis foram saqueados.</VME_AncientMegaCannonBarrel.description>
+
+  <!-- EN: ancient mega-cannon platform -->
+  <VME_AncientMegaCannonTripod.label>plataforma de megacanhão antigo</VME_AncientMegaCannonTripod.label>
+
+  <!-- EN: A mounting platform that once held some sort of cannon. It has been broken for many years and every useful component was looted long ago. -->
+  <VME_AncientMegaCannonTripod.description>Uma plataforma de montagem que sustentava algum tipo de canhão. Está quebrada há muitos anos, e todos os componentes úteis foram saqueados há muito tempo.</VME_AncientMegaCannonTripod.description>
+
+  <!-- EN: ancient microwave -->
+  <VME_AncientMicrowave.label>micro-ondas antigo</VME_AncientMicrowave.label>
+
+  <!-- EN: An ancient device for heating food. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <VME_AncientMicrowave.description>Um aparelho antigo para aquecer comida. Destroçado e enferrujado, agora é completamente inútil.\n\nÉ difícil dizer como veio parar aqui.</VME_AncientMicrowave.description>
+
+  <!-- EN: ancient warsprinter remains -->
+  <VME_AncientMiniWarwalkerRemains.label>restos antigos de warsprinter</VME_AncientMiniWarwalkerRemains.label>
+
+  <!-- EN: The shattered remains of an ancient sub-scale warsprinter. Whatever parts weren't ruined when it was destroyed were looted long ago. -->
+  <VME_AncientMiniWarwalkerRemains.description>Os restos despedaçados de um warsprinter antigo de pequeno porte. As peças que sobreviveram à destruição foram saqueadas há muito tempo.</VME_AncientMiniWarwalkerRemains.description>
+
+  <!-- EN: ancient oven -->
+  <VME_AncientOven.label>forno antigo</VME_AncientOven.label>
+
+  <!-- EN: An ancient oven. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <VME_AncientOven.description>Um forno antigo. Destroçado e enferrujado, agora é completamente inútil.\n\nÉ difícil dizer como veio parar aqui.</VME_AncientOven.description>
+
+  <!-- EN: ancient pipeline section -->
+  <VME_AncientPipelineSection.label>seção de tubulação antiga</VME_AncientPipelineSection.label>
+
+  <!-- EN: A section from an ancient pipeline. It once carried some valuable fluid over long distances. Now it's been looted and deteriorated to uselessness. -->
+  <VME_AncientPipelineSection.description>Uma seção de tubulação antiga. Transportava algum fluido valioso por longas distâncias. Agora foi saqueada e se deteriorou até ficar inútil.</VME_AncientPipelineSection.description>
+
+  <!-- EN: ancient pipes -->
+  <VME_AncientPipes.label>canos antigos</VME_AncientPipes.label>
+
+  <!-- EN: A bunch of rusted old pipes. It is hard to say how these ended up here. -->
+  <VME_AncientPipes.description>Um conjunto de canos velhos e enferrujados. É difícil dizer como vieram parar aqui.</VME_AncientPipes.description>
+
+  <!-- EN: ancient pod car -->
+  <VME_AncientPodCar.label>carro-cápsula antigo</VME_AncientPodCar.label>
+
+  <!-- EN: An ancient pod car once capable of automated flight. Its valuable parts were looted long ago, and the rest is badly deteriorated. -->
+  <VME_AncientPodCar.description>Um carro-cápsula antigo que já foi capaz de voar automaticamente. Suas peças valiosas foram saqueadas há muito tempo, e o resto está muito deteriorado.</VME_AncientPodCar.description>
+
+  <!-- EN: ancient postbox -->
+  <VME_AncientPostbox.label>caixa de correio antiga</VME_AncientPostbox.label>
+
+  <!-- EN: An ancient postbox, smashed and deteriorated to uselessness. It seems to have been moved here long ago for some unknown reason. -->
+  <VME_AncientPostbox.description>Uma caixa de correio antiga, destroçada e deteriorada até ficar inútil. Parece ter sido trazida para cá há muito tempo por algum motivo desconhecido.</VME_AncientPostbox.description>
+
+  <!-- EN: ancient razor wire -->
+  <VME_AncientRazorWire.label>arame laminado antigo</VME_AncientRazorWire.label>
+
+  <!-- EN: A piece of ancient razor wire. It has been deteriorating for many years and no longer poses any danger. -->
+  <VME_AncientRazorWire.description>Um pedaço de arame laminado antigo. Está se deteriorando há muitos anos e já não oferece perigo.</VME_AncientRazorWire.description>
+
+  <!-- EN: ancient refrigerator -->
+  <VME_AncientRefrigerator.label>geladeira antiga</VME_AncientRefrigerator.label>
+
+  <!-- EN: An ancient refrigerator. It was stripped of interesting parts long ago. -->
+  <VME_AncientRefrigerator.description>Uma geladeira antiga. Suas peças interessantes foram retiradas há muito tempo.</VME_AncientRefrigerator.description>
+
+  <!-- EN: ancient car -->
+  <VME_AncientRustedCar.label>carro antigo</VME_AncientRustedCar.label>
+
+  <!-- EN: An ancient, broken car. Everything that isn't rusted away was looted long ago. -->
+  <VME_AncientRustedCar.description>Um carro antigo e quebrado. Tudo que não foi corroído pela ferrugem foi saqueado há muito tempo.</VME_AncientRustedCar.description>
+
+  <!-- EN: ancient car frame -->
+  <VME_AncientRustedCarFrame.label>chassi de carro antigo</VME_AncientRustedCarFrame.label>
+
+  <!-- EN: An ancient, rusted car frame. The body shell has long since rusted away to nothing. -->
+  <VME_AncientRustedCarFrame.description>Um chassi de carro antigo e enferrujado. A carroceria desapareceu consumida pela ferrugem há muito tempo.</VME_AncientRustedCarFrame.description>
+
+  <!-- EN: ancient dropship -->
+  <VME_AncientRustedDropship.label>nave de desembarque antiga</VME_AncientRustedDropship.label>
+
+  <!-- EN: The remains of an ancient dropship. The valuable parts were looted long ago and the rest has deteriorated to uselessness. -->
+  <VME_AncientRustedDropship.description>Os restos de uma nave de desembarque antiga. As peças valiosas foram saqueadas há muito tempo, e o resto se deteriorou até ficar inútil.</VME_AncientRustedDropship.description>
+
+  <!-- EN: ancient engine block -->
+  <VME_AncientRustedEngineBlock.label>bloco de motor antigo</VME_AncientRustedEngineBlock.label>
+
+  <!-- EN: An ancient engine block that is rusted through. No repair could salvage this. -->
+  <VME_AncientRustedEngineBlock.description>Um bloco de motor antigo completamente corroído. Nenhum reparo poderia recuperá-lo.</VME_AncientRustedEngineBlock.description>
+
+  <!-- EN: ancient troop carrier -->
+  <VME_AncientRustedJeep.label>transporte de tropas antigo</VME_AncientRustedJeep.label>
+
+  <!-- EN: An ancient, broken troop carrier. Everything that isn't rusted away was looted long ago. -->
+  <VME_AncientRustedJeep.description>Um transporte de tropas antigo e quebrado. Tudo que não foi corroído pela ferrugem foi saqueado há muito tempo.</VME_AncientRustedJeep.description>
+
+  <!-- EN: ancient truck -->
+  <VME_AncientRustedTruck.label>caminhão antigo</VME_AncientRustedTruck.label>
+
+  <!-- EN: An ancient, broken truck. Everything useful either rusted away or was looted long ago. -->
+  <VME_AncientRustedTruck.description>Um caminhão antigo e quebrado. Tudo que era útil foi corroído pela ferrugem ou saqueado há muito tempo.</VME_AncientRustedTruck.description>
+
+  <!-- EN: ancient security turret -->
+  <VME_AncientSecurityTurret.label>torreta de segurança antiga</VME_AncientSecurityTurret.label>
+
+  <!-- EN: An ancient, broken security turret. The valuable parts have all been looted or smashed. -->
+  <VME_AncientSecurityTurret.description>Uma torreta de segurança antiga e quebrada. Todas as peças valiosas foram saqueadas ou destruídas.</VME_AncientSecurityTurret.description>
+
+  <!-- EN: ancient nav beacon -->
+  <VME_AncientShipBeacon.label>sinalizador de navegação antigo</VME_AncientShipBeacon.label>
+
+  <!-- EN: An ancient, broken ship navigation beacon. Every useful component was looted long ago. -->
+  <VME_AncientShipBeacon.description>Um sinalizador antigo e quebrado de navegação de naves. Todos os componentes úteis foram saqueados há muito tempo.</VME_AncientShipBeacon.description>
+
+  <!-- EN: ancient shopping cart -->
+  <VME_AncientShoppingCart.label>carrinho de compras antigo</VME_AncientShoppingCart.label>
+
+  <!-- EN: An ancient, rusted shopping cart. How exactly it got here is a mystery, but the story is long and probably quite sad. -->
+  <VME_AncientShoppingCart.description>Um carrinho de compras antigo e enferrujado. Como veio parar aqui é um mistério, mas a história é longa e provavelmente muito triste.</VME_AncientShoppingCart.description>
+
+  <!-- EN: ancient small crate -->
+  <VME_AncientSmallCrate.label>caixote pequeno antigo</VME_AncientSmallCrate.label>
+
+  <!-- EN: A small, empty crate which was abandoned ages ago. It's too rusted to store anything. -->
+  <VME_AncientSmallCrate.description>Um caixote pequeno e vazio abandonado há eras. Está enferrujado demais para guardar qualquer coisa.</VME_AncientSmallCrate.description>
+
+  <!-- EN: ancient space junk -->
+  <VME_AncientSpaceJunk.label>sucata espacial antiga</VME_AncientSpaceJunk.label>
+
+  <!-- EN: Ancient chunks of space junk that fell from orbit. Perhaps a relic of an ancient space battle. -->
+  <VME_AncientSpaceJunk.description>Destroços de sucata espacial antiga que caíram da órbita. Talvez sejam relíquias de uma antiga batalha espacial.</VME_AncientSpaceJunk.description>
+
+  <!-- EN: ancient stove -->
+  <VME_AncientStove.label>fogão antigo</VME_AncientStove.label>
+
+  <!-- EN: An ancient stove. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <VME_AncientStove.description>Um fogão antigo. Destroçado e enferrujado, agora é completamente inútil.\n\nÉ difícil dizer como veio parar aqui.</VME_AncientStove.description>
+
+  <!-- EN: ancient ruined tank -->
+  <VME_AncientTank.label>tanque antigo arruinado</VME_AncientTank.label>
+
+  <!-- EN: The remains of an ancient tank which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
+  <VME_AncientTank.description>Os restos de um tanque antigo destruído por alguma arma pesada. Todos os componentes úteis foram saqueados ou se deterioraram há muito tempo.</VME_AncientTank.description>
+
+  <!-- EN: ancient tank trap -->
+  <VME_AncientTankTrap.label>barreira antitanque antiga</VME_AncientTankTrap.label>
+
+  <!-- EN: An defensive fortification for stopping vehicles. It's been deteriorating for many years. -->
+  <VME_AncientTankTrap.description>Uma fortificação defensiva para deter veículos. Está se deteriorando há muitos anos.</VME_AncientTankTrap.description>
+
+  <!-- EN: ancient toilet -->
+  <VME_AncientToilet.label>vaso sanitário antigo</VME_AncientToilet.label>
+
+  <!-- EN: An ancient toilet. Smashed long ago, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <VME_AncientToilet.description>Um vaso sanitário antigo. Destruído há muito tempo, agora é completamente inútil.\n\nÉ difícil dizer como veio parar aqui.</VME_AncientToilet.description>
+
+  <!-- EN: ancient vending machine -->
+  <VME_AncientVendingMachine.label>máquina de vendas antiga</VME_AncientVendingMachine.label>
+
+  <!-- EN: An ancient vending machine. It was smashed ages ago and generations of looters have taken every conceivably useful part. How it ended up here is a mystery. -->
+  <VME_AncientVendingMachine.description>Uma máquina de vendas antiga. Foi destruída há eras, e gerações de saqueadores levaram todas as peças minimamente úteis. Como veio parar aqui é um mistério.</VME_AncientVendingMachine.description>
+
+  <!-- EN: ancient warspider remains -->
+  <VME_AncientWarspiderRemains.label>restos antigos de warspider</VME_AncientWarspiderRemains.label>
+
+  <!-- EN: The ruined remains of an ancient mid-scale warspider. It has been picked over many times, and there is nothing valuable left to loot. -->
+  <VME_AncientWarspiderRemains.description>Os restos arruinados de um warspider antigo de médio porte. Foram vasculhados muitas vezes, e não resta nada valioso para saquear.</VME_AncientWarspiderRemains.description>
+
+  <!-- EN: ancient warwalker claw -->
+  <VME_AncientWarwalkerClaw.label>garra de warwalker antigo</VME_AncientWarwalkerClaw.label>
+
+  <!-- EN: The assault claw of an ancient mid-scale warwalker. This weapon specialized in tearing through heavy plasteel armor at close range. Its valuable components were looted long ago. -->
+  <VME_AncientWarwalkerClaw.description>A garra de assalto de um warwalker antigo de médio porte. Essa arma era especializada em rasgar blindagens pesadas de plastiaço a curta distância. Seus componentes valiosos foram saqueados há muito tempo.</VME_AncientWarwalkerClaw.description>
+
+  <!-- EN: ancient warwalker foot -->
+  <VME_AncientWarwalkerFoot.label>pé de warwalker antigo</VME_AncientWarwalkerFoot.label>
+
+  <!-- EN: A massive foot from an ancient warwalker. It seems to have been torn free from its owner by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
+  <VME_AncientWarwalkerFoot.description>Um pé enorme de um warwalker antigo. Parece ter sido arrancado por alguma arma pesada. Todos os componentes úteis foram saqueados ou se deterioraram há muito tempo.</VME_AncientWarwalkerFoot.description>
+
+  <!-- EN: ancient warwalker leg -->
+  <VME_AncientWarwalkerLeg.label>perna de warwalker antigo</VME_AncientWarwalkerLeg.label>
+
+  <!-- EN: The shattered leg of a mid-scale warwalker that fell here long ago. It has been picked clean by looters, and no valuable components remain. -->
+  <VME_AncientWarwalkerLeg.description>A perna despedaçada de um warwalker de médio porte que caiu aqui há muito tempo. Foi completamente saqueada, e não resta nenhum componente valioso.</VME_AncientWarwalkerLeg.description>
+
+  <!-- EN: ancient warwalker shell -->
+  <VME_AncientWarwalkerShell.label>carcaça de warwalker antigo</VME_AncientWarwalkerShell.label>
+
+  <!-- EN: Most of the armored shell of a warwalker. It appears to have been torn off by some colossal weapon system. All the valuable parts were looted, and the rest is badly deteriorated. -->
+  <VME_AncientWarwalkerShell.description>A maior parte da carcaça blindada de um warwalker. Parece ter sido arrancada por algum sistema de armas colossal. Todas as peças valiosas foram saqueadas, e o resto está muito deteriorado.</VME_AncientWarwalkerShell.description>
+
+  <!-- EN: ancient warwalker torso -->
+  <VME_AncientWarwalkerTorso.label>torso de warwalker antigo</VME_AncientWarwalkerTorso.label>
+
+  <!-- EN: The torso of a mid-scale warwalker which fell here in ancient days. The valuable parts were looted long ago. -->
+  <VME_AncientWarwalkerTorso.description>O torso de um warwalker de médio porte que caiu aqui em tempos antigos. As peças valiosas foram saqueadas há muito tempo.</VME_AncientWarwalkerTorso.description>
+
+  <!-- EN: ancient washing machine -->
+  <VME_AncientWashingMachine.label>máquina de lavar antiga</VME_AncientWashingMachine.label>
+
+  <!-- EN: An ancient device used for washing textiles. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say. -->
+  <VME_AncientWashingMachine.description>Um aparelho antigo para lavar tecidos. Destroçado e enferrujado, agora é completamente inútil.\n\nÉ difícil dizer como veio parar aqui.</VME_AncientWashingMachine.description>
+
+  <!-- EN: ancient wheel -->
+  <VME_AncientWheel.label>roda antiga</VME_AncientWheel.label>
+
+  <!-- EN: An ancient wheel from some kind of vehicle. The rubber has deteriorated away and the metal is twisted and rusted. -->
+  <VME_AncientWheel.description>Uma roda antiga de algum tipo de veículo. A borracha se deteriorou, e o metal está retorcido e enferrujado.</VME_AncientWheel.description>
+
+  <!-- EN: bonfire -->
+  <VME_Bonfire.label>fogueira</VME_Bonfire.label>
+
+  <!-- EN: An incredibly large and bright-burning bonfire made out of a carefully organized pile of logs on a stone base. Used heavily during flame-based rituals and can only be placed outdoors. -->
+  <VME_Bonfire.description>Uma fogueira enorme e de chama intensa, feita de troncos cuidadosamente empilhados sobre uma base de pedra. Muito usada em rituais ligados às chamas, só pode ser instalada ao ar livre.</VME_Bonfire.description>
+
+  <!-- EN: bonfire -->
+  <VME_BonfireAfterRitual.label>fogueira</VME_BonfireAfterRitual.label>
+
+  <!-- EN: An incredibly large and bright-burning bonfire made out of a carefully organized pile of logs on a stone base. Used heavily during flame-based rituals and can only be placed outdoors. Will last for at least two quadrums and provide beauty nearby, as well as count for the Fire: Desired precept. -->
+  <VME_BonfireAfterRitual.description>Uma fogueira enorme e de chama intensa, feita de troncos cuidadosamente empilhados sobre uma base de pedra. Muito usada em rituais ligados às chamas, só pode ser instalada ao ar livre. Dura pelo menos dois quadrums, concede beleza nas proximidades e conta para o preceito Fogo: Desejado.</VME_BonfireAfterRitual.description>
+
+  <!-- EN: insect nest -->
+  <VME_InsectNest.label>ninho de insetos</VME_InsectNest.label>
+
+  <!-- EN: A large, swollen hive that seems to be seeping high amounts of bubbling insectoid jelly but not incubating any insectoids themselves.\n\nThe nest will need maintenance by a colonist with the insectoid herder role. If maintenance reaches 0%, the nest will be destroyed.\n\nInsect nest maintenance is a Handling job that gets auto-queued if the hive's maintenance is lower than 50%.. -->
+  <VME_InsectNest.description>Uma colmeia grande e inchada que parece expelir grandes quantidades de geleia borbulhante, mas não incuba insetoides.\n\nO ninho precisa da manutenção de um colono com a função de pastor de insetoides. Se a manutenção chegar a 0%, o ninho será destruído.\n\nA manutenção do ninho é uma tarefa de Adestramento, agendada automaticamente quando a manutenção da colmeia fica abaixo de 50%.</VME_InsectNest.description>
+
+  <!-- EN: mechanoid effigy -->
+  <VME_MechanoidEffigy.label>efígie mecanoide</VME_MechanoidEffigy.label>
+
+  <!-- EN: A structure assembled from scrapped mechanoid parts. Emits an IFF programming signal capable of confusing ancient mechanoid receptors. Should two exist per colonist enough signal noise will soft reset ancient mechanoid programming, causing an immediate retreat. This will only work on raiding mechanoids, clusters and "boss" mechanoids won't be affected. -->
+  <VME_MechanoidEffigy.description>Uma estrutura montada com peças de mecanoides descartadas. Emite um sinal de identificação amigo-inimigo capaz de confundir receptores mecanoides antigos. Duas por colono geram ruído suficiente para reiniciar parcialmente a programação dos mecanoides antigos, causando uma retirada imediata. Só funciona contra mecanoides invasores; agrupamentos e mecanoides "chefes" não são afetados.</VME_MechanoidEffigy.description>
+
+  <!-- EN: ominous obelisk -->
+  <VME_Obelisk.label>obelisco sinistro</VME_Obelisk.label>
+
+  <!-- EN: An ominous-looking obelisk of pure chiseled stone. It seems to radiate an aura of hopelessness and despair.\n\nThe Corruption need of any colonist in an obelisk's radius of effect won't decrease. -->
+  <VME_Obelisk.description>Um obelisco sinistro de pedra pura talhada. Parece irradiar uma aura de desesperança e desespero.\n\nA necessidade de Corrupção de qualquer colono dentro do alcance de um obelisco não diminui.</VME_Obelisk.description>
+
+  <!-- EN: wicker man -->
+  <VME_WickerMan.label>homem de vime</VME_WickerMan.label>
+
+  <!-- EN: A large humanoid figure made out of dry brush, thatch, and wood scraps. Prisoners have to be physically restrained to the figurine then burned alive as part of a trial or ritual. -->
+  <VME_WickerMan.description>Uma grande figura humanoide de galhos secos, palha e restos de madeira. Prisioneiros precisam ser presos à figura e então queimados vivos como parte de um julgamento ou ritual.</VME_WickerMan.description>
+
+  <!-- EN: eldritch slab (broad) -->
+  <VME_EldritchSlab_Broad.label>laje sobrenatural (larga)</VME_EldritchSlab_Broad.label>
+
+  <!-- EN: A stone bas relief of eldritch imagery for decorating a floor. -->
+  <VME_EldritchSlab_Broad.description>Um baixo-relevo de pedra com imagens sobrenaturais para decorar o piso.</VME_EldritchSlab_Broad.description>
+
+  <!-- EN: eldritch slab (medium) -->
+  <VME_EldritchSlab_Medium.label>laje sobrenatural (média)</VME_EldritchSlab_Medium.label>
+
+  <!-- EN: A stone bas relief of eldritch imagery for decorating a floor. -->
+  <VME_EldritchSlab_Medium.description>Um baixo-relevo de pedra com imagens sobrenaturais para decorar o piso.</VME_EldritchSlab_Medium.description>
+
+  <!-- EN: esotericism slab (broad) -->
+  <VME_EsotericismSlab_Broad.label>laje esotérica (larga)</VME_EsotericismSlab_Broad.label>
+
+  <!-- EN: A stone bas relief of esoteric imagery for decorating a floor. -->
+  <VME_EsotericismSlab_Broad.description>Um baixo-relevo de pedra com imagens esotéricas para decorar o piso.</VME_EsotericismSlab_Broad.description>
+
+  <!-- EN: esotericism slab (medium) -->
+  <VME_EsotericismSlab_Medium.label>laje esotérica (média)</VME_EsotericismSlab_Medium.label>
+
+  <!-- EN: A stone bas relief of esoteric imagery for decorating a floor. -->
+  <VME_EsotericismSlab_Medium.description>Um baixo-relevo de pedra com imagens esotéricas para decorar o piso.</VME_EsotericismSlab_Medium.description>
+
+  <!-- EN: serketist slab (broad) -->
+  <VME_SerketistSlab_Broad.label>laje serketista (larga)</VME_SerketistSlab_Broad.label>
+
+  <!-- EN: A stone bas relief of serketist imagery for decorating a floor. -->
+  <VME_SerketistSlab_Broad.description>Um baixo-relevo de pedra com imagens serketistas para decorar o piso.</VME_SerketistSlab_Broad.description>
+
+  <!-- EN: serketist slab (medium) -->
+  <VME_SerketistSlab_Medium.label>laje serketista (média)</VME_SerketistSlab_Medium.label>
+
+  <!-- EN: A stone bas relief of serketist imagery for decorating a floor. -->
+  <VME_SerketistSlab_Medium.description>Um baixo-relevo de pedra com imagens serketistas para decorar o piso.</VME_SerketistSlab_Medium.description>
+
+  <!-- EN: shintao slab (broad) -->
+  <VME_TaoistSlab_Broad.label>laje xintaoísta (larga)</VME_TaoistSlab_Broad.label>
+
+  <!-- EN: A stone bas relief of shintao imagery for decorating a floor. -->
+  <VME_TaoistSlab_Broad.description>Um baixo-relevo de pedra com imagens xintaoístas para decorar o piso.</VME_TaoistSlab_Broad.description>
+
+  <!-- EN: shintao slab (medium) -->
+  <VME_TaoistSlab_Medium.label>laje xintaoísta (média)</VME_TaoistSlab_Medium.label>
+
+  <!-- EN: A stone bas relief of shintao imagery for decorating a floor. -->
+  <VME_TaoistSlab_Medium.description>Um baixo-relevo de pedra com imagens xintaoístas para decorar o piso.</VME_TaoistSlab_Medium.description>
+
+  <!-- EN: fleshcrafted arm -->
+  <VME_FleshcraftedArm.label>braço de carne moldada</VME_FleshcraftedArm.label>
+
+  <!-- EN: A biological human arm, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedArm.description>Um braço humano biológico, moldado a partir de um cadáver. Pode ser instalado com segurança em colonos que seguem uma ideologia de Moldagem de Carne, mas causa infecções por rejeição de órgãos nos demais.</VME_FleshcraftedArm.description>
+
+  <!-- EN: fleshcrafted ear -->
+  <VME_FleshcraftedEar.label>orelha de carne moldada</VME_FleshcraftedEar.label>
+
+  <!-- EN: A biological human ear, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedEar.description>Uma orelha humana biológica, moldada a partir de um cadáver. Pode ser instalada com segurança em colonos que seguem uma ideologia de Moldagem de Carne, mas causa infecções por rejeição de órgãos nos demais.</VME_FleshcraftedEar.description>
+
+  <!-- EN: fleshcrafted eye -->
+  <VME_FleshcraftedEye.label>olho de carne moldada</VME_FleshcraftedEye.label>
+
+  <!-- EN: A biological human eye, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedEye.description>Um olho humano biológico, moldado a partir de um cadáver. Pode ser instalado com segurança em colonos que seguem uma ideologia de Moldagem de Carne, mas causa infecções por rejeição de órgãos nos demais.</VME_FleshcraftedEye.description>
+
+  <!-- EN: fleshcrafted finger -->
+  <VME_FleshcraftedFinger.label>dedo de carne moldada</VME_FleshcraftedFinger.label>
+
+  <!-- EN: A biological human finger, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedFinger.description>Um dedo humano biológico, moldado a partir de um cadáver. Pode ser instalado com segurança em colonos que seguem uma ideologia de Moldagem de Carne, mas causa infecções por rejeição de órgãos nos demais.</VME_FleshcraftedFinger.description>
+
+  <!-- EN: fleshcrafted foot -->
+  <VME_FleshcraftedFoot.label>pé de carne moldada</VME_FleshcraftedFoot.label>
+
+  <!-- EN: A biological human foot, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedFoot.description>Um pé humano biológico, moldado a partir de um cadáver. Pode ser instalado com segurança em colonos que seguem uma ideologia de Moldagem de Carne, mas causa infecções por rejeição de órgãos nos demais.</VME_FleshcraftedFoot.description>
+
+  <!-- EN: fleshcrafted hand -->
+  <VME_FleshcraftedHand.label>mão de carne moldada</VME_FleshcraftedHand.label>
+
+  <!-- EN: A biological human hand, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedHand.description>Uma mão humana biológica, moldada a partir de um cadáver. Pode ser instalada com segurança em colonos que seguem uma ideologia de Moldagem de Carne, mas causa infecções por rejeição de órgãos nos demais.</VME_FleshcraftedHand.description>
+
+  <!-- EN: fleshcrafted heart -->
+  <VME_FleshcraftedHeart.label>coração de carne moldada</VME_FleshcraftedHeart.label>
+
+  <!-- EN: A biological human heart, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedHeart.description>Um coração humano biológico, moldado a partir de um cadáver. Pode ser instalado com segurança em colonos que seguem uma ideologia de Moldagem de Carne, mas causa infecções por rejeição de órgãos nos demais.</VME_FleshcraftedHeart.description>
+
+  <!-- EN: fleshcrafted jaw -->
+  <VME_FleshcraftedJaw.label>mandíbula de carne moldada</VME_FleshcraftedJaw.label>
+
+  <!-- EN: A biological human jaw, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedJaw.description>Uma mandíbula humana biológica, moldada a partir de um cadáver. Pode ser instalada com segurança em colonos que seguem uma ideologia de Moldagem de Carne, mas causa infecções por rejeição de órgãos nos demais.</VME_FleshcraftedJaw.description>
+
+  <!-- EN: fleshcrafted kidney -->
+  <VME_FleshcraftedKidney.label>rim de carne moldada</VME_FleshcraftedKidney.label>
+
+  <!-- EN: A biological human kidney, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedKidney.description>Um rim humano biológico, moldado a partir de um cadáver. Pode ser instalado com segurança em colonos que seguem uma ideologia de Moldagem de Carne, mas causa infecções por rejeição de órgãos nos demais.</VME_FleshcraftedKidney.description>
+
+  <!-- EN: fleshcrafted leg -->
+  <VME_FleshcraftedLeg.label>perna de carne moldada</VME_FleshcraftedLeg.label>
+
+  <!-- EN: A biological human leg, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedLeg.description>Uma perna humana biológica, moldada a partir de um cadáver. Pode ser instalada com segurança em colonos que seguem uma ideologia de Moldagem de Carne, mas causa infecções por rejeição de órgãos nos demais.</VME_FleshcraftedLeg.description>
+
+  <!-- EN: fleshcrafted liver -->
+  <VME_FleshcraftedLiver.label>fígado de carne moldada</VME_FleshcraftedLiver.label>
+
+  <!-- EN: A biological human liver, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedLiver.description>Um fígado humano biológico, moldado a partir de um cadáver. Pode ser instalado com segurança em colonos que seguem uma ideologia de Moldagem de Carne, mas causa infecções por rejeição de órgãos nos demais.</VME_FleshcraftedLiver.description>
+
+  <!-- EN: fleshcrafted lung -->
+  <VME_FleshcraftedLung.label>pulmão de carne moldada</VME_FleshcraftedLung.label>
+
+  <!-- EN: A biological human lung, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedLung.description>Um pulmão humano biológico, moldado a partir de um cadáver. Pode ser instalado com segurança em colonos que seguem uma ideologia de Moldagem de Carne, mas causa infecções por rejeição de órgãos nos demais.</VME_FleshcraftedLung.description>
+
+  <!-- EN: fleshcrafted nose -->
+  <VME_FleshcraftedNose.label>nariz de carne moldada</VME_FleshcraftedNose.label>
+
+  <!-- EN: A biological human nose, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedNose.description>Um nariz humano biológico, moldado a partir de um cadáver. Pode ser instalado com segurança em colonos que seguem uma ideologia de Moldagem de Carne, mas causa infecções por rejeição de órgãos nos demais.</VME_FleshcraftedNose.description>
+
+  <!-- EN: fleshcrafted spine -->
+  <VME_FleshcraftedSpine.label>coluna de carne moldada</VME_FleshcraftedSpine.label>
+
+  <!-- EN: A biological human spine, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedSpine.description>Uma coluna humana biológica, moldada a partir de um cadáver. Pode ser instalada com segurança em colonos que seguem uma ideologia de Moldagem de Carne, mas causa infecções por rejeição de órgãos nos demais.</VME_FleshcraftedSpine.description>
+
+  <!-- EN: fleshcrafted stomach -->
+  <VME_FleshcraftedStomach.label>estômago de carne moldada</VME_FleshcraftedStomach.label>
+
+  <!-- EN: A biological human stomach, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedStomach.description>Um estômago humano biológico, moldado a partir de um cadáver. Pode ser instalado com segurança em colonos que seguem uma ideologia de Moldagem de Carne, mas causa infecções por rejeição de órgãos nos demais.</VME_FleshcraftedStomach.description>
+
+  <!-- EN: fleshcrafted toe -->
+  <VME_FleshcraftedToe.label>dedo do pé de carne moldada</VME_FleshcraftedToe.label>
+
+  <!-- EN: A biological human toe, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedToe.description>Um dedo do pé humano biológico, moldado a partir de um cadáver. Pode ser instalado com segurança em colonos que seguem uma ideologia de Moldagem de Carne, mas causa infecções por rejeição de órgãos nos demais.</VME_FleshcraftedToe.description>
+
+  <!-- EN: fleshcrafted tongue -->
+  <VME_FleshcraftedTongue.label>língua de carne moldada</VME_FleshcraftedTongue.label>
+
+  <!-- EN: A biological human tongue, fleshcrafted from a corpse. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_FleshcraftedTongue.description>Uma língua humana biológica, moldada a partir de um cadáver. Pode ser instalada com segurança em colonos que seguem uma ideologia de Moldagem de Carne, mas causa infecções por rejeição de órgãos nos demais.</VME_FleshcraftedTongue.description>
+
+  <!-- EN: Mote -->
+  <VME_Atom.label>Partícula</VME_Atom.label>
+
+  <!-- EN: Mote -->
+  <VME_CrystalBall.label>Partícula</VME_CrystalBall.label>
+
+  <!-- EN: Mote -->
+  <VME_EldritchRune.label>Partícula</VME_EldritchRune.label>
+
+  <!-- EN: Mote -->
+  <VME_GreekColumn.label>Partícula</VME_GreekColumn.label>
+
+  <!-- EN: Mote -->
+  <VME_HugeStar.label>Partícula</VME_HugeStar.label>
+
+  <!-- EN: Mote -->
+  <VME_OmnistSymbol.label>Partícula</VME_OmnistSymbol.label>
+
+  <!-- EN: Mote -->
+  <VME_PantheistSymbol.label>Partícula</VME_PantheistSymbol.label>
+
+  <!-- EN: Mote -->
+  <VME_PentagramsMote.label>Partícula</VME_PentagramsMote.label>
+
+  <!-- EN: Mote -->
+  <VME_Statue.label>Partícula</VME_Statue.label>
+
+  <!-- EN: Mote -->
+  <VME_SwderptikaMote.label>Partícula</VME_SwderptikaMote.label>
+
+  <!-- EN: Mote -->
+  <VME_Yoga.label>Partícula</VME_Yoga.label>
+
+  <!-- EN: Mote -->
+  <VME_Mote_TradingStandard.label>Partícula</VME_Mote_TradingStandard.label>
+</LanguageData>
+

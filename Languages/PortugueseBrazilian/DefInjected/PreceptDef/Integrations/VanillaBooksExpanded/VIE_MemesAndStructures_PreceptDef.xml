@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: desired -->
+  <VME_BookReading_Desired.label>desejado</VME_BookReading_Desired.label>
+
+  <!-- EN: It’s important to soak up every bit of information we can, how else are we supposed to learn? Most books are even quite entertaining to boot. -->
+  <VME_BookReading_Desired.description>É importante absorver toda informação possível; de que outra forma aprenderíamos? E a maioria dos livros ainda é bastante divertida.</VME_BookReading_Desired.description>
+
+  <!-- EN: disliked -->
+  <VME_BookReading_Disliked.label>desaprovado</VME_BookReading_Disliked.label>
+
+  <!-- EN: Reading is just such a chore. We retain nothing from it. -->
+  <VME_BookReading_Disliked.description>Ler é uma tarefa tão enfadonha. Não retemos nada do que lemos.</VME_BookReading_Disliked.description>
+
+  <!-- EN: disliked -->
+  <VME_BookWriting_Disliked.label>desaprovado</VME_BookWriting_Disliked.label>
+
+  <!-- EN: Why write down what can be taught much quicker semantically or through trial and error? What an absolute waste of time. -->
+  <VME_BookWriting_Disliked.description>Por que escrever o que pode ser ensinado muito mais rápido pela linguagem ou por tentativa e erro? Que absoluta perda de tempo.</VME_BookWriting_Disliked.description>
+
+  <!-- EN: Put sinful words into paper -->
+  <VME_BookWriting_Disliked.comps.1.description>Pôs palavras pecaminosas no papel</VME_BookWriting_Disliked.comps.1.description>
+
+  <!-- EN: exalted -->
+  <VME_BookWriting_Exalted.label>exaltado</VME_BookWriting_Exalted.label>
+
+  <!-- EN: Passing on one's knowledge is a purely respectful act. The authors of this world and their heirs shall be the ones to inherit it and all of its fruits. -->
+  <VME_BookWriting_Exalted.description>Transmitir conhecimento é um ato de puro respeito. Os autores deste mundo e seus herdeiros herdarão a terra e todos os seus frutos.</VME_BookWriting_Exalted.description>
+
+  <!-- EN: Wrote an amazing new book -->
+  <VME_BookWriting_Exalted.comps.1.description>Escreveu um novo livro incrível</VME_BookWriting_Exalted.comps.1.description>
+
+  <!-- EN: decreased -->
+  <VME_BookWritingSpeed_Decreased.label>diminuída</VME_BookWritingSpeed_Decreased.label>
+
+  <!-- EN: Writing is a chore, something that wastes time and requires a huge effort. -->
+  <VME_BookWritingSpeed_Decreased.description>Escrever é uma tarefa enfadonha, uma perda de tempo que exige um esforço enorme.</VME_BookWritingSpeed_Decreased.description>
+
+  <!-- EN: increased -->
+  <VME_BookWritingSpeed_Increased.label>aumentada</VME_BookWritingSpeed_Increased.label>
+
+  <!-- EN: Writing comes naturally to us, and we do it fast and efficiently. -->
+  <VME_BookWritingSpeed_Increased.description>Escrever é natural para nós, e fazemos isso com rapidez e eficiência.</VME_BookWritingSpeed_Increased.description>
+
+  <!-- EN: required -->
+  <VME_Library_Required.label>necessário</VME_Library_Required.label>
+
+  <!-- EN: A place of learning is essential for our community. A nice collection of marvelous tomes and filled shelves will fill our hearts with joy.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists gets mood penalties / bonuses depending on size of library rooms found in the map. Only library rooms with an impressiveness of "decent" or higher will count for this calculation. Libraries will need to be clean or colonists will complain too! -->
+  <VME_Library_Required.description>Um lugar de aprendizado é essencial para nossa comunidade. Uma bela coleção de livros maravilhosos e estantes cheias encherá nossos corações de alegria.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt;\n - Colonos recebem penalidades ou bônus de humor conforme o tamanho das bibliotecas no mapa. Apenas salas com imponência "decente" ou superior contam. As bibliotecas também precisam estar limpas, ou os colonos reclamarão!</VME_Library_Required.description>
+
+  <!-- EN: <li>Need library</li><li>Unimpressive library (less than decent impressiveness)</li><li>Dirty library</li><li>Small library (less than 50 tiles)</li><li>Spacious library (less than 100 tiles)</li><li>Huge library (more than 100 tiles)</li> -->
+  <VME_Library_Required.comps.0.thoughtStageDescriptions>
+    <li>Precisa de biblioteca</li>
+    <li>Biblioteca pouco impressionante (imponência abaixo de decente)</li>
+    <li>Biblioteca suja</li>
+    <li>Biblioteca pequena (menos de 50 células)</li>
+    <li>Biblioteca espaçosa (menos de 100 células)</li>
+    <li>Biblioteca enorme (mais de 100 células)</li>
+  </VME_Library_Required.comps.0.thoughtStageDescriptions>
+</LanguageData>
+
