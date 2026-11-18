@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: This factory is not working at the moment. -->
+  <VFEFactory_FactoryNotWorking>Esta fábrica não está funcionando no momento.</VFEFactory_FactoryNotWorking>
+
+  <!-- EN: Overclock: {0} -->
+  <VFEFactory_Overclock>Overclock: {0}</VFEFactory_Overclock>
+
+  <!-- EN: Overclock production -->
+  <VFEFactory_OverclockWindowLabel>Ajustar overclock da produção</VFEFactory_OverclockWindowLabel>
+
+  <!-- EN: Increase energy usage to operate at a faster rate. {0} -->
+  <VFEFactory_OverclockDesc>Aumente o consumo de energia para operar mais rápido. {0}</VFEFactory_OverclockDesc>
+
+  <!-- EN: Variable output -->
+  <VFEFactory_VariableOutput>Produção variável</VFEFactory_VariableOutput>
+
+  <!-- EN: 10 steel per body size -->
+  <VFEFactory_SteelPerBodySize>10 unidades de aço por unidade de tamanho corporal</VFEFactory_SteelPerBodySize>
+
+  <!-- EN: 1 chemfuel per 0.1 nutrition -->
+  <VFEFactory_ChemfuelPerNutrition>1 unidade de combustível químico por 0,1 de nutrição</VFEFactory_ChemfuelPerNutrition>
+
+  <!-- EN: 20 blocks of the same stone as the chunk used -->
+  <VFEFactory_MasonryBlocks>20 blocos da mesma pedra do pedaço utilizado</VFEFactory_MasonryBlocks>
+
+  <!-- EN: Meat of the corpse in the form of processed mince -->
+  <VFEFactory_Butchery>Carne do cadáver na forma de carne moída processada</VFEFactory_Butchery>
+
+  <!-- EN: Meat of the corpse in the form of human meat -->
+  <VFEFactory_ButcheryHuman>Carne do cadáver na forma de carne humana</VFEFactory_ButcheryHuman>
+
+  <!-- EN: Meat of the corpse in the form of insect meat -->
+  <VFEFactory_ButcheryInsect>Carne do cadáver na forma de carne de inseto</VFEFactory_ButcheryInsect>
+
+  <!-- EN: Meat of the corpse in the form of twisted meat -->
+  <VFEFactory_ButcheryEntity>Carne do cadáver na forma de carne retorcida</VFEFactory_ButcheryEntity>
+
+  <!-- EN: 24 kibble per 1 nutrition -->
+  <VFEFactory_KibbleOutput>24 unidades de ração por 1 de nutrição</VFEFactory_KibbleOutput>
+
+  <!-- EN: 32 pemmican per 1 nutrition -->
+  <VFEFactory_PemmicanOutput>32 unidades de pemmican por 1 de nutrição</VFEFactory_PemmicanOutput>
+
+  <!-- EN: 20 cans per 1 nutrition -->
+  <VFEFactory_Cans>20 latas por 1 de nutrição</VFEFactory_Cans>
+
+  <!-- EN: 4 meals per 2.4 nutrition -->
+  <VFEFactory_SurvivalMealOutput>4 refeições por 2,4 de nutrição</VFEFactory_SurvivalMealOutput>
+
+  <!-- EN: 4 meals per 2 nutrition -->
+  <VFEFactory_MassProducedMealOutput>4 refeições por 2 de nutrição</VFEFactory_MassProducedMealOutput>
+
+  <!-- EN: 10 baby food per 0.25 nutrition -->
+  <VFEFactory_BabyFoodOutput>10 unidades de papinha para bebê por 0,25 de nutrição</VFEFactory_BabyFoodOutput>
+
+  <!-- EN: 1 to 3 fish -->
+  <VFEFactory_RandomFishAmount>1 a 3 peixes</VFEFactory_RandomFishAmount>
+
+  <!-- EN: Random metals -->
+  <VFEFactory_Metals>Metais aleatórios</VFEFactory_Metals>
+
+  <!-- EN: Change direction -->
+  <VFEFactory_ChangeDirection>Mudar direção</VFEFactory_ChangeDirection>
+
+  <!-- EN: Change the direction of this conveyor belt. -->
+  <VFEFactory_ChangeDirectionDesc>Mude a direção desta esteira transportadora.</VFEFactory_ChangeDirectionDesc>
+
+  <!-- EN: North -->
+  <VFEFactory_DirectionNorth>Norte</VFEFactory_DirectionNorth>
+
+  <!-- EN: East -->
+  <VFEFactory_DirectionEast>Leste</VFEFactory_DirectionEast>
+
+  <!-- EN: South -->
+  <VFEFactory_DirectionSouth>Sul</VFEFactory_DirectionSouth>
+
+  <!-- EN: West -->
+  <VFEFactory_DirectionWest>Oeste</VFEFactory_DirectionWest>
+
+  <!-- EN: Filter -->
+  <VFEFactory_TabSplitterFilter>Filtro</VFEFactory_TabSplitterFilter>
+
+  <!-- EN: Create link -->
+  <VFEFactory_CommandCreateLink>Criar conexão</VFEFactory_CommandCreateLink>
+
+  <!-- EN: Link an underground conveyor entrance and exit together to allow items to pass. -->
+  <VFEFactory_CommandCreateLinkDesc>Conecte uma entrada e uma saída de esteira subterrânea para permitir a passagem de itens.</VFEFactory_CommandCreateLinkDesc>
+
+  <!-- EN: Break link -->
+  <VFEFactory_CommandBreakLink>Desfazer conexão</VFEFactory_CommandBreakLink>
+
+  <!-- EN: Unlink an underground conveyor entrance and exit, allowing for new links to be established. -->
+  <VFEFactory_CommandBreakLinkDesc>Desconecte uma entrada e uma saída de esteira subterrânea para permitir novas conexões.</VFEFactory_CommandBreakLinkDesc>
+
+  <!-- EN: Select linked -->
+  <VFEFactory_CommandSelectLinked>Selecionar estrutura conectada</VFEFactory_CommandSelectLinked>
+
+  <!-- EN: Show and select the linked structure. -->
+  <VFEFactory_CommandSelectLinkedDesc>Mostre e selecione a estrutura conectada.</VFEFactory_CommandSelectLinkedDesc>
+
+  <!-- EN: Doesn't work due to missing link to an underground conveyor exit. -->
+  <VFEFactory_ConnectionMissing>Não funciona porque falta uma conexão com uma saída de esteira subterrânea.</VFEFactory_ConnectionMissing>
+
+  <!-- EN: Can't link: Already linked. -->
+  <VFEFactory_AlreadyLinked>Não é possível conectar: já existe uma conexão.</VFEFactory_AlreadyLinked>
+
+  <!-- EN: Can't link: Cannot link to self. -->
+  <VFEFactory_CantLinkSelf>Não é possível conectar: não pode se conectar a si mesma.</VFEFactory_CantLinkSelf>
+
+  <!-- EN: Can't link: {0} is not a valid link target. -->
+  <VFEFactory_NotValidTarget>Não é possível conectar: {0} não é um destino de conexão válido.</VFEFactory_NotValidTarget>
+
+  <!-- EN: Items underground: {0} -->
+  <VFEFactory_ItemsUnderground>Itens no subsolo: {0}</VFEFactory_ItemsUnderground>
+
+  <!-- EN: Increase zone -->
+  <VFEFactory_IncreaseZone>Ampliar zona</VFEFactory_IncreaseZone>
+
+  <!-- EN: Extend the zone in which autofarmer will harvest and sow crops. -->
+  <VFEFactory_IncreaseZoneDesc>Amplie a zona em que o agricultor automático colherá e semeará cultivos.</VFEFactory_IncreaseZoneDesc>
+
+  <!-- EN: Decrease zone -->
+  <VFEFactory_DecreaseZone>Reduzir zona</VFEFactory_DecreaseZone>
+
+  <!-- EN: Contract the zone in which autofarmer will harvest and sow crops. -->
+  <VFEFactory_DecreaseZoneDesc>Reduza a zona em que o agricultor automático colherá e semeará cultivos.</VFEFactory_DecreaseZoneDesc>
+
+  <!-- EN: Start -->
+  <VFEFactory_StartAutofarmer>Iniciar</VFEFactory_StartAutofarmer>
+
+  <!-- EN: Initiate the autofarmer now. It will move through the designated zone, harvesting and sowing crops. It will return back to the autofarmer platform when done. -->
+  <VFEFactory_StartAutofarmerDesc>Inicie o agricultor automático agora. Ele percorrerá a zona designada, colhendo e semeando cultivos. Ao terminar, retornará à plataforma.</VFEFactory_StartAutofarmerDesc>
+
+  <!-- EN: Cancel -->
+  <VFEFactory_CancelAutofarmer>Cancelar</VFEFactory_CancelAutofarmer>
+
+  <!-- EN: Cancel the process and have the autofarmer return to the platform. -->
+  <VFEFactory_CancelAutofarmerDesc>Cancele o processo e faça o agricultor automático retornar à plataforma.</VFEFactory_CancelAutofarmerDesc>
+
+  <!-- EN: Autoharvesting -->
+  <VFEFactory_Autoharvesting>Colheita automática</VFEFactory_Autoharvesting>
+
+  <!-- EN: Enable or disable automatic harvesting and plant cutting in the designated zone. -->
+  <VFEFactory_AutoharvestingDesc>Ative ou desative a colheita automática e o corte de plantas na zona designada.</VFEFactory_AutoharvestingDesc>
+
+  <!-- EN: Autosowing -->
+  <VFEFactory_Autosowing>Semeadura automática</VFEFactory_Autosowing>
+
+  <!-- EN: Enable or disable automatic sowing of the selected crop. -->
+  <VFEFactory_AutosowingDesc>Ative ou desative a semeadura automática do cultivo selecionado.</VFEFactory_AutosowingDesc>
+
+  <!-- EN: Autocycle when grown -->
+  <VFEFactory_AutocycleWhenGrown>Repetir ciclo quando crescer</VFEFactory_AutocycleWhenGrown>
+
+  <!-- EN: Enable or disable an automatic harvesting/sowing cycle when crops in the zone reach 100% maturity. -->
+  <VFEFactory_AutocycleWhenGrownDesc>Ative ou desative um ciclo automático de colheita e semeadura quando os cultivos da zona atingirem 100% de maturidade.</VFEFactory_AutocycleWhenGrownDesc>
+
+  <!-- EN: Autofarmer cannot initiate due to a large object obstructing its path. -->
+  <VFEFactory_AutofarmerObstructed>O agricultor automático não pode iniciar porque um objeto grande está bloqueando seu caminho.</VFEFactory_AutofarmerObstructed>
+
+  <!-- EN: Haul from conveyor -->
+  <VFEFactory_HaulFromConveyor>Transportar da esteira</VFEFactory_HaulFromConveyor>
+
+  <!-- EN: Cannot haul from conveyor -->
+  <VFEFactory_CannotHaulFromConveyor>Não é possível transportar da esteira</VFEFactory_CannotHaulFromConveyor>
+
+  <!-- EN: Needs to be built on water -->
+  <VFEFactory_NeedsWater>Precisa ser construído na água</VFEFactory_NeedsWater>
+
+  <!-- EN: Needs to be built on water that supports fish -->
+  <VFEFactory_NeedsFish>Precisa ser construído em águas que sustentem peixes</VFEFactory_NeedsFish>
+
+  <!-- EN: Fish farm output needs to be on land -->
+  <VFEFactory_OutputOnLand>A saída do criadouro de peixes precisa estar em terra</VFEFactory_OutputOnLand>
+
+  <!-- EN: Allow taking -->
+  <VFEFactory_AllowTaking>Permitir retirada</VFEFactory_AllowTaking>
+
+  <!-- EN: Allow colonists to take items from this factory hopper. -->
+  <VFEFactory_AllowTakingDesc>Permita que colonos retirem itens deste alimentador de fábrica.</VFEFactory_AllowTakingDesc>
+
+  <!-- EN: Allow inserting -->
+  <VFEFactory_AllowInserting>Permitir inserção</VFEFactory_AllowInserting>
+
+  <!-- EN: Allow colonists to manually insert items into this factory hopper. -->
+  <VFEFactory_AllowInsertingDesc>Permita que colonos insiram itens manualmente neste alimentador de fábrica.</VFEFactory_AllowInsertingDesc>
+
+  <!-- EN: Force haul -->
+  <VFEFactory_ForceHaul>Forçar transporte</VFEFactory_ForceHaul>
+
+  <!-- EN: Invalid conveyor configuration: A conveyor cannot have 2 or more inputs and 2 or more outputs. -->
+  <VFEFactory_InvalidConveyorConfiguration>Configuração de esteira inválida: uma esteira não pode ter 2 ou mais entradas e 2 ou mais saídas.</VFEFactory_InvalidConveyorConfiguration>
+
+  <!-- EN: filter belt -->
+  <VFEFactory_FilterBelt>esteira com filtro</VFEFactory_FilterBelt>
+
+  <!-- EN: splitter belt -->
+  <VFEFactory_SplitterBelt>esteira divisora</VFEFactory_SplitterBelt>
+
+  <!-- EN: merger belt -->
+  <VFEFactory_MergerBelt>esteira unificadora</VFEFactory_MergerBelt>
+
+  <!-- EN: refueling port -->
+  <VFEFactory_RefuelingPort>bocal de abastecimento</VFEFactory_RefuelingPort>
+
+</LanguageData>
+

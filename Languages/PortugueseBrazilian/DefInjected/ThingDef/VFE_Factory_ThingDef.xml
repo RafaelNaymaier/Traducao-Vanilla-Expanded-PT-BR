@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: conveyor -->
+  <VFEFactory_Conveyor.label>esteira transportadora</VFEFactory_Conveyor.label>
+
+  <!-- EN: A simple conveyor belt capable of moving an item from one place to the other. Due to safety reasons, items on the conveyor belt cannot be interacted with. -->
+  <VFEFactory_Conveyor.description>Uma esteira transportadora simples capaz de mover um item de um lugar para outro. Por motivos de segurança, não é possível interagir com itens na esteira.</VFEFactory_Conveyor.description>
+
+  <!-- EN: underground conveyor entrance -->
+  <VFEFactory_UndergroundConveyorEntrance.label>entrada de esteira subterrânea</VFEFactory_UndergroundConveyorEntrance.label>
+
+  <!-- EN: A simple entrance tunnel for the conveyor belt, allowing it to travel a short distance underground. Needs to be linked to a nearby underground conveyor exit to work. -->
+  <VFEFactory_UndergroundConveyorEntrance.description>Um túnel de entrada simples para a esteira transportadora, que permite percorrer uma curta distância sob o solo. Precisa estar conectado a uma saída de esteira subterrânea próxima para funcionar.</VFEFactory_UndergroundConveyorEntrance.description>
+
+  <!-- EN: underground conveyor exit -->
+  <VFEFactory_UndergroundConveyorExit.label>saída de esteira subterrânea</VFEFactory_UndergroundConveyorExit.label>
+
+  <!-- EN: A simple exit tunnel for the conveyor belt, allowing it to travel a short distance underground. Needs to be linked to a nearby underground conveyor entrance to work. -->
+  <VFEFactory_UndergroundConveyorExit.description>Um túnel de saída simples para a esteira transportadora, que permite percorrer uma curta distância sob o solo. Precisa estar conectado a uma entrada de esteira subterrânea próxima para funcionar.</VFEFactory_UndergroundConveyorExit.description>
+
+  <!-- EN: autofarmer -->
+  <VFEFactory_Autofarmer.label>agricultor automático</VFEFactory_Autofarmer.label>
+
+  <!-- EN: A large, automated machine that combines the functions of a sower and harvester, moving back and forth across a designated outdoor zone to harvest mature plants and sow new crops. It deposits harvested goods into attached factory hoppers or drops them on the ground if hoppers are not present, and its operation can be set to automatically cycle once the majority of plants in the zone are fully grown. -->
+  <VFEFactory_Autofarmer.description>Uma grande máquina automatizada que combina as funções de semeadora e colheitadeira, movendo-se de um lado para outro em uma zona externa designada para colher plantas maduras e semear novos cultivos. Deposita os produtos colhidos nos alimentadores de fábrica conectados ou os deixa no chão se não houver alimentadores. Pode ser configurada para iniciar um novo ciclo automaticamente quando a maioria das plantas na zona estiver totalmente crescida.</VFEFactory_Autofarmer.description>
+
+  <!-- EN: autoloom -->
+  <VFEFactory_Autoloom.label>tear automático</VFEFactory_Autoloom.label>
+
+  <!-- EN: An industrial-grade loom designed for the automatic production of textiles and apparel, it efficiently weaves materials like cloth and leather into various finished goods. It can only output goods of normal quality.\n\nFactory buildings need factory hoppers for input and output. They produce significant heat and consume much power, but can be overclocked for higher efficiency, increasing both heat generation and power consumption. Needs to be constructed on factory floor. -->
+  <VFEFactory_Autoloom.description>Um tear industrial projetado para a produção automática de tecidos e vestuário. Transforma materiais como tecido e couro em diversos produtos acabados com eficiência. Só pode produzir itens de qualidade normal.\n\nAs instalações fabris precisam de alimentadores de fábrica para entrada e saída de materiais. Geram muito calor e consomem muita energia, mas podem operar com overclock para aumentar a eficiência, elevando tanto a geração de calor quanto o consumo de energia. Precisam ser construídas sobre piso de fábrica.</VFEFactory_Autoloom.description>
+
+  <!-- EN: automated alloy forge -->
+  <VFEFactory_AutomatedAlloyForge.label>forja de ligas automatizada</VFEFactory_AutomatedAlloyForge.label>
+
+  <!-- EN: A colossal industrial furnace built to contain the immense heat and pressure needed to bond base materials into exotic alloys like plasteel.\n\nFactory buildings need factory hoppers for input and output. They produce significant heat and consume much power, but can be overclocked for higher efficiency, increasing both heat generation and power consumption. Needs to be constructed on factory floor. -->
+  <VFEFactory_AutomatedAlloyForge.description>Uma fornalha industrial colossal construída para conter o imenso calor e a pressão necessários para unir materiais básicos em ligas exóticas, como o plastiaço.\n\nAs instalações fabris precisam de alimentadores de fábrica para entrada e saída de materiais. Geram muito calor e consomem muita energia, mas podem operar com overclock para aumentar a eficiência, elevando tanto a geração de calor quanto o consumo de energia. Precisam ser construídas sobre piso de fábrica.</VFEFactory_AutomatedAlloyForge.description>
+
+  <!-- EN: automated ammunition press -->
+  <VFEFactory_AutomatedAmmunitionPress.label>prensa de munição automatizada</VFEFactory_AutomatedAmmunitionPress.label>
+
+  <!-- EN: An industrial-grade press capable of automatically manufacturing various artillery shells from raw materials.\n\nFactory buildings need factory hoppers for input and output. They produce significant heat and consume much power, but can be overclocked for higher efficiency, increasing both heat generation and power consumption. Needs to be constructed on factory floor. -->
+  <VFEFactory_AutomatedAmmunitionPress.description>Uma prensa industrial capaz de fabricar automaticamente diversos projéteis de artilharia a partir de matérias-primas.\n\nAs instalações fabris precisam de alimentadores de fábrica para entrada e saída de materiais. Geram muito calor e consomem muita energia, mas podem operar com overclock para aumentar a eficiência, elevando tanto a geração de calor quanto o consumo de energia. Precisam ser construídas sobre piso de fábrica.</VFEFactory_AutomatedAmmunitionPress.description>
+
+  <!-- EN: automated assembler -->
+  <VFEFactory_AutomatedAssembler.label>montadora automatizada</VFEFactory_AutomatedAssembler.label>
+
+  <!-- EN: An automated industrial machine for assembling complex items like components and advanced components.\n\nFactory buildings need factory hoppers for input and output. They produce significant heat and consume much power, but can be overclocked for higher efficiency, increasing both heat generation and power consumption. Needs to be constructed on factory floor. -->
+  <VFEFactory_AutomatedAssembler.description>Uma máquina industrial automatizada para montar itens complexos, como componentes comuns e avançados.\n\nAs instalações fabris precisam de alimentadores de fábrica para entrada e saída de materiais. Geram muito calor e consomem muita energia, mas podem operar com overclock para aumentar a eficiência, elevando tanto a geração de calor quanto o consumo de energia. Precisam ser construídas sobre piso de fábrica.</VFEFactory_AutomatedAssembler.description>
+
+  <!-- EN: automated biofuel refinery -->
+  <VFEFactory_AutomatedBiofuelRefinery.label>refinaria de biocombustível automatizada</VFEFactory_AutomatedBiofuelRefinery.label>
+
+  <!-- EN: Automatically refines biological matter like wood or plant matter into chemfuel.\n\nFactory buildings need factory hoppers for input and output. They produce significant heat and consume much power, but can be overclocked for higher efficiency, increasing both heat generation and power consumption. Needs to be constructed on factory floor. -->
+  <VFEFactory_AutomatedBiofuelRefinery.description>Refina automaticamente matéria biológica, como madeira ou matéria vegetal, para produzir combustível químico.\n\nAs instalações fabris precisam de alimentadores de fábrica para entrada e saída de materiais. Geram muito calor e consomem muita energia, mas podem operar com overclock para aumentar a eficiência, elevando tanto a geração de calor quanto o consumo de energia. Precisam ser construídas sobre piso de fábrica.</VFEFactory_AutomatedBiofuelRefinery.description>
+
+  <!-- EN: conveyor crematorium -->
+  <VFEFactory_AutomatedCrematorium.label>crematório de esteira</VFEFactory_AutomatedCrematorium.label>
+
+  <!-- EN: An industrial-grade furnace designed for the automated destruction of unwanted items, especially corpses and tainted apparel, using extreme heat.\n\nFactory buildings need factory hoppers for input and output. They produce significant heat and consume much power, but can be overclocked for higher efficiency, increasing both heat generation and power consumption. Needs to be constructed on factory floor. -->
+  <VFEFactory_AutomatedCrematorium.description>Uma fornalha industrial projetada para destruir automaticamente itens indesejados, especialmente cadáveres e vestuário contaminado, usando calor extremo.\n\nAs instalações fabris precisam de alimentadores de fábrica para entrada e saída de materiais. Geram muito calor e consomem muita energia, mas podem operar com overclock para aumentar a eficiência, elevando tanto a geração de calor quanto o consumo de energia. Precisam ser construídas sobre piso de fábrica.</VFEFactory_AutomatedCrematorium.description>
+
+  <!-- EN: automated distillery -->
+  <VFEFactory_AutomatedDistillery.label>destilaria automatizada</VFEFactory_AutomatedDistillery.label>
+
+  <!-- EN: An automated industrial distilling system for the mass production of beer and spirits from raw crops, requiring no manual labor.\n\nFactory buildings need factory hoppers for input and output. They produce significant heat and consume much power. Needs to be constructed on factory floor. -->
+  <VFEFactory_AutomatedDistillery.description>Um sistema industrial de destilação automatizado para produzir cerveja e destilados em massa a partir de vegetais crus, sem necessidade de trabalho manual.\n\nAs instalações fabris precisam de alimentadores de fábrica para entrada e saída de materiais. Geram muito calor e consomem muita energia. Precisam ser construídas sobre piso de fábrica.</VFEFactory_AutomatedDistillery.description>
+
+  <!-- EN: automated drill platform -->
+  <VFEFactory_AutomatedDrillPlatform.label>plataforma de perfuração automatizada</VFEFactory_AutomatedDrillPlatform.label>
+
+  <!-- EN: An automated deep-crust drilling rig for extracting minerals from deep under the surface. Capable of extracting stone chunks, but also any metal it finds.\n\nFactory buildings need factory hoppers for input and output. They produce significant heat and consume much power, but can be overclocked for higher efficiency, increasing both heat generation and power consumption. -->
+  <VFEFactory_AutomatedDrillPlatform.description>Uma plataforma automatizada de perfuração profunda para extrair minerais de grandes profundidades sob a superfície. É capaz de extrair pedaços de pedra e qualquer metal que encontrar.\n\nAs instalações fabris precisam de alimentadores de fábrica para entrada e saída de materiais. Geram muito calor e consomem muita energia, mas podem operar com overclock para aumentar a eficiência, elevando tanto a geração de calor quanto o consumo de energia.</VFEFactory_AutomatedDrillPlatform.description>
+
+  <!-- EN: automated machining bay -->
+  <VFEFactory_AutomatedMachiningBay.label>oficina de usinagem automatizada</VFEFactory_AutomatedMachiningBay.label>
+
+  <!-- EN: An automated industrial facility designed for the precision manufacturing of various weapons, armor, and complex equipment. It can only output goods of normal quality.\n\nFactory buildings need factory hoppers for input and output. They produce significant heat and consume much power, but can be overclocked for higher efficiency, increasing both heat generation and power consumption. Needs to be constructed on factory floor. -->
+  <VFEFactory_AutomatedMachiningBay.description>Uma instalação industrial automatizada projetada para a fabricação de precisão de diversas armas, armaduras e equipamentos complexos. Só pode produzir itens de qualidade normal.\n\nAs instalações fabris precisam de alimentadores de fábrica para entrada e saída de materiais. Geram muito calor e consomem muita energia, mas podem operar com overclock para aumentar a eficiência, elevando tanto a geração de calor quanto o consumo de energia. Precisam ser construídas sobre piso de fábrica.</VFEFactory_AutomatedMachiningBay.description>
+
+  <!-- EN: automated masonry saw -->
+  <VFEFactory_AutomatedMasonrySaw.label>serra de alvenaria automatizada</VFEFactory_AutomatedMasonrySaw.label>
+
+  <!-- EN: An industrial machine capable of cutting stone chunks into usable blocks.\n\nFactory buildings need factory hoppers for input and output. They produce significant heat and consume much power, but can be overclocked for higher efficiency, increasing both heat generation and power consumption. Needs to be constructed on factory floor. -->
+  <VFEFactory_AutomatedMasonrySaw.description>Uma máquina industrial capaz de cortar pedaços de pedra para obter blocos utilizáveis.\n\nAs instalações fabris precisam de alimentadores de fábrica para entrada e saída de materiais. Geram muito calor e consomem muita energia, mas podem operar com overclock para aumentar a eficiência, elevando tanto a geração de calor quanto o consumo de energia. Precisam ser construídas sobre piso de fábrica.</VFEFactory_AutomatedMasonrySaw.description>
+
+  <!-- EN: automated mincer -->
+  <VFEFactory_AutomatedMincer.label>moedor automatizado</VFEFactory_AutomatedMincer.label>
+
+  <!-- EN: A series of automated saws and mincers capable of processing corpses into processed mince.\n\nFactory buildings need factory hoppers for input and output. They produce significant heat and consume much power, but can be overclocked for higher efficiency, increasing both heat generation and power consumption. Needs to be constructed on factory floor. -->
+  <VFEFactory_AutomatedMincer.description>Uma série de serras e moedores automatizados capazes de transformar cadáveres em carne moída processada.\n\nAs instalações fabris precisam de alimentadores de fábrica para entrada e saída de materiais. Geram muito calor e consomem muita energia, mas podem operar com overclock para aumentar a eficiência, elevando tanto a geração de calor quanto o consumo de energia. Precisam ser construídas sobre piso de fábrica.</VFEFactory_AutomatedMincer.description>
+
+  <!-- EN: automated smelter -->
+  <VFEFactory_AutomatedSmelter.label>fundidora automatizada</VFEFactory_AutomatedSmelter.label>
+
+  <!-- EN: Extracts usable metal from slag chunks, broken-down weapons, apparel, stone chunks, and mechanoid corpses using strong electromagnets and heat.\n\nFactory buildings need factory hoppers for input and output. They produce significant heat and consume much power, but can be overclocked for higher efficiency, increasing both heat generation and power consumption. Needs to be constructed on factory floor. -->
+  <VFEFactory_AutomatedSmelter.description>Extrai metal utilizável de pedaços de escória, armas desmontadas, vestuário, pedaços de pedra e cadáveres de mecanoides usando eletroímãs potentes e calor.\n\nAs instalações fabris precisam de alimentadores de fábrica para entrada e saída de materiais. Geram muito calor e consomem muita energia, mas podem operar com overclock para aumentar a eficiência, elevando tanto a geração de calor quanto o consumo de energia. Precisam ser construídas sobre piso de fábrica.</VFEFactory_AutomatedSmelter.description>
+
+  <!-- EN: conveyor oven -->
+  <VFEFactory_ConveyorOven.label>forno de esteira</VFEFactory_ConveyorOven.label>
+
+  <!-- EN: An industrial oven for the automated mass-production of simple, shelf-stable, and packaged meals.\n\nFactory buildings need factory hoppers for input and output. They produce significant heat and consume much power, but can be overclocked for higher efficiency, increasing both heat generation and power consumption. Needs to be constructed on factory floor. -->
+  <VFEFactory_ConveyorOven.description>Um forno industrial para produzir automaticamente refeições simples, de longa conservação e embaladas em massa.\n\nAs instalações fabris precisam de alimentadores de fábrica para entrada e saída de materiais. Geram muito calor e consomem muita energia, mas podem operar com overclock para aumentar a eficiência, elevando tanto a geração de calor quanto o consumo de energia. Precisam ser construídas sobre piso de fábrica.</VFEFactory_ConveyorOven.description>
+
+  <!-- EN: medicine granulator -->
+  <VFEFactory_MedicineGranulator.label>granulador de medicamentos</VFEFactory_MedicineGranulator.label>
+
+  <!-- EN: An advanced pharmaceutical processor for the mass-production of basic medical supplies and drug batches from raw materials. It efficiently grinds, synthesizes, and packages items like medicine, psychite drugs, and smokeleaf joints.\n\nFactory buildings need factory hoppers for input and output. They produce significant heat and consume much power, but can be overclocked for higher efficiency, increasing both heat generation and power consumption. Needs to be constructed on factory floor. -->
+  <VFEFactory_MedicineGranulator.description>Um processador farmacêutico avançado para produzir suprimentos médicos básicos e lotes de drogas em massa a partir de matérias-primas. Tritura, sintetiza e embala com eficiência itens como medicamentos, drogas de psicoide e baseados de folha de fumo.\n\nAs instalações fabris precisam de alimentadores de fábrica para entrada e saída de materiais. Geram muito calor e consomem muita energia, mas podem operar com overclock para aumentar a eficiência, elevando tanto a geração de calor quanto o consumo de energia. Precisam ser construídas sobre piso de fábrica.</VFEFactory_MedicineGranulator.description>
+
+  <!-- EN: neutroamine synthesizer -->
+  <VFEFactory_NeutroamineSynthesizer.label>sintetizador de neutroamina</VFEFactory_NeutroamineSynthesizer.label>
+
+  <!-- EN: An advanced chemical facility designed for the automated synthesis of neutroamine from organic feedstocks. It operates by converting rendered animal fat and chemfuel into neutroamine.\n\nFactory buildings need factory hoppers for input and output. They produce significant heat and consume much power, but can be overclocked for higher efficiency, increasing both heat generation and power consumption. Needs to be constructed on factory floor. -->
+  <VFEFactory_NeutroamineSynthesizer.description>Uma instalação química avançada projetada para a síntese automatizada de neutroamina a partir de matérias-primas orgânicas. Converte gordura animal derretida e combustível químico em neutroamina.\n\nAs instalações fabris precisam de alimentadores de fábrica para entrada e saída de materiais. Geram muito calor e consomem muita energia, mas podem operar com overclock para aumentar a eficiência, elevando tanto a geração de calor quanto o consumo de energia. Precisam ser construídas sobre piso de fábrica.</VFEFactory_NeutroamineSynthesizer.description>
+
+  <!-- EN: automated fishfarm -->
+  <VFEFactory_AutomatedFishfarm.label>criadouro de peixes automatizado</VFEFactory_AutomatedFishfarm.label>
+
+  <!-- EN: An industrial fish breeding and harvesting facility designed to automatically extract fish from bodies of water with fish populations.\n\nFactory buildings need factory hoppers for input and output. Needs to be constructed in shallow water. -->
+  <VFEFactory_AutomatedFishfarm.description>Uma instalação industrial de criação e coleta de peixes, projetada para extrair automaticamente peixes de corpos d'água com populações de peixes.\n\nAs instalações fabris precisam de alimentadores de fábrica para entrada e saída de materiais. Precisam ser construídas em águas rasas.</VFEFactory_AutomatedFishfarm.description>
+
+  <!-- EN: automated cannery -->
+  <VFEFactory_AutomatedCannery.label>fábrica de enlatados automatizada</VFEFactory_AutomatedCannery.label>
+
+  <!-- EN: An automated industrial preserving system for the mass production of canned goods from various raw ingredients, requiring no manual labor.\n\nFactory buildings need factory hoppers for input and output. They produce significant heat and consume much power, but can be overclocked for higher efficiency, increasing both heat generation and power consumption. Needs to be constructed on factory floor. -->
+  <VFEFactory_AutomatedCannery.description>Um sistema industrial de conservação automatizado para produzir enlatados em massa a partir de diversos ingredientes crus, sem necessidade de trabalho manual.\n\nAs instalações fabris precisam de alimentadores de fábrica para entrada e saída de materiais. Geram muito calor e consomem muita energia, mas podem operar com overclock para aumentar a eficiência, elevando tanto a geração de calor quanto o consumo de energia. Precisam ser construídas sobre piso de fábrica.</VFEFactory_AutomatedCannery.description>
+
+  <!-- EN: Factory hopper -->
+  <VFEFactory_FactoryHopper.label>Alimentador de fábrica</VFEFactory_FactoryHopper.label>
+
+  <!-- EN: Holds resources for use by factory machines. -->
+  <VFEFactory_FactoryHopper.description>Armazena recursos para uso pelas máquinas da fábrica.</VFEFactory_FactoryHopper.description>
+
+  <!-- EN: factory booster -->
+  <VFEFactory_Booster.label>acelerador de fábrica</VFEFactory_Booster.label>
+
+  <!-- EN: A sensitive micro-processor array designed to enhance the speed and efficiency of industrial factory buildings. It links with nearby factory machines to extend their maximum overclocking limit by an additional 100 percent, allowing for drastically increased production speeds. One factory can use up to three factory boosters. -->
+  <VFEFactory_Booster.description>Um conjunto de microprocessadores sensíveis projetado para aumentar a velocidade e a eficiência das instalações fabris. Conecta-se às máquinas próximas para ampliar o limite máximo de overclock em mais 100 por cento, permitindo velocidades de produção drasticamente maiores. Cada fábrica pode usar até três aceleradores de fábrica.</VFEFactory_Booster.description>
+
+  <!-- EN: factory heatsink -->
+  <VFEFactory_Heatsink.label>dissipador de calor de fábrica</VFEFactory_Heatsink.label>
+
+  <!-- EN: A cooling system designed to draw excess heat away from industrial factory buildings. It links with nearby factory machines to reduce their total heat output by 25%, mitigating the risk of overheating and fire. One factory can use up to four factory heatsinks. -->
+  <VFEFactory_Heatsink.description>Um sistema de resfriamento projetado para retirar o excesso de calor das instalações fabris. Conecta-se às máquinas próximas para reduzir a produção total de calor em 25%, diminuindo o risco de superaquecimento e incêndio. Cada fábrica pode usar até quatro dissipadores de calor de fábrica.</VFEFactory_Heatsink.description>
+
+  <!-- EN: mass-produced meal -->
+  <VFEFactory_MassProducedMeal.label>refeição produzida em massa</VFEFactory_MassProducedMeal.label>
+
+  <!-- EN: A mass-produced meal assembled by machine from processed ingredients. -->
+  <VFEFactory_MassProducedMeal.description>Uma refeição produzida em massa, montada por uma máquina com ingredientes processados.</VFEFactory_MassProducedMeal.description>
+
+  <!-- EN: canned soup -->
+  <VCE_CannedSoup.label>sopa enlatada</VCE_CannedSoup.label>
+
+  <!-- EN: Soup sealed and secured in a steel can effectively extending shelf life indefinitely. -->
+  <VCE_CannedSoup.description>Sopa lacrada e protegida em uma lata de aço, prolongando sua vida útil indefinidamente.</VCE_CannedSoup.description>
+
+  <!-- EN: processed mince -->
+  <VFEFactory_ProcessedMince.label>carne moída processada</VFEFactory_ProcessedMince.label>
+
+  <!-- EN: A block of heavily processed minced meat, safe to eat but with an unappetizing taste. -->
+  <VFEFactory_ProcessedMince.description>Um bloco de carne moída altamente processada, seguro para consumo, mas com sabor pouco apetitoso.</VFEFactory_ProcessedMince.description>
+
+</LanguageData>
+
