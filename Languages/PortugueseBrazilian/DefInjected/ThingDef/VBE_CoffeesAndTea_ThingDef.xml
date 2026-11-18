@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: espresso machine -->
+  <VBE_EspressoMachineBuilding.label>máquina de espresso</VBE_EspressoMachineBuilding.label>
+
+  <!-- EN: An espresso machine brews coffee by forcing pressurized water near boiling point through a "puck" of ground coffee and a filter in order to produce a thick, concentrated coffee called espresso. This particular machine also has the possibility of brewing tea using a separate system. -->
+  <VBE_EspressoMachineBuilding.description>Uma máquina de espresso prepara café forçando água pressurizada, próxima da fervura, através de um disco de café moído e um filtro, produzindo um café espesso e concentrado chamado espresso. Esta máquina também permite preparar chá usando um sistema separado.</VBE_EspressoMachineBuilding.description>
+
+  <!-- EN: breakfast tea -->
+  <VBE_BlackTea.label>chá matinal</VBE_BlackTea.label>
+
+  <!-- EN: A particularly bitter tea softened with creamy milk. A proper morning brew that wakes one up and helps cure minor ailments.\n\n<color=#E5E54C>Gameplay effect:</color>\n - This was called "black tea" until the British tea police under the command of Samuel Streamer intervened. -->
+  <VBE_BlackTea.description>Um chá particularmente amargo, suavizado com leite cremoso. Uma bebida matinal adequada para despertar e ajudar a curar pequenos males.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt;\n - Isto se chamava "chá preto" até a polícia britânica do chá, sob o comando de Samuel Streamer, intervir.</VBE_BlackTea.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_BlackTea.ingestible.ingestCommandString>Beber {0}</VBE_BlackTea.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_BlackTea.ingestible.ingestReportString>Bebendo {0}.</VBE_BlackTea.ingestible.ingestReportString>
+
+  <!-- EN: cannibal coffee -->
+  <VBE_CannibalCoffee.label>café canibal</VBE_CannibalCoffee.label>
+
+  <!-- EN: For a very particular… refined coffee drinker. -->
+  <VBE_CannibalCoffee.description>Para um apreciador de café muito peculiar… e refinado.</VBE_CannibalCoffee.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_CannibalCoffee.ingestible.ingestCommandString>Beber {0}</VBE_CannibalCoffee.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_CannibalCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_CannibalCoffee.ingestible.ingestReportString>
+
+  <!-- EN: dalgona coffee -->
+  <VBE_DalgonaCoffee.label>café dalgona</VBE_DalgonaCoffee.label>
+
+  <!-- EN: A trendy, newer drink in the world of coffee rumored to originate from far off steamworlds. Coffee granules are rapidly mixed with sugar to form a thick, luxuriously sweet foam. Afterwards the foam is dispersed over deeply chilled milk before drinking. Arguably the perfect drink to sip on while studying or reading. -->
+  <VBE_DalgonaCoffee.description>Uma bebida moderna e recente no mundo do café, supostamente originária de distantes mundos a vapor. Grânulos de café são misturados rapidamente com açúcar para formar uma espuma espessa e deliciosamente doce. Depois, a espuma é espalhada sobre leite bem gelado antes do consumo. Talvez seja a bebida perfeita para saborear enquanto se estuda ou lê.</VBE_DalgonaCoffee.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_DalgonaCoffee.ingestible.ingestCommandString>Beber {0}</VBE_DalgonaCoffee.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_DalgonaCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_DalgonaCoffee.ingestible.ingestReportString>
+
+  <!-- EN: earl grey tea -->
+  <VBE_EarlGreyTea.label>chá earl grey</VBE_EarlGreyTea.label>
+
+  <!-- EN: A very strong and semi-sweet fruity tea. Floral notes dance around one's pallet at even the most dull scent. People who finish the drink feel strangely urged to colonize. -->
+  <VBE_EarlGreyTea.description>Um chá frutado muito forte e levemente doce. Notas florais dançam pelo paladar mesmo no aroma mais discreto. Quem termina a bebida sente uma estranha vontade de colonizar.</VBE_EarlGreyTea.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_EarlGreyTea.ingestible.ingestCommandString>Beber {0}</VBE_EarlGreyTea.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_EarlGreyTea.ingestible.ingestReportString>Bebendo {0}.</VBE_EarlGreyTea.ingestible.ingestReportString>
+
+  <!-- EN: espresso romano -->
+  <VBE_LemonCoffee.label>espresso romano</VBE_LemonCoffee.label>
+
+  <!-- EN: A particularly strange combination. Already acidic coffee garnished with a wedge of more acidic lemon, meant to be juiced into the coffee before quickly consumed while hot. An acquired taste to be sure but lauded by those who do prefer it. Specially indicated to combat intestinal parasites. -->
+  <VBE_LemonCoffee.description>Uma combinação particularmente estranha. Um café já ácido, acompanhado de uma fatia de limão ainda mais ácido, que deve ser espremida na bebida antes de consumi-la rapidamente, ainda quente. É certamente um gosto adquirido, mas elogiado por quem o aprecia. Especialmente indicado para combater parasitas intestinais.</VBE_LemonCoffee.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_LemonCoffee.ingestible.ingestCommandString>Beber {0}</VBE_LemonCoffee.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_LemonCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_LemonCoffee.ingestible.ingestReportString>
+
+  <!-- EN: green tea -->
+  <VBE_GreenTea.label>chá verde</VBE_GreenTea.label>
+
+  <!-- EN: A light, citrusy green tea spiked with sugar to create a buttery, almost nutty flavor. -->
+  <VBE_GreenTea.description>Um chá verde leve e cítrico com açúcar, criando um sabor amanteigado, quase de castanhas.</VBE_GreenTea.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_GreenTea.ingestible.ingestCommandString>Beber {0}</VBE_GreenTea.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_GreenTea.ingestible.ingestReportString>Bebendo {0}.</VBE_GreenTea.ingestible.ingestReportString>
+
+  <!-- EN: irish coffee -->
+  <VBE_IrishCoffee.label>café irlandês</VBE_IrishCoffee.label>
+
+  <!-- EN: Whiskey and coffee blended thoroughly before forming a head and being topped with a spoonful of whipped cream. Perfect for those who just got out of bed and are already wanting to go back to it. -->
+  <VBE_IrishCoffee.description>Uísque e café bem misturados, até formar espuma, cobertos com uma colherada de chantili. Perfeito para quem acabou de sair da cama e já quer voltar para ela.</VBE_IrishCoffee.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_IrishCoffee.ingestible.ingestCommandString>Beber {0}</VBE_IrishCoffee.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_IrishCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_IrishCoffee.ingestible.ingestReportString>
+
+  <!-- EN: kombucha tea -->
+  <VBE_Kombucha.label>chá de kombucha</VBE_Kombucha.label>
+
+  <!-- EN: A sugary tea left out to ferment, after fermenting the end product is a sweet and sour, sometimes even naturally fizzy drink known as kombucha. Praised for health benefits, though some remain skeptical. Kombucha acts as a home remedy against the flu, reducing its severity by 5%. -->
+  <VBE_Kombucha.description>Um chá açucarado deixado para fermentar. O resultado é uma bebida agridoce, às vezes naturalmente gaseificada, conhecida como kombucha. É elogiada pelos benefícios à saúde, embora alguns continuem céticos. A kombucha atua como remédio caseiro contra a gripe, reduzindo sua gravidade em 5%.</VBE_Kombucha.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_Kombucha.ingestible.ingestCommandString>Beber {0}</VBE_Kombucha.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_Kombucha.ingestible.ingestReportString>Bebendo {0}.</VBE_Kombucha.ingestible.ingestReportString>
+
+  <!-- EN: latte coffee -->
+  <VBE_LatteCoffee.label>café latte</VBE_LatteCoffee.label>
+
+  <!-- EN: Potent espresso mixed with fresh milk to help ease bitterness before pouring and serving. Lattes have a reputation of being particularly meant for “sophisticated” individuals. -->
+  <VBE_LatteCoffee.description>Um espresso forte misturado com leite fresco para suavizar o amargor antes de servir. O latte tem fama de ser voltado a pessoas particularmente “sofisticadas”.</VBE_LatteCoffee.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_LatteCoffee.ingestible.ingestCommandString>Beber {0}</VBE_LatteCoffee.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_LatteCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_LatteCoffee.ingestible.ingestReportString>
+
+  <!-- EN: lemonade -->
+  <VBE_Lemonade.label>limonada</VBE_Lemonade.label>
+
+  <!-- EN: A sweet beverage mixed together with lemon juice, sugar, and water. -->
+  <VBE_Lemonade.description>Uma bebida doce feita com suco de limão, açúcar e água.</VBE_Lemonade.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_Lemonade.ingestible.ingestCommandString>Beber {0}</VBE_Lemonade.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_Lemonade.ingestible.ingestReportString>Bebendo {0}.</VBE_Lemonade.ingestible.ingestReportString>
+
+  <!-- EN: bottle -->
+  <VBE_Lemonade.tools.bottle.label>garrafa</VBE_Lemonade.tools.bottle.label>
+
+  <!-- EN: neck -->
+  <VBE_Lemonade.tools.neck.label>gargalo</VBE_Lemonade.tools.neck.label>
+
+  <!-- EN: lemon tea -->
+  <VBE_LemonTea.label>chá de limão</VBE_LemonTea.label>
+
+  <!-- EN: A dark tea cut with water, chilled and garnished with a wedge of bright lemon. -->
+  <VBE_LemonTea.description>Um chá escuro diluído em água, resfriado e servido com uma fatia de limão vistoso.</VBE_LemonTea.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_LemonTea.ingestible.ingestCommandString>Beber {0}</VBE_LemonTea.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_LemonTea.ingestible.ingestReportString>Bebendo {0}.</VBE_LemonTea.ingestible.ingestReportString>
+
+  <!-- EN: masala chai -->
+  <VBE_MasalaChai.label>masala chai</VBE_MasalaChai.label>
+
+  <!-- EN: A musty, warm, almost woody tea crafted by simple leaves and complex spices. Masala chai acts as a home remedy against wound infections, reducing the severity of a random infection by 5%. -->
+  <VBE_MasalaChai.description>Um chá quente, terroso e quase amadeirado, feito com folhas simples e especiarias complexas. O masala chai atua como remédio caseiro contra infecções de feridas, reduzindo a gravidade de uma infecção aleatória em 5%.</VBE_MasalaChai.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_MasalaChai.ingestible.ingestCommandString>Beber {0}</VBE_MasalaChai.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_MasalaChai.ingestible.ingestReportString>Bebendo {0}.</VBE_MasalaChai.ingestible.ingestReportString>
+
+  <!-- EN: mint coffee -->
+  <VBE_MintCoffee.label>café com hortelã</VBE_MintCoffee.label>
+
+  <!-- EN: Bitter espresso mixed with cream or milk, then further mixed with mint oil and garnished. Cool and velvety coffee gives way to an even cooler, soothing aftertaste, not to mention great smelling breath. -->
+  <VBE_MintCoffee.description>Um espresso amargo misturado com creme ou leite, depois acrescido de óleo de hortelã e finalizado com uma guarnição. O café fresco e aveludado dá lugar a um sabor residual ainda mais refrescante e suave, além de deixar um ótimo hálito.</VBE_MintCoffee.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_MintCoffee.ingestible.ingestCommandString>Beber {0}</VBE_MintCoffee.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_MintCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_MintCoffee.ingestible.ingestReportString>
+
+  <!-- EN: mint tea -->
+  <VBE_MintTea.label>chá de hortelã</VBE_MintTea.label>
+
+  <!-- EN: Black tea leaves mixed with mint leaves and deeply steeped, then garnished with additional mint leaves. Leaves your breath surprisingly fresh. -->
+  <VBE_MintTea.description>Folhas de chá preto misturadas com folhas de hortelã em uma infusão intensa, finalizada com mais folhas de hortelã. Deixa o hálito surpreendentemente fresco.</VBE_MintTea.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_MintTea.ingestible.ingestCommandString>Beber {0}</VBE_MintTea.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_MintTea.ingestible.ingestReportString>Bebendo {0}.</VBE_MintTea.ingestible.ingestReportString>
+
+  <!-- EN: mocha coffee -->
+  <VBE_MochaCoffee.label>café mocha</VBE_MochaCoffee.label>
+
+  <!-- EN: Coffee mixed with sweet and luxurious chocolate, very fun to drink. Those of snobbish persuasion would argue mocha is more of a dessert than an actual coffee drink. -->
+  <VBE_MochaCoffee.description>Café misturado com chocolate doce e luxuoso, muito agradável de beber. Os mais esnobes diriam que o mocha é mais uma sobremesa que uma bebida de café.</VBE_MochaCoffee.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_MochaCoffee.ingestible.ingestCommandString>Beber {0}</VBE_MochaCoffee.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_MochaCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_MochaCoffee.ingestible.ingestReportString>
+
+  <!-- EN: noon chai -->
+  <VBE_NoonChai.label>noon chai</VBE_NoonChai.label>
+
+  <!-- EN: An ancient Kashmiri tea mixing tea leaves, a pinch of salt and baking soda, which results in an striking pink beverage that is famous for being not only delicious but also healthy for the body. Used for treating muscle parasites. -->
+  <VBE_NoonChai.description>Um antigo chá da Caxemira que mistura folhas de chá, uma pitada de sal e bicarbonato de sódio. O resultado é uma bebida rosa marcante, famosa por ser deliciosa e saudável para o corpo. Usado para tratar parasitas musculares.</VBE_NoonChai.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_NoonChai.ingestible.ingestCommandString>Beber {0}</VBE_NoonChai.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_NoonChai.ingestible.ingestReportString>Bebendo {0}.</VBE_NoonChai.ingestible.ingestReportString>
+
+  <!-- EN: pumpkin spice coffee -->
+  <VBE_PumpkinCoffee.label>café com especiarias de abóbora</VBE_PumpkinCoffee.label>
+
+  <!-- EN: Cheap, mass produced generic coffee seeped in an array of spices, oddly excluding any actual pumpkin. Thousands of years ago, this type of coffee was stereotypically consumed by red-haired hipsters with man buns. -->
+  <VBE_PumpkinCoffee.description>Um café genérico barato, produzido em massa e infusionado com diversas especiarias, curiosamente sem nenhuma abóbora de verdade. Milhares de anos atrás, esse tipo de café era associado a hipsters ruivos com coque masculino.</VBE_PumpkinCoffee.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_PumpkinCoffee.ingestible.ingestCommandString>Beber {0}</VBE_PumpkinCoffee.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_PumpkinCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_PumpkinCoffee.ingestible.ingestReportString>
+
+  <!-- EN: yuenyeung -->
+  <VBE_Yuenyeung.label>yuenyeung</VBE_Yuenyeung.label>
+
+  <!-- EN: A mixture of coffee and tea. Tea and coffee drinkers respectively set their differences aside while concocting this unholy amalgamation. It is usually served cold, but whether it’s served hot or cold it’s equally confusing to the imbiber. -->
+  <VBE_Yuenyeung.description>Uma mistura de café e chá. Apreciadores de ambos deixam suas diferenças de lado ao preparar esta combinação profana. Geralmente é servida fria, mas, seja quente ou fria, é igualmente confusa para quem bebe.</VBE_Yuenyeung.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_Yuenyeung.ingestible.ingestCommandString>Beber {0}</VBE_Yuenyeung.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_Yuenyeung.ingestible.ingestReportString>Bebendo {0}.</VBE_Yuenyeung.ingestible.ingestReportString>
+
+  <!-- EN: mint leaves -->
+  <VBE_MintLeaves.label>folhas de hortelã</VBE_MintLeaves.label>
+
+  <!-- EN: Mint leaves are infamous for their cooling effect on one's mouth, as well as ease of seeping into an array of teas or delicately garnishing a dish. Mint leaves rot quite fast. -->
+  <VBE_MintLeaves.description>Folhas de hortelã são conhecidas pelo efeito refrescante na boca, pela facilidade de uso em diversos chás e por enfeitar pratos delicadamente. Apodrecem muito rápido.</VBE_MintLeaves.description>
+
+  <!-- EN: lemons -->
+  <VCE_RawLemon.label>limões</VCE_RawLemon.label>
+
+  <!-- EN: An acid and sour tasting fruit. The juice, zest, and pulp are often used in cooking, often on fish and other meat for better taste. Lemon is also used to flavour drinks, such as lemonade, or mixed with tea and coffee. -->
+  <VCE_RawLemon.description>Uma fruta de sabor ácido e azedo. O suco, as raspas e a polpa são usados na culinária, frequentemente em peixes e outras carnes para melhorar o sabor. O limão também aromatiza bebidas, como limonada, ou é misturado com chá e café.</VCE_RawLemon.description>
+
+  <!-- EN: mint plant -->
+  <VBE_MintPlant.label>planta de hortelã</VBE_MintPlant.label>
+
+  <!-- EN: A plant sprouting into an array of mint leaves. Mint leaves are infamous for their cooling effect on one's mouth, as well as ease of seeping into an array of teas or delicately garnishing a dish. Flourishes indoors and in plant pots, while being pleasant to look at. -->
+  <VBE_MintPlant.description>Uma planta que produz diversas folhas de hortelã. Elas são conhecidas pelo efeito refrescante na boca, pela facilidade de uso em diversos chás e por enfeitar pratos delicadamente. Prospera em interiores e vasos de plantas, além de ser agradável de se ver.</VBE_MintPlant.description>
+
+  <!-- EN: lemon tree -->
+  <VBE_LemonTree.label>limoeiro</VBE_LemonTree.label>
+
+  <!-- EN: A tall tree native to both deserts and tropics alike. Bright, sour lemons grow profusely on this tree, some lemons may even mature early and fall to the ground before the primary harvest is ready. -->
+  <VBE_LemonTree.description>Uma árvore alta nativa tanto de desertos quanto de regiões tropicais. Limões vistosos e azedos crescem em abundância nela; alguns podem até amadurecer cedo e cair no chão antes da colheita principal.</VBE_LemonTree.description>
+
+  <!-- EN: eureka lemon tree -->
+  <AMB_LemonTree.label>limoeiro eureka</AMB_LemonTree.label>
+
+  <!-- EN: A bushy, semi-tropical tree dotted with eureka lemons, a citric fruit used as base to prepare different drinks and meals.\nEureka lemons are very acid on its own, eating them raw is not so enjoyable and may produce tooth sensitivity. -->
+  <AMB_LemonTree.description>Uma árvore arbustiva subtropical coberta de limões eureka, uma fruta cítrica usada como base de diversas bebidas e refeições.\nLimões eureka são muito ácidos por si só; comê-los crus não é tão agradável e pode causar sensibilidade nos dentes.</AMB_LemonTree.description>
+
+  <!-- EN: eureka lemons -->
+  <AMB_RawLemon.label>limões eureka</AMB_RawLemon.label>
+
+  <!-- EN: Yellow citric fruits, while not so sweet like most other fruits, mixing lemon juice with sugar allows the creation of lemonade, a refreshing and healthy drink.\nEureka lemons are very acid on its own, eating them raw is not so enjoyable and may produce tooth sensitivity. -->
+  <AMB_RawLemon.description>Frutos cítricos amarelos que, embora menos doces que a maioria das frutas, permitem preparar limonada ao misturar seu suco com açúcar, criando uma bebida refrescante e saudável.\nLimões eureka são muito ácidos por si só; comê-los crus não é tão agradável e pode causar sensibilidade nos dentes.</AMB_RawLemon.description>
+
+  <!-- EN: spearmint plant -->
+  <AMB_MintPlant.label>planta de hortelã-verde</AMB_MintPlant.label>
+
+  <!-- EN: Mentha Spicata, the most popular type of mint. Spearmint has an invasive taste, added in small quantities it can give a magic taste to Mate. -->
+  <AMB_MintPlant.description>Mentha Spicata, o tipo mais popular de hortelã. A hortelã-verde tem sabor intenso e, acrescentada em pequenas quantidades, pode dar um sabor mágico ao mate.</AMB_MintPlant.description>
+
+  <!-- EN: spearmint leaves -->
+  <AMB_MintLeaves.label>folhas de hortelã-verde</AMB_MintLeaves.label>
+
+  <!-- EN: Spearmint leaves, used to flavour mate with an unique taste.\n\nSpearmint dries very fast upon being harvested, and it loses its taste, so be sure to make Mate with it as soon as possible. -->
+  <AMB_MintLeaves.description>Folhas de hortelã-verde, usadas para dar um sabor único ao mate.\n\nA hortelã-verde seca muito rápido após a colheita e perde o sabor, então prepare mate com ela o quanto antes.</AMB_MintLeaves.description>
+
+</LanguageData>
+
