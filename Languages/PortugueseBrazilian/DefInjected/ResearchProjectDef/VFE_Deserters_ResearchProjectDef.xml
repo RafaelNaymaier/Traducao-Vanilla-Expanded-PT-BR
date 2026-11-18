@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: imperial defenses -->
+  <VFED_ImperialDefenses.label>defesas imperiais</VFED_ImperialDefenses.label>
+
+  <!-- EN: Create imperial megaturrets: Kontarion, Onager and Palintone, as well as their ammunition. -->
+  <VFED_ImperialDefenses.description>Crie megatorretas imperiais: Kontarion, Onager e Palintone, além de suas munições.</VFED_ImperialDefenses.description>
+
+  <!-- EN: <li>subject->fortress engineering</li>
+    <li>subject_story->engineered the mightiest defenses, deterring would-be conquerors with mere rumors of their power</li>
+    <li>subject_story->crafted turrets that combined ancient design principles with futuristic weaponry</li>
+    <li>subject_story->ensured the empire's borders were impregnable, standing as a testament to imperial ingenuity</li>
+    <li>subject_gerund->redefining the art of defense</li> -->
+  <VFED_ImperialDefenses.generalRules.rulesStrings>
+    <li>subject->engenharia de fortificações</li>
+    <li>subject_story->projetou as defesas mais poderosas, dissuadindo possíveis conquistadores apenas com rumores de seu poder</li>
+    <li>subject_story->criou torretas que combinavam princípios de projeto antigos com armamento futurista</li>
+    <li>subject_story->garantiu que as fronteiras do império fossem impenetráveis, como um testemunho da engenhosidade imperial</li>
+    <li>subject_gerund->redefinindo a arte da defesa</li>
+  </VFED_ImperialDefenses.generalRules.rulesStrings>
+
+  <!-- EN: imperial war solutions -->
+  <VFED_ImperialWarSolutions.label>soluções bélicas imperiais</VFED_ImperialWarSolutions.label>
+
+  <!-- EN: Craft powerful imperial mortar shells, such as shrapnel, armor piercing and cluster. -->
+  <VFED_ImperialWarSolutions.description>Fabrique poderosos projéteis de morteiro imperiais, como os de estilhaços, perfurantes e de fragmentação múltipla.</VFED_ImperialWarSolutions.description>
+
+  <!-- EN: <li>subject->advanced ordnance</li>
+    <li>subject_story->innovated artillery ammunition that turned battlefields to their advantage with a single salvo</li>
+    <li>subject_story->developed shells that could pierce the toughest armors or scatter enemies with relentless shrapnel</li>
+    <li>subject_story->transformed the empire's artillery into a force capable of dictating the terms of engagement</li>
+    <li>subject_gerund->mastering the science of destruction</li> -->
+  <VFED_ImperialWarSolutions.generalRules.rulesStrings>
+    <li>subject->munições avançadas</li>
+    <li>subject_story->inovou na munição de artilharia, virando batalhas a seu favor com uma única salva</li>
+    <li>subject_story->desenvolveu projéteis capazes de penetrar as blindagens mais resistentes ou dispersar inimigos com estilhaços implacáveis</li>
+    <li>subject_story->transformou a artilharia do império em uma força capaz de ditar os termos dos confrontos</li>
+    <li>subject_gerund->dominando a ciência da destruição</li>
+  </VFED_ImperialWarSolutions.generalRules.rulesStrings>
+
+  <!-- EN: imperial war solutions -->
+  <VFED_RemoteDemolition.label>soluções bélicas imperiais</VFED_RemoteDemolition.label>
+
+  <!-- EN: Build advanced explosive traps with remote detonation mechanism. -->
+  <VFED_RemoteDemolition.description>Construa armadilhas explosivas avançadas com mecanismo de detonação remota.</VFED_RemoteDemolition.description>
+
+  <!-- EN: <li>subject->tactical demolitions</li>
+    <li>subject_story->pioneered the use of remotely controlled explosives, changing the dynamics of siege warfare</li>
+    <li>subject_story->crafted traps that could be detonated at the perfect moment, creating chaos among enemy ranks</li>
+    <li>subject_story->turned the battlefield into a meticulously controlled environment, where every step could be the last</li>
+    <li>subject_gerund->elevating the element of surprise to an art form</li> -->
+  <VFED_RemoteDemolition.generalRules.rulesStrings>
+    <li>subject->demolições táticas</li>
+    <li>subject_story->foi pioneiro no uso de explosivos controlados remotamente, mudando a dinâmica da guerra de cerco</li>
+    <li>subject_story->criou armadilhas que podiam ser detonadas no momento perfeito, espalhando o caos entre as fileiras inimigas</li>
+    <li>subject_story->transformou o campo de batalha em um ambiente meticulosamente controlado, onde cada passo poderia ser o último</li>
+    <li>subject_gerund->elevando o elemento surpresa a uma forma de arte</li>
+  </VFED_RemoteDemolition.generalRules.rulesStrings>
+
+</LanguageData>
+
