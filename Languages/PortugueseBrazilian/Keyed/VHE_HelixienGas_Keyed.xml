@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Toggle gas flow -->
+  <VHGE_CommandToggleGas_Label>Alternar fluxo de gás</VHGE_CommandToggleGas_Label>
+
+  <!-- EN: Designate gas flow to be toggle on or off. A colonist will come soon to flick the switch. -->
+  <VHGE_CommandToggleGas_Desc>Designe a abertura ou o fechamento do fluxo de gás. Um colono virá em breve acionar a válvula.</VHGE_CommandToggleGas_Desc>
+
+  <!-- EN: A small infinite helixien gas deposit has been found! -->
+  <VHGE_InfiniteDeposit>Um pequeno depósito infinito de gás helixien foi encontrado!</VHGE_InfiniteDeposit>
+
+  <!-- EN: Helixien gas deposit -->
+  <VHGE_InfiniteDepositLabel>Depósito de gás helixien</VHGE_InfiniteDepositLabel>
+
+  <!-- EN: Toggle the infinite gas pocket overlay -->
+  <VHGE_GasOverlayTooltip>Ativar ou desativar a sobreposição de bolsas infinitas de gás</VHGE_GasOverlayTooltip>
+
+  <!-- EN: Helixien pump need to be placed on helixien deep pocket or gas geyser. -->
+  <VHGE_NeedDeepOrGeyser>A bomba de helixien precisa ser colocada sobre uma bolsa subterrânea de helixien ou um gêiser de gás.</VHGE_NeedDeepOrGeyser>
+
+  <!-- EN: Fill geyser hole -->
+  <VHGE_FillGeyser>Preencher buraco do gêiser</VHGE_FillGeyser>
+
+  <!-- EN: Allow removing the geyser from the map. Not reversible. -->
+  <VHGE_FillGeyserDesc>Permite remover o gêiser do mapa. Não é reversível.</VHGE_FillGeyserDesc>
+
+  <!-- EN: Vanilla Helixien Gas Expanded -->
+  <VHGE_Name>Vanilla Helixien Gas Expanded</VHGE_Name>
+
+  <!-- EN: <b>Infinite deposits settings</b> -->
+  <VHGE_InfiniteDepositSettings>&lt;b&gt;Configurações dos depósitos infinitos&lt;/b&gt;</VHGE_InfiniteDepositSettings>
+
+  <!-- EN: <b>Helixien settings</b> -->
+  <VHGE_ScanningSettings>&lt;b&gt;Configurações de helixien&lt;/b&gt;</VHGE_ScanningSettings>
+
+  <!-- EN: <b>Helixien gas geysers settings</b> -->
+  <VHGE_GeysersSettings>&lt;b&gt;Configurações dos gêiseres de gás helixien&lt;/b&gt;</VHGE_GeysersSettings>
+
+  <!-- EN: Enable spawning infinite gas deposit(s): -->
+  <VHGE_EnableDeposits>Ativar geração de depósitos infinitos de gás:</VHGE_EnableDeposits>
+
+  <!-- EN: Deposits amount: -->
+  <VHGE_DepositsAmount>Quantidade de depósitos:</VHGE_DepositsAmount>
+
+  <!-- EN: Deposits cells count: -->
+  <VHGE_DepositsCellCount>Quantidade de células dos depósitos:</VHGE_DepositsCellCount>
+
+  <!-- EN: Helixien deep commonality (0 to disable it): -->
+  <VHGE_HelixienDeepCommonality>Frequência de helixien subterrâneo (0 para desativar):</VHGE_HelixienDeepCommonality>
+
+  <!-- EN: Helixien deep count per cell: -->
+  <VHGE_HelixienDeepCount>Quantidade de helixien subterrâneo por célula:</VHGE_HelixienDeepCount>
+
+  <!-- EN: Enable helixien gas geyser(s): -->
+  <VHGE_EnableGeysers>Ativar gêiseres de gás helixien:</VHGE_EnableGeysers>
+
+  <!-- EN: Helixien gas geyser(s) count: -->
+  <VHGE_GeysersCount>Quantidade de gêiseres de gás helixien:</VHGE_GeysersCount>
+
+</LanguageData>
+
