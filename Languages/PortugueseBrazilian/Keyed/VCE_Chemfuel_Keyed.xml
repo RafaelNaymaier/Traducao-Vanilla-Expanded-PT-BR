@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Extract 150 chemfuel -->
+  <VCHE_ExtractChemfuel>Extrair 150 unidades de combustível químico</VCHE_ExtractChemfuel>
+
+  <!-- EN: Extract 150 chemfuel from the tank. A pawn will come to extract it. -->
+  <VCHE_ExtractChemfuelDesc>Extraia 150 unidades de combustível químico do tanque. Um colono virá fazer a extração.</VCHE_ExtractChemfuelDesc>
+
+  <!-- EN: Extract 150 deepchem -->
+  <VCHE_ExtractDeepchem>Extrair 150 unidades de combustível químico profundo</VCHE_ExtractDeepchem>
+
+  <!-- EN: Extract 150 deepchem from the tank. A pawn will come to extract it. -->
+  <VCHE_ExtractDeepchemDesc>Extraia 150 unidades de combustível químico profundo do tanque. Um colono virá fazer a extração.</VCHE_ExtractDeepchemDesc>
+
+  <!-- EN: Can’t refine: Tanks are full -->
+  <VCHE_CantRefine>Não é possível refinar: os tanques estão cheios</VCHE_CantRefine>
+
+  <!-- EN: Can’t pump: Tanks are full -->
+  <VCHE_CantPump>Não é possível bombear: os tanques estão cheios</VCHE_CantPump>
+
+  <!-- EN: Deepchem pumpjack can only be placed on the deepchem deposit. Use ground-penetrating scanner to find the deposits. -->
+  <VCHE_CantPlaceHere>A bomba extratora de combustível químico profundo só pode ser colocada sobre um depósito desse recurso. Use um scanner de penetração no solo para encontrar os depósitos.</VCHE_CantPlaceHere>
+
+  <!-- EN: Switches chemfuel flow on/off. -->
+  <VCHE_ChemValve>Ativa ou desativa o fluxo de combustível químico.</VCHE_ChemValve>
+
+  <!-- EN: Switches chemfuel flow on/off. A pawn will come open/close the valve. -->
+  <VCHE_ChemValveDesc>Ativa ou desativa o fluxo de combustível químico. Um colono virá abrir ou fechar a válvula.</VCHE_ChemValveDesc>
+
+  <!-- EN: Switches deepchem flow on/off. -->
+  <VCHE_DeepChemValve>Ativa ou desativa o fluxo de combustível químico profundo.</VCHE_DeepChemValve>
+
+  <!-- EN: Switches deepchem flow on/off. A pawn will come open/close the valve. -->
+  <VCHE_DeepChemValveDesc>Ativa ou desativa o fluxo de combustível químico profundo. Um colono virá abrir ou fechar a válvula.</VCHE_DeepChemValveDesc>
+
+</LanguageData>
+

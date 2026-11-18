@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: chemfuel tank -->
+  <PS_ChemfuelTank.label>tanque de combustível químico</PS_ChemfuelTank.label>
+
+  <!-- EN: An industrial liquid storage tank meant for storing chemfuel delivered via chemfuel pipe network. Tanks can be designated to be siphoned for usable chemfuel as needed.  If damaged even lightly the escaping fumes will very swiftly create a gaseous fireball, the size of the resulting explosion will depend on the amount stored within. -->
+  <PS_ChemfuelTank.description>Um tanque industrial de líquidos destinado a armazenar combustível químico entregue pela rede de tubulação correspondente. Os tanques podem ser marcados para extração do combustível utilizável conforme necessário. Se sofrerem qualquer dano, mesmo leve, os vapores liberados formarão rapidamente uma bola de fogo gasosa. O tamanho da explosão dependerá da quantidade armazenada.</PS_ChemfuelTank.description>
+
+  <!-- EN: chemfuel drain -->
+  <VCHE_ChemfuelDrain.label>entrada de combustível químico</VCHE_ChemfuelDrain.label>
+
+  <!-- EN: A hopper-like storage basin meant to input chemfuel into the network, filling up connected tanks. -->
+  <VCHE_ChemfuelDrain.description>Um reservatório semelhante a um alimentador, destinado a inserir combustível químico na rede e abastecer os tanques conectados.</VCHE_ChemfuelDrain.description>
+
+  <!-- EN: chemfuel pipe -->
+  <VCHE_ChemfuelPipe.label>tubo de combustível químico</VCHE_ChemfuelPipe.label>
+
+  <!-- EN: Steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling. -->
+  <VCHE_ChemfuelPipe.description>Tubos de aço projetados para transportar combustível químico utilizável das refinarias de combustível químico profundo até tanques, para armazenamento, ou estruturas que o consomem, para reabastecimento automático.</VCHE_ChemfuelPipe.description>
+
+  <!-- EN: chemfuel tap -->
+  <VCHE_ChemfuelTap.label>torneira de combustível químico</VCHE_ChemfuelTap.label>
+
+  <!-- EN: A hopper-like storage basin meant to hold dispensed chemfuel from tanks periodically for use later. -->
+  <VCHE_ChemfuelTap.description>Um reservatório semelhante a um alimentador, destinado a armazenar o combustível químico dispensado periodicamente pelos tanques para uso posterior.</VCHE_ChemfuelTap.description>
+
+  <!-- EN: chemfuel valve -->
+  <VCHE_ChemfuelValve.label>válvula de combustível químico</VCHE_ChemfuelValve.label>
+
+  <!-- EN: Switches chemfuel flow on/off. -->
+  <VCHE_ChemfuelValve.description>Ativa ou desativa o fluxo de combustível químico.</VCHE_ChemfuelValve.description>
+
+  <!-- EN: hidden chemfuel pipe -->
+  <VCHE_UndergroundChemfuelPipe.label>tubo de combustível químico oculto</VCHE_UndergroundChemfuelPipe.label>
+
+  <!-- EN: Hidden steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling. -->
+  <VCHE_UndergroundChemfuelPipe.description>Tubos de aço ocultos projetados para transportar combustível químico utilizável das refinarias de combustível químico profundo até tanques, para armazenamento, ou estruturas que o consomem, para reabastecimento automático.</VCHE_UndergroundChemfuelPipe.description>
+
+  <!-- EN: deepchem refinery -->
+  <PS_DeepchemRefinery.label>refinaria de combustível químico profundo</PS_DeepchemRefinery.label>
+
+  <!-- EN: A complex machine capable of refining deepchem delivered via deepchem pipes into usable liquid chemfuel. If no output is detected fuel will automatically be dispensed into cans. If output is connected to a tank or tap via chemfuel pipes the finished product will be transported as such for storage or dispensing. -->
+  <PS_DeepchemRefinery.description>Uma máquina complexa capaz de refinar combustível químico profundo, entregue por tubulações, em combustível químico líquido utilizável. Se nenhuma saída for detectada, o combustível será automaticamente dispensado em latas. Se a saída estiver conectada a um tanque ou torneira por tubos de combustível químico, o produto final será transportado para armazenamento ou distribuição.</PS_DeepchemRefinery.description>
+
+  <!-- EN: deepchem tank -->
+  <PS_DeepchemTank.label>tanque de combustível químico profundo</PS_DeepchemTank.label>
+
+  <!-- EN: A heavy industrial sludge storage tank meant for storing deepchem delivered via deepchem pipe network. Tanks can be designated to be siphoned as needed.  If damaged even lightly the escaping fumes will very swiftly create a gaseous fireball, the size of the resulting explosion will depend on the amount stored within. -->
+  <PS_DeepchemTank.description>Um tanque industrial pesado destinado a armazenar o lodo conhecido como combustível químico profundo, entregue pela rede de tubulação correspondente. Os tanques podem ser marcados para extração do conteúdo conforme necessário. Se sofrerem qualquer dano, mesmo leve, os vapores liberados formarão rapidamente uma bola de fogo gasosa. O tamanho da explosão dependerá da quantidade armazenada.</PS_DeepchemTank.description>
+
+  <!-- EN: deepchem drain -->
+  <VCHE_DeepchemDrain.label>entrada de combustível químico profundo</VCHE_DeepchemDrain.label>
+
+  <!-- EN: A hopper-like storage basin meant to input deepchem into the network, filling up connected tanks. -->
+  <VCHE_DeepchemDrain.description>Um reservatório semelhante a um alimentador, destinado a inserir combustível químico profundo na rede e abastecer os tanques conectados.</VCHE_DeepchemDrain.description>
+
+  <!-- EN: deepchem pipe -->
+  <VCHE_DeepchemPipe.label>tubo de combustível químico profundo</VCHE_DeepchemPipe.label>
+
+  <!-- EN: Heavy steel pipes for transporting the sludge known as deepchem from pumpjacks to refineries or deepchem tanks for storage. -->
+  <VCHE_DeepchemPipe.description>Tubos pesados de aço para transportar o lodo conhecido como combustível químico profundo das bombas extratoras até refinarias ou tanques de armazenamento.</VCHE_DeepchemPipe.description>
+
+  <!-- EN: deepchem pumpjack -->
+  <VCHE_DeepchemPumpjack.label>bomba extratora de combustível químico profundo</VCHE_DeepchemPumpjack.label>
+
+  <!-- EN: A deep-crust drilling rig for extracting deepchem from deep under the surface. Use a ground penetrating scanner to detect deposits. Deepchem can then be further refined into usable chemfuel. Can be repositioned freely. -->
+  <VCHE_DeepchemPumpjack.description>Uma perfuratriz de grande profundidade para extrair combustível químico profundo do subsolo. Use um scanner de penetração no solo para detectar os depósitos. O combustível químico profundo pode então ser refinado em combustível químico utilizável. Pode ser reposicionada livremente.</VCHE_DeepchemPumpjack.description>
+
+  <!-- EN: deepchem tap -->
+  <VCHE_DeepchemTap.label>torneira de combustível químico profundo</VCHE_DeepchemTap.label>
+
+  <!-- EN: A hopper-like storage basin meant to hold dispensed deepchem from tanks periodically for use later. -->
+  <VCHE_DeepchemTap.description>Um reservatório semelhante a um alimentador, destinado a armazenar o combustível químico profundo dispensado periodicamente pelos tanques para uso posterior.</VCHE_DeepchemTap.description>
+
+  <!-- EN: deepchem valve -->
+  <VCHE_DeepchemValve.label>válvula de combustível químico profundo</VCHE_DeepchemValve.label>
+
+  <!-- EN: Switches deepchem flow on/off. -->
+  <VCHE_DeepchemValve.description>Ativa ou desativa o fluxo de combustível químico profundo.</VCHE_DeepchemValve.description>
+
+  <!-- EN: hidden deepchem pipe -->
+  <VCHE_UndergroundDeepchemPipe.label>tubo de combustível químico profundo oculto</VCHE_UndergroundDeepchemPipe.label>
+
+  <!-- EN: Hidden heavy steel pipes for transporting the sludge known as deepchem from pumpjacks to refineries or deepchem tanks for storage. -->
+  <VCHE_UndergroundDeepchemPipe.description>Tubos pesados de aço ocultos para transportar o lodo conhecido como combustível químico profundo das bombas extratoras até refinarias ou tanques de armazenamento.</VCHE_UndergroundDeepchemPipe.description>
+
+  <!-- EN: deepchem -->
+  <VCHE_Deepchem.label>combustível químico profundo</VCHE_Deepchem.label>
+
+  <!-- EN: A volatile liquid chemical sludge, extracted from deep underground pockets. It’s too thick to be used to fuel engines and rockets, or to transmute into propellant for projectiles, but it can be refined down into standard chemfuel. -->
+  <VCHE_Deepchem.description>Um lodo químico líquido e volátil, extraído de bolsas subterrâneas profundas. É espesso demais para abastecer motores e foguetes ou ser convertido em propelente para projéteis, mas pode ser refinado em combustível químico comum.</VCHE_Deepchem.description>
+
+</LanguageData>
+
