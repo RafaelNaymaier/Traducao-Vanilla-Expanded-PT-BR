@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Select prop category: -->
+  <VFE_ChoosePropCategory>Selecione a categoria de decoração:</VFE_ChoosePropCategory>
+
+  <!-- EN: Go back -->
+  <VFE_GoBack>Voltar</VFE_GoBack>
+
+  <!-- EN: Search -->
+  <VFE_PrefabSearch>Pesquisar</VFE_PrefabSearch>
+
+  <!-- EN: Not enough silver in stockpiles. You need to have at least {0} silver to build this prop -->
+  <VFE_NoSilver>Não há prata suficiente nas áreas de armazenamento. Você precisa ter pelo menos {0} de prata para construir este objeto decorativo</VFE_NoSilver>
+
+  <!-- EN: Prop cost multiplier -->
+  <VFE_PropCostMultiplier>Multiplicador de custo da decoração</VFE_PropCostMultiplier>
+
+  <!-- EN: Cost of prefabs that are bought with silver is calculated depending on their size, hit points, and cover. With this slider you can transform how much they'll cost. 0 disables all silver costs. -->
+  <VFE_PropCostMultiplierDesc>O custo dos objetos pré-fabricados comprados com prata é calculado conforme seu tamanho, pontos de vida e cobertura. Este controle permite alterar quanto custarão. 0 desativa todos os custos em prata.</VFE_PropCostMultiplierDesc>
+
+  <!-- EN: Silver return multiplier -->
+  <VFE_SilverReturnMultiplier>Multiplicador de devolução de prata</VFE_SilverReturnMultiplier>
+
+  <!-- EN: When destroyed, props will return their purchase cost in silver. By default this will be 100% of this cost, but it can be reduced with this setting. -->
+  <VFE_SilverReturnMultiplierDesc>Quando destruídos, os objetos decorativos devolvem seu custo de compra em prata. Por padrão, a devolução é de 100% desse custo, mas pode ser reduzida com esta configuração.</VFE_SilverReturnMultiplierDesc>
+
+  <!-- EN: Reset -->
+  <VFE_Reset>Redefinir</VFE_Reset>
+
+  <!-- EN: Built -->
+  <VPE_NeedsMats>Construído</VPE_NeedsMats>
+
+  <!-- EN: This particular prop needs construction materials to be built instead of silver, and colonists must build it themselves -->
+  <VPE_NeedsMatsDesc>Este objeto decorativo precisa de materiais de construção em vez de prata, e os próprios colonos devem construí-lo</VPE_NeedsMatsDesc>
+
+  <!-- EN: build props -->
+  <VFEPD_BuildProps>construir decoração</VFEPD_BuildProps>
+
+  <!-- EN: Open a menu to build props with a silver cost. -->
+  <VFEPD_BuildPropsDesc>Abra um menu para construir objetos decorativos com custo em prata.</VFEPD_BuildPropsDesc>
+
+  <!-- EN: Can't be built until {0} has been researched by the colony -->
+  <VFEPD_ResearchNeeded>Não pode ser construído até que a colônia tenha pesquisado {0}</VFEPD_ResearchNeeded>
+
+  <!-- EN: Make copy -->
+  <VFEPD_MakeCopy>Fazer cópia</VFEPD_MakeCopy>
+
+  <!-- EN: Make a copy of this prop. This will require you to have the silver cost of the prop available in stockpiles. -->
+  <VFEPD_MakeCopyDesc>Faça uma cópia deste objeto decorativo. Será necessário ter a quantidade de prata correspondente ao custo do objeto nas áreas de armazenamento.</VFEPD_MakeCopyDesc>
+
+</LanguageData>
+
