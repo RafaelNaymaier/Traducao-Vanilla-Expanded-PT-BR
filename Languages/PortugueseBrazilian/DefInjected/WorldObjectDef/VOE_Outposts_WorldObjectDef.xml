@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: artillery strike -->
+  <VOE_TravellingArtilleryStrike.label>ataque de artilharia</VOE_TravellingArtilleryStrike.label>
+
+  <!-- EN: Artillery strike in flight. -->
+  <VOE_TravellingArtilleryStrike.description>Ataque de artilharia em voo.</VOE_TravellingArtilleryStrike.description>
+
+  <!-- EN: artillery outpost -->
+  <Outpost_Artillery.label>posto avançado de artilharia</Outpost_Artillery.label>
+
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in providing point defense to nearby settlements via artillery strikes. Each pawn will be tasked with the maintenance and usage of a mortar. After a barrage has been expended one day will be required to prepare a new one. -->
+  <Outpost_Artillery.description>Estabelece um acampamento temporário e autônomo especializado em defender assentamentos próximos com ataques de artilharia. Cada colono fica responsável pela manutenção e pelo uso de um morteiro. Após uma salva, é necessário um dia para preparar outra.</Outpost_Artillery.description>
+
+  <!-- EN: defensive outpost -->
+  <Outpost_Defensive.label>posto avançado defensivo</Outpost_Defensive.label>
+
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in intercepting and ambushing incoming enemy raids on the main colony. Winning a small skirmish at an outpost can significantly diminish the size of an enemy raid on the main colony. Furthermore, defensive outposts can be tasked to send drop pods to the main colony for short-notice defense. -->
+  <Outpost_Defensive.description>Estabelece um acampamento temporário e autônomo especializado em interceptar e emboscar invasões inimigas dirigidas à colônia principal. Vencer uma pequena escaramuça no posto pode reduzir significativamente o tamanho de uma invasão à colônia principal. Além disso, postos defensivos podem enviar reforços em cápsulas de transporte para uma defesa de emergência.</Outpost_Defensive.description>
+
+  <!-- EN: drilling outpost -->
+  <Outpost_Drilling.label>posto avançado de perfuração</Outpost_Drilling.label>
+
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in locating and tapping underground chemfuel reservoirs. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Drilling.description>Estabelece um acampamento temporário e autônomo especializado em localizar e explorar reservatórios subterrâneos de combustível químico. Quando uma quantidade suficiente for coletada, uma entrega será feita nos arredores da colônia principal da facção.</Outpost_Drilling.description>
+
+  <!-- EN: encampment -->
+  <Outpost_Encampment.label>acampamento</Outpost_Encampment.label>
+
+  <!-- EN: Places a temporary, autonomously-led camp that serves as a resting point for caravans. While camping all pawns will regain food and rest, and allow time for injuries to heal. -->
+  <Outpost_Encampment.description>Estabelece um acampamento temporário e autônomo que serve como ponto de descanso para caravanas. Enquanto acampam, todos os colonos recuperam a alimentação e o descanso, e têm tempo para que os ferimentos cicatrizem.</Outpost_Encampment.description>
+
+  <!-- EN: farming outpost -->
+  <Outpost_Farming.label>posto avançado de agricultura</Outpost_Farming.label>
+
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in sowing and harvesting easily-grown vegetation, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Farming.description>Estabelece um acampamento temporário e autônomo especializado em semear e colher vegetação de fácil cultivo. Não pode ser colocado em desertos. Quando uma quantidade ampla for coletada, uma entrega será feita nos arredores da colônia principal da facção.</Outpost_Farming.description>
+
+  <!-- EN: Choose which plant this outpost should plant -->
+  <Outpost_Farming.modExtensions.0.ChooseDesc>Escolha qual planta este posto avançado deve cultivar</Outpost_Farming.modExtensions.0.ChooseDesc>
+
+  <!-- EN: Choose plant -->
+  <Outpost_Farming.modExtensions.0.ChooseLabel>Escolher planta</Outpost_Farming.modExtensions.0.ChooseLabel>
+
+  <!-- EN: hunting outpost -->
+  <Outpost_Hunting.label>posto avançado de caça</Outpost_Hunting.label>
+
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in hunting and butchering wildlife. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Hunting.description>Estabelece um acampamento temporário e autônomo especializado em caçar e abater a vida selvagem. Quando uma quantidade ampla for coletada, uma entrega será feita nos arredores da colônia principal da facção.</Outpost_Hunting.description>
+
+  <!-- EN: Choose what animal to hunt at this outpost -->
+  <Outpost_Hunting.modExtensions.0.ChooseDesc>Escolha qual animal caçar neste posto avançado</Outpost_Hunting.modExtensions.0.ChooseDesc>
+
+  <!-- EN: Hunting {0} -->
+  <Outpost_Hunting.modExtensions.0.ChooseLabel>Caçando {0}</Outpost_Hunting.modExtensions.0.ChooseLabel>
+
+  <!-- EN: logging outpost -->
+  <Outpost_Logging.label>posto avançado de extração de madeira</Outpost_Logging.label>
+
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in collecting wood from trees in the areas, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Logging.description>Estabelece um acampamento temporário e autônomo especializado em coletar madeira das árvores da região. Não pode ser colocado em desertos. Quando uma quantidade ampla for coletada, uma entrega será feita nos arredores da colônia principal da facção.</Outpost_Logging.description>
+
+  <!-- EN: mining outpost -->
+  <Outpost_Mining.label>posto avançado de mineração</Outpost_Mining.label>
+
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in collecting and processing stone or metal, can only be placed on hills or mountains. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Mining.description>Estabelece um acampamento temporário e autônomo especializado em coletar e processar pedra ou metal. Só pode ser colocado em colinas ou montanhas. Quando uma quantidade ampla for coletada, uma entrega será feita nos arredores da colônia principal da facção.</Outpost_Mining.description>
+
+  <!-- EN: Click to change mining target. -->
+  <Outpost_Mining.modExtensions.0.ChooseDesc>Clique para alterar o alvo da mineração.</Outpost_Mining.modExtensions.0.ChooseDesc>
+
+  <!-- EN: Mining {0} -->
+  <Outpost_Mining.modExtensions.0.ChooseLabel>Minerando {0}</Outpost_Mining.modExtensions.0.ChooseLabel>
+
+  <!-- EN: production outpost -->
+  <Outpost_Production.label>posto avançado de produção</Outpost_Production.label>
+
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in manufacturing and fabrication of mechanical and electronic components. Once an ample amount is produced, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Production.description>Estabelece um acampamento temporário e autônomo especializado na fabricação de componentes mecânicos e eletrônicos. Quando uma quantidade suficiente for produzida, uma entrega será feita nos arredores da colônia principal da facção.</Outpost_Production.description>
+
+  <!-- EN: Choose between components and advanced components -->
+  <Outpost_Production.modExtensions.0.ChooseDesc>Escolha entre componentes comuns e avançados</Outpost_Production.modExtensions.0.ChooseDesc>
+
+  <!-- EN: Choose output -->
+  <Outpost_Production.modExtensions.0.ChooseLabel>Escolher produto</Outpost_Production.modExtensions.0.ChooseLabel>
+
+  <!-- EN: scavenging outpost -->
+  <Outpost_Scavenging.label>posto avançado de busca de recursos</Outpost_Scavenging.label>
+
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in scouting for nearby unmarked settlements and the loot contained within them. Once something notable is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Scavenging.description>Estabelece um acampamento temporário e autônomo especializado em procurar assentamentos próximos não marcados no mapa e o saque que eles contêm. Quando algo de valor for coletado, uma entrega será feita nos arredores da colônia principal da facção.</Outpost_Scavenging.description>
+
+  <!-- EN: science outpost -->
+  <Outpost_Science.label>posto avançado de ciência</Outpost_Science.label>
+
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in research and analysis. Any information gained will be shared with the faction as a whole. -->
+  <Outpost_Science.description>Estabelece um acampamento temporário e autônomo especializado em pesquisa e análise. Todas as informações obtidas serão compartilhadas com a facção inteira.</Outpost_Science.description>
+
+  <!-- EN: town -->
+  <Outpost_Town.label>vila</Outpost_Town.label>
+
+  <!-- EN: Places a temporary, autonomously-led town that is designed to provide hospitality to travelers and traders alike. Should a visitor find their lodging amicable they will be invited to join the town as a resident permanently. A town can only be erected if 3 pre-existing settlements are located within 10 hexes. -->
+  <Outpost_Town.description>Estabelece uma vila temporária e autônoma destinada a hospedar viajantes e comerciantes. Se um visitante gostar da hospedagem, será convidado a se tornar morador permanente. Uma vila só pode ser criada se houver 3 assentamentos preexistentes em um raio de 10 hexágonos.</Outpost_Town.description>
+
+  <!-- EN: trading outpost -->
+  <Outpost_Trading.label>posto avançado de comércio</Outpost_Trading.label>
+
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in selling and bartering with wanderers, caravans, and natives alike in exchange for silver. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Trading.description>Estabelece um acampamento temporário e autônomo especializado em vender e negociar com viajantes, caravanas e nativos em troca de prata. Quando uma quantidade suficiente for coletada, uma entrega será feita nos arredores da colônia principal da facção.</Outpost_Trading.description>
+
+  <!-- EN: factory outpost -->
+  <Outpost_Factory.label>posto avançado fabril</Outpost_Factory.label>
+
+  <!-- EN: Places a temporary, autonomously-led factory that specializes in production and fabrication of goods using machines based on mechanoid technology. As with the machines normally, a wide variety of goods can be produced. Once an ample amount is produced, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Factory.description>Estabelece uma fábrica temporária e autônoma especializada na produção e fabricação de mercadorias com máquinas baseadas em tecnologia mecanoide. Assim como essas máquinas normalmente, pode produzir uma grande variedade de mercadorias. Quando uma quantidade suficiente for produzida, uma entrega será feita nos arredores da colônia principal da facção.</Outpost_Factory.description>
+
+</LanguageData>
+

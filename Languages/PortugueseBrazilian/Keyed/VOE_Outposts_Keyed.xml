@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Research Rate -->
+  <Outposts.Settings.ResearchRate>Taxa de Pesquisa</Outposts.Settings.ResearchRate>
+
+  <!-- EN: Time To Drill (Needs to happen before production starts) -->
+  <Outposts.Settings.WorkToDrill>Tempo para Perfurar (Necessário antes do início da produção)</Outposts.Settings.WorkToDrill>
+
+  <!-- EN: Cooldown -->
+  <Outposts.Settings.Cooldown>Recarga</Outposts.Settings.Cooldown>
+
+  <!-- EN: Shooting Importance -->
+  <Outposts.Settings.Shooting>Importância de Tiro</Outposts.Settings.Shooting>
+
+  <!-- EN: Animals Importance -->
+  <Outposts.Settings.Animals>Importância de Animais</Outposts.Settings.Animals>
+
+  <!-- EN: Need Transport Pods Tech to Deploy Reinforcements? -->
+  <Outposts.Settings.NeedPods>Exigir Tecnologia de Cápsulas de Transporte para Enviar Reforços?</Outposts.Settings.NeedPods>
+
+  <!-- EN: Leather Multiplier -->
+  <Outposts.Settings.Leather>Multiplicador de Couro</Outposts.Settings.Leather>
+
+  <!-- EN: Meat Multiplier -->
+  <Outposts.Settings.Meat>Multiplicador de Carne</Outposts.Settings.Meat>
+
+  <!-- EN: Intercept Incoming Raids? -->
+  <Outposts.Settings.DoIntercept>Interceptar Invasões a Caminho?</Outposts.Settings.DoIntercept>
+
+  <!-- EN: Intercept Difficulty Multiplier -->
+  <Outposts.Settings.InterceptDifficultyMultiplier>Multiplicador de Dificuldade da Interceptação</Outposts.Settings.InterceptDifficultyMultiplier>
+
+  <!-- EN: This is in on top of your global difficulty modifier and intercept is already harder then regular defense raids. Adjust upwards at your own risk -->
+  <Outposts.Settings.InterceptDifficultyMultiplierTooltip>Este valor se aplica além do modificador global de dificuldade, e interceptar já é mais difícil que defender invasões comuns. Aumente por sua conta e risco</Outposts.Settings.InterceptDifficultyMultiplierTooltip>
+
+  <!-- EN: Recruit chance Multiplier -->
+  <Outposts.Settings.Chance>Multiplicador de Chance de Recrutamento</Outposts.Settings.Chance>
+
+  <!-- EN: Drop Pods Require Fuel -->
+  <Outposts.Settings.NeedFuel>Cápsulas de Transporte Exigem Combustível</Outposts.Settings.NeedFuel>
+
+  <!-- EN: Amount of Fuel -->
+  <Outposts.Settings.NeedFuelAmount>Quantidade de Combustível</Outposts.Settings.NeedFuelAmount>
+
+  <!-- EN: Artillery strike -->
+  <Outposts.Commands.Fire.Label>Ataque de artilharia</Outposts.Commands.Fire.Label>
+
+  <!-- EN: Begin targeting a map for an artillery strike. -->
+  <Outposts.Commands.Fire.Desc>Comece a selecionar um mapa como alvo de um ataque de artilharia.</Outposts.Commands.Fire.Desc>
+
+  <!-- EN: Still on cooldown. -->
+  <Outposts.Commands.Disabled.Cooldown>Ainda em recarga.</Outposts.Commands.Disabled.Cooldown>
+
+  <!-- EN: On cooldown: {0} left -->
+  <Outposts.Cooldown>Em recarga: faltam {0}</Outposts.Cooldown>
+
+  <!-- EN: Raid Intercepted -->
+  <Outposts.Letters.Intercept.Label>Invasão Interceptada</Outposts.Letters.Intercept.Label>
+
+  <!-- EN: A raid bound for {0} has been intercepted by the defensive outpost {1}. Hopefully they can survive this brave maneuver. -->
+  <Outposts.Letters.Intercept.Text>Uma invasão dirigida a {0} foi interceptada pelo posto avançado defensivo {1}. Tomara que consigam sobreviver a essa manobra ousada.</Outposts.Letters.Intercept.Text>
+
+  <!-- EN: Outpost Intercept Raid -->
+  <Outposts.Intercept.Title>Interceptação de Invasão pelo Posto Avançado</Outposts.Intercept.Title>
+
+  <!-- EN: Defenders at {0} have detected a raid from {1} heading towards {2}! \n\nThey are in position to ambush part of the raiding force, that if successful should cause the rest to scatter and return. They estimate the force they will fight is composed of: \n{3} -->
+  <Outposts.Intercept.CanIntercept>Os defensores de {0} detectaram uma invasão de {1} a caminho de {2}! \n\nEstão em posição de emboscar parte da força invasora. Se tiverem sucesso, o restante deverá se dispersar e recuar. Estimam que a força que enfrentarão seja composta por: \n{3}</Outposts.Intercept.CanIntercept>
+
+  <!-- EN: Maneuver and intercept the raiders -->
+  <Outposts.Intercept.InterceptRaid>Manobrar e interceptar os invasores</Outposts.Intercept.InterceptRaid>
+
+  <!-- EN: Stand down, and return to the outpost -->
+  <Outposts.Intercept.DontIntercept>Recuar e retornar ao posto avançado</Outposts.Intercept.DontIntercept>
+
+  <!-- EN: Send reinforcements -->
+  <Outposts.Commands.Deploy.Label>Enviar reforços</Outposts.Commands.Deploy.Label>
+
+  <!-- EN: Deploy the garrison of this outpost in drop pods to assist one of your combat engagements. -->
+  <Outposts.Commands.Deploy.Desc>Envie a guarnição deste posto avançado em cápsulas de transporte para ajudar em um de seus combates.</Outposts.Commands.Deploy.Desc>
+
+  <!-- EN: Cannot send: Drop pods are not available to you. -->
+  <Outposts.Commands.Deploy.Disabled>Não é possível enviar: cápsulas de transporte não estão disponíveis.</Outposts.Commands.Deploy.Disabled>
+
+  <!-- EN: Cannot send last pawn. -->
+  <Outposts.Commands.Deploy.Only1>Não é possível enviar o último colono.</Outposts.Commands.Deploy.Only1>
+
+  <!-- EN: Cannot send, not enough stored fuel. -->
+  <Outposts.Commands.Deploy.NotEnoughFuel>Não é possível enviar: combustível armazenado insuficiente.</Outposts.Commands.Deploy.NotEnoughFuel>
+
+  <!-- EN: Drilling boreholes. {0} done. Estimated time remaining: {1} -->
+  <Outposts.Drilling>Perfurando poços. {0} concluídos. Tempo restante estimado: {1}</Outposts.Drilling>
+
+  <!-- EN: Must be made in the {0} -->
+  <Outposts.MustBeMade>Deve ser estabelecido em: {0}</Outposts.MustBeMade>
+
+  <!-- EN: Must be made in mountains or hills -->
+  <Outposts.MustBeMade.Hill>Deve ser estabelecido em montanhas ou colinas</Outposts.MustBeMade.Hill>
+
+  <!-- EN: Total skill too low, needs {0} -->
+  <Outposts.SkillTooLow>Habilidade total muito baixa, necessário: {0}</Outposts.SkillTooLow>
+
+  <!-- EN: Not enough nearby settlements, need {0} within {1} tiles -->
+  <Outposts.NearbySettlements>Não há assentamentos próximos suficientes. São necessários {0} em um raio de {1} hexágonos</Outposts.NearbySettlements>
+
+  <!-- EN: Pawns Recruited: {0} -->
+  <Outposts.Letters.Recruit.Label>Colonos Recrutados: {0}</Outposts.Letters.Recruit.Label>
+
+  <!-- EN: The following pawns have been newly recruited in the town of {0}:\n{1} -->
+  <Outposts.Letters.Recruit.Desc>Os seguintes colonos foram recrutados recentemente na vila de {0}:\n{1}</Outposts.Letters.Recruit.Desc>
+
+  <!-- EN: Change factory -->
+  <Outposts.Commands.Factory.Label>Mudar fábrica</Outposts.Commands.Factory.Label>
+
+  <!-- EN: Change which factory building this outpost uses to produce items for you. -->
+  <Outposts.Commands.Factory.Desc>Mude a instalação fabril que este posto avançado usa para produzir itens para você.</Outposts.Commands.Factory.Desc>
+
+  <!-- EN: Change result -->
+  <Outposts.Commands.Comb.Label>Mudar produto</Outposts.Commands.Comb.Label>
+
+  <!-- EN: Change what the factory produces. -->
+  <Outposts.Commands.Comb.Desc>Mude o que a fábrica produz.</Outposts.Commands.Comb.Desc>
+
+  <!-- EN: Must be made on the coast or a river -->
+  <Outposts.MustBeOnCoastOrRiver>Deve ser estabelecido na costa ou em um rio</Outposts.MustBeOnCoastOrRiver>
+
+  <!-- EN: All occupants must be armed and ready for combat. -->
+  <Outposts.MustBeArmed>Todos os ocupantes devem estar armados e prontos para o combate.</Outposts.MustBeArmed>
+
+  <!-- EN: May recruit some new pawns in {0} -->
+  <Outposts.WillProduce.Pawns>Pode recrutar novos colonos em {0}</Outposts.WillProduce.Pawns>
+
+  <!-- EN: Raid Ambush Won -->
+  <Outposts.Defensive.Won.Label>Vitória na Emboscada à Invasão</Outposts.Defensive.Won.Label>
+
+  <!-- EN: Your soldiers have successfully defeated the incoming raid before it could reach your settlement. {0} -->
+  <Outposts.Defensive.Won.Desc>Seus soldados derrotaram a invasão a caminho antes que ela pudesse chegar ao assentamento. {0}</Outposts.Defensive.Won.Desc>
+
+  <!-- EN: Raid Ambush Lost -->
+  <Outposts.Defensive.Lost.Label>Derrota na Emboscada à Invasão</Outposts.Defensive.Lost.Label>
+
+  <!-- EN: Your soldiers have been defeated whilst ambushing a raid targetting your settlement. Luckily, the raiders have been discouraged by your audacity and have decided to return home without continuing on to your settlement. Your soldiers' sacrifice is not in vain. -->
+  <Outposts.Defensive.Lost.Desc>Seus soldados foram derrotados ao emboscar uma invasão dirigida ao assentamento. Felizmente, os invasores ficaram desestimulados com sua audácia e decidiram voltar para casa sem prosseguir até o assentamento. O sacrifício de seus soldados não foi em vão.</Outposts.Defensive.Lost.Desc>
+
+</LanguageData>
+
