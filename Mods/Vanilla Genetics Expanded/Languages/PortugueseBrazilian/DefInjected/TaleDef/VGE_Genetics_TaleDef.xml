@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: participated in archotech awakening -->
+  <GR_Transcended.label>participou do despertar arquitecnológico</GR_Transcended.label>
+
+  <!-- EN: <li>tale_noun->[PAWN_nameDef] participating in the archotech awakening</li>
+    <li>image->[PAWN_nameFull] toggling on the archotech AI [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] trembling in fear of the archotech AI [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] looking with unease at the archotech AI [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] checking the integrity of the archotech project [circumstance_group]</li>
+    <li>circumstance_phrase->in front of a [TerrainFeature]</li>
+    <li>circumstance_phrase->with incredible intelligence</li>
+    <li>circumstance_phrase->in a lab coat</li>
+    <li>circumstance_phrase->with electricity coiling dramatically</li>
+    <li>circumstance_phrase->cackling madly</li>
+    <li>desc_sentence->[PAWN_pronoun] is concentrating intently on the controls.</li>
+    <li>desc_sentence->[PAWN_pronoun] has [PAWN_possessive] eyes slanted and looks confident.</li>
+    <li>desc_sentence->[PAWN_pronoun] is fidgeting, [PAWN_possessive] eyes open wide.</li>
+    <li>desc_sentence->[PAWN_pronoun] is smiling with grim joy.</li>
+    <li>desc_sentence->[PAWN_pronoun] seems to be fully in control of the situation (but reaaaally isn't).</li>
+    <li>desc_sentence->There is a trace of ozone in the air.</li>
+    <li>desc_sentence->A nearby [Animal] is looking up, startled.</li>
+    <li>desc_sentence->A [Animal] is fleeing the lab in fear.</li>
+    <li>desc_sentence->There is a [TerrainFeature] in the background.</li>
+    <li>desc_sentence->A [PersonJob] watches silently from afar, fearing for his future.</li> -->
+  <GR_Transcended.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] participando do despertar arquitecnológico</li>
+    <li>image->[PAWN_nameFull] ativando a IA arquitecnológica [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] tremendo de medo da IA arquitecnológica [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] olhando com inquietação para a IA arquitecnológica [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] verificando a integridade do projeto arquitecnológico [circumstance_group]</li>
+    <li>circumstance_phrase->em frente a [TerrainFeature]</li>
+    <li>circumstance_phrase->com inteligência incrível</li>
+    <li>circumstance_phrase->de jaleco</li>
+    <li>circumstance_phrase->com eletricidade serpenteando dramaticamente</li>
+    <li>circumstance_phrase->gargalhando loucamente</li>
+    <li>desc_sentence->[PAWN_pronoun] se concentra intensamente nos controles.</li>
+    <li>desc_sentence->[PAWN_pronoun] parece confiante ao semicerrar [PAWN_possessive] olhos.</li>
+    <li>desc_sentence->[PAWN_pronoun] se remexe e mantém [PAWN_possessive] olhos arregalados.</li>
+    <li>desc_sentence->[PAWN_pronoun] sorri com alegria sombria.</li>
+    <li>desc_sentence->[PAWN_pronoun] parece ter pleno controle da situação (mas não tem meeesmo).</li>
+    <li>desc_sentence->Há um traço de ozônio no ar.</li>
+    <li>desc_sentence->Um exemplar de [Animal] próximo olha para cima, assustado.</li>
+    <li>desc_sentence->Um exemplar de [Animal] foge do laboratório com medo.</li>
+    <li>desc_sentence->Há [TerrainFeature] ao fundo.</li>
+    <li>desc_sentence->Uma pessoa com a ocupação de [PersonJob] observa silenciosamente de longe, temendo pelo futuro.</li>
+  </GR_Transcended.rulePack.rulesStrings>
+</LanguageData>
+

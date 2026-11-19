@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: floors -->
+  <AP_PropCategory_Floors.label>pisos</AP_PropCategory_Floors.label>
+
+  <!-- EN: Floors that are used for purely decorative purposes. -->
+  <AP_PropCategory_Floors.description>Pisos usados apenas para fins decorativos.</AP_PropCategory_Floors.description>
+
+  <!-- EN: walls -->
+  <AP_PropCategory_Walls.label>paredes</AP_PropCategory_Walls.label>
+
+  <!-- EN: Walls that are used mostly for decorative purposes. -->
+  <AP_PropCategory_Walls.description>Paredes usadas principalmente para fins decorativos.</AP_PropCategory_Walls.description>
+
+  <!-- EN: ancient -->
+  <VFE_PropCategory_Ancient.label>antigo</VFE_PropCategory_Ancient.label>
+
+  <!-- EN: Ancient props that are usually scattered around the map. Note these will not work for the Scrapper meme in VE: Memes and Structures, as they are purely decorative. -->
+  <VFE_PropCategory_Ancient.description>Objetos antigos geralmente espalhados pelo mapa. Eles não contam para o meme Sucateiro de VE: Memes and Structures, pois são apenas decorativos.</VFE_PropCategory_Ancient.description>
+
+  <!-- EN: anomaly -->
+  <VFE_PropCategory_Anomaly.label>anomalia</VFE_PropCategory_Anomaly.label>
+
+  <!-- EN: Furniture and miscellaneous Props related to the Anomaly DLC. -->
+  <VFE_PropCategory_Anomaly.description>Móveis e objetos decorativos diversos relacionados à DLC Anomaly.</VFE_PropCategory_Anomaly.description>
+
+  <!-- EN: bedroom -->
+  <VFE_PropCategory_Bedroom.label>quarto</VFE_PropCategory_Bedroom.label>
+
+  <!-- EN: Items such as beds, bedding, furniture (dressers, nightstands), lamps, curtains, and other decor elements commonly found in bedrooms. -->
+  <VFE_PropCategory_Bedroom.description>Itens como camas, roupas de cama, móveis (cômodas e mesas de cabeceira), luminárias, cortinas e outros elementos decorativos comuns em quartos.</VFE_PropCategory_Bedroom.description>
+
+  <!-- EN: borders -->
+  <VFE_PropCategory_Borders.label>bordas</VFE_PropCategory_Borders.label>
+
+  <!-- EN: Ground borders to properly demarcate your pathways. -->
+  <VFE_PropCategory_Borders.description>Bordas de solo para demarcar seus caminhos adequadamente.</VFE_PropCategory_Borders.description>
+
+  <!-- EN: children -->
+  <VFE_PropCategory_Children.label>crianças</VFE_PropCategory_Children.label>
+
+  <!-- EN: Children props, such as toys, children furniture, etc. -->
+  <VFE_PropCategory_Children.description>Objetos decorativos infantis, como brinquedos, móveis para crianças etc.</VFE_PropCategory_Children.description>
+
+  <!-- EN: decals -->
+  <VFE_PropCategory_Decals.label>marcações</VFE_PropCategory_Decals.label>
+
+  <!-- EN: Decal props that are set on the ground with different informational data. -->
+  <VFE_PropCategory_Decals.description>Marcações decorativas colocadas no chão com diversos tipos de informação.</VFE_PropCategory_Decals.description>
+
+  <!-- EN: dining room -->
+  <VFE_PropCategory_DiningRoom.label>sala de jantar</VFE_PropCategory_DiningRoom.label>
+
+  <!-- EN: Items such as tables, chairs, tableware (plates, glasses, utensils), tablecloths, centerpieces, and other decor elements commonly found in dining settings. -->
+  <VFE_PropCategory_DiningRoom.description>Itens como mesas, cadeiras, louça (pratos, copos e utensílios), toalhas de mesa, enfeites de centro e outros elementos decorativos comuns em salas de jantar.</VFE_PropCategory_DiningRoom.description>
+
+  <!-- EN: effects -->
+  <VFE_PropCategory_Effecters.label>efeitos</VFE_PropCategory_Effecters.label>
+
+  <!-- EN: Invisible props that release particles from effecters. Bear in mind these will be laggy, so use in moderation. -->
+  <VFE_PropCategory_Effecters.description>Objetos decorativos invisíveis que emitem efeitos de partículas. Eles podem causar lentidão, portanto use com moderação.</VFE_PropCategory_Effecters.description>
+
+  <!-- EN: imperial -->
+  <VFE_PropCategory_Empire.label>imperial</VFE_PropCategory_Empire.label>
+
+  <!-- EN: Props from the Empire. -->
+  <VFE_PropCategory_Empire.description>Objetos decorativos do Império.</VFE_PropCategory_Empire.description>
+
+  <!-- EN: exotic plants -->
+  <VFE_PropCategory_ExoticPlants.label>plantas exóticas</VFE_PropCategory_ExoticPlants.label>
+
+  <!-- EN: Exotic plants from Alpha Biomes. Bear in mind these are decorative. They don't grow, don't produce anything, etc. -->
+  <VFE_PropCategory_ExoticPlants.description>Plantas exóticas de Alpha Biomes. São decorativas: não crescem, não produzem nada etc.</VFE_PropCategory_ExoticPlants.description>
+
+  <!-- EN: farm -->
+  <VFE_PropCategory_Farm.label>fazenda</VFE_PropCategory_Farm.label>
+
+  <!-- EN: Farm props such as hay and wood piles, wooden carts, etc. -->
+  <VFE_PropCategory_Farm.description>Objetos decorativos de fazenda, como pilhas de feno e madeira, carroças de madeira etc.</VFE_PropCategory_Farm.description>
+
+  <!-- EN: filth -->
+  <VFE_PropCategory_Filth.label>sujeira</VFE_PropCategory_Filth.label>
+
+  <!-- EN: Base game filth as props. Cradle not included. -->
+  <VFE_PropCategory_Filth.description>Sujeira do jogo base como decoração. Berço não incluído.</VFE_PropCategory_Filth.description>
+
+  <!-- EN: furniture -->
+  <VFE_PropCategory_Furniture.label>móveis</VFE_PropCategory_Furniture.label>
+
+  <!-- EN: Furniture that has no gameplay mechanic behind it, such as decorative armoires, mirrors, etc. -->
+  <VFE_PropCategory_Furniture.description>Móveis sem função mecânica no jogo, como guarda-roupas decorativos, espelhos etc.</VFE_PropCategory_Furniture.description>
+
+  <!-- EN: hospital -->
+  <VFE_PropCategory_Hospital.label>hospital</VFE_PropCategory_Hospital.label>
+
+  <!-- EN: Items such as medical equipment (beds, surgical tools, monitors), signage, and other items commonly found in healthcare environments. -->
+  <VFE_PropCategory_Hospital.description>Itens como equipamentos médicos (camas, instrumentos cirúrgicos e monitores), sinalização e outros objetos comuns em ambientes de saúde.</VFE_PropCategory_Hospital.description>
+
+  <!-- EN: industrial -->
+  <VFE_PropCategory_Industrial.label>industrial</VFE_PropCategory_Industrial.label>
+
+  <!-- EN: Industrial props such as barrels, pallets, boxes and containers. -->
+  <VFE_PropCategory_Industrial.description>Objetos decorativos industriais, como barris, paletes, caixas e contêineres.</VFE_PropCategory_Industrial.description>
+
+  <!-- EN: insectoid -->
+  <VFE_PropCategory_Insectoids.label>insetoide</VFE_PropCategory_Insectoids.label>
+
+  <!-- EN: Props based on insectoids, such as cocoons and spider webs. -->
+  <VFE_PropCategory_Insectoids.description>Objetos decorativos baseados em insetoides, como casulos e teias de aranha.</VFE_PropCategory_Insectoids.description>
+
+  <!-- EN: kitchen -->
+  <VFE_PropCategory_Kitchen.label>cozinha</VFE_PropCategory_Kitchen.label>
+
+  <!-- EN: Kitchen props such as cooking appliances, kitchen furniture, etc. -->
+  <VFE_PropCategory_Kitchen.description>Objetos decorativos de cozinha, como eletrodomésticos, móveis de cozinha etc.</VFE_PropCategory_Kitchen.description>
+
+  <!-- EN: labs -->
+  <VFE_PropCategory_Labs.label>laboratórios</VFE_PropCategory_Labs.label>
+
+  <!-- EN: Props found in ancient abandoned labs. Usually quite derelict. -->
+  <VFE_PropCategory_Labs.description>Objetos decorativos encontrados em laboratórios antigos abandonados. Geralmente estão bastante deteriorados.</VFE_PropCategory_Labs.description>
+
+  <!-- EN: big decals -->
+  <VFE_PropCategory_LargeDecals.label>marcações grandes</VFE_PropCategory_LargeDecals.label>
+
+  <!-- EN: Large decal props that are set on the ground with different informational data. -->
+  <VFE_PropCategory_LargeDecals.description>Marcações decorativas grandes colocadas no chão com diversos tipos de informação.</VFE_PropCategory_LargeDecals.description>
+
+  <!-- EN: mechanoid -->
+  <VFE_PropCategory_Mechs.label>mecanoide</VFE_PropCategory_Mechs.label>
+
+  <!-- EN: Props based on mech clusters, or other structures of mechanoid design. -->
+  <VFE_PropCategory_Mechs.description>Objetos decorativos baseados em aglomerados mecanoides ou outras estruturas de fabricação mecanoide.</VFE_PropCategory_Mechs.description>
+
+  <!-- EN: medieval -->
+  <VFE_PropCategory_Medieval.label>medieval</VFE_PropCategory_Medieval.label>
+
+  <!-- EN: Medieval props fit for a grand castle or a simple peasant village. -->
+  <VFE_PropCategory_Medieval.description>Objetos decorativos medievais adequados tanto a um grande castelo quanto a uma simples aldeia camponesa.</VFE_PropCategory_Medieval.description>
+
+  <!-- EN: military -->
+  <VFE_PropCategory_Military.label>militar</VFE_PropCategory_Military.label>
+
+  <!-- EN: Items like replica weapons, uniforms, helmets, insignia, and other military-related paraphernalia designed for visual and thematic accuracy. -->
+  <VFE_PropCategory_Military.description>Itens como réplicas de armas, uniformes, capacetes, insígnias e outros acessórios militares, projetados para fidelidade visual e temática.</VFE_PropCategory_Military.description>
+
+  <!-- EN: misc -->
+  <VFE_PropCategory_Misc.label>diversos</VFE_PropCategory_Misc.label>
+
+  <!-- EN: Miscellaneous props that don't fit any other category. -->
+  <VFE_PropCategory_Misc.description>Objetos decorativos diversos que não se encaixam em nenhuma outra categoria.</VFE_PropCategory_Misc.description>
+
+  <!-- EN: office -->
+  <VFE_PropCategory_Office.label>escritório</VFE_PropCategory_Office.label>
+
+  <!-- EN: Encompasses items such as desks, chairs, computers, laboratory equipment, whiteboards, office supplies, and other elements commonly found in professional workspaces. -->
+  <VFE_PropCategory_Office.description>Inclui itens como escrivaninhas, cadeiras, computadores, equipamentos de laboratório, quadros brancos, materiais de escritório e outros elementos comuns em espaços de trabalho.</VFE_PropCategory_Office.description>
+
+  <!-- EN: parks -->
+  <VFE_PropCategory_Park.label>parques</VFE_PropCategory_Park.label>
+
+  <!-- EN: General outdoors props in a nature setting. -->
+  <VFE_PropCategory_Park.description>Objetos decorativos externos variados para ambientes naturais.</VFE_PropCategory_Park.description>
+
+  <!-- EN: plants -->
+  <VFE_PropCategory_Plants.label>plantas</VFE_PropCategory_Plants.label>
+
+  <!-- EN: Base game plants as props. Bear in mind these are decorative. They don't grow, don't produce anything, etc. -->
+  <VFE_PropCategory_Plants.description>Plantas do jogo base como decoração. São decorativas: não crescem, não produzem nada etc.</VFE_PropCategory_Plants.description>
+
+  <!-- EN: power -->
+  <VFE_PropCategory_Power.label>energia</VFE_PropCategory_Power.label>
+
+  <!-- EN: Props related to power structures, generators, gas tanks, etc. -->
+  <VFE_PropCategory_Power.description>Objetos decorativos relacionados a estruturas de energia, geradores, tanques de gás etc.</VFE_PropCategory_Power.description>
+
+  <!-- EN: prison -->
+  <VFE_PropCategory_Prison.label>prisão</VFE_PropCategory_Prison.label>
+
+  <!-- EN: Prison bars, cells, inmate uniforms, guards' uniforms, surveillance cameras, signage, and other elements associated with correctional facilities. -->
+  <VFE_PropCategory_Prison.description>Grades de prisão, celas, uniformes de detentos e guardas, câmeras de vigilância, sinalização e outros elementos associados a instalações penitenciárias.</VFE_PropCategory_Prison.description>
+
+  <!-- EN: recreation -->
+  <VFE_PropCategory_Recreation.label>recreação</VFE_PropCategory_Recreation.label>
+
+  <!-- EN: Sports equipment, games, picnic supplies, outdoor furniture, and other elements associated with leisure and entertainment. -->
+  <VFE_PropCategory_Recreation.description>Equipamentos esportivos, jogos, materiais de piquenique, móveis externos e outros elementos associados ao lazer e ao entretenimento.</VFE_PropCategory_Recreation.description>
+
+  <!-- EN: royal -->
+  <VFE_PropCategory_Royal.label>real</VFE_PropCategory_Royal.label>
+
+  <!-- EN: Crowns, scepters, thrones, royal attire, coats of arms, ceremonial swords, and other regal symbols. -->
+  <VFE_PropCategory_Royal.description>Coroas, cetros, tronos, trajes reais, brasões, espadas cerimoniais e outros símbolos da realeza.</VFE_PropCategory_Royal.description>
+
+  <!-- EN: spacer -->
+  <VFE_PropCategory_Spacer.label>espacial</VFE_PropCategory_Spacer.label>
+
+  <!-- EN: High-tech props related to the spacer tech level. -->
+  <VFE_PropCategory_Spacer.description>Objetos decorativos de alta tecnologia relacionados ao nível tecnológico espacial.</VFE_PropCategory_Spacer.description>
+
+  <!-- EN: spaceships -->
+  <VFE_PropCategory_Spaceships.label>naves espaciais</VFE_PropCategory_Spaceships.label>
+
+  <!-- EN: Spaceship props. All kinds of vehicles designed for space travel. -->
+  <VFE_PropCategory_Spaceships.description>Objetos decorativos de naves espaciais. Todo tipo de veículo projetado para viagens espaciais.</VFE_PropCategory_Spaceships.description>
+
+  <!-- EN: storage -->
+  <VFE_PropCategory_Storage.label>armazenamento</VFE_PropCategory_Storage.label>
+
+  <!-- EN: Props such as shelves, containers, crates, storage bins, and labels, as well as tools or equipment associated with organizing and managing stored items. -->
+  <VFE_PropCategory_Storage.description>Objetos decorativos como estantes, contêineres, caixotes, caixas de armazenamento e etiquetas, além de ferramentas ou equipamentos associados à organização e ao gerenciamento de itens armazenados.</VFE_PropCategory_Storage.description>
+
+  <!-- EN: structures -->
+  <VFE_PropCategory_Structures.label>estruturas</VFE_PropCategory_Structures.label>
+
+  <!-- EN: General structures such as fake columns, doors, pipes, etc. -->
+  <VFE_PropCategory_Structures.description>Estruturas variadas, como colunas falsas, portas, tubos etc.</VFE_PropCategory_Structures.description>
+
+  <!-- EN: temple -->
+  <VFE_PropCategory_Temple.label>templo</VFE_PropCategory_Temple.label>
+
+  <!-- EN: Religious artifacts, ceremonial objects, statues, altars, ritualistic tools, and other elements representing the spiritual or cultural significance of a temple. -->
+  <VFE_PropCategory_Temple.description>Artefatos religiosos, objetos cerimoniais, estátuas, altares, ferramentas ritualísticas e outros elementos que representam a importância espiritual ou cultural de um templo.</VFE_PropCategory_Temple.description>
+
+  <!-- EN: vaults -->
+  <VFE_PropCategory_Vaults.label>abrigos</VFE_PropCategory_Vaults.label>
+
+  <!-- EN: Props found in ancient vaults. -->
+  <VFE_PropCategory_Vaults.description>Objetos decorativos encontrados em abrigos antigos.</VFE_PropCategory_Vaults.description>
+
+  <!-- EN: vehicles -->
+  <VFE_PropCategory_Vehicles.label>veículos</VFE_PropCategory_Vehicles.label>
+
+  <!-- EN: Vehicles props. Trucks, cars, lorries, etc. -->
+  <VFE_PropCategory_Vehicles.description>Veículos decorativos. Caminhões, carros, carretas etc.</VFE_PropCategory_Vehicles.description>
+
+  <!-- EN: workshop -->
+  <VFE_PropCategory_Workshop.label>oficina</VFE_PropCategory_Workshop.label>
+
+  <!-- EN: Production and workshop props that fit in a crafting environment. -->
+  <VFE_PropCategory_Workshop.description>Objetos decorativos de produção e oficina adequados a ambientes de fabricação.</VFE_PropCategory_Workshop.description>
+</LanguageData>
+

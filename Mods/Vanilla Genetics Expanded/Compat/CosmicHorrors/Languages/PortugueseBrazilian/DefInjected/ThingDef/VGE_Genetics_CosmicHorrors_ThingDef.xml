@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: hellsphere cannon shot -->
+  <GR_Bullet_HellsphereCannonGun.label>disparo de canhão de esfera infernal</GR_Bullet_HellsphereCannonGun.label>
+
+  <!-- EN: insanity cloud -->
+  <GR_Insanity_Cloud.label>nuvem de insanidade</GR_Insanity_Cloud.label>
+
+  <!-- EN: eldritch genome excavator -->
+  <GR_EldritchExcavator.label>extrator de genoma sobrenatural</GR_EldritchExcavator.label>
+
+  <!-- EN: A simplified genome extraction device designed to be usable by even the most simple-minded goon, as such it resembles a caulking gun that works in reverse. The best genetic material can be found in the brain and the automated, single-use design instantly compresses this material into a usable genome.\n\nThe desired subject needs to be docile and trusting of the user who intends on scooping out their brain in a process that is not-quite instantaneous. It is recommended to anesthetize the creature as any sudden movement on their part will interrupt the whole process. Alternatively, it will also work on a dead body...\n\n<color=#E5E54C>Gameplay effect:</color> This excavator can be used to acquire the following genomes: -->
+  <GR_EldritchExcavator.description>Um dispositivo simplificado de extração de genoma projetado para ser usado até pelo sujeito mais simplório; por isso, parece uma pistola de calafetagem que funciona ao contrário. O melhor material genético fica no cérebro, e o projeto automatizado de uso único o comprime instantaneamente em um genoma utilizável.\n\nO indivíduo desejado precisa estar dócil e confiar em quem pretende retirar seu cérebro num processo não exatamente instantâneo. Recomenda-se anestesiar a criatura, pois qualquer movimento súbito interromperá todo o processo. Como alternativa, também funciona em um cadáver...\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Este extrator pode obter os seguintes genomas:</GR_EldritchExcavator.description>
+
+  <!-- EN: Use genome excavator -->
+  <GR_EldritchExcavator.comps.CompUsable.useLabel>Usar extrator de genoma</GR_EldritchExcavator.comps.CompUsable.useLabel>
+
+  <!-- EN: eldritch genome -->
+  <GR_EldritchGenetic.label>genoma sobrenatural</GR_EldritchGenetic.label>
+
+  <!-- EN: A payload of eldritch genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 2 genome can only be used as primary genome.\n\n<color=#E5E54C>Extraction:</color> Can be extracted via an eldritch genome excavator from: -->
+  <GR_EldritchGenetic.description>Uma carga de material genético sobrenatural. Pode ser usada no genomorfador para criar uma célula de crescimento de animal híbrido. Este genoma de nível 2 só pode ser usado como genoma primário.\n\n&lt;color=#E5E54C&gt;Extração:&lt;/color&gt; Pode ser extraído por um extrator de genoma sobrenatural de:</GR_EldritchGenetic.description>
+
+  <!-- EN: chicken of Mi-go egg (fert.) -->
+  <GR_EldritchChickenEggFertilized.label>ovo de Galinha de Mi-go (fert.)</GR_EldritchChickenEggFertilized.label>
+
+  <!-- EN: Fertilized chicken of Mi-go egg. It can be eaten raw, but it's much, much better cooked. The purple shell is incredibly disconcerting. If all goes well, it should hatch into a chicken of Mi-go. -->
+  <GR_EldritchChickenEggFertilized.description>Ovo fertilizado de Galinha de Mi-go. Se tudo correr bem, dele nascerá uma destas abominações. Pode ser comido cru, mas fica muito melhor cozido.</GR_EldritchChickenEggFertilized.description>
+
+  <!-- EN: chicken of Mi-go egg (unfert.) -->
+  <GR_EldritchChickenEggUnfertilized.label>ovo de Galinha de Mi-go (não fert.)</GR_EldritchChickenEggUnfertilized.label>
+
+  <!-- EN: Unfertilized chicken of Mi-go egg. It can be eaten raw, but it's much, much better cooked. The purple shell is incredibly disconcerting. -->
+  <GR_EldritchChickenEggUnfertilized.description>Ovo não fertilizado de Galinha de Mi-go. Pode ser comido cru, mas fica muito, muito melhor cozido.</GR_EldritchChickenEggUnfertilized.description>
+
+  <!-- EN: snake of Yig egg (fert.) -->
+  <GR_EldritchReptileEggFertilized.label>ovo de Cobra de Yig (fert.)</GR_EldritchReptileEggFertilized.label>
+
+  <!-- EN: Fertilized snake of Yig egg. It can be eaten raw, but it's much, much better cooked. The purple shell is incredibly disconcerting. If all goes well, it should hatch into an snake of Yig egg. -->
+  <GR_EldritchReptileEggFertilized.description>Ovo fertilizado de Cobra de Yig. Se tudo correr bem, dele nascerá uma destas abominações. Pode ser comido cru, mas fica muito melhor cozido.</GR_EldritchReptileEggFertilized.description>
+
+  <!-- EN: snake of Yig egg (unfert.) -->
+  <GR_EldritchReptileEggUnfertilized.label>ovo de Cobra de Yig (não fert.)</GR_EldritchReptileEggUnfertilized.label>
+
+  <!-- EN: Unfertilized snake of Yig egg. It can be eaten raw, but it's much, much better cooked. The purple shell is incredibly disconcerting. -->
+  <GR_EldritchReptileEggUnfertilized.description>Ovo não fertilizado de Cobra de Yig. Pode ser comido cru, mas fica muito, muito melhor cozido.</GR_EldritchReptileEggUnfertilized.description>
+
+  <!-- EN: eldritch milk -->
+  <GR_EldritchMilk.label>leite sobrenatural</GR_EldritchMilk.label>
+
+  <!-- EN: This milk is purple coloured, and its smell is indescribable. It whispers to you... -->
+  <GR_EldritchMilk.description>Este leite é roxo, e seu cheiro é indescritível. Ele sussurra para você...</GR_EldritchMilk.description>
+
+  <!-- EN: eldritch wood -->
+  <GR_DarkYoungWoodLog.label>madeira sobrenatural</GR_DarkYoungWoodLog.label>
+
+  <!-- EN: This wood-like material has been extracted from the tentacles of an eldritch creature. Let's make a cupboard out of them! -->
+  <GR_DarkYoungWoodLog.description>Este material semelhante a madeira foi extraído dos tentáculos de uma criatura sobrenatural. Vamos fazer um armário com ele!</GR_DarkYoungWoodLog.description>
+
+  <!-- EN: eldritch wooden -->
+  <GR_DarkYoungWoodLog.stuffProps.stuffAdjective>de madeira sobrenatural</GR_DarkYoungWoodLog.stuffProps.stuffAdjective>
+
+  <!-- EN: eldritch insect jelly -->
+  <GR_EldritchInsectJelly.label>geleia de inseto sobrenatural</GR_EldritchInsectJelly.label>
+
+  <!-- EN: Jelly stored and used as food by oversized insects. It is smooth, rich, and brings incredible joy to those who consume it. Also, it quickly erodes their sanity and turns them into insane psychopaths, but it's so tasty! Because of its unique biological properties, it can nourish almost any creature and never rots. -->
+  <GR_EldritchInsectJelly.description>Geleia armazenada e usada como alimento por insetos gigantescos. É suave, rica e traz uma alegria incrível a quem a consome. Também corrói rapidamente a sanidade e transforma as pessoas em psicopatas insanos, mas é tão gostosa! Suas propriedades biológicas únicas permitem nutrir quase qualquer criatura, e ela nunca apodrece.</GR_EldritchInsectJelly.description>
+
+  <!-- EN: eldritch wool -->
+  <GR_EldritchWool.label>lã sobrenatural</GR_EldritchWool.label>
+
+  <!-- EN: This purple wool seems to be irrigated by pulsing, throbbing purple veins. However, they can only be detected by sight, not by touch. -->
+  <GR_EldritchWool.description>Esta lã roxa parece irrigada por veias roxas que pulsam e latejam. Porém, elas só podem ser percebidas pela visão, e não pelo toque.</GR_EldritchWool.description>
+
+  <!-- EN: formless boomalope shiftskin -->
+  <GR_Shiftskin.label>pele mutável de bumalope disforme</GR_Shiftskin.label>
+
+  <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
+  <GR_Shiftskin.description>Pele curtida, seca e raspada. Um bom material tradicional para fazer roupas e bolsas.</GR_Shiftskin.description>
+
+  <!-- EN: formless spawn meat -->
+  <GR_ROM_RawCHFood_FormlessMeat.label>carne de prole disforme</GR_ROM_RawCHFood_FormlessMeat.label>
+
+  <!-- EN: Raw meat from a formless spawn of Tsathoggua. Or... or at least a boomalope abomination that *looked* similar. Hard to know with these things. -->
+  <GR_ROM_RawCHFood_FormlessMeat.description>Carne crua de uma prole disforme de Tsathoggua. Ou... ou pelo menos de uma abominação bumalope que *parecia* semelhante. É difícil saber com essas coisas.</GR_ROM_RawCHFood_FormlessMeat.description>
+
+  <!-- EN: cathulhu -->
+  <GR_Cathulhu.label>Gatulhu</GR_Cathulhu.label>
+
+  <!-- EN: You seriously have to wonder who comes up with ideas to play with things beyond their understanding. Have you ever had an octopus attach itself to your face and try to climb down your throat? Well now you can find out, with an extra helping of teeth, claws and furballs.\n\nA feline hybrid with recessive Eldritch genes. Comparable to a regular big cat, such as a panther, however its bite not only causes blindness but also inflicts bouts of insanity from the lingering touch of the tentacles. Oddly enough it also enjoys fondling its master with those same tentacles, notably without its teeth out. Oh, did I not mention the fact it has teeth along those tentacles?\n\n<color=#E5E54C>Gameplay effect:</color> Like all cat hybrids, they have an improved melee dodge ability and a short nuzzle period. Its bites cause suffocation and it slowly regenerates health. -->
+  <GR_Cathulhu.description>É preciso se perguntar quem tem ideias de brincar com coisas além da própria compreensão. Já teve um polvo grudado no rosto tentando descer pela garganta? Agora pode descobrir, com uma porção extra de dentes, garras e bolas de pelo.\n\nUm híbrido felino com genes sobrenaturais recessivos. Comparável a um grande felino comum, como uma pantera, mas sua mordida causa cegueira e surtos de insanidade pelo toque persistente dos tentáculos. Estranhamente, também gosta de acariciar o dono com esses tentáculos, sem mostrar os dentes. Ah, não mencionei os dentes ao longo dos tentáculos?\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Como todos os híbridos de gato, têm esquiva corpo a corpo aprimorada e um intervalo curto entre carinhos. Suas mordidas causam sufocamento, e ele regenera a saúde lentamente.</GR_Cathulhu.description>
+
+  <!-- EN: rending tentacles -->
+  <GR_Cathulhu.tools.rending_tentacles.label>tentáculos dilacerantes</GR_Cathulhu.tools.rending_tentacles.label>
+
+  <!-- EN: left claw -->
+  <GR_Cathulhu.tools.left_claw.label>garra esquerda</GR_Cathulhu.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <GR_Cathulhu.tools.right_claw.label>garra direita</GR_Cathulhu.tools.right_claw.label>
+
+  <!-- EN: bear young -->
+  <GR_EldritchBear.label>Ursocria</GR_EldritchBear.label>
+
+  <!-- EN: This otherworldly bear has repulsive, purple coloured tentacles protruding from its maw. Its pelt has a strange wooden-like appearance. Its ravenous appetite can only be sated by consuming large amounts of meat, which the creature dissolves with the green acidic goo dropping from its many gaping maws.\n\n<color=#E5E54C>Gameplay effect:</color> All bear hybrids have stun attacks. Since the creature constantly regenerates, its tentacles can be trimmed every few days, and used as a substitute for wood. -->
+  <GR_EldritchBear.description>Este urso de outro mundo tem tentáculos roxos repulsivos saindo da boca. Sua pele tem uma aparência estranha, semelhante a madeira. Seu apetite voraz só se sacia com muita carne, dissolvida pela gosma ácida verde que pinga de suas várias bocas escancaradas.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todos os híbridos de urso têm ataques atordoantes. Como a criatura se regenera constantemente, seus tentáculos podem ser aparados a cada poucos dias e usados como substituto da madeira.</GR_EldritchBear.description>
+
+  <!-- EN: left claw -->
+  <GR_EldritchBear.tools.left_claw.label>garra esquerda</GR_EldritchBear.tools.left_claw.label>
+
+  <!-- EN: claw -->
+  <GR_EldritchBear.tools.left_claw.labelNoLocation>garra</GR_EldritchBear.tools.left_claw.labelNoLocation>
+
+  <!-- EN: right claw -->
+  <GR_EldritchBear.tools.right_claw.label>garra direita</GR_EldritchBear.tools.right_claw.label>
+
+  <!-- EN: claw -->
+  <GR_EldritchBear.tools.right_claw.labelNoLocation>garra</GR_EldritchBear.tools.right_claw.labelNoLocation>
+
+  <!-- EN: head -->
+  <GR_EldritchBear.tools.head.label>cabeça</GR_EldritchBear.tools.head.label>
+
+  <!-- EN: formless boomalope of Tsathoggua -->
+  <GR_EldritchBoomalope.label>Bumamorfo de Tsathoggua</GR_EldritchBoomalope.label>
+
+  <!-- EN: This polymorphic entity is made of light brown ichor and looks like amorphous goo. It seems to be extremely resilient and very difficult to dispatch. Its pelt seems to be powerfully acidic in substance and can dissolve human flesh with even a slight touch.\n\n<color=#E5E54C>Gameplay effect:</color> Explodes on death with a very powerful psionic blast. This explosion can also be triggered on command, though it will damage the creature too! Slowly regenerates its health. -->
+  <GR_EldritchBoomalope.description>Esta entidade polimórfica é feita de icor marrom-claro e parece uma gosma amorfa. É extremamente resistente e muito difícil de matar. Sua pele parece fortemente ácida e pode dissolver carne humana mesmo com um leve toque.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Explode ao morrer com uma rajada psiônica muito poderosa. Essa explosão também pode ser acionada sob comando, mas ferirá a criatura! Regenera a saúde lentamente.</GR_EldritchBoomalope.description>
+
+  <!-- EN: amoebic tentacle -->
+  <GR_EldritchBoomalope.tools.amoebic_tentacle.label>tentáculo ameboide</GR_EldritchBoomalope.tools.amoebic_tentacle.label>
+
+  <!-- EN: head -->
+  <GR_EldritchBoomalope.tools.head.label>cabeça</GR_EldritchBoomalope.tools.head.label>
+
+  <!-- EN: chicken of Mi-go -->
+  <GR_EldritchChicken.label>Galinha de Mi-go</GR_EldritchChicken.label>
+
+  <!-- EN: An unholy amalgamation of fungus, crustacean, insect and... chicken. Can this creature even be considered to be truly alive?\n\n<color=#E5E54C>Gameplay effect:</color> This psionic chicken lays A LOT of purple eggs. What's not to love? -->
+  <GR_EldritchChicken.description>Uma amálgama profana de fungo, crustáceo, inseto e... galinha. Será que esta criatura pode sequer ser considerada verdadeiramente viva?\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Esta galinha psiônica bota MUITOS ovos roxos. Como não amar?</GR_EldritchChicken.description>
+
+  <!-- EN: claws -->
+  <GR_EldritchChicken.tools.claws.label>garras</GR_EldritchChicken.tools.claws.label>
+
+  <!-- EN: overwhelming mind -->
+  <GR_EldritchChicken.tools.overwhelming_mind.label>mente avassaladora</GR_EldritchChicken.tools.overwhelming_mind.label>
+
+  <!-- EN: head -->
+  <GR_EldritchChicken.tools.head.label>cabeça</GR_EldritchChicken.tools.head.label>
+
+  <!-- EN: armoured chthonian larva -->
+  <GR_EldritchInsectoid.label>Larva ctônica encouraçada</GR_EldritchInsectoid.label>
+
+  <!-- EN: This engorged, tick-like creature has a writhing mass of tentacles where its head would normally be, sensing their surroundings by a combination of touch and echolocation. They have lost their capacity to burrow underground, but they are capable of powerful psionic attacks.\n\n<color=#E5E54C>Gameplay effect:</color> All insectoid hybrids have good armor and no toxic sensitivity, but they are always sterile and can't reproduce, even if a fertility booster is used to create them. Produces eldritch insect jelly, a very nutritive and enjoyable food. -->
+  <GR_EldritchInsectoid.description>Esta criatura inchada, parecida com um carrapato, tem uma massa contorcida de tentáculos onde normalmente ficaria a cabeça e percebe o ambiente combinando tato e ecolocalização. Perdeu a capacidade de escavar no subsolo, mas pode realizar ataques psiônicos poderosos.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todos os híbridos insetoides têm boa armadura e nenhuma sensibilidade tóxica, mas são sempre estéreis e não podem se reproduzir, mesmo se criados com um potencializador de fertilidade. Produz geleia de inseto sobrenatural, um alimento muito nutritivo e agradável.</GR_EldritchInsectoid.description>
+
+  <!-- EN: mandibles -->
+  <GR_EldritchInsectoid.tools.mandibles.label>mandíbulas</GR_EldritchInsectoid.tools.mandibles.label>
+
+  <!-- EN: overwhelming mind -->
+  <GR_EldritchInsectoid.tools.overwhelming_mind.label>mente avassaladora</GR_EldritchInsectoid.tools.overwhelming_mind.label>
+
+  <!-- EN: star vampire muffalo -->
+  <GR_EldritchMuffalo.label>Múfalo vampiro estelar</GR_EldritchMuffalo.label>
+
+  <!-- EN: This blind muffalo can detect its prey by scent, and is attracted to animal -and human- blood, although it can also consume vegetal matter.\n\n<color=#E5E54C>Gameplay effect:</color> Decent pack beast that doesn't need to be penned. Produces milk and wool. Purple milk and wool... -->
+  <GR_EldritchMuffalo.description>Este múfalo cego detecta suas presas pelo cheiro e é atraído por sangue animal e humano, embora também possa consumir matéria vegetal.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Um animal de carga razoável que não precisa de cercado. Produz leite e lã. Leite e lã roxos...</GR_EldritchMuffalo.description>
+
+  <!-- EN: vampiric teeth -->
+  <GR_EldritchMuffalo.tools.vampiric_teeth.label>dentes vampíricos</GR_EldritchMuffalo.tools.vampiric_teeth.label>
+
+  <!-- EN: snake of Yig -->
+  <GR_EldritchReptile.label>Cobra de Yig</GR_EldritchReptile.label>
+
+  <!-- EN: This multi-headed snake has been blessed by Yig, the Father of Serpents. Or maybe it is just a very unfortunate snake which has been the target of your colonists' mad science... It is most likely the latter, to be honest.\n\n<color=#E5E54C>Gameplay effect:</color> All reptile hybrids have good temperature tolerance ranges and venomous attacks. The snake of Yig has six mouths, and attacks incredibly fast. -->
+  <GR_EldritchReptile.description>Esta cobra de várias cabeças foi abençoada por Yig, o Pai das Serpentes. Ou talvez seja apenas uma cobra muito azarada, alvo da ciência maluca dos seus colonos... Para ser sincero, a segunda opção é a mais provável.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todos os híbridos reptilianos têm boas faixas de tolerância à temperatura e ataques venenosos. A Cobra de Yig tem seis bocas e ataca incrivelmente rápido.</GR_EldritchReptile.description>
+
+  <!-- EN: toxic bite -->
+  <GR_EldritchReptile.tools.toxic_bite.label>mordida tóxica</GR_EldritchReptile.tools.toxic_bite.label>
+
+  <!-- EN: cthrumbo -->
+  <GR_EldritchThrumbo.label>Cthultrumbo</GR_EldritchThrumbo.label>
+
+  <!-- EN: Iä! Iä! Cthrumbo fhtagn! Ph'nglui mglw'nfah Cthrumbo Rimworld wgah'nagl fhtagn! A gigantic, squid-like creature that feeds on fear and nightmares. Legends say that an Eldritch Cthrumbo is really the wisest creature in the universe - it simply would melt the minds of everyone near it should it choose to speak.\n\n<color=#E5E54C>Gameplay effect:</color> All colossal hybrids have very slow attacks, but hit very hard, and possess natural armor. Invoke hell blast: twice a day, the Cthrumbo can fire a devastating hellsphere blast. -->
+  <GR_EldritchThrumbo.description>Iä! Iä! Cthultrumbo fhtagn! Ph'nglui mglw'nfah Cthultrumbo Rimworld wgah'nagl fhtagn! Uma criatura gigantesca semelhante a uma lula que se alimenta de medo e pesadelos. Dizem as lendas que um Cthultrumbo sobrenatural é a criatura mais sábia do universo: simplesmente derreteria as mentes de todos ao redor se decidisse falar.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todos os híbridos colossais têm ataques muito lentos, mas golpeiam com muita força e possuem armadura natural. Invocar rajada infernal: duas vezes ao dia, o Cthultrumbo pode disparar uma rajada devastadora de esfera infernal.</GR_EldritchThrumbo.description>
+
+  <!-- EN: rending claws -->
+  <GR_EldritchThrumbo.tools.rending_claws-0.label>garras dilacerantes</GR_EldritchThrumbo.tools.rending_claws-0.label>
+
+  <!-- EN: rending claws -->
+  <GR_EldritchThrumbo.tools.rending_claws-1.label>garras dilacerantes</GR_EldritchThrumbo.tools.rending_claws-1.label>
+
+  <!-- EN: wolf-Sothoth -->
+  <GR_EldritchWolf.label>Lobosothoth</GR_EldritchWolf.label>
+
+  <!-- EN: The back of this feral looking wolf is an indistinct mass of tentacles and malign eyes, constantly shifting in place and being reabsorbed into its pelt again.\n\n<color=#E5E54C>Gameplay effect:</color> All canine hybrids get the Adrenaline rush ability, which allows them to move at 200% speed for a short time, but be tired and move slower for half a day afterwards. This creature doesn't have a huge health pool, but it is nearly impervious to damage and will slowly regenerate health. -->
+  <GR_EldritchWolf.description>O dorso deste lobo de aparência feroz é uma massa indistinta de tentáculos e olhos malignos, mudando constantemente de lugar e sendo reabsorvidos pela pele.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todos os híbridos caninos recebem a habilidade Surto de adrenalina, que permite mover-se a 200% da velocidade por um breve período, mas depois ficam cansados e mais lentos por meio dia. Esta criatura não tem muita saúde, mas é quase imune a danos e regenera a saúde lentamente.</GR_EldritchWolf.description>
+
+  <!-- EN: venomous fangs -->
+  <GR_EldritchWolf.tools.venomous_fangs.label>presas venenosas</GR_EldritchWolf.tools.venomous_fangs.label>
+</LanguageData>
+

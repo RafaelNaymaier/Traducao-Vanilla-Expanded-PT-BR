@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: psionic -->
+  <GR_Psionic.label>psiônico</GR_Psionic.label>
+
+  <!-- EN: psionic -->
+  <GR_Psionic.description>psiônico</GR_Psionic.description>
+
+  <!-- EN: {0} in the {1} -->
+  <GR_Psionic.labelNounPretty>{0} em {1}</GR_Psionic.labelNounPretty>
+
+  <!-- EN: bandaged -->
+  <GR_Psionic.comps.0.labelTendedWell>enfaixado</GR_Psionic.comps.0.labelTendedWell>
+
+  <!-- EN: sutured -->
+  <GR_Psionic.comps.0.labelTendedWellInner>suturado</GR_Psionic.comps.0.labelTendedWellInner>
+
+  <!-- EN: set -->
+  <GR_Psionic.comps.0.labelSolidTendedWell>imobilizado</GR_Psionic.comps.0.labelSolidTendedWell>
+
+  <!-- EN: imploded -->
+  <GR_Psionic.injuryProps.destroyedLabel>implodido</GR_Psionic.injuryProps.destroyedLabel>
+</LanguageData>
+

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: poisoned blood -->
+  <RB_ToxicBuildup.label>sangue envenenado</RB_ToxicBuildup.label>
+
+  <!-- EN: Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.
+\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.
+\nContrary to base game toxic buildup, creatures who die with this toxic damage can be eaten. -->
+  <RB_ToxicBuildup.description>Toxinas na corrente sanguínea. Podem vir de várias fontes, incluindo toxinas ambientais, mordidas venenosas ou armas envenenadas.
+\nEm doses altas, o acúmulo tóxico é letal. Mesmo em doses baixas, pode causar câncer.
+\nAo contrário do acúmulo tóxico do jogo base, criaturas que morrem com este dano tóxico podem ser comidas.</RB_ToxicBuildup.description>
+
+  <!-- EN: initial -->
+  <RB_ToxicBuildup.stages.initial.label>inicial</RB_ToxicBuildup.stages.initial.label>
+
+  <!-- EN: minor -->
+  <RB_ToxicBuildup.stages.minor.label>leve</RB_ToxicBuildup.stages.minor.label>
+
+  <!-- EN: moderate -->
+  <RB_ToxicBuildup.stages.moderate.label>moderado</RB_ToxicBuildup.stages.moderate.label>
+
+  <!-- EN: serious -->
+  <RB_ToxicBuildup.stages.serious.label>grave</RB_ToxicBuildup.stages.serious.label>
+
+  <!-- EN: extreme -->
+  <RB_ToxicBuildup.stages.extreme.label>extremo</RB_ToxicBuildup.stages.extreme.label>
+
+  <!-- EN: injected chemfuel -->
+  <RB_ChemfuelBuildup.label>combustível químico injetado</RB_ChemfuelBuildup.label>
+
+  <!-- EN: Chemfuel in the bloodstream.
+\nAt high doses, this is lethal. Even at low doses, it can generate cancers.
+\nContrary to base game toxic buildup, creatures who die with injected chemfuel can be eaten. -->
+  <RB_ChemfuelBuildup.description>Combustível químico na corrente sanguínea.
+\nEm doses altas, é letal. Mesmo em doses baixas, pode causar câncer.
+\nAo contrário do acúmulo tóxico do jogo base, criaturas que morrem com combustível químico injetado podem ser comidas.</RB_ChemfuelBuildup.description>
+
+  <!-- EN: initial -->
+  <RB_ChemfuelBuildup.stages.initial.label>inicial</RB_ChemfuelBuildup.stages.initial.label>
+
+  <!-- EN: minor -->
+  <RB_ChemfuelBuildup.stages.minor.label>leve</RB_ChemfuelBuildup.stages.minor.label>
+
+  <!-- EN: moderate -->
+  <RB_ChemfuelBuildup.stages.moderate.label>moderado</RB_ChemfuelBuildup.stages.moderate.label>
+
+  <!-- EN: serious -->
+  <RB_ChemfuelBuildup.stages.serious.label>grave</RB_ChemfuelBuildup.stages.serious.label>
+
+  <!-- EN: extreme -->
+  <RB_ChemfuelBuildup.stages.extreme.label>extremo</RB_ChemfuelBuildup.stages.extreme.label>
+
+  <!-- EN: Blinding venom in the bloodstream. This venom is not lethal, but it will last for a while before it stops affecting sight. -->
+  <RB_BlindingBuildup.description>Veneno cegante na corrente sanguínea. Este veneno não é letal, mas levará algum tempo até parar de afetar a visão.</RB_BlindingBuildup.description>
+
+  <!-- EN: blinding venom -->
+  <RB_BlindingBuildup.label>veneno cegante</RB_BlindingBuildup.label>
+
+  <!-- EN: initial-hidden -->
+  <RB_BlindingBuildup.stages.initial_hidden.label>inicial-oculto</RB_BlindingBuildup.stages.initial_hidden.label>
+
+  <!-- EN: initial -->
+  <RB_BlindingBuildup.stages.initial.label>inicial</RB_BlindingBuildup.stages.initial.label>
+
+  <!-- EN: minor -->
+  <RB_BlindingBuildup.stages.minor.label>leve</RB_BlindingBuildup.stages.minor.label>
+
+  <!-- EN: moderate -->
+  <RB_BlindingBuildup.stages.moderate.label>moderado</RB_BlindingBuildup.stages.moderate.label>
+
+  <!-- EN: serious -->
+  <RB_BlindingBuildup.stages.serious.label>grave</RB_BlindingBuildup.stages.serious.label>
+
+  <!-- EN: extreme -->
+  <RB_BlindingBuildup.stages.extreme.label>extremo</RB_BlindingBuildup.stages.extreme.label>
+
+  <!-- EN: nauseating -->
+  <RB_BlindingBuildup.stages.nauseating.label>nauseante</RB_BlindingBuildup.stages.nauseating.label>
+
+  <!-- EN: paralysis -->
+  <RB_ParalysisBuildup.label>paralisia</RB_ParalysisBuildup.label>
+
+  <!-- EN: A fast acting toxin is coursing through this creature's veins, paralyzing his muscles. It will wear off after a while. -->
+  <RB_ParalysisBuildup.description>Uma toxina de ação rápida percorre as veias desta criatura, paralisando seus músculos. Seu efeito passará após algum tempo.</RB_ParalysisBuildup.description>
+
+  <!-- EN: initial -->
+  <RB_ParalysisBuildup.stages.initial.label>inicial</RB_ParalysisBuildup.stages.initial.label>
+
+  <!-- EN: stunned -->
+  <RB_ParalysisBuildup.stages.stunned.label>atordoado</RB_ParalysisBuildup.stages.stunned.label>
+
+  <!-- EN: very stunned -->
+  <RB_ParalysisBuildup.stages.very_stunned.label>muito atordoado</RB_ParalysisBuildup.stages.very_stunned.label>
+
+  <!-- EN: paralysed -->
+  <RB_ParalysisBuildup.stages.paralysed.label>paralisado</RB_ParalysisBuildup.stages.paralysed.label>
+
+  <!-- EN: increased stamina (from honey) -->
+  <RB_Stamina.label>vigor aumentado (por mel)</RB_Stamina.label>
+
+  <!-- EN: Genetic honey is strengthening this creature's stamina. -->
+  <RB_Stamina.description>O mel genético está fortalecendo o vigor desta criatura.</RB_Stamina.description>
+</LanguageData>
+

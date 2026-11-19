@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Item Production -->
+  <!-- EN: Incubator progress -->
+  <IncubatorProgress>Progresso da incubadora</IncubatorProgress>
+
+  <!-- EN: Resource growth -->
+  <ResourceGrowth>Crescimento de recursos</ResourceGrowth>
+
+  <!-- EN: Feather growth -->
+  <FeatherGrowth>Crescimento de penas</FeatherGrowth>
+
+  <!-- EN: Royal jelly fullness -->
+  <JellyGrowth>Reserva de geleia real</JellyGrowth>
+
+  <!-- EN: Insect jelly fullness -->
+  <VanillaJellyGrowth>Reserva de geleia de inseto</VanillaJellyGrowth>
+
+  <!-- EN: Silk growth -->
+  <SilkGrowth>Crescimento de seda</SilkGrowth>
+
+  <!-- EN: Poison fullness -->
+  <PoisonGrowth>Reserva de veneno</PoisonGrowth>
+
+  <!-- EN: Neutroamine production time -->
+  <GR_Neutroamine>Tempo de produção de neutroamina</GR_Neutroamine>
+
+  <!-- EN: Go-Juice production -->
+  <GR_GoJuice>Produção de Go-Juice</GR_GoJuice>
+
+  <!-- EN: Trimmable tentacle growth -->
+  <TentacleGrowth>Crescimento de tentáculos aparáveis</TentacleGrowth>
+
+  <!-- EN: Eldritch jelly fullness -->
+  <JellyGrowthEldritch>Reserva de geleia sobrenatural</JellyGrowthEldritch>
+
+  <!-- EN: Chocolate egg growth -->
+  <ChocolateEgg>Crescimento de ovos de chocolate</ChocolateEgg>
+
+  <!-- EN: Deepchem production -->
+  <Cryofuel>Produção de combustível químico profundo</Cryofuel>
+
+  <!-- EN: Chemfuel production -->
+  <ChemfuelProd>Produção de combustível químico</ChemfuelProd>
+
+  <!-- EN: Neutroglycerin production -->
+  <NeutroglycerinProd>Produção de neutroglicerina</NeutroglycerinProd>
+
+  <!-- EN: Industrial Component production -->
+  <ComponentIndustrialDesc>Produção de componentes industriais</ComponentIndustrialDesc>
+
+  <!-- EN: Castoreum production -->
+  <CastoreumProd>Produção de castóreo</CastoreumProd>
+
+  <!-- Age related diseases -->
+  <!-- EN: Genetic disease -->
+  <GR_AgeDiseaseLabel>Doença genética</GR_AgeDiseaseLabel>
+
+  <!-- EN: {0} has reached the limit of its stable lifespan, and has acquired a genetic disease: {1}\n\nGenetic diseases are incurable. They can be treated to delay the inevitable, but the animal will eventually perish. -->
+  <GR_AgeDiseaseText>{0} atingiu o limite de sua vida estável e desenvolveu uma doença genética: {1}\n\nDoenças genéticas são incuráveis. Podem ser tratadas para adiar o inevitável, mas o animal acabará morrendo.</GR_AgeDiseaseText>
+
+  <!-- EN: Dying due to lack of love in: {0} -->
+  <GR_LackOfLove>Morte por falta de amor em: {0}</GR_LackOfLove>
+
+  <!-- EN: Cellular degeneration in: {0} -->
+  <GR_CellularDegeneration>Degeneração celular em: {0}</GR_CellularDegeneration>
+
+  <!-- EN: Animals that have been extracted can't be resurrected. -->
+  <GR_CantResurrect>Animais submetidos à extração não podem ser ressuscitados.</GR_CantResurrect>
+
+  <!-- EN: Genetic Diseases in: {0} -->
+  <GR_GeneticDiseasesIn>Doenças genéticas em: {0}</GR_GeneticDiseasesIn>
+
+  <!-- EN: Spreading in darkness and producing flesh flies periodically. Destroy it as fast as possible! -->
+  <GR_FleshGrowth>Espalha-se na escuridão e produz moscas da carne periodicamente. Destrua o mais rápido possível!</GR_FleshGrowth>
+
+  <!-- Growth Cell -->
+  <!-- EN: Dominant Gene: {0} -->
+  <GR_GrowthCell_InspectDominant>Gene dominante: {0}</GR_GrowthCell_InspectDominant>
+
+  <!-- EN: Secondary Gene: {0} -->
+  <GR_GrowthCell_InspectSecondary>Gene secundário: {0}</GR_GrowthCell_InspectSecondary>
+
+  <!-- EN: Genoframe: {0} -->
+  <GR_GrowthCell_InspectGenoframe>Genoestrutura: {0}</GR_GrowthCell_InspectGenoframe>
+
+  <!-- EN: Booster: {0} -->
+  <GR_GrowthCell_InspectBooster>Potencializador: {0}</GR_GrowthCell_InspectBooster>
+
+  <!-- EN: Insert {1} cell (size {2}) into {0} -->
+  <GR_GrowthCell_InsertInElectroWomb>Inserir célula {1} (tamanho {2}) em {0}</GR_GrowthCell_InsertInElectroWomb>
+
+  <!-- EN: Insert archotech growth cell into {0} -->
+  <GR_ArchoGrowthCell_InsertInElectroWomb>Inserir célula de crescimento arquitecnológica em {0}</GR_ArchoGrowthCell_InsertInElectroWomb>
+
+  <!-- EN: {0} has been destroyed by temperature (needs between 0 and 50 ºC) -->
+  <GR_DestroyedByTemp>{0} foi destruído pela temperatura (precisa de 0 a 50 ºC)</GR_DestroyedByTemp>
+
+  <!-- Excavators -->
+  <!-- EN: No valid genes can be extracted from this animal with this extractor -->
+  <GR_NoValidExtraction>Nenhum gene válido pode ser extraído deste animal com este extrator</GR_NoValidExtraction>
+
+  <!-- EN: This animal has already had its genetic material extracted -->
+  <GR_AlreadyExtracted>Este animal já teve seu material genético extraído</GR_AlreadyExtracted>
+
+  <!-- EN: This genome excavator has {0} uses left -->
+  <GR_ExcavatorUsesLeft>Este extrator de genoma tem {0} usos restantes</GR_ExcavatorUsesLeft>
+
+  <!-- EN: The animal can't be reached by the colonist, or is being interacted with by another colonist -->
+  <GR_ExtractionFailed>O colono não consegue alcançar o animal, ou outro colono está interagindo com ele</GR_ExtractionFailed>
+
+  <!-- Genomorpher -->
+  <!-- EN: Progress: {0} -->
+  <GR_Genomorpher_Progress>Progresso: {0}</GR_Genomorpher_Progress>
+
+  <!-- EN: Designate a growth cell -->
+  <GR_DesignateGrowthCell>Designar uma célula de crescimento</GR_DesignateGrowthCell>
+
+  <!-- EN: Select genomes, genoframe and optionally a booster to create a growthcell of a selected hybrid -->
+  <GR_DesignateGrowthCellDesc>Selecione genomas, uma genoestrutura e, opcionalmente, um potencializador para criar uma célula de crescimento do híbrido selecionado</GR_DesignateGrowthCellDesc>
+
+  <!-- EN: Select genomes, genoframe and optionally a booster to create a growthcell of a selected hybrid -->
+  <GR_GenomorpherExplanation>Selecione genomas, uma genoestrutura e, opcionalmente, um potencializador para criar uma célula de crescimento do híbrido selecionado</GR_GenomorpherExplanation>
+
+  <!-- EN: Use immunity boosters or use safer genome combinations to lower the risk of failure. -->
+  <GR_GenomorpherExplanationPartTwo>Use potencializadores de imunidade ou combinações mais seguras de genomas para reduzir o risco de falha.</GR_GenomorpherExplanationPartTwo>
+
+  <!-- EN: Predicted Outcomes -->
+  <GR_PredictedOutcomes>Resultados previstos</GR_PredictedOutcomes>
+
+  <!-- EN: Failure Outcome -->
+  <GR_FailureOutcome>Resultado de falha</GR_FailureOutcome>
+
+  <!-- EN: Select dominant genome -->
+  <GR_SelectDominantGenome>Selecionar genoma dominante</GR_SelectDominantGenome>
+
+  <!-- EN: Dominant genome affects primary characteristics of the hybrid -->
+  <GR_SelectDominantGenomeExplanation>O genoma dominante afeta as características primárias do híbrido</GR_SelectDominantGenomeExplanation>
+
+  <!-- EN: Select secondary genome -->
+  <GR_SelectSecondaryGenome>Selecionar genoma secundário</GR_SelectSecondaryGenome>
+
+  <!-- EN: Affects the hybrid less than the dominant one -->
+  <GR_SelectSecondaryGenomeExplanation>Afeta o híbrido menos que o dominante</GR_SelectSecondaryGenomeExplanation>
+
+  <!-- EN: Select genoframe -->
+  <GR_SelectGenoframe>Selecionar genoestrutura</GR_SelectGenoframe>
+
+  <!-- EN: Genoframe affects the quality level of the hybrid -->
+  <GR_SelectGenoframeExplanation>A genoestrutura afeta o nível de qualidade do híbrido</GR_SelectGenoframeExplanation>
+
+  <!-- EN: Select booster -->
+  <GR_SelectBooster>Selecionar potencializador</GR_SelectBooster>
+
+  <!-- EN: Boosters affect the speed of the synthesis process as well as the failure chance -->
+  <GR_SelectBoosterExplanation>Potencializadores afetam a velocidade do processo de síntese e a chance de falha</GR_SelectBoosterExplanation>
+
+  <!-- EN: Initiating synthesis will have your colonists deliver all the required ingredients to this Genomorpher. After synthesis concludes, a growthcell of a hybrid will have to be extracted and inserted into an electrowomb where it will grow to maturity. Larger animals may require large electrowomb. -->
+  <GR_InitiateSynthesisExplanation>Iniciar a síntese fará seus colonos entregarem todos os ingredientes necessários a este genomorfador. Após a conclusão da síntese, uma célula de crescimento de híbrido deverá ser extraída e inserida em um eletroútero, onde crescerá até a maturidade. Animais maiores podem exigir um eletroútero grande.</GR_InitiateSynthesisExplanation>
+
+  <!-- EN: Randomize all -->
+  <GR_RandomizeAll>Aleatorizar tudo</GR_RandomizeAll>
+
+  <!-- EN: Initiate synthesis -->
+  <GR_InitiateSynthesis>Iniciar síntese</GR_InitiateSynthesis>
+
+  <!-- EN: Quality: {0} -->
+  <GR_Quality>Qualidade: {0}</GR_Quality>
+
+  <!-- EN: Use higher grade genoframes to increase the quality of the hybrid. -->
+  <GR_QualityExplanation>Use genoestruturas de nível superior para aumentar a qualidade do híbrido.</GR_QualityExplanation>
+
+  <!-- EN: Process will take: {0} -->
+  <GR_ProcessWillTake>O processo levará: {0}</GR_ProcessWillTake>
+
+  <!-- EN: Use growth boosters or construct additional nutrient vats to speed up the process. -->
+  <GR_ProcessDurationExplanation>Use potencializadores de crescimento ou construa tanques de nutrientes adicionais para acelerar o processo.</GR_ProcessDurationExplanation>
+
+  <!-- EN: No ingredients found to start the genomorpher process -->
+  <GR_NoIngredientFound>Nenhum ingrediente encontrado para iniciar o processo do genomorfador</GR_NoIngredientFound>
+
+  <!-- EN: No valid genomes on map -->
+  <GR_NoGenomesInMap>Nenhum genoma válido no mapa</GR_NoGenomesInMap>
+
+  <!-- EN: No valid genoframes on map -->
+  <GR_NoGenoframesInMap>Nenhuma genoestrutura válida no mapa</GR_NoGenoframesInMap>
+
+  <!-- EN: No valid boosters on map -->
+  <GR_NoBoostersInMap>Nenhum potencializador válido no mapa</GR_NoBoostersInMap>
+
+  <!-- EN: Choose dominant genome first -->
+  <GR_ChooseDominantGenomeFirst>Escolha primeiro o genoma dominante</GR_ChooseDominantGenomeFirst>
+
+  <!-- EN: Use no booster -->
+  <GR_ChooseNoBooster>Não usar potencializador</GR_ChooseNoBooster>
+
+  <!-- EN: Ingredients: {0}, {1}, {2}, {3} -->
+  <GR_Genomorpher_Ingredients>Ingredientes: {0}, {1}, {2}, {3}</GR_Genomorpher_Ingredients>
+
+  <!-- EN: Ingredients: {0}, {1}, {2} -->
+  <GR_Genomorpher_Ingredients_NoFrame>Ingredientes: {0}, {1}, {2}</GR_Genomorpher_Ingredients_NoFrame>
+
+  <!-- EN: A growth cell has been produced -->
+  <GR_Genomorpher_Finished>Uma célula de crescimento foi produzida</GR_Genomorpher_Finished>
+
+  <!-- EN: A growth cell without two genomes or without genoframe was created and therefore failed. You should report this as a bug! -->
+  <GR_Malformed_GrowthCell>Uma célula de crescimento foi criada sem dois genomas ou sem uma genoestrutura e, por isso, falhou. Relate isso como um bug!</GR_Malformed_GrowthCell>
+
+  <!-- ElectroWomb -->
+  <!-- EN: Progress: {0} -->
+  <GR_ElectroWomb_Progress>Progresso: {0}</GR_ElectroWomb_Progress>
+
+  <!-- EN: A creature has hatched from an electrowomb -->
+  <GR_ElectroWomb_Finished>Uma criatura nasceu de um eletroútero</GR_ElectroWomb_Finished>
+
+  <!-- EN: A creature has hatched from an electrowomb... but something went terribly wrong! -->
+  <GR_ElectroWomb_Finished_Failure>Uma criatura nasceu de um eletroútero... mas algo deu terrivelmente errado!</GR_ElectroWomb_Finished_Failure>
+
+  <!-- EN: The electrowomb was too small for this creature... something went terribly wrong! -->
+  <GR_ElectroWomb_Finished_Failure_TooSmall>O eletroútero era pequeno demais para esta criatura... algo deu terrivelmente errado!</GR_ElectroWomb_Finished_Failure_TooSmall>
+
+  <!-- EN: This building needs to be placed in an indoors, roofed area -->
+  <GR_MustPlaceRoofed>Esta construção precisa ser colocada em uma área interna e coberta</GR_MustPlaceRoofed>
+
+  <!-- DNA Storage -->
+  <!-- EN: Select genome to harvest -->
+  <GR_SelectGenomeToHarvest>Selecionar genoma para coletar</GR_SelectGenomeToHarvest>
+
+  <!-- EN: Select genome to harvest -->
+  <GR_SelectGenomeToHarvestDesc>Selecionar genoma para coletar</GR_SelectGenomeToHarvestDesc>
+
+  <!-- EN: No endgame genomes! (error) -->
+  <GR_NoEndgameGenomes>Nenhum genoma de fim de jogo! (erro)</GR_NoEndgameGenomes>
+
+  <!-- EN: Genome currently selected for extraction: {0} -->
+  <GR_SelectedGenome>Genoma selecionado para extração: {0}</GR_SelectedGenome>
+
+  <!-- EN: Select animal to harvest -->
+  <GR_SelectAnimalToHarvest>Selecionar animal para coleta</GR_SelectAnimalToHarvest>
+
+  <!-- EN: Select animal to harvest. This animal will be brought to the DNA bank and harvested for its DNA. It will kill the animal and destroy its body. -->
+  <GR_SelectAnimalToHarvestDesc>Selecione um animal para coleta. Ele será levado ao banco de DNA para a extração de seu DNA. Isso matará o animal e destruirá seu corpo.</GR_SelectAnimalToHarvestDesc>
+
+  <!-- EN: No colony animals with that genome -->
+  <GR_NoValidAnimalsToExtract>Nenhum animal da colônia com esse genoma</GR_NoValidAnimalsToExtract>
+
+  <!-- EN: DNA amount progress: {0} -->
+  <GR_DNABankProgress>Progresso da quantidade de DNA: {0}</GR_DNABankProgress>
+
+  <!-- EN: Are you sure you want to change the accepted genome? All current progress will be lost -->
+  <GR_AreYouSureDNA>Tem certeza de que deseja alterar o genoma aceito? Todo o progresso atual será perdido</GR_AreYouSureDNA>
+
+  <!-- EN: There is already a DNA storage bank nearby with that genome chosen -->
+  <GR_DuplicatedGenomeSelection>Já há um banco de armazenamento de DNA próximo com esse genoma selecionado</GR_DuplicatedGenomeSelection>
+
+  <!-- Archocentipede former -->
+  <!-- EN: {0} progress: {1} -->
+  <GR_ArchoFormerGenomeProgress>Progresso de {0}: {1}</GR_ArchoFormerGenomeProgress>
+
+  <!-- EN: Lacking DNA bank progress -->
+  <GR_ArchoFormerDisabledReason>Progresso insuficiente no banco de DNA</GR_ArchoFormerDisabledReason>
+
+  <!-- EN: Create growth cell -->
+  <GR_BeginArchotechGrowthCell>Criar célula de crescimento</GR_BeginArchotechGrowthCell>
+
+  <!-- EN: Begin creation of an archotech growth cell. This will need all neccessary DNA banks to be at 100% progress -->
+  <GR_BeginArchotechGrowthCellDesc>Inicie a criação de uma célula de crescimento arquitecnológica. Todos os bancos de DNA necessários precisam estar com 100% de progresso</GR_BeginArchotechGrowthCellDesc>
+
+  <!-- EN: Archotech Growth Cell progress: {0} -->
+  <GR_ArchoFormerCellProgress>Progresso da célula de crescimento arquitecnológica: {0}</GR_ArchoFormerCellProgress>
+
+  <!-- Archowomb -->
+  <!-- EN: An archotech growth cell needs to be inserted in the archowomb before the process can be started -->
+  <GR_ArchotechGrowthCellNotInserted>Uma célula de crescimento arquitecnológica precisa ser inserida no arquiútero antes de iniciar o processo</GR_ArchotechGrowthCellNotInserted>
+
+  <!-- EN: Archotech Awakening -->
+  <GR_BeginArchotechCentipede>Despertar Arquitecnológico</GR_BeginArchotechCentipede>
+
+  <!-- EN: Create the Archotech centipede. The process will take about 15 days, and the energy signature will be detectable from a long distance away. -->
+  <GR_BeginArchotechCentipedeDesc>Crie a Arquicentopeia. O processo levará cerca de 15 dias, e sua assinatura energética será detectável a grandes distâncias.</GR_BeginArchotechCentipedeDesc>
+
+  <!-- EN: You are ready to start the archotech centipede project.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates that someone is meddling in technology that is far beyond human understanding, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <GR_BeginArchotechCentipedeText>Você está pronto para iniciar o projeto da Arquicentopeia.\n\nO processo levará cerca de 15 dias, e sua assinatura energética será detectável a grandes distâncias. Esse tipo de assinatura indica que alguém está interferindo com uma tecnologia muito além da compreensão humana e atrairá bandos de saqueadores desesperados e enxames de mecanoides mortais.\n\nVocê sofrerá ataques de uma intensidade jamais vista. Prepare suas defesas primeiro.</GR_BeginArchotechCentipedeText>
+
+  <!-- EN: Archowomb progress: {0} -->
+  <GR_ArchoWombProgress>Progresso do arquiútero: {0}</GR_ArchoWombProgress>
+
+  <!-- EN: You've activated the Archotech Project! These colonists were present for the archotech awakening:\n\n{0}\n\nThe Archotech Centipede is now under their control, and you are free to decimate your enemies and control the planet unopposed.\n\nCongratulations, you have won the game with the Vanilla Genetics Expanded mod! -->
+  <GR_GameOverArchotech>Você ativou o Projeto Arquitecnológico! Estes colonos estavam presentes no despertar arquitecnológico:\n\n{0}\n\nA Arquicentopeia agora está sob o controle deles, e você pode dizimar seus inimigos e dominar o planeta sem oposição.\n\nParabéns, você venceu o jogo com o mod Vanilla Genetics Expanded!</GR_GameOverArchotech>
+
+  <!-- Biomechanical lab beacon -->
+  <!-- EN: Decoding strange radio signals in {0} -->
+  <GR_DecodingRadioSignals>Decodificando sinais de rádio estranhos em {0}</GR_DecodingRadioSignals>
+
+  <!-- Mechahybridizer -->
+  <!-- EN: Select paragon to convert -->
+  <GR_SelectParagonToConvert>Selecionar paragão para conversão</GR_SelectParagonToConvert>
+
+  <!-- EN: Select paragon for the mechahybridization process. This animal will be brought to the mechahybridizer and converted into a mechanoid hybrid under the player's control. This process will take 12 hours and blow up one of the nearby mechafuses. -->
+  <GR_SelectParagonToConvertDesc>Selecione um paragão para o processo de mecanohibridização. Este animal será levado ao mecanohibridizador e convertido em um híbrido mecanoide sob o controle do jogador. O processo levará 12 horas e destruirá um dos mecanofusíveis próximos.</GR_SelectParagonToConvertDesc>
+
+  <!-- EN: No colony paragon hybrids present -->
+  <GR_NoValidParagonsToConvert>Nenhum híbrido paragão da colônia presente</GR_NoValidParagonsToConvert>
+
+  <!-- EN: Warning: Due to the mechahybridizer not being shielded by any mechafuses, an ancient mechanoid raid will be on its way from orbit -->
+  <GR_WarningNoFusesLeft>Aviso: como o mecanohibridizador não está protegido por nenhum mecanofusível, uma incursão de mecanoides antigos virá da órbita</GR_WarningNoFusesLeft>
+
+  <!-- EN: Mechahybridization progress: {0} -->
+  <GR_MechahybridizerProgress>Progresso da mecanohibridização: {0}</GR_MechahybridizerProgress>
+
+  <!-- Mecha antenna -->
+  <!-- EN: IFF Coherence: {0} -->
+  <GR_IFFCoherence>Coerência IFF: {0}</GR_IFFCoherence>
+
+  <!-- EN: Mech hybrids affected by this antenna: -->
+  <GR_MechsInThisAntenna>Híbridos mecanoides afetados por esta antena:</GR_MechsInThisAntenna>
+
+  <!-- Hybrid role descriptions-->
+  <!-- EN: Hybrid role -->
+  <GR_HybridRole>Função do híbrido</GR_HybridRole>
+
+  <!-- EN: Combat -->
+  <GR_HybridRoleCombat>Combate</GR_HybridRoleCombat>
+
+  <!-- EN: Farm -->
+  <GR_HybridRoleFarm>Produção</GR_HybridRoleFarm>
+
+  <!-- EN: Utility -->
+  <GR_HybridRoleUtility>Utilidade</GR_HybridRoleUtility>
+
+  <!-- EN: Combat hybrids excel at either melee or ranged combat. These hybrids will benefit the most from implants and controller boosters. -->
+  <GR_HybridRoleCombatDesc>Híbridos de combate se destacam no combate corpo a corpo ou à distância. São os que mais se beneficiam de implantes e potencializadores de controle.</GR_HybridRoleCombatDesc>
+
+  <!-- EN: Farm hybrids produce some sort of resource over time, but generally need to be kept inside an animal pen. These hybrids will not benefit as much from implants and controller boosters. -->
+  <GR_HybridRoleFarmDesc>Híbridos de produção geram algum recurso com o tempo, mas geralmente precisam ser mantidos em um cercado. Eles se beneficiam menos de implantes e potencializadores de controle.</GR_HybridRoleFarmDesc>
+
+  <!-- EN: Utility hybrids bring some kind of mechanic to the colony that isn't strictly used for combat or resource generation. -->
+  <GR_HybridRoleUtilityDesc>Híbridos utilitários oferecem à colônia alguma mecânica que não se limita ao combate ou à geração de recursos.</GR_HybridRoleUtilityDesc>
+
+  <!-- Creature Control Commands -->
+  <!-- EN: Mind control creature -->
+  <GR_CreatureMindControl>Controlar a mente da criatura</GR_CreatureMindControl>
+
+  <!-- EN: Use mind control to order this creature around the map -->
+  <GR_CreatureMindControlDesc>Use controle mental para dar ordens a esta criatura pelo mapa</GR_CreatureMindControlDesc>
+
+  <!-- EN: Rage attack -->
+  <GR_CreatureRageAttack>Ataque de fúria</GR_CreatureRageAttack>
+
+  <!-- EN: Send the creature in a bloodthristy rage against its target -->
+  <GR_CreatureRageAttackDesc>Lance a criatura em uma fúria sanguinária contra seu alvo</GR_CreatureRageAttackDesc>
+
+  <!-- EN: Detonate Chemfuel -->
+  <GR_DetonateChemfuel>Detonar Combustível Químico</GR_DetonateChemfuel>
+
+  <!-- EN: Remotely detonate the chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion -->
+  <GR_DetonateChemfuelDesc>Detona remotamente os reservatórios de combustível químico desta criatura. O animal será afetado e ferido pela explosão resultante</GR_DetonateChemfuelDesc>
+
+  <!-- EN: Inflict Chicken RimPox -->
+  <GR_InflictChickenRimPox>Transmitir Varíola Aviária da Orla</GR_InflictChickenRimPox>
+
+  <!-- EN: Attacks a target and inflicts Chicken RimPox, a debilitating disease -->
+  <GR_InflictChickenRimPoxDesc>Ataca um alvo e transmite Varíola Aviária da Orla, uma doença debilitante</GR_InflictChickenRimPoxDesc>
+
+  <!-- EN: Carrying more weight -->
+  <GR_CarryMore>Carregando mais peso</GR_CarryMore>
+
+  <!-- EN: This hybrid is carrying more weight than usual due to the influence of the animal control hub -->
+  <GR_CarryMoreDesc>Este híbrido carrega mais peso que o normal devido à influência da central de controle animal</GR_CarryMoreDesc>
+
+  <!-- EN: Adrenaline Rush -->
+  <GR_StartAdrenalineBurst>Surto de Adrenalina</GR_StartAdrenalineBurst>
+
+  <!-- EN: Causes the creature to move much faster for a while, at the cost of getting tired afterwards for almost half a day -->
+  <GR_StartAdrenalineBurstDesc>Faz a criatura se mover muito mais rápido por um tempo, ao custo de ficar cansada depois por quase meio dia</GR_StartAdrenalineBurstDesc>
+
+  <!-- EN: Release Insect Clouds -->
+  <GR_ReleaseInsectClouds>Liberar Nuvens de Insetos</GR_ReleaseInsectClouds>
+
+  <!-- EN: Causes the creature to release insect clouds around it, damaging every pawn that isn't an insect hybrid -->
+  <GR_ReleaseInsectCloudsDesc>Faz a criatura liberar nuvens de insetos ao seu redor, ferindo todos os personagens que não sejam híbridos de inseto</GR_ReleaseInsectCloudsDesc>
+
+  <!-- EN: Start Stampede -->
+  <GR_StartStampede>Iniciar Estampida</GR_StartStampede>
+
+  <!-- EN: Stampedes, moving faster and creating dust clouds that block line of view for projectile weapons. Gets the creature tired after a while -->
+  <GR_StartStampedeDesc>Dispara em estampida, movendo-se mais rápido e criando nuvens de poeira que bloqueiam a linha de visão de armas de projéteis. Cansa a criatura após algum tempo</GR_StartStampedeDesc>
+
+  <!-- EN: Release a poisonous cloud -->
+  <GR_CreatePoisonousCloud>Liberar uma nuvem venenosa</GR_CreatePoisonousCloud>
+
+  <!-- EN: Creates a cloud of poison at a target's location -->
+  <GR_CreatePoisonousCloudDesc>Cria uma nuvem de veneno no local do alvo</GR_CreatePoisonousCloudDesc>
+
+  <!-- EN: Start Burrowing -->
+  <GR_StartBurrowing>Iniciar Escavação</GR_StartBurrowing>
+
+  <!-- EN: Sends the creature underground into burrowing mode, making it very resistant to damage for a while -->
+  <GR_StartBurrowingDesc>Envia a criatura para o subsolo em modo de escavação, tornando-a muito resistente a danos por um tempo</GR_StartBurrowingDesc>
+
+  <!-- EN: Increase Stamina -->
+  <GR_StartStamina>Aumentar Vigor</GR_StartStamina>
+
+  <!-- EN: Makes the creature more resistant to damage for a while -->
+  <GR_StartStaminaDesc>Torna a criatura mais resistente a danos por um tempo</GR_StartStaminaDesc>
+
+  <!-- EN: Invoke Insanity -->
+  <GR_StartInvokingInsanity>Invocar Insanidade</GR_StartInvokingInsanity>
+
+  <!-- EN: Invokes the insanity of That Which Man Is Not Meant to Know -->
+  <GR_StartInvokingInsanityDesc>Invoca a insanidade Daquilo Que o Homem Não Deve Conhecer</GR_StartInvokingInsanityDesc>
+
+  <!-- EN: Mecha Blast -->
+  <GR_StartMechaBlast>Explosão Mecânica</GR_StartMechaBlast>
+
+  <!-- EN: Vents exhaust in the tiles surounding the mechanoid hybrid, burning anything close to it -->
+  <GR_StartMechaBlastDesc>Expele gases nas células ao redor do híbrido mecanoide, queimando tudo nas proximidades</GR_StartMechaBlastDesc>
+
+  <!-- EN: Keen Senses -->
+  <GR_StartKeenSenses>Sentidos Aguçados</GR_StartKeenSenses>
+
+  <!-- EN: Makes the creature more aware of its surroundings, increasing its melee capacities (affects sight and consciousness) -->
+  <GR_StartKeenSensesDesc>Torna a criatura mais atenta ao ambiente, aumentando suas capacidades corpo a corpo (afeta a visão e a consciência)</GR_StartKeenSensesDesc>
+
+  <!-- EN: Cat Reflexes -->
+  <GR_StartCatReflexes>Reflexos Felinos</GR_StartCatReflexes>
+
+  <!-- EN: Makes the creature much more agile, improving its chance to dodge melee attacks even further -->
+  <GR_StartCatReflexesDesc>Torna a criatura muito mais ágil, melhorando ainda mais sua chance de esquivar de ataques corpo a corpo</GR_StartCatReflexesDesc>
+
+  <!-- EN: Orbital power beam -->
+  <GR_Orbital>Feixe de energia orbital</GR_Orbital>
+
+  <!-- EN: That's a nice... existance you have there. It would be a shame if someone were to end it. -->
+  <GR_OrbitalDesc>Que... existência bonita você tem aí. Seria uma pena se alguém a encerrasse.</GR_OrbitalDesc>
+
+  <!-- EN: Ability is rechaging. Check animal's health tab -->
+  <GR_AbilityRecharging>A habilidade está recarregando. Consulte a aba de saúde do animal</GR_AbilityRecharging>
+
+  <!-- EN: Poison cloud has a maximum range of 10. Get closer to the target! -->
+  <GR_PoisonCloudRange>A nuvem venenosa tem alcance máximo de 10. Aproxime-se do alvo!</GR_PoisonCloudRange>
+
+  <!-- EN: Invoking insanity has a maximum range of 10. Get closer to the target! -->
+  <GR_InvokingInsanityRange>Invocar insanidade tem alcance máximo de 10. Aproxime-se do alvo!</GR_InvokingInsanityRange>
+
+  <!-- Ideology -->
+  <!-- EN: Genetic worktable speed: implants precept -->
+  <GR_GeneticTableImplantsSpeed>Velocidade da bancada genética: preceito de implantes</GR_GeneticTableImplantsSpeed>
+
+  <!-- Boosters -->
+  <!-- EN: Safety -->
+  <GR_Safety>Segurança</GR_Safety>
+
+  <!-- EN: Stability -->
+  <GR_Stability>Estabilidade</GR_Stability>
+
+  <!-- EN: Time multiplier -->
+  <GR_TimeMultiplier>Multiplicador de tempo</GR_TimeMultiplier>
+
+  <!-- EN: Safety is a number that gets deducted from the Failed outcome chance. For example, safety 5 reduces the risk of the failed outcome by 5% (from 10% to 5%). This value can also be negative, increasing the risk of a failed experiment. -->
+  <GR_SafetyDesc>Segurança é um número subtraído da chance de falha. Por exemplo, segurança 5 reduz o risco de falha em 5% (de 10% para 5%). Esse valor também pode ser negativo, aumentando o risco de um experimento fracassado.</GR_SafetyDesc>
+
+  <!-- EN: Stability is a number that gets deducted from the swap chance. For example, stability 5 means that the base chance of the genes swapping turns from 10% to 5% (becoming more stable). This value can also be negative, which will mean the chance of genomes swapping their positions and resulting in an unwanted hybrid are larger. -->
+  <GR_StabilityDesc>Estabilidade é um número subtraído da chance de inversão. Por exemplo, estabilidade 5 faz a chance básica de os genes se inverterem passar de 10% para 5% (tornando-os mais estáveis). Esse valor também pode ser negativo, o que aumenta a chance de os genomas trocarem de posição e produzirem um híbrido indesejado.</GR_StabilityDesc>
+
+  <!-- EN: Time multiplier accelerates or increases the time taken by the genomorpher to complete its task. A fractional modifier accelerates the process (for example 0.5 means it will take half the usual time), while a modifier larger than 1 slows it down (2 means it will take double the time). -->
+  <GR_TimeMultiplierDesc>O multiplicador de tempo reduz ou aumenta o tempo que o genomorfador leva para concluir sua tarefa. Um modificador fracionário acelera o processo (por exemplo, 0.5 significa metade do tempo normal), enquanto um modificador maior que 1 o desacelera (2 significa o dobro do tempo).</GR_TimeMultiplierDesc>
+
+  <!-- Incidents -->
+  <!-- EN: Roaming monstrosities -->
+  <GR_LetterLabelMonstrositiesArrived>Monstruosidades errantes</GR_LetterLabelMonstrositiesArrived>
+
+  <!-- EN: Some escaped genetically modified monstrosities have been wandering aimlessly through the wilds, and have been attracted to your colony! They are attacking immediately!\n\nThey seem to be afflicted with Greater Scaria, so they won't be able to be tamed, and will die in a few days, even if treated. -->
+  <GR_LetterMonstrositiesArrived>Algumas monstruosidades geneticamente modificadas que escaparam estavam vagando sem rumo pela natureza e foram atraídas para sua colônia! Elas estão atacando imediatamente!\n\nParecem sofrer de escária avançada, por isso não poderão ser domadas e morrerão em poucos dias, mesmo se tratadas.</GR_LetterMonstrositiesArrived>
+
+  <!-- Mod options -->
+  <!-- EN: Genomorpher speed multiplier -->
+  <GR_GenomorpherSpeedMultiplier>Multiplicador de velocidade do genomorfador</GR_GenomorpherSpeedMultiplier>
+
+  <!-- EN: The speed of the Genomorpher process is multiplied by this number. Numbers below 1 decrease the time, while numbers above it increase it. -->
+  <GR_GenomorpherSpeedMultiplierTooltip>A velocidade do processo do genomorfador é multiplicada por este número. Números abaixo de 1 reduzem o tempo, enquanto números acima de 1 o aumentam.</GR_GenomorpherSpeedMultiplierTooltip>
+
+  <!-- EN: Womb speed multiplier -->
+  <GR_WombSpeedMultiplier>Multiplicador de velocidade do útero</GR_WombSpeedMultiplier>
+
+  <!-- EN: The speed of the electrowomb process is multiplied by this number. Numbers below 1 decrease the time, while numbers above it increase it. -->
+  <GR_WombMultiplierTooltip>A velocidade do processo do eletroútero é multiplicada por este número. Números abaixo de 1 reduzem o tempo, enquanto números acima de 1 o aumentam.</GR_WombMultiplierTooltip>
+
+  <!-- EN: Base failure rate -->
+  <GR_FailureRate>Taxa básica de falha</GR_FailureRate>
+
+  <!-- EN: By default, a genomorpher process will fail 10% of the time. This can be affected by boosters and other factors. This setting modifies that 10% base failure rate. -->
+  <GR_FailureRateTooltip>Por padrão, o processo do genomorfador falha em 10% das vezes. Potencializadores e outros fatores podem afetar essa chance. Esta configuração modifica essa taxa básica de falha de 10%.</GR_FailureRateTooltip>
+
+  <!-- EN: Abandoned lab quests multiplier (lower means getting the event more often) -->
+  <GR_QuestRate>Multiplicador de missões de laboratório abandonado (menor significa eventos mais frequentes)</GR_QuestRate>
+
+  <!-- EN: The frequency of the abandoned lab quest being offered is multiplied by this number (with a multiplier of 1, it is offered every between 10 and 30 days at random). Numbers below 1 decrease the time, while numbers above it increase it. Note that this event doesn't "replace" normal quests, it works independently. -->
+  <GR_QuestRateTooltip>A frequência com que a missão de laboratório abandonado é oferecida é multiplicada por este número (com multiplicador 1, ela é oferecida aleatoriamente a cada 10 a 30 dias). Números abaixo de 1 reduzem o tempo, enquanto números acima de 1 o aumentam. Este evento não "substitui" missões normais; funciona de forma independente.</GR_QuestRateTooltip>
+
+  <!-- EN: "Roaming monstrosities" raids multiplier -->
+  <GR_RaidsRate>Multiplicador de incursões de "Monstruosidades errantes"</GR_RaidsRate>
+
+  <!-- EN: The frequency of the roaming, manhunting hybrids attacking your colony event is multiplied by this number (with a multiplier of 1, it is offered every between 30 and 40 days at random). Numbers below 1 decrease the time, while numbers above it increase it. Note that this event doesn't "replace" normal raids, it works independently. -->
+  <GR_RaidsRateTooltip>A frequência do evento em que híbridos errantes caçadores de humanos atacam sua colônia é multiplicada por este número (com multiplicador 1, ele ocorre aleatoriamente a cada 30 a 40 dias). Números abaixo de 1 reduzem o tempo, enquanto números acima de 1 o aumentam. Este evento não "substitui" incursões normais; funciona de forma independente.</GR_RaidsRateTooltip>
+
+  <!-- EN: (every {0} to {1} days) -->
+  <GR_RaidsRateDetails>(a cada {0} a {1} dias)</GR_RaidsRateDetails>
+
+  <!-- EN: Disable all genetic diseases -->
+  <GR_DisableOldAgeDiseases>Desativar todas as doenças genéticas</GR_DisableOldAgeDiseases>
+
+  <!-- EN: Disables all genetic diseases that afflict the hybrids after a given time, depending on their quality. Bear in mind that this effectively means the hybrids won't ever die of old age, as they don't receive "old age" diseases such as dementia. -->
+  <GR_DisableOldAgeDiseasesTooltip>Desativa todas as doenças genéticas que afligem os híbridos após certo tempo, dependendo da qualidade. Isso significa que os híbridos nunca morrerão de velhice, pois não desenvolvem doenças da "velhice", como demência.</GR_DisableOldAgeDiseasesTooltip>
+
+  <!-- EN: Disable "Roaming monstrosities" raids -->
+  <GR_DisableHybridRaids>Desativar incursões de "Monstruosidades errantes"</GR_DisableHybridRaids>
+
+  <!-- EN: Disables the roaming, manhunting hybrids attacking your colony periodically -->
+  <GR_DisableHybridRaidsTooltip>Desativa os ataques periódicos de híbridos errantes caçadores de humanos à sua colônia</GR_DisableHybridRaidsTooltip>
+
+  <!-- EN: Make all hybrids controllable -->
+  <GR_MakeAllHybridsControllable>Tornar todos os híbridos controláveis</GR_MakeAllHybridsControllable>
+
+  <!-- EN: Makes all hybrids draftable, being able to be ordered around by the player, without the need to use a controller booster -->
+  <GR_MakeAllHybridsControllableTooltip>Permite recrutar todos os híbridos e dar ordens a eles, sem precisar usar um potencializador de controle</GR_MakeAllHybridsControllableTooltip>
+
+  <!-- EN: Make all hybrids fertile -->
+  <GR_MakeAllHybridsFertile>Tornar todos os híbridos férteis</GR_MakeAllHybridsFertile>
+
+  <!-- EN: Makes all hybrids popping up from an electrowomb be fertile, and thus able to breed, without needing a fertility unlocker booster. Bear in mind this will still not work on insectoid hybrids, as eusocial insects aren't ever fertile. -->
+  <GR_MakeAllHybridsFertileTooltip>Faz todos os híbridos que saem de um eletroútero serem férteis e, assim, capazes de se reproduzir, sem precisar de um potencializador de fertilidade. Isso ainda não funciona com híbridos insetoides, pois insetos eussociais nunca são férteis.</GR_MakeAllHybridsFertileTooltip>
+
+  <!-- EN: Reset -->
+  <GR_Reset>Restaurar</GR_Reset>
+
+  <!-- EN: Disable growth cell alerts -->
+  <GR_DisableGrowthCellAlerts>Desativar alertas de células de crescimento</GR_DisableGrowthCellAlerts>
+
+  <!-- EN: Disable the pop up message that appears when a growth cell is finished by a genomorpher -->
+  <GR_DisableGrowthCellAlertsTooltip>Desativa a mensagem que aparece quando um genomorfador conclui uma célula de crescimento</GR_DisableGrowthCellAlertsTooltip>
+
+  <!-- EN: Disable electrowomb alerts -->
+  <GR_DisableWombAlerts>Desativar alertas de eletroútero</GR_DisableWombAlerts>
+
+  <!-- EN: Disable the pop up message that appears when a creature finishes growing in an electrowomb -->
+  <GR_DisableWombAlertsTooltip>Desativa a mensagem que aparece quando uma criatura termina de crescer em um eletroútero</GR_DisableWombAlertsTooltip>
+
+  <!-- EN: Disable mech hybrid IFF sensors -->
+  <GR_DisableMechanoidIFF>Desativar sensores IFF de híbridos mecanoides</GR_DisableMechanoidIFF>
+
+  <!-- EN: Disable mechanoid hybrids having a need for a mechahybrid antenna. With this setting ON, mechanoid hybrids will always remain tamed (with base game animal trainability mechanics still present) and you won't need to build any mechahybrid antennas, ever. -->
+  <GR_DisableMechanoidIFFTooltip>Desativa a necessidade de uma antena mecanohíbrida para híbridos mecanoides. Com esta opção ATIVADA, híbridos mecanoides permanecerão domados (as mecânicas de treinabilidade de animais do jogo base continuam valendo) e você nunca precisará construir antenas mecanohíbridas.</GR_DisableMechanoidIFFTooltip>
+
+  <!-- EN: Mechanoid hybrids supported per antenna -->
+  <GR_HybridsPerAntenna>Híbridos mecanoides suportados por antena</GR_HybridsPerAntenna>
+
+  <!-- EN: Choose the amount of hybrids that will be supported for each mechahybrid antenna. Default is five. -->
+  <GR_HybridsPerAntennaTooltip>Escolha a quantidade de híbridos suportados por cada antena mecanohíbrida. O padrão é cinco.</GR_HybridsPerAntennaTooltip>
+
+  <!-- EN: Disable Greater Scaria's 100% rotting -->
+  <GR_DisableGreaterScariaRotting>Desativar apodrecimento de 100% da escária avançada</GR_DisableGreaterScariaRotting>
+
+  <!-- EN: By default, greater scaria will rot corpses 100% of the time. With this setting on, it will instead rot corpses at the same rate as normal scaria, which is a storyteller setting. Bear in mind this means the player will just get meat and leather from the extra raids. -->
+  <GR_DisableGreaterScariaRottingTooltip>Por padrão, a escária avançada apodrece cadáveres em 100% dos casos. Com esta opção ativada, ela apodrecerá cadáveres na mesma proporção da escária normal, definida nas configurações do narrador. Isso significa que o jogador obterá carne e couro das incursões extras.</GR_DisableGreaterScariaRottingTooltip>
+
+  <!-- EN: Random hybrid spawner radius -->
+  <GR_HybridSpawnerRadius>Raio do gerador de híbridos aleatórios</GR_HybridSpawnerRadius>
+
+  <!-- EN: Defines the radius that "Abandoned Lab" quests' random hybrid spawners use to detect player around them and spawn a random hostile hybrid. Default is 12 tiles. WARNING: Cranking this up to 40 is laggy, as the number of tiles in a circle raises exponentially by radius, not linearly. -->
+  <GR_HybridSpawnerRadiusTooltip>Define o raio usado pelos geradores de híbridos aleatórios das missões de "Laboratório Abandonado" para detectar o jogador e gerar um híbrido hostil aleatório. O padrão é 12 células. AVISO: aumentar esse valor para 40 causa lentidão, pois o número de células em um círculo aumenta exponencialmente com o raio, e não de forma linear.</GR_HybridSpawnerRadiusTooltip>
+
+  <!-- Misc -->
+  <!-- EN: Honeycomb production -->
+  <RB_BeeHoneyCombProduction>Produção de favos de mel</RB_BeeHoneyCombProduction>
+
+  <!-- Bee Tags -->
+  <!-- EN: Organic Drone -->
+  <RB_Organic_Drone_Tag>Zangão orgânico</RB_Organic_Drone_Tag>
+
+  <!-- EN: Hybernating Drone -->
+  <RB_Hybernating_Drone_Tag>Zangão hibernante</RB_Hybernating_Drone_Tag>
+
+  <!-- EN: Cattle Drone -->
+  <RB_Cattle_Drone_Tag>Zangão pecuário</RB_Cattle_Drone_Tag>
+
+  <!-- EN: Clucking Drone -->
+  <RB_Clucking_Drone_Tag>Zangão cacarejante</RB_Clucking_Drone_Tag>
+
+  <!-- EN: Exploding Drone -->
+  <RB_Exploding_Drone_Tag>Zangão explosivo</RB_Exploding_Drone_Tag>
+
+  <!-- EN: Horned Drone -->
+  <RB_Horned_Drone_Tag>Zangão chifrudo</RB_Horned_Drone_Tag>
+
+  <!-- EN: Hound Drone -->
+  <RB_Hound_Drone_Tag>Zangão canino</RB_Hound_Drone_Tag>
+
+  <!-- EN: Mecha Drone -->
+  <RB_Mecha_Drone_Tag>Zangão mecanoide</RB_Mecha_Drone_Tag>
+
+  <!-- EN: Megaspidery Drone -->
+  <RB_Megaspidery_Drone_Tag>Zangão megaaranha</RB_Megaspidery_Drone_Tag>
+
+  <!-- EN: Mousy Drone -->
+  <RB_Mousy_Drone_Tag>Zangão roedor</RB_Mousy_Drone_Tag>
+
+  <!-- EN: Purring Drone -->
+  <RB_Purring_Drone_Tag>Zangão ronronante</RB_Purring_Drone_Tag>
+
+  <!-- EN: Scaly Drone -->
+  <RB_Scaly_Drone_Tag>Zangão escamoso</RB_Scaly_Drone_Tag>
+
+  <!-- EN: Organic Queen -->
+  <RB_Organic_Queen_Tag>Rainha orgânica</RB_Organic_Queen_Tag>
+
+  <!-- EN: Hybernating Queen -->
+  <RB_Hybernating_Queen_Tag>Rainha hibernante</RB_Hybernating_Queen_Tag>
+
+  <!-- EN: Cattle Queen -->
+  <RB_Cattle_Queen_Tag>Rainha pecuária</RB_Cattle_Queen_Tag>
+
+  <!-- EN: Clucking Queen -->
+  <RB_Clucking_Queen_Tag>Rainha cacarejante</RB_Clucking_Queen_Tag>
+
+  <!-- EN: Exploding Queen -->
+  <RB_Exploding_Queen_Tag>Rainha explosiva</RB_Exploding_Queen_Tag>
+
+  <!-- EN: Horned Queen -->
+  <RB_Horned_Queen_Tag>Rainha chifruda</RB_Horned_Queen_Tag>
+
+  <!-- EN: Hound Queen -->
+  <RB_Hound_Queen_Tag>Rainha canina</RB_Hound_Queen_Tag>
+
+  <!-- EN: Mecha Queen -->
+  <RB_Mecha_Queen_Tag>Rainha mecanoide</RB_Mecha_Queen_Tag>
+
+  <!-- EN: Megaspidery Queen -->
+  <RB_Megaspidery_Queen_Tag>Rainha megaaranha</RB_Megaspidery_Queen_Tag>
+
+  <!-- EN: Mousy Queen -->
+  <RB_Mousy_Queen_Tag>Rainha roedora</RB_Mousy_Queen_Tag>
+
+  <!-- EN: Purring Queen -->
+  <RB_Purring_Queen_Tag>Rainha ronronante</RB_Purring_Queen_Tag>
+
+  <!-- EN: Scaly Queen -->
+  <RB_Scaly_Queen_Tag>Rainha escamosa</RB_Scaly_Queen_Tag>
+</LanguageData>
+

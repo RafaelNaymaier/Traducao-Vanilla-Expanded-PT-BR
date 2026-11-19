@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: megafauna genome excavator -->
+  <GR_MegafaunaGenomeExcavator.label>extrator de genoma de megafauna</GR_MegafaunaGenomeExcavator.label>
+
+  <!-- EN: A simplified genome extraction device designed to be usable by even the most simple-minded goon, as such it resembles a caulking gun that works in reverse. The best genetic material can be found in the brain and the automated, single-use design instantly compresses this material into a usable genome.\n\nThe desired subject needs to be docile and trusting of the user who intends on scooping out their brain in a process that is not-quite instantaneous. It is recommended to anesthetize the creature as any sudden movement on their part will interrupt the whole process. Alternatively, it will also work on a dead body...\n\n<color=#E5E54C>Gameplay effect:</color> This excavator can be used to acquire the following genomes: -->
+  <GR_MegafaunaGenomeExcavator.description>Um dispositivo simplificado de extração de genoma projetado para ser usado até pelo sujeito mais simplório; por isso, parece uma pistola de calafetagem que funciona ao contrário. O melhor material genético fica no cérebro, e o projeto automatizado de uso único o comprime instantaneamente em um genoma utilizável.\n\nO indivíduo desejado precisa estar dócil e confiar em quem pretende retirar seu cérebro num processo não exatamente instantâneo. Recomenda-se anestesiar a criatura, pois qualquer movimento súbito interromperá todo o processo. Como alternativa, também funciona em um cadáver...\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Este extrator pode obter os seguintes genomas:</GR_MegafaunaGenomeExcavator.description>
+
+  <!-- EN: Use genome excavator -->
+  <GR_MegafaunaGenomeExcavator.comps.CompUsable.useLabel>Usar extrator de genoma</GR_MegafaunaGenomeExcavator.comps.CompUsable.useLabel>
+
+  <!-- EN: megafauna genome -->
+  <GR_MegafaunaGenetic.label>genoma de megafauna</GR_MegafaunaGenetic.label>
+
+  <!-- EN: A payload of megafauna genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 2 genome can only be used as primary genome.\n\n<color=#E5E54C>Extraction:</color> Can be extracted via a megafauna genome excavator from: -->
+  <GR_MegafaunaGenetic.description>Uma carga de material genético de megafauna. Pode ser usada no genomorfador para criar uma célula de crescimento de animal híbrido. Este genoma de nível 2 só pode ser usado como genoma primário.\n\n&lt;color=#E5E54C&gt;Extração:&lt;/color&gt; Pode ser extraído por um extrator de genoma de megafauna de:</GR_MegafaunaGenetic.description>
+
+  <!-- EN: chickenlodon egg (unfert.) -->
+  <GR_ChickenlodonEggUnfertilized.label>ovo de Galinhodonte (não fert.)</GR_ChickenlodonEggUnfertilized.label>
+
+  <!-- EN: Unfertilized chickenlodon egg. It can be eaten raw, but it's much, much better cooked. -->
+  <GR_ChickenlodonEggUnfertilized.description>Ovo não fertilizado de Galinhodonte. Pode ser comido cru, mas fica muito, muito melhor cozido.</GR_ChickenlodonEggUnfertilized.description>
+
+  <!-- EN: chickenlodon egg (fert.) -->
+  <GR_ChickenlodonEggFertilized.label>ovo de Galinhodonte (fert.)</GR_ChickenlodonEggFertilized.label>
+
+  <!-- EN: Fertilized chickenlodon egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a chickenlodon. -->
+  <GR_ChickenlodonEggFertilized.description>Ovo fertilizado de Galinhodonte. Se tudo correr bem, dele nascerá uma destas abominações. Pode ser comido cru, mas fica muito melhor cozido.</GR_ChickenlodonEggFertilized.description>
+
+  <!-- EN: mantistanis egg (unfert.) -->
+  <GR_MantistanisEggUnfertilized.label>ovo de Mantítanis (não fert.)</GR_MantistanisEggUnfertilized.label>
+
+  <!-- EN: Unfertilized mantistanis egg. It can be eaten raw, but it's much, much better cooked. -->
+  <GR_MantistanisEggUnfertilized.description>Ovo não fertilizado de Mantítanis. Pode ser comido cru, mas fica muito, muito melhor cozido.</GR_MantistanisEggUnfertilized.description>
+
+  <!-- EN: mantistanis egg (fert.) -->
+  <GR_MantistanisEggFertilized.label>ovo de Mantítanis (fert.)</GR_MantistanisEggFertilized.label>
+
+  <!-- EN: Fertilized mantistanis egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a mantistanis. -->
+  <GR_MantistanisEggFertilized.description>Ovo fertilizado de Mantítanis. Se tudo correr bem, dele nascerá uma destas abominações. Pode ser comido cru, mas fica muito melhor cozido.</GR_MantistanisEggFertilized.description>
+
+  <!-- EN: paraceramuffalo milk -->
+  <GR_ParaMilk.label>leite de Paraceramúfalo</GR_ParaMilk.label>
+
+  <!-- EN: Paraceramuffalo milk is rich and creamy. Probably too rich in fat, but certainly tasty. -->
+  <GR_ParaMilk.description>Leite de Paraceramúfalo é rico e cremoso. Provavelmente gorduroso demais, mas certamente saboroso.</GR_ParaMilk.description>
+
+  <!-- EN: green milk -->
+  <GR_GreenMilk.label>leite verde</GR_GreenMilk.label>
+
+  <!-- EN: This Lizardochs milk is green coloured, and quite unappetizing. -->
+  <GR_GreenMilk.description>Este leite de Lagartauro é verde e nada apetitoso.</GR_GreenMilk.description>
+
+  <!-- EN: elasmobearium -->
+  <GR_Elasmobearium.label>Elasmourso</GR_Elasmobearium.label>
+
+  <!-- EN: The Elasmobearium is a hybrid of a bear and the ancient ancestor of the rhinoceros. The Elasmobearium is a pretty aggressive omnivore, using its horn to impale its victims and then mauling them with their vicious paws.\n\n<color=#E5E54C>Gameplay effect:</color> All primary bear hybrids have stun attacks. Aside from obviously being a very powerful creature, they produce a wool of excellent quality. -->
+  <GR_Elasmobearium.description>O Elasmourso é um híbrido de urso com o antigo ancestral do rinoceronte. É um onívoro bastante agressivo: empala as vítimas com o chifre e depois as dilacera com patas cruéis.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todos os híbridos primariamente de urso têm ataques atordoantes. Além de ser obviamente poderoso, produz lã de excelente qualidade.</GR_Elasmobearium.description>
+
+  <!-- EN: left claw -->
+  <GR_Elasmobearium.tools.left_claw.label>garra esquerda</GR_Elasmobearium.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <GR_Elasmobearium.tools.right_claw.label>garra direita</GR_Elasmobearium.tools.right_claw.label>
+
+  <!-- EN: horn -->
+  <GR_Elasmobearium.tools.horn.label>chifre</GR_Elasmobearium.tools.horn.label>
+
+  <!-- EN: boomnotherium -->
+  <GR_Boomnotherium.label>Bumanotério</GR_Boomnotherium.label>
+
+  <!-- EN: The Boomnotherium is an hybrid between a boomalope and a large prehistoric relative of modern-day elephants. In latin, boomnotherium roughly translates as "terrible beast that will explode in your ass".\n\nUseful abilities: Boomnotheriums produce huge amounts of chemfuel, and they are "tanky", able to withstand a lot of abuse before exploding. -->
+  <GR_Boomnotherium.description>O Bumanotério é um híbrido de bumalope com um grande parente pré-histórico dos elefantes modernos. Em latim, Bumanotério significa aproximadamente "fera terrível que vai explodir na sua bunda".\n\nHabilidades úteis: Bumanotérios produzem enormes quantidades de combustível químico e são "tanques", capazes de suportar muito castigo antes de explodir.</GR_Boomnotherium.description>
+
+  <!-- EN: tusk -->
+  <GR_Boomnotherium.tools.tusk.label>presa</GR_Boomnotherium.tools.tusk.label>
+
+  <!-- EN: left foot -->
+  <GR_Boomnotherium.tools.left_foot.label>pé esquerdo</GR_Boomnotherium.tools.left_foot.label>
+
+  <!-- EN: right foot -->
+  <GR_Boomnotherium.tools.right_foot.label>pé direito</GR_Boomnotherium.tools.right_foot.label>
+
+  <!-- EN: head -->
+  <GR_Boomnotherium.tools.head.label>cabeça</GR_Boomnotherium.tools.head.label>
+
+  <!-- EN: chickenlodon -->
+  <GR_Chickenlodon.label>Galinhodonte</GR_Chickenlodon.label>
+
+  <!-- EN: The chickenlodon is a very weird cross between one of the most fearsome predators ever existing... and a chicken. A saber-toothed chicken, if you will. -->
+  <GR_Chickenlodon.description>O Galinhodonte é um cruzamento muito estranho entre um dos predadores mais temíveis que já existiram... e uma galinha. Uma galinha-dentes-de-sabre, se preferir.</GR_Chickenlodon.description>
+
+  <!-- EN: left claw -->
+  <GR_Chickenlodon.tools.left_claw.label>garra esquerda</GR_Chickenlodon.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <GR_Chickenlodon.tools.right_claw.label>garra direita</GR_Chickenlodon.tools.right_claw.label>
+
+  <!-- EN: mantistanis -->
+  <GR_Mantistanis.label>Mantítanis</GR_Mantistanis.label>
+
+  <!-- EN: Mixing the genes of one of the biggest carnivorous birds ever existing and those of a praying mantis is either a genious idea, or anathema. The Mantistanis stalks its prey by standing incredibly still and launching itself to attack with lightning speed.\n\n<color=#E5E54C>Gameplay effect:</color> All insectoid hybrids have good armor and no toxic sensitivity, but they are always sterile and can't reproduce, even if a fertility booster is used to create them. Slight regenerative properties. -->
+  <GR_Mantistanis.description>Misturar genes de uma das maiores aves carnívoras que já existiram com os de um louva-a-deus é uma ideia genial ou uma heresia. O Mantítanis espreita a presa ficando incrivelmente imóvel e se lança ao ataque com velocidade de relâmpago.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todos os híbridos insetoides têm boa armadura e nenhuma sensibilidade tóxica, mas são sempre estéreis e não podem se reproduzir, mesmo se criados com um potencializador de fertilidade. Leves propriedades regenerativas.</GR_Mantistanis.description>
+
+  <!-- EN: claws -->
+  <GR_Mantistanis.tools.claws.label>garras</GR_Mantistanis.tools.claws.label>
+
+  <!-- EN: mantis blades -->
+  <GR_Mantistanis.tools.mantis_blades.label>lâminas de louva-a-deus</GR_Mantistanis.tools.mantis_blades.label>
+
+  <!-- EN: paraceramuffalo -->
+  <GR_Paraceramuffalo.label>Paraceramúfalo</GR_Paraceramuffalo.label>
+
+  <!-- EN: The Paraceratherium was the biggest land mammal to ever exist. When you hibridize it with a sturdy muffalo, the resulting creature is the most powerful pack animal ever created. Incredibly stubborn and bad-tempered, though.\n\n<color=#E5E54C>Gameplay effect:</color> Produces wool and milk, and acts as an incredibly strong -albeit slow- pack beast. -->
+  <GR_Paraceramuffalo.description>O Paraceratherium foi o maior mamífero terrestre que já existiu. Cruzá-lo com um múfalo robusto resulta no animal de carga mais poderoso já criado. Porém, é incrivelmente teimoso e mal-humorado.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Produz lã e leite e atua como um animal de carga incrivelmente forte, embora lento.</GR_Paraceramuffalo.description>
+
+  <!-- EN: left hoof -->
+  <GR_Paraceramuffalo.tools.left_hoof.label>casco esquerdo</GR_Paraceramuffalo.tools.left_hoof.label>
+
+  <!-- EN: right hoof -->
+  <GR_Paraceramuffalo.tools.right_hoof.label>casco direito</GR_Paraceramuffalo.tools.right_hoof.label>
+
+  <!-- EN: lizardochs -->
+  <GR_Lizardochs.label>Lagartauro</GR_Lizardochs.label>
+
+  <!-- EN: The lizardochs is basically a reptilian bull, an hybrid between a lizard and the ancestor of domesticated cattle. The lizardochs needs little substenance to survive, at least for a creature of its size, and can be used as a pack animal, which makes it ideal to use in caravans through warm and dry lands such as deserts.\n\n<color=#E5E54C>Gameplay effect:</color> All reptile hybrids have good temperature tolerance ranges and venomous attacks. Produces milk, and acts as a pack animal that needs little food. -->
+  <GR_Lizardochs.description>O Lagartauro é basicamente um touro reptiliano, híbrido de lagarto com o ancestral do gado domesticado. Precisa de pouco sustento, pelo menos para seu tamanho, e pode ser usado como animal de carga, ideal para caravanas por terras quentes e secas como desertos.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todos os híbridos reptilianos têm boas faixas de tolerância à temperatura e ataques venenosos. Produz leite e atua como animal de carga que precisa de pouca comida.</GR_Lizardochs.description>
+
+  <!-- EN: left hoof -->
+  <GR_Lizardochs.tools.left_hoof.label>casco esquerdo</GR_Lizardochs.tools.left_hoof.label>
+
+  <!-- EN: right hoof -->
+  <GR_Lizardochs.tools.right_hoof.label>casco direito</GR_Lizardochs.tools.right_hoof.label>
+
+  <!-- EN: horn -->
+  <GR_Lizardochs.tools.horn.label>chifre</GR_Lizardochs.tools.horn.label>
+
+  <!-- EN: head -->
+  <GR_Lizardochs.tools.head.label>cabeça</GR_Lizardochs.tools.head.label>
+
+  <!-- EN: doedicoon -->
+  <GR_Doedicoon.label>Doediguaxinim</GR_Doedicoon.label>
+
+  <!-- EN: This armoured rodent is an hybrid of a raccoon and a Doedicurus. The Doedicoon breeds fast, and its armor can be useful in the frontlines.\n\n<color=#E5E54C>Gameplay effect:</color> All rodent hybrids have fast gestation, as long as a fertility unblocker was used when creating them in the genomorpher. Armoured rodent -->
+  <GR_Doedicoon.description>Este roedor blindado é um híbrido de guaxinim com Doedicurus. O Doediguaxinim se reproduz rápido, e sua armadura pode ser útil na linha de frente.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todos os híbridos de roedor têm gestação rápida, desde que um desbloqueador de fertilidade tenha sido usado na criação no genomorfador. Roedor blindado</GR_Doedicoon.description>
+
+  <!-- EN: tail -->
+  <GR_Doedicoon.tools.tail.label>cauda</GR_Doedicoon.tools.tail.label>
+
+  <!-- EN: left claw -->
+  <GR_Doedicoon.tools.left_claw.label>garra esquerda</GR_Doedicoon.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <GR_Doedicoon.tools.right_claw.label>garra direita</GR_Doedicoon.tools.right_claw.label>
+
+  <!-- EN: thrumdraeodon -->
+  <GR_Thrumdraeodon.label>Trumbodonte</GR_Thrumdraeodon.label>
+
+  <!-- EN: A huge, boar-like animal that will eat anything on its path. Thrumdraedons are cunning and resourceful.\n\n<color=#E5E54C>Gameplay effect:</color> All colossal hybrids have very slow attacks, but hit very hard, and possess natural armor. Keen senses ability: Twice a day, the Thrumdraeodon can activate an ability that gives it increased awareness of its surreoundings. -->
+  <GR_Thrumdraeodon.description>Um animal enorme, semelhante a um javali, que come tudo em seu caminho. Trumbodontes são astutos e engenhosos.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todos os híbridos colossais têm ataques muito lentos, mas golpeiam com muita força e possuem armadura natural. Habilidade sentidos aguçados: duas vezes ao dia, o Trumbodonte pode ativar uma habilidade que aumenta sua percepção do ambiente.</GR_Thrumdraeodon.description>
+
+  <!-- EN: horn -->
+  <GR_Thrumdraeodon.tools.horn.label>chifre</GR_Thrumdraeodon.tools.horn.label>
+
+  <!-- EN: left hoof -->
+  <GR_Thrumdraeodon.tools.left_hoof.label>casco esquerdo</GR_Thrumdraeodon.tools.left_hoof.label>
+
+  <!-- EN: right hoof -->
+  <GR_Thrumdraeodon.tools.right_hoof.label>casco direito</GR_Thrumdraeodon.tools.right_hoof.label>
+
+  <!-- EN: wooly Wolf -->
+  <GR_WoolyWolf.label>Lobolanoso</GR_WoolyWolf.label>
+
+  <!-- EN: Just like Wooly Mammoths and Wooly Rhinos, the Wooly Wolf is a creature perfectly adapted to cold climates. Wooly wolves are an excellent source of high quality wool, since they produce it much faster than a mammoth.\n\nUseful abilities: Fast wool production -->
+  <GR_WoolyWolf.description>Assim como mamutes e rinocerontes lanosos, o Lobolanoso é perfeitamente adaptado a climas frios. Lobolanosos são excelentes fontes de lã de alta qualidade, pois a produzem muito mais rápido que um mamute.\n\nHabilidades úteis: produção rápida de lã</GR_WoolyWolf.description>
+
+  <!-- EN: left claw -->
+  <GR_WoolyWolf.tools.left_claw.label>garra esquerda</GR_WoolyWolf.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <GR_WoolyWolf.tools.right_claw.label>garra direita</GR_WoolyWolf.tools.right_claw.label>
+
+  <!-- EN: tusk -->
+  <GR_WoolyWolf.tools.tusk.label>presa</GR_WoolyWolf.tools.tusk.label>
+</LanguageData>
+

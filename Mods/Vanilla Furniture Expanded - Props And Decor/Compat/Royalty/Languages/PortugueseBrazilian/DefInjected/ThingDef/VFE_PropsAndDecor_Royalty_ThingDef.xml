@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: activator -->
+  <VFEPD_Activator.label>ativador</VFEPD_Activator.label>
+
+  <!-- EN: A timed mechanoid activation unit. After counting down, it will... do nothing... Welp. -->
+  <VFEPD_Activator.description>Uma unidade de ativação mecanoide temporizada. Após a contagem regressiva, ela vai... não fazer nada... Pois é.</VFEPD_Activator.description>
+
+  <!-- EN: activator proximity -->
+  <VFEPD_ActivatorProx.label>ativador de proximidade</VFEPD_ActivatorProx.label>
+
+  <!-- EN: A proximity alarm for dormant mechanoids. If it detects a human-like threat nearby, it will... do nothing... Welp. -->
+  <VFEPD_ActivatorProx.description>Um alarme de proximidade para mecanoides adormecidos. Se detectar uma ameaça humanoide por perto, ele vai... não fazer nada... Pois é.</VFEPD_ActivatorProx.description>
+
+  <!-- EN: climate adjuster -->
+  <VFEPD_ClimateAdjuster.label>ajustador climático</VFEPD_ClimateAdjuster.label>
+
+  <!-- EN: An ultratech device for controlling climate. Using chemicals and exotic fields to manipulate the atmosphere, it shifts the temperature in this region of the world. Looking inside, you'll discover it's actually a cardboard cutout without any relevant machinery. -->
+  <VFEPD_ClimateAdjuster.description>Um dispositivo de ultratecnologia para controlar o clima. Usa produtos químicos e campos exóticos para manipular a atmosfera, alterando a temperatura nesta região do mundo. Ao olhar por dentro, você descobrirá que é apenas uma peça de papelão sem nenhum maquinário relevante.</VFEPD_ClimateAdjuster.description>
+
+  <!-- EN: inactive defoliator -->
+  <VFEPD_Defoliator.label>desfolhador inativo</VFEPD_Defoliator.label>
+
+  <!-- EN: An area-denial device which annihilates nearby plants without affecting animals. Permanently out of order. -->
+  <VFEPD_Defoliator.description>Um dispositivo de bloqueio de área que aniquila plantas próximas sem afetar animais. Permanentemente fora de serviço.</VFEPD_Defoliator.description>
+
+  <!-- EN: EMI dynamo -->
+  <VFEPD_EMIDynamo.label>Dínamo de interferência eletromagnética</VFEPD_EMIDynamo.label>
+
+  <!-- EN: A massive electromagnetic interference generator. It interferes with or shuts down electrical devices in nearby regions. Looking inside, you'll discover it's actually a cardboard cutout without any relevant machinery. -->
+  <VFEPD_EMIDynamo.description>Um enorme gerador de interferência eletromagnética. Interfere em dispositivos elétricos de regiões próximas ou os desliga. Ao olhar por dentro, você descobrirá que é apenas uma peça de papelão sem nenhum maquinário relevante.</VFEPD_EMIDynamo.description>
+
+  <!-- EN: deactivated gloomlight -->
+  <VFEPD_Gloomlight.label>luz sombria desativada</VFEPD_Gloomlight.label>
+
+  <!-- EN: A self-powered mechanoid node of unknown function. Deactivated. -->
+  <VFEPD_Gloomlight.description>Um nó mecanoide de função desconhecida, com alimentação própria. Desativado.</VFEPD_Gloomlight.description>
+
+  <!-- EN: mech assembler -->
+  <VFEPD_MechAssembler.label>montador de mecanoides</VFEPD_MechAssembler.label>
+
+  <!-- EN: An automated mechanoid factory. Deactivated and sealed shut. -->
+  <VFEPD_MechAssembler.description>Uma fábrica mecanoide automatizada. Desativada e hermeticamente fechada.</VFEPD_MechAssembler.description>
+
+  <!-- EN: mech capsule -->
+  <VFEPD_MechCapsule.label>cápsula mecanoide</VFEPD_MechCapsule.label>
+
+  <!-- EN: A mechanoid storage and deployment capsule. Sealed shut and inactive. -->
+  <VFEPD_MechCapsule.description>Uma cápsula de armazenamento e mobilização mecanoide. Hermeticamente fechada e inativa.</VFEPD_MechCapsule.description>
+
+  <!-- EN: mech capsule, open -->
+  <VFEPD_MechCapsuleOpen.label>cápsula mecanoide aberta</VFEPD_MechCapsuleOpen.label>
+
+  <!-- EN: A mechanoid storage and deployment capsule. Open and empty. -->
+  <VFEPD_MechCapsuleOpen.description>Uma cápsula de armazenamento e mobilização mecanoide. Aberta e vazia.</VFEPD_MechCapsuleOpen.description>
+
+  <!-- EN: drop beacon -->
+  <VFEPD_MechDropBeacon.label>sinalizador de desembarque</VFEPD_MechDropBeacon.label>
+
+  <!-- EN: A mechanoid reinforcement drop beacon. When activated, it does nothing, because it's not real. Imaginary mechanoids can't hurt you. -->
+  <VFEPD_MechDropBeacon.description>Um sinalizador de desembarque de reforços mecanoides. Quando ativado, não faz nada, pois não é real. Mecanoides imaginários não podem machucar você.</VFEPD_MechDropBeacon.description>
+
+  <!-- EN: psychic droner -->
+  <VFEPD_PsychicDroner.label>emissor de zumbido psíquico</VFEPD_PsychicDroner.label>
+
+  <!-- EN: An archotech device transmitting the thoughts of a mad superintelligence. It generates a massive psychic drone tuned to one gender and affecting a whole region of the planet. Looking inside, you'll discover it's actually a cardboard cutout without any relevant machinery. -->
+  <VFEPD_PsychicDroner.description>Um dispositivo arquotécnico que transmite os pensamentos de uma superinteligência enlouquecida. Gera um enorme zumbido psíquico sintonizado para um gênero e que afeta uma região inteira do planeta. Ao olhar por dentro, você descobrirá que é apenas uma peça de papelão sem nenhum maquinário relevante.</VFEPD_PsychicDroner.description>
+
+  <!-- EN: psychic suppressor -->
+  <VFEPD_PsychicSuppressor.label>supressor psíquico</VFEPD_PsychicSuppressor.label>
+
+  <!-- EN: An archotech device that generates a massive psychic suppression field tuned to a particular gender. People of that gender have their psychic activity suppressed, reducing their consciousness. Looking inside, you'll discover it's actually a cardboard cutout without any relevant machinery. -->
+  <VFEPD_PsychicSuppressor.description>Um dispositivo arquotécnico que gera um enorme campo de supressão psíquica sintonizado para um gênero específico. As pessoas desse gênero têm sua atividade psíquica suprimida, reduzindo a consciência. Ao olhar por dentro, você descobrirá que é apenas uma peça de papelão sem nenhum maquinário relevante.</VFEPD_PsychicSuppressor.description>
+
+  <!-- EN: fake shield -->
+  <VFEPD_ShieldGenerator.label>escudo falso</VFEPD_ShieldGenerator.label>
+
+  <!-- EN: A shielding device which projects a momentum repulsor field. Or it would, it it wasn't so fake. -->
+  <VFEPD_ShieldGenerator.description>Um dispositivo de escudo que projeta um campo de repulsão de impulso. Ou projetaria, se não fosse tão falso.</VFEPD_ShieldGenerator.description>
+
+  <!-- EN: fake low-shield -->
+  <VFEPD_ShieldGeneratorLow.label>escudo baixo falso</VFEPD_ShieldGeneratorLow.label>
+
+  <!-- EN: A shielding device which projects a momentum repulsor field. Or it would, it it wasn't so fake. -->
+  <VFEPD_ShieldGeneratorLow.description>Um dispositivo de escudo que projeta um campo de repulsão de impulso. Ou projetaria, se não fosse tão falso.</VFEPD_ShieldGeneratorLow.description>
+
+  <!-- EN: smoke spewer -->
+  <VFEPD_SmokeSpewer.label>emissor de fumaça</VFEPD_SmokeSpewer.label>
+
+  <!-- EN: An ultratech weapon of mass destruction designed for area denial. By harvesting available compounds and converting them into self-reproducing opaque molecules, it can spew enough smoke to block the sun in a whole region of the planet. Looking inside, you'll discover it's actually a cardboard cutout without any relevant machinery. -->
+  <VFEPD_SmokeSpewer.description>Uma arma de destruição em massa de ultratecnologia, projetada para bloqueio de área. Ao coletar compostos disponíveis e convertê-los em moléculas opacas autorreplicantes, pode liberar fumaça suficiente para bloquear o sol em uma região inteira do planeta. Ao olhar por dentro, você descobrirá que é apenas uma peça de papelão sem nenhum maquinário relevante.</VFEPD_SmokeSpewer.description>
+
+  <!-- EN: sun blocker -->
+  <VFEPD_SunBlocker.label>bloqueador solar</VFEPD_SunBlocker.label>
+
+  <!-- EN: An ultratech machine that generates a sheet of exotic fields at high altitude, turning the sky opaque and blocking the sun. Looking inside, you'll discover it's actually a cardboard cutout without any relevant machinery. -->
+  <VFEPD_SunBlocker.description>Uma máquina de ultratecnologia que gera uma camada de campos exóticos em grande altitude, tornando o céu opaco e bloqueando o sol. Ao olhar por dentro, você descobrirá que é apenas uma peça de papelão sem nenhum maquinário relevante.</VFEPD_SunBlocker.description>
+
+  <!-- EN: toxic spewer -->
+  <VFEPD_ToxicSpewer.label>emissor tóxico</VFEPD_ToxicSpewer.label>
+
+  <!-- EN: An ultratech weapon of mass destruction designed for area denial. This device harvests available compounds and converts them into self-reproducing poisons. By spewing these into the atmosphere, it can poison a whole region of the planet. Looking inside, you'll discover it's actually a cardboard cutout without any relevant machinery. -->
+  <VFEPD_ToxicSpewer.description>Uma arma de destruição em massa de ultratecnologia, projetada para bloqueio de área. Este dispositivo coleta compostos disponíveis e os converte em venenos autorreplicantes. Ao liberá-los na atmosfera, pode envenenar uma região inteira do planeta. Ao olhar por dentro, você descobrirá que é apenas uma peça de papelão sem nenhum maquinário relevante.</VFEPD_ToxicSpewer.description>
+
+  <!-- EN: fake power cell -->
+  <VFEPD_UnstablePowerCell.label>célula de energia falsa</VFEPD_UnstablePowerCell.label>
+
+  <!-- EN: A fake mechanoid power generation unit. It won't output any power. -->
+  <VFEPD_UnstablePowerCell.description>Uma unidade falsa de geração de energia mecanoide. Não produzirá energia alguma.</VFEPD_UnstablePowerCell.description>
+
+  <!-- EN: weather controller -->
+  <VFEPD_WeatherController.label>controlador climático</VFEPD_WeatherController.label>
+
+  <!-- EN: An ultratech device for controlling weather. Using chemicals and exotic fields, it forces the weather into a particular configuration. Looking inside, you'll discover it's actually a cardboard cutout without any relevant machinery. -->
+  <VFEPD_WeatherController.description>Um dispositivo de ultratecnologia para controlar o tempo. Usa produtos químicos e campos exóticos para forçar uma condição meteorológica específica. Ao olhar por dentro, você descobrirá que é apenas uma peça de papelão sem nenhum maquinário relevante.</VFEPD_WeatherController.description>
+
+  <!-- EN: decorative drape -->
+  <VFEPD_DrapeProp.label>cortina decorativa</VFEPD_DrapeProp.label>
+
+  <!-- EN: A decorative drape. This will not satisfy any noble requirements, as it is just for decorative purposes. -->
+  <VFEPD_DrapeProp.description>Uma cortina decorativa. Não atende às exigências de nobres, pois serve apenas para decoração.</VFEPD_DrapeProp.description>
+
+  <!-- EN: fake anima grass -->
+  <VFEPD_FakeAnimaGrass.label>grama anima falsa</VFEPD_FakeAnimaGrass.label>
+
+  <!-- EN: Plastic grass painted in the same colour as anima grass. Probably terrible for the environment. -->
+  <VFEPD_FakeAnimaGrass.description>Grama de plástico pintada da mesma cor da grama anima. Provavelmente terrível para o meio ambiente.</VFEPD_FakeAnimaGrass.description>
+
+  <!-- EN: fake anima tree -->
+  <VFEPD_FakeAnimaTree.label>árvore anima falsa</VFEPD_FakeAnimaTree.label>
+
+  <!-- EN: Plastic tree imitating an anima tree. Doesn't provide any sort of psychic powers. -->
+  <VFEPD_FakeAnimaTree.description>Uma árvore de plástico imitando uma árvore anima. Não fornece nenhum tipo de poder psíquico.</VFEPD_FakeAnimaTree.description>
+
+  <!-- EN: landing beacon -->
+  <VFEPD_ShipLandingBeacon.label>sinalizador de pouso</VFEPD_ShipLandingBeacon.label>
+
+  <!-- EN: Marks the corner of a landing area. Shuttles will ignore this one as it is inactive. -->
+  <VFEPD_ShipLandingBeacon.description>Marca o canto de uma área de pouso. Naves auxiliares ignoram este exemplar porque está inativo.</VFEPD_ShipLandingBeacon.description>
+
+  <!-- EN: shuttle -->
+  <VFEPD_Shuttle.label>nave auxiliar</VFEPD_Shuttle.label>
+
+  <!-- EN: An out-of-service imperial shuttle. -->
+  <VFEPD_Shuttle.description>Uma nave auxiliar imperial fora de serviço.</VFEPD_Shuttle.description>
+
+  <!-- EN: crashed shuttle -->
+  <VFEPD_ShuttleCrashed.label>nave auxiliar caída</VFEPD_ShuttleCrashed.label>
+
+  <!-- EN: A VERY out-of-service imperial shuttle. -->
+  <VFEPD_ShuttleCrashed.description>Uma nave auxiliar imperial MUITO fora de serviço.</VFEPD_ShuttleCrashed.description>
+</LanguageData>
+

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: comms terminal -->
+  <VFEPD_CommsTerminal.label>terminal de comunicações</VFEPD_CommsTerminal.label>
+
+  <!-- EN: A compact version of a comms console that allows radio contact with other factions and orbital traders. Inactive. -->
+  <VFEPD_CommsTerminal.description>Uma versão compacta de um console de comunicações que permite contato por rádio com outras facções e comerciantes orbitais. Inativo.</VFEPD_CommsTerminal.description>
+
+  <!-- EN: copilot console -->
+  <VFEPD_CopilotConsole.label>console do copiloto</VFEPD_CopilotConsole.label>
+
+  <!-- EN: An auxiliary interface that allows a copilot to assist in launching and piloting a gravship. Inactive. -->
+  <VFEPD_CopilotConsole.description>Uma interface auxiliar que permite a um copiloto ajudar na decolagem e pilotagem de uma gravinave. Inativa.</VFEPD_CopilotConsole.description>
+
+  <!-- EN: destroyed grav field extender -->
+  <VFEPD_DestroyedGravExtender.label>extensor de campo gravitacional destruído</VFEPD_DestroyedGravExtender.label>
+
+  <!-- EN: This device once expanded a gravship’s build area, but it is now shattered. -->
+  <VFEPD_DestroyedGravExtender.description>Este dispositivo ampliava a área de construção de uma gravinave, mas agora está despedaçado.</VFEPD_DestroyedGravExtender.description>
+
+  <!-- EN: destroyed large thruster -->
+  <VFEPD_DestroyedLargeThruster.label>propulsor grande destruído</VFEPD_DestroyedLargeThruster.label>
+
+  <!-- EN: This powerful thruster once pushed gravships across space, but now it lies broken. -->
+  <VFEPD_DestroyedLargeThruster.description>Este propulsor potente já impulsionou gravinaves pelo espaço, mas agora está quebrado.</VFEPD_DestroyedLargeThruster.description>
+
+  <!-- EN: destroyed small astrofuel tank -->
+  <VFEPD_DestroyedSmallAstrofuelTank.label>tanque de astrocombustível pequeno destruído</VFEPD_DestroyedSmallAstrofuelTank.label>
+
+  <!-- EN: This tank once stored astrofuel for thrusters, but it has been destroyed. -->
+  <VFEPD_DestroyedSmallAstrofuelTank.description>Este tanque armazenava astrocombustível para propulsores, mas foi destruído.</VFEPD_DestroyedSmallAstrofuelTank.description>
+
+  <!-- EN: destroyed small heatsink -->
+  <VFEPD_DestroyedSmallHeatsink.label>dissipador de calor pequeno destruído</VFEPD_DestroyedSmallHeatsink.label>
+
+  <!-- EN: This heatsink once cooled the gravship’s systems, but it has burned out. -->
+  <VFEPD_DestroyedSmallHeatsink.description>Este dissipador de calor resfriava os sistemas da gravinave, mas queimou.</VFEPD_DestroyedSmallHeatsink.description>
+
+  <!-- EN: destroyed small oxygen tank -->
+  <VFEPD_DestroyedSmallOxygenTank.label>tanque de oxigênio pequeno destruído</VFEPD_DestroyedSmallOxygenTank.label>
+
+  <!-- EN: This tank once supplied oxygen to the gravship, but it’s now broken and useless. -->
+  <VFEPD_DestroyedSmallOxygenTank.description>Este tanque fornecia oxigênio à gravinave, mas agora está quebrado e inútil.</VFEPD_DestroyedSmallOxygenTank.description>
+
+  <!-- EN: destroyed small thruster -->
+  <VFEPD_DestroyedSmallThruster.label>propulsor pequeno destruído</VFEPD_DestroyedSmallThruster.label>
+
+  <!-- EN: This thruster once powered the gravship, but it is now wrecked beyond use. -->
+  <VFEPD_DestroyedSmallThruster.description>Este propulsor impulsionava a gravinave, mas agora está destruído além de qualquer uso.</VFEPD_DestroyedSmallThruster.description>
+
+  <!-- EN: faux plant -->
+  <VFEPD_FauxPlant.label>planta artificial</VFEPD_FauxPlant.label>
+
+  <!-- EN: An artificial plant in a sturdy metal pot. It requires no light, water, or air, making it perfect for adding beauty to even the most inhospitable gravship environments. -->
+  <VFEPD_FauxPlant.description>Uma planta artificial em um vaso metálico resistente. Não precisa de luz, água nem ar, sendo perfeita para embelezar até os ambientes mais inóspitos de uma gravinave.</VFEPD_FauxPlant.description>
+
+  <!-- EN: grav field amplifier -->
+  <VFEPD_GravFieldAmplifier.label>amplificador de campo gravitacional</VFEPD_GravFieldAmplifier.label>
+
+  <!-- EN: An advanced ultratech device that dramatically increases the size of a gravship. Inactive. -->
+  <VFEPD_GravFieldAmplifier.description>Um dispositivo avançado de ultratecnologia que aumenta drasticamente o tamanho de uma gravinave. Inativo.</VFEPD_GravFieldAmplifier.description>
+
+  <!-- EN: gravship shelf -->
+  <VFEPD_GravshipShelf.label>estante de gravinave</VFEPD_GravshipShelf.label>
+
+  <!-- EN: A reinforced storage shelf designed for use aboard gravships. Made out of cardboard, can't hold any items. -->
+  <VFEPD_GravshipShelf.description>Uma estante de armazenamento reforçada, projetada para uso a bordo de gravinaves. Feita de papelão, não pode guardar itens.</VFEPD_GravshipShelf.description>
+
+  <!-- EN: pilot bridge -->
+  <VFEPD_PilotBridge.label>ponte de pilotagem</VFEPD_PilotBridge.label>
+
+  <!-- EN: An interface that allows launching and piloting a gravhulk. Inactive. -->
+  <VFEPD_PilotBridge.description>Uma interface que permite decolar e pilotar um gravicolosso. Inativa.</VFEPD_PilotBridge.description>
+
+  <!-- EN: pilot cockpit -->
+  <VFEPD_PilotCockpit.label>cabine de pilotagem</VFEPD_PilotCockpit.label>
+
+  <!-- EN: An interface that allows launching and piloting a gravjumper. Inactive. -->
+  <VFEPD_PilotCockpit.description>Uma interface que permite decolar e pilotar um gravisaltador. Inativa.</VFEPD_PilotCockpit.description>
+
+  <!-- EN: sealant popper -->
+  <VFEPD_SealantPopper.label>dispersor de selante</VFEPD_SealantPopper.label>
+
+  <!-- EN: An inactive sealant popper. -->
+  <VFEPD_SealantPopper.description>Um dispersor de selante inativo.</VFEPD_SealantPopper.description>
+
+  <!-- EN: agrocell -->
+  <VFEPD_VGE_Agrocell.label>agrocélula</VFEPD_VGE_Agrocell.label>
+
+  <!-- EN: An enclosed, space-efficient growing unit designed for use on gravships. Upon closer inspection, it's just a decal! -->
+  <VFEPD_VGE_Agrocell.description>Uma unidade de cultivo fechada e compacta, projetada para gravinaves. Olhando de perto, é só uma marcação!</VFEPD_VGE_Agrocell.description>
+
+  <!-- EN: gauss shell ammo box -->
+  <VFEPD_VGE_AmmoBox_GaussShell.label>caixa de munição de projéteis eletromagnéticos</VFEPD_VGE_AmmoBox_GaussShell.label>
+
+  <!-- EN: A small-sized box containing large fake uranium shells. -->
+  <VFEPD_VGE_AmmoBox_GaussShell.description>Uma caixa pequena contendo grandes projéteis de urânio falsos.</VFEPD_VGE_AmmoBox_GaussShell.description>
+
+  <!-- EN: astrofuel drain -->
+  <VFEPD_VGE_AstrofuelDrain.label>dreno de astrocombustível</VFEPD_VGE_AstrofuelDrain.label>
+
+  <!-- EN: A hopper-like storage structure meant to input astrofuel into the network, filling up connected tanks. -->
+  <VFEPD_VGE_AstrofuelDrain.description>Uma estrutura de armazenamento semelhante a um alimentador, destinada a inserir astrocombustível na rede e encher os tanques conectados.</VFEPD_VGE_AstrofuelDrain.description>
+
+  <!-- EN: astrofuel generator -->
+  <VFEPD_VGE_AstrofuelGenerator.label>gerador de astrocombustível</VFEPD_VGE_AstrofuelGenerator.label>
+
+  <!-- EN: Produces power by consuming astrofuel. Much more efficient than chemfuel generators. -->
+  <VFEPD_VGE_AstrofuelGenerator.description>Produz energia consumindo astrocombustível. Muito mais eficiente que geradores a combustível químico.</VFEPD_VGE_AstrofuelGenerator.description>
+
+  <!-- EN: astrofuel pipe -->
+  <VFEPD_VGE_AstrofuelPipe.label>tubo de astrocombustível</VFEPD_VGE_AstrofuelPipe.label>
+
+  <!-- EN: Steel pipes. These do not transport anything. -->
+  <VFEPD_VGE_AstrofuelPipe.description>Tubos de aço. Eles não transportam nada.</VFEPD_VGE_AstrofuelPipe.description>
+
+  <!-- EN: astrofuel synthesizer -->
+  <VFEPD_VGE_AstrofuelSynthesizer.label>sintetizador de astrocombustível</VFEPD_VGE_AstrofuelSynthesizer.label>
+
+  <!-- EN: A specialized structure that refines chemfuel into high-grade astrofuel. It must be connected to the astrofuel pipe network and linked to at least one astrofuel tank to operate. Once connected, it automatically converts inserted chemfuel into astrofuel for use in engines and systems. -->
+  <VFEPD_VGE_AstrofuelSynthesizer.description>Uma estrutura especializada que refina combustível químico em astrocombustível de alta qualidade. Precisa estar conectada à rede de tubos de astrocombustível e a pelo menos um tanque para funcionar. Uma vez conectada, converte automaticamente o combustível químico inserido em astrocombustível para motores e sistemas.</VFEPD_VGE_AstrofuelSynthesizer.description>
+
+  <!-- EN: astrofuel tap -->
+  <VFEPD_VGE_AstrofuelTap.label>torneira de astrocombustível</VFEPD_VGE_AstrofuelTap.label>
+
+  <!-- EN: A hopper-like storage device meant to hold dispensed astrofuel for use later. -->
+  <VFEPD_VGE_AstrofuelTap.description>Um dispositivo de armazenamento semelhante a um alimentador, destinado a guardar astrocombustível dispensado para uso posterior.</VFEPD_VGE_AstrofuelTap.description>
+
+  <!-- EN: astropurifier -->
+  <VFEPD_VGE_Astropurifier.label>astropurificador</VFEPD_VGE_Astropurifier.label>
+
+  <!-- EN: A gravtech unit that enhances the precision and stability of astrofuel refinement. When placed next to an astrofuel synthesizer, it enables perfect 1:1 conversion from chemfuel to astrofuel, though the process takes twice as long. -->
+  <VFEPD_VGE_Astropurifier.description>Uma unidade gravitech que melhora a precisão e a estabilidade do refino de astrocombustível. Quando colocada ao lado de um sintetizador de astrocombustível, permite conversão perfeita de 1:1 de combustível químico para astrocombustível, embora o processo demore o dobro.</VFEPD_VGE_Astropurifier.description>
+
+  <!-- EN: capacitor harmonizer -->
+  <VFEPD_VGE_CapacitorHarmonizer.label>harmonizador de capacitores</VFEPD_VGE_CapacitorHarmonizer.label>
+
+  <!-- EN: A specialized device that balances and synchronizes energy flow between nearby capacitors. This one is non-functional. -->
+  <VFEPD_VGE_CapacitorHarmonizer.description>Um dispositivo especializado que equilibra e sincroniza o fluxo de energia entre capacitores próximos. Este exemplar não funciona.</VFEPD_VGE_CapacitorHarmonizer.description>
+
+  <!-- EN: compact drug lab -->
+  <VFEPD_VGE_CompactDrugLab.label>laboratório de drogas compacto</VFEPD_VGE_CompactDrugLab.label>
+
+  <!-- EN: A space-efficient, gravship-powered drug lab designed for use aboard gravships. This one seems to be non-functional. -->
+  <VFEPD_VGE_CompactDrugLab.description>Um laboratório de drogas compacto alimentado pela gravinave, projetado para uso a bordo. Este exemplar parece não funcionar.</VFEPD_VGE_CompactDrugLab.description>
+
+  <!-- EN: compact fabrication bench -->
+  <VFEPD_VGE_CompactFabBench.label>bancada de fabricação compacta</VFEPD_VGE_CompactFabBench.label>
+
+  <!-- EN: A space-efficient, gravship-powered fabrication bench designed for use aboard gravships. This one seems to be non-functional. -->
+  <VFEPD_VGE_CompactFabBench.description>Uma bancada de fabricação compacta alimentada pela gravinave, projetada para uso a bordo. Este exemplar parece não funcionar.</VFEPD_VGE_CompactFabBench.description>
+
+  <!-- EN: compact machining table -->
+  <VFEPD_VGE_CompactMachiningTable.label>mesa de usinagem compacta</VFEPD_VGE_CompactMachiningTable.label>
+
+  <!-- EN: A space-efficient, gravship-powered machining table designed for use aboard gravships. This one seems to be non-functional. -->
+  <VFEPD_VGE_CompactMachiningTable.description>Uma mesa de usinagem compacta alimentada pela gravinave, projetada para uso a bordo. Este exemplar parece não funcionar.</VFEPD_VGE_CompactMachiningTable.description>
+
+  <!-- EN: compact biofuel refinery -->
+  <VFEPD_VGE_CompactRefinery.label>refinaria de biocombustível compacta</VFEPD_VGE_CompactRefinery.label>
+
+  <!-- EN: A space-efficient, gravship-powered biofuel refinery designed for use aboard gravships. This one seems to be non-functional. -->
+  <VFEPD_VGE_CompactRefinery.description>Uma refinaria de biocombustível compacta alimentada pela gravinave, projetada para uso a bordo. Este exemplar parece não funcionar.</VFEPD_VGE_CompactRefinery.description>
+
+  <!-- EN: compact smithy -->
+  <VFEPD_VGE_CompactSmithy.label>forja compacta</VFEPD_VGE_CompactSmithy.label>
+
+  <!-- EN: A space-efficient, gravship-powered smithy designed for use aboard gravships. This one seems to be non-functional. -->
+  <VFEPD_VGE_CompactSmithy.description>Uma forja compacta alimentada pela gravinave, projetada para uso a bordo. Este exemplar parece não funcionar.</VFEPD_VGE_CompactSmithy.description>
+
+  <!-- EN: compact stove -->
+  <VFEPD_VGE_CompactStove.label>fogão compacto</VFEPD_VGE_CompactStove.label>
+
+  <!-- EN: A space-efficient, gravship-powered stove designed for use aboard gravships. This one seems to be non-functional. -->
+  <VFEPD_VGE_CompactStove.description>Um fogão compacto alimentado pela gravinave, projetado para uso a bordo. Este exemplar parece não funcionar.</VFEPD_VGE_CompactStove.description>
+
+  <!-- EN: compact tailor bench -->
+  <VFEPD_VGE_CompactTailor.label>bancada de alfaiate compacta</VFEPD_VGE_CompactTailor.label>
+
+  <!-- EN: A space-efficient, gravship-powered tailor bench designed for use aboard gravships. This one seems to be non-functional. -->
+  <VFEPD_VGE_CompactTailor.description>Uma bancada de alfaiate compacta alimentada pela gravinave, projetada para uso a bordo. Este exemplar parece não funcionar.</VFEPD_VGE_CompactTailor.description>
+
+  <!-- EN: engineering console -->
+  <VFEPD_VGE_EngineeringConsole.label>console de engenharia</VFEPD_VGE_EngineeringConsole.label>
+
+  <!-- EN: An interface used to monitor the maintenance status of all gravship components. It draws power directly from the grav engine. Non-functional. -->
+  <VFEPD_VGE_EngineeringConsole.description>Uma interface usada para monitorar o estado de manutenção de todos os componentes da gravinave. Recebe energia diretamente do motor gravitacional. Sem funcionamento.</VFEPD_VGE_EngineeringConsole.description>
+
+  <!-- EN: flight computer -->
+  <VFEPD_VGE_FlightComputer.label>computador de voo</VFEPD_VGE_FlightComputer.label>
+
+  <!-- EN: An advanced computational unit that optimizes data collection during gravship travel. Non-functional. -->
+  <VFEPD_VGE_FlightComputer.description>Uma unidade computacional avançada que otimiza a coleta de dados durante viagens de gravinave. Sem funcionamento.</VFEPD_VGE_FlightComputer.description>
+
+  <!-- EN: giant astrofuel tank -->
+  <VFEPD_VGE_GiantAstrofuelTank.label>tanque de astrocombustível gigante</VFEPD_VGE_GiantAstrofuelTank.label>
+
+  <!-- EN: A monumental astrofuel storage tank that supplies fuel for thrusters on a gravship. Sealed and empty -->
+  <VFEPD_VGE_GiantAstrofuelTank.description>Um tanque monumental de armazenamento de astrocombustível que abastece os propulsores de uma gravinave. Lacrado e vazio</VFEPD_VGE_GiantAstrofuelTank.description>
+
+  <!-- EN: giant thruster -->
+  <VFEPD_VGE_GiantThruster.label>propulsor gigante</VFEPD_VGE_GiantThruster.label>
+
+  <!-- EN: A massive, reinforced astrofuel thruster built with advanced alloys and ultra-dense vacstone plating. It massively increases the range and maximum size of the gravship. Thrusters require an unobstructed area free of large buildings and gravship substructure.\n\nRequires vacstone blocks, which can be obtained from orbital asteroids.\n\nA gravship can support up to four giant thrusters. -->
+  <VFEPD_VGE_GiantThruster.description>Um propulsor de astrocombustível enorme e reforçado, construído com ligas avançadas e placas de vacuíta ultradensa. Aumenta imensamente o alcance e o tamanho máximo da gravinave. Propulsores precisam de uma área desobstruída, sem construções grandes nem subestrutura de gravinave.\n\nRequer blocos de vacuíta, obtidos em asteroides orbitais.\n\nUma gravinave pode suportar até quatro propulsores gigantes.</VFEPD_VGE_GiantThruster.description>
+
+  <!-- EN: gravcore power coil -->
+  <VFEPD_VGE_GravcorePowerCoil.label>bobina de energia de gravicore</VFEPD_VGE_GravcorePowerCoil.label>
+
+  <!-- EN: A massive gravtech reactor that channels and amplifies gravitational wave energy into immense electrical output. This one is non-functional. -->
+  <VFEPD_VGE_GravcorePowerCoil.description>Um enorme reator gravitech que canaliza e amplifica a energia de ondas gravitacionais para produzir imensas quantidades de eletricidade. Este exemplar não funciona.</VFEPD_VGE_GravcorePowerCoil.description>
+
+  <!-- EN: gravheat absorber -->
+  <VFEPD_VGE_GravheatAbsorber.label>absorvedor de gravicalor</VFEPD_VGE_GravheatAbsorber.label>
+
+  <!-- EN: A specialized thermal sink that draws all residual heat from the grav engine, instantly clearing its cooldown. The absorbed heat leaves the gravheat absorber inoperable for an extended period while it safely dissipates the stored energy. Non-functional. -->
+  <VFEPD_VGE_GravheatAbsorber.description>Um dissipador térmico especializado que retira todo o calor residual do motor gravitacional, encerrando seu resfriamento instantaneamente. O calor absorvido deixa o absorvedor de gravicalor inoperante por um longo período, enquanto dissipa com segurança a energia armazenada. Sem funcionamento.</VFEPD_VGE_GravheatAbsorber.description>
+
+  <!-- EN: gravlift -->
+  <VFEPD_VGE_Gravlift.label>elevador gravitacional</VFEPD_VGE_Gravlift.label>
+
+  <!-- EN: A complex vertical launch and stabilization platform integrated into the gravship’s core structure. This one is non-functional. -->
+  <VFEPD_VGE_Gravlift.description>Uma plataforma complexa de lançamento vertical e estabilização, integrada à estrutura central da gravinave. Este exemplar não funciona.</VFEPD_VGE_Gravlift.description>
+
+  <!-- EN: gravship black box -->
+  <VFEPD_VGE_GravshipBlackBox.label>caixa-preta de gravinave</VFEPD_VGE_GravshipBlackBox.label>
+
+  <!-- EN: An advanced recorder integrated into the gravship’s systems. The only thing this one would do in an accident is be blown to pieces. -->
+  <VFEPD_VGE_GravshipBlackBox.description>Um gravador avançado integrado aos sistemas da gravinave. A única coisa que este exemplar faria em um acidente seria explodir em pedaços.</VFEPD_VGE_GravshipBlackBox.description>
+
+  <!-- EN: gravship capacitor -->
+  <VFEPD_VGE_GravshipCapacitor.label>capacitor de gravinave</VFEPD_VGE_GravshipCapacitor.label>
+
+  <!-- EN: Stores high amounts of electricity for later use. Or it would, if it wasn't so fake! -->
+  <VFEPD_VGE_GravshipCapacitor.description>Armazena grandes quantidades de eletricidade para uso posterior. Ou armazenaria, se não fosse tão falso!</VFEPD_VGE_GravshipCapacitor.description>
+
+  <!-- EN: gravtech console -->
+  <VFEPD_VGE_GravtechConsole.label>console gravitech</VFEPD_VGE_GravtechConsole.label>
+
+  <!-- EN: An interface used to analyze gravdata gathered from gravship launches and travel. Inert. -->
+  <VFEPD_VGE_GravtechConsole.description>Uma interface usada para analisar dados gravitacionais coletados em decolagens e viagens de gravinave. Inerte.</VFEPD_VGE_GravtechConsole.description>
+
+  <!-- EN: gunner subpersona core -->
+  <VFEPD_VGE_GunnerSubpersonaCore.label>núcleo de subpersona artilheiro</VFEPD_VGE_GunnerSubpersonaCore.label>
+
+  <!-- EN: A low-grade subpersona specialized in gravship combat. This one lacks the brain, so it can post on Reddit. -->
+  <VFEPD_VGE_GunnerSubpersonaCore.description>Uma subpersona de baixo nível especializada em combate de gravinaves. Este exemplar não tem cérebro, então pode postar no Reddit.</VFEPD_VGE_GunnerSubpersonaCore.description>
+
+  <!-- EN: industrial astrofuel generator -->
+  <VFEPD_VGE_IndustrialAstrofuelGenerator.label>gerador de astrocombustível industrial</VFEPD_VGE_IndustrialAstrofuelGenerator.label>
+
+  <!-- EN: Produces a large amount of power by consuming astrofuel. Much more efficient than chemfuel generators. -->
+  <VFEPD_VGE_IndustrialAstrofuelGenerator.description>Produz muita energia consumindo astrocombustível. Muito mais eficiente que geradores a combustível químico.</VFEPD_VGE_IndustrialAstrofuelGenerator.description>
+
+  <!-- EN: large heatsink -->
+  <VFEPD_VGE_LargeHeatsink.label>dissipador de calor grande</VFEPD_VGE_LargeHeatsink.label>
+
+  <!-- EN: A large thermal regulator that absorbs heat from gravship travel and slowly converts part of it into usable power while preventing system overheating and decreasing the grav engine cooldown duration. Non-functional. -->
+  <VFEPD_VGE_LargeHeatsink.description>Um regulador térmico grande que absorve o calor de viagens de gravinave e converte lentamente parte dele em energia utilizável, evitando superaquecimento e reduzindo o tempo de resfriamento do motor gravitacional. Sem funcionamento.</VFEPD_VGE_LargeHeatsink.description>
+
+  <!-- EN: large mechanoid thruster -->
+  <VFEPD_VGE_LargeMechanoidThruster.label>propulsor mecanoide grande</VFEPD_VGE_LargeMechanoidThruster.label>
+
+  <!-- EN: A massive astrofuel thruster built by the mechanoid core to propel their orbital platforms. This one is non-functional. -->
+  <VFEPD_VGE_LargeMechanoidThruster.description>Um propulsor de astrocombustível enorme, construído pelo núcleo mecanoide para impulsionar suas plataformas orbitais. Este exemplar não funciona.</VFEPD_VGE_LargeMechanoidThruster.description>
+
+  <!-- EN: large oxygen tank -->
+  <VFEPD_VGE_LargeOxygenTank.label>tanque de oxigênio grande</VFEPD_VGE_LargeOxygenTank.label>
+
+  <!-- EN: A large oxygen tank that supplies oxygen to pumps throughout the gravship. -->
+  <VFEPD_VGE_LargeOxygenTank.description>Um tanque de oxigênio grande que abastece as bombas por toda a gravinave.</VFEPD_VGE_LargeOxygenTank.description>
+
+  <!-- EN: algae oxygenator -->
+  <VFEPD_VGE_LifeSupportSystem.label>oxigenador de algas</VFEPD_VGE_LifeSupportSystem.label>
+
+  <!-- EN: A vital device that processes harvested oxyalgae into breathable oxygen. Converts biomass into gas and pumps it into the oxygen network to supply pressurized rooms and equipment. -->
+  <VFEPD_VGE_LifeSupportSystem.description>Um dispositivo vital que processa oxialgas colhidas para obter oxigênio respirável. Converte biomassa em gás e o bombeia para a rede de oxigênio, abastecendo cômodos pressurizados e equipamentos.</VFEPD_VGE_LifeSupportSystem.description>
+
+  <!-- EN: maintenance hub -->
+  <VFEPD_VGE_MaintenanceHub.label>central de manutenção</VFEPD_VGE_MaintenanceHub.label>
+
+  <!-- EN: A centralized system that optimizes and automates routine upkeep across the gravship. This one is non-functional. -->
+  <VFEPD_VGE_MaintenanceHub.description>Um sistema centralizado que otimiza e automatiza a manutenção rotineira de toda a gravinave. Este exemplar não funciona.</VFEPD_VGE_MaintenanceHub.description>
+
+  <!-- EN: astrofuel node -->
+  <VFEPD_VGE_MechanoidAstrofuelNode.label>nó de astrocombustível</VFEPD_VGE_MechanoidAstrofuelNode.label>
+
+  <!-- EN: A compact fuel reservoir integrated into mechanoid platforms. Empty and sealed. -->
+  <VFEPD_VGE_MechanoidAstrofuelNode.description>Um reservatório compacto de combustível integrado a plataformas mecanoides. Vazio e lacrado.</VFEPD_VGE_MechanoidAstrofuelNode.description>
+
+  <!-- EN: mechanoid grav engine -->
+  <VFEPD_VGE_MechanoidGravEngine.label>motor gravitacional mecanoide</VFEPD_VGE_MechanoidGravEngine.label>
+
+  <!-- EN: The cold, artificial heart of a mechanoid orbital platform. This one seems inert. -->
+  <VFEPD_VGE_MechanoidGravEngine.description>O coração frio e artificial de uma plataforma orbital mecanoide. Este exemplar parece inerte.</VFEPD_VGE_MechanoidGravEngine.description>
+
+  <!-- EN: mechanoid pod launcher -->
+  <VFEPD_VGE_MechanoidPodLauncher.label>lançador de cápsulas mecanoide</VFEPD_VGE_MechanoidPodLauncher.label>
+
+  <!-- EN: A mechanized launch bay that periodically fires drop pods packed with mechanoids. This one is non-functional. -->
+  <VFEPD_VGE_MechanoidPodLauncher.description>Uma baia de lançamento mecanizada que dispara periodicamente cápsulas de desembarque cheias de mecanoides. Este exemplar não funciona.</VFEPD_VGE_MechanoidPodLauncher.description>
+
+  <!-- EN: resource processor -->
+  <VFEPD_VGE_MechanoidResourceProcessor.label>processador de recursos</VFEPD_VGE_MechanoidResourceProcessor.label>
+
+  <!-- EN: A machine-built structure that sustains mechanoid platforms by breaking down cosmic debris and wreckage into usable resources. This one is non-functional. -->
+  <VFEPD_VGE_MechanoidResourceProcessor.description>Uma estrutura construída por máquinas que sustenta plataformas mecanoides decompondo detritos cósmicos e destroços em recursos utilizáveis. Este exemplar não funciona.</VFEPD_VGE_MechanoidResourceProcessor.description>
+
+  <!-- EN: mechanoid temp shield -->
+  <VFEPD_VGE_MechanoidTempShield.label>escudo temporário mecanoide</VFEPD_VGE_MechanoidTempShield.label>
+
+  <!-- EN: A compact defense unit that projects a localized shield around itself. This one is non-functional. -->
+  <VFEPD_VGE_MechanoidTempShield.description>Uma unidade de defesa compacta que projeta um escudo localizado ao redor de si. Este exemplar não funciona.</VFEPD_VGE_MechanoidTempShield.description>
+
+  <!-- EN: oxyalgae plant -->
+  <VFEPD_VGE_OxyalgaePlant.label>planta de oxialgas</VFEPD_VGE_OxyalgaePlant.label>
+
+  <!-- EN: A fast-growing aquatic plant cultivated in hydroponics and used to generate oxygen when converted in algae oxygenator. This one seems to be a plastic plants. -->
+  <VFEPD_VGE_OxyalgaePlant.description>Uma planta aquática de crescimento rápido, cultivada em hidroponia e usada para gerar oxigênio ao ser processada em um oxigenador de algas. Este exemplar parece ser uma planta de plástico.</VFEPD_VGE_OxyalgaePlant.description>
+
+  <!-- EN: oxygen harvester -->
+  <VFEPD_VGE_OxygenHarvester.label>coletor de oxigênio</VFEPD_VGE_OxygenHarvester.label>
+
+  <!-- EN: A device that draws in breathable oxygen from the surrounding atmosphere and stores it in the oxygen network. It functions only on planetary surfaces with an atmosphere and will not operate in vacuum or low-oxygen environments. -->
+  <VFEPD_VGE_OxygenHarvester.description>Um dispositivo que capta oxigênio respirável da atmosfera ao redor e o armazena na rede de oxigênio. Funciona apenas em superfícies planetárias com atmosfera, não no vácuo nem em ambientes pobres em oxigênio.</VFEPD_VGE_OxygenHarvester.description>
+
+  <!-- EN: oxygen pipe -->
+  <VFEPD_VGE_OxygenPipe.label>tubo de oxigênio</VFEPD_VGE_OxygenPipe.label>
+
+  <!-- EN: Steel pipes. These do not transport anything. -->
+  <VFEPD_VGE_OxygenPipe.description>Tubos de aço. Eles não transportam nada.</VFEPD_VGE_OxygenPipe.description>
+
+  <!-- EN: oxygen reclaimer -->
+  <VFEPD_VGE_OxygenReclaimer.label>recuperador de oxigênio</VFEPD_VGE_OxygenReclaimer.label>
+
+  <!-- EN: A self-contained atmospheric unit that extracts trace oxygen from surrounding gases. It produces oxygen at a slow, steady rate, but requires no input materials. Needs to be connected to an oxygen tank via oxygen pipes to work. -->
+  <VFEPD_VGE_OxygenReclaimer.description>Uma unidade atmosférica autônoma que extrai traços de oxigênio dos gases ao redor. Produz oxigênio a uma taxa lenta e constante, mas não exige matérias-primas. Precisa estar conectada a um tanque de oxigênio por tubos para funcionar.</VFEPD_VGE_OxygenReclaimer.description>
+
+  <!-- EN: small heatsink -->
+  <VFEPD_VGE_SmallHeatsink.label>dissipador de calor pequeno</VFEPD_VGE_SmallHeatsink.label>
+
+  <!-- EN: A compact thermal regulator that absorbs heat from gravship travel and slowly converts part of it into usable power while preventing system overheating and decreasing the grav engine cooldown duration. Non-functional. -->
+  <VFEPD_VGE_SmallHeatsink.description>Um regulador térmico compacto que absorve o calor de viagens de gravinave e converte lentamente parte dele em energia utilizável, evitando superaquecimento e reduzindo o tempo de resfriamento do motor gravitacional. Sem funcionamento.</VFEPD_VGE_SmallHeatsink.description>
+
+  <!-- EN: small oxygen tank -->
+  <VFEPD_VGE_SmallOxygenTank.label>tanque de oxigênio pequeno</VFEPD_VGE_SmallOxygenTank.label>
+
+  <!-- EN: An oxygen tank that supplies oxygen to pumps throughout the gravship. -->
+  <VFEPD_VGE_SmallOxygenTank.description>Um tanque de oxigênio que abastece as bombas por toda a gravinave.</VFEPD_VGE_SmallOxygenTank.description>
+
+  <!-- EN: solar panelling -->
+  <VFEPD_VGE_SolarPanelling.label>painéis solares</VFEPD_VGE_SolarPanelling.label>
+
+  <!-- EN: Fake solar panelling built out of cardboard. This will probably win a high school science fair or something. We don't have those where I live, so I have only seen them in movies. -->
+  <VFEPD_VGE_SolarPanelling.description>Painéis solares falsos feitos de papelão. Provavelmente ganhariam uma feira de ciências de ensino médio ou algo assim. Não temos isso onde moro, então só vi em filmes.</VFEPD_VGE_SolarPanelling.description>
+
+  <!-- EN: targeting terminal -->
+  <VFEPD_VGE_TargetingTerminal.label>terminal de mira</VFEPD_VGE_TargetingTerminal.label>
+
+  <!-- EN: A control station dedicated to operating a single gravship artillery piece. Out of order. -->
+  <VFEPD_VGE_TargetingTerminal.description>Uma estação de controle dedicada à operação de uma única peça de artilharia de gravinave. Fora de serviço.</VFEPD_VGE_TargetingTerminal.description>
+
+  <!-- EN: wall firefoam popper -->
+  <VFEPD_WallFirefoamPopper.label>dispersor de espuma anti-incêndio de parede</VFEPD_WallFirefoamPopper.label>
+
+  <!-- EN: A wall-mounted variant of the firefoam popper. It is empty. -->
+  <VFEPD_WallFirefoamPopper.description>Uma variante de parede do dispersor de espuma anti-incêndio. Está vazia.</VFEPD_WallFirefoamPopper.description>
+
+  <!-- EN: wall orbital trade beacon -->
+  <VFEPD_WallOrbitalTradeBeacon.label>sinalizador de comércio orbital de parede</VFEPD_WallOrbitalTradeBeacon.label>
+
+  <!-- EN: A wall-mounted version of an orbital trade beacon. Inactive. -->
+  <VFEPD_WallOrbitalTradeBeacon.description>Uma versão de parede de um sinalizador de comércio orbital. Inativa.</VFEPD_WallOrbitalTradeBeacon.description>
+</LanguageData>
+

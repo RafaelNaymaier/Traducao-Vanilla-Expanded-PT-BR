@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: extract genes from several bees -->
+  <GR_ExtractBeeGenes.label>extrair genes de várias abelhas</GR_ExtractBeeGenes.label>
+
+  <!-- EN: Extract genetic material from several bees. -->
+  <GR_ExtractBeeGenes.description>Extraia material genético de várias abelhas.</GR_ExtractBeeGenes.description>
+
+  <!-- EN: Extracting Genetic Material -->
+  <GR_ExtractBeeGenes.jobString>Extraindo Material Genético</GR_ExtractBeeGenes.jobString>
+
+  <!-- EN: create basic genetic bees -->
+  <GR_OrganicBeeCreation.label>criar abelhas genéticas básicas</GR_OrganicBeeCreation.label>
+
+  <!-- EN: Create basic genetically enhanced bees that can later be hybridized with other creatures. -->
+  <GR_OrganicBeeCreation.description>Crie abelhas básicas geneticamente aprimoradas que poderão ser hibridizadas com outras criaturas.</GR_OrganicBeeCreation.description>
+
+  <!-- EN: creating basic genetic bees -->
+  <GR_OrganicBeeCreation.jobString>criando abelhas genéticas básicas</GR_OrganicBeeCreation.jobString>
+
+  <!-- EN: Creating genoframe -->
+  <GR_GenoframeAwfulRecipeFromWax.jobString>Criando genoestrutura</GR_GenoframeAwfulRecipeFromWax.jobString>
+
+  <!-- EN: Create Genoframe (Awful) from Genewax -->
+  <GR_GenoframeAwfulRecipeFromWax.label>Criar Genoestrutura (Péssima) com Genocera</GR_GenoframeAwfulRecipeFromWax.label>
+
+  <!-- EN: Create an awful quality genoframe from genewax. -->
+  <GR_GenoframeAwfulRecipeFromWax.description>Crie uma genoestrutura de qualidade péssima a partir de genocera.</GR_GenoframeAwfulRecipeFromWax.description>
+
+  <!-- EN: create genetic tier bee research -->
+  <RB_CreateGeneticTierResearch.label>criar pesquisa de abelhas de nível genético</RB_CreateGeneticTierResearch.label>
+
+  <!-- EN: Research bee combinations to create genetic tier bees. This research is random and you may get duplicate results. -->
+  <RB_CreateGeneticTierResearch.description>Pesquise combinações de abelhas para criar abelhas de nível genético. Esta pesquisa é aleatória e pode gerar resultados duplicados.</RB_CreateGeneticTierResearch.description>
+
+  <!-- EN: Researching bees -->
+  <RB_CreateGeneticTierResearch.jobString>Pesquisando abelhas</RB_CreateGeneticTierResearch.jobString>
+</LanguageData>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: chemfuel tank -->
+  <VFEPD_ChemfuelTank_VCE.label>tanque de combustível químico</VFEPD_ChemfuelTank_VCE.label>
+
+  <!-- EN: An industrial liquid storage tank meant for storing chemfuel. This one is empty and non-functional. -->
+  <VFEPD_ChemfuelTank_VCE.description>Um tanque industrial de líquidos destinado a armazenar combustível químico. Este exemplar está vazio e não funciona.</VFEPD_ChemfuelTank_VCE.description>
+
+  <!-- EN: deepchem tank -->
+  <VFEPD_DeepchemTank.label>tanque de combustível químico profundo</VFEPD_DeepchemTank.label>
+
+  <!-- EN: A heavy industrial sludge storage tank meant for storing deepchem delivered via deepchem pipe network. This one is empty and non-functional. -->
+  <VFEPD_DeepchemTank.description>Um tanque industrial pesado de lodo destinado a armazenar combustível químico profundo, entregue pela rede de tubulações correspondente. Este exemplar está vazio e não funciona.</VFEPD_DeepchemTank.description>
+</LanguageData>
+

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: scaly bear rug -->
+  <GR_ScalyBearRug.label>tapete de urso escamoso</GR_ScalyBearRug.label>
+
+  <!-- EN: Really, couldn't you decorate with vinyl decals, like a normal, non-insane person? This looks horrendous. Some of the colonists seem to like it, though.. -->
+  <GR_ScalyBearRug.description>Sério, você não podia decorar com adesivos de vinil, como uma pessoa normal e sã? Isto é horrendo. Mas alguns colonos parecem gostar..</GR_ScalyBearRug.description>
+
+  <!-- EN: dino genome excavator -->
+  <GR_DinoGenomeExcavator.label>extrator de genoma dino</GR_DinoGenomeExcavator.label>
+
+  <!-- EN: A simplified genome extraction device designed to be usable by even the most simple-minded goon, as such it resembles a caulking gun that works in reverse. The best genetic material can be found in the brain and the automated, single-use design instantly compresses this material into a usable genome.\n\nThe desired subject needs to be docile and trusting of the user who intends on scooping out their brain in a process that is not-quite instantaneous. It is recommended to anesthetize the creature as any sudden movement on their part will interrupt the whole process. Alternatively, it will also work on a dead body...\n\n<color=#E5E54C>Gameplay effect:</color> This excavator can be used to acquire the following genomes: -->
+  <GR_DinoGenomeExcavator.description>Um dispositivo simplificado de extração de genoma projetado para ser usado até pelo sujeito mais simplório; por isso, parece uma pistola de calafetagem que funciona ao contrário. O melhor material genético fica no cérebro, e o projeto automatizado de uso único o comprime instantaneamente em um genoma utilizável.\n\nO indivíduo desejado precisa estar dócil e confiar em quem pretende retirar seu cérebro num processo não exatamente instantâneo. Recomenda-se anestesiar a criatura, pois qualquer movimento súbito interromperá todo o processo. Como alternativa, também funciona em um cadáver...\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Este extrator pode obter os seguintes genomas:</GR_DinoGenomeExcavator.description>
+
+  <!-- EN: Use genome excavator -->
+  <GR_DinoGenomeExcavator.comps.CompUsable.useLabel>Usar extrator de genoma</GR_DinoGenomeExcavator.comps.CompUsable.useLabel>
+
+  <!-- EN: dinosaur genome -->
+  <GR_DinoGenetic.label>genoma de dinossauro</GR_DinoGenetic.label>
+
+  <!-- EN: A payload of dinosaur genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 2 genome can only be used as primary genome.\n\n<color=#E5E54C>Extraction:</color> Can be extracted via a dinosaur genome excavator from: -->
+  <GR_DinoGenetic.description>Uma carga de material genético de dinossauro. Pode ser usada no genomorfador para criar uma célula de crescimento de animal híbrido. Este genoma de nível 2 só pode ser usado como genoma primário.\n\n&lt;color=#E5E54C&gt;Extração:&lt;/color&gt; Pode ser extraído por um extrator de genoma de dinossauro de:</GR_DinoGenetic.description>
+
+  <!-- EN: spinobear egg (unfert.) -->
+  <GR_SpinobearEggUnfertilized.label>ovo de Espinourso (não fert.)</GR_SpinobearEggUnfertilized.label>
+
+  <!-- EN: Unfertilized spinobear egg. It can be eaten raw, but it's much, much better cooked. -->
+  <GR_SpinobearEggUnfertilized.description>Ovo não fertilizado de Espinourso. Pode ser comido cru, mas fica muito, muito melhor cozido.</GR_SpinobearEggUnfertilized.description>
+
+  <!-- EN: spinobear egg (fert.) -->
+  <GR_SpinobearEggFertilized.label>ovo de Espinourso (fert.)</GR_SpinobearEggFertilized.label>
+
+  <!-- EN: Fertilized spinobear egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into an spinobear. -->
+  <GR_SpinobearEggFertilized.description>Ovo fertilizado de Espinourso. Se tudo correr bem, dele nascerá uma destas abominações. Pode ser comido cru, mas fica muito melhor cozido.</GR_SpinobearEggFertilized.description>
+
+  <!-- EN: parasaurolope egg (unfert.) -->
+  <GR_ParasaurolopeEggUnfertilized.label>ovo de Parassaurolope (não fert.)</GR_ParasaurolopeEggUnfertilized.label>
+
+  <!-- EN: Unfertilized parasaurolope egg. It can be eaten raw, but it's much, much better cooked. -->
+  <GR_ParasaurolopeEggUnfertilized.description>Ovo não fertilizado de Parassaurolope. Pode ser comido cru, mas fica muito, muito melhor cozido.</GR_ParasaurolopeEggUnfertilized.description>
+
+  <!-- EN: parasaurolope egg (fert.) -->
+  <GR_ParasaurolopeEggFertilized.label>ovo de Parassaurolope (fert.)</GR_ParasaurolopeEggFertilized.label>
+
+  <!-- EN: Fertilized parasaurolope egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a parasaurolope. -->
+  <GR_ParasaurolopeEggFertilized.description>Ovo fertilizado de Parassaurolope. Se tudo correr bem, dele nascerá uma destas abominações. Pode ser comido cru, mas fica muito melhor cozido.</GR_ParasaurolopeEggFertilized.description>
+
+  <!-- EN: chickennathus egg (unfert.) -->
+  <GR_ChickennathusEggUnfertilized.label>ovo de Galinhagnato (não fert.)</GR_ChickennathusEggUnfertilized.label>
+
+  <!-- EN: Unfertilized chickennathus egg. It can be eaten raw, but it's much, much better cooked. -->
+  <GR_ChickennathusEggUnfertilized.description>Ovo não fertilizado de Galinhagnato. Pode ser comido cru, mas fica muito, muito melhor cozido.</GR_ChickennathusEggUnfertilized.description>
+
+  <!-- EN: chickennathus egg (fert.) -->
+  <GR_ChickennathusEggFertilized.label>ovo de Galinhagnato (fert.)</GR_ChickennathusEggFertilized.label>
+
+  <!-- EN: Fertilized chickennathus egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a chickennathus. -->
+  <GR_ChickennathusEggFertilized.description>Ovo fertilizado de Galinhagnato. Se tudo correr bem, dele nascerá uma destas abominações. Pode ser comido cru, mas fica muito melhor cozido.</GR_ChickennathusEggFertilized.description>
+
+  <!-- EN: triceraffalo egg (unfert.) -->
+  <GR_TriceraffaloEggUnfertilized.label>ovo de Triceramúfalo (não fert.)</GR_TriceraffaloEggUnfertilized.label>
+
+  <!-- EN: Unfertilized triceraffalo egg. It can be eaten raw, but it's much, much better cooked. -->
+  <GR_TriceraffaloEggUnfertilized.description>Ovo não fertilizado de Triceramúfalo. Pode ser comido cru, mas fica muito, muito melhor cozido.</GR_TriceraffaloEggUnfertilized.description>
+
+  <!-- EN: triceraffalo egg (fert.) -->
+  <GR_TriceraffaloEggFertilized.label>ovo de Triceramúfalo (fert.)</GR_TriceraffaloEggFertilized.label>
+
+  <!-- EN: Fertilized triceraffalo egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a triceraffalo. -->
+  <GR_TriceraffaloEggFertilized.description>Ovo fertilizado de Triceramúfalo. Se tudo correr bem, dele nascerá uma destas abominações. Pode ser comido cru, mas fica muito melhor cozido.</GR_TriceraffaloEggFertilized.description>
+
+  <!-- EN: raptortoise egg (unfert.) -->
+  <GR_RaptortoiseEggUnfertilized.label>ovo de Raptartaruga (não fert.)</GR_RaptortoiseEggUnfertilized.label>
+
+  <!-- EN: Unfertilized raptortoise egg. It can be eaten raw, but it's much, much better cooked. -->
+  <GR_RaptortoiseEggUnfertilized.description>Ovo não fertilizado de Raptartaruga. Pode ser comido cru, mas fica muito, muito melhor cozido.</GR_RaptortoiseEggUnfertilized.description>
+
+  <!-- EN: raptortoise egg (fert.) -->
+  <GR_RaptortoiseEggFertilized.label>ovo de Raptartaruga (fert.)</GR_RaptortoiseEggFertilized.label>
+
+  <!-- EN: Fertilized raptortoise egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a raptortoise. -->
+  <GR_RaptortoiseEggFertilized.description>Ovo fertilizado de Raptartaruga. Se tudo correr bem, dele nascerá uma destas abominações. Pode ser comido cru, mas fica muito melhor cozido.</GR_RaptortoiseEggFertilized.description>
+
+  <!-- EN: stegothrumbo egg (unfert.) -->
+  <GR_StegothrumboEggUnfertilized.label>ovo de Estegotrumbo (não fert.)</GR_StegothrumboEggUnfertilized.label>
+
+  <!-- EN: Unfertilized stegothrumbo egg. It can be eaten raw, but it's much, much better cooked. This is insanely nutritive! -->
+  <GR_StegothrumboEggUnfertilized.description>Ovo não fertilizado de Estegotrumbo. Pode ser comido cru, mas fica muito, muito melhor cozido.</GR_StegothrumboEggUnfertilized.description>
+
+  <!-- EN: stegothrumbo egg (fert.) -->
+  <GR_StegothrumboEggFertilized.label>ovo de Estegotrumbo (fert.)</GR_StegothrumboEggFertilized.label>
+
+  <!-- EN: Fertilized stegothrumbo egg. It can be eaten raw, but it's much, much better cooked. This is insanely nutritive! If all goes well, it should hatch into a stegothrumbo. -->
+  <GR_StegothrumboEggFertilized.description>Ovo fertilizado de Estegotrumbo. Se tudo correr bem, dele nascerá uma destas abominações. Pode ser comido cru, mas fica muito melhor cozido.</GR_StegothrumboEggFertilized.description>
+
+  <!-- EN: velociwolf egg (unfert.) -->
+  <GR_VelociwolfEggUnfertilized.label>ovo de Velocilobo (não fert.)</GR_VelociwolfEggUnfertilized.label>
+
+  <!-- EN: Unfertilized velociwolf egg. It can be eaten raw, but it's much, much better cooked. -->
+  <GR_VelociwolfEggUnfertilized.description>Ovo não fertilizado de Velocilobo. Pode ser comido cru, mas fica muito, muito melhor cozido.</GR_VelociwolfEggUnfertilized.description>
+
+  <!-- EN: velociwolf egg (fert.) -->
+  <GR_VelociwolfEggFertilized.label>ovo de Velocilobo (fert.)</GR_VelociwolfEggFertilized.label>
+
+  <!-- EN: Fertilized velociwolf egg. It can be eaten raw, but it's much, much better cooked. If all goes well, it should hatch into a velociwolf. -->
+  <GR_VelociwolfEggFertilized.description>Ovo fertilizado de Velocilobo. Se tudo correr bem, dele nascerá uma destas abominações. Pode ser comido cru, mas fica muito melhor cozido.</GR_VelociwolfEggFertilized.description>
+
+  <!-- EN: dino "milk" -->
+  <GR_DinoMilk.label>"leite" de dinossauro</GR_DinoMilk.label>
+
+  <!-- EN: Triceramuffalos produce a secretion from various parts of their upper digestive tract. The resulting "milk" is fed to their offspring via regurgitation, and is similar to what mammals produce; it contains similar levels of fat and protein, along with carotenoids and antibodies. Now, why would anyone want to drink this? 'Cause it's the Rim, baby! -->
+  <GR_DinoMilk.description>Triceramúfalos produzem uma secreção em várias partes do trato digestivo superior. O "leite" resultante é dado aos filhotes por regurgitação e se assemelha ao produzido por mamíferos: contém níveis parecidos de gordura e proteína, além de carotenoides e anticorpos. Agora, por que alguém beberia isso? Porque estamos na Orla, meu bem!</GR_DinoMilk.description>
+
+  <!-- EN: dino insect jelly -->
+  <GR_DinoInsectJelly.label>geleia de inseto de dinossauro</GR_DinoInsectJelly.label>
+
+  <!-- EN: Dinobeetles are huge beasts that produce a nutrient rich, amber-like substance. They probably would use it to build complex structures similar to bees, but they don't because... well, because they are a scientific abomination doomed from the start... Because of its unique biological properties, it can nourish almost any creature and never rots. -->
+  <GR_DinoInsectJelly.description>Dinobesouros são feras enormes que produzem uma substância rica em nutrientes, semelhante a âmbar. Provavelmente a usariam para construir estruturas complexas como as abelhas, mas não o fazem porque... bem, porque são uma abominação científica condenada desde o início... Suas propriedades biológicas únicas permitem nutrir quase qualquer criatura, e ela nunca apodrece.</GR_DinoInsectJelly.description>
+
+  <!-- EN: scaly bear pelt -->
+  <GR_ScalyBearPelt.label>pele de urso escamoso</GR_ScalyBearPelt.label>
+
+  <!-- EN: This enormous bear pelt is part hair and part scales. It is probably valuable as a trade good. Or it can also be repurposed as a huge rug. -->
+  <GR_ScalyBearPelt.description>Esta enorme pele de urso é parte pelo e parte escamas. Provavelmente é valiosa como mercadoria. Também pode ser transformada em um tapete enorme.</GR_ScalyBearPelt.description>
+
+  <!-- EN: fossil chemfuel -->
+  <GR_FossilChemfuel.label>combustível químico fóssil</GR_FossilChemfuel.label>
+
+  <!-- EN: Deprecated. No hybrid should produce this now. -->
+  <GR_FossilChemfuel.description>Obsoleto. Nenhum híbrido deveria produzir isto agora.</GR_FossilChemfuel.description>
+
+  <!-- EN: dino featherwool -->
+  <GR_DinoFeatherWool.label>lã plumosa de dinossauro</GR_DinoFeatherWool.label>
+
+  <!-- EN: This seems to be an amalgamation of feathers, scales and wool, perfectly interweaved. Gives adequate defense against blunt attacks, and is quite warm. -->
+  <GR_DinoFeatherWool.description>Parece ser uma amálgama de penas, escamas e lã, perfeitamente entrelaçadas. Oferece defesa adequada contra ataques contundentes e é bem quente.</GR_DinoFeatherWool.description>
+
+  <!-- EN: dinosaur leather -->
+  <GR_DinoLeather.label>couro de dinossauro</GR_DinoLeather.label>
+
+  <!-- EN: Thick leather partially covered in scales and dino-fuzz. Harvested from a dinosaur hybrid, this thick skin insulates and protects very well. -->
+  <GR_DinoLeather.description>Couro espesso parcialmente coberto de escamas e penugem de dinossauro. Obtida de um híbrido de dinossauro, esta pele espessa isola e protege muito bem.</GR_DinoLeather.description>
+
+  <!-- EN: spinobear -->
+  <GR_Spinobear.label>Espinourso</GR_Spinobear.label>
+
+  <!-- EN: This hybrid therapod has bear-like characteristics. There are several theories concerning the use of the Spinosaur's spinal fan-sail, but in the case of the Spinobear it is clear what use it has: kicking your ass.\n\n<color=#E5E54C>Gameplay effect:</color> All bear hybrids have stun attacks. Aside from obviously being a very powerful creature, they produce a weird mixture of wool and scales that can be sheared and used in textile operations. They can also be slaughtered for their pelts. Like all dinosaur hybrids, they are oviparous. -->
+  <GR_Spinobear.description>Este terópode híbrido tem características de urso. Há várias teorias sobre a função da vela dorsal do espinossauro, mas no Espinourso a função é clara: acabar com você.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todos os híbridos de urso têm ataques atordoantes. Além de ser uma criatura obviamente poderosa, produz uma mistura estranha de lã e escamas que pode ser tosquiada e usada na fabricação de tecidos. Também pode ser abatido por sua pele. Como todos os híbridos de dinossauro, é ovíparo.</GR_Spinobear.description>
+
+  <!-- EN: left leg -->
+  <GR_Spinobear.tools.left_leg.label>perna esquerda</GR_Spinobear.tools.left_leg.label>
+
+  <!-- EN: right leg -->
+  <GR_Spinobear.tools.right_leg.label>perna direita</GR_Spinobear.tools.right_leg.label>
+
+  <!-- EN: teeth -->
+  <GR_Spinobear.tools.teeth.label>dentes</GR_Spinobear.tools.teeth.label>
+
+  <!-- EN: parasaurolope -->
+  <GR_Parasaurolope.label>Parassaurolope</GR_Parasaurolope.label>
+
+  <!-- EN: This hybrid ornithopod has two cranial crests, which it uses in mating rituals. Their whole body is covered in large sacs of volatile chemicals.\n\n<color=#E5E54C>Gameplay effect:</color> This animal was created with one goal in mind: to produce huge amounts of chemfuel. Their corpses can be directly refined into compressed chemfuel in a biorefinery. -->
+  <GR_Parasaurolope.description>Este ornitópode híbrido tem duas cristas cranianas usadas em rituais de acasalamento. Todo o corpo é coberto por grandes bolsas de substâncias químicas voláteis.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Este animal foi criado com um único objetivo: produzir quantidades enormes de combustível químico. Seus cadáveres podem ser refinados diretamente em combustível químico comprimido numa biorrefinaria.</GR_Parasaurolope.description>
+
+  <!-- EN: head -->
+  <GR_Parasaurolope.tools.head.label>cabeça</GR_Parasaurolope.tools.head.label>
+
+  <!-- EN: chickennathus -->
+  <GR_Chickennathus.label>Galinhagnato</GR_Chickennathus.label>
+
+  <!-- EN: It is often said that birds are little more than evolved dinosaurs. Well, this small theropod hybrid is both a dinosaur AND a bird. Take that, science!\n\n<color=#E5E54C>Gameplay effect:</color> Chickennathus are great egg layers. -->
+  <GR_Chickennathus.description>Dizem que aves são pouco mais que dinossauros evoluídos. Pois este pequeno terópode híbrido é um dinossauro E uma ave. Toma essa, ciência!\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Galinhagnatos são excelentes produtores de ovos.</GR_Chickennathus.description>
+
+  <!-- EN: left claw -->
+  <GR_Chickennathus.tools.left_claw.label>garra esquerda</GR_Chickennathus.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <GR_Chickennathus.tools.right_claw.label>garra direita</GR_Chickennathus.tools.right_claw.label>
+
+  <!-- EN: teeth -->
+  <GR_Chickennathus.tools.teeth.label>dentes</GR_Chickennathus.tools.teeth.label>
+
+  <!-- EN: diplobeetle -->
+  <GR_Diplobeetle.label>Diplobesouro</GR_Diplobeetle.label>
+
+  <!-- EN: This huge sauropod hybrid has notable insectoid traits. It is hard to see how such a creature could have any predators, since it would probably leave its herbivorous diet and just eat them whole.\n\n<color=#E5E54C>Gameplay effect:</color> All insectoid hybrids have good armor and no toxic sensitivity, but they are always sterile and can't reproduce, even if a fertility booster is used to create them. Diplobeetles produce a very nutritive jelly. -->
+  <GR_Diplobeetle.description>Este enorme saurópode híbrido tem características insetoides marcantes. É difícil imaginar predadores para ele, pois provavelmente abandonaria a dieta herbívora e simplesmente os comeria inteiros.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todos os híbridos insetoides têm boa armadura e nenhuma sensibilidade tóxica, mas são sempre estéreis e não podem se reproduzir, mesmo se criados com um potencializador de fertilidade. Diplobesouros produzem uma geleia muito nutritiva.</GR_Diplobeetle.description>
+
+  <!-- EN: tail -->
+  <GR_Diplobeetle.tools.tail.label>cauda</GR_Diplobeetle.tools.tail.label>
+
+  <!-- EN: left leg -->
+  <GR_Diplobeetle.tools.left_leg.label>perna esquerda</GR_Diplobeetle.tools.left_leg.label>
+
+  <!-- EN: right leg -->
+  <GR_Diplobeetle.tools.right_leg.label>perna direita</GR_Diplobeetle.tools.right_leg.label>
+
+  <!-- EN: triceraffalo -->
+  <GR_Triceraffalo.label>Triceramúfalo</GR_Triceraffalo.label>
+
+  <!-- EN: This enormous ceratopsid can be used as an incredibly powerful pack beast. It is also quite capable of defending itself, with its sheer mass and huge horns.\n\n<color=#E5E54C>Gameplay effect:</color> Produces wool, eggs, milk, and acts as a very powerful, though slow, pack beast. -->
+  <GR_Triceraffalo.description>Este enorme ceratopsídeo pode ser usado como animal de carga incrivelmente poderoso. Também se defende muito bem com sua massa e seus enormes chifres.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Produz lã, ovos e leite e atua como animal de carga muito poderoso, embora lento.</GR_Triceraffalo.description>
+
+  <!-- EN: horns -->
+  <GR_Triceraffalo.tools.horns.label>chifres</GR_Triceraffalo.tools.horns.label>
+
+  <!-- EN: head -->
+  <GR_Triceraffalo.tools.head.label>cabeça</GR_Triceraffalo.tools.head.label>
+
+  <!-- EN: raptortoise -->
+  <GR_Raptortoise.label>Raptartaruga</GR_Raptortoise.label>
+
+  <!-- EN: This raptor theropod has strange turtle traits. Why strange? Well, if you picture an armored dinosaur you tend to imagine something like an ankylosaurus, not a raptor with a tortoise shell on its back.\n\n<color=#E5E54C>Gameplay effect:</color> All reptile hybrids have good temperature tolerance ranges and venomous attacks. -->
+  <GR_Raptortoise.description>Este terópode raptor tem características estranhas de tartaruga. Por que estranhas? Ao imaginar um dinossauro blindado, você pensa num anquilossauro, não num raptor com casco de jabuti nas costas.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todos os híbridos reptilianos têm boas faixas de tolerância à temperatura e ataques venenosos.</GR_Raptortoise.description>
+
+  <!-- EN: left claw -->
+  <GR_Raptortoise.tools.left_claw.label>garra esquerda</GR_Raptortoise.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <GR_Raptortoise.tools.right_claw.label>garra direita</GR_Raptortoise.tools.right_claw.label>
+
+  <!-- EN: teeth -->
+  <GR_Raptortoise.tools.teeth.label>dentes</GR_Raptortoise.tools.teeth.label>
+
+  <!-- EN: stegothrumbo -->
+  <GR_Stegothrumbo.label>Estegotrumbo</GR_Stegothrumbo.label>
+
+  <!-- EN: A colossal, armored dinosaur-thrumbo hybrid. Probably not as smart as a thrumbo, but it makes up for it by being incredibly tough.\n\n<color=#E5E54C>Gameplay effect:</color> All colossal hybrids have very slow attacks, but hit very hard, and possess natural armor. Greater stamina ability: twice per day, the Stegothrumbo can become almost impervious to damage. -->
+  <GR_Stegothrumbo.description>Um híbrido colossal e blindado de dinossauro-trumbo. Provavelmente menos esperto que um trumbo, mas compensa com resistência incrível.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todos os híbridos colossais têm ataques muito lentos, mas golpeiam com muita força e possuem armadura natural. Habilidade vigor aumentado: duas vezes ao dia, o Estegotrumbo pode ficar quase imune a danos.</GR_Stegothrumbo.description>
+
+  <!-- EN: tail -->
+  <GR_Stegothrumbo.tools.tail.label>cauda</GR_Stegothrumbo.tools.tail.label>
+
+  <!-- EN: head -->
+  <GR_Stegothrumbo.tools.head.label>cabeça</GR_Stegothrumbo.tools.head.label>
+
+  <!-- EN: velociwolf -->
+  <GR_Velociwolf.label>Velocilobo</GR_Velociwolf.label>
+
+  <!-- EN: This raptor theropod hybrid escaped the shame of having feathers by instead having hair. So, uhm, still ridiculous.\n\n<color=#E5E54C>Gameplay effect:</color> All canine hybrids get the Adrenaline rush ability, which allows them to move at 200% speed for a short time, but be tired and move slower for half a day afterwards. -->
+  <GR_Velociwolf.description>Este terópode raptor híbrido escapou da vergonha de ter penas ao ter pelos em seu lugar. Então, ahn, continua ridículo.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Todos os híbridos caninos recebem a habilidade Surto de adrenalina, que permite mover-se a 200% da velocidade por um breve período, mas depois ficam cansados e mais lentos por meio dia.</GR_Velociwolf.description>
+
+  <!-- EN: left claw -->
+  <GR_Velociwolf.tools.left_claw.label>garra esquerda</GR_Velociwolf.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <GR_Velociwolf.tools.right_claw.label>garra direita</GR_Velociwolf.tools.right_claw.label>
+
+  <!-- EN: teeth -->
+  <GR_Velociwolf.tools.teeth.label>dentes</GR_Velociwolf.tools.teeth.label>
+
+  <!-- EN: dinosaur meat -->
+  <GR_Spinobear.race.meatLabel>carne de dinossauro</GR_Spinobear.race.meatLabel>
+</LanguageData>
+

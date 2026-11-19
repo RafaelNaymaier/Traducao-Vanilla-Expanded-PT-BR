@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: bear bug egg (unfert.) -->
+  <GR_BearBugEggUnfertilized.label>ovo de Ursopercevejo (não fert.)</GR_BearBugEggUnfertilized.label>
+
+  <!-- EN: Unfertilized bear bug egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a beetle egg, it is disgusting either way... -->
+  <GR_BearBugEggUnfertilized.description>Ovo não fertilizado de Ursopercevejo. Pode ser comido cru, mas fica muito, muito melhor cozido.</GR_BearBugEggUnfertilized.description>
+
+  <!-- EN: bear bug egg (fert.) -->
+  <GR_BearBugEggFertilized.label>ovo de Ursopercevejo (fert.)</GR_BearBugEggFertilized.label>
+
+  <!-- EN: Fertilized bear bug egg. It can be eaten raw, but it's much, much better cooked. Actually, it's a beetle egg, it is disgusting either way... If all goes well, it should hatch into a bear bug. -->
+  <GR_BearBugEggFertilized.description>Ovo fertilizado de Ursopercevejo. Se tudo correr bem, dele nascerá uma destas abominações. Pode ser comido cru, mas fica muito melhor cozido.</GR_BearBugEggFertilized.description>
+
+  <!-- EN: needlechicken egg (unfert.) -->
+  <GR_NeedlechickenEggUnfertilized.label>ovo de Agulhagalinha (não fert.)</GR_NeedlechickenEggUnfertilized.label>
+
+  <!-- EN: An unfertilized needlechicken egg. It can be eaten raw, but it's much, much better cooked. -->
+  <GR_NeedlechickenEggUnfertilized.description>Um ovo não fertilizado de Agulhagalinha. Pode ser comido cru, mas fica muito, muito melhor cozido.</GR_NeedlechickenEggUnfertilized.description>
+
+  <!-- EN: needlechicken egg (fert.) -->
+  <GR_NeedlechickenEggFertilized.label>ovo de Agulhagalinha (fert.)</GR_NeedlechickenEggFertilized.label>
+
+  <!-- EN: A fertilized needlechicken egg. If all goes well, it should hatch into a needlechick. It can be eaten raw, but it's much better cooked. -->
+  <GR_NeedlechickenEggFertilized.description>Um ovo fertilizado de Agulhagalinha. Se tudo correr bem, dele nascerá um filhote de Agulhagalinha. Pode ser comido cru, mas fica muito melhor cozido.</GR_NeedlechickenEggFertilized.description>
+
+  <!-- EN: nighthrumbo egg (fert.) -->
+  <GR_EggNighthrumboFertilized.label>ovo de Noitrumbo (fert.)</GR_EggNighthrumboFertilized.label>
+
+  <!-- EN: Fertilized nighthrumbo egg. If all goes well, it should hatch into a baby nighthrumbo. It can be eaten raw, but it's much better cooked. -->
+  <GR_EggNighthrumboFertilized.description>Ovo fertilizado de Noitrumbo. Se tudo correr bem, dele nascerá uma destas abominações. Pode ser comido cru, mas fica muito melhor cozido.</GR_EggNighthrumboFertilized.description>
+
+  <!-- EN: meadow lizard egg (fert.) -->
+  <GR_EggMeadowLizardFertilized.label>ovo de Pradolagarto (fert.)</GR_EggMeadowLizardFertilized.label>
+
+  <!-- EN: Fertilized meadow lizard egg. If all goes well, it should hatch into a baby meadow lizard. It can be eaten raw, but it's much better cooked. -->
+  <GR_EggMeadowLizardFertilized.description>Ovo fertilizado de Pradolagarto. Se tudo correr bem, dele nascerá uma destas abominações. Pode ser comido cru, mas fica muito melhor cozido.</GR_EggMeadowLizardFertilized.description>
+
+  <!-- EN: alpha genome excavator -->
+  <GR_AlphaGenomeExcavator.label>extrator de genoma alfa</GR_AlphaGenomeExcavator.label>
+
+  <!-- EN: A simplified genome extraction device designed to be usable by even the most simple-minded goon, as such it resembles a caulking gun that works in reverse. The best genetic material can be found in the brain and the automated, single-use design instantly compresses this material into a usable genome.\n\nThe desired subject needs to be docile and trusting of the user who intends on scooping out their brain in a process that is not-quite instantaneous. It is recommended to anesthetize the creature as any sudden movement on their part will interrupt the whole process. Alternatively, it will also work on a dead body...\n\n<color=#E5E54C>Gameplay effect:</color> This excavator can be used to acquire the following genomes: -->
+  <GR_AlphaGenomeExcavator.description>Um dispositivo simplificado de extração de genoma projetado para ser usado até pelo sujeito mais simplório; por isso, parece uma pistola de calafetagem que funciona ao contrário. O melhor material genético fica no cérebro, e o projeto automatizado de uso único o comprime instantaneamente em um genoma utilizável.\n\nO indivíduo desejado precisa estar dócil e confiar em quem pretende retirar seu cérebro num processo não exatamente instantâneo. Recomenda-se anestesiar a criatura, pois qualquer movimento súbito interromperá todo o processo. Como alternativa, também funciona em um cadáver...\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Este extrator pode obter os seguintes genomas:</GR_AlphaGenomeExcavator.description>
+
+  <!-- EN: Use genome excavator -->
+  <GR_AlphaGenomeExcavator.comps.CompUsable.useLabel>Usar extrator de genoma</GR_AlphaGenomeExcavator.comps.CompUsable.useLabel>
+
+  <!-- EN: alpha genome -->
+  <GR_AlphaGenetic.label>genoma alfa</GR_AlphaGenetic.label>
+
+  <!-- EN: A payload of alpha animal genetic material. Can be used at the genomorpher to create a growth cell of a hybrid animal. This tier 2 genome can only be used as primary genome.\n\n<color=#E5E54C>Extraction:</color> Can be extracted via an alpha genome excavator from: -->
+  <GR_AlphaGenetic.description>Uma carga de material genético de animal alfa. Pode ser usada no genomorfador para criar uma célula de crescimento de animal híbrido. Este genoma de nível 2 só pode ser usado como genoma primário.\n\n&lt;color=#E5E54C&gt;Extração:&lt;/color&gt; Pode ser extraído por um extrator de genoma alfa de:</GR_AlphaGenetic.description>
+
+  <!-- EN: boomthread -->
+  <GR_Boomthread.label>fio buma</GR_Boomthread.label>
+
+  <!-- EN: This silk is as strong as synthread, but it is also an excellent thermal insulator -->
+  <GR_Boomthread.description>Esta seda é tão forte quanto tecido sintético, mas também é um excelente isolante térmico</GR_Boomthread.description>
+
+  <!-- EN: exploding web -->
+  <AA_ExplodingWeb.label>teia explosiva</AA_ExplodingWeb.label>
+
+  <!-- EN: tiny venomous barb -->
+  <AA_Bullet_TinyVenomBarb.label>minúscula farpa venenosa</AA_Bullet_TinyVenomBarb.label>
+
+  <!-- EN: huge quill -->
+  <AA_HugeQuill.label>espinho enorme</AA_HugeQuill.label>
+
+  <!-- EN: bear bug -->
+  <GR_BearBug.label>Ursopercevejo</GR_BearBug.label>
+
+  <!-- EN: This tardigrade-like creature is basically a huge bed bug infused with bear genes. It consumes a large amount of food, but its paralysing attacks combined with its resilience can be very useful in a combat situation.\n\nUseful abilities: Bear bugs produce a powerful neurotoxin that can paralyse their prey, leaving them completely unable to defend themselves. -->
+  <GR_BearBug.description>Esta criatura semelhante a um tardígrado é basicamente um percevejo enorme com genes de urso. Consome muita comida, mas seus ataques paralisantes e sua resistência podem ser muito úteis em combate.\n\nHabilidades úteis: Ursopercevejos produzem uma poderosa neurotoxina que paralisa presas, deixando-as completamente incapazes de se defender.</GR_BearBug.description>
+
+  <!-- EN: mandibles -->
+  <GR_BearBug.tools.mandibles.label>mandíbulas</GR_BearBug.tools.mandibles.label>
+
+  <!-- EN: head -->
+  <GR_BearBug.tools.head.label>cabeça</GR_BearBug.tools.head.label>
+
+  <!-- EN: boomalisk -->
+  <GR_Boomalisk.label>Bumalisque</GR_Boomalisk.label>
+
+  <!-- EN: The boomalisk is a boomalope / dunealisk hybrid that produces a weird spider silk know as boomthread. This silk is as strong as synthread, but it is also an excellent thermal insulator. Boomalisks also catch their prey with exploding webs, which... sounds dangerous.\n\nUseful abilities: Produces chemfuel, boomthread and attacks with explosive webs. -->
+  <GR_Boomalisk.description>O Bumalisque é um híbrido de bumalope / dunalisque que produz uma seda de aranha estranha chamada fio buma. É tão forte quanto sintético, mas também um excelente isolante térmico. Bumalisques capturam presas com teias explosivas, o que... parece perigoso.\n\nHabilidades úteis: produz combustível químico e fio buma e ataca com teias explosivas.</GR_Boomalisk.description>
+
+  <!-- EN: left first leg -->
+  <GR_Boomalisk.tools.left_first_leg.label>primeira perna esquerda</GR_Boomalisk.tools.left_first_leg.label>
+
+  <!-- EN: right first leg -->
+  <GR_Boomalisk.tools.right_first_leg.label>primeira perna direita</GR_Boomalisk.tools.right_first_leg.label>
+
+  <!-- EN: head -->
+  <GR_Boomalisk.tools.head.label>cabeça</GR_Boomalisk.tools.head.label>
+
+  <!-- EN: needlechicken -->
+  <GR_Needlechicken.label>Agulhagalinha</GR_Needlechicken.label>
+
+  <!-- EN: This abomination is part chicken, part sentient cactus. If cactus nuggets weren't a thing, they are now. You can think of them as solar-powered egg layers.\n\nUseful abilities: Needlechicken are decent egg layers. They can defend themselves with tiny poison barb attacks, and they almost don't need sustenance (except for a large amount of sunlight). -->
+  <GR_Needlechicken.description>Esta abominação é parte galinha, parte cacto senciente. Se nuggets de cacto não existiam, agora existem. Pense nela como uma produtora de ovos movida a energia solar.\n\nHabilidades úteis: Agulhagalinhas são produtoras razoáveis de ovos. Podem se defender com ataques de minúsculas farpas venenosas e quase não precisam de sustento (exceto muita luz solar).</GR_Needlechicken.description>
+
+  <!-- EN: stings -->
+  <GR_Needlechicken.tools.stings.label>ferroadas</GR_Needlechicken.tools.stings.label>
+
+  <!-- EN: head -->
+  <GR_Needlechicken.tools.head.label>cabeça</GR_Needlechicken.tools.head.label>
+
+  <!-- EN: beetlefleet -->
+  <GR_Beetlefleet.label>Besouroflutuante</GR_Beetlefleet.label>
+
+  <!-- EN: A chitinous, floating, hydrogen-filled monstruosity. The beetlefleet wanders the land bouncing off objects in its path, seeking prey to consume.\n\nUseful abilities: Beetlefleet produce insect jelly, explode on death violently, and reproduce asexually. -->
+  <GR_Beetlefleet.description>Uma monstruosidade quitinosa, flutuante e cheia de hidrogênio. O Besouroflutuante vaga pela terra, quicando nos objetos pelo caminho, procurando presas para consumir.\n\nHabilidades úteis: Besouroflutuantes produzem geleia de inseto, explodem violentamente ao morrer e se reproduzem assexuadamente.</GR_Beetlefleet.description>
+
+  <!-- EN: tentacles -->
+  <GR_Beetlefleet.tools.tentacles.label>tentáculos</GR_Beetlefleet.tools.tentacles.label>
+
+  <!-- EN: groundffalo -->
+  <GR_Groundffalo.label>Terramúfalo</GR_Groundffalo.label>
+
+  <!-- EN: The horned groundffalo is a great pack beast (albeit a bit slow) capable of producing milk and wool, as well as mining for your colony. Compared to a Groundrunner it won't be as efficient on its mining work, but the other characteristics make up for this.\n\nUseful abilities: Produces wool, milk, acts as a pack beast and  mines rocks and minerals. -->
+  <GR_Groundffalo.description>O Terramúfalo chifrudo é um ótimo animal de carga, embora um pouco lento, que produz leite e lã e minera para sua colônia. Comparado a um Groundrunner, não será tão eficiente na mineração, mas as outras características compensam.\n\nHabilidades úteis: produz lã e leite, atua como animal de carga e minera rochas e minerais.</GR_Groundffalo.description>
+
+  <!-- EN: left claw -->
+  <GR_Groundffalo.tools.left_claw.label>garra esquerda</GR_Groundffalo.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <GR_Groundffalo.tools.right_claw.label>garra direita</GR_Groundffalo.tools.right_claw.label>
+
+  <!-- EN: horns -->
+  <GR_Groundffalo.tools.horns.label>chifres</GR_Groundffalo.tools.horns.label>
+
+  <!-- EN: head -->
+  <GR_Groundffalo.tools.head.label>cabeça</GR_Groundffalo.tools.head.label>
+
+  <!-- EN: meadow lizard -->
+  <GR_MeadowLizard.label>Pradolagarto</GR_MeadowLizard.label>
+
+  <!-- EN: The meadow lizard is a beast bred for speed. Even though they are naturally slower than meadow aves, they can be trained to be incredibly fast mounts.\n\nUseful abilities: if properly trained they can be ridden into battle at incredible speeds (this interaction needs the Giddy-Up, combat mounts mod, and it will make the Meadow Lizards move 100% faster when used as mounts). They are also venomous. -->
+  <GR_MeadowLizard.description>O Pradolagarto é uma fera criada para velocidade. Embora naturalmente mais lento que aves dos prados, pode ser treinado para se tornar uma montaria incrivelmente rápida.\n\nHabilidades úteis: se bem treinado, pode ser montado em batalha com velocidade incrível (essa interação exige o mod Giddy-Up, combat mounts e faz Pradolagartos se moverem 100% mais rápido como montarias). Também é venenoso.</GR_MeadowLizard.description>
+
+  <!-- EN: claws -->
+  <GR_MeadowLizard.tools.claws.label>garras</GR_MeadowLizard.tools.claws.label>
+
+  <!-- EN: head -->
+  <GR_MeadowLizard.tools.head.label>cabeça</GR_MeadowLizard.tools.head.label>
+
+  <!-- EN: animus hare -->
+  <GR_AnimusHare.label>Animuslebre</GR_AnimusHare.label>
+
+  <!-- EN: The Animus Hare is a small leporid with latent psionic abilities. Quite intelligent for an animal, but not intelligent enough to properly use psionics. It will however quickly bond with human beings and reach with his mind to make happy everyone that treats it well.\n\nUseful abilities: they will often use a psionic nuzzle on colonists, keeping everyone happier. They also breed very fast. -->
+  <GR_AnimusHare.description>A Animuslebre é um pequeno leporídeo com habilidades psiônicas latentes. Muito inteligente para um animal, mas não o suficiente para usar psiônica adequadamente. Porém, cria laços rapidamente com humanos e usa a mente para alegrar quem a trata bem.\n\nHabilidades úteis: costuma usar carinho psiônico nos colonos, deixando todos mais felizes. Também se reproduz muito rápido.</GR_AnimusHare.description>
+
+  <!-- EN: left claw -->
+  <GR_AnimusHare.tools.left_claw.label>garra esquerda</GR_AnimusHare.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <GR_AnimusHare.tools.right_claw.label>garra direita</GR_AnimusHare.tools.right_claw.label>
+
+  <!-- EN: head -->
+  <GR_AnimusHare.tools.head.label>cabeça</GR_AnimusHare.tools.head.label>
+
+  <!-- EN: nighthrumbo -->
+  <GR_Nighthrumbo.label>Noitrumbo</GR_Nighthrumbo.label>
+
+  <!-- EN: The nighthrumbo is a fearsome predator. Armed with strong jaws and its horn, as well as ranged quill attacks, it will make quick work of any prey it decides to attack. It is also a nocturnal animal, sleeping during the day and being active at night.\n\nUseful abilities: Ranged quill attacks. -->
+  <GR_Nighthrumbo.description>O Noitrumbo é um predador temível. Armado com mandíbulas fortes, chifre e ataques de espinhos à distância, acaba rapidamente com qualquer presa que decida atacar. Também é noturno, dormindo de dia e ficando ativo à noite.\n\nHabilidades úteis: ataques de espinhos à distância.</GR_Nighthrumbo.description>
+
+  <!-- EN: horn -->
+  <GR_Nighthrumbo.tools.horn.label>chifre</GR_Nighthrumbo.tools.horn.label>
+
+  <!-- EN: left claw -->
+  <GR_Nighthrumbo.tools.left_claw.label>garra esquerda</GR_Nighthrumbo.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <GR_Nighthrumbo.tools.right_claw.label>garra direita</GR_Nighthrumbo.tools.right_claw.label>
+
+  <!-- EN: head -->
+  <GR_Nighthrumbo.tools.head.label>cabeça</GR_Nighthrumbo.tools.head.label>
+
+  <!-- EN: wolf shrimp -->
+  <GR_WolfShrimp.label>Lobocamarão</GR_WolfShrimp.label>
+
+  <!-- EN: A terrifyingly alien creature, the wolf shrimp is keenly intelligent like its wolf forefather, slithering in blinding speed towards its prey.\n\nUseful abilities: Extremely fast regenerative capabilities. -->
+  <GR_WolfShrimp.description>Uma criatura terrivelmente alienígena, o Lobocamarão é muito inteligente como seu ancestral lobo, deslizando em velocidade estonteante em direção à presa.\n\nHabilidades úteis: capacidades regenerativas extremamente rápidas.</GR_WolfShrimp.description>
+
+  <!-- EN: head -->
+  <GR_WolfShrimp.tools.head.label>cabeça</GR_WolfShrimp.tools.head.label>
+
+  <!-- EN: left blade -->
+  <GR_WolfShrimp.tools.left_blade.label>lâmina esquerda</GR_WolfShrimp.tools.left_blade.label>
+
+  <!-- EN: right blade -->
+  <GR_WolfShrimp.tools.right_blade.label>lâmina direita</GR_WolfShrimp.tools.right_blade.label>
+
+  <!-- EN: Asexual fission in:  -->
+  <GR_Beetlefleet.comps.1.customString>Fissão assexuada em: </GR_Beetlefleet.comps.1.customString>
+</LanguageData>
+

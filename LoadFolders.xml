@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <v1.4>
+    <li>/</li>
+
+    <!-- MOD_START: Vanilla Genetics Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VGeneticsE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/AlphaAnimals</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/CosmicHorrors</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/Dinosauria</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/Megafauna</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/RimBees</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/Ideology</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/Achievements</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/CosmicHorrors/Compat/Cooking</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/Dinosauria/Compat/Cooking</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/Megafauna/Compat/Cooking</li>
+    <!-- MOD_END: Vanilla Genetics Expanded -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Props And Decor -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEPropsandDecor -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaBiomes</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaBiomes/Compat/Anomaly</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaGenes</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaMemes</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaVehiclesAgeOfSail</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaVehiclesEarlyCars</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaVehiclesNeolithic</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AncientHydroponicFarmFacilities</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AncientMiningIndustry</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AncientUrbanRuins</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Ancients</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Anomaly</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Biotech</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Classical</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Deserters</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Empire</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Genetics</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Ideology</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Insectoids</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Odyssey</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Royalty</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Temperature</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaBrewingExpanded</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaBrewingExpandedCoffee</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaChemfuelExpanded</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaCookingExpanded</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaCookingExpandedStews</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaCookingExpandedSushi</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaExpandedBakery</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaFurnitureExpandedArchitect</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaGravshipExpanded</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaMemesExpanded</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpanded</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpandedFlowers</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpandedMorePlants</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpandedMushrooms</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpandedSucculents</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaVehiclesExpanded</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaVehiclesExpandedTier3</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Props And Decor -->
+  </v1.4>
+
+  <v1.5>
+    <li>/</li>
+
+    <!-- MOD_START: Vanilla Genetics Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VGeneticsE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/AlphaAnimals</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/CosmicHorrors</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/Dinosauria</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/Megafauna</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/RimBees</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/Ideology</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/Achievements</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/CosmicHorrors/Compat/Cooking</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/Dinosauria/Compat/Cooking</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/Megafauna/Compat/Cooking</li>
+    <!-- MOD_END: Vanilla Genetics Expanded -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Props And Decor -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEPropsandDecor -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaBiomes</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaBiomes/Compat/Anomaly</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaGenes</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaMemes</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaVehiclesAgeOfSail</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaVehiclesEarlyCars</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaVehiclesNeolithic</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AncientHydroponicFarmFacilities</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AncientMiningIndustry</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AncientUrbanRuins</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Ancients</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Anomaly</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Biotech</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Classical</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Deserters</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Empire</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Genetics</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Ideology</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Insectoids</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Odyssey</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Royalty</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Temperature</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaBrewingExpanded</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaBrewingExpandedCoffee</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaChemfuelExpanded</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaCookingExpanded</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaCookingExpandedStews</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaCookingExpandedSushi</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaExpandedBakery</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaFurnitureExpandedArchitect</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaGravshipExpanded</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaMemesExpanded</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpanded</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpandedFlowers</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpandedMorePlants</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpandedMushrooms</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpandedSucculents</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaVehiclesExpanded</li>
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaVehiclesExpandedTier3</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Props And Decor -->
+  </v1.5>
+
+  <v1.6>
+    <li>/</li>
+
+    <!-- MOD_START: Vanilla Genetics Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VGeneticsE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="sarg.alphaanimals,sarg.alphaanimals_copy" IfModActiveAll="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/AlphaAnimals</li>
+    <li IfModActive="rimofmadness.CallofCthulhuCosmicHorrors,rimofmadness.CallofCthulhuCosmicHorrors_copy" IfModActiveAll="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/CosmicHorrors</li>
+    <li IfModActive="spincrus.dinosauria,spincrus.dinosauria_copy,BiomesTeam.BiomesPrehistoric,BiomesTeam.BiomesPrehistoric_copy" IfModActiveAll="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/Dinosauria</li>
+    <li IfModActive="Spino.Megafauna,Spino.Megafauna_copy" IfModActiveAll="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/Megafauna</li>
+    <li IfModActive="sarg.rimbees,sarg.rimbees_copy" IfModActiveAll="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/RimBees</li>
+    <li IfModActiveAll="VanillaExpanded.VGeneticsE,Ludeon.RimWorld.Ideology">Mods/Vanilla Genetics Expanded/Compat/Ideology</li>
+    <li IfModActiveAll="VanillaExpanded.VGeneticsE,vanillaexpanded.achievements">Mods/Vanilla Genetics Expanded/Compat/Achievements</li>
+    <li IfModActive="rimofmadness.CallofCthulhuCosmicHorrors,rimofmadness.CallofCthulhuCosmicHorrors_copy" IfModActiveAll="VanillaExpanded.VGeneticsE,VanillaExpanded.VCookE">Mods/Vanilla Genetics Expanded/Compat/CosmicHorrors/Compat/Cooking</li>
+    <li IfModActive="spincrus.dinosauria,spincrus.dinosauria_copy,BiomesTeam.BiomesPrehistoric,BiomesTeam.BiomesPrehistoric_copy" IfModActiveAll="VanillaExpanded.VGeneticsE,VanillaExpanded.VCookE">Mods/Vanilla Genetics Expanded/Compat/Dinosauria/Compat/Cooking</li>
+    <li IfModActive="Spino.Megafauna,Spino.Megafauna_copy" IfModActiveAll="VanillaExpanded.VGeneticsE,VanillaExpanded.VCookE">Mods/Vanilla Genetics Expanded/Compat/Megafauna/Compat/Cooking</li>
+    <!-- MOD_END: Vanilla Genetics Expanded -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Props And Decor -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEPropsandDecor -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,sarg.alphabiomes">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaBiomes</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,sarg.alphabiomes,Ludeon.RimWorld.Anomaly">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaBiomes/Compat/Anomaly</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,sarg.alphagenes">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaGenes</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,Sarg.AlphaMemes">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaMemes</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,sarg.alphavehiclesageofsail">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaVehiclesAgeOfSail</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,sarg.alphavehiclesearlycars">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaVehiclesEarlyCars</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,sarg.alphavehiclesneolithic">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaVehiclesNeolithic</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,XMB.AncientHydroponicFarmFacilities.MO">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AncientHydroponicFarmFacilities</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,XMB.AncientMiningIndustry.MO">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AncientMiningIndustry</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,XMB.AncientUrbanrUins.MO">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AncientUrbanRuins</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,vanillaquestsexpanded.ancients">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Ancients</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,Ludeon.RimWorld.Anomaly">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Anomaly</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,Ludeon.RimWorld.Biotech">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Biotech</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,OskarPotocki.VFE.Classical">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Classical</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,OskarPotocki.VFE.Deserters">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Deserters</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,OskarPotocki.VFE.Empire">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Empire</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VGeneticsE">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Genetics</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,Ludeon.RimWorld.Ideology">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Ideology</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,OskarPotocki.VFE.Insectoid2">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Insectoids</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,Ludeon.RimWorld.Odyssey">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Odyssey</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,Ludeon.RimWorld.Royalty">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Royalty</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.Temperature">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Temperature</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VBrewE">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaBrewingExpanded</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VBrewECandT">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaBrewingExpandedCoffee</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VChemfuelE">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaChemfuelExpanded</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VCookE">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaCookingExpanded</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VCookEStews">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaCookingExpandedStews</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VCookESushi">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaCookingExpandedSushi</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VCookEBakery">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaExpandedBakery</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VFEArchitect">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaFurnitureExpandedArchitect</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,vanillaexpanded.gravship">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaGravshipExpanded</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VMemesE">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaMemesExpanded</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VPlantsE">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpanded</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VPEFlowers">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpandedFlowers</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VPlantsEMore">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpandedMorePlants</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VPlantsEMushrooms">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpandedMushrooms</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VPlantsESucculents">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpandedSucculents</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,OskarPotocki.VanillaVehiclesExpanded">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaVehiclesExpanded</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,OskarPotocki.VanillaVehiclesExpandedTier3">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaVehiclesExpandedTier3</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Props And Decor -->
+  </v1.6>
+
+  <v1.7>
+    <li>/</li>
+
+    <!-- MOD_START: Vanilla Genetics Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VGeneticsE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="sarg.alphaanimals,sarg.alphaanimals_copy" IfModActiveAll="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/AlphaAnimals</li>
+    <li IfModActiveAll="VanillaExpanded.VGeneticsE,Ludeon.RimWorld.Anomaly">Mods/Vanilla Genetics Expanded/Compat/CosmicHorrors</li>
+    <li IfModActive="spincrus.dinosauria,spincrus.dinosauria_copy,BiomesTeam.BiomesPrehistoric,BiomesTeam.BiomesPrehistoric_copy" IfModActiveAll="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/Dinosauria</li>
+    <li IfModActive="Spino.Megafauna,Spino.Megafauna_copy" IfModActiveAll="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/Megafauna</li>
+    <li IfModActive="sarg.rimbees,sarg.rimbees_copy" IfModActiveAll="VanillaExpanded.VGeneticsE">Mods/Vanilla Genetics Expanded/Compat/RimBees</li>
+    <li IfModActiveAll="VanillaExpanded.VGeneticsE,Ludeon.RimWorld.Ideology">Mods/Vanilla Genetics Expanded/Compat/Ideology</li>
+    <li IfModActiveAll="VanillaExpanded.VGeneticsE,vanillaexpanded.achievements">Mods/Vanilla Genetics Expanded/Compat/Achievements</li>
+    <li IfModActiveAll="VanillaExpanded.VGeneticsE,VanillaExpanded.VCookE,Ludeon.RimWorld.Anomaly">Mods/Vanilla Genetics Expanded/Compat/CosmicHorrors/Compat/Cooking</li>
+    <li IfModActive="spincrus.dinosauria,spincrus.dinosauria_copy,BiomesTeam.BiomesPrehistoric,BiomesTeam.BiomesPrehistoric_copy" IfModActiveAll="VanillaExpanded.VGeneticsE,VanillaExpanded.VCookE">Mods/Vanilla Genetics Expanded/Compat/Dinosauria/Compat/Cooking</li>
+    <li IfModActive="Spino.Megafauna,Spino.Megafauna_copy" IfModActiveAll="VanillaExpanded.VGeneticsE,VanillaExpanded.VCookE">Mods/Vanilla Genetics Expanded/Compat/Megafauna/Compat/Cooking</li>
+    <!-- MOD_END: Vanilla Genetics Expanded -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Props And Decor -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEPropsandDecor -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,sarg.alphabiomes">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaBiomes</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,sarg.alphabiomes,Ludeon.RimWorld.Anomaly">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaBiomes/Compat/Anomaly</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,sarg.alphagenes">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaGenes</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,Sarg.AlphaMemes">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaMemes</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,sarg.alphavehiclesageofsail">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaVehiclesAgeOfSail</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,sarg.alphavehiclesearlycars">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaVehiclesEarlyCars</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,sarg.alphavehiclesneolithic">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AlphaVehiclesNeolithic</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,XMB.AncientHydroponicFarmFacilities.MO">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AncientHydroponicFarmFacilities</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,XMB.AncientMiningIndustry.MO">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AncientMiningIndustry</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,XMB.AncientUrbanrUins.MO">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/AncientUrbanRuins</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,vanillaquestsexpanded.ancients">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Ancients</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,Ludeon.RimWorld.Anomaly">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Anomaly</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,Ludeon.RimWorld.Biotech">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Biotech</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,OskarPotocki.VFE.Classical">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Classical</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,OskarPotocki.VFE.Deserters">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Deserters</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,OskarPotocki.VFE.Empire">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Empire</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VGeneticsE">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Genetics</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,Ludeon.RimWorld.Ideology">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Ideology</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,OskarPotocki.VFE.Insectoid2">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Insectoids</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,Ludeon.RimWorld.Odyssey">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Odyssey</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,Ludeon.RimWorld.Royalty">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Royalty</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.Temperature">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/Temperature</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VBrewE">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaBrewingExpanded</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VBrewECandT">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaBrewingExpandedCoffee</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VChemfuelE">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaChemfuelExpanded</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VCookE">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaCookingExpanded</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VCookEStews">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaCookingExpandedStews</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VCookESushi">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaCookingExpandedSushi</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VCookEBakery">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaExpandedBakery</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VFEArchitect">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaFurnitureExpandedArchitect</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,vanillaexpanded.gravship">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaGravshipExpanded</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VMemesE">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaMemesExpanded</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VPlantsE">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpanded</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VPEFlowers">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpandedFlowers</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VPlantsEMore">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpandedMorePlants</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VPlantsEMushrooms">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpandedMushrooms</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,VanillaExpanded.VPlantsESucculents">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaPlantsExpandedSucculents</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,OskarPotocki.VanillaVehiclesExpanded">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaVehiclesExpanded</li>
+    <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,OskarPotocki.VanillaVehiclesExpandedTier3">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaVehiclesExpandedTier3</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Props And Decor -->
+  </v1.7>
+</loadFolders>
+

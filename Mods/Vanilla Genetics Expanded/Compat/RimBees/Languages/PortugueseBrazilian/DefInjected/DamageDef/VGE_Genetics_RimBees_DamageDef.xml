@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: toxic sting -->
+  <RB_ToxicSting.label>ferroada tóxica</RB_ToxicSting.label>
+
+  <!-- EN: {0} has been stung to death. -->
+  <RB_ToxicSting.deathMessage>{0} morreu após receber ferroadas.</RB_ToxicSting.deathMessage>
+
+  <!-- EN: very toxic sting -->
+  <RB_VeryToxicSting.label>ferroada muito tóxica</RB_VeryToxicSting.label>
+
+  <!-- EN: {0} has been stung to death. -->
+  <RB_VeryToxicSting.deathMessage>{0} morreu após receber ferroadas.</RB_VeryToxicSting.deathMessage>
+
+  <!-- EN: chemfuel sting -->
+  <RB_ChemfuelSting.label>ferroada de combustível químico</RB_ChemfuelSting.label>
+
+  <!-- EN: {0} has been stung to death. -->
+  <RB_ChemfuelSting.deathMessage>{0} morreu após receber ferroadas.</RB_ChemfuelSting.deathMessage>
+
+  <!-- EN: blinding sting -->
+  <RB_BlindingSting.label>ferroada cegante</RB_BlindingSting.label>
+
+  <!-- EN: {0} has been stung to death. -->
+  <RB_BlindingSting.deathMessage>{0} morreu após receber ferroadas.</RB_BlindingSting.deathMessage>
+
+  <!-- EN: paralyzing sting -->
+  <RB_ParalyzingSting.label>ferroada paralisante</RB_ParalyzingSting.label>
+
+  <!-- EN: {0} has been stung to death. -->
+  <RB_ParalyzingSting.deathMessage>{0} morreu após receber ferroadas.</RB_ParalyzingSting.deathMessage>
+
+  <!-- EN: bee explosion -->
+  <BR_BeeExplosion.label>explosão de abelha</BR_BeeExplosion.label>
+
+  <!-- EN: {0} has been poisoned to death. -->
+  <BR_BeeExplosion.deathMessage>{0} morreu por envenenamento.</BR_BeeExplosion.deathMessage>
+</LanguageData>
+
