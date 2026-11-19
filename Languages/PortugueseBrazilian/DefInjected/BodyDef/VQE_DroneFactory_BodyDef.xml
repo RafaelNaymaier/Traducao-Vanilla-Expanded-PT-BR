@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: flying drone -->
+  <VQE_DroneFlying.label>drone voador</VQE_DroneFlying.label>
+
+  <!-- EN: main rotor -->
+  <VQE_DroneFlying.corePart.parts.main_rotor.customLabel>rotor principal</VQE_DroneFlying.corePart.parts.main_rotor.customLabel>
+
+  <!-- EN: crippled drone -->
+  <VQE_DroneLegless.label>drone avariado</VQE_DroneLegless.label>
+
+  <!-- EN: broken spine -->
+  <VQE_DroneLegless.corePart.parts.broken_spine.customLabel>coluna quebrada</VQE_DroneLegless.corePart.parts.broken_spine.customLabel>
+
+  <!-- EN: bipedal drone -->
+  <VQE_DroneWithLegs.label>drone bípede</VQE_DroneWithLegs.label>
+
+  <!-- EN: left leg -->
+  <VQE_DroneWithLegs.corePart.parts.left_leg.customLabel>perna esquerda</VQE_DroneWithLegs.corePart.parts.left_leg.customLabel>
+
+  <!-- EN: right leg -->
+  <VQE_DroneWithLegs.corePart.parts.right_leg.customLabel>perna direita</VQE_DroneWithLegs.corePart.parts.right_leg.customLabel>
+
+  <!-- EN: drone -->
+  <VQE_DroneWithSingleWheel.label>drone</VQE_DroneWithSingleWheel.label>
+
+  <!-- EN: wheel -->
+  <VQE_DroneWithSingleWheel.corePart.parts.wheel.customLabel>roda</VQE_DroneWithSingleWheel.corePart.parts.wheel.customLabel>
+
+  <!-- EN: drone -->
+  <VQE_DroneWithTreads.label>drone</VQE_DroneWithTreads.label>
+
+  <!-- EN: front left tread -->
+  <VQE_DroneWithTreads.corePart.parts.front_left_tread.customLabel>esteira dianteira esquerda</VQE_DroneWithTreads.corePart.parts.front_left_tread.customLabel>
+
+  <!-- EN: back left tread -->
+  <VQE_DroneWithTreads.corePart.parts.back_left_tread.customLabel>esteira traseira esquerda</VQE_DroneWithTreads.corePart.parts.back_left_tread.customLabel>
+
+  <!-- EN: front right tread -->
+  <VQE_DroneWithTreads.corePart.parts.front_right_tread.customLabel>esteira dianteira direita</VQE_DroneWithTreads.corePart.parts.front_right_tread.customLabel>
+
+  <!-- EN: back right tread -->
+  <VQE_DroneWithTreads.corePart.parts.back_right_tread.customLabel>esteira traseira direita</VQE_DroneWithTreads.corePart.parts.back_right_tread.customLabel>
+
+  <!-- EN: drone -->
+  <VQE_DroneWithWheels.label>drone</VQE_DroneWithWheels.label>
+
+  <!-- EN: front left wheel -->
+  <VQE_DroneWithWheels.corePart.parts.front_left_wheel.customLabel>roda dianteira esquerda</VQE_DroneWithWheels.corePart.parts.front_left_wheel.customLabel>
+
+  <!-- EN: front right wheel -->
+  <VQE_DroneWithWheels.corePart.parts.front_right_wheel.customLabel>roda dianteira direita</VQE_DroneWithWheels.corePart.parts.front_right_wheel.customLabel>
+
+  <!-- EN: rear left wheel -->
+  <VQE_DroneWithWheels.corePart.parts.rear_left_wheel.customLabel>roda traseira esquerda</VQE_DroneWithWheels.corePart.parts.rear_left_wheel.customLabel>
+
+  <!-- EN: rear right wheel -->
+  <VQE_DroneWithWheels.corePart.parts.rear_right_wheel.customLabel>roda traseira direita</VQE_DroneWithWheels.corePart.parts.rear_right_wheel.customLabel>
+
+</LanguageData>
+

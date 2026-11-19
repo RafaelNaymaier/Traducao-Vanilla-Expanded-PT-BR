@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: dronetech -->
+  <VQE_Dronetech.label>tecnologia de drones</VQE_Dronetech.label>
+
+  <!-- EN: Unlocks the ability to construct specialized work drones and the necessary infrastructure to keep them operational. -->
+  <VQE_Dronetech.description>Permite construir drones de trabalho especializados e a infraestrutura necessária para mantê-los operacionais.</VQE_Dronetech.description>
+
+  <!-- EN: <li>subject->autonomous drone networks</li>
+    <li>subject_story->pioneered the first fully synchronized drones</li>
+    <li>subject_story->transformed scattered machines into a unified automated grid</li>
+    <li>subject_story->saw beyond isolated units to the elegance of coordinated autonomy</li>
+    <li>subject_gerund->orchestrating fleets into seamless operational harmony</li> -->
+  <VQE_Dronetech.generalRules.rulesStrings>
+    <li>subject->redes de drones autônomos</li>
+    <li>subject_story->foi pioneiro nos primeiros drones totalmente sincronizados</li>
+    <li>subject_story->transformou máquinas dispersas em uma rede automatizada unificada</li>
+    <li>subject_story->enxergou além de unidades isoladas a elegância da autonomia coordenada</li>
+    <li>subject_gerund->orquestrando frotas em perfeita harmonia operacional</li>
+  </VQE_Dronetech.generalRules.rulesStrings>
+
+</LanguageData>
+

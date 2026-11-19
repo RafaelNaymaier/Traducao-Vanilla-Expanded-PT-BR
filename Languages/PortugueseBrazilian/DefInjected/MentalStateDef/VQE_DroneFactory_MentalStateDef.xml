@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: connection timed out -->
+  <VQE_ConnectionTimedOut.label>tempo de conexão esgotado</VQE_ConnectionTimedOut.label>
+
+  <!-- EN: Malfunctioning: Connection timed out -->
+  <VQE_ConnectionTimedOut.baseInspectLine>Mau funcionamento: Tempo de conexão esgotado</VQE_ConnectionTimedOut.baseInspectLine>
+
+  <!-- EN: desync -->
+  <VQE_Desync.label>dessincronização</VQE_Desync.label>
+
+  <!-- EN: Malfunctioning: Desync -->
+  <VQE_Desync.baseInspectLine>Mau funcionamento: Dessincronização</VQE_Desync.baseInspectLine>
+
+  <!-- EN: diagnostic loop -->
+  <VQE_DiagnosticLoop.label>ciclo de diagnóstico</VQE_DiagnosticLoop.label>
+
+  <!-- EN: Malfunctioning: Diagnostic loop -->
+  <VQE_DiagnosticLoop.baseInspectLine>Mau funcionamento: Ciclo de diagnóstico</VQE_DiagnosticLoop.baseInspectLine>
+
+  <!-- EN: fluid leak -->
+  <VQE_FluidLeak.label>vazamento de fluido</VQE_FluidLeak.label>
+
+  <!-- EN: Malfunctioning: Fluid leak -->
+  <VQE_FluidLeak.baseInspectLine>Mau funcionamento: Vazamento de fluido</VQE_FluidLeak.baseInspectLine>
+
+  <!-- EN: hardcrash -->
+  <VQE_Hardcrash.label>pane grave</VQE_Hardcrash.label>
+
+  <!-- EN: Malfunctioning: Hardcrash -->
+  <VQE_Hardcrash.baseInspectLine>Mau funcionamento: Pane grave</VQE_Hardcrash.baseInspectLine>
+
+  <!-- EN: hardware failure -->
+  <VQE_HardwareFailure.label>falha de hardware</VQE_HardwareFailure.label>
+
+  <!-- EN: Malfunctioning: Hardware failure -->
+  <VQE_HardwareFailure.baseInspectLine>Mau funcionamento: Falha de hardware</VQE_HardwareFailure.baseInspectLine>
+
+  <!-- EN: hoarding loop -->
+  <VQE_HoardingLoop.label>ciclo de acúmulo</VQE_HoardingLoop.label>
+
+  <!-- EN: Malfunctioning: Hoarding loop -->
+  <VQE_HoardingLoop.baseInspectLine>Mau funcionamento: Ciclo de acúmulo</VQE_HoardingLoop.baseInspectLine>
+
+  <!-- EN: indexing -->
+  <VQE_Indexing.label>indexação</VQE_Indexing.label>
+
+  <!-- EN: Malfunctioning: Indexing -->
+  <VQE_Indexing.baseInspectLine>Mau funcionamento: Indexação</VQE_Indexing.baseInspectLine>
+
+  <!-- EN: killswitch -->
+  <VQE_Killswitch.label>protocolo de extermínio</VQE_Killswitch.label>
+
+  <!-- EN: Malfunctioning: Killswitch -->
+  <VQE_Killswitch.baseInspectLine>Mau funcionamento: Protocolo de extermínio</VQE_Killswitch.baseInspectLine>
+
+  <!-- EN: overclock -->
+  <VQE_Overclock.label>overclock</VQE_Overclock.label>
+
+  <!-- EN: Malfunctioning: Overclock -->
+  <VQE_Overclock.baseInspectLine>Mau funcionamento: Overclock</VQE_Overclock.baseInspectLine>
+
+  <!-- EN: rebooting -->
+  <VQE_Reboot.label>reiniciando</VQE_Reboot.label>
+
+  <!-- EN: Malfunctioning: Rebooting -->
+  <VQE_Reboot.baseInspectLine>Mau funcionamento: Reiniciando</VQE_Reboot.baseInspectLine>
+
+  <!-- EN: self-decommission -->
+  <VQE_SelfDecommission.label>autodesativação definitiva</VQE_SelfDecommission.label>
+
+  <!-- EN: Malfunctioning: Self-decommission -->
+  <VQE_SelfDecommission.baseInspectLine>Mau funcionamento: Autodesativação definitiva</VQE_SelfDecommission.baseInspectLine>
+
+  <!-- EN: sensor lag -->
+  <VQE_SensorLag.label>atraso nos sensores</VQE_SensorLag.label>
+
+  <!-- EN: Malfunctioning: Sensor lag -->
+  <VQE_SensorLag.baseInspectLine>Mau funcionamento: Atraso nos sensores</VQE_SensorLag.baseInspectLine>
+
+</LanguageData>
+

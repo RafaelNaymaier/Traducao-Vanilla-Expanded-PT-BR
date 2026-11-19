@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: lifespan drain speed -->
+  <VQE_LifespanDrainSpeed.label>taxa de desgaste da vida útil</VQE_LifespanDrainSpeed.label>
+
+  <!-- EN: Multiplies how quickly the drone's lifespan drains. Higher values mean faster drain. -->
+  <VQE_LifespanDrainSpeed.description>Multiplica a velocidade de desgaste da vida útil do drone. Valores maiores significam desgaste mais rápido.</VQE_LifespanDrainSpeed.description>
+
+  <!-- EN: lifespan (years) -->
+  <VQE_LifespanYears.label>vida útil (anos)</VQE_LifespanYears.label>
+
+  <!-- EN: The operational lifespan of the drone in years. -->
+  <VQE_LifespanYears.description>A vida útil operacional do drone em anos.</VQE_LifespanYears.description>
+
+</LanguageData>
+
