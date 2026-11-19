@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: large pollution pump -->
+  <VRecyclingE_LargePollutionPump.label>bomba de despoluição grande</VRecyclingE_LargePollutionPump.label>
+
+  <!-- EN: A large, groundwater-filtering pump which slowly cleans large swathes of polluted terrain. The extracted pollution is formed into toxic wastepacks which must be hauled away. -->
+  <VRecyclingE_LargePollutionPump.description>Uma grande bomba que filtra as águas subterrâneas e limpa lentamente grandes extensões de terreno poluído. A poluição extraída é transformada em pacotes de resíduos tóxicos que precisam ser transportados para outro lugar.</VRecyclingE_LargePollutionPump.description>
+
+  <!-- EN: pollution fastpump -->
+  <VRecyclingE_PollutionFastPump.label>bomba de despoluição rápida</VRecyclingE_PollutionFastPump.label>
+
+  <!-- EN: A rapidly-working, groundwater-filtering pump which cleans polluted terrain. The extracted pollution is formed into toxic wastepacks which must be hauled away. It requires a large amount of electricity to work, but it works extremely quickly. -->
+  <VRecyclingE_PollutionFastPump.description>Uma bomba de filtragem de águas subterrâneas que limpa terrenos poluídos rapidamente. A poluição extraída é transformada em pacotes de resíduos tóxicos que precisam ser transportados para outro lugar. Exige muita eletricidade para funcionar, mas opera com extrema rapidez.</VRecyclingE_PollutionFastPump.description>
+
+  <!-- EN: waste crate -->
+  <VRecyclingE_WasteCrate.label>caixote de resíduos</VRecyclingE_WasteCrate.label>
+
+  <!-- EN: A hermetically sealed container that prevents toxic waste stored inside from dissolving and leaking into the environment. Can only hold a limited amount of waste. Does nothing to prevent the waste from burning. -->
+  <VRecyclingE_WasteCrate.description>Um recipiente hermeticamente fechado que impede que os resíduos tóxicos armazenados dentro dele se dissolvam e vazem para o ambiente. Só pode conter uma quantidade limitada de resíduos. Não impede que os resíduos queimem.</VRecyclingE_WasteCrate.description>
+
+  <!-- EN: alloypack splitter -->
+  <VRecyclingE_AlloypackSplitter.label>separador de pacotes de ligas</VRecyclingE_AlloypackSplitter.label>
+
+  <!-- EN: A spacertech device that separates stabilized alloypacks into steel, plasteel and gold compounds. This process takes a long time and requires a lot of power.\n\nConsider that the building will need free space behind it to produce its output! -->
+  <VRecyclingE_AlloypackSplitter.description>Um dispositivo de tecnologia espacial que separa pacotes de ligas estabilizados em compostos de aço, plastiaço e ouro. Esse processo leva muito tempo e exige muita energia.\n\nLembre-se de deixar espaço livre atrás do edifício para a saída dos produtos!</VRecyclingE_AlloypackSplitter.description>
+
+  <!-- EN: electric-powered recycling bench -->
+  <VRecyclingE_ElectricRecyclingWorkbench.label>bancada de reciclagem elétrica</VRecyclingE_ElectricRecyclingWorkbench.label>
+
+  <!-- EN: A workbench with automated sorters and electric tools, used in recycling wastepacks into other resources. Can work without electricity at 50% of normal speed. -->
+  <VRecyclingE_ElectricRecyclingWorkbench.description>Uma bancada com separadores automatizados e ferramentas elétricas, usada para reciclar pacotes de resíduos em outros recursos. Pode funcionar sem eletricidade a 50% da velocidade normal.</VRecyclingE_ElectricRecyclingWorkbench.description>
+
+  <!-- EN: garbage compactor -->
+  <VRecyclingE_GarbageCompactor.label>compactador de lixo</VRecyclingE_GarbageCompactor.label>
+
+  <!-- EN: An industrial-tech device that condenses trash using hydraulic press into trashbricks. While it does not neutralize the trash completely, it allows for a creation of a construction resource out of it. The process requires considerable amounts of power and emits tox gas during operation. -->
+  <VRecyclingE_GarbageCompactor.description>Um dispositivo de tecnologia industrial que comprime lixo com uma prensa hidráulica para formar tijolos de lixo. Embora não neutralize o lixo completamente, permite transformá-lo em um recurso de construção. O processo exige uma quantidade considerável de energia e emite gás tóxico durante a operação.</VRecyclingE_GarbageCompactor.description>
+
+  <!-- EN: recycling bench -->
+  <VRecyclingE_RecyclingWorkbench.label>bancada de reciclagem</VRecyclingE_RecyclingWorkbench.label>
+
+  <!-- EN: A workbench for recycling wastepacks into other resources. Works at 50% of the speed of an electric recycling workbench. -->
+  <VRecyclingE_RecyclingWorkbench.description>Uma bancada para reciclar pacotes de resíduos em outros recursos. Funciona a 50% da velocidade de uma bancada de reciclagem elétrica.</VRecyclingE_RecyclingWorkbench.description>
+
+  <!-- EN: radioactive isotopack -->
+  <VRecyclingE_RadioactiveIsotopack.label>pacote radioativo de isótopos</VRecyclingE_RadioactiveIsotopack.label>
+
+  <!-- EN: A hazardous package of radioactive isotopes, resulting from the recycling of toxic waste. The surface is heat-sealed for safe transport. Radioactive Isotopacks emit high levels of radiation, posing a serious threat to the health of colonists and animals. If damaged or burned, they release a burst of dangerous radiation. -->
+  <VRecyclingE_RadioactiveIsotopack.description>Um pacote perigoso de isótopos radioativos, resultante da reciclagem de resíduos tóxicos. A superfície é selada por calor para permitir o transporte seguro. Pacotes Radioativos de Isótopos emitem altos níveis de radiação, representando uma ameaça séria à saúde de colonos e animais. Se danificados ou queimados, liberam uma rajada de radiação perigosa.</VRecyclingE_RadioactiveIsotopack.description>
+
+  <!-- EN: reactive chempack -->
+  <VRecyclingE_ReactiveChempack.label>pacote químico reativo</VRecyclingE_ReactiveChempack.label>
+
+  <!-- EN: A volatile package of highly reactive chemicals, generated as a byproduct of recycling toxic waste. The surface is heat-sealed for safe transport. Reactive Chempacks are extremely dangerous and can cause devastating explosions if not handled carefully. If damaged or burned, they may explode in a big fireball. -->
+  <VRecyclingE_ReactiveChempack.description>Um pacote volátil de substâncias químicas altamente reativas, gerado como subproduto da reciclagem de resíduos tóxicos. A superfície é selada por calor para permitir o transporte seguro. Pacotes Químicos Reativos são extremamente perigosos e podem causar explosões devastadoras se não forem manuseados com cuidado. Se danificados ou queimados, podem explodir em uma grande bola de fogo.</VRecyclingE_ReactiveChempack.description>
+
+  <!-- EN: reclaimed biopack -->
+  <VRecyclingE_ReclaimedBiopack.label>pacote biológico recuperado</VRecyclingE_ReclaimedBiopack.label>
+
+  <!-- EN: A repurposed package of nutrient-rich bio-material, recovered from toxic waste through advanced recycling processes. The surface is heat-sealed for safe transport. Reclaimed Biopacks improve soil fertility if a stack of 5 of them deteriorate on standard soil. If damaged or burned, they emit a small amount of disgusting rot stink. -->
+  <VRecyclingE_ReclaimedBiopack.description>Um pacote reaproveitado de material biológico rico em nutrientes, recuperado de resíduos tóxicos por processos avançados de reciclagem. A superfície é selada por calor para permitir o transporte seguro. Pacotes Biológicos Recuperados melhoram a fertilidade do solo quando uma pilha de 5 deles se deteriora sobre solo comum. Se danificados ou queimados, emitem uma pequena quantidade de fedor de podridão repugnante.</VRecyclingE_ReclaimedBiopack.description>
+
+  <!-- EN: stabilized alloypack -->
+  <VRecyclingE_StabilizedAlloypack.label>pacote de ligas estabilizado</VRecyclingE_StabilizedAlloypack.label>
+
+  <!-- EN: An amalgamation of strong and lightweight alloys, synthesized from toxic waste through complex chemical reactions. The surface is heat-sealed for safe transport. Stabilized Alloypacks contain high-quality material for crafting advanced weapons, armor, and components. If damaged or burned, they release a small puff of non-toxic smoke. -->
+  <VRecyclingE_StabilizedAlloypack.description>Uma amálgama de ligas resistentes e leves, sintetizada a partir de resíduos tóxicos por reações químicas complexas. A superfície é selada por calor para permitir o transporte seguro. Pacotes de Ligas Estabilizados contêm material de alta qualidade para fabricar armas, armaduras e componentes avançados. Se danificados ou queimados, liberam uma pequena nuvem de fumaça não tóxica.</VRecyclingE_StabilizedAlloypack.description>
+
+  <!-- EN: trash -->
+  <VRecyclingE_Trash.label>lixo</VRecyclingE_Trash.label>
+
+  <!-- EN: A package of non-toxic rubbish, carefully sorted and compacted for efficient storage. The surface is heat-sealed for safe transport. Trash poses no risk of pollution or deterioration, making it safe for long-term storage. However, if burned, trash will release a moderate amount of tox gas as a byproduct of combustion. -->
+  <VRecyclingE_Trash.description>Um pacote de lixo não tóxico, cuidadosamente separado e compactado para permitir o armazenamento eficiente. A superfície é selada por calor para permitir o transporte seguro. O lixo não oferece risco de poluição nem de deterioração, sendo seguro para armazenamento prolongado. Porém, se queimado, libera uma quantidade moderada de gás tóxico como subproduto da combustão.</VRecyclingE_Trash.description>
+
+  <!-- EN: volatile toxpack -->
+  <VRecyclingE_VolatileToxpack.label>pacote tóxico volátil</VRecyclingE_VolatileToxpack.label>
+
+  <!-- EN: An unstable package of highly concentrated toxic waste, created as a byproduct in more complex recycling projects. The surface is heat-sealed for safe transport. Volatile toxpacks are extremely dangerous due to their instability and propensity to emit large amounts of tox gas and pollution. If burned or damaged, they release a massive cloud of deadly tox gas. -->
+  <VRecyclingE_VolatileToxpack.description>Um pacote instável de resíduos tóxicos altamente concentrados, criado como subproduto em processos de reciclagem mais complexos. A superfície é selada por calor para permitir o transporte seguro. Pacotes tóxicos voláteis são extremamente perigosos devido à sua instabilidade e tendência a emitir grandes quantidades de gás tóxico e poluição. Se queimados ou danificados, liberam uma enorme nuvem de gás tóxico mortal.</VRecyclingE_VolatileToxpack.description>
+
+  <!-- EN: trashbrick -->
+  <VRecyclingE_TrashBrick.label>tijolo de lixo</VRecyclingE_TrashBrick.label>
+
+  <!-- EN: A stack of solid bricks, created by compressing non-toxic trash into a brick form. The surface is heat-sealed for safe transport. Trashbricks are a durable building material for constructing walls and structures. If damaged or burned, they will release a moderate amount of toxic fumes. Trashbricks do not deteriorate. -->
+  <VRecyclingE_TrashBrick.description>Uma pilha de tijolos sólidos, criada pela compressão de lixo não tóxico em formato de tijolo. A superfície é selada por calor para permitir o transporte seguro. Tijolos de lixo são um material de construção durável para erguer paredes e estruturas. Se danificados ou queimados, liberam uma quantidade moderada de vapores tóxicos. Tijolos de lixo não se deterioram.</VRecyclingE_TrashBrick.description>
+
+  <!-- EN: trashbrick -->
+  <VRecyclingE_TrashBrick.stuffProps.stuffAdjective>de tijolo de lixo</VRecyclingE_TrashBrick.stuffProps.stuffAdjective>
+
+</LanguageData>
+

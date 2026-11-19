@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: recycle volatile toxpacks into isotopacks and alloypacks -->
+  <VRecyclingE_Recycle_BreakDownToxpack.label>reciclar pacotes tóxicos voláteis em pacotes de isótopos e de ligas</VRecyclingE_Recycle_BreakDownToxpack.label>
+
+  <!-- EN: Use manual labor to recycle volatile toxpacks into stabilized alloypacks and radioactive isotopacks. -->
+  <VRecyclingE_Recycle_BreakDownToxpack.description>Use trabalho manual para reciclar pacotes tóxicos voláteis em pacotes de ligas estabilizados e pacotes radioativos de isótopos.</VRecyclingE_Recycle_BreakDownToxpack.description>
+
+  <!-- EN: Recycling volatile toxpacks into isotopacks and alloypacks. -->
+  <VRecyclingE_Recycle_BreakDownToxpack.jobString>Reciclando pacotes tóxicos voláteis em pacotes de isótopos e de ligas.</VRecyclingE_Recycle_BreakDownToxpack.jobString>
+
+  <!-- EN: recycle reactive chempacks into chemfuel -->
+  <VRecyclingE_Recycle_ChempackIntoChemfuel.label>reciclar pacotes químicos reativos em combustível químico</VRecyclingE_Recycle_ChempackIntoChemfuel.label>
+
+  <!-- EN: Use manual labor to separate viable chemfuel from trash in reactive chempacks. -->
+  <VRecyclingE_Recycle_ChempackIntoChemfuel.description>Use trabalho manual para separar combustível químico aproveitável do lixo em pacotes químicos reativos.</VRecyclingE_Recycle_ChempackIntoChemfuel.description>
+
+  <!-- EN: Recycling reactive chempacks into chemfuel. -->
+  <VRecyclingE_Recycle_ChempackIntoChemfuel.jobString>Reciclando pacotes químicos reativos em combustível químico.</VRecyclingE_Recycle_ChempackIntoChemfuel.jobString>
+
+  <!-- EN: recycle radioactive isotopacks into uranium -->
+  <VRecyclingE_Recycle_IsotopackIntoUranium.label>reciclar pacotes radioativos de isótopos em urânio</VRecyclingE_Recycle_IsotopackIntoUranium.label>
+
+  <!-- EN: Use manual labor to separate viable uranium from trash in radioactive isotopacks. -->
+  <VRecyclingE_Recycle_IsotopackIntoUranium.description>Use trabalho manual para separar urânio aproveitável do lixo em pacotes radioativos de isótopos.</VRecyclingE_Recycle_IsotopackIntoUranium.description>
+
+  <!-- EN: Recycling radioactive isotopacks into uranium. -->
+  <VRecyclingE_Recycle_IsotopackIntoUranium.jobString>Reciclando pacotes radioativos de isótopos em urânio.</VRecyclingE_Recycle_IsotopackIntoUranium.jobString>
+
+  <!-- EN: recycle wastepacks into reactive chempacks -->
+  <VRecyclingE_Recycle_WastepackIntoChempack.label>reciclar pacotes de resíduos em pacotes químicos reativos</VRecyclingE_Recycle_WastepackIntoChempack.label>
+
+  <!-- EN: Use manual labor to recycle toxic wastepacks into reactive chempacks, creating reclaimed biopacks as a byproduct. -->
+  <VRecyclingE_Recycle_WastepackIntoChempack.description>Use trabalho manual para reciclar pacotes de resíduos tóxicos em pacotes químicos reativos, gerando pacotes biológicos recuperados como subproduto.</VRecyclingE_Recycle_WastepackIntoChempack.description>
+
+  <!-- EN: Recycling wastepacks into reactive chempacks. -->
+  <VRecyclingE_Recycle_WastepackIntoChempack.jobString>Reciclando pacotes de resíduos em pacotes químicos reativos.</VRecyclingE_Recycle_WastepackIntoChempack.jobString>
+
+  <!-- EN: recycle wastepacks into volatile toxpacks -->
+  <VRecyclingE_Recycle_WastepackIntoToxpack.label>reciclar pacotes de resíduos em pacotes tóxicos voláteis</VRecyclingE_Recycle_WastepackIntoToxpack.label>
+
+  <!-- EN: Use manual labor to recycle toxic wastepacks into volatile toxpacks, creating trash as a byproduct. -->
+  <VRecyclingE_Recycle_WastepackIntoToxpack.description>Use trabalho manual para reciclar pacotes de resíduos tóxicos em pacotes tóxicos voláteis, gerando lixo como subproduto.</VRecyclingE_Recycle_WastepackIntoToxpack.description>
+
+  <!-- EN: Recycling wastepacks into volatile toxpacks. -->
+  <VRecyclingE_Recycle_WastepackIntoToxpack.jobString>Reciclando pacotes de resíduos em pacotes tóxicos voláteis.</VRecyclingE_Recycle_WastepackIntoToxpack.jobString>
+
+</LanguageData>
+
