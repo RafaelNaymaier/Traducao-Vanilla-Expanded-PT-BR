@@ -4,19 +4,28 @@
   <GauranlenConnection_Strong.description>Temos uma conexão especial com as árvores de nexo anima. Sob nossa influência, as árvores mudam facilmente o foco de sua produção, e não nos sentimos satisfeitos sem essa conexão.</GauranlenConnection_Strong.description>
 
   <!-- EN: <li>Anima nexus connection</li><li>Want anima nexus connection (min expectation: Very low)</li><li>Want anima nexus connection (min expectation: Low)</li><li>Want anima nexus connection (min expectation: Moderate)</li><li>Want anima nexus connection (min expectation: High)</li><li>Want anima nexus connection (min expectation: Sky high)</li> -->
-  <GauranlenConnection_Strong.comps.PreceptComp_SituationalThought.thoughtStageDescriptions>
-    <li>Conexão com nexo anima</li>
-    <li>Deseja conexão com nexo anima (expectativa mín.: Muito baixa)</li>
-    <li>Deseja conexão com nexo anima (expectativa mín.: Baixa)</li>
-    <li>Deseja conexão com nexo anima (expectativa mín.: Moderada)</li>
-    <li>Deseja conexão com nexo anima (expectativa mín.: Alta)</li>
-    <li>Deseja conexão com nexo anima (expectativa mín.: Altíssima)</li>
-  </GauranlenConnection_Strong.comps.PreceptComp_SituationalThought.thoughtStageDescriptions>
+  <!-- EN: Anima nexus connection -->
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.0>Conexão com nexo anima</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Want anima nexus connection (min expectation: Very low) -->
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.1>Deseja conexão com nexo anima (expectativa mín.: Muito baixa)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: Want anima nexus connection (min expectation: Low) -->
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.2>Deseja conexão com nexo anima (expectativa mín.: Baixa)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.2>
+
+  <!-- EN: Want anima nexus connection (min expectation: Moderate) -->
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.3>Deseja conexão com nexo anima (expectativa mín.: Moderada)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.3>
+
+  <!-- EN: Want anima nexus connection (min expectation: High) -->
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.4>Deseja conexão com nexo anima (expectativa mín.: Alta)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.4>
+
+  <!-- EN: Want anima nexus connection (min expectation: Sky high) -->
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.5>Deseja conexão com nexo anima (expectativa mín.: Altíssima)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.5>
 
   <!-- EN: A connector will connect with an anima nexus tree. The connector will touch the anima nexus tree and speak to it, forming a permanent link. Others gather in a circle to watch and add force to the ritual. -->
   <TreeConnection.description>Uma pessoa se conectará a uma árvore de nexo anima. Ela tocará a árvore e falará com ela, formando um vínculo permanente. As outras pessoas se reúnem em círculo para assistir e dar força ao ritual.</TreeConnection.description>
 
   <!-- EN: planted anima nexus tree -->
-  <GauranlenConnection_Strong.comps.PreceptComp_DevelopmentPoints.eventLabel>plantou árvore de nexo anima</GauranlenConnection_Strong.comps.PreceptComp_DevelopmentPoints.eventLabel>
+  <GauranlenConnection_Strong.comps.1.eventLabel>plantou árvore de nexo anima</GauranlenConnection_Strong.comps.1.eventLabel>
 </LanguageData>
 

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<VEF_AcidBurn.comps.0.labelTendedWell>enfaixada</VEF_AcidBurn.comps.0.labelTendedWell>
+	<VEF_AcidBurn.comps.0.labelTendedWellInner>tratada</VEF_AcidBurn.comps.0.labelTendedWellInner>
+	<VEF_AcidBurn.comps.0.labelSolidTendedWell>tratada</VEF_AcidBurn.comps.0.labelSolidTendedWell>
+	<VEF_AcidBurn.injuryProps.destroyedLabel>Corroído</VEF_AcidBurn.injuryProps.destroyedLabel>
+	<VEF_AcidBurn.injuryProps.destroyedOutLabel>Corroído</VEF_AcidBurn.injuryProps.destroyedOutLabel>
+
+
+  <!-- EN: stillborn animal -->
+  <VEF_StillbornAnimal.label>animal natimorto</VEF_StillbornAnimal.label>
+
+  <!-- EN: This animal died due to non-specific complications during pregnancy. -->
+  <VEF_StillbornAnimal.description>Este animal morreu devido a complicações inespecíficas durante a gestação.</VEF_StillbornAnimal.description>
+
+
+  <VEF_AcidBuildup.stages.minor_receiving_burns.label>menor, recebendo queimaduras</VEF_AcidBuildup.stages.minor_receiving_burns.label>
+  <VEF_AcidBuildup.stages.moderate_receiving_burns.label>moderada, recebendo queimaduras</VEF_AcidBuildup.stages.moderate_receiving_burns.label>
+  <VEF_AcidBuildup.stages.serious_receiving_burns.label>séria, recebendo queimaduras</VEF_AcidBuildup.stages.serious_receiving_burns.label>
+  <VEF_AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de queimadura ácida</VEF_AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <VEF_LightSustenance.stages.adequate_light.label>luz adequada</VEF_LightSustenance.stages.adequate_light.label>
+  <VEF_LightSustenance.stages.poor_light_levels.label>níveis de luz pobres</VEF_LightSustenance.stages.poor_light_levels.label>
+  <VEF_LightSustenance.stages.very_low_light_levels.label>níveis de luz muito baixos</VEF_LightSustenance.stages.very_low_light_levels.label>
+  <VEF_LightSustenance.stages.lack_of_sunlight.label>falta de luz solar</VEF_LightSustenance.stages.lack_of_sunlight.label>
+  <VEF_LightSustenance.stages.extreme_lack_of_sustenance.label>extrema falta de sustento</VEF_LightSustenance.stages.extreme_lack_of_sustenance.label>
+  <VEF_ToxicBuildup.stages.initial-0.label>inicial</VEF_ToxicBuildup.stages.initial-0.label>
+  <VEF_ToxicBuildup.stages.initial-1.label>inicial</VEF_ToxicBuildup.stages.initial-1.label>
+  <VEF_ToxicBuildup.stages.minor.label>menor</VEF_ToxicBuildup.stages.minor.label>
+  <VEF_ToxicBuildup.stages.moderate.label>moderada</VEF_ToxicBuildup.stages.moderate.label>
+  <VEF_ToxicBuildup.stages.serious.label>séria</VEF_ToxicBuildup.stages.serious.label>
+  <VEF_ToxicBuildup.stages.extreme.label>extrema</VEF_ToxicBuildup.stages.extreme.label>
+  <VEF_Kamikaze.stages.initialhidden.label>inicial-oculta</VEF_Kamikaze.stages.initialhidden.label>
+  <VEF_Kamikaze.stages.critical.label>crítica</VEF_Kamikaze.stages.critical.label>
+
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VEF_PermanentBurn.label
+<VEF_PermanentBurn.label>Queimadura Permanente</VEF_PermanentBurn.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VEF_PermanentBurn.description
+<VEF_PermanentBurn.description>Uma cicatriz de queimadura incurável e permanente.</VEF_PermanentBurn.description> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VEF_PermanentBurn.labelNoun
+<VEF_PermanentBurn.labelNoun>uma queimadura permanente</VEF_PermanentBurn.labelNoun> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VEF_PermanentBurn.injuryProps.destroyedLabel
+<VEF_PermanentBurn.injuryProps.destroyedLabel>Queimado</VEF_PermanentBurn.injuryProps.destroyedLabel> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VEF_PermanentBurn.injuryProps.destroyedOutLabel
+<VEF_PermanentBurn.injuryProps.destroyedOutLabel>Queimado (externo)</VEF_PermanentBurn.injuryProps.destroyedOutLabel> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VEF_AcidBuildup.label
+<VEF_AcidBuildup.label>Acúmulo Ácido</VEF_AcidBuildup.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VEF_AcidBuildup.description
+<VEF_AcidBuildup.description>Um resíduo ácido que continua a infligir feridas de queimadura por um tempo considerável após o ataque inicial.</VEF_AcidBuildup.description> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VEF_AcidBurn.label
+<VEF_AcidBurn.label>Queimadura Ácida</VEF_AcidBurn.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VEF_AcidBurn.labelNoun
+<VEF_AcidBurn.labelNoun>uma queimadura ácida</VEF_AcidBurn.labelNoun> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VEF_AcidBurn.description
+<VEF_AcidBurn.description>Uma ferida de queimadura causada por exposição a ácido.</VEF_AcidBurn.description> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VEF_LightSustenance.label
+<VEF_LightSustenance.label>Sustento Fotossintético</VEF_LightSustenance.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VEF_LightSustenance.description
+<VEF_LightSustenance.description>Esta criatura extrai sustento da luz solar. Níveis de luminosidade insuficientes resultarão em definhamento e morte.</VEF_LightSustenance.description> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VEF_ToxicBuildup.label
+<VEF_ToxicBuildup.label>Acúmulo Tóxico</VEF_ToxicBuildup.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VEF_ToxicBuildup.description
+<VEF_ToxicBuildup.description>Toxinas na corrente sanguínea. Isso pode ser originado de várias fontes, incluindo toxinas ambientais, mordidas venenosas ou armamento envenenado.\n\nEm concentrações elevadas, o acúmulo de toxinas é letal. Mesmo em doses baixas, pode gerar cânceres.\n\nAo contrário do acúmulo de toxinas do jogo base, criaturas que morrem com este dano tóxico podem ser comidas.</VEF_ToxicBuildup.description> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VFEP_HypothermicSlowdown.label
+<VFEP_HypothermicSlowdown.label>lentidão hipotérmica</VFEP_HypothermicSlowdown.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VFEP_HypothermicSlowdown.description
+<VFEP_HypothermicSlowdown.description>Temperatura corporal perigosamente baixa. A menos que seja reaquecida, a lentidão hipotérmica piora e termina em morte. A recuperação é rápida assim que a vítima é reaquecida.</VFEP_HypothermicSlowdown.description> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VEF_Kamikaze.label
+<VEF_Kamikaze.label>detonação súbita</VEF_Kamikaze.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VEF_Kamikaze.description
+<VEF_Kamikaze.description>Bum.</VEF_Kamikaze.description> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VEF_ControlledInvisibility.label
+<VEF_ControlledInvisibility.label>invisibilidade</VEF_ControlledInvisibility.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VEF_HediffsDef.xml | chave: VEF_ControlledInvisibility.description
+<VEF_ControlledInvisibility.description>Encoberto em um véu de invisibilidade controlada.</VEF_ControlledInvisibility.description> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VFE_Pirates_HediffDef.xml | chave: VFEP_HypothermicSlowdown.label
+<VFEP_HypothermicSlowdown.label>desaceleração hipotérmica</VFEP_HypothermicSlowdown.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VFE_Pirates_HediffDef.xml | chave: VFEP_HypothermicSlowdown.description
+<VFEP_HypothermicSlowdown.description>Temperatura corporal central perigosamente baixa. A menos que seja reaquecida, a desaceleração hipotérmica piora e termina em morte. A recuperação é rápida assim que a vítima é reaquecida.</VFEP_HypothermicSlowdown.description> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VFE_Pirates_HediffDef.xml | chave: VFEP_HypothermicSlowdown.stages.minor-0.label
+<VFEP_HypothermicSlowdown.stages.minor-0.label>leve</VFEP_HypothermicSlowdown.stages.minor-0.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VFE_Pirates_HediffDef.xml | chave: VFEP_HypothermicSlowdown.stages.minor-1.label
+<VFEP_HypothermicSlowdown.stages.minor-1.label>leve</VFEP_HypothermicSlowdown.stages.minor-1.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VFE_Pirates_HediffDef.xml | chave: VFEP_HypothermicSlowdown.stages.moderate.label
+<VFEP_HypothermicSlowdown.stages.moderate.label>moderada</VFEP_HypothermicSlowdown.stages.moderate.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VFE_Pirates_HediffDef.xml | chave: VFEP_HypothermicSlowdown.stages.serious.label
+<VFEP_HypothermicSlowdown.stages.serious.label>grave</VFEP_HypothermicSlowdown.stages.serious.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VFE_Pirates_HediffDef.xml | chave: VFEP_HypothermicSlowdown.stages.extreme.label
+<VFEP_HypothermicSlowdown.stages.extreme.label>extrema</VFEP_HypothermicSlowdown.stages.extreme.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VEF_PermanentBurn.label
+<VEF_PermanentBurn.label>queimadura permanente</VEF_PermanentBurn.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VEF_PermanentBurn.description
+<VEF_PermanentBurn.description>Uma cicatriz de queimadura permanente que não pode ser tratada.</VEF_PermanentBurn.description> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VEF_PermanentBurn.injuryProps.destroyedLabel
+<VEF_PermanentBurn.injuryProps.destroyedLabel>Queimado(a)</VEF_PermanentBurn.injuryProps.destroyedLabel> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VEF_PermanentBurn.injuryProps.destroyedOutLabel
+<VEF_PermanentBurn.injuryProps.destroyedOutLabel>Queimado(a)</VEF_PermanentBurn.injuryProps.destroyedOutLabel> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VEF_PermanentBurn.labelNoun
+<VEF_PermanentBurn.labelNoun>uma queimadura permanente</VEF_PermanentBurn.labelNoun> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VEF_AcidBuildup.label
+<VEF_AcidBuildup.label>queimadura ácida</VEF_AcidBuildup.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VEF_AcidBuildup.description
+<VEF_AcidBuildup.description>Um respingo de ácido que continua a causar ferimentos de queimadura por um bom tempo após o ataque inicial.</VEF_AcidBuildup.description> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VEF_AcidBurn.label
+<VEF_AcidBurn.label>queimadura ácida</VEF_AcidBurn.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VEF_AcidBurn.description
+<VEF_AcidBurn.description>Uma queimadura causada por ácido.</VEF_AcidBurn.description> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VEF_AcidBurn.labelNoun
+<VEF_AcidBurn.labelNoun>uma queimadura ácida</VEF_AcidBurn.labelNoun> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VEF_LightSustenance.label
+<VEF_LightSustenance.label>nível de luz solar</VEF_LightSustenance.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VEF_LightSustenance.description
+<VEF_LightSustenance.description>Esta criatura se alimenta de luz solar. Níveis inadequados de luz a matarão.</VEF_LightSustenance.description> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VEF_ToxicBuildup.label
+<VEF_ToxicBuildup.label>acúmulo tóxico</VEF_ToxicBuildup.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VEF_ToxicBuildup.description
+<VEF_ToxicBuildup.description>Toxinas na corrente sanguínea. Isso pode vir de várias fontes, incluindo toxinas ambientais, mordidas venenosas ou armas envenenadas.\n\nEm doses altas, o acúmulo tóxico é letal. Mesmo em doses baixas, pode gerar cânceres.\n\nAo contrário do acúmulo tóxico do jogo base, criaturas que morrem com este dano tóxico podem ser comidas.</VEF_ToxicBuildup.description> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VFEP_HypothermicSlowdown.label
+<VFEP_HypothermicSlowdown.label>desaceleração hipotérmica</VFEP_HypothermicSlowdown.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VFEP_HypothermicSlowdown.description
+<VFEP_HypothermicSlowdown.description>Temperatura corporal central perigosamente baixa. A menos que seja reaquecida, a desaceleração hipotérmica piora e termina em morte. A recuperação é rápida assim que a vítima é reaquecida.</VFEP_HypothermicSlowdown.description> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VFEP_HypothermicSlowdown.stages.minor-0.label
+<VFEP_HypothermicSlowdown.stages.minor-0.label>menor</VFEP_HypothermicSlowdown.stages.minor-0.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VFEP_HypothermicSlowdown.stages.minor-1.label
+<VFEP_HypothermicSlowdown.stages.minor-1.label>menor</VFEP_HypothermicSlowdown.stages.minor-1.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VFEP_HypothermicSlowdown.stages.moderate.label
+<VFEP_HypothermicSlowdown.stages.moderate.label>moderada</VFEP_HypothermicSlowdown.stages.moderate.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VFEP_HypothermicSlowdown.stages.serious.label
+<VFEP_HypothermicSlowdown.stages.serious.label>séria</VFEP_HypothermicSlowdown.stages.serious.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VFEP_HypothermicSlowdown.stages.extreme.label
+<VFEP_HypothermicSlowdown.stages.extreme.label>extrema</VFEP_HypothermicSlowdown.stages.extreme.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VEF_Kamikaze.label
+<VEF_Kamikaze.label>detonação súbita</VEF_Kamikaze.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VEF_Kamikaze.description
+<VEF_Kamikaze.description>Boom.</VEF_Kamikaze.description> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VEF_ControlledInvisibility.label
+<VEF_ControlledInvisibility.label>invisibilidade</VEF_ControlledInvisibility.label> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\HediffDef\VGE_Chapter1_HediffDef.xml | chave: VEF_ControlledInvisibility.description
+<VEF_ControlledInvisibility.description>Encoberto por um véu de invisibilidade controlada.</VEF_ControlledInvisibility.description> -->
+
+  <!-- EN: A splash of acid that continues to cause burn wounds for quite some time after the initial attack. -->
+  <VEF_AcidBuildup.description>Um respingo de ácido que continua a causar ferimentos de queimadura por um bom tempo após o ataque inicial.</VEF_AcidBuildup.description>
+
+  <!-- EN: acid burn -->
+  <VEF_AcidBuildup.label>queimadura ácida</VEF_AcidBuildup.label>
+
+  <!-- EN: An acid burn. -->
+  <VEF_AcidBurn.description>Uma queimadura causada por ácido.</VEF_AcidBurn.description>
+
+  <!-- EN: acid burn -->
+  <VEF_AcidBurn.label>queimadura ácida</VEF_AcidBurn.label>
+
+  <!-- EN: an acid burn -->
+  <VEF_AcidBurn.labelNoun>uma queimadura ácida</VEF_AcidBurn.labelNoun>
+
+  <!-- EN: Shrouded in a veil of controlled invisibility. -->
+  <VEF_ControlledInvisibility.description>Encoberto por um véu de invisibilidade controlada.</VEF_ControlledInvisibility.description>
+
+  <!-- EN: invisibility -->
+  <VEF_ControlledInvisibility.label>invisibilidade</VEF_ControlledInvisibility.label>
+
+  <!-- EN: Boom. -->
+  <VEF_Kamikaze.description>Bum.</VEF_Kamikaze.description>
+
+  <!-- EN: sudden detonation -->
+  <VEF_Kamikaze.label>detonação súbita</VEF_Kamikaze.label>
+
+  <!-- EN: This creature feeds on sunlight. Inadequate levels of light will kill it. -->
+  <VEF_LightSustenance.description>Esta criatura se alimenta de luz solar. Níveis inadequados de luz a matarão.</VEF_LightSustenance.description>
+
+  <!-- EN: level of sunlight -->
+  <VEF_LightSustenance.label>nível de luz solar</VEF_LightSustenance.label>
+
+  <!-- EN: A permanent burn scar that cannot be treated. -->
+  <VEF_PermanentBurn.description>Uma cicatriz de queimadura permanente que não pode ser tratada.</VEF_PermanentBurn.description>
+
+  <!-- EN: Burned off -->
+  <VEF_PermanentBurn.injuryProps.destroyedLabel>Queimado</VEF_PermanentBurn.injuryProps.destroyedLabel>
+
+  <!-- EN: Burned out -->
+  <VEF_PermanentBurn.injuryProps.destroyedOutLabel>Queimado</VEF_PermanentBurn.injuryProps.destroyedOutLabel>
+
+  <!-- EN: permanent burn -->
+  <VEF_PermanentBurn.label>queimadura permanente</VEF_PermanentBurn.label>
+
+  <!-- EN: a permanent burn -->
+  <VEF_PermanentBurn.labelNoun>uma queimadura permanente</VEF_PermanentBurn.labelNoun>
+
+  <!-- EN: Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.
+\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.
+\nContrary to base game toxic buildup, creatures who die with this toxic damage can be eaten. -->
+  <VEF_ToxicBuildup.description>Toxinas na corrente sanguínea. Isso pode vir de várias fontes, incluindo toxinas ambientais, mordidas venenosas ou armas envenenadas.\n\nEm doses altas, o acúmulo tóxico é letal. Mesmo em doses baixas, pode gerar cânceres.\n\nAo contrário do acúmulo tóxico do jogo base, criaturas que morrem com este dano tóxico podem ser comidas.</VEF_ToxicBuildup.description>
+
+  <!-- EN: toxic buildup -->
+  <VEF_ToxicBuildup.label>acúmulo tóxico</VEF_ToxicBuildup.label>
+
+  <!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermic slowdown gets worse and ends in death. Recovery is quick once the victim is re-warmed. -->
+  <VFEP_HypothermicSlowdown.description>Temperatura corporal central perigosamente baixa. A menos que seja reaquecida, a desaceleração hipotérmica piora e termina em morte. A recuperação é rápida assim que a vítima é reaquecida.</VFEP_HypothermicSlowdown.description>
+
+  <!-- EN: hypothermic slowdown -->
+  <VFEP_HypothermicSlowdown.label>desaceleração hipotérmica</VFEP_HypothermicSlowdown.label>
+
+  <!-- EN: extreme -->
+  <VFEP_HypothermicSlowdown.stages.extreme.label>extrema</VFEP_HypothermicSlowdown.stages.extreme.label>
+
+  <!-- EN: minor -->
+  <VFEP_HypothermicSlowdown.stages.minor-0.label>leve</VFEP_HypothermicSlowdown.stages.minor-0.label>
+
+  <!-- EN: minor -->
+  <VFEP_HypothermicSlowdown.stages.minor-1.label>leve</VFEP_HypothermicSlowdown.stages.minor-1.label>
+
+  <!-- EN: moderate -->
+  <VFEP_HypothermicSlowdown.stages.moderate.label>moderada</VFEP_HypothermicSlowdown.stages.moderate.label>
+
+  <!-- EN: serious -->
+  <VFEP_HypothermicSlowdown.stages.serious.label>grave</VFEP_HypothermicSlowdown.stages.serious.label>
+
+</LanguageData>
+

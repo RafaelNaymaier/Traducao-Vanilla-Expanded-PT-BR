@@ -238,9 +238,8 @@
   <VME_LeadershipChallengeRitualOutcome.comps.3.label>número de participantes</VME_LeadershipChallengeRitualOutcome.comps.3.label>
 
   <!-- EN: <li>This is a duel to the death. Whoever wins will get (or keep) the leader title.</li> -->
-  <VME_LeadershipChallengeRitualOutcome.extraPredictedOutcomeDescriptions>
-    <li>Este é um duelo até a morte. Quem vencer receberá ou manterá o título de líder.</li>
-  </VME_LeadershipChallengeRitualOutcome.extraPredictedOutcomeDescriptions>
+  <!-- EN: This is a duel to the death. Whoever wins will get (or keep) the leader title. -->
+  <VME_LeadershipChallengeRitualOutcome.extraPredictedOutcomeDescriptions.0>Este é um duelo até a morte. Quem vencer receberá ou manterá o título de líder.</VME_LeadershipChallengeRitualOutcome.extraPredictedOutcomeDescriptions.0>
 
   <!-- EN: Terrible -->
   <VME_LeadershipChallengeRitualOutcome.outcomeChances.0.label>Terrível</VME_LeadershipChallengeRitualOutcome.outcomeChances.0.label>

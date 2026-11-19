@@ -7,13 +7,20 @@
   <VME_Alcohol_Demanded.description>A embriaguez é essencial para uma boa vida.</VME_Alcohol_Demanded.description>
 
   <!-- EN: <li>Missing alcohol (3 days)</li><li>No alcohol (5 days)</li><li>Needs alcohol (10 days)</li><li>Craves alcohol (15 days)</li><li>Demands alcohol (30 days)</li> -->
-  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions>
-    <li>Falta de álcool (3 dias)</li>
-    <li>Sem álcool (5 dias)</li>
-    <li>Precisa de álcool (10 dias)</li>
-    <li>Anseia por álcool (15 dias)</li>
-    <li>Exige álcool (30 dias)</li>
-  </VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions>
+  <!-- EN: Missing alcohol (3 days) -->
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.0>Falta de álcool (3 dias)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: No alcohol (5 days) -->
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.1>Sem álcool (5 dias)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: Needs alcohol (10 days) -->
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.2>Precisa de álcool (10 dias)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.2>
+
+  <!-- EN: Craves alcohol (15 days) -->
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.3>Anseia por álcool (15 dias)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.3>
+
+  <!-- EN: Demands alcohol (30 days) -->
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.4>Exige álcool (30 dias)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.4>
 
   <!-- EN: desired -->
   <VME_Alcohol_Desired.label>desejado</VME_Alcohol_Desired.label>
@@ -22,11 +29,14 @@
   <VME_Alcohol_Desired.description>Beber é simplesmente divertido, desde que sem excessos.</VME_Alcohol_Desired.description>
 
   <!-- EN: <li>Missing alcohol (3 days)</li><li>Desiring a drink (5 days)</li><li>Wanting a drink (10 days or more)</li> -->
-  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions>
-    <li>Falta de álcool (3 dias)</li>
-    <li>Deseja uma bebida (5 dias)</li>
-    <li>Quer uma bebida (10 dias ou mais)</li>
-  </VME_Alcohol_Desired.comps.0.thoughtStageDescriptions>
+  <!-- EN: Missing alcohol (3 days) -->
+  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.0>Falta de álcool (3 dias)</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Desiring a drink (5 days) -->
+  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.1>Deseja uma bebida (5 dias)</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: Wanting a drink (10 days or more) -->
+  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.2>Quer uma bebida (10 dias ou mais)</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.2>
 
   <!-- EN: mild abstinence -->
   <VME_Alcohol_MildAbstinence.label>abstinência moderada</VME_Alcohol_MildAbstinence.label>
@@ -35,10 +45,11 @@
   <VME_Alcohol_MildAbstinence.description>O álcool é aceitável em pequenas doses, mas é melhor evitá-lo pelo maior tempo possível.</VME_Alcohol_MildAbstinence.description>
 
   <!-- EN: <li>Consumed alcohol</li><li>Abstained from alcohol</li> -->
-  <VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions>
-    <li>Consumiu álcool</li>
-    <li>Absteve-se de álcool</li>
-  </VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions>
+  <!-- EN: Consumed alcohol -->
+  <VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>Consumiu álcool</VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Abstained from alcohol -->
+  <VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.1>Absteve-se de álcool</VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.1>
 
   <!-- EN: required -->
   <VME_Anonymity_Required.label>necessário</VME_Anonymity_Required.label>
@@ -116,13 +127,20 @@
   <VME_BookQuality_Desired.description>Nada nos faria mais felizes do que adquirir livros lendários para nossa colônia.</VME_BookQuality_Desired.description>
 
   <!-- EN: <li>A single legendary book</li><li>Two legendary books</li><li>Three legendary books</li><li>Four legendary books</li><li>Five or more legendary books</li> -->
-  <VME_BookQuality_Desired.comps.0.thoughtStageDescriptions>
-    <li>Um único livro lendário</li>
-    <li>Dois livros lendários</li>
-    <li>Três livros lendários</li>
-    <li>Quatro livros lendários</li>
-    <li>Cinco ou mais livros lendários</li>
-  </VME_BookQuality_Desired.comps.0.thoughtStageDescriptions>
+  <!-- EN: A single legendary book -->
+  <VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.0>Um único livro lendário</VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Two legendary books -->
+  <VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.1>Dois livros lendários</VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: Three legendary books -->
+  <VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.2>Três livros lendários</VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.2>
+
+  <!-- EN: Four legendary books -->
+  <VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.3>Quatro livros lendários</VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.3>
+
+  <!-- EN: Five or more legendary books -->
+  <VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.4>Cinco ou mais livros lendários</VME_BookQuality_Desired.comps.0.thoughtStageDescriptions.4>
 
   <!-- EN: decreased -->
   <VME_BookReadingSpeed_Decreased.label>diminuída</VME_BookReadingSpeed_Decreased.label>
@@ -236,10 +254,11 @@
   <VME_Elders_Despised.description>O que é isto, um asilo?</VME_Elders_Despised.description>
 
   <!-- EN: <li>Elder (more than 65 years)</li><li>Youth (less than 25 years)</li> -->
-  <VME_Elders_Despised.comps.0.thoughtStageDescriptions>
-    <li>Ancião (mais de 65 anos)</li>
-    <li>Jovem (menos de 25 anos)</li>
-  </VME_Elders_Despised.comps.0.thoughtStageDescriptions>
+  <!-- EN: Elder (more than 65 years) -->
+  <VME_Elders_Despised.comps.0.thoughtStageDescriptions.0>Ancião (mais de 65 anos)</VME_Elders_Despised.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Youth (less than 25 years) -->
+  <VME_Elders_Despised.comps.0.thoughtStageDescriptions.1>Jovem (menos de 25 anos)</VME_Elders_Despised.comps.0.thoughtStageDescriptions.1>
 
   <!-- EN: holy -->
   <VME_Elders_Holy.label>sagrado</VME_Elders_Holy.label>
@@ -248,9 +267,8 @@
   <VME_Elders_Holy.description>Nossos anciãos devem ser respeitados e reverenciados, e jamais devemos exigir que façam trabalho pesado.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt;\n - Colonos com mais de 65 anos não fazem trabalho braçal.</VME_Elders_Holy.description>
 
   <!-- EN: <li>Elder (more than 65 years)</li> -->
-  <VME_Elders_Holy.comps.0.thoughtStageDescriptions>
-    <li>Ancião (mais de 65 anos)</li>
-  </VME_Elders_Holy.comps.0.thoughtStageDescriptions>
+  <!-- EN: Elder (more than 65 years) -->
+  <VME_Elders_Holy.comps.0.thoughtStageDescriptions.0>Ancião (mais de 65 anos)</VME_Elders_Holy.comps.0.thoughtStageDescriptions.0>
 
   <!-- EN: respected -->
   <VME_Elders_Respected.label>respeitado</VME_Elders_Respected.label>
@@ -259,9 +277,8 @@
   <VME_Elders_Respected.description>Nossos anciãos devem ser respeitados.</VME_Elders_Respected.description>
 
   <!-- EN: <li>Elder (more than 65 years)</li> -->
-  <VME_Elders_Respected.comps.0.thoughtStageDescriptions>
-    <li>Ancião (mais de 65 anos)</li>
-  </VME_Elders_Respected.comps.0.thoughtStageDescriptions>
+  <!-- EN: Elder (more than 65 years) -->
+  <VME_Elders_Respected.comps.0.thoughtStageDescriptions.0>Ancião (mais de 65 anos)</VME_Elders_Respected.comps.0.thoughtStageDescriptions.0>
 
   <!-- EN: high -->
   <VME_Expectations_High.label>altas</VME_Expectations_High.label>
@@ -288,14 +305,23 @@
   <VME_Fire_Desired.description>As chamas são um espetáculo impressionante.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt;\n - Colonos recebem bônus de humor conforme o número de fogos ativos no mapa. Fogueiras, tochas, outras fontes de fogo do jogo base e Fogueiras de Pedra de Vanilla Furniture Expanded - Core também contam.</VME_Fire_Desired.description>
 
   <!-- EN: <li>No fires nearby</li><li>Very few fires</li><li>Small fires</li><li>Saw fires</li><li>Amazing fires</li><li>Beautiful fires</li> -->
-  <VME_Fire_Desired.comps.0.thoughtStageDescriptions>
-    <li>Nenhum fogo por perto</li>
-    <li>Pouquíssimos fogos</li>
-    <li>Fogos pequenos</li>
-    <li>Viu fogos</li>
-    <li>Fogos incríveis</li>
-    <li>Fogos belos</li>
-  </VME_Fire_Desired.comps.0.thoughtStageDescriptions>
+  <!-- EN: No fires nearby -->
+  <VME_Fire_Desired.comps.0.thoughtStageDescriptions.0>Nenhum fogo por perto</VME_Fire_Desired.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Very few fires -->
+  <VME_Fire_Desired.comps.0.thoughtStageDescriptions.1>Pouquíssimos fogos</VME_Fire_Desired.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: Small fires -->
+  <VME_Fire_Desired.comps.0.thoughtStageDescriptions.2>Fogos pequenos</VME_Fire_Desired.comps.0.thoughtStageDescriptions.2>
+
+  <!-- EN: Saw fires -->
+  <VME_Fire_Desired.comps.0.thoughtStageDescriptions.3>Viu fogos</VME_Fire_Desired.comps.0.thoughtStageDescriptions.3>
+
+  <!-- EN: Amazing fires -->
+  <VME_Fire_Desired.comps.0.thoughtStageDescriptions.4>Fogos incríveis</VME_Fire_Desired.comps.0.thoughtStageDescriptions.4>
+
+  <!-- EN: Beautiful fires -->
+  <VME_Fire_Desired.comps.0.thoughtStageDescriptions.5>Fogos belos</VME_Fire_Desired.comps.0.thoughtStageDescriptions.5>
 
   <!-- EN: despised -->
   <VME_Fire_Despised.label>desprezado</VME_Fire_Despised.label>
@@ -304,14 +330,23 @@
   <VME_Fire_Despised.description>Nada é tão perigoso quanto um incêndio fora de controle. Devemos evitar incêndios a qualquer custo.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt;\n - Colonos recebem penalidades de humor conforme o número de fogos ativos no mapa. Fogueiras, tochas, outras fontes de fogo do jogo base e Fogueiras de Pedra de Vanilla Furniture Expanded - Core também contam.</VME_Fire_Despised.description>
 
   <!-- EN: <li>No fires nearby</li><li>Very few fires</li><li>Small fire</li><li>Saw fire</li><li>Blazing fires</li><li>Conflagration</li> -->
-  <VME_Fire_Despised.comps.0.thoughtStageDescriptions>
-    <li>Nenhum fogo por perto</li>
-    <li>Pouquíssimos fogos</li>
-    <li>Fogo pequeno</li>
-    <li>Viu fogo</li>
-    <li>Fogos intensos</li>
-    <li>Incêndio devastador</li>
-  </VME_Fire_Despised.comps.0.thoughtStageDescriptions>
+  <!-- EN: No fires nearby -->
+  <VME_Fire_Despised.comps.0.thoughtStageDescriptions.0>Nenhum fogo por perto</VME_Fire_Despised.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Very few fires -->
+  <VME_Fire_Despised.comps.0.thoughtStageDescriptions.1>Pouquíssimos fogos</VME_Fire_Despised.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: Small fire -->
+  <VME_Fire_Despised.comps.0.thoughtStageDescriptions.2>Fogo pequeno</VME_Fire_Despised.comps.0.thoughtStageDescriptions.2>
+
+  <!-- EN: Saw fire -->
+  <VME_Fire_Despised.comps.0.thoughtStageDescriptions.3>Viu fogo</VME_Fire_Despised.comps.0.thoughtStageDescriptions.3>
+
+  <!-- EN: Blazing fires -->
+  <VME_Fire_Despised.comps.0.thoughtStageDescriptions.4>Fogos intensos</VME_Fire_Despised.comps.0.thoughtStageDescriptions.4>
+
+  <!-- EN: Conflagration -->
+  <VME_Fire_Despised.comps.0.thoughtStageDescriptions.5>Incêndio devastador</VME_Fire_Despised.comps.0.thoughtStageDescriptions.5>
 
   <!-- EN: abhorrent -->
   <VME_Firefighting_Abhorrent.label>abominável</VME_Firefighting_Abhorrent.label>
@@ -338,14 +373,23 @@
   <VME_Hospital_Required.description>Um hospital limpo é essencial para a saúde de qualquer comunidade a longo prazo.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt;\n - Colonos recebem penalidades ou bônus de humor conforme o tamanho dos quartos hospitalares no mapa. Apenas quartos com imponência "decente" ou superior contam para esse cálculo. Os hospitais também precisam estar limpos, ou os colonos reclamarão!</VME_Hospital_Required.description>
 
   <!-- EN: <li>Need hospital</li><li>Unimpressive hospital (less than decent impressiveness)</li><li>Dirty hospital</li><li>Small hospital (less than 25 tiles)</li><li>Spacious hospital (less than 50 tiles)</li><li>Huge hospital (more than 50 tiles)</li> -->
-  <VME_Hospital_Required.comps.0.thoughtStageDescriptions>
-    <li>Precisa de hospital</li>
-    <li>Hospital pouco impressionante (imponência abaixo de decente)</li>
-    <li>Hospital sujo</li>
-    <li>Hospital pequeno (menos de 25 células)</li>
-    <li>Hospital espaçoso (menos de 50 células)</li>
-    <li>Hospital enorme (mais de 50 células)</li>
-  </VME_Hospital_Required.comps.0.thoughtStageDescriptions>
+  <!-- EN: Need hospital -->
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.0>Precisa de hospital</VME_Hospital_Required.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Unimpressive hospital (less than decent impressiveness) -->
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.1>Hospital pouco impressionante (imponência abaixo de decente)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: Dirty hospital -->
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.2>Hospital sujo</VME_Hospital_Required.comps.0.thoughtStageDescriptions.2>
+
+  <!-- EN: Small hospital (less than 25 tiles) -->
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.3>Hospital pequeno (menos de 25 células)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.3>
+
+  <!-- EN: Spacious hospital (less than 50 tiles) -->
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.4>Hospital espaçoso (menos de 50 células)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.4>
+
+  <!-- EN: Huge hospital (more than 50 tiles) -->
+  <VME_Hospital_Required.comps.0.thoughtStageDescriptions.5>Hospital enorme (mais de 50 células)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.5>
 
   <!-- EN: exalted -->
   <VME_Illness_Exalted.label>exaltado</VME_Illness_Exalted.label>
@@ -417,18 +461,35 @@
   <VME_Junk_Beautiful.description>É maravilhoso viver rodeado de coisas descartadas pelos outros.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt;\n - Construções antigas de sucata podem ser desinstaladas e reposicionadas conforme necessário.\n - Colonos recebem penalidades ou bônus de humor conforme a quantidade dessas construções num raio de 20 células ao seu redor. O efeito é verificado aproximadamente a cada 5 horas.</VME_Junk_Beautiful.description>
 
   <!-- EN: <li>No junk</li><li>Few pieces of ancient junk (1 nearby)</li><li>Few pieces of ancient junk (2 nearby)</li><li>Few pieces of ancient junk (3 nearby)</li><li>Few pieces of ancient junk (4 nearby)</li><li>very little junk (5 nearby)</li><li>Small junk</li><li>Saw junk</li><li>Amazing junk</li><li>Beautiful junk</li> -->
-  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions>
-    <li>Sem sucata</li>
-    <li>Poucas peças de sucata antiga (1 por perto)</li>
-    <li>Poucas peças de sucata antiga (2 por perto)</li>
-    <li>Poucas peças de sucata antiga (3 por perto)</li>
-    <li>Poucas peças de sucata antiga (4 por perto)</li>
-    <li>pouquíssima sucata (5 por perto)</li>
-    <li>Sucata pequena</li>
-    <li>Viu sucata</li>
-    <li>Sucata incrível</li>
-    <li>Sucata bela</li>
-  </VME_Junk_Beautiful.comps.0.thoughtStageDescriptions>
+  <!-- EN: No junk -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.0>Sem sucata</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Few pieces of ancient junk (1 nearby) -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.1>Poucas peças de sucata antiga (1 por perto)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: Few pieces of ancient junk (2 nearby) -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.2>Poucas peças de sucata antiga (2 por perto)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.2>
+
+  <!-- EN: Few pieces of ancient junk (3 nearby) -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.3>Poucas peças de sucata antiga (3 por perto)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.3>
+
+  <!-- EN: Few pieces of ancient junk (4 nearby) -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.4>Poucas peças de sucata antiga (4 por perto)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.4>
+
+  <!-- EN: very little junk (5 nearby) -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.5>pouquíssima sucata (5 por perto)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.5>
+
+  <!-- EN: Small junk -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.6>Sucata pequena</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.6>
+
+  <!-- EN: Saw junk -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.7>Viu sucata</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.7>
+
+  <!-- EN: Amazing junk -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.8>Sucata incrível</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.8>
+
+  <!-- EN: Beautiful junk -->
+  <VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.9>Sucata bela</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.9>
 
   <!-- EN: preferred -->
   <VME_Junk_Preferred.label>preferido</VME_Junk_Preferred.label>
@@ -437,18 +498,35 @@
   <VME_Junk_Preferred.description>A sucata antiga nos lembra das provações de nossos antepassados, sujeitos à luta eterna da humanidade entre as estrelas. Podemos aprender muito estudando essa tecnologia descartada.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt;\n - Construções antigas de sucata podem ser desinstaladas e reposicionadas conforme necessário.\n - Colonos recebem penalidades ou bônus moderados de humor conforme a quantidade dessas construções num raio de 20 células. O efeito é verificado aproximadamente a cada 5 horas.</VME_Junk_Preferred.description>
 
   <!-- EN: <li>No junk</li><li>Few pieces of ancient junk (1 nearby)</li><li>Few pieces of ancient junk (2 nearby)</li><li>Few pieces of ancient junk (3 nearby)</li><li>Few pieces of ancient junk (4 nearby)</li><li>very little junk (5 nearby)</li><li>Small junk</li><li>Saw junk</li><li>Plenty of junk</li><li>Lots of junk</li> -->
-  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions>
-    <li>Sem sucata</li>
-    <li>Poucas peças de sucata antiga (1 por perto)</li>
-    <li>Poucas peças de sucata antiga (2 por perto)</li>
-    <li>Poucas peças de sucata antiga (3 por perto)</li>
-    <li>Poucas peças de sucata antiga (4 por perto)</li>
-    <li>pouquíssima sucata (5 por perto)</li>
-    <li>Sucata pequena</li>
-    <li>Viu sucata</li>
-    <li>Bastante sucata</li>
-    <li>Muita sucata</li>
-  </VME_Junk_Preferred.comps.0.thoughtStageDescriptions>
+  <!-- EN: No junk -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.0>Sem sucata</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Few pieces of ancient junk (1 nearby) -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.1>Poucas peças de sucata antiga (1 por perto)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: Few pieces of ancient junk (2 nearby) -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.2>Poucas peças de sucata antiga (2 por perto)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.2>
+
+  <!-- EN: Few pieces of ancient junk (3 nearby) -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.3>Poucas peças de sucata antiga (3 por perto)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.3>
+
+  <!-- EN: Few pieces of ancient junk (4 nearby) -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.4>Poucas peças de sucata antiga (4 por perto)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.4>
+
+  <!-- EN: very little junk (5 nearby) -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.5>pouquíssima sucata (5 por perto)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.5>
+
+  <!-- EN: Small junk -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.6>Sucata pequena</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.6>
+
+  <!-- EN: Saw junk -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.7>Viu sucata</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.7>
+
+  <!-- EN: Plenty of junk -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.8>Bastante sucata</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.8>
+
+  <!-- EN: Lots of junk -->
+  <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.9>Muita sucata</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.9>
 
   <!-- EN: high -->
   <VME_JunkDeconstructionYield_High.label>altas</VME_JunkDeconstructionYield_High.label>
@@ -487,12 +565,17 @@
   <VME_Leader_Godlike.description>Nosso líder deve ser exaltado como um deus.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt;\n - A opinião sobre o líder depende da certeza de cada pessoa em sua ideologia.</VME_Leader_Godlike.description>
 
   <!-- EN: <li>Supreme god emperor (certainty above 75%)</li><li>God emperor (certainty above 50%)</li><li>Dubious divinity (certainty above 25%)</li><li>False god (certainty below 25%)</li> -->
-  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions>
-    <li>Supremo imperador-deus (certeza acima de 75%)</li>
-    <li>Imperador-deus (certeza acima de 50%)</li>
-    <li>Divindade duvidosa (certeza acima de 25%)</li>
-    <li>Falso deus (certeza abaixo de 25%)</li>
-  </VME_Leader_Godlike.comps.0.thoughtStageDescriptions>
+  <!-- EN: Supreme god emperor (certainty above 75%) -->
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.0>Supremo imperador-deus (certeza acima de 75%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: God emperor (certainty above 50%) -->
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.1>Imperador-deus (certeza acima de 50%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: Dubious divinity (certainty above 25%) -->
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.2>Divindade duvidosa (certeza acima de 25%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.2>
+
+  <!-- EN: False god (certainty below 25%) -->
+  <VME_Leader_Godlike.comps.0.thoughtStageDescriptions.3>Falso deus (certeza abaixo de 25%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.3>
 
   <!-- EN: moralist -->
   <VME_Leader_Moralist.label>guia moral</VME_Leader_Moralist.label>
@@ -555,17 +638,32 @@
   <VME_Mood_DictatedByStars.description>As estrelas nos guiarão.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt;\n - Após cada ritual de Adivinhação das Estrelas, eclipse solar ou aurora, o humor mudará aleatoriamente entre -30 e +30.</VME_Mood_DictatedByStars.description>
 
   <!-- EN: <li>Stars are aligned</li><li>Stars are perfect</li><li>Stars are excellent</li><li>Stars are good</li><li>Stars are indifferent</li><li>Stars are bad</li><li>Stars are not on my side</li><li>Stars are a bad omen</li><li>Stars are aligned… against me</li> -->
-  <VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions>
-    <li>As estrelas estão alinhadas</li>
-    <li>As estrelas estão perfeitas</li>
-    <li>As estrelas estão excelentes</li>
-    <li>As estrelas estão boas</li>
-    <li>As estrelas estão indiferentes</li>
-    <li>As estrelas estão ruins</li>
-    <li>As estrelas não estão do meu lado</li>
-    <li>As estrelas são um mau presságio</li>
-    <li>As estrelas estão alinhadas... contra mim</li>
-  </VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions>
+  <!-- EN: Stars are aligned -->
+  <VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.0>As estrelas estão alinhadas</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Stars are perfect -->
+  <VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.1>As estrelas estão perfeitas</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: Stars are excellent -->
+  <VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.2>As estrelas estão excelentes</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.2>
+
+  <!-- EN: Stars are good -->
+  <VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.3>As estrelas estão boas</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.3>
+
+  <!-- EN: Stars are indifferent -->
+  <VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.4>As estrelas estão indiferentes</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.4>
+
+  <!-- EN: Stars are bad -->
+  <VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.5>As estrelas estão ruins</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.5>
+
+  <!-- EN: Stars are not on my side -->
+  <VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.6>As estrelas não estão do meu lado</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.6>
+
+  <!-- EN: Stars are a bad omen -->
+  <VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.7>As estrelas são um mau presságio</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.7>
+
+  <!-- EN: Stars are aligned… against me -->
+  <VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.8>As estrelas estão alinhadas... contra mim</VME_Mood_DictatedByStars.comps.0.thoughtStageDescriptions.8>
 
   <!-- EN: high spirits -->
   <VME_Mood_HighExpectations.label>ânimo alto</VME_Mood_HighExpectations.label>
@@ -592,10 +690,11 @@
   <VME_Mood_Shared.description>Todos devemos buscar a empatia. Compartilhamos tanto os fardos quanto as alegrias uns dos outros.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt;\n - Se o humor médio da colônia estiver feliz, os colonos recebem um pensamento positivo, e vice-versa.</VME_Mood_Shared.description>
 
   <!-- EN: <li>Average colony mood is positive</li><li>Average colony mood is negative</li> -->
-  <VME_Mood_Shared.comps.0.thoughtStageDescriptions>
-    <li>O humor médio da colônia é positivo</li>
-    <li>O humor médio da colônia é negativo</li>
-  </VME_Mood_Shared.comps.0.thoughtStageDescriptions>
+  <!-- EN: Average colony mood is positive -->
+  <VME_Mood_Shared.comps.0.thoughtStageDescriptions.0>O humor médio da colônia é positivo</VME_Mood_Shared.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Average colony mood is negative -->
+  <VME_Mood_Shared.comps.0.thoughtStageDescriptions.1>O humor médio da colônia é negativo</VME_Mood_Shared.comps.0.thoughtStageDescriptions.1>
 
   <!-- EN: post mortem -->
   <VME_OrganUse_PostMortem.label>pós-morte</VME_OrganUse_PostMortem.label>
@@ -616,13 +715,20 @@
   <VME_PermanentBases_Desired.description>Nosso lar deve ter muitos cômodos e instalações, e nunca devemos abandoná-lo.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt;\n - Colonos recebem penalidades ou bônus de humor conforme a quantidade de construções no mapa. Uma "construção" é uma estrutura completamente fechada com pelo menos 25 células.</VME_PermanentBases_Desired.description>
 
   <!-- EN: <li>Magnificent city (more than 20 buildings)</li><li>Lots of beautiful buildings (less than 20 buildings)</li><li>Many beautiful buildings (less than 15 buildings)</li><li>Burgeoning city (less than 10 buildings)</li><li>Not enough buildings (less than 5 buildings)</li> -->
-  <VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions>
-    <li>Cidade magnífica (mais de 20 construções)</li>
-    <li>Muitíssimas construções belas (menos de 20 construções)</li>
-    <li>Muitas construções belas (menos de 15 construções)</li>
-    <li>Cidade em crescimento (menos de 10 construções)</li>
-    <li>Construções insuficientes (menos de 5 construções)</li>
-  </VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions>
+  <!-- EN: Magnificent city (more than 20 buildings) -->
+  <VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.0>Cidade magnífica (mais de 20 construções)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Lots of beautiful buildings (less than 20 buildings) -->
+  <VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.1>Muitíssimas construções belas (menos de 20 construções)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: Many beautiful buildings (less than 15 buildings) -->
+  <VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.2>Muitas construções belas (menos de 15 construções)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.2>
+
+  <!-- EN: Burgeoning city (less than 10 buildings) -->
+  <VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.3>Cidade em crescimento (menos de 10 construções)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.3>
+
+  <!-- EN: Not enough buildings (less than 5 buildings) -->
+  <VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.4>Construções insuficientes (menos de 5 construções)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.4>
 
   <!-- EN: despised -->
   <VME_PermanentBases_Despised.label>desprezado</VME_PermanentBases_Despised.label>
@@ -631,16 +737,29 @@
   <VME_PermanentBases_Despised.description>Nosso lar é temporário; é importante continuar em movimento.\n\n&lt;color=#E5E54C&gt;Estatísticas:&lt;/color&gt;\n - Rendimento agrícola: -10%.\n - Rendimento de coleta: +40%.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt;\n - Este preceito só funciona com o sistema de mundo do jogo base. Veículos, por exemplo, não interagem com ele. Sair do mapa por outros mods, como Caravan Adventure, também não funciona. É preciso usar os sistemas do jogo base.</VME_PermanentBases_Despised.description>
 
   <!-- EN: <li>Wanderlust (15 days)</li><li>Wanderlust (16 days)</li><li>Wanderlust (17 days)</li><li>Wanderlust (20 days)</li><li>Wanderlust (30 days)</li><li>Wanderlust (40 days)</li><li>Wanderlust (50 days)</li><li>Wanderlust (60 days)</li> -->
-  <VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions>
-    <li>Vontade de viajar (15 dias)</li>
-    <li>Vontade de viajar (16 dias)</li>
-    <li>Vontade de viajar (17 dias)</li>
-    <li>Vontade de viajar (20 dias)</li>
-    <li>Vontade de viajar (30 dias)</li>
-    <li>Vontade de viajar (40 dias)</li>
-    <li>Vontade de viajar (50 dias)</li>
-    <li>Vontade de viajar (60 dias)</li>
-  </VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions>
+  <!-- EN: Wanderlust (15 days) -->
+  <VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.0>Vontade de viajar (15 dias)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Wanderlust (16 days) -->
+  <VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.1>Vontade de viajar (16 dias)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: Wanderlust (17 days) -->
+  <VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.2>Vontade de viajar (17 dias)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.2>
+
+  <!-- EN: Wanderlust (20 days) -->
+  <VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.3>Vontade de viajar (20 dias)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.3>
+
+  <!-- EN: Wanderlust (30 days) -->
+  <VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.4>Vontade de viajar (30 dias)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.4>
+
+  <!-- EN: Wanderlust (40 days) -->
+  <VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.5>Vontade de viajar (40 dias)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.5>
+
+  <!-- EN: Wanderlust (50 days) -->
+  <VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.6>Vontade de viajar (50 dias)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.6>
+
+  <!-- EN: Wanderlust (60 days) -->
+  <VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.7>Vontade de viajar (60 dias)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.7>
 
   <!-- EN: desired -->
   <VME_Power_Desired.label>desejado</VME_Power_Desired.label>
@@ -649,9 +768,8 @@
   <VME_Power_Desired.description>Buscar poder é um desejo compreensível.</VME_Power_Desired.description>
 
   <!-- EN: <li>Leader and moralist</li> -->
-  <VME_Power_Desired.comps.0.thoughtStageDescriptions>
-    <li>Líder e guia moral</li>
-  </VME_Power_Desired.comps.0.thoughtStageDescriptions>
+  <!-- EN: Leader and moralist -->
+  <VME_Power_Desired.comps.0.thoughtStageDescriptions.0>Líder e guia moral</VME_Power_Desired.comps.0.thoughtStageDescriptions.0>
 
   <!-- EN: exalted -->
   <VME_Power_Exalted.label>exaltado</VME_Power_Exalted.label>
@@ -660,9 +778,8 @@
   <VME_Power_Exalted.description>Sempre devemos buscar o poder.</VME_Power_Exalted.description>
 
   <!-- EN: <li>Leader</li> -->
-  <VME_Power_Exalted.comps.0.thoughtStageDescriptions>
-    <li>Líder</li>
-  </VME_Power_Exalted.comps.0.thoughtStageDescriptions>
+  <!-- EN: Leader -->
+  <VME_Power_Exalted.comps.0.thoughtStageDescriptions.0>Líder</VME_Power_Exalted.comps.0.thoughtStageDescriptions.0>
 
   <!-- EN: preferred -->
   <VME_Power_Preferred.label>preferido</VME_Power_Preferred.label>
@@ -671,9 +788,8 @@
   <VME_Power_Preferred.description>É preferível ocupar uma posição de poder.</VME_Power_Preferred.description>
 
   <!-- EN: <li>Any ideo role</li> -->
-  <VME_Power_Preferred.comps.0.thoughtStageDescriptions>
-    <li>Qualquer função ideológica</li>
-  </VME_Power_Preferred.comps.0.thoughtStageDescriptions>
+  <!-- EN: Any ideo role -->
+  <VME_Power_Preferred.comps.0.thoughtStageDescriptions.0>Qualquer função ideológica</VME_Power_Preferred.comps.0.thoughtStageDescriptions.0>
 
   <!-- EN: forceful -->
   <VME_Proselytizing_Forceful.label>forçado</VME_Proselytizing_Forceful.label>
@@ -694,10 +810,11 @@
   <VME_Raiding_Abhorrent.description>É vergonhoso atacar ou tomar dos mais fracos.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt;\n - Qualquer invasão aciona este preceito, mesmo as de finalidade defensiva, como ataques a causadores de problemas. Sim, é difícil.</VME_Raiding_Abhorrent.description>
 
   <!-- EN: <li>Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid</li><li>More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid</li> -->
-  <VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions>
-    <li>Menos de {DAYSSINCELASTRAIDTHRESHOLD} dias desde nossa última invasão</li>
-    <li>Mais de {DAYSSINCELASTRAIDTHRESHOLD} dias desde nossa última invasão</li>
-  </VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions>
+  <!-- EN: Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+  <VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.0>Menos de {DAYSSINCELASTRAIDTHRESHOLD} dias desde nossa última invasão</VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.0>
+
+  <!-- EN: More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+  <VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.1>Mais de {DAYSSINCELASTRAIDTHRESHOLD} dias desde nossa última invasão</VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.1>
 
   <!-- EN: honorable -->
   <VME_Raiding_Honorable.label>honroso</VME_Raiding_Honorable.label>
@@ -706,10 +823,11 @@
   <VME_Raiding_Honorable.description>Força e honra podem ser conquistadas invadindo outros assentamentos.</VME_Raiding_Honorable.description>
 
   <!-- EN: <li>Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid</li><li>More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid</li> -->
-  <VME_Raiding_Honorable.comps.3.thoughtStageDescriptions>
-    <li>Menos de {DAYSSINCELASTRAIDTHRESHOLD} dias desde nossa última invasão</li>
-    <li>Mais de {DAYSSINCELASTRAIDTHRESHOLD} dias desde nossa última invasão</li>
-  </VME_Raiding_Honorable.comps.3.thoughtStageDescriptions>
+  <!-- EN: Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+  <VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.0>Menos de {DAYSSINCELASTRAIDTHRESHOLD} dias desde nossa última invasão</VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.0>
+
+  <!-- EN: More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid -->
+  <VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.1>Mais de {DAYSSINCELASTRAIDTHRESHOLD} dias desde nossa última invasão</VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.1>
 
   <!-- EN: disliked -->
   <VME_Ranching_Disliked.label>desaprovado</VME_Ranching_Disliked.label>
@@ -718,12 +836,17 @@
   <VME_Ranching_Disliked.description>Manter animais presos para consumir sua carne e recursos é profundamente imoral e deve ser evitado a qualquer custo. Cultivar nossas próprias frutas e verduras é uma atividade muito mais nobre.</VME_Ranching_Disliked.description>
 
   <!-- EN: <li>No pen markers around</li><li>Pen marker around</li><li>Pen markers around (2 or 3)</li><li>Factory farming (more than 3 pen markers)</li> -->
-  <VME_Ranching_Disliked.comps.0.thoughtStageDescriptions>
-    <li>Nenhum marcador de curral por perto</li>
-    <li>Marcador de curral por perto</li>
-    <li>Marcadores de curral por perto (2 ou 3)</li>
-    <li>Criação industrial (mais de 3 marcadores de curral)</li>
-  </VME_Ranching_Disliked.comps.0.thoughtStageDescriptions>
+  <!-- EN: No pen markers around -->
+  <VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.0>Nenhum marcador de curral por perto</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Pen marker around -->
+  <VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.1>Marcador de curral por perto</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: Pen markers around (2 or 3) -->
+  <VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.2>Marcadores de curral por perto (2 ou 3)</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.2>
+
+  <!-- EN: Factory farming (more than 3 pen markers) -->
+  <VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.3>Criação industrial (mais de 3 marcadores de curral)</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.3>
 
   <!-- EN: nomadic -->
   <VME_Ranching_Nomadic.label>nômade</VME_Ranching_Nomadic.label>
@@ -906,13 +1029,20 @@
   <VME_Scars_Disgusting.description>Um corpo marcado por cicatrizes é repugnante.</VME_Scars_Disgusting.description>
 
   <!-- EN: <li>Faintly scarred (1 scarification scar)</li><li>Scarred (2 scarification scars)</li><li>Heavily scarred (3 scarification scars)</li><li>Extremely scarred (4 scarification scars)</li><li>Innumerable battlefield scars  (more than 4 scarification scars)</li> -->
-  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions>
-    <li>Poucas cicatrizes (1 cicatriz de escarificação)</li>
-    <li>Cicatrizado (2 cicatrizes de escarificação)</li>
-    <li>Muito cicatrizado (3 cicatrizes de escarificação)</li>
-    <li>Extremamente cicatrizado (4 cicatrizes de escarificação)</li>
-    <li>Incontáveis cicatrizes de batalha  (mais de 4 cicatrizes de escarificação)</li>
-  </VME_Scars_Disgusting.comps.0.thoughtStageDescriptions>
+  <!-- EN: Faintly scarred (1 scarification scar) -->
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.0>Poucas cicatrizes (1 cicatriz de escarificação)</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Scarred (2 scarification scars) -->
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.1>Cicatrizado (2 cicatrizes de escarificação)</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: Heavily scarred (3 scarification scars) -->
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.2>Muito cicatrizado (3 cicatrizes de escarificação)</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.2>
+
+  <!-- EN: Extremely scarred (4 scarification scars) -->
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.3>Extremamente cicatrizado (4 cicatrizes de escarificação)</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.3>
+
+  <!-- EN: Innumerable battlefield scars  (more than 4 scarification scars) -->
+  <VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.4>Incontáveis cicatrizes de batalha  (mais de 4 cicatrizes de escarificação)</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.4>
 
   <!-- EN: honorable -->
   <VME_Scars_Honorable.label>honroso</VME_Scars_Honorable.label>
@@ -921,13 +1051,20 @@
   <VME_Scars_Honorable.description>Carregar cicatrizes e seguir em frente é um ato verdadeiramente incrível.</VME_Scars_Honorable.description>
 
   <!-- EN: <li>Faintly scarred (1 scarification scar)</li><li>Scarred (2 scarification scars)</li><li>Heavily scarred (3 scarification scars)</li><li>Extremely scarred (4 scarification scars)</li><li>Innumerable battlefield scars  (more than 4 scarification scars)</li> -->
-  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions>
-    <li>Poucas cicatrizes (1 cicatriz de escarificação)</li>
-    <li>Cicatrizado (2 cicatrizes de escarificação)</li>
-    <li>Muito cicatrizado (3 cicatrizes de escarificação)</li>
-    <li>Extremamente cicatrizado (4 cicatrizes de escarificação)</li>
-    <li>Incontáveis cicatrizes de batalha  (mais de 4 cicatrizes de escarificação)</li>
-  </VME_Scars_Honorable.comps.0.thoughtStageDescriptions>
+  <!-- EN: Faintly scarred (1 scarification scar) -->
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.0>Poucas cicatrizes (1 cicatriz de escarificação)</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Scarred (2 scarification scars) -->
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.1>Cicatrizado (2 cicatrizes de escarificação)</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: Heavily scarred (3 scarification scars) -->
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.2>Muito cicatrizado (3 cicatrizes de escarificação)</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.2>
+
+  <!-- EN: Extremely scarred (4 scarification scars) -->
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.3>Extremamente cicatrizado (4 cicatrizes de escarificação)</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.3>
+
+  <!-- EN: Innumerable battlefield scars  (more than 4 scarification scars) -->
+  <VME_Scars_Honorable.comps.0.thoughtStageDescriptions.4>Incontáveis cicatrizes de batalha  (mais de 4 cicatrizes de escarificação)</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.4>
 
   <!-- EN: relaxed -->
   <VME_SkilledLabor_Relaxed.label>tranquilo</VME_SkilledLabor_Relaxed.label>
@@ -1017,10 +1154,11 @@
   <VME_Trading_Required.description>É importante comerciar e obter riqueza.</VME_Trading_Required.description>
 
   <!-- EN: <li>Recently traded</li><li>No recent trades</li> -->
-  <VME_Trading_Required.comps.0.thoughtStageDescriptions>
-    <li>Comerciou recentemente</li>
-    <li>Sem comércio recente</li>
-  </VME_Trading_Required.comps.0.thoughtStageDescriptions>
+  <!-- EN: Recently traded -->
+  <VME_Trading_Required.comps.0.thoughtStageDescriptions.0>Comerciou recentemente</VME_Trading_Required.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: No recent trades -->
+  <VME_Trading_Required.comps.0.thoughtStageDescriptions.1>Sem comércio recente</VME_Trading_Required.comps.0.thoughtStageDescriptions.1>
 
   <!-- EN: improved -->
   <VME_TradingPrice_Improved.label>melhorados</VME_TradingPrice_Improved.label>
@@ -1035,12 +1173,17 @@
   <VME_Travel_Desired.description>É importante percorrer o planeta e nunca ficar muito tempo num só lugar.</VME_Travel_Desired.description>
 
   <!-- EN: <li>Traveled (less than 5 days ago)</li><li>Traveled (less than 10 days ago)</li><li>Traveled (less than 15 days ago)</li><li>Traveled (less than 60 days ago)</li> -->
-  <VME_Travel_Desired.comps.0.thoughtStageDescriptions>
-    <li>Viajou (há menos de 5 dias)</li>
-    <li>Viajou (há menos de 10 dias)</li>
-    <li>Viajou (há menos de 15 dias)</li>
-    <li>Viajou (há menos de 60 dias)</li>
-  </VME_Travel_Desired.comps.0.thoughtStageDescriptions>
+  <!-- EN: Traveled (less than 5 days ago) -->
+  <VME_Travel_Desired.comps.0.thoughtStageDescriptions.0>Viajou (há menos de 5 dias)</VME_Travel_Desired.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Traveled (less than 10 days ago) -->
+  <VME_Travel_Desired.comps.0.thoughtStageDescriptions.1>Viajou (há menos de 10 dias)</VME_Travel_Desired.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: Traveled (less than 15 days ago) -->
+  <VME_Travel_Desired.comps.0.thoughtStageDescriptions.2>Viajou (há menos de 15 dias)</VME_Travel_Desired.comps.0.thoughtStageDescriptions.2>
+
+  <!-- EN: Traveled (less than 60 days ago) -->
+  <VME_Travel_Desired.comps.0.thoughtStageDescriptions.3>Viajou (há menos de 60 dias)</VME_Travel_Desired.comps.0.thoughtStageDescriptions.3>
 
   <!-- EN: despised -->
   <VME_Travel_Despised.label>desprezado</VME_Travel_Despised.label>
@@ -1049,12 +1192,17 @@
   <VME_Travel_Despised.description>Cada momento longe de casa é uma perda de tempo; viajar não faz sentido.</VME_Travel_Despised.description>
 
   <!-- EN: <li>Traveled (less than 5 days ago)</li><li>Traveled (less than 10 days ago)</li><li>Traveled (less than 15 days ago)</li><li>Traveled (less than 60 days ago)</li> -->
-  <VME_Travel_Despised.comps.0.thoughtStageDescriptions>
-    <li>Viajou (há menos de 5 dias)</li>
-    <li>Viajou (há menos de 10 dias)</li>
-    <li>Viajou (há menos de 15 dias)</li>
-    <li>Viajou (há menos de 60 dias)</li>
-  </VME_Travel_Despised.comps.0.thoughtStageDescriptions>
+  <!-- EN: Traveled (less than 5 days ago) -->
+  <VME_Travel_Despised.comps.0.thoughtStageDescriptions.0>Viajou (há menos de 5 dias)</VME_Travel_Despised.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Traveled (less than 10 days ago) -->
+  <VME_Travel_Despised.comps.0.thoughtStageDescriptions.1>Viajou (há menos de 10 dias)</VME_Travel_Despised.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: Traveled (less than 15 days ago) -->
+  <VME_Travel_Despised.comps.0.thoughtStageDescriptions.2>Viajou (há menos de 15 dias)</VME_Travel_Despised.comps.0.thoughtStageDescriptions.2>
+
+  <!-- EN: Traveled (less than 60 days ago) -->
+  <VME_Travel_Despised.comps.0.thoughtStageDescriptions.3>Viajou (há menos de 60 dias)</VME_Travel_Despised.comps.0.thoughtStageDescriptions.3>
 
   <!-- EN: abhorrent -->
   <VME_Violence_Abhorrent.label>abominável</VME_Violence_Abhorrent.label>

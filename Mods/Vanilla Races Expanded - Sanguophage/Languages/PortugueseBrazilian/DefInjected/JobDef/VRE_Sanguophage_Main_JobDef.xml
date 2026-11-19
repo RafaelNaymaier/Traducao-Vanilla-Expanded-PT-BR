@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <VRE_CarryToDraincasket.reportString>transportando TargetA para o caixão de drenagem.</VRE_CarryToDraincasket.reportString>
+  
+  <VRE_DrinkHemogenCorpse.reportString>ingerindo hemogênio (cadáver) de TargetA.</VRE_DrinkHemogenCorpse.reportString>
+  
+  <VRE_EnterDraincasket.reportString>entrando no caixão de drenagem.</VRE_EnterDraincasket.reportString>
+  
+  <VRE_ExtractHemogenAnimal.reportString>extraindo hemogênio (animal) de TargetA.</VRE_ExtractHemogenAnimal.reportString>
+  
+  <VRE_ExtractHemogenCorpse.reportString>extraindo hemogênio (cadáver) de TargetA.</VRE_ExtractHemogenCorpse.reportString>
+  
+  <VRE_ExtractHemogenSanguophage.reportString>extraindo hemogênio (sanguófago) de TargetA.</VRE_ExtractHemogenSanguophage.reportString>
+  
+  <VRE_HemohunterJob.reportString>extraindo hemogênio à força de TargetA.</VRE_HemohunterJob.reportString>
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\JobDef\VFE_Ancients_JobDef.xml | chave: VRE_RefuelDraincasket.reportString
+<VRE_RefuelDraincasket.reportString>Abastecendo TargetA.</VRE_RefuelDraincasket.reportString> -->
+
+  <!-- VARIANTE LEGADA PRESERVADA, INATIVA | origem: Languages\PortugueseBrazilian\DefInjected\JobDef\VRE_Sanguophage_JobDef.xml | chave: VRE_RefuelDraincasket.reportString
+<VRE_RefuelDraincasket.reportString>reabastecendo TargetA.</VRE_RefuelDraincasket.reportString> -->
+
+  <!-- EN: refueling TargetA. -->
+  <VRE_RefuelDraincasket.reportString>reabastecendo TargetA.</VRE_RefuelDraincasket.reportString>
+
+</LanguageData>
+

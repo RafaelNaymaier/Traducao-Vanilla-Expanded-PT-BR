@@ -49,13 +49,22 @@
   <VME_Library_Required.description>Um lugar de aprendizado é essencial para nossa comunidade. Uma bela coleção de livros maravilhosos e estantes cheias encherá nossos corações de alegria.\n\n&lt;color=#E5E54C&gt;Efeito de jogo:&lt;/color&gt;\n - Colonos recebem penalidades ou bônus de humor conforme o tamanho das bibliotecas no mapa. Apenas salas com imponência "decente" ou superior contam. As bibliotecas também precisam estar limpas, ou os colonos reclamarão!</VME_Library_Required.description>
 
   <!-- EN: <li>Need library</li><li>Unimpressive library (less than decent impressiveness)</li><li>Dirty library</li><li>Small library (less than 50 tiles)</li><li>Spacious library (less than 100 tiles)</li><li>Huge library (more than 100 tiles)</li> -->
-  <VME_Library_Required.comps.0.thoughtStageDescriptions>
-    <li>Precisa de biblioteca</li>
-    <li>Biblioteca pouco impressionante (imponência abaixo de decente)</li>
-    <li>Biblioteca suja</li>
-    <li>Biblioteca pequena (menos de 50 células)</li>
-    <li>Biblioteca espaçosa (menos de 100 células)</li>
-    <li>Biblioteca enorme (mais de 100 células)</li>
-  </VME_Library_Required.comps.0.thoughtStageDescriptions>
+  <!-- EN: Need library -->
+  <VME_Library_Required.comps.0.thoughtStageDescriptions.0>Precisa de biblioteca</VME_Library_Required.comps.0.thoughtStageDescriptions.0>
+
+  <!-- EN: Unimpressive library (less than decent impressiveness) -->
+  <VME_Library_Required.comps.0.thoughtStageDescriptions.1>Biblioteca pouco impressionante (imponência abaixo de decente)</VME_Library_Required.comps.0.thoughtStageDescriptions.1>
+
+  <!-- EN: Dirty library -->
+  <VME_Library_Required.comps.0.thoughtStageDescriptions.2>Biblioteca suja</VME_Library_Required.comps.0.thoughtStageDescriptions.2>
+
+  <!-- EN: Small library (less than 50 tiles) -->
+  <VME_Library_Required.comps.0.thoughtStageDescriptions.3>Biblioteca pequena (menos de 50 células)</VME_Library_Required.comps.0.thoughtStageDescriptions.3>
+
+  <!-- EN: Spacious library (less than 100 tiles) -->
+  <VME_Library_Required.comps.0.thoughtStageDescriptions.4>Biblioteca espaçosa (menos de 100 células)</VME_Library_Required.comps.0.thoughtStageDescriptions.4>
+
+  <!-- EN: Huge library (more than 100 tiles) -->
+  <VME_Library_Required.comps.0.thoughtStageDescriptions.5>Biblioteca enorme (mais de 100 células)</VME_Library_Required.comps.0.thoughtStageDescriptions.5>
 </LanguageData>
 
