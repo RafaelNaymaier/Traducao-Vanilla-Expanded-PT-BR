@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Sort by -->
+  <VTE.SortBy>Ordenar por</VTE.SortBy>
+
+  <!-- EN: Search -->
+  <VTE.Search>Pesquisar</VTE.Search>
+
+  <!-- EN: Name -->
+  <VTE.Name>Nome</VTE.Name>
+
+  <!-- EN: Item -->
+  <VTE.Item>Item</VTE.Item>
+
+  <!-- EN: Market Value -->
+  <VTE.MarketValue>Valor de Mercado</VTE.MarketValue>
+
+  <!-- EN: Current Value -->
+  <VTE.CurrentValue>Valor Atual</VTE.CurrentValue>
+
+  <!-- EN: Change -->
+  <VTE.Change>Variação</VTE.Change>
+
+  <!-- EN: Recent Change -->
+  <VTE.RecentChange>Variação Recente</VTE.RecentChange>
+
+  <!-- EN: View prices -->
+  <VTE.ViewMarketPrices>Ver preços</VTE.ViewMarketPrices>
+
+  <!-- EN: View news -->
+  <VTE.ViewNews>Ver notícias</VTE.ViewNews>
+
+  <!-- EN: Contact {0} -->
+  <VTE.Contact>Contatar {0}</VTE.Contact>
+
+  <!-- EN: Imperial Bank -->
+  <VTE.EmpireBankName>Banco Imperial</VTE.EmpireBankName>
+
+  <!-- EN: Bank of {FACTION_name} -->
+  <VTE.BaseBankName>Banco de {FACTION_name}</VTE.BaseBankName>
+
+  <!-- EN: Bank of {FACTION_name} -->
+  <VTE.OutlanderCivilBankName>Banco de {FACTION_name}</VTE.OutlanderCivilBankName>
+
+  <!-- EN: Local funds: {0} -->
+  <VTE.LocalFunds>Fundos locais: {0}</VTE.LocalFunds>
+
+  <!-- EN: Bank balance: {0} -->
+  <VTE.BankBalance>Saldo bancário: {0}</VTE.BankBalance>
+
+  <!-- EN: Bank fees: {0}% -->
+  <VTE.BankFees>Tarifas bancárias: {0}%</VTE.BankFees>
+
+  <!-- EN: Based on {0} goodwill with {FACTION_name} -->
+  <VTE.BankFeesBasedOn>Com base em {0} de boa vontade com {FACTION_name}</VTE.BankFeesBasedOn>
+
+  <!-- EN: Deposit or Withdraw -->
+  <VTE.DepositOrWithdraw>Depositar ou Sacar</VTE.DepositOrWithdraw>
+
+  <!-- EN: Positive numbers deposit. Negative numbers withdraw. -->
+  <VTE.DepositOrWithdrawDesc>Números positivos depositam. Números negativos sacam.</VTE.DepositOrWithdrawDesc>
+
+  <!-- EN: Are you sure that you want to deposit {0} silver? -->
+  <VTE.AreYouSureYouWantToDeposit>Tem certeza de que deseja depositar {0} de prata?</VTE.AreYouSureYouWantToDeposit>
+
+  <!-- EN: Are you sure that you want to withdraw {0} silver? -->
+  <VTE.AreYouSureYouWantToWithdraw>Tem certeza de que deseja sacar {0} de prata?</VTE.AreYouSureYouWantToWithdraw>
+
+  <!-- EN: Breakdown -->
+  <VTE.Breakdown>Detalhamento</VTE.Breakdown>
+
+  <!-- EN: Performing transactions will incur a charge based on current Bank fee -->
+  <VTE.BreakdownBankDesc>As transações terão uma cobrança com base na tarifa Bancária atual</VTE.BreakdownBankDesc>
+
+  <!-- EN: Buying shares of Trading ships can be risky. Follow the news closely to know how the company you're invested in is doing. -->
+  <VTE.BreakdownStockMarketDesc>Comprar ações de naves Comerciais pode ser arriscado. Acompanhe as notícias para saber como está a empresa na qual você investiu.</VTE.BreakdownStockMarketDesc>
+
+  <!-- EN: Amount to deposit / withdraw -->
+  <VTE.AmountToDepositWithdraw>Quantia a depositar / sacar</VTE.AmountToDepositWithdraw>
+
+  <!-- EN: Amount to deposit -->
+  <VTE.AmountToDeposit>Quantia a depositar</VTE.AmountToDeposit>
+
+  <!-- EN: Amount to withdraw -->
+  <VTE.AmountToWithdraw>Quantia a sacar</VTE.AmountToWithdraw>
+
+  <!-- EN: Fees to pay -->
+  <VTE.FeesToPay>Tarifas a pagar</VTE.FeesToPay>
+
+  <!-- EN: Total -->
+  <VTE.Total>Total</VTE.Total>
+
+  <!-- EN: Loans -->
+  <VTE.Loans>Empréstimos</VTE.Loans>
+
+  <!-- EN: Quick Cash loan -->
+  <VTE.QuickCashLoan>Empréstimo de Dinheiro Rápido</VTE.QuickCashLoan>
+
+  <!-- EN: Short Term loan -->
+  <VTE.ShortTermLoan>Empréstimo de Curto Prazo</VTE.ShortTermLoan>
+
+  <!-- EN: Long Term loan -->
+  <VTE.LongTermLoan>Empréstimo de Longo Prazo</VTE.LongTermLoan>
+
+  <!-- EN: Mortgage loan -->
+  <VTE.MortgageLoan>Empréstimo hipotecário</VTE.MortgageLoan>
+
+  <!-- EN: Unlocks after putting your money on the deposit -->
+  <VTE.LoanOptionsUnlockText>Desbloqueia após depositar seu dinheiro</VTE.LoanOptionsUnlockText>
+
+  <!-- EN: Repay -->
+  <VTE.Repay>Quitar</VTE.Repay>
+
+  <!-- EN: By {0} ({1}) -->
+  <VTE.RepayDate>Até {0} ({1})</VTE.RepayDate>
+
+  <!-- EN: By {0} ({1} left) -->
+  <VTE.RepayDateDaysLeft>Até {0} (restam {1})</VTE.RepayDateDaysLeft>
+
+  <!-- EN: By {0} (overdue) -->
+  <VTE.RepayDateOverdue>Até {0} (em atraso)</VTE.RepayDateOverdue>
+
+  <!-- EN: Take loan -->
+  <VTE.TakeLoan>Contratar empréstimo</VTE.TakeLoan>
+
+  <!-- EN: Repay from balance -->
+  <VTE.RepayFromBalance>Quitar usando o saldo</VTE.RepayFromBalance>
+
+  <!-- EN: Loans can only be paid back using bank balance. Make sure to have enough money in your bank when the loan time runs out, or repay it in full beforehand. Failing to have enough silver in your bank account and stocks can result in losing goodwill of the bank faction, as well as incur other consequences until the debt is settled. -->
+  <VTE.LoanExplanation>Empréstimos só podem ser quitados com o saldo bancário. Garanta que haja dinheiro suficiente no banco quando o prazo terminar ou quite tudo antecipadamente. Não ter prata suficiente na conta bancária e nas ações pode reduzir a boa vontade da facção do banco e trazer outras consequências até que a dívida seja quitada.</VTE.LoanExplanation>
+
+  <!-- EN: Relations with {FACTION_name} became hostile due to being indebted to their bank. -->
+  <VTE.IndebtedMessage>As relações com {FACTION_name} se tornaram hostis devido à dívida com seu banco.</VTE.IndebtedMessage>
+
+  <!-- EN: Collectors -->
+  <VTE.CollectorsLabel>Cobradores</VTE.CollectorsLabel>
+
+  <!-- EN: A group of mercenaries have arrived nearby.
+
+They have been hired by {FACTION_name} to encourage you to pay off your debt. -->
+  <VTE.CollectorsText>Um grupo de mercenários chegou às proximidades.
+
+Eles foram contratados por {FACTION_name} para incentivar você a quitar sua dívida.</VTE.CollectorsText>
+
+  <!-- EN: Pay off your debt using a trading terminal to stop them from coming back. -->
+  <VTE.CollectorsTextPartTwo>Quite sua dívida usando um terminal comercial para impedir que eles voltem.</VTE.CollectorsTextPartTwo>
+
+  <!-- EN: Local News -->
+  <VTE.LocalNews>Notícias Locais</VTE.LocalNews>
+
+  <!-- EN: Filter by -->
+  <VTE.FilterBy>Filtrar por</VTE.FilterBy>
+
+  <!-- EN: All -->
+  <VTE.All>Todas</VTE.All>
+
+  <!-- EN: Only specific category -->
+  <VTE.OnlySpecificCategory>Somente categoria específica</VTE.OnlySpecificCategory>
+
+  <!-- EN: Only trader ship -->
+  <VTE.OnlyTradeShips>Somente nave comercial</VTE.OnlyTradeShips>
+
+  <!-- EN: Only bullish -->
+  <VTE.OnlyBullish>Somente em alta</VTE.OnlyBullish>
+
+  <!-- EN: Only bearish -->
+  <VTE.OnlyBearish>Somente em baixa</VTE.OnlyBearish>
+
+  <!-- EN: News -->
+  <VTE.News>Notícias</VTE.News>
+
+  <!-- EN: Date -->
+  <VTE.Date>Data</VTE.Date>
+
+  <!-- EN: Price history of {0} -->
+  <VTE.PriceHistory>Histórico de preços de {0}</VTE.PriceHistory>
+
+  <!-- EN: Price of {0} is squeezing. -->
+  <VTE.SqueezeMessage>O preço de {0} está disparando.</VTE.SqueezeMessage>
+
+  <!-- EN: Price of {0} is crashing. -->
+  <VTE.CrashMessage>O preço de {0} está despencando.</VTE.CrashMessage>
+
+  <!-- EN: Open stock market -->
+  <VTE.OpenStockMarket>Abrir bolsa de valores</VTE.OpenStockMarket>
+
+  <!-- EN: Company -->
+  <VTE.Company>Empresa</VTE.Company>
+
+  <!-- EN: Value -->
+  <VTE.Value>Valor</VTE.Value>
+
+  <!-- EN: Shares held -->
+  <VTE.SharesHeld>Ações em carteira</VTE.SharesHeld>
+
+  <!-- EN: Shares -->
+  <VTE.Shares>Ações</VTE.Shares>
+
+  <!-- EN: Profit -->
+  <VTE.Profit>Lucro</VTE.Profit>
+
+  <!-- EN: Profit/Loss -->
+  <VTE.ProfitLoss>Lucro/Prejuízo</VTE.ProfitLoss>
+
+  <!-- EN: Chart history of {0} -->
+  <VTE.ChartHistory>Histórico do gráfico de {0}</VTE.ChartHistory>
+
+  <!-- EN: Positive numbers buy.
+Negative numbers sell. -->
+  <VTE.SharesTransactionHeader>Números positivos compram.
+Números negativos vendem.</VTE.SharesTransactionHeader>
+
+  <!-- EN: Follow news -->
+  <VTE.FollowNews>Acompanhar notícias</VTE.FollowNews>
+
+  <!-- EN: Money in banks: {0} -->
+  <VTE.MoneyInBanks>Dinheiro nos bancos: {0}</VTE.MoneyInBanks>
+
+  <!-- EN: Transaction cost -->
+  <VTE.TransactionCost>Custo da transação</VTE.TransactionCost>
+
+  <!-- EN: Transaction gain -->
+  <VTE.TransactionGain>Receita da transação</VTE.TransactionGain>
+
+  <!-- EN: Money in banks after -->
+  <VTE.MoneyInBanksAfter>Dinheiro nos bancos após a transação</VTE.MoneyInBanksAfter>
+
+  <!-- EN: Select bank deposits to pay for shares -->
+  <VTE.BankDepositsToSpend>Selecione os depósitos bancários para pagar pelas ações</VTE.BankDepositsToSpend>
+
+  <!-- EN: Select bank deposits to put money from shares -->
+  <VTE.BankDepositsToGain>Selecione os depósitos bancários para receber o dinheiro das ações</VTE.BankDepositsToGain>
+
+  <!-- EN: Transaction cost to pay: {0} -->
+  <VTE.TransactionCostToPay>Custo da transação a pagar: {0}</VTE.TransactionCostToPay>
+
+  <!-- EN: Money to spend: {0} -->
+  <VTE.MoneyToSpend>Dinheiro a gastar: {0}</VTE.MoneyToSpend>
+
+  <!-- EN: Transaction gain to transfer: {0} -->
+  <VTE.TransactionGainToTransfer>Receita da transação a transferir: {0}</VTE.TransactionGainToTransfer>
+
+  <!-- EN: Money to transfer: {0} -->
+  <VTE.MoneyToTransfer>Dinheiro a transferir: {0}</VTE.MoneyToTransfer>
+
+  <!-- EN: Open contracts -->
+  <VTE.OpenContracts>Abrir contratos</VTE.OpenContracts>
+
+  <!-- EN: Contracts -->
+  <VTE.Contracts>Contratos</VTE.Contracts>
+
+  <!-- EN: Completing contracts will have the funds transferred to your bank account(s) and the items removed from your inventory. You need to be quick, as higher mark-up indicates that the contract is popular, and it might be snatched before the items are ready. -->
+  <VTE.ContractsExplanation>Ao concluir contratos, os fundos serão transferidos para suas contas bancárias e os itens serão removidos do seu inventário. Você precisa agir rápido: um acréscimo maior indica que o contrato é disputado, e outra pessoa pode atendê-lo antes que seus itens estejam prontos.</VTE.ContractsExplanation>
+
+  <!-- EN: Contract -->
+  <VTE.Contract>Contrato</VTE.Contract>
+
+  <!-- EN: Reward -->
+  <VTE.Reward>Recompensa</VTE.Reward>
+
+  <!-- EN: Mark-up -->
+  <VTE.Markup>Acréscimo</VTE.Markup>
+
+  <!-- EN: Time until the end -->
+  <VTE.TimeUntilTheEnd>Tempo até o término</VTE.TimeUntilTheEnd>
+
+  <!-- EN: Your Contracts -->
+  <VTE.YourContracts>Seus Contratos</VTE.YourContracts>
+
+  <!-- EN: Complete contract -->
+  <VTE.CompleteContract>Concluir contrato</VTE.CompleteContract>
+
+  <!-- EN: Insufficient asset -->
+  <VTE.InsufficientAsset>Recursos insuficientes</VTE.InsufficientAsset>
+
+  <!-- EN: Cancel contract -->
+  <VTE.CancelContract>Cancelar contrato</VTE.CancelContract>
+
+  <!-- EN: Submit contract -->
+  <VTE.SubmitContract>Publicar contrato</VTE.SubmitContract>
+
+  <!-- EN: Select item -->
+  <VTE.SelectItem>Selecionar item</VTE.SelectItem>
+
+  <!-- EN: You can submit your own contracts. Specify the amount of the item, the mark-up and the duration. Longer contracts with higher mark-up have a higher chance of being completed. Not having enough money in the bank accounts to cover the contract reward will automatically cancel the contract. -->
+  <VTE.YourContractsExplanation>Você pode publicar seus próprios contratos. Especifique a quantidade do item, o acréscimo e a duração. Contratos mais longos e com acréscimos maiores têm mais chance de ser atendidos. Não ter dinheiro suficiente nas contas bancárias para cobrir a recompensa cancelará automaticamente o contrato.</VTE.YourContractsExplanation>
+
+  <!-- EN: The caravan will arrive to pick up the contracted items in 3 days. Make sure you have enough items when they arrive. The payment will clear once the caravan leaves your area. -->
+  <VTE.ContractCompletedMessage>A caravana chegará para buscar os itens contratados em 3 dias. Garanta que haja itens suficientes quando ela chegar. O pagamento será liberado quando a caravana deixar sua área.</VTE.ContractCompletedMessage>
+
+  <!-- EN: Due to the fact that your location has become dangerous, the caravan that arrived for the contracted items left the map. They will return for the items when it is safe.
+	
+Make sure you have enough items when they arrive. The payment will clear once the caravan leaves your area. -->
+  <VTE.CaravanContractWillReturnMessage>Como sua localização se tornou perigosa, a caravana que chegou para buscar os itens contratados deixou o mapa. Ela voltará para buscá-los quando for seguro.
+	
+Garanta que haja itens suficientes quando ela chegar. O pagamento será liberado quando a caravana deixar sua área.</VTE.CaravanContractWillReturnMessage>
+
+  <!-- EN: A caravan from {0} is approaching. They are collecting contracted items. -->
+  <VTE.LetterTraderCaravanArrival>Uma caravana de {0} está se aproximando. Ela veio buscar os itens contratados.</VTE.LetterTraderCaravanArrival>
+
+  <!-- EN: The caravan didn’t find the promised goods and leaves the area. You will not receive any payment. -->
+  <VTE.CaravanDidNotCollectAllItems>A caravana não encontrou os produtos prometidos e está deixando a área. Você não receberá pagamento.</VTE.CaravanDidNotCollectAllItems>
+
+  <!-- EN: Select bank deposits to put reward for completed contract -->
+  <VTE.BankDepositsToPutContractReward>Selecione os depósitos bancários para receber a recompensa do contrato concluído</VTE.BankDepositsToPutContractReward>
+
+  <!-- EN: The caravan could not obtain all of the items. They will pay {0} of the contract reward - total of {1} silver. Select bank deposits to put reward. -->
+  <VTE.BankDepositsToPutContractRewardPartially>A caravana não conseguiu obter todos os itens. Ela pagará {0} da recompensa do contrato, um total de {1} de prata. Selecione os depósitos bancários para receber a recompensa.</VTE.BankDepositsToPutContractRewardPartially>
+
+  <!-- EN: Select -->
+  <VTE.Select>Selecionar</VTE.Select>
+
+  <!-- EN: Select stuff -->
+  <VTE.SelectStuff>Selecionar material</VTE.SelectStuff>
+
+  <!-- EN: Contract on {0} is fulfilled. Pay money from bank deposits to retrieve the goods. -->
+  <VTE.PayMoneyForContract>O contrato de {0} foi atendido. Pague com depósitos bancários para receber os produtos.</VTE.PayMoneyForContract>
+
+  <!-- EN: Contract fulfilled -->
+  <VTE.ContractFullfilled>Contrato atendido</VTE.ContractFullfilled>
+
+  <!-- EN: A contract has been fulfilled by an interested party. The funds required have been transferred to them.
+Cargo pods are arriving containing: -->
+  <VTE.ContractFullfilledDesc>Um contrato foi atendido por uma parte interessada. Os fundos necessários foram transferidos a ela.
+Cápsulas de carga estão chegando com:</VTE.ContractFullfilledDesc>
+
+  <!-- EN: How often news will appear: -->
+  <VTE.NewsSpawnOption>Frequência das notícias:</VTE.NewsSpawnOption>
+
+  <!-- EN: Player transaction impact multiplier on price fluctuation: -->
+  <VTE.PlayerTransactionImpactMultiplierOption>Multiplicador do impacto das transações do jogador na variação de preços:</VTE.PlayerTransactionImpactMultiplierOption>
+
+  <!-- EN: Player contract fulfilment chance multiplier: -->
+  <VTE.PlayerContractFulfilmentChanceMultiplier>Multiplicador da chance de atendimento dos contratos do jogador:</VTE.PlayerContractFulfilmentChanceMultiplier>
+
+  <!-- EN: NPC contract fulfilment chance multiplier: -->
+  <VTE.NPCContractFulfilmentChanceMultiplier>Multiplicador da chance de atendimento dos contratos de NPCs:</VTE.NPCContractFulfilmentChanceMultiplier>
+
+  <!-- EN: Maximum available NPC contract count: -->
+  <VTE.MaxNPCContractCount>Quantidade máxima de contratos de NPCs disponíveis:</VTE.MaxNPCContractCount>
+
+  <!-- EN: Maximum trade company count: -->
+  <VTE.MaxCompanyCount>Quantidade máxima de empresas comerciais:</VTE.MaxCompanyCount>
+
+  <!-- EN: Maximum mark-up on NPC contract: -->
+  <VTE.MaximumMarkupOnNPCContract>Acréscimo máximo nos contratos de NPCs:</VTE.MaximumMarkupOnNPCContract>
+
+  <!-- EN: Multiplier of how much news affect the market: -->
+  <VTE.NewsPriceImpactMultiplier>Multiplicador do impacto das notícias no mercado:</VTE.NewsPriceImpactMultiplier>
+
+  <!-- EN: Amount of random item price fluctuations: -->
+  <VTE.AmountOfRandomItemsToFluctuate>Quantidade de variações de preço de itens aleatórios:</VTE.AmountOfRandomItemsToFluctuate>
+
+  <!-- EN: Reset price fluctuations -->
+  <VTE.ResetPriceChanges>Restaurar variações de preços</VTE.ResetPriceChanges>
+
+  <!-- EN: You can only take this loan again on {0}. -->
+  <VTE.YouCanTakeThisLoanOn>Você só poderá contratar este empréstimo novamente em {0}.</VTE.YouCanTakeThisLoanOn>
+
+  <!-- EN: Blacklist collectibles (Eggs, Meat, Leather and Wool) for contracts -->
+  <VTE.ContractBlackListCollectibles>Excluir produtos coletáveis (Ovos, Carne, Couro e Lã) dos contratos</VTE.ContractBlackListCollectibles>
+
+  <!-- EN: Caravan-less contract item pickup -->
+  <VTE.CaravanLessContractItemPickup>Coleta de itens de contratos sem caravana</VTE.CaravanLessContractItemPickup>
+
+  <!-- EN: Maximum value of NPC contracts in silver: -->
+  <VTE.MaximumMarketValueOfItemsInContracts>Valor máximo dos contratos de NPCs em prata:</VTE.MaximumMarketValueOfItemsInContracts>
+
+  <!-- EN: Maximum value of NPC contracts in percentage of wealth: -->
+  <VTE.MaximumMarketValueOfItemsPerPlayerWealth>Valor máximo dos contratos de NPCs como porcentagem da riqueza:</VTE.MaximumMarketValueOfItemsPerPlayerWealth>
+
+  <!-- EN: Price fluctuation limitations -->
+  <VTE.MaximumPriceFluctuations>Limites de variação de preços</VTE.MaximumPriceFluctuations>
+
+  <!-- EN: Negative change: {0} -->
+  <VTE.MinimumOfMarketValue>Variação negativa: {0}</VTE.MinimumOfMarketValue>
+
+  <!-- EN: Positive change: {0} -->
+  <VTE.MaximumOfMarketValue>Variação positiva: {0}</VTE.MaximumOfMarketValue>
+
+</LanguageData>
+
