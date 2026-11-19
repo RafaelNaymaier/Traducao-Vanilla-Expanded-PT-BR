@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: make gourmet cocktail -->
+  <VBE_MakeCocktailGourmet.label>preparar coquetel gourmet</VBE_MakeCocktailGourmet.label>
+
+  <!-- EN: Make a gourmet cocktail, where every factor from temperature of glass, choice of stirring instrument and type of garnish has been precisely calculated for the maximum flavor and body possible. -->
+  <VBE_MakeCocktailGourmet.description>Prepare um coquetel gourmet com cada detalhe calculado com precisão, da temperatura do copo à escolha do utensílio de mistura e da guarnição, para obter o máximo de sabor e corpo.</VBE_MakeCocktailGourmet.description>
+
+  <!-- EN: simple spirits -->
+  <VBE_MakeCocktailGourmet.ingredients.0.filter.customSummary>bebidas alcoólicas simples</VBE_MakeCocktailGourmet.ingredients.0.filter.customSummary>
+
+  <!-- EN: luxury spirits -->
+  <VBE_MakeCocktailGourmet.ingredients.1.filter.customSummary>bebidas alcoólicas de luxo</VBE_MakeCocktailGourmet.ingredients.1.filter.customSummary>
+
+  <!-- EN: non-alcoholic drinks -->
+  <VBE_MakeCocktailGourmet.ingredients.2.filter.customSummary>bebidas não alcoólicas</VBE_MakeCocktailGourmet.ingredients.2.filter.customSummary>
+
+  <!-- EN: condiments -->
+  <VBE_MakeCocktailGourmet.ingredients.3.filter.customSummary>condimentos</VBE_MakeCocktailGourmet.ingredients.3.filter.customSummary>
+
+  <!-- EN: Making gourmet cocktail. -->
+  <VBE_MakeCocktailGourmet.jobString>Preparando coquetel gourmet.</VBE_MakeCocktailGourmet.jobString>
+
+  <!-- EN: make go-juice stock -->
+  <VBE_MakeGoJuiceStock.label>preparar caldo de Go-Juice</VBE_MakeGoJuiceStock.label>
+
+  <!-- EN: Make a gelatinized cube of Go-Juice, able to be digested rather than injected. While it can be used in any meal, it is often melted into soups or used as a thickening agent in cocktails. -->
+  <VBE_MakeGoJuiceStock.description>Prepare um cubo gelatinoso de Go-Juice que pode ser digerido em vez de injetado. Pode ser usado em qualquer refeição, mas costuma ser dissolvido em sopas ou usado para engrossar coquetéis.</VBE_MakeGoJuiceStock.description>
+
+  <!-- EN: Making go-juice stock. -->
+  <VBE_MakeGoJuiceStock.jobString>Preparando caldo de Go-Juice.</VBE_MakeGoJuiceStock.jobString>
+
+  <!-- EN: make luciferium powder -->
+  <VBE_MakeLuciferiumPowder.label>preparar pó de lucifério</VBE_MakeLuciferiumPowder.label>
+
+  <!-- EN: Make a very finely blended powder made from luciferium. Usually put around rims of alcoholic drinks in bars frequented by the wealthy and powerful. -->
+  <VBE_MakeLuciferiumPowder.description>Prepare um pó finíssimo de lucifério. Costuma ser colocado na borda de copos de bebidas alcoólicas em bares frequentados pelos ricos e poderosos.</VBE_MakeLuciferiumPowder.description>
+
+  <!-- EN: Making luciferium powder. -->
+  <VBE_MakeLuciferiumPowder.jobString>Preparando pó de lucifério.</VBE_MakeLuciferiumPowder.jobString>
+
+  <!-- EN: make wake-up powder -->
+  <VBE_MakeWakeUpPowder.label>preparar pó de Wake-up</VBE_MakeWakeUpPowder.label>
+
+  <!-- EN: Make a crushed and powdered form of wake-up, surprisingly sweet and sometimes used as a replacement for sugar in desserts or dissolved into a morning espresso. -->
+  <VBE_MakeWakeUpPowder.description>Prepare uma forma triturada de Wake-up, surpreendentemente doce e às vezes usada para substituir o açúcar em sobremesas ou dissolvida no café expresso da manhã.</VBE_MakeWakeUpPowder.description>
+
+  <!-- EN: Making wake-up powder. -->
+  <VBE_MakeWakeUpPowder.jobString>Preparando pó de Wake-up.</VBE_MakeWakeUpPowder.jobString>
+
+  <!-- EN: make soda syrup (efficient) -->
+  <VBE_MakeSodaSyrupBulk.label>preparar xarope para refrigerante (eficiente)</VBE_MakeSodaSyrupBulk.label>
+
+  <!-- EN: Make soda syrup by mixing natural fruit juice with sugar. This recipe is much more efficient. -->
+  <VBE_MakeSodaSyrupBulk.description>Prepare xarope para refrigerante misturando suco natural de frutas com açúcar. Esta receita é muito mais eficiente.</VBE_MakeSodaSyrupBulk.description>
+
+  <!-- EN: Making soda syrup. -->
+  <VBE_MakeSodaSyrupBulk.jobString>Preparando xarope para refrigerante.</VBE_MakeSodaSyrupBulk.jobString>
+
+  <!-- EN: make whiskey mash from flour -->
+  <VBE_MakeWhiskeyMashFromFlour.label>preparar mosto para uísque com farinha</VBE_MakeWhiskeyMashFromFlour.label>
+
+  <!-- EN: Make a starchy and mostly liquid mixture with pulpy chunks strewn throughout. Ready To be aged. -->
+  <VBE_MakeWhiskeyMashFromFlour.description>Prepare uma mistura rica em amido e quase toda líquida, com pedaços de polpa espalhados. Pronta para o envelhecimento.</VBE_MakeWhiskeyMashFromFlour.description>
+
+  <!-- EN: Making whiskey mash. -->
+  <VBE_MakeWhiskeyMashFromFlour.jobString>Preparando mosto para uísque.</VBE_MakeWhiskeyMashFromFlour.jobString>
+</LanguageData>
+

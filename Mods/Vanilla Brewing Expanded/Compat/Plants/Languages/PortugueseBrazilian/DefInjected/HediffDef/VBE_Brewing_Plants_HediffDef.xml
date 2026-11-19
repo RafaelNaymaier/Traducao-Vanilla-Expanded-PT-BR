@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: drank cider based cocktail -->
+  <VBE_CiderAsIngredient.label>bebeu coquetel à base de sidra</VBE_CiderAsIngredient.label>
+
+  <!-- EN: This colonist drank a cocktail that had cider as one of its ingredients. Many praise cider for its supposed antioxidant properties. Slightly removes toxic buildup. -->
+  <VBE_CiderAsIngredient.description>Este colono bebeu um coquetel que tinha sidra entre os ingredientes. Muitos elogiam as supostas propriedades antioxidantes da sidra. Reduz levemente o acúmulo tóxico.</VBE_CiderAsIngredient.description>
+
+  <!-- EN: cider high -->
+  <VBE_CiderHigh.label>embriaguez por sidra</VBE_CiderHigh.label>
+
+  <!-- EN: Alcohol from cider in the bloodstream. It makes people happy, but reduces capacities. Cannot cause alcohol addiction. Cannot get past the “warm” drunken stage no matter how many are downed. -->
+  <VBE_CiderHigh.description>Álcool de sidra na corrente sanguínea. Deixa as pessoas felizes, mas reduz suas capacidades. Não causa dependência de álcool. Nunca passa do estágio de embriaguez “calor”, por mais que se beba.</VBE_CiderHigh.description>
+
+  <!-- EN: a cider high -->
+  <VBE_CiderHigh.labelNoun>uma embriaguez por sidra</VBE_CiderHigh.labelNoun>
+
+  <!-- EN: warm -->
+  <VBE_CiderHigh.stages.warm.label>calor</VBE_CiderHigh.stages.warm.label>
+
+</LanguageData>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: make unfermented cider -->
+  <VBE_MakeUnfermentedCider.label>preparar sidra não fermentada</VBE_MakeUnfermentedCider.label>
+
+  <!-- EN: Make unfermented cider with a starter in an air-tight bottle. If left alone to develop the proper bacteria the end result will be a weak alcoholic beverage. -->
+  <VBE_MakeUnfermentedCider.description>Prepare sidra não fermentada com uma cultura inicial em uma garrafa hermética. Se deixada em repouso para desenvolver as bactérias adequadas, resulta em uma bebida de baixo teor alcoólico.</VBE_MakeUnfermentedCider.description>
+
+  <!-- EN: fruits -->
+  <VBE_MakeUnfermentedCider.ingredients.0.filter.customSummary>frutas</VBE_MakeUnfermentedCider.ingredients.0.filter.customSummary>
+
+  <!-- EN: Making unfermented cider. -->
+  <VBE_MakeUnfermentedCider.jobString>Preparando sidra não fermentada.</VBE_MakeUnfermentedCider.jobString>
+
+  <!-- EN: make tequila must from prickly pear -->
+  <VBE_MakeTequilaMustFromPears.label>preparar mosto para tequila com figo-da-índia</VBE_MakeTequilaMustFromPears.label>
+
+  <!-- EN: Make a thin mixture of prickly cactus pear and insect meat starter, ready to be cut and fermented in a barrel. -->
+  <VBE_MakeTequilaMustFromPears.description>Prepare uma mistura rala de figo-da-índia e uma cultura inicial de carne de inseto, pronta para ser diluída e fermentada em um barril.</VBE_MakeTequilaMustFromPears.description>
+
+  <!-- EN: Making tequila must. -->
+  <VBE_MakeTequilaMustFromPears.jobString>Preparando mosto para tequila.</VBE_MakeTequilaMustFromPears.jobString>
+
+</LanguageData>
+

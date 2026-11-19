@@ -3,6 +3,279 @@
   <v1.4>
     <li>/</li>
 
+    <!-- MOD_START: Vanilla Anomaly Expanded - Insanity -->
+    <!-- PACKAGE_ID: VanillaExpanded.VAnomalyEInsanity -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VAnomalyEInsanity">Mods/Vanilla Anomaly Expanded - Insanity</li>
+    <!-- MOD_END: Vanilla Anomaly Expanded - Insanity -->
+
+    <!-- MOD_START: Vanilla Apparel Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VAPPE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VAPPE">Mods/Vanilla Apparel Expanded</li>
+    <!-- MOD_END: Vanilla Apparel Expanded -->
+
+    <!-- MOD_START: Vanilla Apparel Expanded - Accessories -->
+    <!-- PACKAGE_ID: VanillaExpanded.VAEAccessories -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VAEAccessories">Mods/Vanilla Apparel Expanded - Accessories</li>
+    <!-- MOD_END: Vanilla Apparel Expanded - Accessories -->
+
+    <!-- MOD_START: Vanilla Armour Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VARME -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VARME">Mods/Vanilla Armour Expanded</li>
+    <!-- MOD_END: Vanilla Armour Expanded -->
+
+    <!-- MOD_START: Vanilla Aspirations Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaAspirationsExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/Anomaly</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/Biotech</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/Ideology</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/Royalty</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VEGenetics</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VFEClassical</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VFEDeserters</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VFEEmpire</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VFEPirates</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VFETribals</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VREAndroid</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VREArchon_Biotech</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VREFungoid</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VVETier3</li>
+    <!-- MOD_END: Vanilla Aspirations Expanded -->
+
+    <!-- MOD_START: Vanilla Backstories Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaBackstoriesExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaBackstoriesExpanded">Mods/Vanilla Backstories Expanded</li>
+    <!-- MOD_END: Vanilla Backstories Expanded -->
+
+    <!-- MOD_START: Vanilla Books Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VBooksE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VBooksE">Mods/Vanilla Books Expanded</li>
+    <!-- MOD_END: Vanilla Books Expanded -->
+
+    <!-- MOD_START: Vanilla Brewing Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VBrewE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/Compat/Achievements</li>
+    <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/Compat/Achievements_Cooking</li>
+    <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/Compat/Cooking</li>
+    <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/Compat/Plants</li>
+    <!-- MOD_END: Vanilla Brewing Expanded -->
+
+    <!-- MOD_START: Vanilla Brewing Expanded - Coffees and Teas -->
+    <!-- PACKAGE_ID: VanillaExpanded.VBrewECandT -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Brewing Expanded - Coffees and Teas</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/Cooking</li>
+    <li IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/Plants</li>
+    <!-- MOD_END: Vanilla Brewing Expanded - Coffees and Teas -->
+
+    <!-- MOD_START: Vanilla Chemfuel Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VChemfuelE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VChemfuelE">Mods/Vanilla Chemfuel Expanded</li>
+    <!-- MOD_END: Vanilla Chemfuel Expanded -->
+
+    <!-- MOD_START: Vanilla Christmas Expanded -->
+    <!-- PACKAGE_ID: VE.VanillaChristmasExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VE.VanillaChristmasExpanded">Mods/Vanilla Christmas Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VE.VanillaChristmasExpanded">Mods/Vanilla Christmas Expanded/Compat/Ideology</li>
+    <li IfModActive="VE.VanillaChristmasExpanded">Mods/Vanilla Christmas Expanded/Compat/Royalty</li>
+    <!-- MOD_END: Vanilla Christmas Expanded -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Cooking Expanded</li>
+    <!-- MOD_END: Vanilla Cooking Expanded -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded - Bakery -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookEBakery -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookEBakery">Mods/Vanilla Cooking Expanded - Bakery</li>
+    <!-- MOD_END: Vanilla Cooking Expanded - Bakery -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded - Haute Cuisine -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookEHaute -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookEHaute">Mods/Vanilla Cooking Expanded - Haute Cuisine</li>
+    <!-- MOD_END: Vanilla Cooking Expanded - Haute Cuisine -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded - Stews -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookEStews -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookEStews">Mods/Vanilla Cooking Expanded - Stews</li>
+    <!-- MOD_END: Vanilla Cooking Expanded - Stews -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded - Sushi -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookESushi -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookESushi">Mods/Vanilla Cooking Expanded - Sushi</li>
+    <!-- MOD_END: Vanilla Cooking Expanded - Sushi -->
+
+    <!-- MOD_START: Vanilla Events Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VEE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VEE">Mods/Vanilla Events Expanded</li>
+    <!-- MOD_END: Vanilla Events Expanded -->
+
+    <!-- MOD_START: Vanilla Expanded Framework -->
+    <!-- PACKAGE_ID: OskarPotocki.VanillaFactionsExpanded.Core -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Mods/Vanilla Expanded Framework</li>
+    <!-- MOD_END: Vanilla Expanded Framework -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Classical -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Classical -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Classical">Mods/Vanilla Factions Expanded - Classical</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Classical -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Deserters -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Deserters -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Deserters">Mods/Vanilla Factions Expanded - Deserters</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Deserters -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Empire -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Empire -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Empire">Mods/Vanilla Factions Expanded - Empire</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Empire -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Insectoids 2 -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Insectoid2 -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Insectoid2">Mods/Vanilla Factions Expanded - Insectoids 2</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Insectoids 2 -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Medieval 2 -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Medieval2 -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Medieval2">Mods/Vanilla Factions Expanded - Medieval 2</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Medieval 2 -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Pirates -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Pirates -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Pirates -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Settlers -->
+    <!-- PACKAGE_ID: OskarPotocki.VanillaFactionsExpanded.SettlersModule -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Factions Expanded - Settlers</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Settlers -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Tribals -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Tribals -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Tribals">Mods/Vanilla Factions Expanded - Tribals</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Tribals -->
+
+    <!-- MOD_START: Vanilla Food Variety Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaFoodVarietyExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaFoodVarietyExpanded">Mods/Vanilla Food Variety Expanded</li>
+    <!-- MOD_END: Vanilla Food Variety Expanded -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFECore -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFECore">Mods/Vanilla Furniture Expanded</li>
+    <!-- MOD_END: Vanilla Furniture Expanded -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Architect -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEArchitect -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEArchitect">Mods/Vanilla Furniture Expanded - Architect</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Architect -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Art -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEArt -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEArt">Mods/Vanilla Furniture Expanded - Art</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Art -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Factory -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEFactory -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/AlphaAnimals</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/alphabiomes</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/alphabooks</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/alphacrafts</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/Anomaly</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/Biotech</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/Cooking</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/Cooking_Odyssey</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/Cooking_Plants</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/genie</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/gravship</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/MoreLabStuff</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/Odyssey</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/VBrewE</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/VBrewECandT</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/VEGenetics</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/VFEClassical</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/VFEDeserters</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/VPlantsEMore</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Factory -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Farming -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEFarming -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEFarming">Mods/Vanilla Furniture Expanded - Farming</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Farming -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Medical Module -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEMedical -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEMedical">Mods/Vanilla Furniture Expanded - Medical Module</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Medical Module -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Power -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEPower -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEPower">Mods/Vanilla Furniture Expanded - Power</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Power -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Production -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEProduction -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEProduction">Mods/Vanilla Furniture Expanded - Production</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Production -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Security -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFESecurity -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFESecurity">Mods/Vanilla Furniture Expanded - Security</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Security -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Spacer Module -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFESpacer -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFESpacer">Mods/Vanilla Furniture Expanded - Spacer Module</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Spacer Module -->
+
     <!-- MOD_START: Vanilla Genetics Expanded -->
     <!-- PACKAGE_ID: VanillaExpanded.VGeneticsE -->
     <!-- Principal -->
@@ -67,11 +340,706 @@
     <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaVehiclesExpanded</li>
     <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaVehiclesExpandedTier3</li>
     <!-- MOD_END: Vanilla Furniture Expanded - Props And Decor -->
+
+    <!-- MOD_START: Vanilla Gravship Expanded - Chapter 1 -->
+    <!-- PACKAGE_ID: vanillaexpanded.gravship -->
+    <!-- Principal -->
+    <li IfModActive="vanillaexpanded.gravship">Mods/Vanilla Gravship Expanded - Chapter 1</li>
+    <!-- MOD_END: Vanilla Gravship Expanded - Chapter 1 -->
+
+    <!-- MOD_START: Vanilla Gravship Expanded - Chapter 2 -->
+    <!-- PACKAGE_ID: vanillaexpanded.gravship2 -->
+    <!-- Principal -->
+    <li IfModActive="vanillaexpanded.gravship2">Mods/Vanilla Gravship Expanded - Chapter 2</li>
+    <!-- MOD_END: Vanilla Gravship Expanded - Chapter 2 -->
+
+    <!-- MOD_START: Vanilla Hair Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VHE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VHE">Mods/Vanilla Hair Expanded</li>
+    <!-- MOD_END: Vanilla Hair Expanded -->
+
+    <!-- MOD_START: Vanilla Helixien Gas Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.HelixienGas -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.HelixienGas">Mods/Vanilla Helixien Gas Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.HelixienGas">Mods/Vanilla Helixien Gas Expanded/Compat/VFEPower</li>
+    <!-- MOD_END: Vanilla Helixien Gas Expanded -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Anima Theme -->
+    <!-- PACKAGE_ID: VanillaExpanded.VIEAT -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VIEAT">Mods/Vanilla Ideology Expanded - Anima Theme</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Anima Theme -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Dryads -->
+    <!-- PACKAGE_ID: VanillaExpanded.Ideo.Dryads -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Ideo.Dryads">Mods/Vanilla Ideology Expanded - Dryads</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Dryads -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Hats and Rags -->
+    <!-- PACKAGE_ID: VanillaExpanded.VIEHAR -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VIEHAR">Mods/Vanilla Ideology Expanded - Hats and Rags</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Hats and Rags -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Memes and Structures -->
+    <!-- PACKAGE_ID: VanillaExpanded.VMemesE -->
+    <!-- Principal: somente patches; traduções principais permanecem na raiz legada -->
+    <li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures</li>
+
+    <!-- Integrações de localização migradas -->
+    <li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/AlphaMemes</li>
+    <li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/Books</li>
+    <li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/Cooking</li>
+    <li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/Royalty</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Memes and Structures -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Relics and Artifacts -->
+    <!-- PACKAGE_ID: VanillaExpanded.Ideo.RelicsAndArtifacts -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Ideo.RelicsAndArtifacts">Mods/Vanilla Ideology Expanded - Relics and Artifacts</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Relics and Artifacts -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Sophian Style -->
+    <!-- PACKAGE_ID: VanillaExpanded.Ideo.SophianStyle -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Ideo.SophianStyle">Mods/Vanilla Ideology Expanded - Sophian Style</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Sophian Style -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Splits and Schisms -->
+    <!-- PACKAGE_ID: VanillaExpanded.VIESAS -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VIESAS">Mods/Vanilla Ideology Expanded - Splits and Schisms</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Splits and Schisms -->
+
+    <!-- MOD_START: Vanilla Nutrient Paste Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VNutrientE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VNutrientE">Mods/Vanilla Nutrient Paste Expanded</li>
+    <!-- MOD_END: Vanilla Nutrient Paste Expanded -->
+
+    <!-- MOD_START: Vanilla Outposts Expanded -->
+    <!-- PACKAGE_ID: vanillaexpanded.outposts -->
+    <!-- Principal -->
+    <li IfModActive="vanillaexpanded.outposts">Mods/Vanilla Outposts Expanded</li>
+    <!-- MOD_END: Vanilla Outposts Expanded -->
+
+    <!-- MOD_START: Vanilla Persona Weapons Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPersonaWeaponsE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPersonaWeaponsE">Mods/Vanilla Persona Weapons Expanded</li>
+    <!-- MOD_END: Vanilla Persona Weapons Expanded -->
+
+    <!-- MOD_START: Vanilla Plants Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPlantsE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Plants Expanded</li>
+    <!-- MOD_END: Vanilla Plants Expanded -->
+
+    <!-- MOD_START: Vanilla Plants Expanded - Flowers -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPEFlowers -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPEFlowers">Mods/Vanilla Plants Expanded - Flowers</li>
+    <!-- MOD_END: Vanilla Plants Expanded - Flowers -->
+
+    <!-- MOD_START: Vanilla Plants Expanded - More Plants -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPlantsEMore -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPlantsEMore">Mods/Vanilla Plants Expanded - More Plants</li>
+    <!-- MOD_END: Vanilla Plants Expanded - More Plants -->
+
+    <!-- MOD_START: Vanilla Plants Expanded - Mushrooms -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPlantsEMushrooms -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPlantsEMushrooms">Mods/Vanilla Plants Expanded - Mushrooms</li>
+    <!-- MOD_END: Vanilla Plants Expanded - Mushrooms -->
+
+    <!-- MOD_START: Vanilla Plants Expanded - Succulents -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPlantsESucculents -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPlantsESucculents">Mods/Vanilla Plants Expanded - Succulents</li>
+    <!-- MOD_END: Vanilla Plants Expanded - Succulents -->
+
+    <!-- MOD_START: Vanilla Psycasts Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPsycastsE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPsycastsE">Mods/Vanilla Psycasts Expanded</li>
+    <!-- MOD_END: Vanilla Psycasts Expanded -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - Ancients -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.ancients -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.ancients">Mods/Vanilla Quests Expanded - Ancients</li>
+    <!-- MOD_END: Vanilla Quests Expanded - Ancients -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - Cryptoforge -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.cryptoforge -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.cryptoforge">Mods/Vanilla Quests Expanded - Cryptoforge</li>
+    <!-- MOD_END: Vanilla Quests Expanded - Cryptoforge -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - Deadlife -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.deadlife -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.deadlife">Mods/Vanilla Quests Expanded - Deadlife</li>
+    <!-- MOD_END: Vanilla Quests Expanded - Deadlife -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - Drone Factory -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.dronefactory -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.dronefactory">Mods/Vanilla Quests Expanded - Drone Factory</li>
+
+    <!-- Integrações -->
+    <li IfModActive="vanillaquestsexpanded.dronefactory">Mods/Vanilla Quests Expanded - Drone Factory/Compat/VFEFactory</li>
+    <!-- MOD_END: Vanilla Quests Expanded - Drone Factory -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - The Generator -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.generator -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.generator">Mods/Vanilla Quests Expanded - The Generator</li>
+    <!-- MOD_END: Vanilla Quests Expanded - The Generator -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Android -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.android -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.android">Mods/Vanilla Races Expanded - Android</li>
+    <!-- MOD_END: Vanilla Races Expanded - Android -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Archon -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.archon -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.archon">Mods/Vanilla Races Expanded - Archon</li>
+    <!-- MOD_END: Vanilla Races Expanded - Archon -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Fungoid -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.fungoid -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.fungoid">Mods/Vanilla Races Expanded - Fungoid</li>
+    <!-- MOD_END: Vanilla Races Expanded - Fungoid -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Genie -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.genie -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.genie">Mods/Vanilla Races Expanded - Genie</li>
+    <!-- MOD_END: Vanilla Races Expanded - Genie -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Highmate -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.highmate -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.highmate">Mods/Vanilla Races Expanded - Highmate</li>
+    <!-- MOD_END: Vanilla Races Expanded - Highmate -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Hussar -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.hussar -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.hussar">Mods/Vanilla Races Expanded - Hussar</li>
+    <!-- MOD_END: Vanilla Races Expanded - Hussar -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Insector -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.insector -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.insector">Mods/Vanilla Races Expanded - Insector</li>
+    <!-- MOD_END: Vanilla Races Expanded - Insector -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Lycanthrope -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.lycanthrope -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.lycanthrope">Mods/Vanilla Races Expanded - Lycanthrope</li>
+    <!-- MOD_END: Vanilla Races Expanded - Lycanthrope -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Phytokin -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.phytokin -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.phytokin">Mods/Vanilla Races Expanded - Phytokin</li>
+    <!-- MOD_END: Vanilla Races Expanded - Phytokin -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Pigskin -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.pigskin -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.pigskin">Mods/Vanilla Races Expanded - Pigskin</li>
+    <!-- MOD_END: Vanilla Races Expanded - Pigskin -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Sanguophage -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.sanguophage -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.sanguophage">Mods/Vanilla Races Expanded - Sanguophage</li>
+    <!-- MOD_END: Vanilla Races Expanded - Sanguophage -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Saurid -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.saurid -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.saurid">Mods/Vanilla Races Expanded - Saurid</li>
+    <!-- MOD_END: Vanilla Races Expanded - Saurid -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Starjack -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.starjack -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.starjack">Mods/Vanilla Races Expanded - Starjack</li>
+    <!-- MOD_END: Vanilla Races Expanded - Starjack -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Waster -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.waster -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.waster">Mods/Vanilla Races Expanded - Waster</li>
+    <!-- MOD_END: Vanilla Races Expanded - Waster -->
+
+    <!-- MOD_START: Vanilla Recycling Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.Recycling -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Recycling">Mods/Vanilla Recycling Expanded</li>
+    <!-- MOD_END: Vanilla Recycling Expanded -->
+
+    <!-- MOD_START: Vanilla Skills Expanded -->
+    <!-- PACKAGE_ID: vanillaexpanded.skills -->
+    <!-- Principal -->
+    <li IfModActive="vanillaexpanded.skills">Mods/Vanilla Skills Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="vanillaexpanded.skills">Mods/Vanilla Skills Expanded/Compat/Anomaly</li>
+    <li IfModActive="vanillaexpanded.skills">Mods/Vanilla Skills Expanded/Compat/Books</li>
+    <li IfModActive="vanillaexpanded.skills">Mods/Vanilla Skills Expanded/Compat/highmate</li>
+    <li IfModActive="vanillaexpanded.skills">Mods/Vanilla Skills Expanded/Compat/Ideology</li>
+    <!-- MOD_END: Vanilla Skills Expanded -->
+
+    <!-- MOD_START: Vanilla Social Interactions Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaSocialInteractionsExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaSocialInteractionsExpanded">Mods/Vanilla Social Interactions Expanded</li>
+    <!-- MOD_END: Vanilla Social Interactions Expanded -->
+
+    <!-- MOD_START: Vanilla Storytellers Expanded - Perry Persistent -->
+    <!-- PACKAGE_ID: VSE.PerryPersistent -->
+    <!-- Principal -->
+    <li IfModActive="VSE.PerryPersistent">Mods/Vanilla Storytellers Expanded - Perry Persistent</li>
+    <!-- MOD_END: Vanilla Storytellers Expanded - Perry Persistent -->
+
+    <!-- MOD_START: Vanilla Storytellers Expanded - Winston Waves -->
+    <!-- PACKAGE_ID: VanillaStorytellersExpanded.WinstonWave -->
+    <!-- Principal -->
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/AlphaAnimals</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/AlphaGenes</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/alphaimplants</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/alphamechs</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/AlphaPrefabs</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/alpharandom</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/ancients</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Anomaly</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Biotech</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Insectoid2</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Odyssey</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Royalty</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Vehicles</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/VFEDeserters</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/VFEPirates</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/VWEHW</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/VWEL</li>
+    <!-- MOD_END: Vanilla Storytellers Expanded - Winston Waves -->
+
+    <!-- MOD_START: Vanilla Temperature Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.Temperature -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Temperature">Mods/Vanilla Temperature Expanded</li>
+    <!-- MOD_END: Vanilla Temperature Expanded -->
+
+    <!-- MOD_START: Vanilla Textures Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VTEXE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VTEXE">Mods/Vanilla Textures Expanded</li>
+    <!-- MOD_END: Vanilla Textures Expanded -->
+
+    <!-- MOD_START: Vanilla Trading Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaTradingExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaTradingExpanded">Mods/Vanilla Trading Expanded</li>
+    <!-- MOD_END: Vanilla Trading Expanded -->
+
+    <!-- MOD_START: Vanilla Vehicles Expanded -->
+    <!-- PACKAGE_ID: OskarPotocki.VanillaVehiclesExpanded -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VanillaVehiclesExpanded">Mods/Vanilla Vehicles Expanded</li>
+    <!-- MOD_END: Vanilla Vehicles Expanded -->
+
+    <!-- MOD_START: Vanilla Vehicles Expanded - Tier 3 -->
+    <!-- PACKAGE_ID: OskarPotocki.VanillaVehiclesExpandedTier3 -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VanillaVehiclesExpandedTier3">Mods/Vanilla Vehicles Expanded - Tier 3</li>
+    <!-- MOD_END: Vanilla Vehicles Expanded - Tier 3 -->
+
+    <!-- MOD_START: Vanilla Vehicles Expanded - Upgrades -->
+    <!-- PACKAGE_ID: oskarpotocki.vanillavehiclesexpandedupgrades -->
+    <!-- Principal -->
+    <li IfModActive="oskarpotocki.vanillavehiclesexpandedupgrades">Mods/Vanilla Vehicles Expanded - Upgrades</li>
+    <!-- MOD_END: Vanilla Vehicles Expanded - Upgrades -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey_Anomaly</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey_cryptoforge</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey_deadlife</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey_Medieval2</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VAnomalyEInsanity</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VFEDeserters</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VFEEmpire</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VWEFT</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VWEMS</li>
+    <!-- MOD_END: Vanilla Weapons Expanded -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Bioferrite -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEBF -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEBF">Mods/Vanilla Weapons Expanded - Bioferrite</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Bioferrite -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Coilguns -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEC -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Coilguns</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Coilguns -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Frontier -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEFT -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Frontier -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Grenades -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEG -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEG">Mods/Vanilla Weapons Expanded - Grenades</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Grenades -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Heavy Weapons -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEHW -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEHW">Mods/Vanilla Weapons Expanded - Heavy Weapons</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Heavy Weapons -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Laser -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEL -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Weapons Expanded - Laser</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Laser -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Makeshift -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEMS -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEMS">Mods/Vanilla Weapons Expanded - Makeshift</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Makeshift -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Non-Lethal -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWENL -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWENL">Mods/Vanilla Weapons Expanded - Non-Lethal</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Non-Lethal -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - QuickDrawn -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEQ -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - QuickDrawn</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - QuickDrawn -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Tribal -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWETB -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWETB">Mods/Vanilla Weapons Expanded - Tribal</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Tribal -->
+
+    <!-- MOD_START: Vehicle Framework -->
+    <!-- PACKAGE_ID: SmashPhil.VehicleFramework -->
+    <!-- Principal -->
+    <li IfModActive="SmashPhil.VehicleFramework">Mods/Vehicle Framework</li>
+    <!-- MOD_END: Vehicle Framework -->
+
   </v1.4>
 
   <v1.5>
     <li>/</li>
 
+    <!-- MOD_START: Vanilla Anomaly Expanded - Insanity -->
+    <!-- PACKAGE_ID: VanillaExpanded.VAnomalyEInsanity -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VAnomalyEInsanity">Mods/Vanilla Anomaly Expanded - Insanity</li>
+    <!-- MOD_END: Vanilla Anomaly Expanded - Insanity -->
+
+    <!-- MOD_START: Vanilla Apparel Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VAPPE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VAPPE">Mods/Vanilla Apparel Expanded</li>
+    <!-- MOD_END: Vanilla Apparel Expanded -->
+
+    <!-- MOD_START: Vanilla Apparel Expanded - Accessories -->
+    <!-- PACKAGE_ID: VanillaExpanded.VAEAccessories -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VAEAccessories">Mods/Vanilla Apparel Expanded - Accessories</li>
+    <!-- MOD_END: Vanilla Apparel Expanded - Accessories -->
+
+    <!-- MOD_START: Vanilla Armour Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VARME -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VARME">Mods/Vanilla Armour Expanded</li>
+    <!-- MOD_END: Vanilla Armour Expanded -->
+
+    <!-- MOD_START: Vanilla Aspirations Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaAspirationsExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/Anomaly</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/Biotech</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/Ideology</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/Royalty</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VEGenetics</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VFEClassical</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VFEDeserters</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VFEEmpire</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VFEPirates</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VFETribals</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VREAndroid</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VREArchon_Biotech</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VREFungoid</li>
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded/Compat/VVETier3</li>
+    <!-- MOD_END: Vanilla Aspirations Expanded -->
+
+    <!-- MOD_START: Vanilla Backstories Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaBackstoriesExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaBackstoriesExpanded">Mods/Vanilla Backstories Expanded</li>
+    <!-- MOD_END: Vanilla Backstories Expanded -->
+
+    <!-- MOD_START: Vanilla Books Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VBooksE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VBooksE">Mods/Vanilla Books Expanded</li>
+    <!-- MOD_END: Vanilla Books Expanded -->
+
+    <!-- MOD_START: Vanilla Brewing Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VBrewE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/Compat/Achievements</li>
+    <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/Compat/Achievements_Cooking</li>
+    <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/Compat/Cooking</li>
+    <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/Compat/Plants</li>
+    <!-- MOD_END: Vanilla Brewing Expanded -->
+
+    <!-- MOD_START: Vanilla Brewing Expanded - Coffees and Teas -->
+    <!-- PACKAGE_ID: VanillaExpanded.VBrewECandT -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Brewing Expanded - Coffees and Teas</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/Cooking</li>
+    <li IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/Plants</li>
+    <!-- MOD_END: Vanilla Brewing Expanded - Coffees and Teas -->
+
+    <!-- MOD_START: Vanilla Chemfuel Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VChemfuelE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VChemfuelE">Mods/Vanilla Chemfuel Expanded</li>
+    <!-- MOD_END: Vanilla Chemfuel Expanded -->
+
+    <!-- MOD_START: Vanilla Christmas Expanded -->
+    <!-- PACKAGE_ID: VE.VanillaChristmasExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VE.VanillaChristmasExpanded">Mods/Vanilla Christmas Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VE.VanillaChristmasExpanded">Mods/Vanilla Christmas Expanded/Compat/Ideology</li>
+    <li IfModActive="VE.VanillaChristmasExpanded">Mods/Vanilla Christmas Expanded/Compat/Royalty</li>
+    <!-- MOD_END: Vanilla Christmas Expanded -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Cooking Expanded</li>
+    <!-- MOD_END: Vanilla Cooking Expanded -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded - Bakery -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookEBakery -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookEBakery">Mods/Vanilla Cooking Expanded - Bakery</li>
+    <!-- MOD_END: Vanilla Cooking Expanded - Bakery -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded - Haute Cuisine -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookEHaute -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookEHaute">Mods/Vanilla Cooking Expanded - Haute Cuisine</li>
+    <!-- MOD_END: Vanilla Cooking Expanded - Haute Cuisine -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded - Stews -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookEStews -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookEStews">Mods/Vanilla Cooking Expanded - Stews</li>
+    <!-- MOD_END: Vanilla Cooking Expanded - Stews -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded - Sushi -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookESushi -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookESushi">Mods/Vanilla Cooking Expanded - Sushi</li>
+    <!-- MOD_END: Vanilla Cooking Expanded - Sushi -->
+
+    <!-- MOD_START: Vanilla Events Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VEE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VEE">Mods/Vanilla Events Expanded</li>
+    <!-- MOD_END: Vanilla Events Expanded -->
+
+    <!-- MOD_START: Vanilla Expanded Framework -->
+    <!-- PACKAGE_ID: OskarPotocki.VanillaFactionsExpanded.Core -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Mods/Vanilla Expanded Framework</li>
+    <!-- MOD_END: Vanilla Expanded Framework -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Classical -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Classical -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Classical">Mods/Vanilla Factions Expanded - Classical</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Classical -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Deserters -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Deserters -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Deserters">Mods/Vanilla Factions Expanded - Deserters</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Deserters -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Empire -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Empire -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Empire">Mods/Vanilla Factions Expanded - Empire</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Empire -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Insectoids 2 -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Insectoid2 -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Insectoid2">Mods/Vanilla Factions Expanded - Insectoids 2</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Insectoids 2 -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Medieval 2 -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Medieval2 -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Medieval2">Mods/Vanilla Factions Expanded - Medieval 2</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Medieval 2 -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Pirates -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Pirates -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Pirates -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Settlers -->
+    <!-- PACKAGE_ID: OskarPotocki.VanillaFactionsExpanded.SettlersModule -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Factions Expanded - Settlers</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Settlers -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Tribals -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Tribals -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Tribals">Mods/Vanilla Factions Expanded - Tribals</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Tribals -->
+
+    <!-- MOD_START: Vanilla Food Variety Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaFoodVarietyExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaFoodVarietyExpanded">Mods/Vanilla Food Variety Expanded</li>
+    <!-- MOD_END: Vanilla Food Variety Expanded -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFECore -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFECore">Mods/Vanilla Furniture Expanded</li>
+    <!-- MOD_END: Vanilla Furniture Expanded -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Architect -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEArchitect -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEArchitect">Mods/Vanilla Furniture Expanded - Architect</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Architect -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Art -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEArt -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEArt">Mods/Vanilla Furniture Expanded - Art</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Art -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Factory -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEFactory -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/AlphaAnimals</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/alphabiomes</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/alphabooks</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/alphacrafts</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/Anomaly</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/Biotech</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/Cooking</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/Cooking_Odyssey</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/Cooking_Plants</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/genie</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/gravship</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/MoreLabStuff</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/Odyssey</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/VBrewE</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/VBrewECandT</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/VEGenetics</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/VFEClassical</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/VFEDeserters</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory/Compat/VPlantsEMore</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Factory -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Farming -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEFarming -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEFarming">Mods/Vanilla Furniture Expanded - Farming</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Farming -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Medical Module -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEMedical -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEMedical">Mods/Vanilla Furniture Expanded - Medical Module</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Medical Module -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Power -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEPower -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEPower">Mods/Vanilla Furniture Expanded - Power</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Power -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Production -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEProduction -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEProduction">Mods/Vanilla Furniture Expanded - Production</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Production -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Security -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFESecurity -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFESecurity">Mods/Vanilla Furniture Expanded - Security</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Security -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Spacer Module -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFESpacer -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFESpacer">Mods/Vanilla Furniture Expanded - Spacer Module</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Spacer Module -->
+
     <!-- MOD_START: Vanilla Genetics Expanded -->
     <!-- PACKAGE_ID: VanillaExpanded.VGeneticsE -->
     <!-- Principal -->
@@ -136,10 +1104,705 @@
     <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaVehiclesExpanded</li>
     <li IfModActive="VanillaExpanded.VFEPropsandDecor">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaVehiclesExpandedTier3</li>
     <!-- MOD_END: Vanilla Furniture Expanded - Props And Decor -->
+
+    <!-- MOD_START: Vanilla Gravship Expanded - Chapter 1 -->
+    <!-- PACKAGE_ID: vanillaexpanded.gravship -->
+    <!-- Principal -->
+    <li IfModActive="vanillaexpanded.gravship">Mods/Vanilla Gravship Expanded - Chapter 1</li>
+    <!-- MOD_END: Vanilla Gravship Expanded - Chapter 1 -->
+
+    <!-- MOD_START: Vanilla Gravship Expanded - Chapter 2 -->
+    <!-- PACKAGE_ID: vanillaexpanded.gravship2 -->
+    <!-- Principal -->
+    <li IfModActive="vanillaexpanded.gravship2">Mods/Vanilla Gravship Expanded - Chapter 2</li>
+    <!-- MOD_END: Vanilla Gravship Expanded - Chapter 2 -->
+
+    <!-- MOD_START: Vanilla Hair Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VHE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VHE">Mods/Vanilla Hair Expanded</li>
+    <!-- MOD_END: Vanilla Hair Expanded -->
+
+    <!-- MOD_START: Vanilla Helixien Gas Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.HelixienGas -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.HelixienGas">Mods/Vanilla Helixien Gas Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.HelixienGas">Mods/Vanilla Helixien Gas Expanded/Compat/VFEPower</li>
+    <!-- MOD_END: Vanilla Helixien Gas Expanded -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Anima Theme -->
+    <!-- PACKAGE_ID: VanillaExpanded.VIEAT -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VIEAT">Mods/Vanilla Ideology Expanded - Anima Theme</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Anima Theme -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Dryads -->
+    <!-- PACKAGE_ID: VanillaExpanded.Ideo.Dryads -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Ideo.Dryads">Mods/Vanilla Ideology Expanded - Dryads</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Dryads -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Hats and Rags -->
+    <!-- PACKAGE_ID: VanillaExpanded.VIEHAR -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VIEHAR">Mods/Vanilla Ideology Expanded - Hats and Rags</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Hats and Rags -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Memes and Structures -->
+    <!-- PACKAGE_ID: VanillaExpanded.VMemesE -->
+    <!-- Principal: somente patches; traduções principais permanecem na raiz legada -->
+    <li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures</li>
+
+    <!-- Integrações de localização migradas -->
+    <li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/AlphaMemes</li>
+    <li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/Books</li>
+    <li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/Cooking</li>
+    <li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/Royalty</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Memes and Structures -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Relics and Artifacts -->
+    <!-- PACKAGE_ID: VanillaExpanded.Ideo.RelicsAndArtifacts -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Ideo.RelicsAndArtifacts">Mods/Vanilla Ideology Expanded - Relics and Artifacts</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Relics and Artifacts -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Sophian Style -->
+    <!-- PACKAGE_ID: VanillaExpanded.Ideo.SophianStyle -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Ideo.SophianStyle">Mods/Vanilla Ideology Expanded - Sophian Style</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Sophian Style -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Splits and Schisms -->
+    <!-- PACKAGE_ID: VanillaExpanded.VIESAS -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VIESAS">Mods/Vanilla Ideology Expanded - Splits and Schisms</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Splits and Schisms -->
+
+    <!-- MOD_START: Vanilla Nutrient Paste Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VNutrientE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VNutrientE">Mods/Vanilla Nutrient Paste Expanded</li>
+    <!-- MOD_END: Vanilla Nutrient Paste Expanded -->
+
+    <!-- MOD_START: Vanilla Outposts Expanded -->
+    <!-- PACKAGE_ID: vanillaexpanded.outposts -->
+    <!-- Principal -->
+    <li IfModActive="vanillaexpanded.outposts">Mods/Vanilla Outposts Expanded</li>
+    <!-- MOD_END: Vanilla Outposts Expanded -->
+
+    <!-- MOD_START: Vanilla Persona Weapons Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPersonaWeaponsE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPersonaWeaponsE">Mods/Vanilla Persona Weapons Expanded</li>
+    <!-- MOD_END: Vanilla Persona Weapons Expanded -->
+
+    <!-- MOD_START: Vanilla Plants Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPlantsE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Plants Expanded</li>
+    <!-- MOD_END: Vanilla Plants Expanded -->
+
+    <!-- MOD_START: Vanilla Plants Expanded - Flowers -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPEFlowers -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPEFlowers">Mods/Vanilla Plants Expanded - Flowers</li>
+    <!-- MOD_END: Vanilla Plants Expanded - Flowers -->
+
+    <!-- MOD_START: Vanilla Plants Expanded - More Plants -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPlantsEMore -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPlantsEMore">Mods/Vanilla Plants Expanded - More Plants</li>
+    <!-- MOD_END: Vanilla Plants Expanded - More Plants -->
+
+    <!-- MOD_START: Vanilla Plants Expanded - Mushrooms -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPlantsEMushrooms -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPlantsEMushrooms">Mods/Vanilla Plants Expanded - Mushrooms</li>
+    <!-- MOD_END: Vanilla Plants Expanded - Mushrooms -->
+
+    <!-- MOD_START: Vanilla Plants Expanded - Succulents -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPlantsESucculents -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPlantsESucculents">Mods/Vanilla Plants Expanded - Succulents</li>
+    <!-- MOD_END: Vanilla Plants Expanded - Succulents -->
+
+    <!-- MOD_START: Vanilla Psycasts Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPsycastsE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPsycastsE">Mods/Vanilla Psycasts Expanded</li>
+    <!-- MOD_END: Vanilla Psycasts Expanded -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - Ancients -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.ancients -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.ancients">Mods/Vanilla Quests Expanded - Ancients</li>
+    <!-- MOD_END: Vanilla Quests Expanded - Ancients -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - Cryptoforge -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.cryptoforge -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.cryptoforge">Mods/Vanilla Quests Expanded - Cryptoforge</li>
+    <!-- MOD_END: Vanilla Quests Expanded - Cryptoforge -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - Deadlife -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.deadlife -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.deadlife">Mods/Vanilla Quests Expanded - Deadlife</li>
+    <!-- MOD_END: Vanilla Quests Expanded - Deadlife -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - Drone Factory -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.dronefactory -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.dronefactory">Mods/Vanilla Quests Expanded - Drone Factory</li>
+
+    <!-- Integrações -->
+    <li IfModActive="vanillaquestsexpanded.dronefactory">Mods/Vanilla Quests Expanded - Drone Factory/Compat/VFEFactory</li>
+    <!-- MOD_END: Vanilla Quests Expanded - Drone Factory -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - The Generator -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.generator -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.generator">Mods/Vanilla Quests Expanded - The Generator</li>
+    <!-- MOD_END: Vanilla Quests Expanded - The Generator -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Android -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.android -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.android">Mods/Vanilla Races Expanded - Android</li>
+    <!-- MOD_END: Vanilla Races Expanded - Android -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Archon -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.archon -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.archon">Mods/Vanilla Races Expanded - Archon</li>
+    <!-- MOD_END: Vanilla Races Expanded - Archon -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Fungoid -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.fungoid -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.fungoid">Mods/Vanilla Races Expanded - Fungoid</li>
+    <!-- MOD_END: Vanilla Races Expanded - Fungoid -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Genie -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.genie -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.genie">Mods/Vanilla Races Expanded - Genie</li>
+    <!-- MOD_END: Vanilla Races Expanded - Genie -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Highmate -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.highmate -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.highmate">Mods/Vanilla Races Expanded - Highmate</li>
+    <!-- MOD_END: Vanilla Races Expanded - Highmate -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Hussar -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.hussar -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.hussar">Mods/Vanilla Races Expanded - Hussar</li>
+    <!-- MOD_END: Vanilla Races Expanded - Hussar -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Insector -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.insector -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.insector">Mods/Vanilla Races Expanded - Insector</li>
+    <!-- MOD_END: Vanilla Races Expanded - Insector -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Lycanthrope -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.lycanthrope -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.lycanthrope">Mods/Vanilla Races Expanded - Lycanthrope</li>
+    <!-- MOD_END: Vanilla Races Expanded - Lycanthrope -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Phytokin -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.phytokin -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.phytokin">Mods/Vanilla Races Expanded - Phytokin</li>
+    <!-- MOD_END: Vanilla Races Expanded - Phytokin -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Pigskin -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.pigskin -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.pigskin">Mods/Vanilla Races Expanded - Pigskin</li>
+    <!-- MOD_END: Vanilla Races Expanded - Pigskin -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Sanguophage -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.sanguophage -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.sanguophage">Mods/Vanilla Races Expanded - Sanguophage</li>
+    <!-- MOD_END: Vanilla Races Expanded - Sanguophage -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Saurid -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.saurid -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.saurid">Mods/Vanilla Races Expanded - Saurid</li>
+    <!-- MOD_END: Vanilla Races Expanded - Saurid -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Starjack -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.starjack -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.starjack">Mods/Vanilla Races Expanded - Starjack</li>
+    <!-- MOD_END: Vanilla Races Expanded - Starjack -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Waster -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.waster -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.waster">Mods/Vanilla Races Expanded - Waster</li>
+    <!-- MOD_END: Vanilla Races Expanded - Waster -->
+
+    <!-- MOD_START: Vanilla Recycling Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.Recycling -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Recycling">Mods/Vanilla Recycling Expanded</li>
+    <!-- MOD_END: Vanilla Recycling Expanded -->
+
+    <!-- MOD_START: Vanilla Skills Expanded -->
+    <!-- PACKAGE_ID: vanillaexpanded.skills -->
+    <!-- Principal -->
+    <li IfModActive="vanillaexpanded.skills">Mods/Vanilla Skills Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="vanillaexpanded.skills">Mods/Vanilla Skills Expanded/Compat/Anomaly</li>
+    <li IfModActive="vanillaexpanded.skills">Mods/Vanilla Skills Expanded/Compat/Books</li>
+    <li IfModActive="vanillaexpanded.skills">Mods/Vanilla Skills Expanded/Compat/highmate</li>
+    <li IfModActive="vanillaexpanded.skills">Mods/Vanilla Skills Expanded/Compat/Ideology</li>
+    <!-- MOD_END: Vanilla Skills Expanded -->
+
+    <!-- MOD_START: Vanilla Social Interactions Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaSocialInteractionsExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaSocialInteractionsExpanded">Mods/Vanilla Social Interactions Expanded</li>
+    <!-- MOD_END: Vanilla Social Interactions Expanded -->
+
+    <!-- MOD_START: Vanilla Storytellers Expanded - Perry Persistent -->
+    <!-- PACKAGE_ID: VSE.PerryPersistent -->
+    <!-- Principal -->
+    <li IfModActive="VSE.PerryPersistent">Mods/Vanilla Storytellers Expanded - Perry Persistent</li>
+    <!-- MOD_END: Vanilla Storytellers Expanded - Perry Persistent -->
+
+    <!-- MOD_START: Vanilla Storytellers Expanded - Winston Waves -->
+    <!-- PACKAGE_ID: VanillaStorytellersExpanded.WinstonWave -->
+    <!-- Principal -->
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/AlphaAnimals</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/AlphaGenes</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/alphaimplants</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/alphamechs</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/AlphaPrefabs</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/alpharandom</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/ancients</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Anomaly</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Biotech</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Insectoid2</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Odyssey</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Royalty</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Vehicles</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/VFEDeserters</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/VFEPirates</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/VWEHW</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/VWEL</li>
+    <!-- MOD_END: Vanilla Storytellers Expanded - Winston Waves -->
+
+    <!-- MOD_START: Vanilla Temperature Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.Temperature -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Temperature">Mods/Vanilla Temperature Expanded</li>
+    <!-- MOD_END: Vanilla Temperature Expanded -->
+
+    <!-- MOD_START: Vanilla Textures Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VTEXE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VTEXE">Mods/Vanilla Textures Expanded</li>
+    <!-- MOD_END: Vanilla Textures Expanded -->
+
+    <!-- MOD_START: Vanilla Trading Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaTradingExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaTradingExpanded">Mods/Vanilla Trading Expanded</li>
+    <!-- MOD_END: Vanilla Trading Expanded -->
+
+    <!-- MOD_START: Vanilla Vehicles Expanded -->
+    <!-- PACKAGE_ID: OskarPotocki.VanillaVehiclesExpanded -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VanillaVehiclesExpanded">Mods/Vanilla Vehicles Expanded</li>
+    <!-- MOD_END: Vanilla Vehicles Expanded -->
+
+    <!-- MOD_START: Vanilla Vehicles Expanded - Tier 3 -->
+    <!-- PACKAGE_ID: OskarPotocki.VanillaVehiclesExpandedTier3 -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VanillaVehiclesExpandedTier3">Mods/Vanilla Vehicles Expanded - Tier 3</li>
+    <!-- MOD_END: Vanilla Vehicles Expanded - Tier 3 -->
+
+    <!-- MOD_START: Vanilla Vehicles Expanded - Upgrades -->
+    <!-- PACKAGE_ID: oskarpotocki.vanillavehiclesexpandedupgrades -->
+    <!-- Principal -->
+    <li IfModActive="oskarpotocki.vanillavehiclesexpandedupgrades">Mods/Vanilla Vehicles Expanded - Upgrades</li>
+    <!-- MOD_END: Vanilla Vehicles Expanded - Upgrades -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey_Anomaly</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey_cryptoforge</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey_deadlife</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey_Medieval2</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VAnomalyEInsanity</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VFEDeserters</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VFEEmpire</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VWEFT</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VWEMS</li>
+    <!-- MOD_END: Vanilla Weapons Expanded -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Bioferrite -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEBF -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEBF">Mods/Vanilla Weapons Expanded - Bioferrite</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Bioferrite -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Coilguns -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEC -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Coilguns</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Coilguns -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Frontier -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEFT -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Frontier -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Grenades -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEG -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEG">Mods/Vanilla Weapons Expanded - Grenades</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Grenades -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Heavy Weapons -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEHW -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEHW">Mods/Vanilla Weapons Expanded - Heavy Weapons</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Heavy Weapons -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Laser -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEL -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Weapons Expanded - Laser</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Laser -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Makeshift -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEMS -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEMS">Mods/Vanilla Weapons Expanded - Makeshift</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Makeshift -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Non-Lethal -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWENL -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWENL">Mods/Vanilla Weapons Expanded - Non-Lethal</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Non-Lethal -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - QuickDrawn -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEQ -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - QuickDrawn</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - QuickDrawn -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Tribal -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWETB -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWETB">Mods/Vanilla Weapons Expanded - Tribal</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Tribal -->
+
+    <!-- MOD_START: Vehicle Framework -->
+    <!-- PACKAGE_ID: SmashPhil.VehicleFramework -->
+    <!-- Principal -->
+    <li IfModActive="SmashPhil.VehicleFramework">Mods/Vehicle Framework</li>
+    <!-- MOD_END: Vehicle Framework -->
+
   </v1.5>
 
   <v1.6>
     <li>/</li>
+
+    <!-- MOD_START: Vanilla Anomaly Expanded - Insanity -->
+    <!-- PACKAGE_ID: VanillaExpanded.VAnomalyEInsanity -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VAnomalyEInsanity">Mods/Vanilla Anomaly Expanded - Insanity</li>
+    <!-- MOD_END: Vanilla Anomaly Expanded - Insanity -->
+
+    <!-- MOD_START: Vanilla Apparel Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VAPPE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VAPPE">Mods/Vanilla Apparel Expanded</li>
+    <!-- MOD_END: Vanilla Apparel Expanded -->
+
+    <!-- MOD_START: Vanilla Apparel Expanded - Accessories -->
+    <!-- PACKAGE_ID: VanillaExpanded.VAEAccessories -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VAEAccessories">Mods/Vanilla Apparel Expanded - Accessories</li>
+    <!-- MOD_END: Vanilla Apparel Expanded - Accessories -->
+
+    <!-- MOD_START: Vanilla Armour Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VARME -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VARME">Mods/Vanilla Armour Expanded</li>
+    <!-- MOD_END: Vanilla Armour Expanded -->
+
+    <!-- MOD_START: Vanilla Aspirations Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaAspirationsExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,Ludeon.RimWorld.Anomaly">Mods/Vanilla Aspirations Expanded/Compat/Anomaly</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,Ludeon.RimWorld.Biotech">Mods/Vanilla Aspirations Expanded/Compat/Biotech</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,Ludeon.RimWorld.Ideology">Mods/Vanilla Aspirations Expanded/Compat/Ideology</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,Ludeon.RimWorld.Royalty">Mods/Vanilla Aspirations Expanded/Compat/Royalty</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,VanillaExpanded.VGeneticsE">Mods/Vanilla Aspirations Expanded/Compat/VEGenetics</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,OskarPotocki.VFE.Classical">Mods/Vanilla Aspirations Expanded/Compat/VFEClassical</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,OskarPotocki.VFE.Deserters">Mods/Vanilla Aspirations Expanded/Compat/VFEDeserters</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,OskarPotocki.VFE.Empire">Mods/Vanilla Aspirations Expanded/Compat/VFEEmpire</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,OskarPotocki.VFE.Pirates">Mods/Vanilla Aspirations Expanded/Compat/VFEPirates</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,OskarPotocki.VFE.Tribals">Mods/Vanilla Aspirations Expanded/Compat/VFETribals</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,vanillaracesexpanded.android">Mods/Vanilla Aspirations Expanded/Compat/VREAndroid</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,Ludeon.RimWorld.Biotech,vanillaracesexpanded.archon">Mods/Vanilla Aspirations Expanded/Compat/VREArchon_Biotech</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,vanillaracesexpanded.fungoid">Mods/Vanilla Aspirations Expanded/Compat/VREFungoid</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,OskarPotocki.VanillaVehiclesExpandedTier3">Mods/Vanilla Aspirations Expanded/Compat/VVETier3</li>
+    <!-- MOD_END: Vanilla Aspirations Expanded -->
+
+    <!-- MOD_START: Vanilla Backstories Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaBackstoriesExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaBackstoriesExpanded">Mods/Vanilla Backstories Expanded</li>
+    <!-- MOD_END: Vanilla Backstories Expanded -->
+
+    <!-- MOD_START: Vanilla Books Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VBooksE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VBooksE">Mods/Vanilla Books Expanded</li>
+    <!-- MOD_END: Vanilla Books Expanded -->
+
+    <!-- MOD_START: Vanilla Brewing Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VBrewE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VBrewE,vanillaexpanded.achievements">Mods/Vanilla Brewing Expanded/Compat/Achievements</li>
+    <li IfModActiveAll="VanillaExpanded.VBrewE,vanillaexpanded.achievements,VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded/Compat/Achievements_Cooking</li>
+    <li IfModActiveAll="VanillaExpanded.VBrewE,VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded/Compat/Cooking</li>
+    <li IfModActiveAll="VanillaExpanded.VBrewE,VanillaExpanded.VPlantsE">Mods/Vanilla Brewing Expanded/Compat/Plants</li>
+    <!-- MOD_END: Vanilla Brewing Expanded -->
+
+    <!-- MOD_START: Vanilla Brewing Expanded - Coffees and Teas -->
+    <!-- PACKAGE_ID: VanillaExpanded.VBrewECandT -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Brewing Expanded - Coffees and Teas</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VBrewECandT,VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/Cooking</li>
+    <li IfModActiveAll="VanillaExpanded.VBrewECandT,VanillaExpanded.VPlantsE">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/Plants</li>
+    <!-- MOD_END: Vanilla Brewing Expanded - Coffees and Teas -->
+
+    <!-- MOD_START: Vanilla Chemfuel Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VChemfuelE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VChemfuelE">Mods/Vanilla Chemfuel Expanded</li>
+    <!-- MOD_END: Vanilla Chemfuel Expanded -->
+
+    <!-- MOD_START: Vanilla Christmas Expanded -->
+    <!-- PACKAGE_ID: VE.VanillaChristmasExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VE.VanillaChristmasExpanded">Mods/Vanilla Christmas Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VE.VanillaChristmasExpanded,Ludeon.RimWorld.Ideology">Mods/Vanilla Christmas Expanded/Compat/Ideology</li>
+    <li IfModActiveAll="VE.VanillaChristmasExpanded,Ludeon.RimWorld.Royalty">Mods/Vanilla Christmas Expanded/Compat/Royalty</li>
+    <!-- MOD_END: Vanilla Christmas Expanded -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Cooking Expanded</li>
+    <!-- MOD_END: Vanilla Cooking Expanded -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded - Bakery -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookEBakery -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookEBakery">Mods/Vanilla Cooking Expanded - Bakery</li>
+    <!-- MOD_END: Vanilla Cooking Expanded - Bakery -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded - Haute Cuisine -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookEHaute -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookEHaute">Mods/Vanilla Cooking Expanded - Haute Cuisine</li>
+    <!-- MOD_END: Vanilla Cooking Expanded - Haute Cuisine -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded - Stews -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookEStews -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookEStews">Mods/Vanilla Cooking Expanded - Stews</li>
+    <!-- MOD_END: Vanilla Cooking Expanded - Stews -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded - Sushi -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookESushi -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookESushi">Mods/Vanilla Cooking Expanded - Sushi</li>
+    <!-- MOD_END: Vanilla Cooking Expanded - Sushi -->
+
+    <!-- MOD_START: Vanilla Events Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VEE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VEE">Mods/Vanilla Events Expanded</li>
+    <!-- MOD_END: Vanilla Events Expanded -->
+
+    <!-- MOD_START: Vanilla Expanded Framework -->
+    <!-- PACKAGE_ID: OskarPotocki.VanillaFactionsExpanded.Core -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Mods/Vanilla Expanded Framework</li>
+    <!-- MOD_END: Vanilla Expanded Framework -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Classical -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Classical -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Classical">Mods/Vanilla Factions Expanded - Classical</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Classical -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Deserters -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Deserters -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Deserters">Mods/Vanilla Factions Expanded - Deserters</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Deserters -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Empire -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Empire -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Empire">Mods/Vanilla Factions Expanded - Empire</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Empire -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Insectoids 2 -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Insectoid2 -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Insectoid2">Mods/Vanilla Factions Expanded - Insectoids 2</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Insectoids 2 -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Medieval 2 -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Medieval2 -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Medieval2">Mods/Vanilla Factions Expanded - Medieval 2</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Medieval 2 -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Pirates -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Pirates -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Pirates -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Settlers -->
+    <!-- PACKAGE_ID: OskarPotocki.VanillaFactionsExpanded.SettlersModule -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Factions Expanded - Settlers</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Settlers -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Tribals -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Tribals -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Tribals">Mods/Vanilla Factions Expanded - Tribals</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Tribals -->
+
+    <!-- MOD_START: Vanilla Food Variety Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaFoodVarietyExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaFoodVarietyExpanded">Mods/Vanilla Food Variety Expanded</li>
+    <!-- MOD_END: Vanilla Food Variety Expanded -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFECore -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFECore">Mods/Vanilla Furniture Expanded</li>
+    <!-- MOD_END: Vanilla Furniture Expanded -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Architect -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEArchitect -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEArchitect">Mods/Vanilla Furniture Expanded - Architect</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Architect -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Art -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEArt -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEArt">Mods/Vanilla Furniture Expanded - Art</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Art -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Factory -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEFactory -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,sarg.alphaanimals">Mods/Vanilla Furniture Expanded - Factory/Compat/AlphaAnimals</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,sarg.alphabiomes">Mods/Vanilla Furniture Expanded - Factory/Compat/alphabiomes</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,sarg.alphabooks">Mods/Vanilla Furniture Expanded - Factory/Compat/alphabooks</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,sarg.alphacrafts">Mods/Vanilla Furniture Expanded - Factory/Compat/alphacrafts</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,Ludeon.RimWorld.Anomaly">Mods/Vanilla Furniture Expanded - Factory/Compat/Anomaly</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,Ludeon.RimWorld.Biotech">Mods/Vanilla Furniture Expanded - Factory/Compat/Biotech</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,VanillaExpanded.VCookE">Mods/Vanilla Furniture Expanded - Factory/Compat/Cooking</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,Ludeon.RimWorld.Odyssey,VanillaExpanded.VCookE">Mods/Vanilla Furniture Expanded - Factory/Compat/Cooking_Odyssey</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,VanillaExpanded.VCookE,VanillaExpanded.VPlantsE">Mods/Vanilla Furniture Expanded - Factory/Compat/Cooking_Plants</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,vanillaracesexpanded.genie">Mods/Vanilla Furniture Expanded - Factory/Compat/genie</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,vanillaexpanded.gravship">Mods/Vanilla Furniture Expanded - Factory/Compat/gravship</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,VanillaExpanded.VGeneticsEMoreLabStuff">Mods/Vanilla Furniture Expanded - Factory/Compat/MoreLabStuff</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,Ludeon.RimWorld.Odyssey">Mods/Vanilla Furniture Expanded - Factory/Compat/Odyssey</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,VanillaExpanded.VBrewE">Mods/Vanilla Furniture Expanded - Factory/Compat/VBrewE</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,VanillaExpanded.VBrewECandT">Mods/Vanilla Furniture Expanded - Factory/Compat/VBrewECandT</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,VanillaExpanded.VGeneticsE">Mods/Vanilla Furniture Expanded - Factory/Compat/VEGenetics</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,OskarPotocki.VFE.Classical">Mods/Vanilla Furniture Expanded - Factory/Compat/VFEClassical</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,OskarPotocki.VFE.Deserters">Mods/Vanilla Furniture Expanded - Factory/Compat/VFEDeserters</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,VanillaExpanded.VPlantsEMore">Mods/Vanilla Furniture Expanded - Factory/Compat/VPlantsEMore</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Factory -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Farming -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEFarming -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEFarming">Mods/Vanilla Furniture Expanded - Farming</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Farming -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Medical Module -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEMedical -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEMedical">Mods/Vanilla Furniture Expanded - Medical Module</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Medical Module -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Power -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEPower -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEPower">Mods/Vanilla Furniture Expanded - Power</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Power -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Production -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEProduction -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEProduction">Mods/Vanilla Furniture Expanded - Production</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Production -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Security -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFESecurity -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFESecurity">Mods/Vanilla Furniture Expanded - Security</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Security -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Spacer Module -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFESpacer -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFESpacer">Mods/Vanilla Furniture Expanded - Spacer Module</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Spacer Module -->
 
     <!-- MOD_START: Vanilla Genetics Expanded -->
     <!-- PACKAGE_ID: VanillaExpanded.VGeneticsE -->
@@ -205,10 +1868,705 @@
     <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,OskarPotocki.VanillaVehiclesExpanded">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaVehiclesExpanded</li>
     <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,OskarPotocki.VanillaVehiclesExpandedTier3">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaVehiclesExpandedTier3</li>
     <!-- MOD_END: Vanilla Furniture Expanded - Props And Decor -->
+
+    <!-- MOD_START: Vanilla Gravship Expanded - Chapter 1 -->
+    <!-- PACKAGE_ID: vanillaexpanded.gravship -->
+    <!-- Principal -->
+    <li IfModActive="vanillaexpanded.gravship">Mods/Vanilla Gravship Expanded - Chapter 1</li>
+    <!-- MOD_END: Vanilla Gravship Expanded - Chapter 1 -->
+
+    <!-- MOD_START: Vanilla Gravship Expanded - Chapter 2 -->
+    <!-- PACKAGE_ID: vanillaexpanded.gravship2 -->
+    <!-- Principal -->
+    <li IfModActive="vanillaexpanded.gravship2">Mods/Vanilla Gravship Expanded - Chapter 2</li>
+    <!-- MOD_END: Vanilla Gravship Expanded - Chapter 2 -->
+
+    <!-- MOD_START: Vanilla Hair Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VHE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VHE">Mods/Vanilla Hair Expanded</li>
+    <!-- MOD_END: Vanilla Hair Expanded -->
+
+    <!-- MOD_START: Vanilla Helixien Gas Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.HelixienGas -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.HelixienGas">Mods/Vanilla Helixien Gas Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.HelixienGas,VanillaExpanded.VFEPower">Mods/Vanilla Helixien Gas Expanded/Compat/VFEPower</li>
+    <!-- MOD_END: Vanilla Helixien Gas Expanded -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Anima Theme -->
+    <!-- PACKAGE_ID: VanillaExpanded.VIEAT -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VIEAT">Mods/Vanilla Ideology Expanded - Anima Theme</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Anima Theme -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Dryads -->
+    <!-- PACKAGE_ID: VanillaExpanded.Ideo.Dryads -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Ideo.Dryads">Mods/Vanilla Ideology Expanded - Dryads</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Dryads -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Hats and Rags -->
+    <!-- PACKAGE_ID: VanillaExpanded.VIEHAR -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VIEHAR">Mods/Vanilla Ideology Expanded - Hats and Rags</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Hats and Rags -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Memes and Structures -->
+    <!-- PACKAGE_ID: VanillaExpanded.VMemesE -->
+    <!-- Principal: somente patches; traduções principais permanecem na raiz legada -->
+    <li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures</li>
+
+    <!-- Integrações de localização migradas -->
+    <li IfModActiveAll="VanillaExpanded.VMemesE,Sarg.AlphaMemes">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/AlphaMemes</li>
+    <li IfModActiveAll="VanillaExpanded.VMemesE,VanillaExpanded.VBooksE">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/Books</li>
+    <li IfModActiveAll="VanillaExpanded.VMemesE,VanillaExpanded.VCookE">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/Cooking</li>
+    <li IfModActiveAll="VanillaExpanded.VMemesE,Ludeon.RimWorld.Royalty">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/Royalty</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Memes and Structures -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Relics and Artifacts -->
+    <!-- PACKAGE_ID: VanillaExpanded.Ideo.RelicsAndArtifacts -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Ideo.RelicsAndArtifacts">Mods/Vanilla Ideology Expanded - Relics and Artifacts</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Relics and Artifacts -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Sophian Style -->
+    <!-- PACKAGE_ID: VanillaExpanded.Ideo.SophianStyle -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Ideo.SophianStyle">Mods/Vanilla Ideology Expanded - Sophian Style</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Sophian Style -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Splits and Schisms -->
+    <!-- PACKAGE_ID: VanillaExpanded.VIESAS -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VIESAS">Mods/Vanilla Ideology Expanded - Splits and Schisms</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Splits and Schisms -->
+
+    <!-- MOD_START: Vanilla Nutrient Paste Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VNutrientE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VNutrientE">Mods/Vanilla Nutrient Paste Expanded</li>
+    <!-- MOD_END: Vanilla Nutrient Paste Expanded -->
+
+    <!-- MOD_START: Vanilla Outposts Expanded -->
+    <!-- PACKAGE_ID: vanillaexpanded.outposts -->
+    <!-- Principal -->
+    <li IfModActive="vanillaexpanded.outposts">Mods/Vanilla Outposts Expanded</li>
+    <!-- MOD_END: Vanilla Outposts Expanded -->
+
+    <!-- MOD_START: Vanilla Persona Weapons Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPersonaWeaponsE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPersonaWeaponsE">Mods/Vanilla Persona Weapons Expanded</li>
+    <!-- MOD_END: Vanilla Persona Weapons Expanded -->
+
+    <!-- MOD_START: Vanilla Plants Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPlantsE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Plants Expanded</li>
+    <!-- MOD_END: Vanilla Plants Expanded -->
+
+    <!-- MOD_START: Vanilla Plants Expanded - Flowers -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPEFlowers -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPEFlowers">Mods/Vanilla Plants Expanded - Flowers</li>
+    <!-- MOD_END: Vanilla Plants Expanded - Flowers -->
+
+    <!-- MOD_START: Vanilla Plants Expanded - More Plants -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPlantsEMore -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPlantsEMore">Mods/Vanilla Plants Expanded - More Plants</li>
+    <!-- MOD_END: Vanilla Plants Expanded - More Plants -->
+
+    <!-- MOD_START: Vanilla Plants Expanded - Mushrooms -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPlantsEMushrooms -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPlantsEMushrooms">Mods/Vanilla Plants Expanded - Mushrooms</li>
+    <!-- MOD_END: Vanilla Plants Expanded - Mushrooms -->
+
+    <!-- MOD_START: Vanilla Plants Expanded - Succulents -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPlantsESucculents -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPlantsESucculents">Mods/Vanilla Plants Expanded - Succulents</li>
+    <!-- MOD_END: Vanilla Plants Expanded - Succulents -->
+
+    <!-- MOD_START: Vanilla Psycasts Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPsycastsE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPsycastsE">Mods/Vanilla Psycasts Expanded</li>
+    <!-- MOD_END: Vanilla Psycasts Expanded -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - Ancients -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.ancients -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.ancients">Mods/Vanilla Quests Expanded - Ancients</li>
+    <!-- MOD_END: Vanilla Quests Expanded - Ancients -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - Cryptoforge -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.cryptoforge -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.cryptoforge">Mods/Vanilla Quests Expanded - Cryptoforge</li>
+    <!-- MOD_END: Vanilla Quests Expanded - Cryptoforge -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - Deadlife -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.deadlife -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.deadlife">Mods/Vanilla Quests Expanded - Deadlife</li>
+    <!-- MOD_END: Vanilla Quests Expanded - Deadlife -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - Drone Factory -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.dronefactory -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.dronefactory">Mods/Vanilla Quests Expanded - Drone Factory</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="vanillaquestsexpanded.dronefactory,VanillaExpanded.VFEFactory">Mods/Vanilla Quests Expanded - Drone Factory/Compat/VFEFactory</li>
+    <!-- MOD_END: Vanilla Quests Expanded - Drone Factory -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - The Generator -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.generator -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.generator">Mods/Vanilla Quests Expanded - The Generator</li>
+    <!-- MOD_END: Vanilla Quests Expanded - The Generator -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Android -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.android -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.android">Mods/Vanilla Races Expanded - Android</li>
+    <!-- MOD_END: Vanilla Races Expanded - Android -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Archon -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.archon -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.archon">Mods/Vanilla Races Expanded - Archon</li>
+    <!-- MOD_END: Vanilla Races Expanded - Archon -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Fungoid -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.fungoid -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.fungoid">Mods/Vanilla Races Expanded - Fungoid</li>
+    <!-- MOD_END: Vanilla Races Expanded - Fungoid -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Genie -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.genie -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.genie">Mods/Vanilla Races Expanded - Genie</li>
+    <!-- MOD_END: Vanilla Races Expanded - Genie -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Highmate -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.highmate -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.highmate">Mods/Vanilla Races Expanded - Highmate</li>
+    <!-- MOD_END: Vanilla Races Expanded - Highmate -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Hussar -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.hussar -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.hussar">Mods/Vanilla Races Expanded - Hussar</li>
+    <!-- MOD_END: Vanilla Races Expanded - Hussar -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Insector -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.insector -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.insector">Mods/Vanilla Races Expanded - Insector</li>
+    <!-- MOD_END: Vanilla Races Expanded - Insector -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Lycanthrope -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.lycanthrope -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.lycanthrope">Mods/Vanilla Races Expanded - Lycanthrope</li>
+    <!-- MOD_END: Vanilla Races Expanded - Lycanthrope -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Phytokin -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.phytokin -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.phytokin">Mods/Vanilla Races Expanded - Phytokin</li>
+    <!-- MOD_END: Vanilla Races Expanded - Phytokin -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Pigskin -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.pigskin -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.pigskin">Mods/Vanilla Races Expanded - Pigskin</li>
+    <!-- MOD_END: Vanilla Races Expanded - Pigskin -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Sanguophage -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.sanguophage -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.sanguophage">Mods/Vanilla Races Expanded - Sanguophage</li>
+    <!-- MOD_END: Vanilla Races Expanded - Sanguophage -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Saurid -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.saurid -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.saurid">Mods/Vanilla Races Expanded - Saurid</li>
+    <!-- MOD_END: Vanilla Races Expanded - Saurid -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Starjack -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.starjack -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.starjack">Mods/Vanilla Races Expanded - Starjack</li>
+    <!-- MOD_END: Vanilla Races Expanded - Starjack -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Waster -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.waster -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.waster">Mods/Vanilla Races Expanded - Waster</li>
+    <!-- MOD_END: Vanilla Races Expanded - Waster -->
+
+    <!-- MOD_START: Vanilla Recycling Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.Recycling -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Recycling">Mods/Vanilla Recycling Expanded</li>
+    <!-- MOD_END: Vanilla Recycling Expanded -->
+
+    <!-- MOD_START: Vanilla Skills Expanded -->
+    <!-- PACKAGE_ID: vanillaexpanded.skills -->
+    <!-- Principal -->
+    <li IfModActive="vanillaexpanded.skills">Mods/Vanilla Skills Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="vanillaexpanded.skills,Ludeon.RimWorld.Anomaly">Mods/Vanilla Skills Expanded/Compat/Anomaly</li>
+    <li IfModActiveAll="vanillaexpanded.skills,VanillaExpanded.VBooksE">Mods/Vanilla Skills Expanded/Compat/Books</li>
+    <li IfModActiveAll="vanillaexpanded.skills,vanillaracesexpanded.highmate">Mods/Vanilla Skills Expanded/Compat/highmate</li>
+    <li IfModActiveAll="vanillaexpanded.skills,Ludeon.RimWorld.Ideology">Mods/Vanilla Skills Expanded/Compat/Ideology</li>
+    <!-- MOD_END: Vanilla Skills Expanded -->
+
+    <!-- MOD_START: Vanilla Social Interactions Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaSocialInteractionsExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaSocialInteractionsExpanded">Mods/Vanilla Social Interactions Expanded</li>
+    <!-- MOD_END: Vanilla Social Interactions Expanded -->
+
+    <!-- MOD_START: Vanilla Storytellers Expanded - Perry Persistent -->
+    <!-- PACKAGE_ID: VSE.PerryPersistent -->
+    <!-- Principal -->
+    <li IfModActive="VSE.PerryPersistent">Mods/Vanilla Storytellers Expanded - Perry Persistent</li>
+    <!-- MOD_END: Vanilla Storytellers Expanded - Perry Persistent -->
+
+    <!-- MOD_START: Vanilla Storytellers Expanded - Winston Waves -->
+    <!-- PACKAGE_ID: VanillaStorytellersExpanded.WinstonWave -->
+    <!-- Principal -->
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,sarg.alphaanimals">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/AlphaAnimals</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,sarg.alphagenes">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/AlphaGenes</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,sarg.alphaimplants">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/alphaimplants</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,sarg.alphamechs">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/alphamechs</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,Sarg.AlphaPrefabs">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/AlphaPrefabs</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,sarg.alpharandom">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/alpharandom</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,vanillaquestsexpanded.ancients">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/ancients</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,Ludeon.RimWorld.Anomaly">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Anomaly</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,Ludeon.RimWorld.Biotech">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Biotech</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,OskarPotocki.VFE.Insectoid2">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Insectoid2</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,Ludeon.RimWorld.Odyssey">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Odyssey</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,Ludeon.RimWorld.Royalty">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Royalty</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,OskarPotocki.VanillaVehiclesExpanded">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Vehicles</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,OskarPotocki.VFE.Deserters">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/VFEDeserters</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,OskarPotocki.VFE.Pirates">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/VFEPirates</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,VanillaExpanded.VWEHW">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/VWEHW</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,VanillaExpanded.VWEL">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/VWEL</li>
+    <!-- MOD_END: Vanilla Storytellers Expanded - Winston Waves -->
+
+    <!-- MOD_START: Vanilla Temperature Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.Temperature -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Temperature">Mods/Vanilla Temperature Expanded</li>
+    <!-- MOD_END: Vanilla Temperature Expanded -->
+
+    <!-- MOD_START: Vanilla Textures Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VTEXE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VTEXE">Mods/Vanilla Textures Expanded</li>
+    <!-- MOD_END: Vanilla Textures Expanded -->
+
+    <!-- MOD_START: Vanilla Trading Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaTradingExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaTradingExpanded">Mods/Vanilla Trading Expanded</li>
+    <!-- MOD_END: Vanilla Trading Expanded -->
+
+    <!-- MOD_START: Vanilla Vehicles Expanded -->
+    <!-- PACKAGE_ID: OskarPotocki.VanillaVehiclesExpanded -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VanillaVehiclesExpanded">Mods/Vanilla Vehicles Expanded</li>
+    <!-- MOD_END: Vanilla Vehicles Expanded -->
+
+    <!-- MOD_START: Vanilla Vehicles Expanded - Tier 3 -->
+    <!-- PACKAGE_ID: OskarPotocki.VanillaVehiclesExpandedTier3 -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VanillaVehiclesExpandedTier3">Mods/Vanilla Vehicles Expanded - Tier 3</li>
+    <!-- MOD_END: Vanilla Vehicles Expanded - Tier 3 -->
+
+    <!-- MOD_START: Vanilla Vehicles Expanded - Upgrades -->
+    <!-- PACKAGE_ID: oskarpotocki.vanillavehiclesexpandedupgrades -->
+    <!-- Principal -->
+    <li IfModActive="oskarpotocki.vanillavehiclesexpandedupgrades">Mods/Vanilla Vehicles Expanded - Upgrades</li>
+    <!-- MOD_END: Vanilla Vehicles Expanded - Upgrades -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey">Mods/Vanilla Weapons Expanded/Compat/Odyssey</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Anomaly,Ludeon.RimWorld.Odyssey">Mods/Vanilla Weapons Expanded/Compat/Odyssey_Anomaly</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,vanillaquestsexpanded.cryptoforge">Mods/Vanilla Weapons Expanded/Compat/Odyssey_cryptoforge</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,vanillaquestsexpanded.deadlife">Mods/Vanilla Weapons Expanded/Compat/Odyssey_deadlife</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,OskarPotocki.VFE.Medieval2">Mods/Vanilla Weapons Expanded/Compat/Odyssey_Medieval2</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,VanillaExpanded.VAnomalyEInsanity">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VAnomalyEInsanity</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,OskarPotocki.VFE.Deserters">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VFEDeserters</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,OskarPotocki.VFE.Empire">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VFEEmpire</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VWEFT</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,VanillaExpanded.VWEMS">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VWEMS</li>
+    <!-- MOD_END: Vanilla Weapons Expanded -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Bioferrite -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEBF -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEBF">Mods/Vanilla Weapons Expanded - Bioferrite</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Bioferrite -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Coilguns -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEC -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Coilguns</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Coilguns -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Frontier -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEFT -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Frontier -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Grenades -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEG -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEG">Mods/Vanilla Weapons Expanded - Grenades</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Grenades -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Heavy Weapons -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEHW -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEHW">Mods/Vanilla Weapons Expanded - Heavy Weapons</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Heavy Weapons -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Laser -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEL -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Weapons Expanded - Laser</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Laser -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Makeshift -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEMS -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEMS">Mods/Vanilla Weapons Expanded - Makeshift</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Makeshift -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Non-Lethal -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWENL -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWENL">Mods/Vanilla Weapons Expanded - Non-Lethal</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Non-Lethal -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - QuickDrawn -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEQ -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - QuickDrawn</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - QuickDrawn -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Tribal -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWETB -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWETB">Mods/Vanilla Weapons Expanded - Tribal</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Tribal -->
+
+    <!-- MOD_START: Vehicle Framework -->
+    <!-- PACKAGE_ID: SmashPhil.VehicleFramework -->
+    <!-- Principal -->
+    <li IfModActive="SmashPhil.VehicleFramework">Mods/Vehicle Framework</li>
+    <!-- MOD_END: Vehicle Framework -->
+
   </v1.6>
 
   <v1.7>
     <li>/</li>
+
+    <!-- MOD_START: Vanilla Anomaly Expanded - Insanity -->
+    <!-- PACKAGE_ID: VanillaExpanded.VAnomalyEInsanity -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VAnomalyEInsanity">Mods/Vanilla Anomaly Expanded - Insanity</li>
+    <!-- MOD_END: Vanilla Anomaly Expanded - Insanity -->
+
+    <!-- MOD_START: Vanilla Apparel Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VAPPE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VAPPE">Mods/Vanilla Apparel Expanded</li>
+    <!-- MOD_END: Vanilla Apparel Expanded -->
+
+    <!-- MOD_START: Vanilla Apparel Expanded - Accessories -->
+    <!-- PACKAGE_ID: VanillaExpanded.VAEAccessories -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VAEAccessories">Mods/Vanilla Apparel Expanded - Accessories</li>
+    <!-- MOD_END: Vanilla Apparel Expanded - Accessories -->
+
+    <!-- MOD_START: Vanilla Armour Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VARME -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VARME">Mods/Vanilla Armour Expanded</li>
+    <!-- MOD_END: Vanilla Armour Expanded -->
+
+    <!-- MOD_START: Vanilla Aspirations Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaAspirationsExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaAspirationsExpanded">Mods/Vanilla Aspirations Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,Ludeon.RimWorld.Anomaly">Mods/Vanilla Aspirations Expanded/Compat/Anomaly</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,Ludeon.RimWorld.Biotech">Mods/Vanilla Aspirations Expanded/Compat/Biotech</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,Ludeon.RimWorld.Ideology">Mods/Vanilla Aspirations Expanded/Compat/Ideology</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,Ludeon.RimWorld.Royalty">Mods/Vanilla Aspirations Expanded/Compat/Royalty</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,VanillaExpanded.VGeneticsE">Mods/Vanilla Aspirations Expanded/Compat/VEGenetics</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,OskarPotocki.VFE.Classical">Mods/Vanilla Aspirations Expanded/Compat/VFEClassical</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,OskarPotocki.VFE.Deserters">Mods/Vanilla Aspirations Expanded/Compat/VFEDeserters</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,OskarPotocki.VFE.Empire">Mods/Vanilla Aspirations Expanded/Compat/VFEEmpire</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,OskarPotocki.VFE.Pirates">Mods/Vanilla Aspirations Expanded/Compat/VFEPirates</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,OskarPotocki.VFE.Tribals">Mods/Vanilla Aspirations Expanded/Compat/VFETribals</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,vanillaracesexpanded.android">Mods/Vanilla Aspirations Expanded/Compat/VREAndroid</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,Ludeon.RimWorld.Biotech,vanillaracesexpanded.archon">Mods/Vanilla Aspirations Expanded/Compat/VREArchon_Biotech</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,vanillaracesexpanded.fungoid">Mods/Vanilla Aspirations Expanded/Compat/VREFungoid</li>
+    <li IfModActiveAll="VanillaExpanded.VanillaAspirationsExpanded,OskarPotocki.VanillaVehiclesExpandedTier3">Mods/Vanilla Aspirations Expanded/Compat/VVETier3</li>
+    <!-- MOD_END: Vanilla Aspirations Expanded -->
+
+    <!-- MOD_START: Vanilla Backstories Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaBackstoriesExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaBackstoriesExpanded">Mods/Vanilla Backstories Expanded</li>
+    <!-- MOD_END: Vanilla Backstories Expanded -->
+
+    <!-- MOD_START: Vanilla Books Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VBooksE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VBooksE">Mods/Vanilla Books Expanded</li>
+    <!-- MOD_END: Vanilla Books Expanded -->
+
+    <!-- MOD_START: Vanilla Brewing Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VBrewE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VBrewE,vanillaexpanded.achievements">Mods/Vanilla Brewing Expanded/Compat/Achievements</li>
+    <li IfModActiveAll="VanillaExpanded.VBrewE,vanillaexpanded.achievements,VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded/Compat/Achievements_Cooking</li>
+    <li IfModActiveAll="VanillaExpanded.VBrewE,VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded/Compat/Cooking</li>
+    <li IfModActiveAll="VanillaExpanded.VBrewE,VanillaExpanded.VPlantsE">Mods/Vanilla Brewing Expanded/Compat/Plants</li>
+    <!-- MOD_END: Vanilla Brewing Expanded -->
+
+    <!-- MOD_START: Vanilla Brewing Expanded - Coffees and Teas -->
+    <!-- PACKAGE_ID: VanillaExpanded.VBrewECandT -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Brewing Expanded - Coffees and Teas</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VBrewECandT,VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/Cooking</li>
+    <li IfModActiveAll="VanillaExpanded.VBrewECandT,VanillaExpanded.VPlantsE">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/Plants</li>
+    <!-- MOD_END: Vanilla Brewing Expanded - Coffees and Teas -->
+
+    <!-- MOD_START: Vanilla Chemfuel Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VChemfuelE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VChemfuelE">Mods/Vanilla Chemfuel Expanded</li>
+    <!-- MOD_END: Vanilla Chemfuel Expanded -->
+
+    <!-- MOD_START: Vanilla Christmas Expanded -->
+    <!-- PACKAGE_ID: VE.VanillaChristmasExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VE.VanillaChristmasExpanded">Mods/Vanilla Christmas Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VE.VanillaChristmasExpanded,Ludeon.RimWorld.Ideology">Mods/Vanilla Christmas Expanded/Compat/Ideology</li>
+    <li IfModActiveAll="VE.VanillaChristmasExpanded,Ludeon.RimWorld.Royalty">Mods/Vanilla Christmas Expanded/Compat/Royalty</li>
+    <!-- MOD_END: Vanilla Christmas Expanded -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Cooking Expanded</li>
+    <!-- MOD_END: Vanilla Cooking Expanded -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded - Bakery -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookEBakery -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookEBakery">Mods/Vanilla Cooking Expanded - Bakery</li>
+    <!-- MOD_END: Vanilla Cooking Expanded - Bakery -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded - Haute Cuisine -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookEHaute -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookEHaute">Mods/Vanilla Cooking Expanded - Haute Cuisine</li>
+    <!-- MOD_END: Vanilla Cooking Expanded - Haute Cuisine -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded - Stews -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookEStews -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookEStews">Mods/Vanilla Cooking Expanded - Stews</li>
+    <!-- MOD_END: Vanilla Cooking Expanded - Stews -->
+
+    <!-- MOD_START: Vanilla Cooking Expanded - Sushi -->
+    <!-- PACKAGE_ID: VanillaExpanded.VCookESushi -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VCookESushi">Mods/Vanilla Cooking Expanded - Sushi</li>
+    <!-- MOD_END: Vanilla Cooking Expanded - Sushi -->
+
+    <!-- MOD_START: Vanilla Events Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VEE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VEE">Mods/Vanilla Events Expanded</li>
+    <!-- MOD_END: Vanilla Events Expanded -->
+
+    <!-- MOD_START: Vanilla Expanded Framework -->
+    <!-- PACKAGE_ID: OskarPotocki.VanillaFactionsExpanded.Core -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Mods/Vanilla Expanded Framework</li>
+    <!-- MOD_END: Vanilla Expanded Framework -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Classical -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Classical -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Classical">Mods/Vanilla Factions Expanded - Classical</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Classical -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Deserters -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Deserters -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Deserters">Mods/Vanilla Factions Expanded - Deserters</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Deserters -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Empire -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Empire -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Empire">Mods/Vanilla Factions Expanded - Empire</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Empire -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Insectoids 2 -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Insectoid2 -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Insectoid2">Mods/Vanilla Factions Expanded - Insectoids 2</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Insectoids 2 -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Medieval 2 -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Medieval2 -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Medieval2">Mods/Vanilla Factions Expanded - Medieval 2</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Medieval 2 -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Pirates -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Pirates -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Pirates -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Settlers -->
+    <!-- PACKAGE_ID: OskarPotocki.VanillaFactionsExpanded.SettlersModule -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Factions Expanded - Settlers</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Settlers -->
+
+    <!-- MOD_START: Vanilla Factions Expanded - Tribals -->
+    <!-- PACKAGE_ID: OskarPotocki.VFE.Tribals -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VFE.Tribals">Mods/Vanilla Factions Expanded - Tribals</li>
+    <!-- MOD_END: Vanilla Factions Expanded - Tribals -->
+
+    <!-- MOD_START: Vanilla Food Variety Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaFoodVarietyExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaFoodVarietyExpanded">Mods/Vanilla Food Variety Expanded</li>
+    <!-- MOD_END: Vanilla Food Variety Expanded -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFECore -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFECore">Mods/Vanilla Furniture Expanded</li>
+    <!-- MOD_END: Vanilla Furniture Expanded -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Architect -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEArchitect -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEArchitect">Mods/Vanilla Furniture Expanded - Architect</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Architect -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Art -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEArt -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEArt">Mods/Vanilla Furniture Expanded - Art</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Art -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Factory -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEFactory -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEFactory">Mods/Vanilla Furniture Expanded - Factory</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,sarg.alphaanimals">Mods/Vanilla Furniture Expanded - Factory/Compat/AlphaAnimals</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,sarg.alphabiomes">Mods/Vanilla Furniture Expanded - Factory/Compat/alphabiomes</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,sarg.alphabooks">Mods/Vanilla Furniture Expanded - Factory/Compat/alphabooks</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,sarg.alphacrafts">Mods/Vanilla Furniture Expanded - Factory/Compat/alphacrafts</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,Ludeon.RimWorld.Anomaly">Mods/Vanilla Furniture Expanded - Factory/Compat/Anomaly</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,Ludeon.RimWorld.Biotech">Mods/Vanilla Furniture Expanded - Factory/Compat/Biotech</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,VanillaExpanded.VCookE">Mods/Vanilla Furniture Expanded - Factory/Compat/Cooking</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,Ludeon.RimWorld.Odyssey,VanillaExpanded.VCookE">Mods/Vanilla Furniture Expanded - Factory/Compat/Cooking_Odyssey</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,VanillaExpanded.VCookE,VanillaExpanded.VPlantsE">Mods/Vanilla Furniture Expanded - Factory/Compat/Cooking_Plants</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,vanillaracesexpanded.genie">Mods/Vanilla Furniture Expanded - Factory/Compat/genie</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,vanillaexpanded.gravship">Mods/Vanilla Furniture Expanded - Factory/Compat/gravship</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,VanillaExpanded.VGeneticsEMoreLabStuff">Mods/Vanilla Furniture Expanded - Factory/Compat/MoreLabStuff</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,Ludeon.RimWorld.Odyssey">Mods/Vanilla Furniture Expanded - Factory/Compat/Odyssey</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,VanillaExpanded.VBrewE">Mods/Vanilla Furniture Expanded - Factory/Compat/VBrewE</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,VanillaExpanded.VBrewECandT">Mods/Vanilla Furniture Expanded - Factory/Compat/VBrewECandT</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,VanillaExpanded.VGeneticsE">Mods/Vanilla Furniture Expanded - Factory/Compat/VEGenetics</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,OskarPotocki.VFE.Classical">Mods/Vanilla Furniture Expanded - Factory/Compat/VFEClassical</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,OskarPotocki.VFE.Deserters">Mods/Vanilla Furniture Expanded - Factory/Compat/VFEDeserters</li>
+    <li IfModActiveAll="VanillaExpanded.VFEFactory,VanillaExpanded.VPlantsEMore">Mods/Vanilla Furniture Expanded - Factory/Compat/VPlantsEMore</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Factory -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Farming -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEFarming -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEFarming">Mods/Vanilla Furniture Expanded - Farming</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Farming -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Medical Module -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEMedical -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEMedical">Mods/Vanilla Furniture Expanded - Medical Module</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Medical Module -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Power -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEPower -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEPower">Mods/Vanilla Furniture Expanded - Power</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Power -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Production -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFEProduction -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFEProduction">Mods/Vanilla Furniture Expanded - Production</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Production -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Security -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFESecurity -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFESecurity">Mods/Vanilla Furniture Expanded - Security</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Security -->
+
+    <!-- MOD_START: Vanilla Furniture Expanded - Spacer Module -->
+    <!-- PACKAGE_ID: VanillaExpanded.VFESpacer -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VFESpacer">Mods/Vanilla Furniture Expanded - Spacer Module</li>
+    <!-- MOD_END: Vanilla Furniture Expanded - Spacer Module -->
 
     <!-- MOD_START: Vanilla Genetics Expanded -->
     <!-- PACKAGE_ID: VanillaExpanded.VGeneticsE -->
@@ -274,6 +2632,428 @@
     <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,OskarPotocki.VanillaVehiclesExpanded">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaVehiclesExpanded</li>
     <li IfModActiveAll="VanillaExpanded.VFEPropsandDecor,OskarPotocki.VanillaVehiclesExpandedTier3">Mods/Vanilla Furniture Expanded - Props And Decor/Compat/VanillaVehiclesExpandedTier3</li>
     <!-- MOD_END: Vanilla Furniture Expanded - Props And Decor -->
+
+    <!-- MOD_START: Vanilla Gravship Expanded - Chapter 1 -->
+    <!-- PACKAGE_ID: vanillaexpanded.gravship -->
+    <!-- Principal -->
+    <li IfModActive="vanillaexpanded.gravship">Mods/Vanilla Gravship Expanded - Chapter 1</li>
+    <!-- MOD_END: Vanilla Gravship Expanded - Chapter 1 -->
+
+    <!-- MOD_START: Vanilla Gravship Expanded - Chapter 2 -->
+    <!-- PACKAGE_ID: vanillaexpanded.gravship2 -->
+    <!-- Principal -->
+    <li IfModActive="vanillaexpanded.gravship2">Mods/Vanilla Gravship Expanded - Chapter 2</li>
+    <!-- MOD_END: Vanilla Gravship Expanded - Chapter 2 -->
+
+    <!-- MOD_START: Vanilla Hair Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VHE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VHE">Mods/Vanilla Hair Expanded</li>
+    <!-- MOD_END: Vanilla Hair Expanded -->
+
+    <!-- MOD_START: Vanilla Helixien Gas Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.HelixienGas -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.HelixienGas">Mods/Vanilla Helixien Gas Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.HelixienGas,VanillaExpanded.VFEPower">Mods/Vanilla Helixien Gas Expanded/Compat/VFEPower</li>
+    <!-- MOD_END: Vanilla Helixien Gas Expanded -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Anima Theme -->
+    <!-- PACKAGE_ID: VanillaExpanded.VIEAT -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VIEAT">Mods/Vanilla Ideology Expanded - Anima Theme</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Anima Theme -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Dryads -->
+    <!-- PACKAGE_ID: VanillaExpanded.Ideo.Dryads -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Ideo.Dryads">Mods/Vanilla Ideology Expanded - Dryads</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Dryads -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Hats and Rags -->
+    <!-- PACKAGE_ID: VanillaExpanded.VIEHAR -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VIEHAR">Mods/Vanilla Ideology Expanded - Hats and Rags</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Hats and Rags -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Memes and Structures -->
+    <!-- PACKAGE_ID: VanillaExpanded.VMemesE -->
+    <!-- Principal: somente patches; traduções principais permanecem na raiz legada -->
+    <li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures</li>
+
+    <!-- Integrações de localização migradas -->
+    <li IfModActiveAll="VanillaExpanded.VMemesE,Sarg.AlphaMemes">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/AlphaMemes</li>
+    <li IfModActiveAll="VanillaExpanded.VMemesE,VanillaExpanded.VBooksE">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/Books</li>
+    <li IfModActiveAll="VanillaExpanded.VMemesE,VanillaExpanded.VCookE">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/Cooking</li>
+    <li IfModActiveAll="VanillaExpanded.VMemesE,Ludeon.RimWorld.Royalty">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/Royalty</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Memes and Structures -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Relics and Artifacts -->
+    <!-- PACKAGE_ID: VanillaExpanded.Ideo.RelicsAndArtifacts -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Ideo.RelicsAndArtifacts">Mods/Vanilla Ideology Expanded - Relics and Artifacts</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Relics and Artifacts -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Sophian Style -->
+    <!-- PACKAGE_ID: VanillaExpanded.Ideo.SophianStyle -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Ideo.SophianStyle">Mods/Vanilla Ideology Expanded - Sophian Style</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Sophian Style -->
+
+    <!-- MOD_START: Vanilla Ideology Expanded - Splits and Schisms -->
+    <!-- PACKAGE_ID: VanillaExpanded.VIESAS -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VIESAS">Mods/Vanilla Ideology Expanded - Splits and Schisms</li>
+    <!-- MOD_END: Vanilla Ideology Expanded - Splits and Schisms -->
+
+    <!-- MOD_START: Vanilla Nutrient Paste Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VNutrientE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VNutrientE">Mods/Vanilla Nutrient Paste Expanded</li>
+    <!-- MOD_END: Vanilla Nutrient Paste Expanded -->
+
+    <!-- MOD_START: Vanilla Outposts Expanded -->
+    <!-- PACKAGE_ID: vanillaexpanded.outposts -->
+    <!-- Principal -->
+    <li IfModActive="vanillaexpanded.outposts">Mods/Vanilla Outposts Expanded</li>
+    <!-- MOD_END: Vanilla Outposts Expanded -->
+
+    <!-- MOD_START: Vanilla Persona Weapons Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPersonaWeaponsE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPersonaWeaponsE">Mods/Vanilla Persona Weapons Expanded</li>
+    <!-- MOD_END: Vanilla Persona Weapons Expanded -->
+
+    <!-- MOD_START: Vanilla Plants Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPlantsE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPlantsE">Mods/Vanilla Plants Expanded</li>
+    <!-- MOD_END: Vanilla Plants Expanded -->
+
+    <!-- MOD_START: Vanilla Plants Expanded - Flowers -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPEFlowers -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPEFlowers">Mods/Vanilla Plants Expanded - Flowers</li>
+    <!-- MOD_END: Vanilla Plants Expanded - Flowers -->
+
+    <!-- MOD_START: Vanilla Plants Expanded - More Plants -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPlantsEMore -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPlantsEMore">Mods/Vanilla Plants Expanded - More Plants</li>
+    <!-- MOD_END: Vanilla Plants Expanded - More Plants -->
+
+    <!-- MOD_START: Vanilla Plants Expanded - Mushrooms -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPlantsEMushrooms -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPlantsEMushrooms">Mods/Vanilla Plants Expanded - Mushrooms</li>
+    <!-- MOD_END: Vanilla Plants Expanded - Mushrooms -->
+
+    <!-- MOD_START: Vanilla Plants Expanded - Succulents -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPlantsESucculents -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPlantsESucculents">Mods/Vanilla Plants Expanded - Succulents</li>
+    <!-- MOD_END: Vanilla Plants Expanded - Succulents -->
+
+    <!-- MOD_START: Vanilla Psycasts Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VPsycastsE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VPsycastsE">Mods/Vanilla Psycasts Expanded</li>
+    <!-- MOD_END: Vanilla Psycasts Expanded -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - Ancients -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.ancients -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.ancients">Mods/Vanilla Quests Expanded - Ancients</li>
+    <!-- MOD_END: Vanilla Quests Expanded - Ancients -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - Cryptoforge -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.cryptoforge -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.cryptoforge">Mods/Vanilla Quests Expanded - Cryptoforge</li>
+    <!-- MOD_END: Vanilla Quests Expanded - Cryptoforge -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - Deadlife -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.deadlife -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.deadlife">Mods/Vanilla Quests Expanded - Deadlife</li>
+    <!-- MOD_END: Vanilla Quests Expanded - Deadlife -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - Drone Factory -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.dronefactory -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.dronefactory">Mods/Vanilla Quests Expanded - Drone Factory</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="vanillaquestsexpanded.dronefactory,VanillaExpanded.VFEFactory">Mods/Vanilla Quests Expanded - Drone Factory/Compat/VFEFactory</li>
+    <!-- MOD_END: Vanilla Quests Expanded - Drone Factory -->
+
+    <!-- MOD_START: Vanilla Quests Expanded - The Generator -->
+    <!-- PACKAGE_ID: vanillaquestsexpanded.generator -->
+    <!-- Principal -->
+    <li IfModActive="vanillaquestsexpanded.generator">Mods/Vanilla Quests Expanded - The Generator</li>
+    <!-- MOD_END: Vanilla Quests Expanded - The Generator -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Android -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.android -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.android">Mods/Vanilla Races Expanded - Android</li>
+    <!-- MOD_END: Vanilla Races Expanded - Android -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Archon -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.archon -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.archon">Mods/Vanilla Races Expanded - Archon</li>
+    <!-- MOD_END: Vanilla Races Expanded - Archon -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Fungoid -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.fungoid -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.fungoid">Mods/Vanilla Races Expanded - Fungoid</li>
+    <!-- MOD_END: Vanilla Races Expanded - Fungoid -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Genie -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.genie -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.genie">Mods/Vanilla Races Expanded - Genie</li>
+    <!-- MOD_END: Vanilla Races Expanded - Genie -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Highmate -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.highmate -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.highmate">Mods/Vanilla Races Expanded - Highmate</li>
+    <!-- MOD_END: Vanilla Races Expanded - Highmate -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Hussar -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.hussar -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.hussar">Mods/Vanilla Races Expanded - Hussar</li>
+    <!-- MOD_END: Vanilla Races Expanded - Hussar -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Insector -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.insector -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.insector">Mods/Vanilla Races Expanded - Insector</li>
+    <!-- MOD_END: Vanilla Races Expanded - Insector -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Lycanthrope -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.lycanthrope -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.lycanthrope">Mods/Vanilla Races Expanded - Lycanthrope</li>
+    <!-- MOD_END: Vanilla Races Expanded - Lycanthrope -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Phytokin -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.phytokin -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.phytokin">Mods/Vanilla Races Expanded - Phytokin</li>
+    <!-- MOD_END: Vanilla Races Expanded - Phytokin -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Pigskin -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.pigskin -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.pigskin">Mods/Vanilla Races Expanded - Pigskin</li>
+    <!-- MOD_END: Vanilla Races Expanded - Pigskin -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Sanguophage -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.sanguophage -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.sanguophage">Mods/Vanilla Races Expanded - Sanguophage</li>
+    <!-- MOD_END: Vanilla Races Expanded - Sanguophage -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Saurid -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.saurid -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.saurid">Mods/Vanilla Races Expanded - Saurid</li>
+    <!-- MOD_END: Vanilla Races Expanded - Saurid -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Starjack -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.starjack -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.starjack">Mods/Vanilla Races Expanded - Starjack</li>
+    <!-- MOD_END: Vanilla Races Expanded - Starjack -->
+
+    <!-- MOD_START: Vanilla Races Expanded - Waster -->
+    <!-- PACKAGE_ID: vanillaracesexpanded.waster -->
+    <!-- Principal -->
+    <li IfModActive="vanillaracesexpanded.waster">Mods/Vanilla Races Expanded - Waster</li>
+    <!-- MOD_END: Vanilla Races Expanded - Waster -->
+
+    <!-- MOD_START: Vanilla Recycling Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.Recycling -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Recycling">Mods/Vanilla Recycling Expanded</li>
+    <!-- MOD_END: Vanilla Recycling Expanded -->
+
+    <!-- MOD_START: Vanilla Skills Expanded -->
+    <!-- PACKAGE_ID: vanillaexpanded.skills -->
+    <!-- Principal -->
+    <li IfModActive="vanillaexpanded.skills">Mods/Vanilla Skills Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="vanillaexpanded.skills,Ludeon.RimWorld.Anomaly">Mods/Vanilla Skills Expanded/Compat/Anomaly</li>
+    <li IfModActiveAll="vanillaexpanded.skills,VanillaExpanded.VBooksE">Mods/Vanilla Skills Expanded/Compat/Books</li>
+    <li IfModActiveAll="vanillaexpanded.skills,vanillaracesexpanded.highmate">Mods/Vanilla Skills Expanded/Compat/highmate</li>
+    <li IfModActiveAll="vanillaexpanded.skills,Ludeon.RimWorld.Ideology">Mods/Vanilla Skills Expanded/Compat/Ideology</li>
+    <!-- MOD_END: Vanilla Skills Expanded -->
+
+    <!-- MOD_START: Vanilla Social Interactions Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaSocialInteractionsExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaSocialInteractionsExpanded">Mods/Vanilla Social Interactions Expanded</li>
+    <!-- MOD_END: Vanilla Social Interactions Expanded -->
+
+    <!-- MOD_START: Vanilla Storytellers Expanded - Perry Persistent -->
+    <!-- PACKAGE_ID: VSE.PerryPersistent -->
+    <!-- Principal -->
+    <li IfModActive="VSE.PerryPersistent">Mods/Vanilla Storytellers Expanded - Perry Persistent</li>
+    <!-- MOD_END: Vanilla Storytellers Expanded - Perry Persistent -->
+
+    <!-- MOD_START: Vanilla Storytellers Expanded - Winston Waves -->
+    <!-- PACKAGE_ID: VanillaStorytellersExpanded.WinstonWave -->
+    <!-- Principal -->
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Mods/Vanilla Storytellers Expanded - Winston Waves</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,sarg.alphaanimals">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/AlphaAnimals</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,sarg.alphagenes">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/AlphaGenes</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,sarg.alphaimplants">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/alphaimplants</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,sarg.alphamechs">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/alphamechs</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,Sarg.AlphaPrefabs">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/AlphaPrefabs</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,sarg.alpharandom">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/alpharandom</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,vanillaquestsexpanded.ancients">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/ancients</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,Ludeon.RimWorld.Anomaly">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Anomaly</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,Ludeon.RimWorld.Biotech">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Biotech</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,OskarPotocki.VFE.Insectoid2">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Insectoid2</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,Ludeon.RimWorld.Odyssey">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Odyssey</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,Ludeon.RimWorld.Royalty">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Royalty</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,OskarPotocki.VanillaVehiclesExpanded">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/Vehicles</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,OskarPotocki.VFE.Deserters">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/VFEDeserters</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,OskarPotocki.VFE.Pirates">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/VFEPirates</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,VanillaExpanded.VWEHW">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/VWEHW</li>
+    <li IfModActiveAll="VanillaStorytellersExpanded.WinstonWave,VanillaExpanded.VWEL">Mods/Vanilla Storytellers Expanded - Winston Waves/Compat/VWEL</li>
+    <!-- MOD_END: Vanilla Storytellers Expanded - Winston Waves -->
+
+    <!-- MOD_START: Vanilla Temperature Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.Temperature -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.Temperature">Mods/Vanilla Temperature Expanded</li>
+    <!-- MOD_END: Vanilla Temperature Expanded -->
+
+    <!-- MOD_START: Vanilla Textures Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VTEXE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VTEXE">Mods/Vanilla Textures Expanded</li>
+    <!-- MOD_END: Vanilla Textures Expanded -->
+
+    <!-- MOD_START: Vanilla Trading Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VanillaTradingExpanded -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VanillaTradingExpanded">Mods/Vanilla Trading Expanded</li>
+    <!-- MOD_END: Vanilla Trading Expanded -->
+
+    <!-- MOD_START: Vanilla Vehicles Expanded -->
+    <!-- PACKAGE_ID: OskarPotocki.VanillaVehiclesExpanded -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VanillaVehiclesExpanded">Mods/Vanilla Vehicles Expanded</li>
+    <!-- MOD_END: Vanilla Vehicles Expanded -->
+
+    <!-- MOD_START: Vanilla Vehicles Expanded - Tier 3 -->
+    <!-- PACKAGE_ID: OskarPotocki.VanillaVehiclesExpandedTier3 -->
+    <!-- Principal -->
+    <li IfModActive="OskarPotocki.VanillaVehiclesExpandedTier3">Mods/Vanilla Vehicles Expanded - Tier 3</li>
+    <!-- MOD_END: Vanilla Vehicles Expanded - Tier 3 -->
+
+    <!-- MOD_START: Vanilla Vehicles Expanded - Upgrades -->
+    <!-- PACKAGE_ID: oskarpotocki.vanillavehiclesexpandedupgrades -->
+    <!-- Principal -->
+    <li IfModActive="oskarpotocki.vanillavehiclesexpandedupgrades">Mods/Vanilla Vehicles Expanded - Upgrades</li>
+    <!-- MOD_END: Vanilla Vehicles Expanded - Upgrades -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWE -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey">Mods/Vanilla Weapons Expanded/Compat/Odyssey</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Anomaly,Ludeon.RimWorld.Odyssey">Mods/Vanilla Weapons Expanded/Compat/Odyssey_Anomaly</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,vanillaquestsexpanded.cryptoforge">Mods/Vanilla Weapons Expanded/Compat/Odyssey_cryptoforge</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,vanillaquestsexpanded.deadlife">Mods/Vanilla Weapons Expanded/Compat/Odyssey_deadlife</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,OskarPotocki.VFE.Medieval2">Mods/Vanilla Weapons Expanded/Compat/Odyssey_Medieval2</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,VanillaExpanded.VAnomalyEInsanity">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VAnomalyEInsanity</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,OskarPotocki.VFE.Deserters">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VFEDeserters</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,OskarPotocki.VFE.Empire">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VFEEmpire</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VWEFT</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,VanillaExpanded.VWEMS">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VWEMS</li>
+    <!-- MOD_END: Vanilla Weapons Expanded -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Bioferrite -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEBF -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEBF">Mods/Vanilla Weapons Expanded - Bioferrite</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Bioferrite -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Coilguns -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEC -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Coilguns</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Coilguns -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Frontier -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEFT -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Frontier -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Grenades -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEG -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEG">Mods/Vanilla Weapons Expanded - Grenades</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Grenades -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Heavy Weapons -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEHW -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEHW">Mods/Vanilla Weapons Expanded - Heavy Weapons</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Heavy Weapons -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Laser -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEL -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEL">Mods/Vanilla Weapons Expanded - Laser</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Laser -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Makeshift -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEMS -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEMS">Mods/Vanilla Weapons Expanded - Makeshift</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Makeshift -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Non-Lethal -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWENL -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWENL">Mods/Vanilla Weapons Expanded - Non-Lethal</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Non-Lethal -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - QuickDrawn -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWEQ -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - QuickDrawn</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - QuickDrawn -->
+
+    <!-- MOD_START: Vanilla Weapons Expanded - Tribal -->
+    <!-- PACKAGE_ID: VanillaExpanded.VWETB -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VWETB">Mods/Vanilla Weapons Expanded - Tribal</li>
+    <!-- MOD_END: Vanilla Weapons Expanded - Tribal -->
+
+    <!-- MOD_START: Vehicle Framework -->
+    <!-- PACKAGE_ID: SmashPhil.VehicleFramework -->
+    <!-- Principal -->
+    <li IfModActive="SmashPhil.VehicleFramework">Mods/Vehicle Framework</li>
+    <!-- MOD_END: Vehicle Framework -->
+
   </v1.7>
 </loadFolders>
 

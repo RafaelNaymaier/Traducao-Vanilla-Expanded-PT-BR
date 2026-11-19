@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: earl grey tea -->
+  <VBE_EarlGreyTea.label>chá earl grey</VBE_EarlGreyTea.label>
+
+  <!-- EN: A very strong and semi-sweet fruity tea. Floral notes dance around one's pallet at even the most dull scent. People who finish the drink feel strangely urged to colonize. -->
+  <VBE_EarlGreyTea.description>Um chá frutado muito forte e levemente doce. Notas florais dançam pelo paladar mesmo no aroma mais discreto. Quem termina a bebida sente uma estranha vontade de colonizar.</VBE_EarlGreyTea.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_EarlGreyTea.ingestible.ingestCommandString>Beber {0}</VBE_EarlGreyTea.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_EarlGreyTea.ingestible.ingestReportString>Bebendo {0}.</VBE_EarlGreyTea.ingestible.ingestReportString>
+
+  <!-- EN: espresso romano -->
+  <VBE_LemonCoffee.label>espresso romano</VBE_LemonCoffee.label>
+
+  <!-- EN: A particularly strange combination. Already acidic coffee garnished with a wedge of more acidic lemon, meant to be juiced into the coffee before quickly consumed while hot. An acquired taste to be sure but lauded by those who do prefer it. Specially indicated to combat intestinal parasites. -->
+  <VBE_LemonCoffee.description>Uma combinação particularmente estranha. Um café já ácido, acompanhado de uma fatia de limão ainda mais ácido, que deve ser espremida na bebida antes de consumi-la rapidamente, ainda quente. É certamente um gosto adquirido, mas elogiado por quem o aprecia. Especialmente indicado para combater parasitas intestinais.</VBE_LemonCoffee.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_LemonCoffee.ingestible.ingestCommandString>Beber {0}</VBE_LemonCoffee.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_LemonCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_LemonCoffee.ingestible.ingestReportString>
+
+  <!-- EN: lemonade -->
+  <VBE_Lemonade.label>limonada</VBE_Lemonade.label>
+
+  <!-- EN: A sweet beverage mixed together with lemon juice, sugar, and water. -->
+  <VBE_Lemonade.description>Uma bebida doce feita com suco de limão, açúcar e água.</VBE_Lemonade.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_Lemonade.ingestible.ingestCommandString>Beber {0}</VBE_Lemonade.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_Lemonade.ingestible.ingestReportString>Bebendo {0}.</VBE_Lemonade.ingestible.ingestReportString>
+
+  <!-- EN: bottle -->
+  <VBE_Lemonade.tools.bottle.label>garrafa</VBE_Lemonade.tools.bottle.label>
+
+  <!-- EN: neck -->
+  <VBE_Lemonade.tools.neck.label>gargalo</VBE_Lemonade.tools.neck.label>
+
+  <!-- EN: lemon tea -->
+  <VBE_LemonTea.label>chá de limão</VBE_LemonTea.label>
+
+  <!-- EN: A dark tea cut with water, chilled and garnished with a wedge of bright lemon. -->
+  <VBE_LemonTea.description>Um chá escuro diluído em água, resfriado e servido com uma fatia de limão vistoso.</VBE_LemonTea.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_LemonTea.ingestible.ingestCommandString>Beber {0}</VBE_LemonTea.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_LemonTea.ingestible.ingestReportString>Bebendo {0}.</VBE_LemonTea.ingestible.ingestReportString>
+
+  <!-- EN: lemons -->
+  <VCE_RawLemon.label>limões</VCE_RawLemon.label>
+
+  <!-- EN: An acid and sour tasting fruit. The juice, zest, and pulp are often used in cooking, often on fish and other meat for better taste. Lemon is also used to flavour drinks, such as lemonade, or mixed with tea and coffee. -->
+  <VCE_RawLemon.description>Uma fruta de sabor ácido e azedo. O suco, as raspas e a polpa são usados na culinária, frequentemente em peixes e outras carnes para melhorar o sabor. O limão também aromatiza bebidas, como limonada, ou é misturado com chá e café.</VCE_RawLemon.description>
+
+  <!-- EN: lemon tree -->
+  <VBE_LemonTree.label>limoeiro</VBE_LemonTree.label>
+
+  <!-- EN: A tall tree native to both deserts and tropics alike. Bright, sour lemons grow profusely on this tree, some lemons may even mature early and fall to the ground before the primary harvest is ready. -->
+  <VBE_LemonTree.description>Uma árvore alta nativa tanto de desertos quanto de regiões tropicais. Limões vistosos e azedos crescem em abundância nela; alguns podem até amadurecer cedo e cair no chão antes da colheita principal.</VBE_LemonTree.description>
+</LanguageData>
+

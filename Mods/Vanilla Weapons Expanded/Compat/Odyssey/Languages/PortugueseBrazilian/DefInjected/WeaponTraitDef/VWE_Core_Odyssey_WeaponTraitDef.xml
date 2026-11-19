@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: underbarrel shotgun -->
+  <VWE_UnderbarrelShotgun.label>espingarda acoplada</VWE_UnderbarrelShotgun.label>
+
+  <!-- EN: This weapon features a stripped-down, under-barrel shotgun attachment. It provides the user with a secondary firing option specifically designed to breach doors or clear close-quarters threats without switching weapons. -->
+  <VWE_UnderbarrelShotgun.description>Esta arma possui uma espingarda simplificada acoplada sob o cano. Ela oferece uma opção secundária de disparo, projetada especificamente para arrombar portas ou eliminar ameaças próximas sem trocar de arma.</VWE_UnderbarrelShotgun.description>
+
+  <!-- EN: barbed heads -->
+  <VWE_BarbedHeads.label>pontas farpadas</VWE_BarbedHeads.label>
+
+  <!-- EN: The projectiles are tipped with jagged, cruel hooks designed to tear flesh and get stuck in the wound. They cause immense pain and have higher stopping power. -->
+  <VWE_BarbedHeads.description>Os projéteis têm pontas com ganchos irregulares e cruéis, projetados para rasgar a carne e ficar presos no ferimento. Causam dor imensa e têm maior poder de parada.</VWE_BarbedHeads.description>
+
+  <!-- EN: blast tips -->
+  <VWE_BlastTips.label>pontas explosivas</VWE_BlastTips.label>
+
+  <!-- EN: The arrowheads are replaced with crude, volatile explosive charges. Upon impact, they detonate in a small radius, dealing significant damage to clusters of enemies. However, the heavy and unbalanced payload causes the projectile to tumble in flight, making accurate fire nearly impossible. -->
+  <VWE_BlastTips.description>As pontas das flechas foram substituídas por cargas explosivas rudimentares e voláteis. Ao atingir o alvo, detonam em um pequeno raio, causando bastante dano a grupos de inimigos. Porém, a carga pesada e desequilibrada faz o projétil girar de forma descontrolada em voo, tornando disparos precisos quase impossíveis.</VWE_BlastTips.description>
+
+  <!-- EN: blunt heads -->
+  <VWE_BluntHeads.label>pontas contundentes</VWE_BluntHeads.label>
+
+  <!-- EN: The projectiles are tipped with heavy, flat weights instead of sharp points. They deal blunt trauma, cracking bones and causing bruising rather than bleeding wounds. -->
+  <VWE_BluntHeads.description>Os projéteis têm pesos achatados e pesados nas pontas, em vez de pontas afiadas. Causam trauma contundente, fraturando ossos e provocando contusões em vez de ferimentos que sangram.</VWE_BluntHeads.description>
+
+  <!-- EN: high-tension limbs -->
+  <VWE_HighTensionLimbs.label>braços de alta tensão</VWE_HighTensionLimbs.label>
+
+  <!-- EN: The limbs of this weapon are incredibly stiff, storing massive amounts of kinetic energy. It takes much longer to draw or crank, but the projectile flies faster and hits harder. -->
+  <VWE_HighTensionLimbs.description>Os braços desta arma são extremamente rígidos e armazenam grandes quantidades de energia cinética. Retesar a corda ou acionar a manivela demora muito mais, mas o projétil voa mais rápido e atinge com mais força.</VWE_HighTensionLimbs.description>
+
+  <!-- EN: pitch-soaked tips -->
+  <VWE_PitchSoakedTips.label>pontas embebidas em piche</VWE_PitchSoakedTips.label>
+
+  <!-- EN: These projectiles have been dipped in sticky, flammable tar and wrapped in cloth. They have a high chance of igniting the target upon impact. -->
+  <VWE_PitchSoakedTips.description>Estes projéteis foram mergulhados em alcatrão pegajoso e inflamável e envolvidos em tecido. Têm grande chance de incendiar o alvo no impacto.</VWE_PitchSoakedTips.description>
+
+  <!-- EN: quick-draw string -->
+  <VWE_QuickDrawString.label>corda de disparo rápido</VWE_QuickDrawString.label>
+
+  <!-- EN: This bow is strung with a flexible, slightly slacker string. It allows for rapid volley fire at the cost of range and armor penetration. -->
+  <VWE_QuickDrawString.description>Este arco tem uma corda flexível e um pouco mais frouxa. Permite disparar salvas rápidas em troca de alcance e penetração de armadura.</VWE_QuickDrawString.description>
+
+  <!-- EN: siege assembly -->
+  <VWE_SiegeAssembly.label>mecanismo de cerco</VWE_SiegeAssembly.label>
+
+  <!-- EN: This weapon is modified with heavy pulleys, a windlass, or reinforced laminate limbs, effectively turning it into a portable ballista. It hits with devastating force, capable of piercing thick armor, but the weapon is incredibly heavy and agonizingly slow to aim. -->
+  <VWE_SiegeAssembly.description>Esta arma foi modificada com polias pesadas, um guincho ou braços laminados reforçados, tornando-se, na prática, uma balista portátil. Atinge com força devastadora, capaz de perfurar armaduras espessas, mas é extremamente pesada e exasperantemente lenta para mirar.</VWE_SiegeAssembly.description>
+
+  <!-- EN: slip-string -->
+  <VWE_SlipString.label>corda deslizante</VWE_SlipString.label>
+
+  <!-- EN: This bow uses a specifically waxed, low-friction string. It allows the archer to hold extra arrows in their draw hand and loose them in a blur of motion. The hasty release prevents a full draw, limiting the weapon's effective range. -->
+  <VWE_SlipString.description>Este arco usa uma corda especialmente encerada e de baixo atrito. Ela permite que o arqueiro segure flechas extras na mão que puxa a corda e as dispare em movimentos vertiginosos. O disparo apressado impede que a corda seja totalmente retesada, limitando o alcance efetivo da arma.</VWE_SlipString.description>
+
+  <!-- EN: twin-nock -->
+  <VWE_TwinNock.label>encaixe duplo</VWE_TwinNock.label>
+
+  <!-- EN: This weapon is designed to fire two projectiles simultaneously. It creates a hail of arrows but makes aiming at specific targets much more difficult. -->
+  <VWE_TwinNock.description>Esta arma foi projetada para disparar dois projéteis ao mesmo tempo. Produz uma chuva de flechas, mas torna muito mais difícil mirar em alvos específicos.</VWE_TwinNock.description>
+
+  <!-- EN: whisper fletching -->
+  <VWE_WhisperFletching.label>emplumação silenciosa</VWE_WhisperFletching.label>
+
+  <!-- EN: The projectiles use soft, owl-down fletching that silences their flight. It generates almost no noise, preventing animals from fleeing when missed. -->
+  <VWE_WhisperFletching.description>Os projéteis usam uma emplumação macia de penugem de coruja, que silencia seu voo. Quase não produzem ruído, evitando que animais fujam quando o disparo erra.</VWE_WhisperFletching.description>
+
+  <!-- EN: crypto-coated rails -->
+  <VWE_CryptoCoatedRails.label>trilhos com revestimento cripto</VWE_CryptoCoatedRails.label>
+
+  <!-- EN: The magnetic acceleration rails are coated in the crypto-particle cooling jacket, preventing the overheating common in charge weaponry and allowing for a much faster rate of fire. -->
+  <VWE_CryptoCoatedRails.description>Os trilhos de aceleração magnética têm um revestimento refrigerante de criptopartículas, que evita o superaquecimento comum em armas de carga e permite uma cadência de tiro muito maior.</VWE_CryptoCoatedRails.description>
+
+  <!-- EN: hyper-capacitor -->
+  <VWE_HyperCapacitor.label>hipercapacitor</VWE_HyperCapacitor.label>
+
+  <!-- EN: This weapon replaces a standard mechanical firing pin or gas system with an electronic rail-assist powered by a massive capacitor. It eliminates the mechanical cycling time between shots almost entirely, but the capacitor takes a significantly long time to charge before the first shot can be fired. -->
+  <VWE_HyperCapacitor.description>Esta arma substitui o percussor mecânico ou o sistema a gás convencional por um sistema eletrônico de assistência por trilhos, alimentado por um enorme capacitor. Isso quase elimina o tempo de ciclagem mecânica entre disparos, mas o capacitor demora bastante para carregar antes do primeiro tiro.</VWE_HyperCapacitor.description>
+
+  <!-- EN: ultracoils -->
+  <VWE_Ultracoils.label>ultrabobinas</VWE_Ultracoils.label>
+
+  <!-- EN: This weapon features extended, super-conductive acceleration rails that launch projectiles at hypersonic velocities, drastically increasing range and armor penetration at the cost of cycle time. -->
+  <VWE_Ultracoils.description>Esta arma possui trilhos de aceleração alongados e supercondutores, que lançam projéteis a velocidades hipersônicas, aumentando drasticamente o alcance e a penetração de armadura em troca de um maior tempo de ciclagem.</VWE_Ultracoils.description>
+
+  <!-- EN: vector compensator -->
+  <VWE_VectorCompensator.label>compensador vetorial</VWE_VectorCompensator.label>
+
+  <!-- EN: The barrel is lined with micro-magnetic coils that adjust the projectile's trajectory in mid-air. This "smart bullet" system actively corrects aim error, granting perfect accuracy, but requires lighter, smaller projectiles to function. -->
+  <VWE_VectorCompensator.description>O cano é revestido com microbobinas magnéticas que ajustam a trajetória do projétil durante o voo. Esse sistema de “projétil inteligente” corrige ativamente os erros de mira, garantindo precisão perfeita, mas exige projéteis menores e mais leves para funcionar.</VWE_VectorCompensator.description>
+
+  <!-- EN: bipod -->
+  <VWE_Bipod.label>bipé</VWE_Bipod.label>
+
+  <!-- EN: This weapon features a heavy deployable bipod. It provides extreme stability and accuracy at long range, but the setup time nearly doubles the time it takes to aim. -->
+  <VWE_Bipod.description>Esta arma possui um bipé pesado e retrátil. Ele oferece extrema estabilidade e precisão a longa distância, mas o tempo de montagem quase dobra o tempo necessário para mirar.</VWE_Bipod.description>
+
+  <!-- EN: saturation feed -->
+  <VWE_SaturationFeed.label>alimentação de saturação</VWE_SaturationFeed.label>
+
+  <!-- EN: This weapon has a modified feed mechanism designed to put as much lead in the air as possible. It doubles the number of shots per burst, but the violent vibration reduces accuracy significantly. -->
+  <VWE_SaturationFeed.description>Esta arma tem um mecanismo de alimentação modificado para lançar o máximo possível de chumbo no ar. Dobra o número de disparos por rajada, mas a vibração intensa reduz bastante a precisão.</VWE_SaturationFeed.description>
+
+  <!-- EN: short-stroke piston -->
+  <VWE_ShortStrokePiston.label>pistão de curso curto</VWE_ShortStrokePiston.label>
+
+  <!-- EN: This weapon uses a modified short-travel bolt carrier that strictly limits burst length. It fires half as many shots per volley, but the mechanism resets twice as fast, allowing for extremely responsive engagement. -->
+  <VWE_ShortStrokePiston.description>Esta arma usa um transportador do ferrolho modificado de curso curto, que limita rigorosamente o comprimento das rajadas. Dispara metade dos tiros por salva, mas o mecanismo se rearma duas vezes mais rápido, permitindo reagir com extrema rapidez.</VWE_ShortStrokePiston.description>
+
+  <!-- EN: water-cooled -->
+  <VWE_WaterCooled.label>refrigeração a água</VWE_WaterCooled.label>
+
+  <!-- EN: This weapon is encased in a heavy, liquid-filled cooling jacket. It prevents overheating, allowing for much faster sustained fire, but drastically increases the weapon's weight. -->
+  <VWE_WaterCooled.description>Esta arma tem uma camisa de refrigeração pesada e cheia de líquido. Ela evita o superaquecimento, permitindo fogo contínuo muito mais rápido, mas aumenta drasticamente o peso da arma.</VWE_WaterCooled.description>
+
+  <!-- EN: comfort grip -->
+  <VWE_ComfortGrip.label>empunhadura confortável</VWE_ComfortGrip.label>
+
+  <!-- EN: This weapon is fitted with a custom-molded, ergonomic handle wrapped in high-quality leather. It feels reassuringly secure in the hand, filling the user with a sense of pride and accomplishment. -->
+  <VWE_ComfortGrip.description>Esta arma tem uma empunhadura ergonômica moldada sob medida e revestida de couro de alta qualidade. Ela transmite uma sensação reconfortante de firmeza na mão, enchendo quem a usa de orgulho e satisfação.</VWE_ComfortGrip.description>
+
+  <!-- EN: grim notches -->
+  <VWE_GrimNotches.label>entalhes sombrios</VWE_GrimNotches.label>
+
+  <!-- EN: This weapon is covered in crude, carved notches, each tallying a life taken by a previous owner. It seems there’s one, and nineteen more of them. The handle feels rough and disturbing to hold, filling the user with a sense of dread and guilt. -->
+  <VWE_GrimNotches.description>Esta arma está coberta de entalhes grosseiros, cada um representando uma vida tirada por um dono anterior. Parece haver um, e mais dezenove deles. O cabo é áspero e perturbador de segurar, enchendo quem a usa de temor e culpa.</VWE_GrimNotches.description>
+
+  <!-- EN: grit-clogged -->
+  <VWE_GritClogged.label>obstruído por sujeira</VWE_GritClogged.label>
+
+  <!-- EN: The internal mechanism is filled with sand, dirt, or dried grease. It cycles sluggishly, significantly increasing the time between shots. -->
+  <VWE_GritClogged.description>O mecanismo interno está cheio de areia, sujeira ou graxa ressecada. Funciona lentamente, aumentando bastante o intervalo entre disparos.</VWE_GritClogged.description>
+
+  <!-- EN: heavy scrap -->
+  <VWE_HeavyScrap.label>sucata pesada</VWE_HeavyScrap.label>
+
+  <!-- EN: This weapon has been repaired using heavy, improper scrap metal components. It is cumbersome to carry and takes much longer to aim. -->
+  <VWE_HeavyScrap.description>Esta arma foi consertada com peças pesadas e inadequadas de sucata metálica. É incômoda de carregar e demora muito mais para mirar.</VWE_HeavyScrap.description>
+
+  <!-- EN: janky -->
+  <VWE_Janky.label>precário</VWE_Janky.label>
+
+  <!-- EN: This weapon's internal mechanisms are loose and poorly fitted. It suffers from inconsistent cycling issues, meaning the cooldown duration is completely randomized after every single burst. -->
+  <VWE_Janky.description>Os mecanismos internos desta arma estão frouxos e mal ajustados. Sua ciclagem é inconsistente, fazendo com que o tempo de recuperação seja completamente aleatório após cada rajada.</VWE_Janky.description>
+
+  <!-- EN: training conversion -->
+  <VWE_TrainingConversion.label>conversão para treino</VWE_TrainingConversion.label>
+
+  <!-- EN: This weapon has been permanently modified to fire non-lethal blunt pellets for target practice. While it causes pain and bruising, it lacks the stopping power and penetration to be useful in a real firefight. -->
+  <VWE_TrainingConversion.description>Esta arma foi modificada permanentemente para disparar chumbinhos contundentes não letais em treinos de tiro. Embora cause dor e contusões, não tem o poder de parada e a penetração necessários para ser útil em um tiroteio real.</VWE_TrainingConversion.description>
+
+  <!-- EN: worn rifling -->
+  <VWE_WornRifling.label>raiamento gasto</VWE_WornRifling.label>
+
+  <!-- EN: The spiral grooves inside this weapon's barrel have been worn smooth by overuse. It is significantly less accurate at all ranges. -->
+  <VWE_WornRifling.description>As ranhuras espirais no interior do cano desta arma foram alisadas pelo uso excessivo. Ela é muito menos precisa a qualquer distância.</VWE_WornRifling.description>
+
+  <!-- EN: buntline barrel -->
+  <VWE_BuntlineBarrel.label>cano Buntline</VWE_BuntlineBarrel.label>
+
+  <!-- EN: This weapon features an extended barrel that significantly increases range and accuracy. However, the added weight makes the weapon slower to aim. -->
+  <VWE_BuntlineBarrel.description>Esta arma possui um cano alongado que aumenta bastante o alcance e a precisão. Porém, o peso adicional a torna mais lenta para mirar.</VWE_BuntlineBarrel.description>
+
+  <!-- EN: recoil-Op mechanism -->
+  <VWE_RecoilOpMechanism.label>mecanismo operado por recuo</VWE_RecoilOpMechanism.label>
+
+  <!-- EN: This weapon fires a rapid 3-round burst. The uncontrollable recoil limits the weapon's effective range and severely reduces accuracy at medium and long distances. -->
+  <VWE_RecoilOpMechanism.description>Esta arma dispara uma rajada rápida de 3 tiros. O recuo incontrolável limita seu alcance efetivo e reduz severamente a precisão a média e longa distância.</VWE_RecoilOpMechanism.description>
+
+  <!-- EN: snake-shot loads -->
+  <VWE_SnakeShotLoads.label>cargas de chumbo fino</VWE_SnakeShotLoads.label>
+
+  <!-- EN: This weapon fires spread-shot pellets instead of solid slugs. It provides a major accuracy boost at close range, but deals less damage and has zero armor penetration. -->
+  <VWE_SnakeShotLoads.description>Esta arma dispara uma carga dispersa de chumbinhos em vez de projéteis sólidos. Isso aumenta muito a precisão a curta distância, mas causa menos dano e não tem penetração de armadura.</VWE_SnakeShotLoads.description>
+
+  <!-- EN: top-break action -->
+  <VWE_TopBreakAction.label>mecanismo basculante</VWE_TopBreakAction.label>
+
+  <!-- EN: This weapon features a hinged frame that breaks open for rapid casing ejection. It reloads significantly faster than a standard model, but the mechanism makes the weapon fragile and prone to breaking. -->
+  <VWE_TopBreakAction.description>Esta arma possui uma armação articulada que bascula para permitir a ejeção rápida dos estojos. Recarrega muito mais rápido que um modelo convencional, mas o mecanismo a torna frágil e propensa a quebrar.</VWE_TopBreakAction.description>
+
+  <!-- EN: acceleration rail -->
+  <VWE_AccelerationRail.label>trilho de aceleração</VWE_AccelerationRail.label>
+
+  <!-- EN: Retrofitted with a pulse-charge rail system, this weapon fires a single, high-velocity energy bolt that drastically improves damage and armor penetration. -->
+  <VWE_AccelerationRail.description>Adaptada com um sistema de trilhos de carga pulsada, esta arma dispara um único projétil de energia de alta velocidade, aumentando drasticamente o dano e a penetração de armadura.</VWE_AccelerationRail.description>
+
+  <!-- EN: canted iron sights -->
+  <VWE_CantedIronSights.label>miras metálicas inclinadas</VWE_CantedIronSights.label>
+
+  <!-- EN: This weapon includes a secondary sight mounted at a 45-degree angle, allowing the sniper to effectively engage targets at close range without using the scope. -->
+  <VWE_CantedIronSights.description>Esta arma inclui uma mira secundária montada em um ângulo de 45 graus, permitindo ao atirador enfrentar alvos próximos com eficácia sem usar a luneta.</VWE_CantedIronSights.description>
+
+  <!-- EN: fixed tele-lens -->
+  <VWE_FixedTeleLens.label>luneta de ampliação fixa</VWE_FixedTeleLens.label>
+
+  <!-- EN: This weapon is fitted with extreme magnification optics that significantly extend effective range but render the weapon completely unable to target enemies within a large minimum radius. -->
+  <VWE_FixedTeleLens.description>Esta arma possui uma mira óptica de ampliação extrema, que aumenta bastante o alcance efetivo, mas a impede completamente de atingir inimigos dentro de um grande raio mínimo.</VWE_FixedTeleLens.description>
+
+  <!-- EN: straight-pull action -->
+  <VWE_StraightPullAction.label>ferrolho de ação retilínea</VWE_StraightPullAction.label>
+
+  <!-- EN: This weapon uses a linear bolt mechanism to drastically reduce cooldown time, though it compromises long-range stability. -->
+  <VWE_StraightPullAction.description>Esta arma usa um mecanismo de ferrolho de ação retilínea para reduzir drasticamente o tempo de recuperação, embora isso comprometa a estabilidade a longa distância.</VWE_StraightPullAction.description>
+
+  <!-- EN: uranium slug -->
+  <VWE_UraniumSlug.label>projétil de urânio</VWE_UraniumSlug.label>
+
+  <!-- EN: This weapon fires ultra-dense uranium slugs, giving it immense armor-penetrating capabilities, though the heavy recoil increases the time between shots. -->
+  <VWE_UraniumSlug.description>Esta arma dispara projéteis de urânio ultradensos, oferecendo enorme capacidade de penetração de armadura, embora o forte recuo aumente o intervalo entre disparos.</VWE_UraniumSlug.description>
+
+  <!-- EN: akimbo -->
+  <VWE_Akimbo.label>empunhadura dupla</VWE_Akimbo.label>
+
+  <!-- EN: This weapon is paired with a matching duplicate, allowing the colonist to dual-wield. It doubles the number of rounds fired in a burst and doubles the fire rate, but aiming two weapons simultaneously significantly reduces accuracy. -->
+  <VWE_Akimbo.description>Esta arma forma um par com uma cópia idêntica, permitindo ao colono empunhar as duas. Isso dobra o número de tiros por rajada e a cadência de tiro, mas mirar duas armas ao mesmo tempo reduz bastante a precisão.</VWE_Akimbo.description>
+
+  <!-- EN: fire selector -->
+  <VWE_FireSelector.label>seletor de tiro</VWE_FireSelector.label>
+
+  <!-- EN: This weapon has been modified to fire controlled, semi-automatic shots rather than fully automatic sprays. It fires fewer shots per burst, but gains a massive accuracy boost at medium and long ranges. -->
+  <VWE_FireSelector.description>Esta arma foi modificada para disparos semiautomáticos controlados, em vez de rajadas totalmente automáticas. Dispara menos tiros por rajada, mas ganha um enorme aumento de precisão a média e longa distância.</VWE_FireSelector.description>
+
+  <!-- EN: illuminated sights -->
+  <VWE_IlluminatedSights.label>miras iluminadas</VWE_IlluminatedSights.label>
+
+  <!-- EN: This weapon is fitted with self-illuminating sights. It provides a consistent accuracy increase across all ranges, particularly useful in poor lighting conditions. -->
+  <VWE_IlluminatedSights.description>Esta arma está equipada com miras de iluminação própria. Elas aumentam a precisão de forma consistente a qualquer distância, sendo especialmente úteis em condições de pouca luz.</VWE_IlluminatedSights.description>
+
+  <!-- EN: match trigger -->
+  <VWE_MatchTrigger.label>gatilho de precisão</VWE_MatchTrigger.label>
+
+  <!-- EN: This weapon features a finely tuned, sensitive trigger mechanism. It improves accuracy at medium and long ranges, but requires a deliberate, gentle squeeze, which slightly increases aiming time. -->
+  <VWE_MatchTrigger.description>Esta arma possui um mecanismo de gatilho sensível e cuidadosamente ajustado. Ele melhora a precisão a média e longa distância, mas exige um acionamento suave e deliberado, o que aumenta ligeiramente o tempo de mira.</VWE_MatchTrigger.description>
+
+  <!-- EN: ported barrel -->
+  <VWE_PortedBarrel.label>cano com saídas de gás</VWE_PortedBarrel.label>
+
+  <!-- EN: This weapon has gas vents drilled near the muzzle to counteract recoil. It reduces the cooldown time between shots, allowing for faster sustained fire, but slightly reduces maximum range. -->
+  <VWE_PortedBarrel.description>Esta arma tem saídas de gás perfuradas perto da boca do cano para compensar o recuo. Isso reduz o tempo de recuperação entre disparos, permitindo fogo contínuo mais rápido, mas reduz ligeiramente o alcance máximo.</VWE_PortedBarrel.description>
+
+  <!-- EN: skeletonized frame -->
+  <VWE_SkeletonizedFrame.label>armação vazada</VWE_SkeletonizedFrame.label>
+
+  <!-- EN: This weapon has had non-essential metal drilled out to drastically reduce weight. It increases the user's movement speed, but the structural integrity is compromised, lowering the weapon's maximum durability. -->
+  <VWE_SkeletonizedFrame.description>Partes metálicas não essenciais desta arma foram removidas por perfuração para reduzir drasticamente o peso. Isso aumenta a velocidade de movimento de quem a usa, mas compromete a integridade estrutural e reduz a durabilidade máxima da arma.</VWE_SkeletonizedFrame.description>
+
+  <!-- EN: weighted stock -->
+  <VWE_WeightedStock.label>coronha pesada</VWE_WeightedStock.label>
+
+  <!-- EN: This weapon features a reinforced, heavy stock designed for bludgeoning. It significantly increases melee damage and stun chance, but the added weight increases aiming time. -->
+  <VWE_WeightedStock.description>Esta arma possui uma coronha pesada e reforçada, projetada para golpes contundentes. Ela aumenta bastante o dano corpo a corpo e a chance de atordoamento, mas o peso adicional aumenta o tempo de mira.</VWE_WeightedStock.description>
+
+
+</LanguageData>
+

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: Alloy plasteel from steel, chemfuel and gold -->
+  <VFEFactory_AlloyPlasteel.label>Produzir liga de plastiaço com aço, combustível químico e ouro</VFEFactory_AlloyPlasteel.label>
+
+  <!-- EN: Use high heat and pressure to alloy steel, chemfuel, and gold into pure plasteel. -->
+  <VFEFactory_AlloyPlasteel.description>Use altas temperaturas e pressão para transformar aço, combustível químico e ouro em uma liga de plastiaço puro.</VFEFactory_AlloyPlasteel.description>
+
+  <!-- EN: Alloy plasteel from steel, chemfuel and gold -->
+  <VFEFactory_AlloyPlasteel.labelOverride>Produzir liga de plastiaço com aço, combustível químico e ouro</VFEFactory_AlloyPlasteel.labelOverride>
+
+  <!-- EN: Make patchleather -->
+  <VFEFactory_MakePatchleather.label>Produzir couro remendado</VFEFactory_MakePatchleather.label>
+
+  <!-- EN: Make patchleather out of leather inserted. -->
+  <VFEFactory_MakePatchleather.description>Produza couro remendado com o couro inserido.</VFEFactory_MakePatchleather.description>
+
+  <!-- EN: Make synthread -->
+  <VFEFactory_MakeSynthread.label>Produzir tecido sintético</VFEFactory_MakeSynthread.label>
+
+  <!-- EN: Weave synthread from cloth and synthetic fibers. -->
+  <VFEFactory_MakeSynthread.description>Teça tecido sintético a partir de tecido e fibras sintéticas.</VFEFactory_MakeSynthread.description>
+
+  <!-- EN: Make EMP shells -->
+  <VFEFactory_MakeEMPShells.label>Produzir projéteis de PEM</VFEFactory_MakeEMPShells.label>
+
+  <!-- EN: Combine steel and components to create EMP shells. -->
+  <VFEFactory_MakeEMPShells.description>Combine aço e componentes para criar projéteis de PEM.</VFEFactory_MakeEMPShells.description>
+
+  <!-- EN: Make firefoam shells -->
+  <VFEFactory_MakeFirefoamShells.label>Produzir projéteis de espuma anti-incêndio</VFEFactory_MakeFirefoamShells.label>
+
+  <!-- EN: Use steel to create firefoam shells. -->
+  <VFEFactory_MakeFirefoamShells.description>Use aço para criar projéteis de espuma anti-incêndio.</VFEFactory_MakeFirefoamShells.description>
+
+  <!-- EN: Make high-explosive shells -->
+  <VFEFactory_MakeHighExplosiveShells.label>Produzir projéteis altamente explosivos</VFEFactory_MakeHighExplosiveShells.label>
+
+  <!-- EN: Combine steel and chemfuel to create high-explosive shells. -->
+  <VFEFactory_MakeHighExplosiveShells.description>Combine aço e combustível químico para criar projéteis altamente explosivos.</VFEFactory_MakeHighExplosiveShells.description>
+
+  <!-- EN: Make incendiary shells -->
+  <VFEFactory_MakeIncendiaryShells.label>Produzir projéteis incendiários</VFEFactory_MakeIncendiaryShells.label>
+
+  <!-- EN: Combine steel and chemfuel to create incendiary shells. -->
+  <VFEFactory_MakeIncendiaryShells.description>Combine aço e combustível químico para criar projéteis incendiários.</VFEFactory_MakeIncendiaryShells.description>
+
+  <!-- EN: Make smoke shells -->
+  <VFEFactory_MakeSmokeShells.label>Produzir projéteis de fumaça</VFEFactory_MakeSmokeShells.label>
+
+  <!-- EN: Use steel to create smoke shells. -->
+  <VFEFactory_MakeSmokeShells.description>Use aço para criar projéteis de fumaça.</VFEFactory_MakeSmokeShells.description>
+
+  <!-- EN: Make an advanced component -->
+  <VFEFactory_AssembleAdvancedComponent.label>Produzir um componente avançado</VFEFactory_AssembleAdvancedComponent.label>
+
+  <!-- EN: Assemble an advanced component. -->
+  <VFEFactory_AssembleAdvancedComponent.description>Monte um componente avançado.</VFEFactory_AssembleAdvancedComponent.description>
+
+  <!-- EN: Make an advanced component -->
+  <VFEFactory_AssembleAdvancedComponent.labelOverride>Produzir um componente avançado</VFEFactory_AssembleAdvancedComponent.labelOverride>
+
+  <!-- EN: Make a component -->
+  <VFEFactory_AssembleComponent.label>Produzir um componente</VFEFactory_AssembleComponent.label>
+
+  <!-- EN: Assemble a component. -->
+  <VFEFactory_AssembleComponent.description>Monte um componente.</VFEFactory_AssembleComponent.description>
+
+  <!-- EN: Make a component -->
+  <VFEFactory_AssembleComponent.labelOverride>Produzir um componente</VFEFactory_AssembleComponent.labelOverride>
+
+  <!-- EN: Make chemfuel from organics -->
+  <VFEFactory_MakeChemfuelFromOrganics.label>Produzir combustível químico com matéria orgânica</VFEFactory_MakeChemfuelFromOrganics.label>
+
+  <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. Process will consume 30 food items and output 1 chemfuel per each 0.1 nutrition consumed. For example, 30 potatoes will produce 15 chemfuel, while 30 simple meals (0.9 nutrition) will produce 270 chemfuel. -->
+  <VFEFactory_MakeChemfuelFromOrganics.description>Produza um lote de combustível químico extraindo biocombustível de matérias-primas orgânicas. O processo consumirá 30 itens alimentícios e produzirá 1 unidade de combustível químico para cada 0,1 de nutrição consumida. Por exemplo, 30 batatas produzirão 15 unidades de combustível químico, enquanto 30 refeições simples (0,9 de nutrição) produzirão 270 unidades de combustível químico.</VFEFactory_MakeChemfuelFromOrganics.description>
+
+  <!-- EN: Make chemfuel from organics -->
+  <VFEFactory_MakeChemfuelFromOrganics.labelOverride>Produzir combustível químico com matéria orgânica</VFEFactory_MakeChemfuelFromOrganics.labelOverride>
+
+  <!-- EN: Make chemfuel from wood -->
+  <VFEFactory_MakeChemfuelFromWood.label>Produzir combustível químico com madeira</VFEFactory_MakeChemfuelFromWood.label>
+
+  <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
+  <VFEFactory_MakeChemfuelFromWood.description>Produza um lote de combustível químico extraindo e condensando gás de madeira de toras.</VFEFactory_MakeChemfuelFromWood.description>
+
+  <!-- EN: Make chemfuel from wood -->
+  <VFEFactory_MakeChemfuelFromWood.labelOverride>Produzir combustível químico com madeira</VFEFactory_MakeChemfuelFromWood.labelOverride>
+
+  <!-- EN: Burn apparel -->
+  <VFEFactory_BurnApparel.label>Queimar vestuário</VFEFactory_BurnApparel.label>
+
+  <!-- EN: Burn unwanted apparel to completely destroy it. -->
+  <VFEFactory_BurnApparel.description>Queime peças de vestuário indesejadas para destruí-las completamente.</VFEFactory_BurnApparel.description>
+
+  <!-- EN: Burn apparel -->
+  <VFEFactory_BurnApparel.labelOverride>Queimar vestuário</VFEFactory_BurnApparel.labelOverride>
+
+  <!-- EN: Burn drugs -->
+  <VFEFactory_BurnDrug.label>Queimar drogas</VFEFactory_BurnDrug.label>
+
+  <!-- EN: Burn unwanted drugs to completely destroy them. -->
+  <VFEFactory_BurnDrug.description>Queime drogas indesejadas para destruí-las completamente.</VFEFactory_BurnDrug.description>
+
+  <!-- EN: Burn drugs -->
+  <VFEFactory_BurnDrug.labelOverride>Queimar drogas</VFEFactory_BurnDrug.labelOverride>
+
+  <!-- EN: Burn weapon -->
+  <VFEFactory_BurnWeapon.label>Queimar arma</VFEFactory_BurnWeapon.label>
+
+  <!-- EN: Burn unwanted weapon to completely destroy it. -->
+  <VFEFactory_BurnWeapon.description>Queime uma arma indesejada para destruí-la completamente.</VFEFactory_BurnWeapon.description>
+
+  <!-- EN: Burn weapon -->
+  <VFEFactory_BurnWeapon.labelOverride>Queimar arma</VFEFactory_BurnWeapon.labelOverride>
+
+  <!-- EN: Cremate animal -->
+  <VFEFactory_CremateAnimal.label>Cremar animal</VFEFactory_CremateAnimal.label>
+
+  <!-- EN: Cremate an animal corpse to completely destroy it. -->
+  <VFEFactory_CremateAnimal.description>Creme um cadáver de animal para destruí-lo completamente.</VFEFactory_CremateAnimal.description>
+
+  <!-- EN: Cremate animal -->
+  <VFEFactory_CremateAnimal.labelOverride>Cremar animal</VFEFactory_CremateAnimal.labelOverride>
+
+  <!-- EN: Cremate human -->
+  <VFEFactory_CremateHumanlike.label>Cremar humano</VFEFactory_CremateHumanlike.label>
+
+  <!-- EN: Cremate a human corpse to completely destroy it. -->
+  <VFEFactory_CremateHumanlike.description>Creme um cadáver humano para destruí-lo completamente.</VFEFactory_CremateHumanlike.description>
+
+  <!-- EN: Cremate human -->
+  <VFEFactory_CremateHumanlike.labelOverride>Cremar humano</VFEFactory_CremateHumanlike.labelOverride>
+
+  <!-- EN: Make batch of beer from hops -->
+  <VFEFactory_MakeBeerFromHops.label>Produzir lote de cerveja com lúpulo</VFEFactory_MakeBeerFromHops.label>
+
+  <!-- EN: Rapidly mash hops into wort, and then ferment into beer using automated processes. -->
+  <VFEFactory_MakeBeerFromHops.description>Triture rapidamente lúpulo para obter mosto e depois fermente-o para produzir cerveja usando processos automatizados.</VFEFactory_MakeBeerFromHops.description>
+
+  <!-- EN: Make batch of beer from hops -->
+  <VFEFactory_MakeBeerFromHops.labelOverride>Produzir lote de cerveja com lúpulo</VFEFactory_MakeBeerFromHops.labelOverride>
+
+  <!-- EN: Dig to harvest a granite chunk -->
+  <VFEFactory_DigForGraniteChunk.label>Escavar para obter um pedaço de granito</VFEFactory_DigForGraniteChunk.label>
+
+  <!-- EN: Dig to harvest a granite chunk. -->
+  <VFEFactory_DigForGraniteChunk.description>Escave para obter um pedaço de granito.</VFEFactory_DigForGraniteChunk.description>
+
+  <!-- EN: Dig to harvest a limestone chunk -->
+  <VFEFactory_DigForLimestoneChunk.label>Escavar para obter um pedaço de calcário</VFEFactory_DigForLimestoneChunk.label>
+
+  <!-- EN: Dig to harvest a limestone chunk. -->
+  <VFEFactory_DigForLimestoneChunk.description>Escave para obter um pedaço de calcário.</VFEFactory_DigForLimestoneChunk.description>
+
+  <!-- EN: Dig to harvest a marble chunk -->
+  <VFEFactory_DigForMarbleChunk.label>Escavar para obter um pedaço de mármore</VFEFactory_DigForMarbleChunk.label>
+
+  <!-- EN: Dig to harvest a marble chunk. -->
+  <VFEFactory_DigForMarbleChunk.description>Escave para obter um pedaço de mármore.</VFEFactory_DigForMarbleChunk.description>
+
+  <!-- EN: Dig for metals -->
+  <VFEFactory_DigForMetals.label>Escavar em busca de metais</VFEFactory_DigForMetals.label>
+
+  <!-- EN: Dig for random metals. Type of metal extracted depends on the deep commonality of the resource. The amount depends on the usual yield of such a deposit. -->
+  <VFEFactory_DigForMetals.description>Escave em busca de metais aleatórios. O tipo de metal extraído depende da frequência do recurso em depósitos profundos. A quantidade depende do rendimento habitual de um depósito desse tipo.</VFEFactory_DigForMetals.description>
+
+  <!-- EN: Dig for metals -->
+  <VFEFactory_DigForMetals.labelOverride>Escavar em busca de metais</VFEFactory_DigForMetals.labelOverride>
+
+  <!-- EN: Dig to harvest a sandstone chunk -->
+  <VFEFactory_DigForSandstoneChunk.label>Escavar para obter um pedaço de arenito</VFEFactory_DigForSandstoneChunk.label>
+
+  <!-- EN: Dig to harvest a sandstone chunk. -->
+  <VFEFactory_DigForSandstoneChunk.description>Escave para obter um pedaço de arenito.</VFEFactory_DigForSandstoneChunk.description>
+
+  <!-- EN: Dig to harvest a slate chunk -->
+  <VFEFactory_DigForSlateChunk.label>Escavar para obter um pedaço de ardósia</VFEFactory_DigForSlateChunk.label>
+
+  <!-- EN: Dig to harvest a slate chunk. -->
+  <VFEFactory_DigForSlateChunk.description>Escave para obter um pedaço de ardósia.</VFEFactory_DigForSlateChunk.description>
+
+  <!-- EN: Shred mechanoid -->
+  <VFEFactory_ShredMechanoid.label>Desmontar mecanoide</VFEFactory_ShredMechanoid.label>
+
+  <!-- EN: Use various built-in tools and grinders to shred a mechanoid into steel. 10 steel will be extracted per 1 body size of the mechanoid. -->
+  <VFEFactory_ShredMechanoid.description>Use diversas ferramentas e trituradores integrados para desmontar um mecanoide e obter aço. Serão extraídas 10 unidades de aço por unidade de tamanho corporal do mecanoide.</VFEFactory_ShredMechanoid.description>
+
+  <!-- EN: Shred mechanoid -->
+  <VFEFactory_ShredMechanoid.labelOverride>Desmontar mecanoide</VFEFactory_ShredMechanoid.labelOverride>
+
+  <!-- EN: Cut 20 blocks from a stone chunk -->
+  <VFEFactory_MakeStoneBlocks.label>Cortar 20 blocos de um pedaço de pedra</VFEFactory_MakeStoneBlocks.label>
+
+  <!-- EN: Cut rock chunks into usable stone blocks. -->
+  <VFEFactory_MakeStoneBlocks.description>Corte pedaços de rocha para obter blocos de pedra utilizáveis.</VFEFactory_MakeStoneBlocks.description>
+
+  <!-- EN: Make any stone blocks -->
+  <VFEFactory_MakeStoneBlocks.labelOverride>Produzir blocos de qualquer pedra</VFEFactory_MakeStoneBlocks.labelOverride>
+
+  <!-- EN: Mince corpses -->
+  <VFEFactory_MinceCorpses.label>Moer cadáveres</VFEFactory_MinceCorpses.label>
+
+  <!-- EN: Chop corpses into raw, edible minced meat suitable for cooking or further processing. -->
+  <VFEFactory_MinceCorpses.description>Triture cadáveres para obter carne moída crua e comestível, adequada para cozinhar ou processar mais.</VFEFactory_MinceCorpses.description>
+
+  <!-- EN: Mince corpses -->
+  <VFEFactory_MinceCorpses.labelOverride>Moer cadáveres</VFEFactory_MinceCorpses.labelOverride>
+
+  <!-- EN: Mince human corpses -->
+  <VFEFactory_MinceHumanCorpses.label>Moer cadáveres humanos</VFEFactory_MinceHumanCorpses.label>
+
+  <!-- EN: Chop human corpses into raw human meat. This may anger colonists, depending on their ideological beliefs. Equipment will all be discarded. -->
+  <VFEFactory_MinceHumanCorpses.description>Triture cadáveres humanos para obter carne humana crua. Isso pode enfurecer os colonos, dependendo de suas crenças ideológicas. Todos os equipamentos serão descartados.</VFEFactory_MinceHumanCorpses.description>
+
+  <!-- EN: Mince human corpses -->
+  <VFEFactory_MinceHumanCorpses.labelOverride>Moer cadáveres humanos</VFEFactory_MinceHumanCorpses.labelOverride>
+
+  <!-- EN: Mince insectoid corpses -->
+  <VFEFactory_MinceInsectoidCorpses.label>Moer cadáveres de insetoides</VFEFactory_MinceInsectoidCorpses.label>
+
+  <!-- EN: Chop insectoid corpses into raw insect meat. -->
+  <VFEFactory_MinceInsectoidCorpses.description>Triture cadáveres de insetoides para obter carne de inseto crua.</VFEFactory_MinceInsectoidCorpses.description>
+
+  <!-- EN: Mince insectoid corpses -->
+  <VFEFactory_MinceInsectoidCorpses.labelOverride>Moer cadáveres de insetoides</VFEFactory_MinceInsectoidCorpses.labelOverride>
+
+  <!-- EN: Smelt apparel -->
+  <VFEFactory_SmeltApparel.label>Fundir vestuário</VFEFactory_SmeltApparel.label>
+
+  <!-- EN: Use heat and strong electromagnets to break down apparel into useful resources. This operation will output 25% of the materials used to craft the apparel, excluding any components or advanced components. -->
+  <VFEFactory_SmeltApparel.description>Use calor e eletroímãs potentes para decompor peças de vestuário em recursos úteis. Esta operação recuperará 25% dos materiais usados na fabricação do vestuário, excluindo componentes comuns e avançados.</VFEFactory_SmeltApparel.description>
+
+  <!-- EN: Smelt apparel -->
+  <VFEFactory_SmeltApparel.labelOverride>Fundir vestuário</VFEFactory_SmeltApparel.labelOverride>
+
+  <!-- EN: Smelt steel from mechanoid -->
+  <VFEFactory_SmeltMechanoid.label>Fundir mecanoide para obter aço</VFEFactory_SmeltMechanoid.label>
+
+  <!-- EN: Use extreme heat to extract steel from mechanoid corpses. 10 steel will be extracted per 1 body size of the mechanoid. -->
+  <VFEFactory_SmeltMechanoid.description>Use calor extremo para extrair aço de cadáveres de mecanoides. Serão extraídas 10 unidades de aço por unidade de tamanho corporal do mecanoide.</VFEFactory_SmeltMechanoid.description>
+
+  <!-- EN: Smelt steel from mechanoid -->
+  <VFEFactory_SmeltMechanoid.labelOverride>Fundir mecanoide para obter aço</VFEFactory_SmeltMechanoid.labelOverride>
+
+  <!-- EN: Extract metal from stone chunk -->
+  <VFEFactory_SmeltMetalFromChunk.label>Extrair metal de pedaço de pedra</VFEFactory_SmeltMetalFromChunk.label>
+
+  <!-- EN: Use heat and strong electromagnets to extract useful metal from stone chunks. -->
+  <VFEFactory_SmeltMetalFromChunk.description>Use calor e eletroímãs potentes para extrair metal útil de pedaços de pedra.</VFEFactory_SmeltMetalFromChunk.description>
+
+  <!-- EN: Extract metal from stone chunk -->
+  <VFEFactory_SmeltMetalFromChunk.labelOverride>Extrair metal de pedaço de pedra</VFEFactory_SmeltMetalFromChunk.labelOverride>
+
+  <!-- EN: Smelt metal from mechanoid slag -->
+  <VFEFactory_SmeltMetalFromMechSlag.label>Fundir escória de mecanoide para obter metal</VFEFactory_SmeltMetalFromMechSlag.label>
+
+  <!-- EN: Use heat and strong electromagnets to extract useful metal from mechanoid slag chunks. -->
+  <VFEFactory_SmeltMetalFromMechSlag.description>Use calor e eletroímãs potentes para extrair metal útil de pedaços de escória de mecanoide.</VFEFactory_SmeltMetalFromMechSlag.description>
+
+  <!-- EN: Smelt metal from mechanoid slag -->
+  <VFEFactory_SmeltMetalFromMechSlag.labelOverride>Fundir escória de mecanoide para obter metal</VFEFactory_SmeltMetalFromMechSlag.labelOverride>
+
+  <!-- EN: Smelt metal from slag -->
+  <VFEFactory_SmeltMetalFromSlag.label>Fundir escória para obter metal</VFEFactory_SmeltMetalFromSlag.label>
+
+  <!-- EN: Use heat and strong electromagnets to extract useful metal from slag chunks. -->
+  <VFEFactory_SmeltMetalFromSlag.description>Use calor e eletroímãs potentes para extrair metal útil de pedaços de escória.</VFEFactory_SmeltMetalFromSlag.description>
+
+  <!-- EN: Smelt metal from slag -->
+  <VFEFactory_SmeltMetalFromSlag.labelOverride>Fundir escória para obter metal</VFEFactory_SmeltMetalFromSlag.labelOverride>
+
+  <!-- EN: Smelt weapons -->
+  <VFEFactory_SmeltWeapon.label>Fundir armas</VFEFactory_SmeltWeapon.label>
+
+  <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. This operation will output 25% of the materials used to craft the weapon, excluding any components or advanced components. -->
+  <VFEFactory_SmeltWeapon.description>Use calor e eletroímãs potentes para decompor armas em recursos úteis. Esta operação recuperará 25% dos materiais usados na fabricação da arma, excluindo componentes comuns e avançados.</VFEFactory_SmeltWeapon.description>
+
+  <!-- EN: Smelt weapons -->
+  <VFEFactory_SmeltWeapon.labelOverride>Fundir armas</VFEFactory_SmeltWeapon.labelOverride>
+
+  <!-- EN: Make kibble -->
+  <VFEFactory_MakeKibble.label>Produzir ração</VFEFactory_MakeKibble.label>
+
+  <!-- EN: Make animal kibble by combining raw meat and plants. 24 kibble will be produced per every nutrition consumed, so 15 vegetable and 15 meat will output 36 kibble. -->
+  <VFEFactory_MakeKibble.description>Produza ração animal combinando carne crua e vegetais. Serão produzidas 24 unidades de ração por unidade de nutrição consumida; portanto, 15 unidades de vegetais e 15 de carne renderão 36 unidades de ração.</VFEFactory_MakeKibble.description>
+
+  <!-- EN: Make kibble -->
+  <VFEFactory_MakeKibble.labelOverride>Produzir ração</VFEFactory_MakeKibble.labelOverride>
+
+  <!-- EN: Make kibble from hay -->
+  <VFEFactory_MakeKibbleFromHay.label>Produzir ração com feno</VFEFactory_MakeKibbleFromHay.label>
+
+  <!-- EN: Make animal kibble by combining raw meat and hay. Will always output 36 kibble. -->
+  <VFEFactory_MakeKibbleFromHay.description>Produza ração animal combinando carne crua e feno. Sempre produzirá 36 unidades de ração.</VFEFactory_MakeKibbleFromHay.description>
+
+  <!-- EN: Make kibble from hay -->
+  <VFEFactory_MakeKibbleFromHay.labelOverride>Produzir ração com feno</VFEFactory_MakeKibbleFromHay.labelOverride>
+
+  <!-- EN: Make mass-produced meals -->
+  <VFEFactory_MakeMassProducedMeal.label>Produzir refeições em massa</VFEFactory_MakeMassProducedMeal.label>
+
+  <!-- EN: Cook straightforward, mass-produced meals from a combination of meat and plant ingredients. A total of 2 nutrition will make 4 mass-produced meals. -->
+  <VFEFactory_MakeMassProducedMeal.description>Cozinhe refeições básicas em massa com uma combinação de carne e ingredientes vegetais. Um total de 2 de nutrição produzirá 4 refeições.</VFEFactory_MakeMassProducedMeal.description>
+
+  <!-- EN: Make mass-produced meals -->
+  <VFEFactory_MakeMassProducedMeal.labelOverride>Produzir refeições em massa</VFEFactory_MakeMassProducedMeal.labelOverride>
+
+  <!-- EN: Make pemmican -->
+  <VFEFactory_MakePemmican.label>Produzir pemmican</VFEFactory_MakePemmican.label>
+
+  <!-- EN: Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. 32 pemmican will be produced per every nutrition consumed, so 5 vegetable and 5 meat will output 16 pemmican. -->
+  <VFEFactory_MakePemmican.description>Produza pemmican, uma combinação de carne e alimentos vegetais em conserva. Não é muito saboroso, mas dura bastante tempo sem refrigeração. Serão produzidas 32 unidades de pemmican por unidade de nutrição consumida; portanto, 5 unidades de vegetais e 5 de carne renderão 16 unidades de pemmican.</VFEFactory_MakePemmican.description>
+
+  <!-- EN: Make pemmican -->
+  <VFEFactory_MakePemmican.labelOverride>Produzir pemmican</VFEFactory_MakePemmican.labelOverride>
+
+  <!-- EN: Make survival meal -->
+  <VFEFactory_MakeSurvivalMeal.label>Produzir refeição de sobrevivência</VFEFactory_MakeSurvivalMeal.label>
+
+  <!-- EN: Prepare packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. A total of 2.4 nutrition will make 4 survival meals. -->
+  <VFEFactory_MakeSurvivalMeal.description>Prepare refeições de sobrevivência embaladas com uma combinação de carne e ingredientes vegetais. Grande parte dos ingredientes é desperdiçada no processo de conservação. Um total de 2,4 de nutrição produzirá 4 refeições de sobrevivência.</VFEFactory_MakeSurvivalMeal.description>
+
+  <!-- EN: Make survival meal -->
+  <VFEFactory_MakeSurvivalMeal.labelOverride>Produzir refeição de sobrevivência</VFEFactory_MakeSurvivalMeal.labelOverride>
+
+  <!-- EN: Brew a batch of psychite tea -->
+  <VFEFactory_BrewPsychiteTea.label>Preparar um lote de chá de psicoide</VFEFactory_BrewPsychiteTea.label>
+
+  <!-- EN: Brew a batch of psychite tea from psychoid leaves. -->
+  <VFEFactory_BrewPsychiteTea.description>Prepare um lote de chá de psicoide com folhas de psicoide.</VFEFactory_BrewPsychiteTea.description>
+
+  <!-- EN: Brew a batch of psychite tea -->
+  <VFEFactory_BrewPsychiteTea.labelOverride>Preparar um lote de chá de psicoide</VFEFactory_BrewPsychiteTea.labelOverride>
+
+  <!-- EN: Make batch of medicine -->
+  <VFEFactory_MakeMedicine.label>Produzir lote de medicamentos</VFEFactory_MakeMedicine.label>
+
+  <!-- EN: Make a batch of medicine from cloth, herbal medicine and neutroamine. -->
+  <VFEFactory_MakeMedicine.description>Produza um lote de medicamentos com tecido, medicina herbal e neutroamina.</VFEFactory_MakeMedicine.description>
+
+  <!-- EN: Make batch of medicine -->
+  <VFEFactory_MakeMedicine.labelOverride>Produzir lote de medicamentos</VFEFactory_MakeMedicine.labelOverride>
+
+  <!-- EN: Roll smokeleaf joints -->
+  <VFEFactory_RollJoint.label>Enrolar baseados de folha de fumo</VFEFactory_RollJoint.label>
+
+  <!-- EN: Roll smokeleaf into a joint -->
+  <VFEFactory_RollJoint.description>Enrole folha de fumo para fazer um baseado</VFEFactory_RollJoint.description>
+
+  <!-- EN: Roll smokeleaf joints -->
+  <VFEFactory_RollJoint.labelOverride>Enrolar baseados de folha de fumo</VFEFactory_RollJoint.labelOverride>
+
+  <!-- EN: Synthesize a batch of flake -->
+  <VFEFactory_SynthesizeFlake.label>Sintetizar um lote de flake</VFEFactory_SynthesizeFlake.label>
+
+  <!-- EN: Synthesize a batch of flake from psychoid leaves. -->
+  <VFEFactory_SynthesizeFlake.description>Sintetize um lote de flake com folhas de psicoide.</VFEFactory_SynthesizeFlake.description>
+
+  <!-- EN: Synthesize a batch of flake -->
+  <VFEFactory_SynthesizeFlake.labelOverride>Sintetizar um lote de flake</VFEFactory_SynthesizeFlake.labelOverride>
+
+  <!-- EN: Synthesize a batch of go-juice -->
+  <VFEFactory_SynthesizeGoJuice.label>Sintetizar um lote de go-juice</VFEFactory_SynthesizeGoJuice.label>
+
+  <!-- EN: Synthesize a batch of go-juice from neutroamine and yayo. -->
+  <VFEFactory_SynthesizeGoJuice.description>Sintetize um lote de go-juice com neutroamina e yayo.</VFEFactory_SynthesizeGoJuice.description>
+
+  <!-- EN: Synthesize a batch of go-juice -->
+  <VFEFactory_SynthesizeGoJuice.labelOverride>Sintetizar um lote de go-juice</VFEFactory_SynthesizeGoJuice.labelOverride>
+
+  <!-- EN: Synthesize penoxycyline -->
+  <VFEFactory_SynthesizePenoxycyline.label>Sintetizar penoxicilina</VFEFactory_SynthesizePenoxycyline.label>
+
+  <!-- EN: Synthesize penoxycyline from neutroamine. -->
+  <VFEFactory_SynthesizePenoxycyline.description>Sintetize penoxicilina a partir de neutroamina.</VFEFactory_SynthesizePenoxycyline.description>
+
+  <!-- EN: Synthesize penoxycyline -->
+  <VFEFactory_SynthesizePenoxycyline.labelOverride>Sintetizar penoxicilina</VFEFactory_SynthesizePenoxycyline.labelOverride>
+
+  <!-- EN: Synthesize a batch of wake-up -->
+  <VFEFactory_SynthesizeWakeUp.label>Sintetizar um lote de wake-up</VFEFactory_SynthesizeWakeUp.label>
+
+  <!-- EN: Synthesize a batch of wake-up from neutroamine. -->
+  <VFEFactory_SynthesizeWakeUp.description>Sintetize um lote de wake-up a partir de neutroamina.</VFEFactory_SynthesizeWakeUp.description>
+
+  <!-- EN: Synthesize a batch of wake-up -->
+  <VFEFactory_SynthesizeWakeUp.labelOverride>Sintetizar um lote de wake-up</VFEFactory_SynthesizeWakeUp.labelOverride>
+
+  <!-- EN: Synthesize a batch of yayo -->
+  <VFEFactory_SynthesizeYayo.label>Sintetizar um lote de yayo</VFEFactory_SynthesizeYayo.label>
+
+  <!-- EN: Synthesize a batch of yayo from psychoid leaves. -->
+  <VFEFactory_SynthesizeYayo.description>Sintetize um lote de yayo com folhas de psicoide.</VFEFactory_SynthesizeYayo.description>
+
+  <!-- EN: Synthesize a batch of yayo -->
+  <VFEFactory_SynthesizeYayo.labelOverride>Sintetizar um lote de yayo</VFEFactory_SynthesizeYayo.labelOverride>
+
+  <!-- EN: Synthesize neutroamine -->
+  <VFEFactory_SynthesizeNeutroamine.label>Sintetizar neutroamina</VFEFactory_SynthesizeNeutroamine.label>
+
+  <!-- EN: Synthesize neutroamine from chemfuel and rendered animal fat. -->
+  <VFEFactory_SynthesizeNeutroamine.description>Sintetize neutroamina a partir de combustível químico e gordura animal derretida.</VFEFactory_SynthesizeNeutroamine.description>
+
+  <!-- EN: Synthesize neutroamine -->
+  <VFEFactory_SynthesizeNeutroamine.labelOverride>Sintetizar neutroamina</VFEFactory_SynthesizeNeutroamine.labelOverride>
+
+  <!-- EN: Make 25 chemfuel from 50 red wood logs -->
+  <VFEFactory_MakeChemfuelFromRedWood.label>Produzir 25 unidades de combustível químico com 50 toras de madeira vermelha</VFEFactory_MakeChemfuelFromRedWood.label>
+
+  <!-- EN: Make chemfuel from red wood logs -->
+  <VFEFactory_MakeChemfuelFromRedWood.labelOverride>Produzir combustível químico com toras de madeira vermelha</VFEFactory_MakeChemfuelFromRedWood.labelOverride>
+
+  <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from red wood logs. -->
+  <VFEFactory_MakeChemfuelFromRedWood.description>Produza um lote de combustível químico extraindo e condensando gás de madeira de toras de madeira vermelha.</VFEFactory_MakeChemfuelFromRedWood.description>
+</LanguageData>
+

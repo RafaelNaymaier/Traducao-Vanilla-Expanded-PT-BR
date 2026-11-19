@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: underbarrel flarestriker -->
+  <VWE_UnderbarrelFlarestriker.label>lança-sinalizadores acoplado</VWE_UnderbarrelFlarestriker.label>
+
+  <!-- EN: This weapon is equipped with an integrated under-barrel flare launcher. It fires bioferrite-fueled disruptor flares that illuminate the area and cause local psychic disruption. -->
+  <VWE_UnderbarrelFlarestriker.description>Esta arma está equipada com um lança-sinalizadores integrado sob o cano. Ele dispara sinalizadores disruptores alimentados por bioferrita, que iluminam a área e causam interferência psíquica local.</VWE_UnderbarrelFlarestriker.description>
+
+  <!-- EN: on cooldown -->
+  <VWE_UnderbarrelFlarestriker.modExtensions.0.abilityWithCharges.cooldownGerund>em recuperação</VWE_UnderbarrelFlarestriker.modExtensions.0.abilityWithCharges.cooldownGerund>
+</LanguageData>
+

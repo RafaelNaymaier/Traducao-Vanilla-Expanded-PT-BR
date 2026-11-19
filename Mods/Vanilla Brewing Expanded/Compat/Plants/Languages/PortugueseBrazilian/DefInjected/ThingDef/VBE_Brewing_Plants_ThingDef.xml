@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: cider -->
+  <VBE_Cider.label>sidra</VBE_Cider.label>
+
+  <!-- EN: A barely alcoholic beverage meant to be refreshing and fruity. Try as anybody might it is pointless trying to get inebriated by cider alone, thus it is popular among those with prior addiction. Anecdotally, many praise it for supposed antioxidant properties. -->
+  <VBE_Cider.description>Uma bebida de baixíssimo teor alcoólico, feita para ser refrescante e frutada. Por mais que se tente, é inútil buscar embriaguez só com sidra, o que a torna popular entre pessoas com histórico de dependência. Muitos também elogiam suas supostas propriedades antioxidantes.</VBE_Cider.description>
+
+  <!-- EN: Drink {0} -->
+  <VBE_Cider.ingestible.ingestCommandString>Beber {0}</VBE_Cider.ingestible.ingestCommandString>
+
+  <!-- EN: Drinking {0}. -->
+  <VBE_Cider.ingestible.ingestReportString>Bebendo {0}.</VBE_Cider.ingestible.ingestReportString>
+
+  <!-- EN: bottle -->
+  <VBE_Cider.tools.bottle.label>garrafa</VBE_Cider.tools.bottle.label>
+
+  <!-- EN: neck -->
+  <VBE_Cider.tools.neck.label>gargalo</VBE_Cider.tools.neck.label>
+
+  <!-- EN: unfermented cider -->
+  <VBE_UnfermentedCider.label>sidra não fermentada</VBE_UnfermentedCider.label>
+
+  <!-- EN: Unfermented cider with a starter in an air-tight bottle. If left alone to develop the proper bacteria the end result will be a weak alcoholic beverage. -->
+  <VBE_UnfermentedCider.description>Sidra não fermentada com uma cultura inicial em uma garrafa hermética. Se deixada em repouso para desenvolver as bactérias adequadas, resulta em uma bebida de baixo teor alcoólico.</VBE_UnfermentedCider.description>
+
+</LanguageData>
+
