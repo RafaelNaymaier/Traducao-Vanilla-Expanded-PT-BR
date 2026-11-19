@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: burning -->
+  <Major.label>ardente</Major.label>
+
+  <!-- EN: A defining skill, driven by deep passion or a pivotal moment in their past. -->
+  <Major.description>Uma habilidade marcante, motivada por uma paixão profunda ou por um momento decisivo do passado.</Major.description>
+
+  <!-- EN: interested -->
+  <Minor.label>interesse</Minor.label>
+
+  <!-- EN: This skill is found enjoyable, but it’s more of a hobby than a calling. -->
+  <Minor.description>Esta habilidade é prazerosa, mas é mais um passatempo do que uma vocação.</Minor.description>
+
+  <!-- EN: none -->
+  <None.label>nenhuma</None.label>
+
+  <!-- EN: no passion -->
+  <None.description>sem paixão</None.description>
+
+  <!-- EN: apathy -->
+  <VSE_Apathy.label>apatia</VSE_Apathy.label>
+
+  <!-- EN: Absolutely no interest in this skill. -->
+  <VSE_Apathy.description>Nenhum interesse nesta habilidade.</VSE_Apathy.description>
+
+  <!-- EN: critical -->
+  <VSE_Critical.label>crítica</VSE_Critical.label>
+
+  <!-- EN: This skill is extremely important in some way, most likely due to events in their past. -->
+  <VSE_Critical.description>Esta habilidade é extremamente importante de alguma forma, provavelmente devido a acontecimentos do passado.</VSE_Critical.description>
+
+  <!-- EN: natural -->
+  <VSE_Natural.label>natural</VSE_Natural.label>
+
+  <!-- EN: Naturally good at this skill. However, this means they won’t keep up their practice. -->
+  <VSE_Natural.description>Talento natural nesta habilidade. Porém, isso faz com que a prática seja deixada de lado.</VSE_Natural.description>
+
+</LanguageData>
+
