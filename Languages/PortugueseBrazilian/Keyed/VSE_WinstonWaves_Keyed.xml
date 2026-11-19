@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Random reward of the {0} category -->
+  <VESWW.RandomRewardOf>Recompensa aleatória da categoria {0}</VESWW.RandomRewardOf>
+
+  <!-- EN: {0} random apparel(s) of {1} quality with the {3} tag -->
+  <VESWW.RandomApparel>Vestuário aleatório de qualidade {1}, com marcador {3}. Quantidade: {0}</VESWW.RandomApparel>
+
+  <!-- EN: {0} random weapon(s) of {1} quality with the {3} tag -->
+  <VESWW.RandomWeapons>Armas aleatórias de qualidade {1}, com marcador {3}. Quantidade: {0}</VESWW.RandomWeapons>
+
+  <!-- EN: {0} random thing(s) of {1} quality within the {3} category -->
+  <VESWW.RandomThing>Itens aleatórios de qualidade {1} da categoria {3}. Quantidade: {0}</VESWW.RandomThing>
+
+  <!-- EN: {0} random thing(s) of {1} quality within the {3} categories -->
+  <VESWW.RandomThingMC>Itens aleatórios de qualidade {1} das categorias {3}. Quantidade: {0}</VESWW.RandomThingMC>
+
+  <!-- EN: {0} random stone blocks -->
+  <VESWW.RandomBlocks>Blocos de pedra aleatórios: {0}</VESWW.RandomBlocks>
+
+  <!-- EN: {0} random pawn(s) of {1} intelligence -->
+  <VESWW.RandomPawns>Personagens aleatórios de inteligência {1}. Quantidade: {0}</VESWW.RandomPawns>
+
+  <!-- EN: The {0} event -->
+  <VESWW.FiringEvent>O evento {0}</VESWW.FiringEvent>
+
+  <!-- EN: {0} {1} -->
+  <VESWW.Item>{0} {1}</VESWW.Item>
+
+  <!-- EN: {0} {1} of {2} quality -->
+  <VESWW.ItemWQuality>{0} {1} de qualidade {2}</VESWW.ItemWQuality>
+
+  <!-- EN: {0} {1} -->
+  <VESWW.Pawn>{0} {1}</VESWW.Pawn>
+
+  <!-- EN: Unlock {0} researches -->
+  <VESWW.Research>Desbloqueia pesquisas: {0}</VESWW.Research>
+
+  <!-- EN: Add {0} points to every colonists, slaves and prisonners -->
+  <VESWW.SkillBoost>Adiciona {0} pontos a todos os colonos, escravos e prisioneiros</VESWW.SkillBoost>
+
+  <!-- EN: Next wave is delayed by {0} days -->
+  <VESWW.Delay>A próxima onda é adiada em {0} dias</VESWW.Delay>
+
+  <!-- EN: Next wave is wekeaned by {0} -->
+  <VESWW.Weaken>A próxima onda é enfraquecida em {0}</VESWW.Weaken>
+
+  <!-- EN: Next wave will also spawn friendlies to help you out -->
+  <VESWW.Allies>A próxima onda também trará aliados para ajudar você</VESWW.Allies>
+
+  <!-- EN: Instantly heal all damages on all colonists, slaves and prisonners -->
+  <VESWW.MassHeal>Cura instantaneamente todos os ferimentos de todos os colonos, escravos e prisioneiros</VESWW.MassHeal>
+
+  <!-- EN: {0} has been researched -->
+  <VESWW.ResearchUnlocked>{0} foi pesquisado</VESWW.ResearchUnlocked>
+
+  <!-- EN: {0} reward -->
+  <VESWW.Reward>Recompensa {0}</VESWW.Reward>
+
+  <!-- EN: Select reward -->
+  <VESWW.SelectReward>Selecionar recompensa</VESWW.SelectReward>
+
+  <!-- EN: Wave {0} -->
+  <VESWW.WaveNum>Onda {0}</VESWW.WaveNum>
+
+  <!-- EN: Enemies coming ({0}): -->
+  <VESWW.EnemiesC>Inimigos a caminho ({0}):</VESWW.EnemiesC>
+
+  <!-- EN: Defeat remaining enemies: -->
+  <VESWW.EnemiesR>Derrote os inimigos restantes:</VESWW.EnemiesR>
+
+  <!-- EN: You are getting: {0} -->
+  <VESWW.RandRewardOutcome>Você receberá: {0}</VESWW.RandRewardOutcome>
+
+  <!-- EN: Removing other reward drop spot -->
+  <VESWW.RemoveOldDropSpot>Removendo outro ponto de entrega de recompensas</VESWW.RemoveOldDropSpot>
+
+  <!-- EN: Summon early -->
+  <VESWW.SkipWave>Convocar antecipadamente</VESWW.SkipWave>
+
+  <!-- EN: Boss wave -->
+  <VESWW.BossWave>Onda de chefão</VESWW.BossWave>
+
+  <!-- EN: Normal wave -->
+  <VESWW.NormalWave>Onda normal</VESWW.NormalWave>
+
+  <!-- EN: {0} points used -->
+  <VESWW.PointUsed>{0} pontos usados</VESWW.PointUsed>
+
+  <!-- EN: Reward commonality at this wave: -->
+  <VESWW.RewardChance>Frequência de recompensas nesta onda:</VESWW.RewardChance>
+
+  <!-- EN: {0} chance of getting a fourth reward choice if summoning the wave now -->
+  <VESWW.MoreRewardChance>{0} de chance de receber uma quarta opção de recompensa se convocar a onda agora</VESWW.MoreRewardChance>
+
+  <!-- EN: Game Over! -->
+  <VESWW.GameOver>Fim de Jogo!</VESWW.GameOver>
+
+  <!-- EN: Waves survived: {0} -->
+  <VESWW.SurvivedX>Ondas sobrevividas: {0}</VESWW.SurvivedX>
+
+  <!-- EN: Days survived: {0} -->
+  <VESWW.SurvivedDaysX>Dias sobrevividos: {0}</VESWW.SurvivedDaysX>
+
+  <!-- EN: Total kills: {0} -->
+  <VESWW.TotalKill>Total de abates: {0}</VESWW.TotalKill>
+
+  <!-- EN: Greatest population: {0} -->
+  <VESWW.MaxPopEver>Maior população: {0}</VESWW.MaxPopEver>
+
+  <!-- EN: Reinforcement! -->
+  <VESWW.Reinforcement>Reforços!</VESWW.Reinforcement>
+
+  <!-- EN: Final score: {0} -->
+  <VESWW.Score>Pontuação final: {0}</VESWW.Score>
+
+  <!-- EN: Draggable: -->
+  <VESWW.Locked>Arrastável:</VESWW.Locked>
+
+  <!-- EN: Poor -->
+  <VESWW.Poor>Ruim</VESWW.Poor>
+
+  <!-- EN: Normal -->
+  <VESWW.Normal>Normal</VESWW.Normal>
+
+  <!-- EN: Good -->
+  <VESWW.Good>Boa</VESWW.Good>
+
+  <!-- EN: Excellent -->
+  <VESWW.Excellent>Excelente</VESWW.Excellent>
+
+  <!-- EN: Legendary -->
+  <VESWW.Legendary>Lendária</VESWW.Legendary>
+
+  <!-- EN: Raid pawns arriving... -->
+  <VESWW.PawnsArriving>Invasores chegando...</VESWW.PawnsArriving>
+
+  <!-- Settings -->
+
+  <!-- EN: Winston Waves -->
+  <VESWW.ModName>Winston Ondas</VESWW.ModName>
+
+  <!-- EN: Time before first wave: -->
+  <VESWW.TimeBeforeFirstWave>Tempo até a primeira onda:</VESWW.TimeBeforeFirstWave>
+
+  <!-- EN: Time between waves: -->
+  <VESWW.TimeBetweenWaves>Tempo entre ondas:</VESWW.TimeBetweenWaves>
+
+  <!-- EN: Maximum days to deafeat a wave: -->
+  <VESWW.TimeToDefeatWave>Máximo de dias para derrotar uma onda:</VESWW.TimeToDefeatWave>
+
+  <!-- EN: Max threat points used: -->
+  <VESWW.MaxPoints>Máximo de pontos de ameaça usados:</VESWW.MaxPoints>
+
+  <!-- EN: Enable raid point cap: -->
+  <VESWW.EnableMaxPoints>Ativar limite de pontos de invasão:</VESWW.EnableMaxPoints>
+
+  <!-- EN: Draw wave counter background: -->
+  <VESWW.DrawBackground>Exibir fundo do contador de ondas:</VESWW.DrawBackground>
+
+  <!-- EN: Wave points multiplier before wave 20: -->
+  <VESWW.PointMultiplierBefore20>Multiplicador de pontos das ondas antes da onda 20:</VESWW.PointMultiplierBefore20>
+
+  <!-- EN: Wave points multiplier after wave 20: -->
+  <VESWW.PointMultiplierAfter20>Multiplicador de pontos das ondas após a onda 20:</VESWW.PointMultiplierAfter20>
+
+  <!-- EN: Enable stats increase: -->
+  <VESWW.EnableStats>Ativar aumento de atributos:</VESWW.EnableStats>
+
+  <!-- EN: Draw wave counter background: -->
+  <VESWW.DrawBack>Exibir fundo do contador de ondas:</VESWW.DrawBack>
+
+  <!-- EN: Enable mystery mode: -->
+  <VESWW.MysteryMod>Ativar modo de mistério:</VESWW.MysteryMod>
+
+  <!-- EN: Send random reward: -->
+  <VESWW.RandomRewardMod>Enviar recompensa aleatória:</VESWW.RandomRewardMod>
+
+  <!-- EN: Exclude modifier(s) from waves: -->
+  <VESWW.Modifiers>Excluir modificadores das ondas:</VESWW.Modifiers>
+
+  <!-- EN: Remove modifier(s) from excluded -->
+  <VESWW.RModifiers>Remover modificadores da lista de exclusão</VESWW.RModifiers>
+
+  <!-- EN: Exclude modifier(s) -->
+  <VESWW.AModifiers>Excluir modificadores</VESWW.AModifiers>
+
+  <!-- EN: Exclude certain faction(s) from waves: -->
+  <VESWW.ExcludedFaction>Excluir certas facções das ondas:</VESWW.ExcludedFaction>
+
+  <!-- EN: Exclude faction -->
+  <VESWW.AddExcludedFaction>Excluir facção</VESWW.AddExcludedFaction>
+
+  <!-- EN: Remove faction from excluded -->
+  <VESWW.RemoveExcludedFaction>Remover facção da lista de exclusão</VESWW.RemoveExcludedFaction>
+
+  <!-- EN: Exclude certain strategies from boss waves: -->
+  <VESWW.ExcludedStrategy>Excluir certas estratégias das ondas de chefão:</VESWW.ExcludedStrategy>
+
+  <!-- EN: Exclude raid strategy -->
+  <VESWW.AddExcludedStrategy>Excluir estratégia de invasão</VESWW.AddExcludedStrategy>
+
+  <!-- EN: Remove raid strategy from excluded -->
+  <VESWW.RemoveExcludedStrategy>Remover estratégia de invasão da lista de exclusão</VESWW.RemoveExcludedStrategy>
+
+  <!-- EN: Invalid modifier (this was a modded item from a removed mod) -->
+  <VSEWW_Removed>Modificador inválido (era um item de um mod que foi removido)</VSEWW_Removed>
+
+  <!-- EN: Hide the wave counter "draggable" checkbox: -->
+  <VESWW.ShowDraggable>Ocultar a caixa "arrastável" do contador de ondas:</VESWW.ShowDraggable>
+
+  <!-- EN: Timer use rimworld time: -->
+  <VESWW.UseRimworldTime>Cronômetro usa o tempo de RimWorld:</VESWW.UseRimworldTime>
+
+  <!-- EN: Show raiders pawns list and faction: -->
+  <VESWW.DontShowPawnList>Mostrar lista de invasores e sua facção:</VESWW.DontShowPawnList>
+
+  <!-- EN: Reset wave counter position -->
+  <VESWW.ResetCounterPos>Restaurar posição do contador de ondas</VESWW.ResetCounterPos>
+
+  <!-- EN: Load a save using Winston first! -->
+  <VESWW.LoadToReset>Primeiro carregue um jogo salvo que use Winston!</VESWW.LoadToReset>
+
+  <!-- EN: Reward drop pods also drop steel slag chunk(s) -->
+  <VESWW.DisableSteelSlagChunk>Cápsulas de recompensa também deixam fragmentos de escória de aço</VESWW.DisableSteelSlagChunk>
+
+  <!-- EN: [Odyssey] Allow raids on space maps: -->
+  <VESWW.AllowSpaceRaids>[Odyssey] Permitir invasões em mapas espaciais:</VESWW.AllowSpaceRaids>
+
+  <!-- EN: General -->
+  <VESWW.GS>Geral</VESWW.GS>
+
+  <!-- EN: Waves -->
+  <VESWW.VS>Ondas</VESWW.VS>
+
+  <!-- EN: Modifiers -->
+  <VESWW.MS>Modificadores</VESWW.MS>
+
+  <!-- EN: Wave counter -->
+  <VESWW.WCS>Contador de ondas</VESWW.WCS>
+
+  <!-- Settings tooltips -->
+
+  <!-- EN: Number of days before the first wave arrive. -->
+  <VESWW.TimeBeforeFirstWaveTip>Número de dias até a chegada da primeira onda.</VESWW.TimeBeforeFirstWaveTip>
+
+  <!-- EN: Number of days in between each wave. -->
+  <VESWW.TimeBetweenWavesTip>Número de dias entre cada onda.</VESWW.TimeBetweenWavesTip>
+
+  <!-- EN: Maximum number of days the player have to defeat a wave. If the wave isn't defeated in this time, the next wave is prepared and no rewards are given. -->
+  <VESWW.TimeToDefeatWaveTip>Número máximo de dias que o jogador tem para derrotar uma onda. Se ela não for derrotada nesse tempo, a próxima onda será preparada e nenhuma recompensa será concedida.</VESWW.TimeToDefeatWaveTip>
+
+  <!-- EN: Maximum amount of points used in the raid generation. -->
+  <VESWW.MaxPointsTip>Quantidade máxima de pontos usados para gerar a invasão.</VESWW.MaxPointsTip>
+
+  <!-- EN: Raid point multiplier used before the wave 20. -->
+  <VESWW.PointMultiplierBefore20Tip>Multiplicador de pontos de invasão usado antes da onda 20.</VESWW.PointMultiplierBefore20Tip>
+
+  <!-- EN: Raid point multiplier used after the wave 20. -->
+  <VESWW.PointMultiplierAfter20Tip>Multiplicador de pontos de invasão usado após a onda 20.</VESWW.PointMultiplierAfter20Tip>
+
+  <!-- EN: Stats increased are: natural healing factor, global work speed, research speed and plant growth speed. -->
+  <VESWW.EnableStatsTip>Os atributos aumentados são: fator de cura natural, velocidade de trabalho global, velocidade de pesquisa e velocidade de crescimento das plantas.</VESWW.EnableStatsTip>
+
+  <!-- EN: With this enabled, the reward window will never be showed. You will always get a random reward. -->
+  <VESWW.RandomRewardModTip>Quando ativado, a janela de recompensas nunca será exibida. Você sempre receberá uma recompensa aleatória.</VESWW.RandomRewardModTip>
+
+  <!-- EN: With this enabled, the modifier will always be hidden. You will know a modifier has been applied, but not which one. -->
+  <VESWW.MysteryModTip>Quando ativado, o modificador sempre ficará oculto. Você saberá que um modificador foi aplicado, mas não qual.</VESWW.MysteryModTip>
+
+  <!-- EN: If disabled, you won't be able to change the counter draggabality until you reactivate this. -->
+  <VESWW.ShowDraggableTip>Se desativado, você não poderá alterar se o contador pode ser arrastado até reativar esta opção.</VESWW.ShowDraggableTip>
+
+  <!-- EN: If this is enabled the timer use rimworld time instead of real life time. -->
+  <VESWW.UseRimworldTimeTip>Se ativado, o cronômetro usará o tempo de RimWorld em vez do tempo real.</VESWW.UseRimworldTimeTip>
+
+  <!-- EN: Allows raids to occur in Odyssey space biomes. Requires map reload to take effect. -->
+  <VESWW.AllowSpaceRaidsTip>Permite invasões nos biomas espaciais de Odyssey. É necessário recarregar o mapa para a alteração ter efeito.</VESWW.AllowSpaceRaidsTip>
+
+  <!-- Fraction prob settings -->
+
+  <!-- EN: Faction weight and strength multipliers -->
+  <VESWW.FactionMultipliers>Multiplicadores de peso e força das facções</VESWW.FactionMultipliers>
+
+  <!-- EN: Weight multiplier -->
+  <VESWW.WeightMultiplier>Multiplicador de peso</VESWW.WeightMultiplier>
+
+  <!-- EN: Strength multiplier -->
+  <VESWW.StrengthMultiplier>Multiplicador de força</VESWW.StrengthMultiplier>
+
+  <!-- EN: Multiplier (0 to 10) applied to the chance of this faction being picked for a raid. -->
+  <VESWW.WeightMultiplierTip>Multiplicador (0 a 10) aplicado à chance de esta facção ser escolhida para uma invasão.</VESWW.WeightMultiplierTip>
+
+  <!-- EN: Multiplier (0 to 10) applied to raid points if this faction is picked. -->
+  <VESWW.StrengthMultiplierTip>Multiplicador (0 a 10) aplicado aos pontos de invasão se esta facção for escolhida.</VESWW.StrengthMultiplierTip>
+
+  <!-- EN: Configure faction weight and strength multipliers -->
+  <VESWW.OpenFactionMultipliers>Configurar multiplicadores de peso e força das facções</VESWW.OpenFactionMultipliers>
+
+  <!-- EN: hostile -->
+  <VESWW.Hostile>hostil</VESWW.Hostile>
+
+  <!-- EN: allied -->
+  <VESWW.Allied>aliada</VESWW.Allied>
+
+  <!-- EN: neutral -->
+  <VESWW.Neutral>neutra</VESWW.Neutral>
+
+  <!-- EN: unknown -->
+  <VESWW.Unknown>desconhecida</VESWW.Unknown>
+
+  <!-- EN: Ignore base raid commonality curve -->
+  <VESWW.IgnoreBaseCommonality>Ignorar curva básica de frequência de invasões</VESWW.IgnoreBaseCommonality>
+
+  <!-- EN: When enabled, the faction's built-in RaidCommonalityFromPoints curve is ignored entirely, and only your weight multiplier decides the chance of that faction raiding. -->
+  <VESWW.IgnoreBaseCommonalityTip>Quando ativado, a curva RaidCommonalityFromPoints da facção é completamente ignorada, e apenas seu multiplicador de peso determina a chance de essa facção realizar uma invasão.</VESWW.IgnoreBaseCommonalityTip>
+
+</LanguageData>
+
