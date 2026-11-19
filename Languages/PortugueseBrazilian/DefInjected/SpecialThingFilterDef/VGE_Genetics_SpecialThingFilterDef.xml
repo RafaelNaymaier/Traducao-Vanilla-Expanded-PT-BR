@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: allow extracted -->
+  <GR_AllowExtracted.label>permitir extraídos</GR_AllowExtracted.label>
+
+  <!-- EN: Allow corpses that have had their genomes extracted by a genome excavator. -->
+  <GR_AllowExtracted.description>Permite cadáveres cujos genomas já foram extraídos por um extrator de genoma.</GR_AllowExtracted.description>
+
+  <!-- EN: allow unextracted -->
+  <GR_AllowUnextracted.label>permitir não extraídos</GR_AllowUnextracted.label>
+
+  <!-- EN: Allow corpses that haven't had their genomes extracted by a genome excavator. -->
+  <GR_AllowUnextracted.description>Permite cadáveres cujos genomas ainda não foram extraídos por um extrator de genoma.</GR_AllowUnextracted.description>
+
+</LanguageData>
+

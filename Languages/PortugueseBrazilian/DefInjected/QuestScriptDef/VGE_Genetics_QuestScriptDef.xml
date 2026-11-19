@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: <li>questDescription(askerIsNull==true)->We've intercepted radio transmissions from a seemingly abandoned genetics research lab not far from [map_definite]. The site may have some interesting ancient technology scattered around, so it could be a good idea to investigate it.\n\nWe should be well prepared, as genetic monstrosities may still be roaming the derelict installation.</li> -->
+  <GR_OpportunitySite_AbandonedLab.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Interceptamos transmissões de rádio de um laboratório de pesquisa genética aparentemente abandonado perto de [map_definite]. O local pode ter tecnologia antiga interessante espalhada, então talvez valha a pena investigá-lo.\n\nDevemos ir bem preparados, pois monstruosidades genéticas ainda podem vagar pela instalação abandonada.</li>
+  </GR_OpportunitySite_AbandonedLab.questDescriptionRules.rulesStrings>
+
+  <!-- EN: <li>questName(priority=1)->[journey] the [adjectiveLab] [ruins]</li>
+    <li>journey->Journey to</li>
+    <li>journey->Expedition to</li>
+    <li>journey->Mission to</li>
+    <li>journey->Exploration of</li>
+    <li>journey->Investigation of</li>
+    <li>journey->Research into</li>
+    <li>adjectiveLab->Abandoned</li>
+    <li>adjectiveLab->Derelict</li>
+    <li>adjectiveLab->Dilapidated</li>
+    <li>adjectiveLab->Run down</li>
+    <li>adjectiveLab->Desolate</li>
+    <li>ruins->lab</li>
+    <li>ruins->installation</li>
+    <li>ruins->laboratory</li>
+    <li>ruins->reseach post</li> -->
+  <GR_OpportunitySite_AbandonedLab.questNameRules.rulesStrings>
+    <li>questName(priority=1)->[journey] [ruins] [adjectiveLab]</li>
+    <li>journey->Jornada até</li>
+    <li>journey->Expedição até</li>
+    <li>journey->Missão até</li>
+    <li>journey->Exploração de</li>
+    <li>journey->Investigação de</li>
+    <li>journey->Pesquisa em</li>
+    <li>adjectiveLab->abandonado</li>
+    <li>adjectiveLab->em ruínas</li>
+    <li>adjectiveLab->dilapidado</li>
+    <li>adjectiveLab->deteriorado</li>
+    <li>adjectiveLab->desolado</li>
+    <li>ruins->o laboratório</li>
+    <li>ruins->o complexo</li>
+    <li>ruins->o laboratório de pesquisa</li>
+    <li>ruins->o posto de pesquisa</li>
+  </GR_OpportunitySite_AbandonedLab.questNameRules.rulesStrings>
+
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <GR_OpportunitySite_AbandonedLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Missão expirada: [resolvedQuestName]</GR_OpportunitySite_AbandonedLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+
+  <!-- EN: Intercepted communications indicate the abandoned lab has been scavenged by others. The quest [resolvedQuestName] has expired. -->
+  <GR_OpportunitySite_AbandonedLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Comunicações interceptadas indicam que o laboratório abandonado foi saqueado por outros. A missão [resolvedQuestName] expirou.</GR_OpportunitySite_AbandonedLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+  <!-- EN: <li>questDescription(askerIsNull==true)->The biomechanical lab beacon managed to decode the strange radio signals emanating from inside the strange mechanoid chip, revealing the coordinates of a lab complex not far from [map_definite]. This site seems to have been better hidden than the abandoned labs we have been exploring lately.\n\nThe beacon also revealed the original function of the lab complex: infusing paragon hybrids with reconstructive mechanites to somehow increase their power. Perhaps we should travel to the site with some of these hybrids.</li> -->
+  <GR_OpportunitySite_BiomechanicalLab.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->O sinalizador de laboratório biomecânico conseguiu decodificar os sinais de rádio estranhos vindos de dentro do chip mecanoide, revelando as coordenadas de um complexo de laboratórios perto de [map_definite]. Este local parece ter sido mais bem escondido que os laboratórios abandonados que exploramos ultimamente.\n\nO sinalizador também revelou a função original do complexo: infundir híbridos paragões com mecanitos reconstrutivos para, de algum modo, aumentar seu poder. Talvez devamos viajar ao local com alguns desses híbridos.</li>
+  </GR_OpportunitySite_BiomechanicalLab.questDescriptionRules.rulesStrings>
+
+  <!-- EN: <li>questName(priority=1)->[journey] the [adjectiveLab] [ruins]</li>
+    <li>journey->Mission to</li>
+    <li>journey->Exploration of</li>
+    <li>journey->Investigation of</li>
+    <li>journey->Research into</li>
+    <li>adjectiveLab->Mysterious</li>
+    <li>adjectiveLab->Hidden</li>
+    <li>adjectiveLab->Concealed</li>
+    <li>adjectiveLab->Secret</li>
+    <li>adjectiveLab->Camouflaged</li>
+    <li>ruins->biomechanical lab</li>
+    <li>ruins->biomechanical complex</li>
+    <li>ruins->mechanoid installation</li> -->
+  <GR_OpportunitySite_BiomechanicalLab.questNameRules.rulesStrings>
+    <li>questName(priority=1)->[journey] [ruins] [adjectiveLab]</li>
+    <li>journey->Missão até</li>
+    <li>journey->Exploração de</li>
+    <li>journey->Investigação de</li>
+    <li>journey->Pesquisa em</li>
+    <li>adjectiveLab->misterioso</li>
+    <li>adjectiveLab->oculto</li>
+    <li>adjectiveLab->escondido</li>
+    <li>adjectiveLab->secreto</li>
+    <li>adjectiveLab->camuflado</li>
+    <li>ruins->o laboratório biomecânico</li>
+    <li>ruins->o complexo biomecânico</li>
+    <li>ruins->o complexo mecanoide</li>
+  </GR_OpportunitySite_BiomechanicalLab.questNameRules.rulesStrings>
+
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <GR_OpportunitySite_BiomechanicalLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Missão expirada: [resolvedQuestName]</GR_OpportunitySite_BiomechanicalLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+
+  <!-- EN: Intercepted communications indicate the biomechanical lab has been scavenged by others. The quest [resolvedQuestName] has expired. -->
+  <GR_OpportunitySite_BiomechanicalLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Comunicações interceptadas indicam que o laboratório biomecânico foi saqueado por outros. A missão [resolvedQuestName] expirou.</GR_OpportunitySite_BiomechanicalLab.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+</LanguageData>
+

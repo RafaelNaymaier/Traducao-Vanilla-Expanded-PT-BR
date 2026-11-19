@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: chitchat -->
+  <GR_TalkingToHumans.label>bate-papo</GR_TalkingToHumans.label>
+
+  <!-- EN: <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [animalthings].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [animalthings] with [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [animalthings] to [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)->chatted about</li>
+    <li>talkedabout->shared a word about</li>
+    <li>talkedabout->spoke about</li>
+    <li>talkedabout->gabbed about</li>
+    <li>talkedabout->talked about</li>
+    <li>talkedabout->mumbled about</li>
+    <li>talkedabout->quipped about</li>
+    <li>commentedabout->said something about</li>
+    <li>commentedabout->stammered about</li>
+    <li>commentedabout->made a comment about</li>
+    <li>commentedabout->commented about</li>
+    <li>commentedabout->mused about</li>
+    <li>animalthings->the futility of the human condition</li>
+    <li>animalthings->rejecting humanity, returning to monkey</li>
+    <li>animalthings->an ancient movie where monkeys inherited the planet</li>
+    <li>animalthings->the transcendental aesthetic of the totality our faculties</li>
+    <li>animalthings->the never-ending regress in the series of empirical conditions</li>
+    <li>animalthings->how enlightenment is man's release from his self-incurred tutelage</li>
+    <li>animalthings->how language is the house of being</li>
+    <li>animalthings->existance being suffering</li>
+    <li>animalthings->the reasons for being created</li>
+    <li>animalthings->release from the constant suffering of life</li>
+    <li>animalthings->fucking magnets, how do they work?</li>
+    <li>animalthings->eating without a table, and the barbarism of Man</li>
+    <li>animalthings->what the deal is with Thrumbos, huh? Are they aliens, or what?</li>
+    <li>animalthings->bloat, as dumb, stupid animals are wont to do</li>
+    <li>animalthings->the necessity of a killbox to protect the colony</li>
+    <li>animalthings->the ethical concerns of human cloning</li>
+    <li>animalthings->all those anime mods. What are people thinking?</li>
+    <li>animalthings->the forbidden mod</li>
+    <li>animalthings->Bearofleets</li> -->
+  <GR_TalkingToHumans.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [animalthings] na companhia de [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [animalthings] com [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [animalthings] para [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)->bateu papo sobre</li>
+    <li>talkedabout->trocou umas palavras sobre</li>
+    <li>talkedabout->falou sobre</li>
+    <li>talkedabout->tagarelou sobre</li>
+    <li>talkedabout->conversou sobre</li>
+    <li>talkedabout->resmungou sobre</li>
+    <li>talkedabout->fez piada sobre</li>
+    <li>commentedabout->disse algo sobre</li>
+    <li>commentedabout->gaguejou sobre</li>
+    <li>commentedabout->fez um comentário sobre</li>
+    <li>commentedabout->comentou sobre</li>
+    <li>commentedabout->refletiu sobre</li>
+    <li>animalthings->a futilidade da condição humana</li>
+    <li>animalthings->rejeitar a humanidade e voltar a ser macaco</li>
+    <li>animalthings->um filme antigo em que macacos herdaram o planeta</li>
+    <li>animalthings->a estética transcendental da totalidade de nossas faculdades</li>
+    <li>animalthings->a regressão infinita na série de condições empíricas</li>
+    <li>animalthings->como o esclarecimento é a libertação do homem da tutela que impôs a si mesmo</li>
+    <li>animalthings->como a linguagem é a casa do ser</li>
+    <li>animalthings->a existência ser sofrimento</li>
+    <li>animalthings->as razões de terem sido criados</li>
+    <li>animalthings->a libertação do sofrimento constante da vida</li>
+    <li>animalthings->a porra dos ímãs: como funcionam?</li>
+    <li>animalthings->comer sem mesa e a barbárie humana</li>
+    <li>animalthings->qual é a dos trumbos, hein? São alienígenas ou o quê?</li>
+    <li>animalthings->inchaço, como é de se esperar de animais burros e estúpidos</li>
+    <li>animalthings->a necessidade de um corredor de abate para proteger a colônia</li>
+    <li>animalthings->as questões éticas da clonagem humana</li>
+    <li>animalthings->todos aqueles mods de anime. O que as pessoas têm na cabeça?</li>
+    <li>animalthings->o mod proibido</li>
+    <li>animalthings->Bearofleets</li>
+  </GR_TalkingToHumans.logRulesInitiator.rulesStrings>
+
+  <!-- EN: UwU pounce -->
+  <GR_UwUTalkingToHumans.label>salto UwU</GR_UwUTalkingToHumans.label>
+
+  <!-- EN: <li>r_logentry->[INITIATOR_nameDef] approached [RECIPIENT_nameDef] with a playful pounce and [talkedabout] [animalthings].</li>
+    <li>r_logentry->[INITIATOR_nameDef], purring seductively, [talkedabout] [animalthings] with [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] said "UwU, what's this?" and [talkedabout] [animalthings] with [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)->stammered abouwt</li>
+    <li>talkedabout->sputtered abouwt</li>
+    <li>talkedabout->hesitantly mused abouwt</li>
+    <li>talkedabout->tawked abouwt</li>
+    <li>talkedabout->squirmed abouwt</li>
+    <li>talkedabout->shyly conversed abouwt</li>
+    <li>animalthings->if a squiwwew couwd tawk duwu uwu think iwt wouwd have a weawwy high voice ow a weawwy wow voice?</li>
+    <li>animalthings->whawt wouwd youw dweam job combination be? Mine wouwd be a space-cowboy!</li>
+    <li>animalthings->how mozzawewwa iws juwst the best type of cheese</li>
+    <li>animalthings->needing tuwu be punished</li>
+    <li>animalthings->nuzzling a necky wecky</li>
+    <li>animalthings->the x3 nyeccesity fow c-comfowt and secuwity in these t-twying times</li>
+    <li>animalthings->eating without a t-tabwe, and the x3 bawbawism of Man</li>
+    <li>animalthings->the x3 dangews inhewent t-to wiving in a smaww *starts twerking* communyity ;;w;; in the x3 W-W-Wim</li>
+    <li>animalthings->the Empiwe *sweats* and theiw i-incwedibwy advanced technyowogy</li> -->
+  <GR_UwUTalkingToHumans.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] se aproximou de [RECIPIENT_nameDef] com um bote brincalhão e [talkedabout] [animalthings].</li>
+    <li>r_logentry->[INITIATOR_nameDef], ronronando sedutoramente, [talkedabout] [animalthings] com [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] disse "UwU, o que é isso?" e [talkedabout] [animalthings] com [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)->gaguejou sobwi</li>
+    <li>talkedabout->balbuciou sobwi</li>
+    <li>talkedabout->wefletiu hesitantemente sobwi</li>
+    <li>talkedabout->fawou sobwi</li>
+    <li>talkedabout->se contowceu fawando sobwi</li>
+    <li>talkedabout->convewsou timidamente sobwi</li>
+    <li>animalthings->se um esquiwinho pudesse fawar, você acha que teria uma voz muito agudinha ou muito gwavinha?</li>
+    <li>animalthings->quaw sewia sua combinação de twabalhos dos sonhos? A minha sewia caubói espaciaw!</li>
+    <li>animalthings->como mussawewa é simplesmente o mewhor queijo</li>
+    <li>animalthings->pwecisar de um castiguinho</li>
+    <li>animalthings->esfwegar o focinho num pescocinho fofinho</li>
+    <li>animalthings->a x3 necessidade de c-confowto e seguwança nestes tempos d-difíceis</li>
+    <li>animalthings->comer sem m-mesa e a x3 bawbáwie humana</li>
+    <li>animalthings->os x3 pewigos de v-viver numa pequena *começa a rebolar* comunidade ;;w;; na x3 O-O-Owla</li>
+    <li>animalthings->o Impéwio *sua* e sua tecnowogia i-incwivelmente avançada</li>
+  </GR_UwUTalkingToHumans.logRulesInitiator.rulesStrings>
+
+</LanguageData>
+
