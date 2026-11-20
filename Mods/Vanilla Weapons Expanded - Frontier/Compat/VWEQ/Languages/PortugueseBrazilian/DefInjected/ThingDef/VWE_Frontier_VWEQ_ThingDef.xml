@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: derringer -->
+  <VWEFT_Gun_Derringer.label>derringer</VWEFT_Gun_Derringer.label>
+
+  <!-- EN: An ornate, easily concealable pistol meant for disabling aggressive humans and wildlife alike at very close range. Often carried by working girls, farmhands, and shady businessmen of far-off steamworlds.\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots. -->
+  <VWEFT_Gun_Derringer.description>Uma pistola ornamentada e fácil de ocultar, feita para incapacitar tanto humanos agressivos quanto animais selvagens a curtíssima distância. Costuma ser carregada por prostitutas, trabalhadores rurais e negociantes de reputação duvidosa de mundos a vapor distantes.\n\nAs histórias de pistoleiros de mundos a vapor sugerem que esta arma e outras semelhantes são capazes de acertar tiros de sorte incríveis de vez em quando.</VWEFT_Gun_Derringer.description>
+
+  <!-- EN: grip -->
+  <VWEFT_Gun_Derringer.tools.grip.label>cabo</VWEFT_Gun_Derringer.tools.grip.label>
+
+  <!-- EN: barrel -->
+  <VWEFT_Gun_Derringer.tools.barrel.label>cano</VWEFT_Gun_Derringer.tools.barrel.label>
+
+  <!-- EN: derringer -->
+  <VWEFT_Gun_Derringer.verbs.Verb_Shoot.label>derringer</VWEFT_Gun_Derringer.verbs.Verb_Shoot.label>
+
+  <!-- EN: derringer bullet -->
+  <VWEFT_Bullet_Derringer.label>projétil de derringer</VWEFT_Bullet_Derringer.label>
+
+  <!-- EN: lever-action shotgun -->
+  <VWEFT_Gun_LeverActionShotgun.label>espingarda de alavanca</VWEFT_Gun_LeverActionShotgun.label>
+
+  <!-- EN: An ornate, quick-loading simple shotgun used most often for defending ones claim on the frontier, although also a favorite of bartenders and store owners as an imposing tool against rowdy patrons or thieves.\n\nTales of steamworld gunslingers would imply this weapon and ones like it are capable of occasional incredibly lucky shots. -->
+  <VWEFT_Gun_LeverActionShotgun.description>Uma espingarda simples, ornamentada e de recarga rápida, usada principalmente para defender propriedades na fronteira. Também é muito apreciada por donos de bares e lojas como uma arma intimidadora contra clientes arruaceiros ou ladrões.\n\nAs histórias de pistoleiros de mundos a vapor sugerem que esta arma e outras semelhantes são capazes de acertar tiros de sorte incríveis de vez em quando.</VWEFT_Gun_LeverActionShotgun.description>
+
+  <!-- EN: stock -->
+  <VWEFT_Gun_LeverActionShotgun.tools.stock.label>coronha</VWEFT_Gun_LeverActionShotgun.tools.stock.label>
+
+  <!-- EN: barrel -->
+  <VWEFT_Gun_LeverActionShotgun.tools.barrel.label>cano</VWEFT_Gun_LeverActionShotgun.tools.barrel.label>
+
+  <!-- EN: lever-action shotgun -->
+  <VWEFT_Gun_LeverActionShotgun.verbs.Verb_Shoot.label>espingarda de alavanca</VWEFT_Gun_LeverActionShotgun.verbs.Verb_Shoot.label>
+
+  <!-- EN: shotgun blast -->
+  <VWEFT_Bullet_LeverActionShotgun.label>disparo de espingarda</VWEFT_Bullet_LeverActionShotgun.label>
+
+</LanguageData>
+

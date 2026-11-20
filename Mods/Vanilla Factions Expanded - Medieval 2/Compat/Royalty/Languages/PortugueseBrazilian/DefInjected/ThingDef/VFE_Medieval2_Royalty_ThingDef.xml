@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM2_ClarityDraught.label>poção de clareza</VFEM2_ClarityDraught.label>
+
+  <VFEM2_ClarityDraught.description>Um líquido azul-claro que brilha com uma efervescência sutil. Quando o usuário a bebe, ela restaura parte do seu foco psíquico e aumenta sua sensibilidade psíquica, permitindo um processamento mental mais claro e uma percepção aguçada. No entanto, esse aumento na atividade mental eleva significativamente a taxa de fome do usuário, fazendo com que ele precise comer com mais frequência. Além disso, o zumbido mental implacável da poção leva a uma queda perceptível no humor devido ao fluxo avassalador de pensamentos.</VFEM2_ClarityDraught.description>
+
+  <VFEM2_ClarityDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_ClarityDraught.comps.CompUsable.useLabel>
+
+  <VFEM2_ClarityDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_ClarityDraught.ingestible.ingestCommandString>
+
+  <VFEM2_ClarityDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_ClarityDraught.ingestible.ingestReportString>
+
+</LanguageData>
+

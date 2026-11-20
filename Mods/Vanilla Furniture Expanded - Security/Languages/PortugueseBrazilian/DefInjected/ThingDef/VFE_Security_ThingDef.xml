@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <VFES_Gun_PointDefense.label>arma de defesa de ponto</VFES_Gun_PointDefense.label>
@@ -33,15 +33,7 @@
   <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.secondaryFuelGizmoLabel>Granadas carregadas</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.secondaryFuelGizmoLabel>
   <VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.secondaryFuelLabel>Munição</VFES_Turret_AutomatedMortar.comps.CompRefuelable_DualFuel.secondaryFuelLabel>
 
-  <VFES_Complex_HeavyIncineratorComplex.label>complexo de incinerador pesado</VFES_Complex_HeavyIncineratorComplex.label>
-  <VFES_Complex_HeavyIncineratorComplex.description>Um incinerador pesado montado em uma barricada para fornecer cobertura. Precisa ser operado por um colono para disparar. É equipado com um poderoso mega-queimador que requer bioferrita para recarregar.</VFES_Complex_HeavyIncineratorComplex.description>
-  <VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelGizmoLabel>Bioferrita restante</VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelGizmoLabel>
-  <VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelLabel>Bioferrita restante</VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelLabel>
-  <VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.outOfFuelMessage>Necessita de bioferrita</VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.outOfFuelMessage>
   
-  <VFES_ComplexHeavyIncinerator_Top.label>incinerador pesado</VFES_ComplexHeavyIncinerator_Top.label>
-  <VFES_ComplexHeavyIncinerator_Top.description>Um incinerador pesado projetado para ser acoplado a uma torre.</VFES_ComplexHeavyIncinerator_Top.description>
-  <VFES_ComplexHeavyIncinerator_Top.verbs.Verb_BurnerFireSpew.label>incinerador pesado</VFES_ComplexHeavyIncinerator_Top.verbs.Verb_BurnerFireSpew.label>
 
   <VFES_Bullet_ConcealedTurret.label>projétil de mini-torreta oculta</VFES_Bullet_ConcealedTurret.label>
   
@@ -58,17 +50,8 @@
   <VFES_Turret_Concealed.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_Concealed.comps.CompRefuelable.fuelLabel>
   <VFES_Turret_Concealed.comps.CompRefuelable.outOfFuelMessage>Necessita de novo cano</VFES_Turret_Concealed.comps.CompRefuelable.outOfFuelMessage>
 
-  <VFES_Complex_GraserCannon.label>complexo de canhão graser</VFES_Complex_GraserCannon.label>
-  <VFES_Complex_GraserCannon.description>Um devastador laser de raios gama montado em uma barricada para fornecer cobertura. Ele dispara um feixe de varredura capaz de perfurar armaduras e incendiar alvos. Precisa ser operado por um colono para disparar. Requer plastiaço para recondicionar sua matriz emissora após uso intenso.</VFES_Complex_GraserCannon.description>
-  <VFES_Complex_GraserCannon.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do emissor</VFES_Complex_GraserCannon.comps.CompRefuelable.fuelGizmoLabel>
-  <VFES_Complex_GraserCannon.comps.CompRefuelable.fuelLabel>Disparos até a troca do emissor</VFES_Complex_GraserCannon.comps.CompRefuelable.fuelLabel>
-  <VFES_Complex_GraserCannon.comps.CompRefuelable.outOfFuelMessage>Necessita de novo emissor</VFES_Complex_GraserCannon.comps.CompRefuelable.outOfFuelMessage>
   
-  <VFES_ComplexGraserCannon_Top.label>canhão graser</VFES_ComplexGraserCannon_Top.label>
-  <VFES_ComplexGraserCannon_Top.description>Um canhão graser projetado para ser acoplado a uma torre.</VFES_ComplexGraserCannon_Top.description>
-  <VFES_ComplexGraserCannon_Top.verbs.Verb_ShootBeam.label>canhão graser</VFES_ComplexGraserCannon_Top.verbs.Verb_ShootBeam.label>
   
-  <VFES_Mote_WideGraserBeamBase.label>Partícula</VFES_Mote_WideGraserBeamBase.label>
 
   <VFES_LargeRepulsor.label>repulsor grande</VFES_LargeRepulsor.label>
   <VFES_LargeRepulsor.description>Um grande dispositivo ultratecnológico que projeta um campo de energia extremamente vasto ao seu redor para proteger tudo o que estiver dentro, mas consome uma enorme quantidade de energia quando ativo. Funciona através de paredes.\n\nOs repulsores só são ativados quando há uma ameaça ativa presente, como uma invasão ou bombardeio de artilharia. Caso contrário, permanecem em estado inativo e consomem muito menos energia.\n\nPode incendiar a área circundante se dano suficiente for absorvido em um curto período de tempo.</VFES_LargeRepulsor.description>
@@ -264,3 +247,4 @@
   <VFES_Mote_SpotLight.label>Partícula</VFES_Mote_SpotLight.label>
   
 </LanguageData>
+

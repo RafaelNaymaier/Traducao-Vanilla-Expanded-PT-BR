@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_Complex_GraserCannon.label>complexo de canhão graser</VFES_Complex_GraserCannon.label>
+
+  <VFES_Complex_GraserCannon.description>Um devastador laser de raios gama montado em uma barricada para fornecer cobertura. Ele dispara um feixe de varredura capaz de perfurar armaduras e incendiar alvos. Precisa ser operado por um colono para disparar. Requer plastiaço para recondicionar sua matriz emissora após uso intenso.</VFES_Complex_GraserCannon.description>
+
+  <VFES_Complex_GraserCannon.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do emissor</VFES_Complex_GraserCannon.comps.CompRefuelable.fuelGizmoLabel>
+
+  <VFES_Complex_GraserCannon.comps.CompRefuelable.fuelLabel>Disparos até a troca do emissor</VFES_Complex_GraserCannon.comps.CompRefuelable.fuelLabel>
+
+  <VFES_Complex_GraserCannon.comps.CompRefuelable.outOfFuelMessage>Necessita de novo emissor</VFES_Complex_GraserCannon.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_ComplexGraserCannon_Top.label>canhão graser</VFES_ComplexGraserCannon_Top.label>
+
+  <VFES_ComplexGraserCannon_Top.description>Um canhão graser projetado para ser acoplado a uma torre.</VFES_ComplexGraserCannon_Top.description>
+
+  <VFES_ComplexGraserCannon_Top.verbs.Verb_ShootBeam.label>canhão graser</VFES_ComplexGraserCannon_Top.verbs.Verb_ShootBeam.label>
+
+  <VFES_Mote_WideGraserBeamBase.label>Partícula</VFES_Mote_WideGraserBeamBase.label>
+
+</LanguageData>
+

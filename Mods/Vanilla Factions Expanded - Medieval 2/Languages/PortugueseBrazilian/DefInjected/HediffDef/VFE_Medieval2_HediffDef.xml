@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <VFEM2_MeadAlcoholHigh.label>embriaguez de hidromel</VFEM2_MeadAlcoholHigh.label>
@@ -19,18 +19,8 @@
   <VFEM2_WineAlcoholHigh.stages.hammered.label>completamente bêbado</VFEM2_WineAlcoholHigh.stages.hammered.label>
   <VFEM2_WineAlcoholHigh.stages.blackout.label>apagão</VFEM2_WineAlcoholHigh.stages.blackout.label>
 
-  <VFEM2_HemogenDraught.label>poção de hemogênio</VFEM2_HemogenDraught.label>
-  <VFEM2_HemogenDraught.description>Uma poção que melhora todos os traços e habilidades do usuário hemogênico, além de repor o hemogênio ao longo do tempo.</VFEM2_HemogenDraught.description>
-  <VFEM2_HemogenDraught.stages.fading.label>desvanecendo</VFEM2_HemogenDraught.stages.fading.label>
-  <VFEM2_HemogenDraught.stages.potent.label>potente</VFEM2_HemogenDraught.stages.potent.label>
   
-  <VFEM2_HemogenDraughtDumbHediff.label>poção de hemogênio</VFEM2_HemogenDraughtDumbHediff.label>
-  <VFEM2_HemogenDraughtDumbHediff.description>Uma poção que melhora todos os traços e habilidades do usuário hemogênico, além de repor o hemogênio ao longo do tempo.</VFEM2_HemogenDraughtDumbHediff.description>
 
-  <VFEM2_ClarityDraught.label>poção de clareza</VFEM2_ClarityDraught.label>
-  <VFEM2_ClarityDraught.description>Uma poção que aumenta a sensibilidade psíquica do usuário, melhorando suas capacidades de meditação.</VFEM2_ClarityDraught.description>
-  <VFEM2_ClarityDraught.stages.fading.label>desvanecendo</VFEM2_ClarityDraught.stages.fading.label>
-  <VFEM2_ClarityDraught.stages.potent.label>potente</VFEM2_ClarityDraught.stages.potent.label>
 
   <VFEM2_AmnesiaDraught.label>poção de amnésia</VFEM2_AmnesiaDraught.label>
   <VFEM2_AmnesiaDraught.description>Uma poção que faz o usuário perder a memória rapidamente, resultando em memórias negativas e positivas durando significativamente menos tempo.</VFEM2_AmnesiaDraught.description>
@@ -121,3 +111,4 @@
   <VFEM2_PlagueMask.description>A máscara de peste impede que o usuário contraia a peste.</VFEM2_PlagueMask.description>
   
 </LanguageData>
+

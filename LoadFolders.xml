@@ -28,6 +28,8 @@
 
     <!-- Integrações -->
     <li IfModActive="VanillaExpanded.VARME" IfModNotActive="VanillaExpanded.VAPPE">Mods/Vanilla Armour Expanded/Compat/WithoutApparel</li>
+
+    <li IfModActive="VanillaExpanded.VARME">Mods/Vanilla Armour Expanded/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Armour Expanded -->
 
     <!-- MOD_START: Vanilla Aspirations Expanded -->
@@ -75,6 +77,8 @@
     <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/Compat/Achievements_Cooking</li>
     <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/Compat/Cooking</li>
     <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/Compat/Plants</li>
+
+    <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/Compat/Settlers</li>
     <!-- MOD_END: Vanilla Brewing Expanded -->
 
     <!-- MOD_START: Vanilla Brewing Expanded - Coffees and Teas -->
@@ -103,12 +107,17 @@
     <!-- Integrações -->
     <li IfModActive="VE.VanillaChristmasExpanded">Mods/Vanilla Christmas Expanded/Compat/Ideology</li>
     <li IfModActive="VE.VanillaChristmasExpanded">Mods/Vanilla Christmas Expanded/Compat/Royalty</li>
+
+    <li IfModActive="VE.VanillaChristmasExpanded">Mods/Vanilla Christmas Expanded/Compat/CookingPlants</li>
     <!-- MOD_END: Vanilla Christmas Expanded -->
 
     <!-- MOD_START: Vanilla Cooking Expanded -->
     <!-- PACKAGE_ID: VanillaExpanded.VCookE -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Cooking Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Cooking Expanded/Compat/Plants</li>
     <!-- MOD_END: Vanilla Cooking Expanded -->
 
     <!-- MOD_START: Vanilla Cooking Expanded - Bakery -->
@@ -145,6 +154,10 @@
     <!-- PACKAGE_ID: OskarPotocki.VanillaFactionsExpanded.Core -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Mods/Vanilla Expanded Framework</li>
+
+    <!-- Integrações -->
+    <li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Mods/Vanilla Expanded Framework/Compat/Biotech</li>
+    <li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Mods/Vanilla Expanded Framework/Compat/Odyssey</li>
     <!-- MOD_END: Vanilla Expanded Framework -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Classical -->
@@ -157,12 +170,18 @@
     <!-- PACKAGE_ID: OskarPotocki.VFE.Deserters -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VFE.Deserters">Mods/Vanilla Factions Expanded - Deserters</li>
+
+    <!-- Integrações -->
+    <li IfModActive="OskarPotocki.VFE.Deserters">Mods/Vanilla Factions Expanded - Deserters/Compat/Biotech</li>
     <!-- MOD_END: Vanilla Factions Expanded - Deserters -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Empire -->
     <!-- PACKAGE_ID: OskarPotocki.VFE.Empire -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VFE.Empire">Mods/Vanilla Factions Expanded - Empire</li>
+
+    <!-- Integrações -->
+    <li IfModActive="OskarPotocki.VFE.Empire">Mods/Vanilla Factions Expanded - Empire/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Factions Expanded - Empire -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Insectoids 2 -->
@@ -175,6 +194,11 @@
     <!-- PACKAGE_ID: OskarPotocki.VFE.Medieval2 -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VFE.Medieval2">Mods/Vanilla Factions Expanded - Medieval 2</li>
+
+    <!-- Integrações -->
+    <li IfModActive="OskarPotocki.VFE.Medieval2">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Biotech</li>
+    <li IfModActive="OskarPotocki.VFE.Medieval2">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Ideology</li>
+    <li IfModActive="OskarPotocki.VFE.Medieval2">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Factions Expanded - Medieval 2 -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Pirates -->
@@ -218,12 +242,18 @@
     <!-- PACKAGE_ID: VanillaExpanded.VFECore -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VFECore">Mods/Vanilla Furniture Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VFECore">Mods/Vanilla Furniture Expanded/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Furniture Expanded -->
 
     <!-- MOD_START: Vanilla Furniture Expanded - Architect -->
     <!-- PACKAGE_ID: VanillaExpanded.VFEArchitect -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VFEArchitect">Mods/Vanilla Furniture Expanded - Architect</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VFEArchitect">Mods/Vanilla Furniture Expanded - Architect/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Furniture Expanded - Architect -->
 
     <!-- MOD_START: Vanilla Furniture Expanded - Art -->
@@ -289,6 +319,10 @@
     <!-- PACKAGE_ID: VanillaExpanded.VFESecurity -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VFESecurity">Mods/Vanilla Furniture Expanded - Security</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VFESecurity">Mods/Vanilla Furniture Expanded - Security/Compat/Anomaly</li>
+    <li IfModActive="VanillaExpanded.VFESecurity">Mods/Vanilla Furniture Expanded - Security/Compat/Biotech</li>
     <!-- MOD_END: Vanilla Furniture Expanded - Security -->
 
     <!-- MOD_START: Vanilla Furniture Expanded - Spacer Module -->
@@ -370,12 +404,19 @@
 
     <!-- Integrações -->
     <li IfModActive="vanillaexpanded.gravship">Mods/Vanilla Gravship Expanded - Chapter 1/Compat/Ideology</li>
+
+    <li IfModActive="vanillaexpanded.gravship">Mods/Vanilla Gravship Expanded - Chapter 1/Compat/Biotech</li>
+    <li IfModActive="vanillaexpanded.gravship">Mods/Vanilla Gravship Expanded - Chapter 1/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Gravship Expanded - Chapter 1 -->
 
     <!-- MOD_START: Vanilla Gravship Expanded - Chapter 2 -->
     <!-- PACKAGE_ID: vanillaexpanded.gravship2 -->
     <!-- Principal -->
     <li IfModActive="vanillaexpanded.gravship2">Mods/Vanilla Gravship Expanded - Chapter 2</li>
+
+    <!-- Integrações -->
+    <li IfModActive="vanillaexpanded.gravship2">Mods/Vanilla Gravship Expanded - Chapter 2/Compat/Insectoids2</li>
+    <li IfModActive="vanillaexpanded.gravship2">Mods/Vanilla Gravship Expanded - Chapter 2/Compat/Insectoids2Insector</li>
     <!-- MOD_END: Vanilla Gravship Expanded - Chapter 2 -->
 
     <!-- MOD_START: Vanilla Hair Expanded -->
@@ -425,6 +466,8 @@
 
     <!-- Integrações -->
     <li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/Fishing</li>
+
+    <li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/FishingOdyssey</li>
     <!-- MOD_END: Vanilla Ideology Expanded - Memes and Structures -->
 
     <!-- MOD_START: Vanilla Ideology Expanded - Relics and Artifacts -->
@@ -491,6 +534,9 @@
     <!-- PACKAGE_ID: VanillaExpanded.VPlantsEMore -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VPlantsEMore">Mods/Vanilla Plants Expanded - More Plants</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VPlantsEMore">Mods/Vanilla Plants Expanded - More Plants/Compat/Cooking</li>
     <!-- MOD_END: Vanilla Plants Expanded - More Plants -->
 
     <!-- MOD_START: Vanilla Plants Expanded - Mushrooms -->
@@ -554,12 +600,18 @@
     <!-- PACKAGE_ID: vanillaquestsexpanded.generator -->
     <!-- Principal -->
     <li IfModActive="vanillaquestsexpanded.generator">Mods/Vanilla Quests Expanded - The Generator</li>
+
+    <!-- Integrações -->
+    <li IfModActive="vanillaquestsexpanded.generator">Mods/Vanilla Quests Expanded - The Generator/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Quests Expanded - The Generator -->
 
     <!-- MOD_START: Vanilla Races Expanded - Android -->
     <!-- PACKAGE_ID: vanillaracesexpanded.android -->
     <!-- Principal -->
     <li IfModActive="vanillaracesexpanded.android">Mods/Vanilla Races Expanded - Android</li>
+
+    <!-- Integrações -->
+    <li IfModActive="vanillaracesexpanded.android">Mods/Vanilla Races Expanded - Android/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Races Expanded - Android -->
 
     <!-- MOD_START: Vanilla Races Expanded - Archon -->
@@ -611,12 +663,19 @@
     <!-- PACKAGE_ID: vanillaracesexpanded.phytokin -->
     <!-- Principal -->
     <li IfModActive="vanillaracesexpanded.phytokin">Mods/Vanilla Races Expanded - Phytokin</li>
+
+    <!-- Integrações -->
+    <li IfModActive="vanillaracesexpanded.phytokin">Mods/Vanilla Races Expanded - Phytokin/Compat/Ideology</li>
+    <li IfModActive="vanillaracesexpanded.phytokin">Mods/Vanilla Races Expanded - Phytokin/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Races Expanded - Phytokin -->
 
     <!-- MOD_START: Vanilla Races Expanded - Pigskin -->
     <!-- PACKAGE_ID: vanillaracesexpanded.pigskin -->
     <!-- Principal -->
     <li IfModActive="vanillaracesexpanded.pigskin">Mods/Vanilla Races Expanded - Pigskin</li>
+
+    <!-- Integrações -->
+    <li IfModActive="vanillaracesexpanded.pigskin">Mods/Vanilla Races Expanded - Pigskin/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Races Expanded - Pigskin -->
 
     <!-- MOD_START: Vanilla Races Expanded - Sanguophage -->
@@ -626,6 +685,8 @@
 
     <!-- Integrações -->
     <li IfModActive="vanillaracesexpanded.sanguophage" IfModNotActive="vanillaracesexpanded.fungoid">Mods/Vanilla Races Expanded - Sanguophage/Compat/WithoutFungoid</li>
+
+    <li IfModActive="vanillaracesexpanded.sanguophage">Mods/Vanilla Races Expanded - Sanguophage/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Races Expanded - Sanguophage -->
 
     <!-- MOD_START: Vanilla Races Expanded - Saurid -->
@@ -724,6 +785,9 @@
     <!-- PACKAGE_ID: OskarPotocki.VanillaVehiclesExpanded -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VanillaVehiclesExpanded">Mods/Vanilla Vehicles Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="OskarPotocki.VanillaVehiclesExpanded">Mods/Vanilla Vehicles Expanded/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Vehicles Expanded -->
 
     <!-- MOD_START: Vanilla Vehicles Expanded - Tier 3 -->
@@ -760,18 +824,30 @@
     <!-- PACKAGE_ID: VanillaExpanded.VWEBF -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VWEBF">Mods/Vanilla Weapons Expanded - Bioferrite</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VWEBF">Mods/Vanilla Weapons Expanded - Bioferrite/Compat/VWEHW</li>
     <!-- MOD_END: Vanilla Weapons Expanded - Bioferrite -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Coilguns -->
     <!-- PACKAGE_ID: VanillaExpanded.VWEC -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Coilguns</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Coilguns/Compat/Odyssey</li>
     <!-- MOD_END: Vanilla Weapons Expanded - Coilguns -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Frontier -->
     <!-- PACKAGE_ID: VanillaExpanded.VWEFT -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier/Compat/VWEC</li>
+    <li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier/Compat/VWEHW</li>
+    <li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier/Compat/VWEL</li>
+    <li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier/Compat/VWEQ</li>
     <!-- MOD_END: Vanilla Weapons Expanded - Frontier -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Grenades -->
@@ -852,6 +928,8 @@
 
     <!-- Integrações -->
     <li IfModActive="VanillaExpanded.VARME" IfModNotActive="VanillaExpanded.VAPPE">Mods/Vanilla Armour Expanded/Compat/WithoutApparel</li>
+
+    <li IfModActive="VanillaExpanded.VARME">Mods/Vanilla Armour Expanded/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Armour Expanded -->
 
     <!-- MOD_START: Vanilla Aspirations Expanded -->
@@ -899,6 +977,8 @@
     <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/Compat/Achievements_Cooking</li>
     <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/Compat/Cooking</li>
     <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/Compat/Plants</li>
+
+    <li IfModActive="VanillaExpanded.VBrewE">Mods/Vanilla Brewing Expanded/Compat/Settlers</li>
     <!-- MOD_END: Vanilla Brewing Expanded -->
 
     <!-- MOD_START: Vanilla Brewing Expanded - Coffees and Teas -->
@@ -927,12 +1007,17 @@
     <!-- Integrações -->
     <li IfModActive="VE.VanillaChristmasExpanded">Mods/Vanilla Christmas Expanded/Compat/Ideology</li>
     <li IfModActive="VE.VanillaChristmasExpanded">Mods/Vanilla Christmas Expanded/Compat/Royalty</li>
+
+    <li IfModActive="VE.VanillaChristmasExpanded">Mods/Vanilla Christmas Expanded/Compat/CookingPlants</li>
     <!-- MOD_END: Vanilla Christmas Expanded -->
 
     <!-- MOD_START: Vanilla Cooking Expanded -->
     <!-- PACKAGE_ID: VanillaExpanded.VCookE -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Cooking Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Cooking Expanded/Compat/Plants</li>
     <!-- MOD_END: Vanilla Cooking Expanded -->
 
     <!-- MOD_START: Vanilla Cooking Expanded - Bakery -->
@@ -969,6 +1054,10 @@
     <!-- PACKAGE_ID: OskarPotocki.VanillaFactionsExpanded.Core -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Mods/Vanilla Expanded Framework</li>
+
+    <!-- Integrações -->
+    <li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Mods/Vanilla Expanded Framework/Compat/Biotech</li>
+    <li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Mods/Vanilla Expanded Framework/Compat/Odyssey</li>
     <!-- MOD_END: Vanilla Expanded Framework -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Classical -->
@@ -981,12 +1070,18 @@
     <!-- PACKAGE_ID: OskarPotocki.VFE.Deserters -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VFE.Deserters">Mods/Vanilla Factions Expanded - Deserters</li>
+
+    <!-- Integrações -->
+    <li IfModActive="OskarPotocki.VFE.Deserters">Mods/Vanilla Factions Expanded - Deserters/Compat/Biotech</li>
     <!-- MOD_END: Vanilla Factions Expanded - Deserters -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Empire -->
     <!-- PACKAGE_ID: OskarPotocki.VFE.Empire -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VFE.Empire">Mods/Vanilla Factions Expanded - Empire</li>
+
+    <!-- Integrações -->
+    <li IfModActive="OskarPotocki.VFE.Empire">Mods/Vanilla Factions Expanded - Empire/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Factions Expanded - Empire -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Insectoids 2 -->
@@ -999,6 +1094,11 @@
     <!-- PACKAGE_ID: OskarPotocki.VFE.Medieval2 -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VFE.Medieval2">Mods/Vanilla Factions Expanded - Medieval 2</li>
+
+    <!-- Integrações -->
+    <li IfModActive="OskarPotocki.VFE.Medieval2">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Biotech</li>
+    <li IfModActive="OskarPotocki.VFE.Medieval2">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Ideology</li>
+    <li IfModActive="OskarPotocki.VFE.Medieval2">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Factions Expanded - Medieval 2 -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Pirates -->
@@ -1050,12 +1150,18 @@
     <!-- PACKAGE_ID: VanillaExpanded.VFECore -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VFECore">Mods/Vanilla Furniture Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VFECore">Mods/Vanilla Furniture Expanded/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Furniture Expanded -->
 
     <!-- MOD_START: Vanilla Furniture Expanded - Architect -->
     <!-- PACKAGE_ID: VanillaExpanded.VFEArchitect -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VFEArchitect">Mods/Vanilla Furniture Expanded - Architect</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VFEArchitect">Mods/Vanilla Furniture Expanded - Architect/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Furniture Expanded - Architect -->
 
     <!-- MOD_START: Vanilla Furniture Expanded - Art -->
@@ -1121,6 +1227,10 @@
     <!-- PACKAGE_ID: VanillaExpanded.VFESecurity -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VFESecurity">Mods/Vanilla Furniture Expanded - Security</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VFESecurity">Mods/Vanilla Furniture Expanded - Security/Compat/Anomaly</li>
+    <li IfModActive="VanillaExpanded.VFESecurity">Mods/Vanilla Furniture Expanded - Security/Compat/Biotech</li>
     <!-- MOD_END: Vanilla Furniture Expanded - Security -->
 
     <!-- MOD_START: Vanilla Furniture Expanded - Spacer Module -->
@@ -1202,12 +1312,19 @@
 
     <!-- Integrações -->
     <li IfModActive="vanillaexpanded.gravship">Mods/Vanilla Gravship Expanded - Chapter 1/Compat/Ideology</li>
+
+    <li IfModActive="vanillaexpanded.gravship">Mods/Vanilla Gravship Expanded - Chapter 1/Compat/Biotech</li>
+    <li IfModActive="vanillaexpanded.gravship">Mods/Vanilla Gravship Expanded - Chapter 1/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Gravship Expanded - Chapter 1 -->
 
     <!-- MOD_START: Vanilla Gravship Expanded - Chapter 2 -->
     <!-- PACKAGE_ID: vanillaexpanded.gravship2 -->
     <!-- Principal -->
     <li IfModActive="vanillaexpanded.gravship2">Mods/Vanilla Gravship Expanded - Chapter 2</li>
+
+    <!-- Integrações -->
+    <li IfModActive="vanillaexpanded.gravship2">Mods/Vanilla Gravship Expanded - Chapter 2/Compat/Insectoids2</li>
+    <li IfModActive="vanillaexpanded.gravship2">Mods/Vanilla Gravship Expanded - Chapter 2/Compat/Insectoids2Insector</li>
     <!-- MOD_END: Vanilla Gravship Expanded - Chapter 2 -->
 
     <!-- MOD_START: Vanilla Hair Expanded -->
@@ -1257,6 +1374,8 @@
 
     <!-- Integrações -->
     <li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/Fishing</li>
+
+    <li IfModActive="VanillaExpanded.VMemesE">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/FishingOdyssey</li>
     <!-- MOD_END: Vanilla Ideology Expanded - Memes and Structures -->
 
     <!-- MOD_START: Vanilla Ideology Expanded - Relics and Artifacts -->
@@ -1323,6 +1442,9 @@
     <!-- PACKAGE_ID: VanillaExpanded.VPlantsEMore -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VPlantsEMore">Mods/Vanilla Plants Expanded - More Plants</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VPlantsEMore">Mods/Vanilla Plants Expanded - More Plants/Compat/Cooking</li>
     <!-- MOD_END: Vanilla Plants Expanded - More Plants -->
 
     <!-- MOD_START: Vanilla Plants Expanded - Mushrooms -->
@@ -1386,12 +1508,18 @@
     <!-- PACKAGE_ID: vanillaquestsexpanded.generator -->
     <!-- Principal -->
     <li IfModActive="vanillaquestsexpanded.generator">Mods/Vanilla Quests Expanded - The Generator</li>
+
+    <!-- Integrações -->
+    <li IfModActive="vanillaquestsexpanded.generator">Mods/Vanilla Quests Expanded - The Generator/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Quests Expanded - The Generator -->
 
     <!-- MOD_START: Vanilla Races Expanded - Android -->
     <!-- PACKAGE_ID: vanillaracesexpanded.android -->
     <!-- Principal -->
     <li IfModActive="vanillaracesexpanded.android">Mods/Vanilla Races Expanded - Android</li>
+
+    <!-- Integrações -->
+    <li IfModActive="vanillaracesexpanded.android">Mods/Vanilla Races Expanded - Android/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Races Expanded - Android -->
 
     <!-- MOD_START: Vanilla Races Expanded - Archon -->
@@ -1443,12 +1571,19 @@
     <!-- PACKAGE_ID: vanillaracesexpanded.phytokin -->
     <!-- Principal -->
     <li IfModActive="vanillaracesexpanded.phytokin">Mods/Vanilla Races Expanded - Phytokin</li>
+
+    <!-- Integrações -->
+    <li IfModActive="vanillaracesexpanded.phytokin">Mods/Vanilla Races Expanded - Phytokin/Compat/Ideology</li>
+    <li IfModActive="vanillaracesexpanded.phytokin">Mods/Vanilla Races Expanded - Phytokin/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Races Expanded - Phytokin -->
 
     <!-- MOD_START: Vanilla Races Expanded - Pigskin -->
     <!-- PACKAGE_ID: vanillaracesexpanded.pigskin -->
     <!-- Principal -->
     <li IfModActive="vanillaracesexpanded.pigskin">Mods/Vanilla Races Expanded - Pigskin</li>
+
+    <!-- Integrações -->
+    <li IfModActive="vanillaracesexpanded.pigskin">Mods/Vanilla Races Expanded - Pigskin/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Races Expanded - Pigskin -->
 
     <!-- MOD_START: Vanilla Races Expanded - Sanguophage -->
@@ -1458,6 +1593,8 @@
 
     <!-- Integrações -->
     <li IfModActive="vanillaracesexpanded.sanguophage" IfModNotActive="vanillaracesexpanded.fungoid">Mods/Vanilla Races Expanded - Sanguophage/Compat/WithoutFungoid</li>
+
+    <li IfModActive="vanillaracesexpanded.sanguophage">Mods/Vanilla Races Expanded - Sanguophage/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Races Expanded - Sanguophage -->
 
     <!-- MOD_START: Vanilla Races Expanded - Saurid -->
@@ -1556,6 +1693,9 @@
     <!-- PACKAGE_ID: OskarPotocki.VanillaVehiclesExpanded -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VanillaVehiclesExpanded">Mods/Vanilla Vehicles Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActive="OskarPotocki.VanillaVehiclesExpanded">Mods/Vanilla Vehicles Expanded/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Vehicles Expanded -->
 
     <!-- MOD_START: Vanilla Vehicles Expanded - Tier 3 -->
@@ -1592,18 +1732,30 @@
     <!-- PACKAGE_ID: VanillaExpanded.VWEBF -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VWEBF">Mods/Vanilla Weapons Expanded - Bioferrite</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VWEBF">Mods/Vanilla Weapons Expanded - Bioferrite/Compat/VWEHW</li>
     <!-- MOD_END: Vanilla Weapons Expanded - Bioferrite -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Coilguns -->
     <!-- PACKAGE_ID: VanillaExpanded.VWEC -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Coilguns</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Coilguns/Compat/Odyssey</li>
     <!-- MOD_END: Vanilla Weapons Expanded - Coilguns -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Frontier -->
     <!-- PACKAGE_ID: VanillaExpanded.VWEFT -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier</li>
+
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier/Compat/VWEC</li>
+    <li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier/Compat/VWEHW</li>
+    <li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier/Compat/VWEL</li>
+    <li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier/Compat/VWEQ</li>
     <!-- MOD_END: Vanilla Weapons Expanded - Frontier -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Grenades -->
@@ -1684,6 +1836,8 @@
 
     <!-- Integrações -->
     <li IfModActive="VanillaExpanded.VARME" IfModNotActive="VanillaExpanded.VAPPE">Mods/Vanilla Armour Expanded/Compat/WithoutApparel</li>
+
+    <li IfModActiveAll="VanillaExpanded.VARME,ludeon.rimworld.royalty">Mods/Vanilla Armour Expanded/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Armour Expanded -->
 
     <!-- MOD_START: Vanilla Aspirations Expanded -->
@@ -1731,6 +1885,8 @@
     <li IfModActiveAll="VanillaExpanded.VBrewE,vanillaexpanded.achievements,VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded/Compat/Achievements_Cooking</li>
     <li IfModActiveAll="VanillaExpanded.VBrewE,VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded/Compat/Cooking</li>
     <li IfModActiveAll="VanillaExpanded.VBrewE,VanillaExpanded.VPlantsE">Mods/Vanilla Brewing Expanded/Compat/Plants</li>
+
+    <li IfModActiveAll="VanillaExpanded.VBrewE,OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Brewing Expanded/Compat/Settlers</li>
     <!-- MOD_END: Vanilla Brewing Expanded -->
 
     <!-- MOD_START: Vanilla Brewing Expanded - Coffees and Teas -->
@@ -1758,12 +1914,17 @@
     <!-- Integrações -->
     <li IfModActiveAll="VE.VanillaChristmasExpanded,Ludeon.RimWorld.Ideology">Mods/Vanilla Christmas Expanded/Compat/Ideology</li>
     <li IfModActiveAll="VE.VanillaChristmasExpanded,Ludeon.RimWorld.Royalty">Mods/Vanilla Christmas Expanded/Compat/Royalty</li>
+
+    <li IfModActiveAll="VE.VanillaChristmasExpanded,VanillaExpanded.VCookE,VanillaExpanded.VPlantsE">Mods/Vanilla Christmas Expanded/Compat/CookingPlants</li>
     <!-- MOD_END: Vanilla Christmas Expanded -->
 
     <!-- MOD_START: Vanilla Cooking Expanded -->
     <!-- PACKAGE_ID: VanillaExpanded.VCookE -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Cooking Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VCookE,VanillaExpanded.VPlantsE">Mods/Vanilla Cooking Expanded/Compat/Plants</li>
     <!-- MOD_END: Vanilla Cooking Expanded -->
 
     <!-- MOD_START: Vanilla Cooking Expanded - Bakery -->
@@ -1800,6 +1961,10 @@
     <!-- PACKAGE_ID: OskarPotocki.VanillaFactionsExpanded.Core -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Mods/Vanilla Expanded Framework</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="OskarPotocki.VanillaFactionsExpanded.Core,Ludeon.RimWorld.Biotech">Mods/Vanilla Expanded Framework/Compat/Biotech</li>
+    <li IfModActiveAll="OskarPotocki.VanillaFactionsExpanded.Core,Ludeon.RimWorld.Odyssey">Mods/Vanilla Expanded Framework/Compat/Odyssey</li>
     <!-- MOD_END: Vanilla Expanded Framework -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Classical -->
@@ -1812,12 +1977,18 @@
     <!-- PACKAGE_ID: OskarPotocki.VFE.Deserters -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VFE.Deserters">Mods/Vanilla Factions Expanded - Deserters</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="OskarPotocki.VFE.Deserters,Ludeon.RimWorld.Biotech">Mods/Vanilla Factions Expanded - Deserters/Compat/Biotech</li>
     <!-- MOD_END: Vanilla Factions Expanded - Deserters -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Empire -->
     <!-- PACKAGE_ID: OskarPotocki.VFE.Empire -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VFE.Empire">Mods/Vanilla Factions Expanded - Empire</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="OskarPotocki.VFE.Empire,ludeon.rimworld.ideology">Mods/Vanilla Factions Expanded - Empire/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Factions Expanded - Empire -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Insectoids 2 -->
@@ -1830,6 +2001,11 @@
     <!-- PACKAGE_ID: OskarPotocki.VFE.Medieval2 -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VFE.Medieval2">Mods/Vanilla Factions Expanded - Medieval 2</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="OskarPotocki.VFE.Medieval2,Ludeon.RimWorld.Biotech">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Biotech</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Medieval2,Ludeon.RimWorld.Ideology">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Ideology</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Medieval2,Ludeon.RimWorld.Royalty">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Factions Expanded - Medieval 2 -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Pirates -->
@@ -1882,12 +2058,18 @@
     <!-- PACKAGE_ID: VanillaExpanded.VFECore -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VFECore">Mods/Vanilla Furniture Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VFECore,Ludeon.RimWorld.Ideology">Mods/Vanilla Furniture Expanded/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Furniture Expanded -->
 
     <!-- MOD_START: Vanilla Furniture Expanded - Architect -->
     <!-- PACKAGE_ID: VanillaExpanded.VFEArchitect -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VFEArchitect">Mods/Vanilla Furniture Expanded - Architect</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VFEArchitect,Ludeon.RimWorld.Royalty">Mods/Vanilla Furniture Expanded - Architect/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Furniture Expanded - Architect -->
 
     <!-- MOD_START: Vanilla Furniture Expanded - Art -->
@@ -1953,6 +2135,10 @@
     <!-- PACKAGE_ID: VanillaExpanded.VFESecurity -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VFESecurity">Mods/Vanilla Furniture Expanded - Security</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VFESecurity,Ludeon.RimWorld.Anomaly">Mods/Vanilla Furniture Expanded - Security/Compat/Anomaly</li>
+    <li IfModActiveAll="VanillaExpanded.VFESecurity,Ludeon.RimWorld.Biotech">Mods/Vanilla Furniture Expanded - Security/Compat/Biotech</li>
     <!-- MOD_END: Vanilla Furniture Expanded - Security -->
 
     <!-- MOD_START: Vanilla Furniture Expanded - Spacer Module -->
@@ -2034,12 +2220,19 @@
 
     <!-- Integrações -->
     <li IfModActiveAll="vanillaexpanded.gravship,Ludeon.RimWorld.Ideology">Mods/Vanilla Gravship Expanded - Chapter 1/Compat/Ideology</li>
+
+    <li IfModActiveAll="vanillaexpanded.gravship,Ludeon.RimWorld.Biotech">Mods/Vanilla Gravship Expanded - Chapter 1/Compat/Biotech</li>
+    <li IfModActiveAll="vanillaexpanded.gravship,Ludeon.RimWorld.Royalty">Mods/Vanilla Gravship Expanded - Chapter 1/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Gravship Expanded - Chapter 1 -->
 
     <!-- MOD_START: Vanilla Gravship Expanded - Chapter 2 -->
     <!-- PACKAGE_ID: vanillaexpanded.gravship2 -->
     <!-- Principal -->
     <li IfModActive="vanillaexpanded.gravship2">Mods/Vanilla Gravship Expanded - Chapter 2</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="vanillaexpanded.gravship2,OskarPotocki.VFE.Insectoid2">Mods/Vanilla Gravship Expanded - Chapter 2/Compat/Insectoids2</li>
+    <li IfModActiveAll="vanillaexpanded.gravship2,OskarPotocki.VFE.Insectoid2,vanillaracesexpanded.insector">Mods/Vanilla Gravship Expanded - Chapter 2/Compat/Insectoids2Insector</li>
     <!-- MOD_END: Vanilla Gravship Expanded - Chapter 2 -->
 
     <!-- MOD_START: Vanilla Hair Expanded -->
@@ -2089,6 +2282,8 @@
 
     <!-- Integrações -->
     <li IfModActiveAll="VanillaExpanded.VMemesE" IfModActive="VanillaExpanded.VCEF,VanillaExpanded.VCEF_copy">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/Fishing</li>
+
+    <li IfModActiveAll="VanillaExpanded.VMemesE,Ludeon.RimWorld.Odyssey" IfModActive="VanillaExpanded.VCEF,VanillaExpanded.VCEF_copy">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/FishingOdyssey</li>
     <!-- MOD_END: Vanilla Ideology Expanded - Memes and Structures -->
 
     <!-- MOD_START: Vanilla Ideology Expanded - Relics and Artifacts -->
@@ -2154,6 +2349,9 @@
     <!-- PACKAGE_ID: VanillaExpanded.VPlantsEMore -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VPlantsEMore">Mods/Vanilla Plants Expanded - More Plants</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VPlantsEMore,VanillaExpanded.VCookE">Mods/Vanilla Plants Expanded - More Plants/Compat/Cooking</li>
     <!-- MOD_END: Vanilla Plants Expanded - More Plants -->
 
     <!-- MOD_START: Vanilla Plants Expanded - Mushrooms -->
@@ -2217,12 +2415,18 @@
     <!-- PACKAGE_ID: vanillaquestsexpanded.generator -->
     <!-- Principal -->
     <li IfModActive="vanillaquestsexpanded.generator">Mods/Vanilla Quests Expanded - The Generator</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="vanillaquestsexpanded.generator,Ludeon.RimWorld.Ideology">Mods/Vanilla Quests Expanded - The Generator/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Quests Expanded - The Generator -->
 
     <!-- MOD_START: Vanilla Races Expanded - Android -->
     <!-- PACKAGE_ID: vanillaracesexpanded.android -->
     <!-- Principal -->
     <li IfModActive="vanillaracesexpanded.android">Mods/Vanilla Races Expanded - Android</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="vanillaracesexpanded.android,Ludeon.RimWorld.Ideology">Mods/Vanilla Races Expanded - Android/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Races Expanded - Android -->
 
     <!-- MOD_START: Vanilla Races Expanded - Archon -->
@@ -2274,12 +2478,19 @@
     <!-- PACKAGE_ID: vanillaracesexpanded.phytokin -->
     <!-- Principal -->
     <li IfModActive="vanillaracesexpanded.phytokin">Mods/Vanilla Races Expanded - Phytokin</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="vanillaracesexpanded.phytokin,Ludeon.RimWorld.Ideology">Mods/Vanilla Races Expanded - Phytokin/Compat/Ideology</li>
+    <li IfModActiveAll="vanillaracesexpanded.phytokin,Ludeon.RimWorld.Royalty">Mods/Vanilla Races Expanded - Phytokin/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Races Expanded - Phytokin -->
 
     <!-- MOD_START: Vanilla Races Expanded - Pigskin -->
     <!-- PACKAGE_ID: vanillaracesexpanded.pigskin -->
     <!-- Principal -->
     <li IfModActive="vanillaracesexpanded.pigskin">Mods/Vanilla Races Expanded - Pigskin</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="vanillaracesexpanded.pigskin,Ludeon.RimWorld.Ideology">Mods/Vanilla Races Expanded - Pigskin/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Races Expanded - Pigskin -->
 
     <!-- MOD_START: Vanilla Races Expanded - Sanguophage -->
@@ -2289,6 +2500,8 @@
 
     <!-- Integrações -->
     <li IfModActive="vanillaracesexpanded.sanguophage" IfModNotActive="vanillaracesexpanded.fungoid">Mods/Vanilla Races Expanded - Sanguophage/Compat/WithoutFungoid</li>
+
+    <li IfModActiveAll="vanillaracesexpanded.sanguophage,Ludeon.RimWorld.Royalty">Mods/Vanilla Races Expanded - Sanguophage/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Races Expanded - Sanguophage -->
 
     <!-- MOD_START: Vanilla Races Expanded - Saurid -->
@@ -2387,6 +2600,9 @@
     <!-- PACKAGE_ID: OskarPotocki.VanillaVehiclesExpanded -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VanillaVehiclesExpanded">Mods/Vanilla Vehicles Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="OskarPotocki.VanillaVehiclesExpanded,Ludeon.RimWorld.Ideology">Mods/Vanilla Vehicles Expanded/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Vehicles Expanded -->
 
     <!-- MOD_START: Vanilla Vehicles Expanded - Tier 3 -->
@@ -2423,18 +2639,30 @@
     <!-- PACKAGE_ID: VanillaExpanded.VWEBF -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VWEBF">Mods/Vanilla Weapons Expanded - Bioferrite</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VWEBF,VanillaExpanded.VWEHW">Mods/Vanilla Weapons Expanded - Bioferrite/Compat/VWEHW</li>
     <!-- MOD_END: Vanilla Weapons Expanded - Bioferrite -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Coilguns -->
     <!-- PACKAGE_ID: VanillaExpanded.VWEC -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Coilguns</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VWEC,Ludeon.RimWorld.Odyssey">Mods/Vanilla Weapons Expanded - Coilguns/Compat/Odyssey</li>
     <!-- MOD_END: Vanilla Weapons Expanded - Coilguns -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Frontier -->
     <!-- PACKAGE_ID: VanillaExpanded.VWEFT -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VWEFT,VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Frontier/Compat/VWEC</li>
+    <li IfModActiveAll="VanillaExpanded.VWEFT,VanillaExpanded.VWEHW">Mods/Vanilla Weapons Expanded - Frontier/Compat/VWEHW</li>
+    <li IfModActiveAll="VanillaExpanded.VWEFT,VanillaExpanded.VWEL">Mods/Vanilla Weapons Expanded - Frontier/Compat/VWEL</li>
+    <li IfModActiveAll="VanillaExpanded.VWEFT,VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - Frontier/Compat/VWEQ</li>
     <!-- MOD_END: Vanilla Weapons Expanded - Frontier -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Grenades -->
@@ -2515,6 +2743,8 @@
 
     <!-- Integrações -->
     <li IfModActive="VanillaExpanded.VARME" IfModNotActive="VanillaExpanded.VAPPE">Mods/Vanilla Armour Expanded/Compat/WithoutApparel</li>
+
+    <li IfModActiveAll="VanillaExpanded.VARME,ludeon.rimworld.royalty">Mods/Vanilla Armour Expanded/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Armour Expanded -->
 
     <!-- MOD_START: Vanilla Aspirations Expanded -->
@@ -2562,6 +2792,8 @@
     <li IfModActiveAll="VanillaExpanded.VBrewE,vanillaexpanded.achievements,VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded/Compat/Achievements_Cooking</li>
     <li IfModActiveAll="VanillaExpanded.VBrewE,VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded/Compat/Cooking</li>
     <li IfModActiveAll="VanillaExpanded.VBrewE,VanillaExpanded.VPlantsE">Mods/Vanilla Brewing Expanded/Compat/Plants</li>
+
+    <li IfModActiveAll="VanillaExpanded.VBrewE,OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Brewing Expanded/Compat/Settlers</li>
     <!-- MOD_END: Vanilla Brewing Expanded -->
 
     <!-- MOD_START: Vanilla Brewing Expanded - Coffees and Teas -->
@@ -2589,12 +2821,17 @@
     <!-- Integrações -->
     <li IfModActiveAll="VE.VanillaChristmasExpanded,Ludeon.RimWorld.Ideology">Mods/Vanilla Christmas Expanded/Compat/Ideology</li>
     <li IfModActiveAll="VE.VanillaChristmasExpanded,Ludeon.RimWorld.Royalty">Mods/Vanilla Christmas Expanded/Compat/Royalty</li>
+
+    <li IfModActiveAll="VE.VanillaChristmasExpanded,VanillaExpanded.VCookE,VanillaExpanded.VPlantsE">Mods/Vanilla Christmas Expanded/Compat/CookingPlants</li>
     <!-- MOD_END: Vanilla Christmas Expanded -->
 
     <!-- MOD_START: Vanilla Cooking Expanded -->
     <!-- PACKAGE_ID: VanillaExpanded.VCookE -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Cooking Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VCookE,VanillaExpanded.VPlantsE">Mods/Vanilla Cooking Expanded/Compat/Plants</li>
     <!-- MOD_END: Vanilla Cooking Expanded -->
 
     <!-- MOD_START: Vanilla Cooking Expanded - Bakery -->
@@ -2631,6 +2868,10 @@
     <!-- PACKAGE_ID: OskarPotocki.VanillaFactionsExpanded.Core -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Mods/Vanilla Expanded Framework</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="OskarPotocki.VanillaFactionsExpanded.Core,Ludeon.RimWorld.Biotech">Mods/Vanilla Expanded Framework/Compat/Biotech</li>
+    <li IfModActiveAll="OskarPotocki.VanillaFactionsExpanded.Core,Ludeon.RimWorld.Odyssey">Mods/Vanilla Expanded Framework/Compat/Odyssey</li>
     <!-- MOD_END: Vanilla Expanded Framework -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Classical -->
@@ -2643,12 +2884,18 @@
     <!-- PACKAGE_ID: OskarPotocki.VFE.Deserters -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VFE.Deserters">Mods/Vanilla Factions Expanded - Deserters</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="OskarPotocki.VFE.Deserters,Ludeon.RimWorld.Biotech">Mods/Vanilla Factions Expanded - Deserters/Compat/Biotech</li>
     <!-- MOD_END: Vanilla Factions Expanded - Deserters -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Empire -->
     <!-- PACKAGE_ID: OskarPotocki.VFE.Empire -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VFE.Empire">Mods/Vanilla Factions Expanded - Empire</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="OskarPotocki.VFE.Empire,ludeon.rimworld.ideology">Mods/Vanilla Factions Expanded - Empire/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Factions Expanded - Empire -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Insectoids 2 -->
@@ -2661,6 +2908,11 @@
     <!-- PACKAGE_ID: OskarPotocki.VFE.Medieval2 -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VFE.Medieval2">Mods/Vanilla Factions Expanded - Medieval 2</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="OskarPotocki.VFE.Medieval2,Ludeon.RimWorld.Biotech">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Biotech</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Medieval2,Ludeon.RimWorld.Ideology">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Ideology</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Medieval2,Ludeon.RimWorld.Royalty">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Factions Expanded - Medieval 2 -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Pirates -->
@@ -2713,12 +2965,18 @@
     <!-- PACKAGE_ID: VanillaExpanded.VFECore -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VFECore">Mods/Vanilla Furniture Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VFECore,Ludeon.RimWorld.Ideology">Mods/Vanilla Furniture Expanded/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Furniture Expanded -->
 
     <!-- MOD_START: Vanilla Furniture Expanded - Architect -->
     <!-- PACKAGE_ID: VanillaExpanded.VFEArchitect -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VFEArchitect">Mods/Vanilla Furniture Expanded - Architect</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VFEArchitect,Ludeon.RimWorld.Royalty">Mods/Vanilla Furniture Expanded - Architect/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Furniture Expanded - Architect -->
 
     <!-- MOD_START: Vanilla Furniture Expanded - Art -->
@@ -2784,6 +3042,10 @@
     <!-- PACKAGE_ID: VanillaExpanded.VFESecurity -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VFESecurity">Mods/Vanilla Furniture Expanded - Security</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VFESecurity,Ludeon.RimWorld.Anomaly">Mods/Vanilla Furniture Expanded - Security/Compat/Anomaly</li>
+    <li IfModActiveAll="VanillaExpanded.VFESecurity,Ludeon.RimWorld.Biotech">Mods/Vanilla Furniture Expanded - Security/Compat/Biotech</li>
     <!-- MOD_END: Vanilla Furniture Expanded - Security -->
 
     <!-- MOD_START: Vanilla Furniture Expanded - Spacer Module -->
@@ -2865,12 +3127,19 @@
 
     <!-- Integrações -->
     <li IfModActiveAll="vanillaexpanded.gravship,Ludeon.RimWorld.Ideology">Mods/Vanilla Gravship Expanded - Chapter 1/Compat/Ideology</li>
+
+    <li IfModActiveAll="vanillaexpanded.gravship,Ludeon.RimWorld.Biotech">Mods/Vanilla Gravship Expanded - Chapter 1/Compat/Biotech</li>
+    <li IfModActiveAll="vanillaexpanded.gravship,Ludeon.RimWorld.Royalty">Mods/Vanilla Gravship Expanded - Chapter 1/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Gravship Expanded - Chapter 1 -->
 
     <!-- MOD_START: Vanilla Gravship Expanded - Chapter 2 -->
     <!-- PACKAGE_ID: vanillaexpanded.gravship2 -->
     <!-- Principal -->
     <li IfModActive="vanillaexpanded.gravship2">Mods/Vanilla Gravship Expanded - Chapter 2</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="vanillaexpanded.gravship2,OskarPotocki.VFE.Insectoid2">Mods/Vanilla Gravship Expanded - Chapter 2/Compat/Insectoids2</li>
+    <li IfModActiveAll="vanillaexpanded.gravship2,OskarPotocki.VFE.Insectoid2,vanillaracesexpanded.insector">Mods/Vanilla Gravship Expanded - Chapter 2/Compat/Insectoids2Insector</li>
     <!-- MOD_END: Vanilla Gravship Expanded - Chapter 2 -->
 
     <!-- MOD_START: Vanilla Hair Expanded -->
@@ -2920,6 +3189,8 @@
 
     <!-- Integrações -->
     <li IfModActiveAll="VanillaExpanded.VMemesE" IfModActive="VanillaExpanded.VCEF,VanillaExpanded.VCEF_copy">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/Fishing</li>
+
+    <li IfModActiveAll="VanillaExpanded.VMemesE,Ludeon.RimWorld.Odyssey" IfModActive="VanillaExpanded.VCEF,VanillaExpanded.VCEF_copy">Mods/Vanilla Ideology Expanded - Memes and Structures/Compat/FishingOdyssey</li>
     <!-- MOD_END: Vanilla Ideology Expanded - Memes and Structures -->
 
     <!-- MOD_START: Vanilla Ideology Expanded - Relics and Artifacts -->
@@ -2985,6 +3256,9 @@
     <!-- PACKAGE_ID: VanillaExpanded.VPlantsEMore -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VPlantsEMore">Mods/Vanilla Plants Expanded - More Plants</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VPlantsEMore,VanillaExpanded.VCookE">Mods/Vanilla Plants Expanded - More Plants/Compat/Cooking</li>
     <!-- MOD_END: Vanilla Plants Expanded - More Plants -->
 
     <!-- MOD_START: Vanilla Plants Expanded - Mushrooms -->
@@ -3048,12 +3322,18 @@
     <!-- PACKAGE_ID: vanillaquestsexpanded.generator -->
     <!-- Principal -->
     <li IfModActive="vanillaquestsexpanded.generator">Mods/Vanilla Quests Expanded - The Generator</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="vanillaquestsexpanded.generator,Ludeon.RimWorld.Ideology">Mods/Vanilla Quests Expanded - The Generator/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Quests Expanded - The Generator -->
 
     <!-- MOD_START: Vanilla Races Expanded - Android -->
     <!-- PACKAGE_ID: vanillaracesexpanded.android -->
     <!-- Principal -->
     <li IfModActive="vanillaracesexpanded.android">Mods/Vanilla Races Expanded - Android</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="vanillaracesexpanded.android,Ludeon.RimWorld.Ideology">Mods/Vanilla Races Expanded - Android/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Races Expanded - Android -->
 
     <!-- MOD_START: Vanilla Races Expanded - Archon -->
@@ -3105,12 +3385,19 @@
     <!-- PACKAGE_ID: vanillaracesexpanded.phytokin -->
     <!-- Principal -->
     <li IfModActive="vanillaracesexpanded.phytokin">Mods/Vanilla Races Expanded - Phytokin</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="vanillaracesexpanded.phytokin,Ludeon.RimWorld.Ideology">Mods/Vanilla Races Expanded - Phytokin/Compat/Ideology</li>
+    <li IfModActiveAll="vanillaracesexpanded.phytokin,Ludeon.RimWorld.Royalty">Mods/Vanilla Races Expanded - Phytokin/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Races Expanded - Phytokin -->
 
     <!-- MOD_START: Vanilla Races Expanded - Pigskin -->
     <!-- PACKAGE_ID: vanillaracesexpanded.pigskin -->
     <!-- Principal -->
     <li IfModActive="vanillaracesexpanded.pigskin">Mods/Vanilla Races Expanded - Pigskin</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="vanillaracesexpanded.pigskin,Ludeon.RimWorld.Ideology">Mods/Vanilla Races Expanded - Pigskin/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Races Expanded - Pigskin -->
 
     <!-- MOD_START: Vanilla Races Expanded - Sanguophage -->
@@ -3120,6 +3407,8 @@
 
     <!-- Integrações -->
     <li IfModActive="vanillaracesexpanded.sanguophage" IfModNotActive="vanillaracesexpanded.fungoid">Mods/Vanilla Races Expanded - Sanguophage/Compat/WithoutFungoid</li>
+
+    <li IfModActiveAll="vanillaracesexpanded.sanguophage,Ludeon.RimWorld.Royalty">Mods/Vanilla Races Expanded - Sanguophage/Compat/Royalty</li>
     <!-- MOD_END: Vanilla Races Expanded - Sanguophage -->
 
     <!-- MOD_START: Vanilla Races Expanded - Saurid -->
@@ -3218,6 +3507,9 @@
     <!-- PACKAGE_ID: OskarPotocki.VanillaVehiclesExpanded -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VanillaVehiclesExpanded">Mods/Vanilla Vehicles Expanded</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="OskarPotocki.VanillaVehiclesExpanded,Ludeon.RimWorld.Ideology">Mods/Vanilla Vehicles Expanded/Compat/Ideology</li>
     <!-- MOD_END: Vanilla Vehicles Expanded -->
 
     <!-- MOD_START: Vanilla Vehicles Expanded - Tier 3 -->
@@ -3254,18 +3546,30 @@
     <!-- PACKAGE_ID: VanillaExpanded.VWEBF -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VWEBF">Mods/Vanilla Weapons Expanded - Bioferrite</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VWEBF,VanillaExpanded.VWEHW">Mods/Vanilla Weapons Expanded - Bioferrite/Compat/VWEHW</li>
     <!-- MOD_END: Vanilla Weapons Expanded - Bioferrite -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Coilguns -->
     <!-- PACKAGE_ID: VanillaExpanded.VWEC -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Coilguns</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VWEC,Ludeon.RimWorld.Odyssey">Mods/Vanilla Weapons Expanded - Coilguns/Compat/Odyssey</li>
     <!-- MOD_END: Vanilla Weapons Expanded - Coilguns -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Frontier -->
     <!-- PACKAGE_ID: VanillaExpanded.VWEFT -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded - Frontier</li>
+
+    <!-- Integrações -->
+    <li IfModActiveAll="VanillaExpanded.VWEFT,VanillaExpanded.VWEC">Mods/Vanilla Weapons Expanded - Frontier/Compat/VWEC</li>
+    <li IfModActiveAll="VanillaExpanded.VWEFT,VanillaExpanded.VWEHW">Mods/Vanilla Weapons Expanded - Frontier/Compat/VWEHW</li>
+    <li IfModActiveAll="VanillaExpanded.VWEFT,VanillaExpanded.VWEL">Mods/Vanilla Weapons Expanded - Frontier/Compat/VWEL</li>
+    <li IfModActiveAll="VanillaExpanded.VWEFT,VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - Frontier/Compat/VWEQ</li>
     <!-- MOD_END: Vanilla Weapons Expanded - Frontier -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Grenades -->

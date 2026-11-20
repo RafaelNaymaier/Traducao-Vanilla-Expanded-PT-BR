@@ -4,23 +4,11 @@
   <!-- EN: bullet hole -->
   <VWE_Filth_BulletHole.label>marca de bala</VWE_Filth_BulletHole.label>
 
-  <!-- EN: gauss lance sabot -->
-  <VWE_Bullet_GaussLance_Ionized.label>projétil sabot de lança eletromagnética</VWE_Bullet_GaussLance_Ionized.label>
 
-  <!-- EN: gauss lance sabot -->
-  <VWE_Bullet_GaussLance_LowPower_Ionized.label>projétil sabot de lança eletromagnética</VWE_Bullet_GaussLance_LowPower_Ionized.label>
 
-  <!-- EN: gauss revolver sabot -->
-  <VWE_Bullet_GaussMagnum_Ionized.label>projétil sabot de revólver eletromagnético</VWE_Bullet_GaussMagnum_Ionized.label>
 
-  <!-- EN: gauss revolver sabot -->
-  <VWE_Bullet_GaussMagnum_LowPower_Ionized.label>projétil sabot de revólver eletromagnético</VWE_Bullet_GaussMagnum_LowPower_Ionized.label>
 
-  <!-- EN: gauss rifle sabot -->
-  <VWE_Bullet_GaussRifle_Ionized.label>projétil sabot de fuzil eletromagnético</VWE_Bullet_GaussRifle_Ionized.label>
 
-  <!-- EN: gauss rifle sabot -->
-  <VWE_Bullet_GaussRifle_LowPower_Ionized.label>projétil sabot de fuzil eletromagnético</VWE_Bullet_GaussRifle_LowPower_Ionized.label>
 
   <!-- EN: gauss lance sabot -->
   <VWE_Bullet_GaussLance.label>projétil sabot de lança eletromagnética</VWE_Bullet_GaussLance.label>
@@ -109,92 +97,34 @@
   <!-- EN: high power shot -->
   <VWE_Gun_GaussRifle.verbs.high_power_shot.label>disparo de alta potência</VWE_Gun_GaussRifle.verbs.high_power_shot.label>
 
-  <!-- EN: unique gauss lance -->
-  <VWE_Gun_GaussLance_Unique.label>lança eletromagnética única</VWE_Gun_GaussLance_Unique.label>
 
-  <!-- EN: A gauss lance with customized parts. -->
-  <VWE_Gun_GaussLance_Unique.description>Uma lança eletromagnética com peças personalizadas.</VWE_Gun_GaussLance_Unique.description>
 
-  <!-- EN: charge -->
-  <VWE_Gun_GaussLance_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>carga</VWE_Gun_GaussLance_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
 
-  <!-- EN: on cooldown -->
-  <VWE_Gun_GaussLance_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_GaussLance_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
 
-  <!-- EN: High-power mode improves penetration capability of the shots, allowing them to penetrate several targets, but increases the warm up time of the weapon. The damage diminishes with each target hit. -->
-  <VWE_Gun_GaussLance_Unique.comps.CompMultiVerbWeapon.gizmoDescription>O modo de alta potência aumenta a capacidade de penetração dos disparos, permitindo atravessar vários alvos, mas aumenta o tempo de preparação da arma. O dano diminui a cada alvo atingido.</VWE_Gun_GaussLance_Unique.comps.CompMultiVerbWeapon.gizmoDescription>
 
-  <!-- EN: High-power mode -->
-  <VWE_Gun_GaussLance_Unique.comps.CompMultiVerbWeapon.gizmoLabel>Modo de alta potência</VWE_Gun_GaussLance_Unique.comps.CompMultiVerbWeapon.gizmoLabel>
 
-  <!-- EN: barrel -->
-  <VWE_Gun_GaussLance_Unique.tools.barrel.label>cano</VWE_Gun_GaussLance_Unique.tools.barrel.label>
 
-  <!-- EN: low power shot -->
-  <VWE_Gun_GaussLance_Unique.verbs.low_power_shot.label>disparo de baixa potência</VWE_Gun_GaussLance_Unique.verbs.low_power_shot.label>
 
-  <!-- EN: high power shot -->
-  <VWE_Gun_GaussLance_Unique.verbs.high_power_shot.label>disparo de alta potência</VWE_Gun_GaussLance_Unique.verbs.high_power_shot.label>
 
-  <!-- EN: unique gauss revolver -->
-  <VWE_Gun_GaussMagnum_Unique.label>revólver eletromagnético único</VWE_Gun_GaussMagnum_Unique.label>
 
-  <!-- EN: A gauss revolver with customized parts. -->
-  <VWE_Gun_GaussMagnum_Unique.description>Um revólver eletromagnético com peças personalizadas.</VWE_Gun_GaussMagnum_Unique.description>
 
-  <!-- EN: charge -->
-  <VWE_Gun_GaussMagnum_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>carga</VWE_Gun_GaussMagnum_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
 
-  <!-- EN: on cooldown -->
-  <VWE_Gun_GaussMagnum_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_GaussMagnum_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
 
-  <!-- EN: High-power mode improves penetration capability of the shots, allowing them to penetrate several targets, but increases the warm up time of the weapon. The damage diminishes with each target hit. -->
-  <VWE_Gun_GaussMagnum_Unique.comps.CompMultiVerbWeapon.gizmoDescription>O modo de alta potência aumenta a capacidade de penetração dos disparos, permitindo atravessar vários alvos, mas aumenta o tempo de preparação da arma. O dano diminui a cada alvo atingido.</VWE_Gun_GaussMagnum_Unique.comps.CompMultiVerbWeapon.gizmoDescription>
 
-  <!-- EN: High-power mode -->
-  <VWE_Gun_GaussMagnum_Unique.comps.CompMultiVerbWeapon.gizmoLabel>Modo de alta potência</VWE_Gun_GaussMagnum_Unique.comps.CompMultiVerbWeapon.gizmoLabel>
 
-  <!-- EN: grip -->
-  <VWE_Gun_GaussMagnum_Unique.tools.grip.label>empunhadura</VWE_Gun_GaussMagnum_Unique.tools.grip.label>
 
-  <!-- EN: barrel -->
-  <VWE_Gun_GaussMagnum_Unique.tools.barrel.label>cano</VWE_Gun_GaussMagnum_Unique.tools.barrel.label>
 
-  <!-- EN: low power shot -->
-  <VWE_Gun_GaussMagnum_Unique.verbs.low_power_shot.label>disparo de baixa potência</VWE_Gun_GaussMagnum_Unique.verbs.low_power_shot.label>
 
-  <!-- EN: high power shot -->
-  <VWE_Gun_GaussMagnum_Unique.verbs.high_power_shot.label>disparo de alta potência</VWE_Gun_GaussMagnum_Unique.verbs.high_power_shot.label>
 
-  <!-- EN: unique gauss rifle -->
-  <VWE_Gun_GaussRifle_Unique.label>fuzil eletromagnético único</VWE_Gun_GaussRifle_Unique.label>
 
-  <!-- EN: A gauss rifle with customized parts. -->
-  <VWE_Gun_GaussRifle_Unique.description>Um fuzil eletromagnético com peças personalizadas.</VWE_Gun_GaussRifle_Unique.description>
 
-  <!-- EN: charge -->
-  <VWE_Gun_GaussRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>carga</VWE_Gun_GaussRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
 
-  <!-- EN: on cooldown -->
-  <VWE_Gun_GaussRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWE_Gun_GaussRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
 
-  <!-- EN: High-power mode improves penetration capability of the shots, allowing them to penetrate several targets, but increases the warm up time of the weapon. The damage diminishes with each target hit. -->
-  <VWE_Gun_GaussRifle_Unique.comps.CompMultiVerbWeapon.gizmoDescription>O modo de alta potência aumenta a capacidade de penetração dos disparos, permitindo atravessar vários alvos, mas aumenta o tempo de preparação da arma. O dano diminui a cada alvo atingido.</VWE_Gun_GaussRifle_Unique.comps.CompMultiVerbWeapon.gizmoDescription>
 
-  <!-- EN: High-power mode -->
-  <VWE_Gun_GaussRifle_Unique.comps.CompMultiVerbWeapon.gizmoLabel>Modo de alta potência</VWE_Gun_GaussRifle_Unique.comps.CompMultiVerbWeapon.gizmoLabel>
 
-  <!-- EN: stock -->
-  <VWE_Gun_GaussRifle_Unique.tools.stock.label>coronha</VWE_Gun_GaussRifle_Unique.tools.stock.label>
 
-  <!-- EN: barrel -->
-  <VWE_Gun_GaussRifle_Unique.tools.barrel.label>cano</VWE_Gun_GaussRifle_Unique.tools.barrel.label>
 
-  <!-- EN: low power shot -->
-  <VWE_Gun_GaussRifle_Unique.verbs.low_power_shot.label>disparo de baixa potência</VWE_Gun_GaussRifle_Unique.verbs.low_power_shot.label>
 
-  <!-- EN: high power shot -->
-  <VWE_Gun_GaussRifle_Unique.verbs.high_power_shot.label>disparo de alta potência</VWE_Gun_GaussRifle_Unique.verbs.high_power_shot.label>
 
 </LanguageData>
 

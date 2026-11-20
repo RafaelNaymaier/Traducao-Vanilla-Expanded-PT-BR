@@ -1,18 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <VFEM2_NamerDeityVikings.rulePack.rulesStrings>
-    <li>name->[syl][end]</li>
-    <li>name->[syl]'[end]</li>
-    <li>syl->[NorseNames]</li>
-    <li>end->ir</li>
-    <li>end->ur</li>
-    <li>end->on</li>
-    <li>end->gard</li>
-    <li>end->mir</li>
-    <li>end->mund</li>
-    <li>end->thari</li>
-  </VFEM2_NamerDeityVikings.rulePack.rulesStrings>
 
   <ArtDescription_Hearth.rulePack.rulesStrings>
     <li>physical_description_root->A lareira está gravada com uma [depiction] de [image]. [desc_sentence_group]</li>
@@ -92,3 +80,4 @@
   </VFEM2_NamerSettlementViking.rulePack.rulesStrings>
 
 </LanguageData>
+

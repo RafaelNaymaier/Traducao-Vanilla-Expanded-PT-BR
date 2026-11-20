@@ -1,26 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- EN: heavy incinerator -->
-  <VWEB_HeavyIncinerator.label>incinerador pesado</VWEB_HeavyIncinerator.label>
 
-  <!-- EN: A powerful, experimental incinerator that can spray a stream of flame into an area. It can shoot in an arc over allies without harming them. The flame burns off rapidly, so it will only ignite the most flammable targets.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\n\nWhile the main incinerator flamethrower has limited number of uses, the weapon also comes equipped with a bioferrite-powered vaporizer unit which generates a massive blast of superheated plasma from a pressurized bioferrite charge, destroying everything hit. The vaporizer unit must be refueled after each use. -->
-  <VWEB_HeavyIncinerator.description>Um incinerador experimental potente que projeta um jato de chamas sobre uma área. Pode disparar em arco por cima de aliados sem feri-los. As chamas se extinguem rapidamente, incendiando apenas os alvos mais inflamáveis.\n\nPor ser extremamente pesada, esta arma exige armadura motorizada para ser usada com eficácia.\n\nEmbora o lança-chamas principal do incinerador tenha um número limitado de usos, a arma também possui um vaporizador alimentado por bioferrita. Ele gera uma enorme descarga de plasma superaquecido a partir de uma carga pressurizada de bioferrita, destruindo tudo que atinge. O vaporizador deve ser reabastecido após cada uso.</VWEB_HeavyIncinerator.description>
 
-  <!-- EN: burner charge -->
-  <VWEB_HeavyIncinerator.comps.CompEquippableAbilityReloadable.chargeNoun>carga do queimador</VWEB_HeavyIncinerator.comps.CompEquippableAbilityReloadable.chargeNoun>
 
-  <!-- EN: on cooldown -->
-  <VWEB_HeavyIncinerator.comps.CompEquippableAbilityReloadable.cooldownGerund>em recuperação</VWEB_HeavyIncinerator.comps.CompEquippableAbilityReloadable.cooldownGerund>
 
-  <!-- EN: stock -->
-  <VWEB_HeavyIncinerator.tools.stock.label>coronha</VWEB_HeavyIncinerator.tools.stock.label>
 
-  <!-- EN: barrel -->
-  <VWEB_HeavyIncinerator.tools.barrel.label>cano</VWEB_HeavyIncinerator.tools.barrel.label>
 
-  <!-- EN: heavy incinerator -->
-  <VWEB_HeavyIncinerator.verbs.Verb_ArcSprayIncineratorHeavy.label>incinerador pesado</VWEB_HeavyIncinerator.verbs.Verb_ArcSprayIncineratorHeavy.label>
 
   <!-- EN: Mote -->
   <VWEB_Mote_Blue_IncineratorBurst.label>Partícula</VWEB_Mote_Blue_IncineratorBurst.label>

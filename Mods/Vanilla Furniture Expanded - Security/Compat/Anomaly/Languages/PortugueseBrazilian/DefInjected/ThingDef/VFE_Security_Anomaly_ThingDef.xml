@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_Complex_HeavyIncineratorComplex.label>complexo de incinerador pesado</VFES_Complex_HeavyIncineratorComplex.label>
+
+  <VFES_Complex_HeavyIncineratorComplex.description>Um incinerador pesado montado em uma barricada para fornecer cobertura. Precisa ser operado por um colono para disparar. É equipado com um poderoso mega-queimador que requer bioferrita para recarregar.</VFES_Complex_HeavyIncineratorComplex.description>
+
+  <VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelGizmoLabel>Bioferrita restante</VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelGizmoLabel>
+
+  <VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelLabel>Bioferrita restante</VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.fuelLabel>
+
+  <VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.outOfFuelMessage>Necessita de bioferrita</VFES_Complex_HeavyIncineratorComplex.comps.CompRefuelable.outOfFuelMessage>
+
+  <VFES_ComplexHeavyIncinerator_Top.label>incinerador pesado</VFES_ComplexHeavyIncinerator_Top.label>
+
+  <VFES_ComplexHeavyIncinerator_Top.description>Um incinerador pesado projetado para ser acoplado a uma torre.</VFES_ComplexHeavyIncinerator_Top.description>
+
+  <VFES_ComplexHeavyIncinerator_Top.verbs.Verb_BurnerFireSpew.label>incinerador pesado</VFES_ComplexHeavyIncinerator_Top.verbs.Verb_BurnerFireSpew.label>
+
+</LanguageData>
+

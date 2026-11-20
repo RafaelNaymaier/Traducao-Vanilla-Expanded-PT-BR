@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: gauss revolver -->
+  <VWEFT_Gun_GaussRevolver.label>revólver eletromagnético</VWEFT_Gun_GaussRevolver.label>
+
+  <!-- EN: A spacer-tech revolver for that frontier feel with high-tech power. A coil-array accelerates single shots capable of popping the heads of multiple ne'er do wells in a neat line.\n\nJust like its conventional counterpart, this gun supposedly is capable of incredibly lucky shots. -->
+  <VWEFT_Gun_GaussRevolver.description>Um revólver de tecnologia espacial que combina o estilo da fronteira com a potência da alta tecnologia. Um conjunto de bobinas acelera disparos individuais capazes de estourar as cabeças de vários malfeitores bem alinhados.\n\nAssim como sua versão convencional, esta arma supostamente é capaz de acertar tiros de sorte incríveis.</VWEFT_Gun_GaussRevolver.description>
+
+  <!-- EN: grip -->
+  <VWEFT_Gun_GaussRevolver.tools.grip.label>cabo</VWEFT_Gun_GaussRevolver.tools.grip.label>
+
+  <!-- EN: barrel -->
+  <VWEFT_Gun_GaussRevolver.tools.barrel.label>cano</VWEFT_Gun_GaussRevolver.tools.barrel.label>
+
+  <!-- EN: gauss revolver -->
+  <VWEFT_Gun_GaussRevolver.verbs.Verb_Shoot.label>revólver eletromagnético</VWEFT_Gun_GaussRevolver.verbs.Verb_Shoot.label>
+
+  <!-- EN: gauss revolver sabot -->
+  <VWEFT_Bullet_GaussRevolver.label>sabot de revólver eletromagnético</VWEFT_Bullet_GaussRevolver.label>
+
+  <!-- EN: gauss repeater -->
+  <VWEFT_Gun_GaussRepeater.label>rifle de repetição eletromagnético</VWEFT_Gun_GaussRepeater.label>
+
+  <!-- EN: A spacer-tech gauss rifle themed as a steamworld-inspired repeater. A set of coils accelerate terromagnetic sabots capable of penetrating multiple layers of flesh and armor.\n\nJust like its conventional counterpart, this gun supposedly is capable of incredibly lucky shots. -->
+  <VWEFT_Gun_GaussRepeater.description>Um rifle eletromagnético de tecnologia espacial com o visual de um rifle de repetição inspirado nos mundos a vapor. Um conjunto de bobinas acelera sabots terromagnéticos capazes de atravessar várias camadas de carne e armadura.\n\nAssim como sua versão convencional, esta arma supostamente é capaz de acertar tiros de sorte incríveis.</VWEFT_Gun_GaussRepeater.description>
+
+  <!-- EN: stock -->
+  <VWEFT_Gun_GaussRepeater.tools.stock.label>coronha</VWEFT_Gun_GaussRepeater.tools.stock.label>
+
+  <!-- EN: barrel -->
+  <VWEFT_Gun_GaussRepeater.tools.barrel.label>cano</VWEFT_Gun_GaussRepeater.tools.barrel.label>
+
+  <!-- EN: gauss repeater -->
+  <VWEFT_Gun_GaussRepeater.verbs.Verb_Shoot.label>rifle de repetição eletromagnético</VWEFT_Gun_GaussRepeater.verbs.Verb_Shoot.label>
+
+  <!-- EN: gauss repeater sabot -->
+  <VWEFT_Bullet_GaussRepeater.label>sabot de rifle de repetição eletromagnético</VWEFT_Bullet_GaussRepeater.label>
+
+</LanguageData>
+

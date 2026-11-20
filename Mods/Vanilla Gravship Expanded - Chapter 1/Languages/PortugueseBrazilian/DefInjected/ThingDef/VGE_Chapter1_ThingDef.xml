@@ -5,11 +5,7 @@
   <VGE_Apparel_OxygenPack.description>Um pacote utilitário contendo um grande suprimento de oxigênio comprimido. Quando usado com vestimenta selada a vácuo, fornece imunidade total ao vácuo, fornecendo ar respirável. O pacote só consome oxigênio enquanto está no vácuo e deve ser recarregado periodicamente. Também reduz drasticamente a exposição à poluição pelos pulmões.</VGE_Apparel_OxygenPack.description>
   <VGE_Apparel_OxygenPack.comps.CompApparelOxygenProvider.chargeNoun>oxigênio u³</VGE_Apparel_OxygenPack.comps.CompApparelOxygenProvider.chargeNoun>
 
-  <VGE_Apparel_Vacsuit_Prestige.label>vacsuit de prestígio</VGE_Apparel_Vacsuit_Prestige.label>
-  <VGE_Apparel_Vacsuit_Prestige.description>Um traje protetor que mantém o usuário seguro no vácuo do espaço. O traje restringe o movimento do usuário, reduzindo consideravelmente sua velocidade de movimento.\n\nCaros e bonitos, trajes de vácuo de prestígio como este são geralmente feitos para aqueles de alto status na marinha real. Fios de eltex embutidos também aumentam a sensibilidade psíquica do usuário.</VGE_Apparel_Vacsuit_Prestige.description>
   
-  <VGE_Apparel_VacsuitHelmet_Prestige.label>capacete de vacsuit de prestígio</VGE_Apparel_VacsuitHelmet_Prestige.label>
-  <VGE_Apparel_VacsuitHelmet_Prestige.description>Um capacete que recicla eficientemente o oxigênio do usuário, permitindo-lhe respirar no vácuo do espaço por horas seguidas. O processo não é perfeitamente eficiente, então o usuário deve retornar periodicamente a um ambiente pressurizado.\n\nCaro e bonito, um capacete de vacsuit de prestígio como este é geralmente feito para aqueles de alto status na marinha real. Fios de eltex embutidos também aumentam a sensibilidade psíquica do usuário.</VGE_Apparel_VacsuitHelmet_Prestige.description>
 
   <VGE_AstrofuelDrain.label>dreno de astrocombustível</VGE_AstrofuelDrain.label>
   <VGE_AstrofuelDrain.description>Uma estrutura de armazenamento tipo funil destinada a inserir astrocombustível na rede, enchendo os tanques conectados.</VGE_AstrofuelDrain.description>
@@ -96,8 +92,6 @@
   <VGE_TargetingTerminal.label>terminal de mira</VGE_TargetingTerminal.label>
   <VGE_TargetingTerminal.description>Uma estação de controle dedicada a operar uma única peça de artilharia da gravinave. Requer um tripulante para mirar e disparar manualmente a arma. Tira energia diretamente do motor gravitacional.</VGE_TargetingTerminal.description>
 
-  <VGE_OperatorSubpersonaCore.label>subnúcleo de subpersona de operador</VGE_OperatorSubpersonaCore.label>
-  <VGE_OperatorSubpersonaCore.description>Um subnúcleo de alto grau especializado em combate de gravinave. Ele pode se conectar a uma única peça de artilharia da nave e controlá-la da mesma forma que um membro da tripulação operando um terminal de mira. Suas capacidades de combate são abaixo da média, mas permite baterias de artilharia autônomas sem a necessidade de operadores humanos.</VGE_OperatorSubpersonaCore.description>
 
   <VGE_CompactDrugLab.label>laboratório de drogas compacto</VGE_CompactDrugLab.label>
   <VGE_CompactDrugLab.description>Um laboratório de drogas com eficiência espacial, alimentado pela gravinave e projetada para uso a bordo. Apesar de seu quadro menor, está equipado com recipientes, aquecedores e dispositivos de medição para a produção de várias drogas. Ele consome energia diretamente do motor de gravidade.</VGE_CompactDrugLab.description>
@@ -367,9 +361,6 @@
   <VGE_OxyalgaePlant.label>planta de oxialgas</VGE_OxyalgaePlant.label>
   <VGE_OxyalgaePlant.description>Uma planta aquática de crescimento rápido cultivada em hidroponia e usada para gerar oxigênio quando convertida em oxigenador de algas. Apodrece rapidamente quando colhida, tornando o processamento imediato essencial.</VGE_OxyalgaePlant.description>
 
-  <VGE_Astronaut.label>astronauta</VGE_Astronaut.label>
-  <VGE_Astronaut.description>Um mecanoide de tamanho médio projetado para realizar tarefas de construção e combate a incêndios em órbita. Pode realizar ataques corpo a corpo contundentes, se necessário. Não é afetado pelas baixas velocidades de travessia espacial.</VGE_Astronaut.description>
-  <VGE_Astronaut.tools.torso.label>tronco</VGE_Astronaut.tools.torso.label>
 
   <VGE_Astropede.label>astrópede</VGE_Astropede.label>
   <VGE_Astropede.description>mecanoide pesadamente blindados adaptados para a guerra em gravidade zero. Astrópedes flutuam silenciosamente pelo espaço usando estabilizadores gravitacionais, liberando barragens cinéticas explosivas de suas lanças de massa miniaturizadas. Seu perfil flutuante os torna ideais para assaltos a bordo de naves e violações de estações, embora sua lenta velocidade de movimento os deixe vulneráveis a fogo concentrado.</VGE_Astropede.description>
@@ -408,3 +399,4 @@
   <VGE_LandingStructure.label>estrutura de pouso</VGE_LandingStructure.label>
   
 </LanguageData>
+

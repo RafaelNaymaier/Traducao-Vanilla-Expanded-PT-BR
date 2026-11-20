@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM2_HemogenDraught.label>poção de hemogênio</VFEM2_HemogenDraught.label>
+
+  <VFEM2_HemogenDraught.description>Um líquido carmesim rico, fabricado a partir de pacotes de hemogênio concentrados. Quando o usuário a bebe, ela aprimora todas as características e habilidades ligadas à sua natureza hemogênica, impulsionando as capacidades físicas e mentais. Além disso, esta poção reabastece o suprimento de hemogênio do usuário ao longo do tempo, mantendo sua vitalidade e melhorando sua função geral.</VFEM2_HemogenDraught.description>
+
+  <VFEM2_HemogenDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_HemogenDraught.comps.CompUsable.useLabel>
+
+  <VFEM2_HemogenDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_HemogenDraught.ingestible.ingestCommandString>
+
+  <VFEM2_HemogenDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_HemogenDraught.ingestible.ingestReportString>
+
+</LanguageData>
+

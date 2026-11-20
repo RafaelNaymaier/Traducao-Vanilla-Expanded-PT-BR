@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <VFEM2_Mead.label>hidromel</VFEM2_Mead.label>
@@ -97,8 +97,6 @@
   <VFEM2_4x1CastleGate.label>portão de castelo (enorme)</VFEM2_4x1CastleGate.label>
   <VFEM2_4x1CastleGate.description>Uma porta incrivelmente resistente feita de blocos de pedra gigantes, com uma grade treliçada protegendo a passagem. Muito lento para construir. É uma boa escolha se você quiser manter os inimigos fora — ou dentro. A porta requer paredes em ambos os lados para funcionar. Portões de castelo levam muito tempo para abrir.</VFEM2_4x1CastleGate.description>
 
-  <VFEM2_HearthDarklight.label>lareira de luz sombria</VFEM2_HearthDarklight.label>
-  <VFEM2_HearthDarklight.description>Uma fogueira grande e densa capaz de conter grandes quantidades de madeira de uma só vez. Fornece calor e luz consideráveis para salas de trono e salões, e serve como um ponto de encontro para colonos ociosos.</VFEM2_HearthDarklight.description>
 
   <VFEM2_AutofillShelf.label>estante</VFEM2_AutofillShelf.label>
   <VFEM2_AutofillShelf.description>Uma estante de pilha tripla que comporta três vezes mais do que o chão vazio. Itens armazenados dentro dela nunca se deteriorarão e não afetam a beleza do ambiente.\n\nComo o espaço na estante é limitado, as estantes não podem conter pedaços, construções, plantas e cadáveres grandes.</VFEM2_AutofillShelf.description>
@@ -230,27 +228,13 @@
   <VFEM2_HeraldicRugNarrow.label>tapete heráldico (estreito)</VFEM2_HeraldicRugNarrow.label>
   <VFEM2_HeraldicRugNarrow.description>Um tapete decorativo estreito com um design heráldico marcante, perfeito para exibir lealdade ou orgulho familiar em qualquer ambiente.</VFEM2_HeraldicRugNarrow.description>
 
-  <VFEM2_Viking_Slab_Broad.label>laje viking (larga)</VFEM2_Viking_Slab_Broad.label>
-  <VFEM2_Viking_Slab_Broad.description>Um baixo-relevo em pedra com imagens vikings para decorar o chão.</VFEM2_Viking_Slab_Broad.description>
   
-  <VFEM2_Viking_Slab_Medium.label>laje viking (média)</VFEM2_Viking_Slab_Medium.label>
-  <VFEM2_Viking_Slab_Medium.description>Um baixo-relevo em pedra com imagens vikings para decorar o chão.</VFEM2_Viking_Slab_Medium.description>
 
   <VFEM_Mote_CombatCommand.label>partícula</VFEM_Mote_CombatCommand.label>
   
   <VFEM_Mote_CombatCommandLinkLine.label>partícula</VFEM_Mote_CombatCommandLinkLine.label>
 
-  <VFEM2_HemogenDraught.label>poção de hemogênio</VFEM2_HemogenDraught.label>
-  <VFEM2_HemogenDraught.description>Um líquido carmesim rico, fabricado a partir de pacotes de hemogênio concentrados. Quando o usuário a bebe, ela aprimora todas as características e habilidades ligadas à sua natureza hemogênica, impulsionando as capacidades físicas e mentais. Além disso, esta poção reabastece o suprimento de hemogênio do usuário ao longo do tempo, mantendo sua vitalidade e melhorando sua função geral.</VFEM2_HemogenDraught.description>
-  <VFEM2_HemogenDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_HemogenDraught.comps.CompUsable.useLabel>
-  <VFEM2_HemogenDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_HemogenDraught.ingestible.ingestCommandString>
-  <VFEM2_HemogenDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_HemogenDraught.ingestible.ingestReportString>
 
-  <VFEM2_ClarityDraught.label>poção de clareza</VFEM2_ClarityDraught.label>
-  <VFEM2_ClarityDraught.description>Um líquido azul-claro que brilha com uma efervescência sutil. Quando o usuário a bebe, ela restaura parte do seu foco psíquico e aumenta sua sensibilidade psíquica, permitindo um processamento mental mais claro e uma percepção aguçada. No entanto, esse aumento na atividade mental eleva significativamente a taxa de fome do usuário, fazendo com que ele precise comer com mais frequência. Além disso, o zumbido mental implacável da poção leva a uma queda perceptível no humor devido ao fluxo avassalador de pensamentos.</VFEM2_ClarityDraught.description>
-  <VFEM2_ClarityDraught.comps.CompUsable.useLabel>Usar {0_label}</VFEM2_ClarityDraught.comps.CompUsable.useLabel>
-  <VFEM2_ClarityDraught.ingestible.ingestCommandString>Ingerir {0}</VFEM2_ClarityDraught.ingestible.ingestCommandString>
-  <VFEM2_ClarityDraught.ingestible.ingestReportString>Ingerindo {0}.</VFEM2_ClarityDraught.ingestible.ingestReportString>
 
   <VFEM2_AmnesiaDraught.label>poção de amnésia</VFEM2_AmnesiaDraught.label>
   <VFEM2_AmnesiaDraught.description>Um líquido branco e cristalino. Quando o usuário a bebe, faz com que ele perca a memória rapidamente. Este efeito faz com que memórias negativas e positivas desapareçam muito mais rápido do que o normal, levando a uma experiência transitória dos eventos da vida. Embora isso possa aliviar o fardo de memórias dolorosas, também diminui a alegria e o aprendizado obtidos em experiências positivas.</VFEM2_AmnesiaDraught.description>
@@ -481,7 +465,6 @@
   
   <VFEM2V_ThrowingAxe_Thrown.label>machado arremessado</VFEM2V_ThrowingAxe_Thrown.label>
 
-  <VFEM2_RunePillar.label>partícula</VFEM2_RunePillar.label>
 
   <VFEM2_Shield_Heater.label>escudo de aquecedor</VFEM2_Shield_Heater.label>
   <VFEM2_Shield_Heater.description>Um escudo de aço pesado de tamanho médio. Oferece uma quantidade significativa de proteção contra ataques corpo a corpo e à distância.</VFEM2_Shield_Heater.description>
@@ -494,3 +477,4 @@
   <VFEM2_Shield_Round.tools.centre.label>centro</VFEM2_Shield_Round.tools.centre.label>
   
 </LanguageData>
+
