@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_Turret_FieldGun.description>Uma arma tripulada que lança todos os tipos de projéteis. É uma variação do morteiro com todos os seus benefícios e desvantagens, mas possui um cone de 90 graus de fogo direto em troca de uma cadência de tiro duas vezes mais rápida.</VFEP_Turret_FieldGun.description>
+
+  <VFEP_WarcasketFoundry.description>Uma fundição complexa com quatro braços operacionais projetada para auxiliar um operador na montagem de uma pessoa na estrutura de um carcaça de guerra de guerra. Uma vez travado, o piloto não pode sair até que o procedimento termine.\n\nPara começar, um operador inicia a vinculação ao traje — seus nervos e membros são permanentemente conectados à estrutura. Como o carcaça de guerra não foi projetado para registrar desgaste ou dano, eles não sentirão dor. O piloto só pode sair da fundição quando o rebite final for colocado, a última placa for soldada e o sistema de energia for ativado. Até lá, eles precisarão de ajuda externa, como alimentação, pois estão efetivamente enterrados vivos.\n\nComo as várias partes do carcaça de guerra são soldadas na estrutura como uma entidade única e homogênea, é possível misturar e combinar vários designs para se adequar à situação, mas certas gerações posteriores de carcaças de guerra funcionam melhor se fizerem parte da mesma série.</VFEP_WarcasketFoundry.description>
+
+  <!-- EN: warcasket laser blaster -->
+  <VFEP_WarcasketGun_LaserBlaster.label>repetidora laser de carcaça de guerra</VFEP_WarcasketGun_LaserBlaster.label>
+
+  <!-- EN: An enlarged laser weapon, combining both modern and antique methods into a compact package. Taking advantage of a greater weight tolerance, this system includes a revolver cylinder using advanced battery cells instead of cartridges. This allows the weapon to fire more powerful shots at a slower warmup reduction, meaning safer sustained fire for the operator. -->
+  <VFEP_WarcasketGun_LaserBlaster.description>Uma arma laser ampliada que combina técnicas modernas e antigas em um conjunto compacto. Aproveitando a capacidade de suportar mais peso, o sistema incorpora um tambor de revólver que usa células avançadas de bateria em vez de cartuchos. Isso permite disparos mais potentes, com uma redução mais lenta do tempo de preparação do disparo, tornando o fogo sustentado mais seguro para o operador.</VFEP_WarcasketGun_LaserBlaster.description>
+
+</LanguageData>
+

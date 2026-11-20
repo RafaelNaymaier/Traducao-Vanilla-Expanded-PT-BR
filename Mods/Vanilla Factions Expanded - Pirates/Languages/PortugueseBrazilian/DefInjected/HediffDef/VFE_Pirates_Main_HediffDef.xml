@@ -13,5 +13,26 @@
   <VFEP_RumAsIngredient.description>Este colono bebeu um coquetel que tinha rum como um de seus ingredientes. Reduz a taxa de fome em 15%.</VFEP_RumAsIngredient.description>
   
 
+  <!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermic slowdown gets worse and ends in death. Recovery is quick once the victim is re-warmed. -->
+  <VFEP_HypothermicSlowdown.description>Temperatura corporal central perigosamente baixa. A menos que seja reaquecida, a desaceleração hipotérmica piora e termina em morte. A recuperação é rápida assim que a vítima é reaquecida.</VFEP_HypothermicSlowdown.description>
+
+  <!-- EN: hypothermic slowdown -->
+  <VFEP_HypothermicSlowdown.label>desaceleração hipotérmica</VFEP_HypothermicSlowdown.label>
+
+  <!-- EN: extreme -->
+  <VFEP_HypothermicSlowdown.stages.extreme.label>extrema</VFEP_HypothermicSlowdown.stages.extreme.label>
+
+  <!-- EN: minor -->
+  <VFEP_HypothermicSlowdown.stages.minor-0.label>leve</VFEP_HypothermicSlowdown.stages.minor-0.label>
+
+  <!-- EN: minor -->
+  <VFEP_HypothermicSlowdown.stages.minor-1.label>leve</VFEP_HypothermicSlowdown.stages.minor-1.label>
+
+  <!-- EN: moderate -->
+  <VFEP_HypothermicSlowdown.stages.moderate.label>moderada</VFEP_HypothermicSlowdown.stages.moderate.label>
+
+  <!-- EN: serious -->
+  <VFEP_HypothermicSlowdown.stages.serious.label>grave</VFEP_HypothermicSlowdown.stages.serious.label>
+
 </LanguageData>
 

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEP_PirateMeme.label>pirata</VFEP_PirateMeme.label>
+
+  <VFEP_PirateMeme.description>Os fortes devem tirar dos fracos, pois esse é o nosso direito, mas a camaradagem e o código devem ser elevados acima de tudo.</VFEP_PirateMeme.description>
+
+  <!-- EN: <li>creation(tag=meme_Pirate)        ->[deity0_name] showed us that the [memberNamePlural] must stand together as a crew to impose [deity0_possessive] will upon those who are weaker.</li>
+    <li>episode(uses=1,tag=meme_Pirate)  ->[deity0_name] shouted to all the [memberNamePlural], "In an honest service there is thin commons, low wages, and hard labor; in piracy, plenty and satiety, pleasure and ease, liberty and power. Seize it."</li>
+    <li>intro(tag=meme_Pirate)           ->On the [place_summary] [place_name], the [memberNamePlural] had created a safe haven, where their plunder could be counted for the glory of [deity0_name].</li>
+    <li>conflict(tag=meme_Pirate)           ->A coward [foeLeader] looked at this with scorn, for [foeLeader_pronoun] desired all the riches for [foeLeader_objective]self.</li>
+    <li>founderJoin(tag=meme_Pirate)        ->[deity0_name]'s truest follower, captain [founderName], captured the [foeLeader] in a daring raid.</li>
+    <li>victory(tag=meme_Pirate)            ->[founderName]'s crewmates incarcerated the [foeLeader], who was executed a few days later for [deity0_name]'s glory.</li>
+    <li>setup(tag=meme_Pirate)           ->[founderName] was the greatest captain, a true leader. Thousands of pirates united under [founder_possessive] terrifying banner.</li>
+    <li>story(uses=1,tag=meme_Pirate)    ->[founderName] made us understand that hardships, suffering and sacrifices must be faced together, as a crew. We learned to value the comradeship and camaraderie, and respect each other.</li>
+    <li>lessonIntro(tag=meme_Pirate)         ->I talked to the greatest pirate to ever live, a legend amongst men. He showed me that</li>
+    <li>lesson(tag=meme_Pirate)              ->hardships, suffering and sacrifices must be faced together, as a crew</li>
+    <li>lessonReinforcement(tag=meme_Pirate) ->He taught me to value the comradeship and camaraderie, and the merits of respecting each other.</li>
+    <li>archistBasis(tag=meme_Pirate)    ->Archotechs do not respect those who can't defend themselves: we will face those weaker than ourselves as a crew.</li>
+    <li>archistFact(tag=meme_Pirate)     ->We will prove to the archotechs that comradeship and camaraderie are the values that keep us strong.</li>
+    <li>archistProphecy(tag=meme_Pirate) ->Only by standing proud together can we become worthy of transcendence.</li>
+    <li>animistBasis(tag=meme_Pirate)    ->The spirits do not respect those who can't defend themselves: we will face those weaker than ourselves as a crew.</li>
+    <li>animistFact(tag=meme_Pirate)     ->We will prove to the spirits that comradeship and camaraderie are the values that keep us strong.</li>
+    <li>animistProphecy(tag=meme_Pirate) ->[itIsSaid] only by standing proud together can we make the spirits truly listen to us.</li>
+    <li>serketistProphecy(tag=meme_Pirate)->[itIsSaid] we will prove that comradeship and camaraderie are the values that keep us strong.</li>
+    <li>chthonianProphecy(tag=meme_Pirate)->These eldritch entities would seek to destroy us, but we will stand together against them. Our camaraderie can't be shaken by anything, not even them.</li>
+    <li>esotericismProphecy(tag=meme_Pirate)->Such occult knowledge requires an unified will. We will stand together as a crew, our camaraderie allowing us to embrace these arcane secrets with ease.</li>
+    <li>eschatologismFact(tag=meme_Pirate)->We will plunder and pillage those weaker than ourselves, for the world they have created must be destroyed, and only our crew deserves their achievements.</li>
+    <li>introMemo(tag=meme_Pirate)->As a member of our Reclamation and Repossession Office, let us remind you that any resources found on this planet are the property of the Company, and as such any hostile factions trying to take possession of our assets must be terminated with EXTREME prejudice. We will not allow others to take what is rightfully ours.</li>
+    <li>alienistProphecy(tag=meme_Pirate)->These wayward creatures are ours to do as we please.</li> -->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Pirate)        ->[deity0_name] nos mostrou que os [memberNamePlural] devem permanecer unidos como uma tripulação para impor [deity0_possessive] vontade sobre aqueles que são mais fracos.</li>
+    <li>episode(uses=1,tag=meme_Pirate)  ->[deity0_name] gritou para todos os [memberNamePlural]: "Em um serviço honesto há parcos recursos, baixos salários e trabalho duro; na pirataria, há fartura e saciedade, prazer e facilidade, liberdade e poder. Agarrem-no."</li>
+    <li>intro(tag=meme_Pirate)           ->Em [place_name], [place_summary], os [memberNamePlural] criaram um porto seguro, onde seus saques podiam ser contados para a glória de [deity0_name].</li>
+    <li>conflict(tag=meme_Pirate)           ->Um covarde [foeLeader] olhou para isso com desprezo, pois [foeLeader_pronoun] desejava todas as riquezas para [foeLeader_objective].</li>
+    <li>founderJoin(tag=meme_Pirate)        ->O seguidor mais fiel de [deity0_name], o capitão [founderName], capturou o [foeLeader] em uma invasão ousada.</li>
+    <li>victory(tag=meme_Pirate)            ->Os companheiros de tripulação de [founderName] encarceraram o [foeLeader], que foi executado alguns dias depois para a glória de [deity0_name].</li>
+    <li>setup(tag=meme_Pirate)           ->[founderName] foi o maior capitão, um verdadeiro líder. Milhares de piratas se uniram sob [founder_possessive] bandeira aterrorizante.</li>
+    <li>story(uses=1,tag=meme_Pirate)    ->[founderName] nos fez entender que as dificuldades, o sofrimento e os sacrifícios devem ser enfrentados juntos, como uma tripulação. Aprendemos a valorizar o companheirismo e a camaradagem, e a respeitar uns aos outros.</li>
+    <li>lessonIntro(tag=meme_Pirate)         ->Falei com o maior pirata que já viveu, uma lenda entre os homens. Ele me mostrou que</li>
+    <li>lesson(tag=meme_Pirate)               ->dificuldades, sofrimento e sacrifícios devem ser enfrentados juntos, como uma tripulação</li>
+    <li>lessonReinforcement(tag=meme_Pirate) ->Ele me ensinou a valorizar o companheirismo e a camaradagem, e os méritos de respeitarmos uns aos outros.</li>
+    <li>archistBasis(tag=meme_Pirate)    ->Os Arcotécnicos não respeitam aqueles que não podem se defender: enfrentaremos aqueles mais fracos que nós como uma tripulação.</li>
+    <li>archistFact(tag=meme_Pirate)     ->Provaremos aos arcotécnicos que o companheirismo e a camaradagem são os valores que nos mantêm fortes.</li>
+    <li>archistProphecy(tag=meme_Pirate) ->Somente mantendo-nos orgulhosos juntos podemos nos tornar dignos da transcendência.</li>
+    <li>animistBasis(tag=meme_Pirate)    ->Os espíritos não respeitam aqueles que não podem se defender: enfrentaremos aqueles mais fracos que nós como uma tripulação.</li>
+    <li>animistFact(tag=meme_Pirate)     ->Provaremos aos espíritos que o companheirismo e a camaradagem são os valores que nos mantêm fortes.</li>
+    <li>animistProphecy(tag=meme_Pirate) ->[itIsSaid] que somente mantendo-nos orgulhosos juntos poderemos fazer os espíritos realmente nos ouvirem.</li>
+    <li>serketistProphecy(tag=meme_Pirate)->[itIsSaid] que provaremos que o companheirismo e a camaradagem são os valores que nos mantêm fortes.</li>
+    <li>chthonianProphecy(tag=meme_Pirate)->Estas entidades arcaicas buscariam nos destruir, mas ficaremos juntos contra elas. Nossa camaradagem não pode ser abalada por nada, nem mesmo por elas.</li>
+    <li>esotericismProphecy(tag=meme_Pirate)->Tal conhecimento oculto requer uma vontade unificada. Estaremos juntos como uma tripulação, nossa camaradagem nos permitindo abraçar esses segredos arcanos com facilidade.</li>
+    <li>eschatologismFact(tag=meme_Pirate)->Saquearemos e pilharemos aqueles mais fracos que nós, pois o mundo que eles criaram deve ser destruído, e apenas nossa tripulação merece suas conquistas.</li>
+    <li>introMemo(tag=meme_Pirate)->Como membro do nosso Escritório de Reclamação e Repossessão, deixe-nos lembrá-lo de que quaisquer recursos encontrados neste planeta são propriedade da Companhia e, como tal, quaisquer facções hostis que tentem tomar posse de nossos ativos devem ser eliminadas com rigor EXTREMO. Não permitiremos que outros tomem o que é nosso por direito.</li>
+    <li>alienistProphecy(tag=meme_Pirate)->Estas criaturas rebeldes são nossas para fazermos o que quisermos.</li>
+  </VFEP_PirateMeme.descriptionMaker.rules.rulesStrings>
+
+  <VFEP_PirateMeme.symbolPacks.0.adjective>pirata</VFEP_PirateMeme.symbolPacks.0.adjective>
+
+  <VFEP_PirateMeme.symbolPacks.0.ideoName>Pirataria</VFEP_PirateMeme.symbolPacks.0.ideoName>
+
+  <VFEP_PirateMeme.symbolPacks.0.member>tripulante</VFEP_PirateMeme.symbolPacks.0.member>
+
+  <VFEP_PirateMeme.symbolPacks.0.theme>pirataria</VFEP_PirateMeme.symbolPacks.0.theme>
+
+</LanguageData>
+

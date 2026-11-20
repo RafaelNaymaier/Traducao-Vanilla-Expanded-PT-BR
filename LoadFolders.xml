@@ -86,6 +86,7 @@
     <li IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/Cooking</li>
     <li IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/Plants</li>
     <li IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/ResearchRulesLegacy</li>
+    <li IfModActive="Argon.ArgMate.MixedHerbs">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/ArgentinianMateMixedHerbs</li>
     <!-- MOD_END: Vanilla Brewing Expanded - Coffees and Teas -->
 
     <!-- MOD_START: Vanilla Chemfuel Expanded -->
@@ -180,6 +181,7 @@
     <!-- PACKAGE_ID: OskarPotocki.VFE.Pirates -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates</li>
+    <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/Versions/Legacy1.4</li>
 
     <!-- Integrações -->
     <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/Compat/Ideology</li>
@@ -908,6 +910,7 @@
     <li IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/Cooking</li>
     <li IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/Plants</li>
     <li IfModActive="VanillaExpanded.VBrewECandT">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/ResearchRulesLegacy</li>
+    <li IfModActive="Argon.ArgMate.MixedHerbs">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/ArgentinianMateMixedHerbs</li>
     <!-- MOD_END: Vanilla Brewing Expanded - Coffees and Teas -->
 
     <!-- MOD_START: Vanilla Chemfuel Expanded -->
@@ -1002,9 +1005,18 @@
     <!-- PACKAGE_ID: OskarPotocki.VFE.Pirates -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates</li>
+    <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/Versions/1.5</li>
+    <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/Versions/1.5-1.6</li>
 
     <!-- Integrações -->
     <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/Compat/Ideology</li>
+    <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/Compat/Ideology/Versions/1.5</li>
+    <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/Compat/VFEV</li>
+    <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/Compat/VWEBF</li>
+    <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/Compat/VWEC</li>
+    <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/Compat/VWEL</li>
+    <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/Compat/VWENL</li>
+    <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/Compat/VWEQ</li>
     <!-- MOD_END: Vanilla Factions Expanded - Pirates -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Settlers -->
@@ -1729,6 +1741,7 @@
     <!-- Integrações -->
     <li IfModActiveAll="VanillaExpanded.VBrewECandT,VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/Cooking</li>
     <li IfModActiveAll="VanillaExpanded.VBrewECandT,VanillaExpanded.VPlantsE">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/Plants</li>
+    <li IfModActiveAll="VanillaExpanded.VBrewECandT,Argon.ArgMate.MixedHerbs">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/ArgentinianMateMixedHerbs</li>
     <!-- MOD_END: Vanilla Brewing Expanded - Coffees and Teas -->
 
     <!-- MOD_START: Vanilla Chemfuel Expanded -->
@@ -1823,9 +1836,19 @@
     <!-- PACKAGE_ID: OskarPotocki.VFE.Pirates -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates</li>
+    <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/Versions/1.6</li>
+    <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/Versions/1.5-1.6</li>
 
     <!-- Integrações -->
     <li IfModActiveAll="OskarPotocki.VFE.Pirates,Ludeon.RimWorld.Ideology">Mods/Vanilla Factions Expanded - Pirates/Compat/Ideology</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Pirates,Ludeon.RimWorld.Ideology">Mods/Vanilla Factions Expanded - Pirates/Compat/Ideology/Versions/1.6</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Pirates,OskarPotocki.VFE.Vikings">Mods/Vanilla Factions Expanded - Pirates/Compat/VFEV</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Pirates,VanillaExpanded.VWEBF">Mods/Vanilla Factions Expanded - Pirates/Compat/VWEBF</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Pirates,VanillaExpanded.VWEC">Mods/Vanilla Factions Expanded - Pirates/Compat/VWEC</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Pirates,VanillaExpanded.VWEL">Mods/Vanilla Factions Expanded - Pirates/Compat/VWEL</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Pirates,VanillaExpanded.VWENL">Mods/Vanilla Factions Expanded - Pirates/Compat/VWENL</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Pirates,VanillaExpanded.VWEQ">Mods/Vanilla Factions Expanded - Pirates/Compat/VWEQ</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Pirates,Ludeon.RimWorld.Odyssey">Mods/Vanilla Factions Expanded - Pirates/Compat/Odyssey</li>
     <!-- MOD_END: Vanilla Factions Expanded - Pirates -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Settlers -->
@@ -2549,6 +2572,7 @@
     <!-- Integrações -->
     <li IfModActiveAll="VanillaExpanded.VBrewECandT,VanillaExpanded.VCookE">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/Cooking</li>
     <li IfModActiveAll="VanillaExpanded.VBrewECandT,VanillaExpanded.VPlantsE">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/Plants</li>
+    <li IfModActiveAll="VanillaExpanded.VBrewECandT,Argon.ArgMate.MixedHerbs">Mods/Vanilla Brewing Expanded - Coffees and Teas/Compat/ArgentinianMateMixedHerbs</li>
     <!-- MOD_END: Vanilla Brewing Expanded - Coffees and Teas -->
 
     <!-- MOD_START: Vanilla Chemfuel Expanded -->
@@ -2643,9 +2667,19 @@
     <!-- PACKAGE_ID: OskarPotocki.VFE.Pirates -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates</li>
+    <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/Versions/1.6</li>
+    <li IfModActive="OskarPotocki.VFE.Pirates">Mods/Vanilla Factions Expanded - Pirates/Versions/1.7</li>
 
     <!-- Integrações -->
     <li IfModActiveAll="OskarPotocki.VFE.Pirates,Ludeon.RimWorld.Ideology">Mods/Vanilla Factions Expanded - Pirates/Compat/Ideology</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Pirates,Ludeon.RimWorld.Ideology">Mods/Vanilla Factions Expanded - Pirates/Compat/Ideology/Versions/1.6</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Pirates,OskarPotocki.VFE.Vikings">Mods/Vanilla Factions Expanded - Pirates/Compat/VFEV</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Pirates,VanillaExpanded.VWEBF">Mods/Vanilla Factions Expanded - Pirates/Compat/VWEBF</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Pirates,VanillaExpanded.VWEC">Mods/Vanilla Factions Expanded - Pirates/Compat/VWEC</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Pirates,VanillaExpanded.VWEL">Mods/Vanilla Factions Expanded - Pirates/Compat/VWEL</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Pirates,VanillaExpanded.VWENL">Mods/Vanilla Factions Expanded - Pirates/Compat/VWENL</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Pirates,VanillaExpanded.VWEQ">Mods/Vanilla Factions Expanded - Pirates/Compat/VWEQ</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Pirates,Ludeon.RimWorld.Odyssey">Mods/Vanilla Factions Expanded - Pirates/Compat/Odyssey</li>
     <!-- MOD_END: Vanilla Factions Expanded - Pirates -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Settlers -->

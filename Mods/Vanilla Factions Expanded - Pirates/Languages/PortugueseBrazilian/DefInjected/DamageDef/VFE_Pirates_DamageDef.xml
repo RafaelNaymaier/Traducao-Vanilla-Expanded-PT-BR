@@ -2,6 +2,8 @@
 <LanguageData>
   
   <VFEP_GravityHammerAttack.label>ataque de martelo gravitacional</VFEP_GravityHammerAttack.label>
-  <VFEP_GravityHammerAttack.deathMessage>{0} foi esmagado(a) até a morte.</VFEP_GravityHammerAttack.deathMessage>
+  <!-- EN: {0} has been smashed to death. -->
+  <VFEP_GravityHammerAttack.deathMessage>{0} morreu por esmagamento.</VFEP_GravityHammerAttack.deathMessage>
   
 </LanguageData>
+
