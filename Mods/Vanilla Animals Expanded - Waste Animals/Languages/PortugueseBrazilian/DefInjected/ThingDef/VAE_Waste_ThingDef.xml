@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: toxiguana egg (fert.) -->
+  <VAEWaste_EggToxiguanaFertilized.label>ovo de toxiguana (fert.)</VAEWaste_EggToxiguanaFertilized.label>
+
+  <!-- EN: A fertilized toxiguana egg. If all goes well, it should hatch into a baby toxiguana. It can be eaten raw, but it's much better cooked. -->
+  <VAEWaste_EggToxiguanaFertilized.description>Um ovo fertilizado de toxiguana. Se tudo correr bem, dele nascerá um filhote de toxiguana. Pode ser comido cru, mas fica muito melhor cozido.</VAEWaste_EggToxiguanaFertilized.description>
+
+  <!-- EN: hydra egg (fert.) -->
+  <VAEWaste_EggHydraFertilized.label>ovo de hidra (fert.)</VAEWaste_EggHydraFertilized.label>
+
+  <!-- EN: A fertilized hydra egg. If all goes well, it should hatch into a baby hydra. It can be eaten raw, but it's much better cooked. -->
+  <VAEWaste_EggHydraFertilized.description>Um ovo fertilizado de hidra. Se tudo correr bem, dele nascerá um filhote de hidra. Pode ser comido cru, mas fica muito melhor cozido.</VAEWaste_EggHydraFertilized.description>
+
+  <!-- EN: toxic meat -->
+  <VAEWaste_ToxicMeat.label>carne tóxica</VAEWaste_ToxicMeat.label>
+
+  <!-- EN: Raw meat from a toxic animal.\n\nChewy, gelatinous and disgusting. -->
+  <VAEWaste_ToxicMeat.description>Carne crua de um animal tóxico.\n\nDura de mastigar, gelatinosa e repugnante.</VAEWaste_ToxicMeat.description>
+
+  <!-- EN: wasteleather -->
+  <VAEWaste_ToxicLeather.label>couro tóxico</VAEWaste_ToxicLeather.label>
+
+  <!-- EN: A poor, dark-greenish brown coloured leather that flakes quite easily. Very flammable. -->
+  <VAEWaste_ToxicLeather.description>Um couro de baixa qualidade, de cor marrom-escura esverdeada, que descama com muita facilidade. Muito inflamável.</VAEWaste_ToxicLeather.description>
+
+  <!-- EN: acid spit -->
+  <VAEWaste_AcidBolt.label>cuspe ácido</VAEWaste_AcidBolt.label>
+
+  <!-- EN: hydra -->
+  <VAEWaste_Hydra.label>hidra</VAEWaste_Hydra.label>
+
+  <!-- EN: The Hydra is a fearsome creature, mutated by the toxic environment to become a three-headed snake. Living primarily in water, two of its heads remain submerged while only one absorbs oxygen. Quick and vicious in its attacks, the Hydra's bite is lethal, delivering a potent venom with each strike. Its ability to adapt to even the harshest of environments makes it a formidable predator, and one that should be approached with caution. The Hydra's three heads are a symbol of its adaptability and resilience, making it a force to be reckoned with in the polluted biomes. -->
+  <VAEWaste_Hydra.description>A hidra é uma criatura temível, transformada pelo ambiente tóxico em uma serpente de três cabeças. Vive principalmente na água, mantendo duas cabeças submersas enquanto apenas uma absorve oxigênio. Rápida e feroz ao atacar, sua mordida é letal e inocula um veneno potente a cada golpe. A capacidade de se adaptar até aos ambientes mais hostis faz dela uma predadora formidável, que deve ser abordada com cautela. Suas três cabeças simbolizam sua adaptabilidade e resistência, tornando-a uma força a ser respeitada nos biomas poluídos.</VAEWaste_Hydra.description>
+
+  <!-- EN: venom-fangs -->
+  <VAEWaste_Hydra.tools.venomfangs.label>presas venenosas</VAEWaste_Hydra.tools.venomfangs.label>
+
+  <!-- EN: head -->
+  <VAEWaste_Hydra.tools.head.label>cabeça</VAEWaste_Hydra.tools.head.label>
+
+  <!-- EN: megatardi -->
+  <VAEWaste_Megatardi.label>megatardi</VAEWaste_Megatardi.label>
+
+  <!-- EN: The Megatardi is a massive and curious creature, mutated from its tiny tardigrade origins to become a behemoth of the wasteland. Though slow and blind, it requires very little sustenance to survive and can consume even the most toxic wastepacks. With its six legs, the Megatardi is an impressive sight, and its gentle nature makes it a popular pack animal among those brave enough to venture into the polluted world. Though it is easily tamed, the Megatardi is not without its dangers. Upon its death, it releases a cloud of toxic gas, making it a potential hazard for anyone nearby. Despite this, the Megatardi remains a valuable asset for those willing to take on the challenges of the polluted wasteland. -->
+  <VAEWaste_Megatardi.description>O megatardi é uma criatura enorme e curiosa que sofreu mutações a partir de seus minúsculos ancestrais tardígrados, tornando-se um gigante dos ermos. Embora lento e cego, precisa de muito pouco alimento para sobreviver e consegue consumir até os pacotes de resíduos mais tóxicos. Com suas seis pernas, é uma visão impressionante, e sua natureza dócil faz dele um animal de carga popular entre quem tem coragem de se aventurar pelo mundo poluído. Apesar de ser fácil de domesticar, ele também oferece perigos. Ao morrer, libera uma nuvem de gás tóxico que pode ameaçar quem estiver por perto. Ainda assim, o megatardi continua sendo um recurso valioso para quem aceita os desafios dos ermos poluídos.</VAEWaste_Megatardi.description>
+
+  <!-- EN: mandibles -->
+  <VAEWaste_Megatardi.tools.mandibles.label>mandíbulas</VAEWaste_Megatardi.tools.mandibles.label>
+
+  <!-- EN: head -->
+  <VAEWaste_Megatardi.tools.head.label>cabeça</VAEWaste_Megatardi.tools.head.label>
+
+  <!-- EN: pestigator -->
+  <VAEWaste_Pestigator.label>pestijacaré</VAEWaste_Pestigator.label>
+
+  <!-- EN: The Pestigator is a massive and fearsome predator that reigns supreme in the polluted swamps of the rimworld. With its heavily armored form and powerful jaws, it is capable of inflicting massive damage on any opponent. Though slow on land, it is nimble and nearly invisible in water, making it a formidable adversary in its native habitat. The Pestigator is not to be underestimated, as its powerful bite can rip apart its prey with ease. Its insatiable hunger and aggression make it impossible to tame, making it a constant threat to any unfortunate enough to encounter it. -->
+  <VAEWaste_Pestigator.description>O pestijacaré é um predador enorme e temível que reina nos pântanos poluídos dos mundos da Orla. Com seu corpo fortemente protegido e mandíbulas poderosas, é capaz de causar danos imensos a qualquer oponente. Embora lento em terra, é ágil e quase invisível na água, tornando-se um adversário formidável em seu habitat natural. Não deve ser subestimado, pois sua mordida poderosa pode despedaçar presas com facilidade. A fome insaciável e a agressividade tornam sua domesticação impossível, fazendo dele uma ameaça constante para quem tiver o azar de encontrá-lo.</VAEWaste_Pestigator.description>
+
+  <!-- EN: toxafox -->
+  <VAEWaste_Toxafox.label>toxirraposa</VAEWaste_Toxafox.label>
+
+  <!-- EN: The Toxafox is a highly intelligent fox that has evolved to survive in the harshest of environments. With a keen sense of smell, it is capable of digging up waste packs buried deep underground, making it a persistent pest. Its presence in an area inadvertently generates more pollution, making it a major environmental hazard. Despite its small size, the Toxafox should not be underestimated. Its cunning and adaptability make it a formidable opponent in a world already wracked by toxicity and decay. -->
+  <VAEWaste_Toxafox.description>A toxirraposa é uma raposa muito inteligente que evoluiu para sobreviver nos ambientes mais hostis. Com seu olfato apurado, consegue desenterrar pacotes de resíduos profundamente soterrados, tornando-se uma praga persistente. Sua presença em uma área acaba gerando mais poluição, o que faz dela um grande risco ambiental. Apesar do pequeno porte, não deve ser subestimada. Sua astúcia e adaptabilidade fazem dela uma adversária formidável em um mundo já devastado pela toxicidade e pela deterioração.</VAEWaste_Toxafox.description>
+
+  <!-- EN: left claw -->
+  <VAEWaste_Toxafox.tools.left_claw.label>garra esquerda</VAEWaste_Toxafox.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <VAEWaste_Toxafox.tools.right_claw.label>garra direita</VAEWaste_Toxafox.tools.right_claw.label>
+
+  <!-- EN: head -->
+  <VAEWaste_Toxafox.tools.head.label>cabeça</VAEWaste_Toxafox.tools.head.label>
+
+  <!-- EN: toxbear -->
+  <VAEWaste_Toxbear.label>toxurso</VAEWaste_Toxbear.label>
+
+  <!-- EN: The Toxbear is a monstrous and deadly creature born from a polluted environment. Standing at an immense size, this mutated bear is a force to be reckoned with. With no natural predators, it roams and hunts at will, leaving destruction in its wake. Its aggressive behavior is fueled by cancerous growth around its head, making it nearly impervious to damage.\n\nAs the growth puts pressure on its brain, the Toxbear becomes increasingly violent, eventually turning completely rabid. Not long after that, toxbears are known to try and scratch their own brains out, resulting in their violent demise. -->
+  <VAEWaste_Toxbear.description>O toxurso é uma criatura monstruosa e mortal nascida em um ambiente poluído. De porte imenso, esse urso mutante é uma força a ser respeitada. Sem predadores naturais, perambula e caça à vontade, deixando destruição por onde passa. Seu comportamento agressivo é alimentado por um crescimento canceroso ao redor da cabeça, que o torna quase imune a danos.\n\nConforme esse crescimento comprime o cérebro, o toxurso fica cada vez mais violento, até se tornar completamente enfurecido. Pouco depois, costuma tentar arrancar o próprio cérebro com as garras, o que provoca sua morte violenta.</VAEWaste_Toxbear.description>
+
+  <!-- EN: left claw -->
+  <VAEWaste_Toxbear.tools.left_claw.label>garra esquerda</VAEWaste_Toxbear.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <VAEWaste_Toxbear.tools.right_claw.label>garra direita</VAEWaste_Toxbear.tools.right_claw.label>
+
+  <!-- EN: head -->
+  <VAEWaste_Toxbear.tools.head.label>cabeça</VAEWaste_Toxbear.tools.head.label>
+
+  <!-- EN: toxiguana -->
+  <VAEWaste_Toxiguana.label>toxiguana</VAEWaste_Toxiguana.label>
+
+  <!-- EN: The Toxiguana is a small, two-legged lizard that is well adapted to highly polluted environments. Standing about the size of a dog, this creature is not to be underestimated. It has a formidable defense mechanism, capable of spitting corrosive acid at any predator that threatens it. When it dies, a chemical reaction causes its body to rapidly decompose, releasing a toxic cloud of gas that can be dangerous to any living thing that comes into contact with it. The Toxiguana is a remarkable example of the resilience of life in even the harshest of environments. -->
+  <VAEWaste_Toxiguana.description>A toxiguana é um pequeno lagarto bípede bem adaptado a ambientes altamente poluídos. Com aproximadamente o tamanho de um cão, não deve ser subestimada. Possui um mecanismo de defesa formidável, capaz de cuspir ácido corrosivo em qualquer predador que a ameace. Quando morre, uma reação química provoca a rápida decomposição do corpo, liberando uma nuvem de gás tóxico que pode ameaçar qualquer ser vivo que entre em contato com ela. A toxiguana é um exemplo notável da resistência da vida até nos ambientes mais hostis.</VAEWaste_Toxiguana.description>
+
+  <!-- EN: left claw -->
+  <VAEWaste_Toxiguana.tools.left_claw.label>garra esquerda</VAEWaste_Toxiguana.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <VAEWaste_Toxiguana.tools.right_claw.label>garra direita</VAEWaste_Toxiguana.tools.right_claw.label>
+
+  <!-- EN: head -->
+  <VAEWaste_Toxiguana.tools.head.label>cabeça</VAEWaste_Toxiguana.tools.head.label>
+
+  <!-- EN: acid spit -->
+  <VAEWaste_Toxiguana.verbs.acid_spit.label>cuspe ácido</VAEWaste_Toxiguana.verbs.acid_spit.label>
+
+  <!-- EN: toxlion -->
+  <VAEWaste_Toxlion.label>toxileão</VAEWaste_Toxlion.label>
+
+  <!-- EN: The toxlion is a sad reflection of what once was a proud and powerful predator. Its toxic environment has left it weak and emaciated, forcing it to survive by feeding on waste. Despite its diminished state, the Toxlion is still a threat. Its bites and claws have a high chance of spreading the toxflu, and it hunts in large packs to make up for its lack of strength and speed.\n\nToxflu is a highly contagious and rapidly striking disease, characterized by fever, cough, fatigue, and difficulty breathing. It spreads quickly through contact with infected bodily fluids. Those who contract Toxflu can experience severe respiratory distress and, in severe cases, death. It goes away nearly as quickly as it appears, however anyone who interacted socially with a person suffering from toxflu has a chance of catching it. -->
+  <VAEWaste_Toxlion.description>O toxileão é um triste reflexo do que já foi um predador orgulhoso e poderoso. O ambiente tóxico o deixou fraco e magro, forçando-o a sobreviver comendo resíduos. Apesar de debilitado, ainda representa uma ameaça. Suas mordidas e garras têm grande chance de transmitir a toxigripe, e ele caça em grandes grupos para compensar a falta de força e velocidade.\n\nA toxigripe é uma doença altamente contagiosa e de evolução rápida, caracterizada por febre, tosse, fadiga e dificuldade para respirar. Ela se espalha rapidamente pelo contato com fluidos corporais infectados. Quem contrai toxigripe pode apresentar dificuldade respiratória intensa e, nos casos graves, morrer. A doença desaparece quase tão rápido quanto surge, mas qualquer pessoa que tenha interagido socialmente com alguém doente corre o risco de contraí-la.</VAEWaste_Toxlion.description>
+
+  <!-- EN: left claw -->
+  <VAEWaste_Toxlion.tools.left_claw.label>garra esquerda</VAEWaste_Toxlion.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <VAEWaste_Toxlion.tools.right_claw.label>garra direita</VAEWaste_Toxlion.tools.right_claw.label>
+
+  <!-- EN: toxscorpion -->
+  <VAEWaste_Toxscorpion.label>toxescorpião</VAEWaste_Toxscorpion.label>
+
+  <!-- EN: The Toxscorpion is a massive and fearsome creature, growing as large as a cow. Its thick carapace and powerful claws make it nearly invulnerable, capable of cutting through even metal. With no definite weak spot, the Toxscorpion is a formidable opponent. Mutated from exposure to radiation and toxins, its stinger injects a fast-acting poison that alters the DNA of its victims. This leads to toxic buildup and cancerous growths that must be swiftly removed before they spread, making the Toxscorpion one of the most dangerous creatures in the wasteland. -->
+  <VAEWaste_Toxscorpion.description>O toxescorpião é uma criatura enorme e temível, que pode atingir o tamanho de uma vaca. Sua carapaça espessa e suas pinças poderosas o tornam quase invulnerável e lhe permitem cortar até metal. Sem um ponto fraco evidente, é um oponente formidável. Transformado pela exposição à radiação e às toxinas, seu ferrão injeta um veneno de ação rápida que altera o DNA das vítimas. Isso provoca acúmulo tóxico e crescimentos cancerosos que precisam ser removidos rapidamente antes que se espalhem, fazendo do toxescorpião uma das criaturas mais perigosas dos ermos.</VAEWaste_Toxscorpion.description>
+
+  <!-- EN: left pincer -->
+  <VAEWaste_Toxscorpion.tools.left_pincer.label>pinça esquerda</VAEWaste_Toxscorpion.tools.left_pincer.label>
+
+  <!-- EN: right pincer -->
+  <VAEWaste_Toxscorpion.tools.right_pincer.label>pinça direita</VAEWaste_Toxscorpion.tools.right_pincer.label>
+
+  <!-- EN: head -->
+  <VAEWaste_Toxscorpion.tools.head.label>cabeça</VAEWaste_Toxscorpion.tools.head.label>
+
+  <!-- EN: wasteboar -->
+  <VAEWaste_Wasteboar.label>lixojavali</VAEWaste_Wasteboar.label>
+
+  <!-- EN: The Wasteboar is a massive and powerful creature, mutated by the polluted environment it inhabits. With four eyes and two sets of formidable tusks, it is well equipped to defend itself against predators. Despite its intimidating appearance, the Wasteboar is not aggressive. Instead, it spends its time ramming its head into trees in an effort to break them down. While this behavior may seem harmless, it can have devastating consequences for the environment, making the Wasteboar an unwanted and destructive presence. The destruction of resources and the unsightly impact on the surroundings make this creature a problem that should not be taken lightly. -->
+  <VAEWaste_Wasteboar.description>O lixojavali é uma criatura enorme e poderosa, transformada pelo ambiente poluído em que vive. Com quatro olhos e dois pares de presas formidáveis, é bem equipado para se defender de predadores. Apesar da aparência intimidadora, não é agressivo. Em vez disso, passa o tempo golpeando árvores com a cabeça na tentativa de derrubá-las. Embora esse comportamento pareça inofensivo, pode ter consequências devastadoras para o ambiente, tornando sua presença indesejada e destrutiva. A destruição de recursos e os danos à aparência dos arredores fazem dele um problema que não deve ser subestimado.</VAEWaste_Wasteboar.description>
+
+  <!-- EN: tusk -->
+  <VAEWaste_Wasteboar.tools.tusk.label>presa</VAEWaste_Wasteboar.tools.tusk.label>
+
+  <!-- EN: head -->
+  <VAEWaste_Wasteboar.tools.head.label>cabeça</VAEWaste_Wasteboar.tools.head.label>
+
+  <!-- EN: wastedeer -->
+  <VAEWaste_Wastedeer.label>lixocervo</VAEWaste_Wastedeer.label>
+
+  <!-- EN: The Wastedeer is a unique creature adapted to thrive in the most polluted of environments. With two heads, it is capable of detecting and avoiding danger from all directions. Its mutated form has allowed it to survive in even the harshest of conditions, making it a symbol of resilience in a world ravaged by toxins. Despite its unusual appearance, the wastedeer is a graceful and nimble creature, easily navigating the treacherous terrain of the wasteland. Though it may not pose a direct threat, its presence serves as a reminder of the dangers of a world overrun by pollution. -->
+  <VAEWaste_Wastedeer.description>O lixocervo é uma criatura singular, adaptada para prosperar nos ambientes mais poluídos. Com duas cabeças, consegue detectar e evitar perigos vindos de todas as direções. Sua forma mutante permite que sobreviva até nas condições mais hostis, tornando-o um símbolo de resistência em um mundo devastado por toxinas. Apesar da aparência incomum, é uma criatura graciosa e ágil, que atravessa com facilidade os terrenos traiçoeiros dos ermos. Embora não represente uma ameaça direta, sua presença serve de lembrete dos perigos de um mundo tomado pela poluição.</VAEWaste_Wastedeer.description>
+
+  <!-- EN: left hoof -->
+  <VAEWaste_Wastedeer.tools.left_hoof.label>casco esquerdo</VAEWaste_Wastedeer.tools.left_hoof.label>
+
+  <!-- EN: right hoof -->
+  <VAEWaste_Wastedeer.tools.right_hoof.label>casco direito</VAEWaste_Wastedeer.tools.right_hoof.label>
+
+  <!-- EN: teeth -->
+  <VAEWaste_Wastedeer.tools.teeth.label>dentes</VAEWaste_Wastedeer.tools.teeth.label>
+
+  <!-- EN: head -->
+  <VAEWaste_Wastedeer.tools.head.label>cabeça</VAEWaste_Wastedeer.tools.head.label>
+
+  <!-- EN: wasteffalo -->
+  <VAEWaste_Wasteffalo.label>lixomúfalo</VAEWaste_Wasteffalo.label>
+
+  <!-- EN: A large, mutated, herding herbivore descended from buffalo and adapted for high-toxicity environment. While enraged wastefallo are deadly, they can be tamed and even serve as pack animals.\n\nThe mutated secondary head makes them much more deadly, as with 2 sets of eyes and two gigantic jaws they are more than capable of defending themselves from any predators willing to hunt them.\n\nDue to the genetic instability, wastefallo rarely live long enough to be viable farm animals. Their meat is also known to be highly toxic. -->
+  <VAEWaste_Wasteffalo.description>Um grande herbívoro mutante que vive em manadas, descende de búfalos e está adaptado a ambientes de alta toxicidade. Embora sejam mortais quando enfurecidos, os lixomúfalos podem ser domesticados e até servir como animais de carga.\n\nA segunda cabeça mutante os torna muito mais letais: com 2 pares de olhos e duas mandíbulas gigantescas, são mais que capazes de se defender de qualquer predador disposto a caçá-los.\n\nDevido à instabilidade genética, raramente vivem o bastante para serem viáveis como animais de criação. Sua carne também é conhecida por ser altamente tóxica.</VAEWaste_Wasteffalo.description>
+
+  <!-- EN: head -->
+  <VAEWaste_Wasteffalo.tools.head.label>cabeça</VAEWaste_Wasteffalo.tools.head.label>
+
+  <!-- EN: left hoof -->
+  <VAEWaste_Wasteffalo.tools.left_hoof.label>casco esquerdo</VAEWaste_Wasteffalo.tools.left_hoof.label>
+
+  <!-- EN: right hoof -->
+  <VAEWaste_Wasteffalo.tools.right_hoof.label>casco direito</VAEWaste_Wasteffalo.tools.right_hoof.label>
+
+</LanguageData>
+
+

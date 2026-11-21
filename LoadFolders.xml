@@ -930,6 +930,12 @@
     <li IfModActive="VanillaExpanded.VAERoy">Mods/Vanilla Animals Expanded - Royal Animals/1.5</li>
     <!-- MOD_END: Vanilla Animals Expanded - Royal Animals -->
 
+    <!-- MOD_START: Vanilla Animals Expanded - Waste Animals -->
+    <!-- PACKAGE_ID: VanillaExpanded.VAEWaste -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VAEWaste">Mods/Vanilla Animals Expanded - Waste Animals</li>
+    <!-- MOD_END: Vanilla Animals Expanded - Waste Animals -->
+
     <!-- MOD_START: Vanilla Anomaly Expanded - Insanity -->
     <!-- PACKAGE_ID: VanillaExpanded.VAnomalyEInsanity -->
     <!-- Principal -->
@@ -1872,6 +1878,13 @@
     <li IfModActiveAll="VanillaExpanded.VAERoy,Ludeon.RimWorld.Royalty" IfModNotActive="Ludeon.RimWorld.Odyssey">Mods/Vanilla Animals Expanded - Royal Animals/1.6/NotOdyssey</li>
     <li IfModActiveAll="VanillaExpanded.VAERoy,Ludeon.RimWorld.Royalty,Ludeon.RimWorld.Odyssey">Mods/Vanilla Animals Expanded - Royal Animals/1.6/Odyssey</li>
     <!-- MOD_END: Vanilla Animals Expanded - Royal Animals -->
+
+    <!-- MOD_START: Vanilla Animals Expanded - Waste Animals -->
+    <!-- PACKAGE_ID: VanillaExpanded.VAEWaste -->
+    <!-- Principal -->
+    <li IfModActiveAll="VanillaExpanded.VAEWaste,Ludeon.RimWorld.Biotech">Mods/Vanilla Animals Expanded - Waste Animals</li>
+    <li IfModActiveAll="VanillaExpanded.VAEWaste,Ludeon.RimWorld.Biotech">Mods/Vanilla Animals Expanded - Waste Animals/1.6</li>
+    <!-- MOD_END: Vanilla Animals Expanded - Waste Animals -->
 
     <!-- MOD_START: Vanilla Anomaly Expanded - Insanity -->
     <!-- PACKAGE_ID: VanillaExpanded.VAnomalyEInsanity -->
@@ -2869,6 +2882,13 @@
     <li IfModActiveAll="VanillaExpanded.VAERoy,Ludeon.RimWorld.Royalty" IfModNotActive="Ludeon.RimWorld.Odyssey">Mods/Vanilla Animals Expanded - Royal Animals/1.7/NotOdyssey</li>
     <li IfModActiveAll="VanillaExpanded.VAERoy,Ludeon.RimWorld.Royalty,Ludeon.RimWorld.Odyssey">Mods/Vanilla Animals Expanded - Royal Animals/1.7/Odyssey</li>
     <!-- MOD_END: Vanilla Animals Expanded - Royal Animals -->
+
+    <!-- MOD_START: Vanilla Animals Expanded - Waste Animals -->
+    <!-- PACKAGE_ID: VanillaExpanded.VAEWaste -->
+    <!-- Principal -->
+    <li IfModActiveAll="VanillaExpanded.VAEWaste,Ludeon.RimWorld.Biotech">Mods/Vanilla Animals Expanded - Waste Animals</li>
+    <li IfModActiveAll="VanillaExpanded.VAEWaste,Ludeon.RimWorld.Biotech">Mods/Vanilla Animals Expanded - Waste Animals/1.7</li>
+    <!-- MOD_END: Vanilla Animals Expanded - Waste Animals -->
 
     <!-- MOD_START: Vanilla Anomaly Expanded - Insanity -->
     <!-- PACKAGE_ID: VanillaExpanded.VAnomalyEInsanity -->

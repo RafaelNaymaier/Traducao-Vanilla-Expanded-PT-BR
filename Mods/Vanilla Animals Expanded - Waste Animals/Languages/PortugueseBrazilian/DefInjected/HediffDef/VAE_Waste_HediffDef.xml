@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Toxflu is a highly contagious and rapidly striking disease, characterized by fever, cough, fatigue, and difficulty breathing. It spreads quickly through contact with infected bodily fluids. Those who contract Toxflu can experience severe respiratory distress and, in severe cases, death. It goes away nearly as quickly as it appears, however anyone who interacted socially with a person suffering from toxflu has a chance of catching it. -->
+  <VAEWaste_Toxflu.description>A toxigripe é uma doença altamente contagiosa e de evolução rápida, caracterizada por febre, tosse, fadiga e dificuldade para respirar. Ela se espalha rapidamente pelo contato com fluidos corporais infectados. Quem contrai toxigripe pode apresentar dificuldade respiratória intensa e, nos casos graves, morrer. A doença desaparece quase tão rápido quanto surge, mas qualquer pessoa que tenha interagido socialmente com alguém doente corre o risco de contraí-la.</VAEWaste_Toxflu.description>
+
+  <!-- EN: toxflu -->
+  <VAEWaste_Toxflu.label>toxigripe</VAEWaste_Toxflu.label>
+
+  <!-- EN: recovering -->
+  <VAEWaste_Toxflu.stages.recovering.label>em recuperação</VAEWaste_Toxflu.stages.recovering.label>
+
+  <!-- EN: major -->
+  <VAEWaste_Toxflu.stages.major.label>grave</VAEWaste_Toxflu.stages.major.label>
+
+  <!-- EN: initial -->
+  <VAEWaste_Toxflu.stages.initial.label>inicial</VAEWaste_Toxflu.stages.initial.label>
+
+  <!-- EN: A long-term scar tissue damage to the airways in the lungs. It doesn’t require tending. -->
+  <VAEWaste_LongToxflu.description>Lesão duradoura causada por tecido cicatricial nas vias respiratórias dos pulmões. Não requer tratamento.</VAEWaste_LongToxflu.description>
+
+  <!-- EN: long toxflu -->
+  <VAEWaste_LongToxflu.label>toxigripe prolongada</VAEWaste_LongToxflu.label>
+
+  <!-- EN: This Pestigator is partially submerged, making it swifter and more defended. -->
+  <VAEWaste_PestigatorUnderwater.description>Este pestijacaré está parcialmente submerso, o que o torna mais ágil e protegido.</VAEWaste_PestigatorUnderwater.description>
+
+  <!-- EN: underwater -->
+  <VAEWaste_PestigatorUnderwater.label>submerso</VAEWaste_PestigatorUnderwater.label>
+
+</LanguageData>
+
+
