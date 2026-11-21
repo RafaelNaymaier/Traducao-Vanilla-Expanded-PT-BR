@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Primary Role -->
+  <VAERoy_PrimaryRole>Função principal</VAERoy_PrimaryRole>
+
+  <!-- EN: Secondary Role -->
+  <VAERoy_SecondaryRole>Função secundária</VAERoy_SecondaryRole>
+
+  <!-- EN: Combat -->
+  <VAERoy_Combat>Combate</VAERoy_Combat>
+
+  <!-- EN: Egg Layer -->
+  <VAERoy_EggLayer>Postura de ovos</VAERoy_EggLayer>
+
+  <!-- EN: Utility -->
+  <VAERoy_Utility>Utilidade</VAERoy_Utility>
+
+  <!-- EN: Utility - Mood -->
+  <VAERoy_UtilityMood>Utilidade - Humor</VAERoy_UtilityMood>
+
+  <!-- EN: Utility - Social -->
+  <VAERoy_UtilitySocial>Utilidade - Social</VAERoy_UtilitySocial>
+
+  <!-- EN: Utility - Heat Disipation -->
+  <VAERoy_UtilityHeat>Utilidade - Dissipação de calor</VAERoy_UtilityHeat>
+
+  <!-- EN: Utility - Psychic -->
+  <VAERoy_UtilityPsychic>Utilidade - Psíquica</VAERoy_UtilityPsychic>
+
+  <!-- EN: Utility - Crowd Control -->
+  <VAERoy_UtilityCrowd>Utilidade - Controle de multidões</VAERoy_UtilityCrowd>
+
+  <!-- EN: Utility - Food -->
+  <VAERoy_UtilityFood>Utilidade - Alimentação</VAERoy_UtilityFood>
+
+  <!-- EN: Utility - Building -->
+  <VAERoy_UtilityBuilding>Utilidade - Construção</VAERoy_UtilityBuilding>
+
+  <!-- EN: Combat animals are specialized in melee combat. These animals have high attack damage, good resistance, high health, or other abilities that allow them to survive in the front lines.\n\nThis animal gets greatly increased melee attacks as it ages. -->
+  <VAERoy_CombatDescInc>Animais de combate são especializados em combate corpo a corpo. Esses animais têm alto dano de ataque, boa resistência, muita saúde ou outras habilidades que lhes permitem sobreviver na linha de frente.\n\nOs ataques corpo a corpo deste animal ficam muito mais fortes conforme ele envelhece.</VAERoy_CombatDescInc>
+
+  <!-- EN: Combat animals are specialized in melee combat. These animals have high attack damage, good resistance, high health, or other abilities that allow them to survive in the front lines. -->
+  <VAERoy_CombatDesc>Animais de combate são especializados em combate corpo a corpo. Esses animais têm alto dano de ataque, boa resistência, muita saúde ou outras habilidades que lhes permitem sobreviver na linha de frente.</VAERoy_CombatDesc>
+
+  <!-- EN: This animal lays eggs -->
+  <VAERoy_EggLayerDesc>Este animal põe ovos</VAERoy_EggLayerDesc>
+
+  <!-- EN: This animal is not suited for combat, being quite physically weak. It will however increase the mood of your colonists. -->
+  <VAERoy_UtilityMoodDesc>Este animal não é adequado para combate, pois é fisicamente bastante fraco. Porém, ele melhora o humor dos seus colonos.</VAERoy_UtilityMoodDesc>
+
+  <!-- EN: This animal is not suited for combat, being quite physically weak. It will however increase the neural heat disipation of a bonded colonist. -->
+  <VAERoy_UtilityHeatDisipationDesc>Este animal não é adequado para combate, pois é fisicamente bastante fraco. Porém, ele melhora a dissipação de calor neural de um colono vinculado.</VAERoy_UtilityHeatDisipationDesc>
+
+  <!-- EN: This animal is not suited for combat. It will instead engage your colonists in conversation, increasing their social recreation as well as giving them small amounts of experience in random skills. -->
+  <VAERoy_UtilitySocialDesc>Este animal não é adequado para combate. Em vez disso, conversa com seus colonos, aumentando sua recreação social e concedendo pequenas quantidades de experiência em habilidades aleatórias.</VAERoy_UtilitySocialDesc>
+
+  <!-- EN: This animal is not suited for combat, being quite physically weak. It will however nuzzle your colonists periodically to increase their psychic sensitivity. -->
+  <VAERoy_UtilityPsychicDesc>Este animal não é adequado para combate, pois é fisicamente bastante fraco. Porém, ele faz carinho periodicamente em seus colonos para aumentar a sensibilidade psíquica deles.</VAERoy_UtilityPsychicDesc>
+
+  <!-- EN: This animal is weak, but it has psychic abilities that can help with crowd control and survivavility. -->
+  <VAERoy_UtilityCrowdDesc>Este animal é fraco, mas tem habilidades psíquicas que podem ajudar no controle de multidões e na sobrevivência.</VAERoy_UtilityCrowdDesc>
+
+  <!-- EN: This is a farm animal that produces specialized meat. -->
+  <VAERoy_UtilityFoodDesc>Este é um animal de criação que produz uma carne especial.</VAERoy_UtilityFoodDesc>
+
+  <!-- EN: This animal is not suited for combat, being quite physically weak. It will however build nests that act as a very beautiful animal sleeping spot. -->
+  <VAERoy_UtilityBuildingDesc>Este animal não é adequado para combate, pois é fisicamente bastante fraco. Porém, ele constrói ninhos que funcionam como locais de dormir para animais e são muito belos.</VAERoy_UtilityBuildingDesc>
+
+</LanguageData>
+
+

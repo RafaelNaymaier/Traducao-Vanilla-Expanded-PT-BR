@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: swan nest -->
+  <VAERoy_SwanNest.label>ninho de cisne</VAERoy_SwanNest.label>
+
+  <!-- EN: A beautiful nest of a swan. -->
+  <VAERoy_SwanNest.description>Um belo ninho de cisne.</VAERoy_SwanNest.description>
+
+  <!-- EN: crane egg (fert.) -->
+  <VAERoy_EggCraneFertilized.label>ovo de grou (fert.)</VAERoy_EggCraneFertilized.label>
+
+  <!-- EN: A fertilized crane egg. If all goes well, it should hatch into a baby crane. It can be eaten raw, but it's much better cooked. -->
+  <VAERoy_EggCraneFertilized.description>Um ovo fertilizado de grou. Se tudo correr bem, dele nascerá um filhote de grou. Pode ser comido cru, mas fica muito melhor cozido.</VAERoy_EggCraneFertilized.description>
+
+  <!-- EN: pheasant egg (fert.) -->
+  <VAERoy_EggPheasantFertilized.label>ovo de faisão (fert.)</VAERoy_EggPheasantFertilized.label>
+
+  <!-- EN: A fertilized pheasant egg. If all goes well, it should hatch into a peacock. It can be eaten raw, but it's much better cooked. -->
+  <VAERoy_EggPheasantFertilized.description>Um ovo fertilizado de faisão. Se tudo correr bem, dele nascerá um faisão. Pode ser comido cru, mas fica muito melhor cozido.</VAERoy_EggPheasantFertilized.description>
+
+  <!-- EN: megachicken egg (fert.) -->
+  <VAERoy_EggMegaChickenFertilized.label>ovo de megagalinha (fert.)</VAERoy_EggMegaChickenFertilized.label>
+
+  <!-- EN: A fertilized megachicken egg. If all goes well, it should hatch into a megachicken. It can be eaten raw, but it's much better cooked. -->
+  <VAERoy_EggMegaChickenFertilized.description>Um ovo fertilizado de megagalinha. Se tudo correr bem, dele nascerá uma megagalinha. Pode ser comido cru, mas fica muito melhor cozido.</VAERoy_EggMegaChickenFertilized.description>
+
+  <!-- EN: royal poultry -->
+  <VAERoy_QuailMeat.label>carne de ave real</VAERoy_QuailMeat.label>
+
+  <!-- EN: Raw meat from a quail, extremely tasty. Instantly turns any simple or fine meal it’s used in into a lavish meal. It will also turn grills and bakes from Vanilla Cooking expanded into their lavish variations. -->
+  <VAERoy_QuailMeat.description>Carne crua de codorna, extremamente saborosa. Transforma instantaneamente qualquer refeição simples ou fina em que for usada em uma refeição luxuosa. Também transforma grelhados e assados de Vanilla Cooking Expanded em suas versões luxuosas.</VAERoy_QuailMeat.description>
+
+  <!-- EN: angora rabbit -->
+  <VAERoy_AngoraRabbit.label>coelho-angorá</VAERoy_AngoraRabbit.label>
+
+  <!-- EN: Small, domestic rabbit that has developed an ability to enhance the neural heat dissipation of anyone they bond with. Unfortunately, as a side effect, it the bonded master of the angora rabbit dies, the rabbit will also die of sadness and loss.\n\n<color=#E5E54C>Gameplay effect:</color> As long as an Angora Rabbit is bonded to a colonist, this colonist will receive a psychic connection that helps with neural heat dissipation. -->
+  <VAERoy_AngoraRabbit.description>Um pequeno coelho doméstico que desenvolveu a capacidade de melhorar a dissipação de calor neural de quem cria um vínculo com ele. Infelizmente, como efeito colateral, se seu dono vinculado morrer, o coelho-angorá também morrerá de tristeza pela perda.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Enquanto um coelho-angorá estiver vinculado a um colono, esse colono receberá uma conexão psíquica que ajuda na dissipação de calor neural.</VAERoy_AngoraRabbit.description>
+
+  <!-- EN: head -->
+  <VAERoy_AngoraRabbit.tools.head.label>cabeça</VAERoy_AngoraRabbit.tools.head.label>
+
+  <!-- EN: crane -->
+  <VAERoy_Crane.label>grou</VAERoy_Crane.label>
+
+  <!-- EN: A large, long legged bird species, cranes are a symbol of royalty and nobility and often populate royal gardens. It is believed that people of imperial rank will appreciate having plenty of cranes around them.\n\n<color=#E5E54C>Gameplay effect:</color> If you have at least 5 cranes under your control, any pawn with a nobility rank of any kind receives a +5 mood boost. -->
+  <VAERoy_Crane.description>Grandes aves de pernas longas, os grous são símbolos da realeza e da nobreza e costumam habitar jardins reais. Acredita-se que pessoas com títulos imperiais apreciem ter muitos grous por perto.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Se você tiver pelo menos 5 grous sob seu controle, qualquer personagem com um título de nobreza receberá um bônus de +5 no humor.</VAERoy_Crane.description>
+
+  <!-- EN: claws -->
+  <VAERoy_Crane.tools.claws.label>garras</VAERoy_Crane.tools.claws.label>
+
+  <!-- EN: beak -->
+  <VAERoy_Crane.tools.beak.label>bico</VAERoy_Crane.tools.beak.label>
+
+  <!-- EN: head -->
+  <VAERoy_Crane.tools.head.label>cabeça</VAERoy_Crane.tools.head.label>
+
+  <!-- EN: megachicken -->
+  <VAERoy_Megachicken.label>megagalinha</VAERoy_Megachicken.label>
+
+  <!-- EN: The unusual royal farm bird, the megachicken is raised by spoiled royalty as a pet project. This bird simply never stops growing, and if taken care of, it can reach gargantuan sizes. Royalty is known to compare their megacocks, and usually the one with the biggest specimen wins. Those that lose often argue that it’s not about the size, it’s about what you do with it.\n\n<color=#E5E54C>Gameplay effect:</color> Megachicken have five growth stages, at 0, 3, 8, 12 and 18 years of age. Their abilities get increasingly powerful as they age. -->
+  <VAERoy_Megachicken.description>Uma ave de criação real incomum, a megagalinha é criada pela realeza mimada como um passatempo. Essa ave simplesmente nunca para de crescer e, se receber os devidos cuidados, pode atingir tamanhos gigantescos. A realeza costuma comparar seus megagalos, e geralmente vence quem tem o maior exemplar. Quem perde costuma argumentar que o tamanho não importa, mas sim o que se faz com ele.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; As megagalinhas têm cinco estágios de crescimento, aos 0, 3, 8, 12 e 18 anos de idade. Suas habilidades ficam cada vez mais poderosas conforme envelhecem.</VAERoy_Megachicken.description>
+
+  <!-- EN: claws -->
+  <VAERoy_Megachicken.tools.claws.label>garras</VAERoy_Megachicken.tools.claws.label>
+
+  <!-- EN: beak -->
+  <VAERoy_Megachicken.tools.beak.label>bico</VAERoy_Megachicken.tools.beak.label>
+
+  <!-- EN: head -->
+  <VAERoy_Megachicken.tools.head.label>cabeça</VAERoy_Megachicken.tools.head.label>
+
+  <!-- EN: orangutan -->
+  <VAERoy_Orangutan.label>orangotango</VAERoy_Orangutan.label>
+
+  <!-- EN: A great ape invented and patented on Sophiamunda, orangutans are intelligent and can hold a normal conversation with humans. They are often used as home teachers in the Empire, educating young nobles in history, arts and correct etiquette.\n\n<color=#E5E54C>Gameplay effect:</color> When holding sophisticated conversations with humans, they boost their social recreation. Furthermore, each conversation with an orangutan gives a little bit of XP to a random skill. -->
+  <VAERoy_Orangutan.description>Grandes símios inventados e patenteados em Sophiamunda, os orangotangos são inteligentes e conseguem manter uma conversa normal com humanos. São frequentemente usados como professores particulares no Império, ensinando história, artes e a etiqueta correta aos jovens nobres.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Ao manter conversas sofisticadas com humanos, aumentam sua recreação social. Além disso, cada conversa com um orangotango concede um pouco de XP em uma habilidade aleatória.</VAERoy_Orangutan.description>
+
+  <!-- EN: left fist -->
+  <VAERoy_Orangutan.tools.left_fist.label>punho esquerdo</VAERoy_Orangutan.tools.left_fist.label>
+
+  <!-- EN: right fist -->
+  <VAERoy_Orangutan.tools.right_fist.label>punho direito</VAERoy_Orangutan.tools.right_fist.label>
+
+  <!-- EN: head -->
+  <VAERoy_Orangutan.tools.head.label>cabeça</VAERoy_Orangutan.tools.head.label>
+
+  <!-- EN: primate meat -->
+  <VAERoy_Orangutan.race.meatLabel>carne de primata</VAERoy_Orangutan.race.meatLabel>
+
+  <!-- EN: pheasant -->
+  <VAERoy_Pheasant.label>faisão</VAERoy_Pheasant.label>
+
+  <!-- EN: Small, noble poultry that was genetically engineered to be an excellent small game animal. When pheasants run away from danger, they emit a psychic invisibility blast, making their allies hidden from sight.\n\n<color=#E5E54C>Gameplay effect:</color> Whenever a pheasant is in danger (it starts fleeing), it emits a psychic shockwave in radius of 6 cells around itself. It only does it once every 24 hours. This shockwave gives all pawns under player control in that radius Psychic Invisibility for a short period of time, making them untargetable by enemies. -->
+  <VAERoy_Pheasant.description>Pequenas e nobres aves geneticamente modificadas para serem excelentes animais de caça de pequeno porte. Ao fugir do perigo, os faisões emitem uma onda de invisibilidade psíquica que oculta seus aliados.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Sempre que um faisão está em perigo e começa a fugir, ele emite uma onda de choque psíquica em um raio de 6 células ao seu redor. Isso só ocorre uma vez a cada 24 horas. Por um curto período, essa onda concede Invisibilidade Psíquica a todos os personagens sob controle do jogador dentro do raio, impedindo que sejam escolhidos como alvos pelos inimigos.</VAERoy_Pheasant.description>
+
+  <!-- EN: claws -->
+  <VAERoy_Pheasant.tools.claws.label>garras</VAERoy_Pheasant.tools.claws.label>
+
+  <!-- EN: beak -->
+  <VAERoy_Pheasant.tools.beak.label>bico</VAERoy_Pheasant.tools.beak.label>
+
+  <!-- EN: head -->
+  <VAERoy_Pheasant.tools.head.label>cabeça</VAERoy_Pheasant.tools.head.label>
+
+  <!-- EN: royal tiger -->
+  <VAERoy_RoyalTiger.label>tigre real</VAERoy_RoyalTiger.label>
+
+  <!-- EN: A large, genetically engineered sabretooth tiger that evolved in captivity. Nobility often buys them for their spoiled children, as in reality, royal tiger is not dangerous at all, and prefers fleeing at the first sight of danger. -->
+  <VAERoy_RoyalTiger.description>Um grande tigre-dentes-de-sabre geneticamente modificado que evoluiu em cativeiro. A nobreza costuma comprá-lo para seus filhos mimados, pois, na verdade, o tigre real não é nada perigoso e prefere fugir ao primeiro sinal de perigo.</VAERoy_RoyalTiger.description>
+
+  <!-- EN: left claw -->
+  <VAERoy_RoyalTiger.tools.left_claw.label>garra esquerda</VAERoy_RoyalTiger.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <VAERoy_RoyalTiger.tools.right_claw.label>garra direita</VAERoy_RoyalTiger.tools.right_claw.label>
+
+  <!-- EN: head -->
+  <VAERoy_RoyalTiger.tools.head.label>cabeça</VAERoy_RoyalTiger.tools.head.label>
+
+</LanguageData>
+
+

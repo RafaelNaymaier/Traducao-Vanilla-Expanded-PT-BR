@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: peacock egg (fert.) -->
+  <VAERoy_EggPeacockFertilized.label>ovo de pavão (fert.)</VAERoy_EggPeacockFertilized.label>
+
+  <!-- EN: A fertilized peacock egg. If all goes well, it should hatch into a peacock. It can be eaten raw, but it's much better cooked. -->
+  <VAERoy_EggPeacockFertilized.description>Um ovo fertilizado de pavão. Se tudo correr bem, dele nascerá um pavão. Pode ser comido cru, mas fica muito melhor cozido.</VAERoy_EggPeacockFertilized.description>
+
+  <!-- EN: quail egg (unfert.) -->
+  <VAERoy_EggQuailUnfertilized.label>ovo de codorna (não fert.)</VAERoy_EggQuailUnfertilized.label>
+
+  <!-- EN: An unfertilized quail egg. It can be eaten raw, but it's much, much better cooked. -->
+  <VAERoy_EggQuailUnfertilized.description>Um ovo não fertilizado de codorna. Pode ser comido cru, mas fica muito, muito melhor cozido.</VAERoy_EggQuailUnfertilized.description>
+
+  <!-- EN: quail egg (fert.) -->
+  <VAERoy_EggQuailFertilized.label>ovo de codorna (fert.)</VAERoy_EggQuailFertilized.label>
+
+  <!-- EN: A fertilized quail egg. If all goes well, it should hatch into a quail. It can be eaten raw, but it's much better cooked. -->
+  <VAERoy_EggQuailFertilized.description>Um ovo fertilizado de codorna. Se tudo correr bem, dele nascerá uma codorna. Pode ser comido cru, mas fica muito melhor cozido.</VAERoy_EggQuailFertilized.description>
+
+  <!-- EN: swan egg (unfert.) -->
+  <VAERoy_EggSwanUnfertilized.label>ovo de cisne (não fert.)</VAERoy_EggSwanUnfertilized.label>
+
+  <!-- EN: An unfertilized swan egg. It can be eaten raw, but it's much, much better cooked. -->
+  <VAERoy_EggSwanUnfertilized.description>Um ovo não fertilizado de cisne. Pode ser comido cru, mas fica muito, muito melhor cozido.</VAERoy_EggSwanUnfertilized.description>
+
+  <!-- EN: swan egg (fert.) -->
+  <VAERoy_EggSwanFertilized.label>ovo de cisne (fert.)</VAERoy_EggSwanFertilized.label>
+
+  <!-- EN: A fertilized swan egg. If all goes well, it should hatch into a baby swan. It can be eaten raw, but it's much better cooked. -->
+  <VAERoy_EggSwanFertilized.description>Um ovo fertilizado de cisne. Se tudo correr bem, dele nascerá um filhote de cisne. Pode ser comido cru, mas fica muito melhor cozido.</VAERoy_EggSwanFertilized.description>
+
+  <!-- EN: peacock -->
+  <VAERoy_Peacock.label>pavão</VAERoy_Peacock.label>
+
+  <!-- EN: Beautiful, majestic royal birds genetically altered to be able to bestow psychic energy onto people they nuzzle.\n\n<color=#E5E54C>Gameplay effect:</color> Peacocks will periodically nuzzle your colonists. This increases Psychic Sensitivity of the nuzzled person by 25% for 12 hours. This stacks up to 8 times, resulting in +200% Psychic sensitivity if nuzzled by 8 peacocks. -->
+  <VAERoy_Peacock.description>Belas e majestosas aves reais geneticamente modificadas para conceder energia psíquica às pessoas em quem fazem carinho.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Os pavões farão carinho periodicamente em seus colonos. Isso aumenta a Sensibilidade Psíquica da pessoa em 25% por 12 horas. O efeito se acumula até 8 vezes, resultando em +200% de sensibilidade psíquica caso ela receba carinho de 8 pavões.</VAERoy_Peacock.description>
+
+  <!-- EN: claws -->
+  <VAERoy_Peacock.tools.claws.label>garras</VAERoy_Peacock.tools.claws.label>
+
+  <!-- EN: beak -->
+  <VAERoy_Peacock.tools.beak.label>bico</VAERoy_Peacock.tools.beak.label>
+
+  <!-- EN: head -->
+  <VAERoy_Peacock.tools.head.label>cabeça</VAERoy_Peacock.tools.head.label>
+
+  <!-- EN: quail -->
+  <VAERoy_Quail.label>codorna</VAERoy_Quail.label>
+
+  <!-- EN: Royal poultry bred specifically for human consumption, quail meat is one of a kind, with a taste so succulent it turns any meal into a lavish meal.\n\n<color=#E5E54C>Gameplay effect:</color> Their extremely tasty meat instantly turns any simple or fine meal it’s used in into a lavish meal. It will also turn grills and bakes from Vanilla Cooking expanded into their lavish variations. -->
+  <VAERoy_Quail.description>Aves reais criadas especificamente para consumo humano. A carne de codorna é única, com um sabor tão suculento que transforma qualquer refeição em uma refeição luxuosa.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Sua carne extremamente saborosa transforma instantaneamente qualquer refeição simples ou fina em que for usada em uma refeição luxuosa. Também transforma grelhados e assados de Vanilla Cooking Expanded em suas versões luxuosas.</VAERoy_Quail.description>
+
+  <!-- EN: claws -->
+  <VAERoy_Quail.tools.claws.label>garras</VAERoy_Quail.tools.claws.label>
+
+  <!-- EN: beak -->
+  <VAERoy_Quail.tools.beak.label>bico</VAERoy_Quail.tools.beak.label>
+
+  <!-- EN: head -->
+  <VAERoy_Quail.tools.head.label>cabeça</VAERoy_Quail.tools.head.label>
+
+  <!-- EN: swan -->
+  <VAERoy_Swan.label>cisne</VAERoy_Swan.label>
+
+  <!-- EN: One of the largest birds capable of flying, swans are often kept by royalty due to the beautiful nests of flowers they build for themselves. These nests have an extremely high beauty, but a swan will never build more than one.\n\n<color=#E5E54C>Gameplay effect:</color> Swans create their own sleeping spots that have extremely high beauty. These nests are auto-asigned to them as sleeping spots on creation. -->
+  <VAERoy_Swan.description>Entre as maiores aves capazes de voar, os cisnes costumam ser criados pela realeza por causa dos belos ninhos de flores que constroem para si. Esses ninhos têm uma beleza extremamente alta, mas cada cisne nunca constrói mais de um.\n\n&lt;color=#E5E54C&gt;Efeito no jogo:&lt;/color&gt; Os cisnes criam seus próprios locais de dormir, que têm uma beleza extremamente alta. Ao serem criados, esses ninhos são automaticamente atribuídos aos seus construtores como locais de dormir.</VAERoy_Swan.description>
+
+  <!-- EN: claws -->
+  <VAERoy_Swan.tools.claws.label>garras</VAERoy_Swan.tools.claws.label>
+
+  <!-- EN: beak -->
+  <VAERoy_Swan.tools.beak.label>bico</VAERoy_Swan.tools.beak.label>
+
+  <!-- EN: head -->
+  <VAERoy_Swan.tools.head.label>cabeça</VAERoy_Swan.tools.head.label>
+
+  <!-- EN: peacock egg (unfert.) -->
+  <VAERoy_EggPeacockUnfertilized.label>ovo de pavão (não fert.)</VAERoy_EggPeacockUnfertilized.label>
+
+  <!-- EN: An unfertilized peacock egg. It can be eaten raw, but it's much, much better cooked. -->
+  <VAERoy_EggPeacockUnfertilized.description>Um ovo não fertilizado de pavão. Pode ser comido cru, mas fica muito, muito melhor cozido.</VAERoy_EggPeacockUnfertilized.description>
+
+</LanguageData>
+
+
