@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <VFESecurity.Submerged>submerso</VFESecurity.Submerged>
@@ -48,4 +48,73 @@
   <VFESecurity.ArtileryDestruction>{0} de destruição por artilharia</VFESecurity.ArtileryDestruction>
   <VFESecurity.ArtileryHitDestroyedMessage>Um projétil de artilharia destruiu o local {0}.</VFESecurity.ArtileryHitDestroyedMessage>
 
+  <!-- EN: Deploy -->
+  <VFES_Deploy>Implantar</VFES_Deploy>
+
+  <!-- EN: Deploy the structure from the submerged state. -->
+  <VFES_DeployDesc>Implanta a estrutura a partir do estado submerso.</VFES_DeployDesc>
+
+  <!-- EN: Submerge -->
+  <VFES_Submerge>Submergir</VFES_Submerge>
+
+  <!-- EN: Submerge the structure into the ground, making it much harder for it to take damage. -->
+  <VFES_SubmergeDesc>Submerge a estrutura no solo, tornando-a muito mais resistente a danos.</VFES_SubmergeDesc>
+
+  <!-- EN: On cooldown: {0} -->
+  <VFES_OnCooldown>Em recarga: {0}</VFES_OnCooldown>
+
+  <!-- EN: Rearm Traps -->
+  <VFES_DesignatorRearmTraps>Rearmar armadilhas</VFES_DesignatorRearmTraps>
+
+  <!-- EN: Designate traps to be rearmed by colonists. -->
+  <VFES_DesignatorRearmTraps_Description>Designa armadilhas para serem rearmadas pelos colonos.</VFES_DesignatorRearmTraps_Description>
+
+  <!-- EN: Must designate rearmable traps. -->
+  <VFES_MessageMustDesignateRearmables>É necessário designar armadilhas que possam ser rearmadas.</VFES_MessageMustDesignateRearmables>
+
+  <!-- EN: Armed -->
+  <VFES_Armed>Armada</VFES_Armed>
+
+  <!-- EN: Needs rearming -->
+  <VFES_NeedsRearming>Necessita rearmamento</VFES_NeedsRearming>
+
+  <!-- EN: Secondary fuel -->
+  <VFES_SecondaryFuel>Combustível secundário</VFES_SecondaryFuel>
+
+  <!-- EN: Toggle auto-refuel ammunition -->
+  <VFES_CommandToggleAllowAutoRefuelSecondary>Alternar reabastecimento automático de munição</VFES_CommandToggleAllowAutoRefuelSecondary>
+
+  <!-- EN:  (secondary) -->
+  <VFES_ManSecondary> (secundário)</VFES_ManSecondary>
+
+  <!-- EN: Set world target -->
+  <VFES_SetWorldTarget>Definir alvo no mundo</VFES_SetWorldTarget>
+
+  <!-- EN: Set the target on the world map for the artillery to fire at. Shots fired over the world map are less accurate. Can only fire at revealed locations. -->
+  <VFES_SetWorldTargetDesc>Define um alvo no mapa mundial para o disparo de artilharia. Disparos feitos pelo mapa mundial são menos precisos. Só é possível disparar contra locais revelados.</VFES_SetWorldTargetDesc>
+
+  <!-- EN: Needs to be manned. -->
+  <VFES_NeedsManned>Precisa de um operador.</VFES_NeedsManned>
+
+  <!-- EN: Artillery needs to target a visible, explored map. -->
+  <VFES_ArtilleryNeedsVisibleMap>A artilharia precisa alvejar um mapa visível e explorado.</VFES_ArtilleryNeedsVisibleMap>
+
+  <!-- EN: Target is out of range. -->
+  <VFES_ArtilleryOutOfRange>O alvo está fora de alcance.</VFES_ArtilleryOutOfRange>
+
+  <!-- EN: Artillery cannot fire in this direction. -->
+  <VFES_ArtilleryInvalidFiringMode>A artilharia não pode disparar nessa direção.</VFES_ArtilleryInvalidFiringMode>
+
+  <!-- EN: Artillery cannot fire from planet to space. -->
+  <VFES_ArtilleryInvalidGroundToSpace>A artilharia não pode disparar do solo para o espaço.</VFES_ArtilleryInvalidGroundToSpace>
+
+  <!-- EN: Artillery cannot fire from space to space. -->
+  <VFES_ArtilleryInvalidSpaceToSpace>A artilharia não pode disparar do espaço para o espaço.</VFES_ArtilleryInvalidSpaceToSpace>
+
+  <!-- EN: Artillery cannot fire from space to ground. -->
+  <VFES_ArtilleryInvalidSpaceToGround>A artilharia não pode disparar do espaço para o solo.</VFES_ArtilleryInvalidSpaceToGround>
+
+  <!-- EN: Artillery cannot fire from ground to ground -->
+  <VFES_ArtilleryInvalidGroundToGround>A artilharia não pode disparar do solo para o solo</VFES_ArtilleryInvalidGroundToGround>
 </LanguageData>
+

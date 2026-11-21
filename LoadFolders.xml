@@ -884,6 +884,8 @@
     <!-- PACKAGE_ID: VanillaExpanded.VWEQ -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - QuickDrawn</li>
+    <!-- Integração Odyssey -->
+    <li IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - QuickDrawn/Compat/Odyssey</li>
     <!-- MOD_END: Vanilla Weapons Expanded - QuickDrawn -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Tribal -->
@@ -896,6 +898,8 @@
     <!-- PACKAGE_ID: SmashPhil.VehicleFramework -->
     <!-- Principal -->
     <li IfModActive="SmashPhil.VehicleFramework">Mods/Vehicle Framework</li>
+    <!-- Chaves específicas da versão -->
+    <li IfModActive="SmashPhil.VehicleFramework">Mods/Vehicle Framework/Versions/1.6</li>
     <!-- MOD_END: Vehicle Framework -->
 
   </v1.4>
@@ -1030,6 +1034,8 @@
     <!-- PACKAGE_ID: VanillaExpanded.VCookEHaute -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VCookEHaute">Mods/Vanilla Cooking Expanded - Haute Cuisine</li>
+    <!-- Regras de refeições: somente 1.5/1.6/1.7 -->
+    <li IfModActive="VanillaExpanded.VCookEHaute">Mods/Vanilla Cooking Expanded - Haute Cuisine/Versions/1.5-1.7</li>
     <!-- MOD_END: Vanilla Cooking Expanded - Haute Cuisine -->
 
     <!-- MOD_START: Vanilla Cooking Expanded - Stews -->
@@ -1792,6 +1798,8 @@
     <!-- PACKAGE_ID: VanillaExpanded.VWEQ -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - QuickDrawn</li>
+    <!-- Integração Odyssey -->
+    <li IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - QuickDrawn/Compat/Odyssey</li>
     <!-- MOD_END: Vanilla Weapons Expanded - QuickDrawn -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Tribal -->
@@ -1804,6 +1812,8 @@
     <!-- PACKAGE_ID: SmashPhil.VehicleFramework -->
     <!-- Principal -->
     <li IfModActive="SmashPhil.VehicleFramework">Mods/Vehicle Framework</li>
+    <!-- Chaves específicas da versão -->
+    <li IfModActive="SmashPhil.VehicleFramework">Mods/Vehicle Framework/Versions/1.6</li>
     <!-- MOD_END: Vehicle Framework -->
 
   </v1.5>
@@ -1904,6 +1914,8 @@
     <!-- PACKAGE_ID: VanillaExpanded.VChemfuelE -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VChemfuelE">Mods/Vanilla Chemfuel Expanded</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActive="VanillaExpanded.VChemfuelE">Mods/Vanilla Chemfuel Expanded/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Chemfuel Expanded -->
 
     <!-- MOD_START: Vanilla Christmas Expanded -->
@@ -1925,6 +1937,10 @@
 
     <!-- Integrações -->
     <li IfModActiveAll="VanillaExpanded.VCookE,VanillaExpanded.VPlantsE">Mods/Vanilla Cooking Expanded/Compat/Plants</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActiveAll="VanillaExpanded.VCookE,VanillaExpanded.VCEF">Mods/Vanilla Cooking Expanded/Compat/Fishing/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VCookE,VanillaExpanded.VGeneticsE">Mods/Vanilla Cooking Expanded/Compat/Genetics/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VCookE,vanillaexpanded.skills">Mods/Vanilla Cooking Expanded/Compat/Skills/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Cooking Expanded -->
 
     <!-- MOD_START: Vanilla Cooking Expanded - Bakery -->
@@ -1937,6 +1953,8 @@
     <!-- PACKAGE_ID: VanillaExpanded.VCookEHaute -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VCookEHaute">Mods/Vanilla Cooking Expanded - Haute Cuisine</li>
+    <!-- Regras de refeições: somente 1.5/1.6/1.7 -->
+    <li IfModActive="VanillaExpanded.VCookEHaute">Mods/Vanilla Cooking Expanded - Haute Cuisine/Versions/1.5-1.7</li>
     <!-- MOD_END: Vanilla Cooking Expanded - Haute Cuisine -->
 
     <!-- MOD_START: Vanilla Cooking Expanded - Stews -->
@@ -2006,6 +2024,8 @@
     <li IfModActiveAll="OskarPotocki.VFE.Medieval2,Ludeon.RimWorld.Biotech">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Biotech</li>
     <li IfModActiveAll="OskarPotocki.VFE.Medieval2,Ludeon.RimWorld.Ideology">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Ideology</li>
     <li IfModActiveAll="OskarPotocki.VFE.Medieval2,Ludeon.RimWorld.Royalty">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Royalty</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActiveAll="OskarPotocki.VFE.Medieval2,OskarPotocki.VFE.Insectoid2">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Insectoids2/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Factions Expanded - Medieval 2 -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Pirates -->
@@ -2046,6 +2066,8 @@
 
     <!-- Integrações -->
     <li IfModActiveAll="VanillaExpanded.VCEF,Ludeon.RimWorld.Odyssey">Mods/Vanilla Fishing Expanded/Compat/Odyssey</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActiveAll="VanillaExpanded.VCEF,vanillaexpanded.skills">Mods/Vanilla Fishing Expanded/Compat/Skills/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Fishing Expanded -->
 
     <!-- MOD_START: Vanilla Food Variety Expanded -->
@@ -2139,6 +2161,8 @@
     <!-- Integrações -->
     <li IfModActiveAll="VanillaExpanded.VFESecurity,Ludeon.RimWorld.Anomaly">Mods/Vanilla Furniture Expanded - Security/Compat/Anomaly</li>
     <li IfModActiveAll="VanillaExpanded.VFESecurity,Ludeon.RimWorld.Biotech">Mods/Vanilla Furniture Expanded - Security/Compat/Biotech</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActiveAll="VanillaExpanded.VFESecurity,VanillaExpanded.VWENL">Mods/Vanilla Furniture Expanded - Security/Compat/NonLethal/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Furniture Expanded - Security -->
 
     <!-- MOD_START: Vanilla Furniture Expanded - Spacer Module -->
@@ -2313,6 +2337,17 @@
     <li IfModActiveAll="VanillaExpanded.VExplorationE,Ludeon.RimWorld.Anomaly">Mods/Vanilla Landmarks Expanded/Compat/Anomaly</li>
     <li IfModActiveAll="VanillaExpanded.VExplorationE,Ludeon.RimWorld.Biotech">Mods/Vanilla Landmarks Expanded/Compat/Biotech</li>
     <li IfModActiveAll="VanillaExpanded.VExplorationE,Ludeon.RimWorld.Royalty">Mods/Vanilla Landmarks Expanded/Compat/Royalty</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActive="VanillaExpanded.VExplorationE">Mods/Vanilla Landmarks Expanded/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VExplorationE,VanillaExpanded.VanillaAnimalsExpanded">Mods/Vanilla Landmarks Expanded/Compat/Animals/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VExplorationE,VanillaExpanded.VAEWaste">Mods/Vanilla Landmarks Expanded/Compat/Waste/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VExplorationE,VanillaExpanded.VPsycastsE">Mods/Vanilla Landmarks Expanded/Compat/Psycasts/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VExplorationE,VanillaExpanded.HelixienGas">Mods/Vanilla Landmarks Expanded/Compat/HelixienGas/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VExplorationE,VanillaExpanded.VFEPower">Mods/Vanilla Landmarks Expanded/Compat/Power/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VExplorationE,VanillaExpanded.VCookE">Mods/Vanilla Landmarks Expanded/Compat/Cooking/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VExplorationE,VanillaExpanded.VPlantsEMore">Mods/Vanilla Landmarks Expanded/Compat/MorePlants/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VExplorationE,VanillaExpanded.VPlantsE">Mods/Vanilla Landmarks Expanded/Compat/Plants/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VExplorationE,VanillaExpanded.VPlantsESucculents">Mods/Vanilla Landmarks Expanded/Compat/Succulents/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Landmarks Expanded -->
 
     <!-- MOD_START: Vanilla Nutrient Paste Expanded -->
@@ -2352,6 +2387,9 @@
 
     <!-- Integrações -->
     <li IfModActiveAll="VanillaExpanded.VPlantsEMore,VanillaExpanded.VCookE">Mods/Vanilla Plants Expanded - More Plants/Compat/Cooking</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActiveAll="VanillaExpanded.VPlantsEMore,VanillaExpanded.VCookE,VanillaExpanded.VCookESushi">Mods/Vanilla Plants Expanded - More Plants/Compat/Cooking/Compat/Sushi/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VPlantsEMore,OskarPotocki.VFE.Medieval2">Mods/Vanilla Plants Expanded - More Plants/Compat/Medieval2/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Plants Expanded - More Plants -->
 
     <!-- MOD_START: Vanilla Plants Expanded - Mushrooms -->
@@ -2394,6 +2432,8 @@
     <!-- PACKAGE_ID: vanillaquestsexpanded.cryptoforge -->
     <!-- Principal -->
     <li IfModActive="vanillaquestsexpanded.cryptoforge">Mods/Vanilla Quests Expanded - Cryptoforge</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActive="vanillaquestsexpanded.cryptoforge">Mods/Vanilla Quests Expanded - Cryptoforge/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Quests Expanded - Cryptoforge -->
 
     <!-- MOD_START: Vanilla Quests Expanded - Deadlife -->
@@ -2466,12 +2506,17 @@
 
     <!-- Integrações -->
     <li IfModActiveAll="vanillaracesexpanded.insector,OskarPotocki.VFE.Insectoid2">Mods/Vanilla Races Expanded - Insector/Compat/VFEInsectoids</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActive="vanillaracesexpanded.insector">Mods/Vanilla Races Expanded - Insector/Versions/1.6-1.7</li>
+    <li IfModActiveAll="vanillaracesexpanded.insector,OskarPotocki.VFE.Insectoid2">Mods/Vanilla Races Expanded - Insector/Compat/VFEInsectoids/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Races Expanded - Insector -->
 
     <!-- MOD_START: Vanilla Races Expanded - Lycanthrope -->
     <!-- PACKAGE_ID: vanillaracesexpanded.lycanthrope -->
     <!-- Principal -->
     <li IfModActive="vanillaracesexpanded.lycanthrope">Mods/Vanilla Races Expanded - Lycanthrope</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActive="vanillaracesexpanded.lycanthrope">Mods/Vanilla Races Expanded - Lycanthrope/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Races Expanded - Lycanthrope -->
 
     <!-- MOD_START: Vanilla Races Expanded - Phytokin -->
@@ -2520,6 +2565,8 @@
     <!-- PACKAGE_ID: vanillaracesexpanded.waster -->
     <!-- Principal -->
     <li IfModActive="vanillaracesexpanded.waster">Mods/Vanilla Races Expanded - Waster</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActive="vanillaracesexpanded.waster" IfModNotActive="sarg.alphagenes">Mods/Vanilla Races Expanded - Waster/Compat/WithoutAlphaGenes/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Races Expanded - Waster -->
 
     <!-- MOD_START: Vanilla Recycling Expanded -->
@@ -2615,6 +2662,8 @@
     <!-- PACKAGE_ID: oskarpotocki.vanillavehiclesexpandedupgrades -->
     <!-- Principal -->
     <li IfModActive="oskarpotocki.vanillavehiclesexpandedupgrades">Mods/Vanilla Vehicles Expanded - Upgrades</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActive="OskarPotocki.VanillaVehiclesExpandedUpgrades">Mods/Vanilla Vehicles Expanded - Upgrades/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Vehicles Expanded - Upgrades -->
 
     <!-- MOD_START: Vanilla Weapons Expanded -->
@@ -2633,6 +2682,17 @@
     <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,OskarPotocki.VFE.Empire">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VFEEmpire</li>
     <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VWEFT</li>
     <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,VanillaExpanded.VWEMS">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VWEMS</li>
+    <!-- Listas de nomes e adjetivos: somente 1.6/1.7 -->
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Anomaly,Ludeon.RimWorld.Odyssey">Mods/Vanilla Weapons Expanded/Compat/Odyssey_Anomaly/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey">Mods/Vanilla Weapons Expanded/Compat/Odyssey/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,OskarPotocki.VFE.Empire">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VFEEmpire/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,OskarPotocki.VFE.Deserters">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VFEDeserters/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,OskarPotocki.VFE.Medieval2">Mods/Vanilla Weapons Expanded/Compat/Odyssey_Medieval2/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VWEFT/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,VanillaExpanded.VWEMS">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VWEMS/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,vanillaquestsexpanded.deadlife">Mods/Vanilla Weapons Expanded/Compat/Odyssey_deadlife/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,vanillaquestsexpanded.cryptoforge">Mods/Vanilla Weapons Expanded/Compat/Odyssey_cryptoforge/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,VanillaExpanded.VAnomalyEInsanity">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VAnomalyEInsanity/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Weapons Expanded -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Bioferrite -->
@@ -2651,6 +2711,8 @@
 
     <!-- Integrações -->
     <li IfModActiveAll="VanillaExpanded.VWEC,Ludeon.RimWorld.Odyssey">Mods/Vanilla Weapons Expanded - Coilguns/Compat/Odyssey</li>
+    <!-- Listas de nomes e adjetivos: somente 1.6/1.7 -->
+    <li IfModActiveAll="VanillaExpanded.VWEC,Ludeon.RimWorld.Odyssey">Mods/Vanilla Weapons Expanded - Coilguns/Compat/Odyssey/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Weapons Expanded - Coilguns -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Frontier -->
@@ -2669,6 +2731,11 @@
     <!-- PACKAGE_ID: VanillaExpanded.VWEG -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VWEG">Mods/Vanilla Weapons Expanded - Grenades</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActiveAll="VanillaExpanded.VWEG,Ludeon.RimWorld.Biotech">Mods/Vanilla Weapons Expanded - Grenades/Compat/Biotech/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWEG,OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Weapons Expanded - Grenades/Compat/Settlers/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWEG,VanillaExpanded.VWENL">Mods/Vanilla Weapons Expanded - Grenades/Compat/NonLethal/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWEG,VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded - Grenades/Compat/Weapons/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Weapons Expanded - Grenades -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Heavy Weapons -->
@@ -2699,6 +2766,8 @@
     <!-- PACKAGE_ID: VanillaExpanded.VWEQ -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - QuickDrawn</li>
+    <!-- Integração Odyssey -->
+    <li IfModActiveAll="VanillaExpanded.VWEQ,Ludeon.RimWorld.Odyssey">Mods/Vanilla Weapons Expanded - QuickDrawn/Compat/Odyssey</li>
     <!-- MOD_END: Vanilla Weapons Expanded - QuickDrawn -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Tribal -->
@@ -2711,6 +2780,8 @@
     <!-- PACKAGE_ID: SmashPhil.VehicleFramework -->
     <!-- Principal -->
     <li IfModActive="SmashPhil.VehicleFramework">Mods/Vehicle Framework</li>
+    <!-- Chaves específicas da versão -->
+    <li IfModActive="SmashPhil.VehicleFramework">Mods/Vehicle Framework/Versions/1.6</li>
     <!-- MOD_END: Vehicle Framework -->
 
   </v1.6>
@@ -2811,6 +2882,8 @@
     <!-- PACKAGE_ID: VanillaExpanded.VChemfuelE -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VChemfuelE">Mods/Vanilla Chemfuel Expanded</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActive="VanillaExpanded.VChemfuelE">Mods/Vanilla Chemfuel Expanded/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Chemfuel Expanded -->
 
     <!-- MOD_START: Vanilla Christmas Expanded -->
@@ -2832,6 +2905,10 @@
 
     <!-- Integrações -->
     <li IfModActiveAll="VanillaExpanded.VCookE,VanillaExpanded.VPlantsE">Mods/Vanilla Cooking Expanded/Compat/Plants</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActiveAll="VanillaExpanded.VCookE,VanillaExpanded.VCEF">Mods/Vanilla Cooking Expanded/Compat/Fishing/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VCookE,VanillaExpanded.VGeneticsE">Mods/Vanilla Cooking Expanded/Compat/Genetics/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VCookE,vanillaexpanded.skills">Mods/Vanilla Cooking Expanded/Compat/Skills/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Cooking Expanded -->
 
     <!-- MOD_START: Vanilla Cooking Expanded - Bakery -->
@@ -2844,6 +2921,8 @@
     <!-- PACKAGE_ID: VanillaExpanded.VCookEHaute -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VCookEHaute">Mods/Vanilla Cooking Expanded - Haute Cuisine</li>
+    <!-- Regras de refeições: somente 1.5/1.6/1.7 -->
+    <li IfModActive="VanillaExpanded.VCookEHaute">Mods/Vanilla Cooking Expanded - Haute Cuisine/Versions/1.5-1.7</li>
     <!-- MOD_END: Vanilla Cooking Expanded - Haute Cuisine -->
 
     <!-- MOD_START: Vanilla Cooking Expanded - Stews -->
@@ -2872,6 +2951,8 @@
     <!-- Integrações -->
     <li IfModActiveAll="OskarPotocki.VanillaFactionsExpanded.Core,Ludeon.RimWorld.Biotech">Mods/Vanilla Expanded Framework/Compat/Biotech</li>
     <li IfModActiveAll="OskarPotocki.VanillaFactionsExpanded.Core,Ludeon.RimWorld.Odyssey">Mods/Vanilla Expanded Framework/Compat/Odyssey</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">Mods/Vanilla Expanded Framework/Versions/1.7</li>
     <!-- MOD_END: Vanilla Expanded Framework -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Classical -->
@@ -2896,6 +2977,9 @@
 
     <!-- Integrações -->
     <li IfModActiveAll="OskarPotocki.VFE.Empire,ludeon.rimworld.ideology">Mods/Vanilla Factions Expanded - Empire/Compat/Ideology</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActive="OskarPotocki.VFE.Empire">Mods/Vanilla Factions Expanded - Empire/Versions/1.7</li>
+    <li IfModActiveAll="OskarPotocki.VFE.Empire,VanillaExpanded.VPsycastsE">Mods/Vanilla Factions Expanded - Empire/Compat/Psycasts/Versions/1.7</li>
     <!-- MOD_END: Vanilla Factions Expanded - Empire -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Insectoids 2 -->
@@ -2913,6 +2997,8 @@
     <li IfModActiveAll="OskarPotocki.VFE.Medieval2,Ludeon.RimWorld.Biotech">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Biotech</li>
     <li IfModActiveAll="OskarPotocki.VFE.Medieval2,Ludeon.RimWorld.Ideology">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Ideology</li>
     <li IfModActiveAll="OskarPotocki.VFE.Medieval2,Ludeon.RimWorld.Royalty">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Royalty</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActiveAll="OskarPotocki.VFE.Medieval2,OskarPotocki.VFE.Insectoid2">Mods/Vanilla Factions Expanded - Medieval 2/Compat/Insectoids2/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Factions Expanded - Medieval 2 -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Pirates -->
@@ -2953,6 +3039,8 @@
 
     <!-- Integrações -->
     <li IfModActiveAll="VanillaExpanded.VCEF,Ludeon.RimWorld.Odyssey">Mods/Vanilla Fishing Expanded/Compat/Odyssey</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActiveAll="VanillaExpanded.VCEF,vanillaexpanded.skills">Mods/Vanilla Fishing Expanded/Compat/Skills/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Fishing Expanded -->
 
     <!-- MOD_START: Vanilla Food Variety Expanded -->
@@ -3046,6 +3134,8 @@
     <!-- Integrações -->
     <li IfModActiveAll="VanillaExpanded.VFESecurity,Ludeon.RimWorld.Anomaly">Mods/Vanilla Furniture Expanded - Security/Compat/Anomaly</li>
     <li IfModActiveAll="VanillaExpanded.VFESecurity,Ludeon.RimWorld.Biotech">Mods/Vanilla Furniture Expanded - Security/Compat/Biotech</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActiveAll="VanillaExpanded.VFESecurity,VanillaExpanded.VWENL">Mods/Vanilla Furniture Expanded - Security/Compat/NonLethal/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Furniture Expanded - Security -->
 
     <!-- MOD_START: Vanilla Furniture Expanded - Spacer Module -->
@@ -3071,6 +3161,8 @@
     <li IfModActive="spincrus.dinosauria,spincrus.dinosauria_copy,BiomesTeam.BiomesPrehistoric,BiomesTeam.BiomesPrehistoric_copy" IfModActiveAll="VanillaExpanded.VGeneticsE,VanillaExpanded.VCookE">Mods/Vanilla Genetics Expanded/Compat/Dinosauria/Compat/Cooking</li>
     <li IfModActive="Spino.Megafauna,Spino.Megafauna_copy" IfModActiveAll="VanillaExpanded.VGeneticsE,VanillaExpanded.VCookE">Mods/Vanilla Genetics Expanded/Compat/Megafauna/Compat/Cooking</li>
     <li IfModActive="VanillaExpanded.VGeneticsE" IfModNotActive="VanillaExpanded.VChemfuelE">Mods/Vanilla Genetics Expanded/Compat/WithoutChemfuel</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActiveAll="VanillaExpanded.VGeneticsE,VanillaExpanded.VCookE,Ludeon.RimWorld.Anomaly">Mods/Vanilla Genetics Expanded/Compat/CosmicHorrors/Compat/Cooking/Versions/1.7</li>
     <!-- MOD_END: Vanilla Genetics Expanded -->
 
     <!-- MOD_START: Vanilla Furniture Expanded - Props And Decor -->
@@ -3130,6 +3222,8 @@
 
     <li IfModActiveAll="vanillaexpanded.gravship,Ludeon.RimWorld.Biotech">Mods/Vanilla Gravship Expanded - Chapter 1/Compat/Biotech</li>
     <li IfModActiveAll="vanillaexpanded.gravship,Ludeon.RimWorld.Royalty">Mods/Vanilla Gravship Expanded - Chapter 1/Compat/Royalty</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActiveAll="vanillaexpanded.gravship,vanillaexpanded.skills">Mods/Vanilla Gravship Expanded - Chapter 1/Compat/Skills/Versions/1.7</li>
     <!-- MOD_END: Vanilla Gravship Expanded - Chapter 1 -->
 
     <!-- MOD_START: Vanilla Gravship Expanded - Chapter 2 -->
@@ -3140,6 +3234,8 @@
     <!-- Integrações -->
     <li IfModActiveAll="vanillaexpanded.gravship2,OskarPotocki.VFE.Insectoid2">Mods/Vanilla Gravship Expanded - Chapter 2/Compat/Insectoids2</li>
     <li IfModActiveAll="vanillaexpanded.gravship2,OskarPotocki.VFE.Insectoid2,vanillaracesexpanded.insector">Mods/Vanilla Gravship Expanded - Chapter 2/Compat/Insectoids2Insector</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActive="vanillaexpanded.gravship2">Mods/Vanilla Gravship Expanded - Chapter 2/Versions/1.7</li>
     <!-- MOD_END: Vanilla Gravship Expanded - Chapter 2 -->
 
     <!-- MOD_START: Vanilla Hair Expanded -->
@@ -3220,6 +3316,17 @@
     <li IfModActiveAll="VanillaExpanded.VExplorationE,Ludeon.RimWorld.Anomaly">Mods/Vanilla Landmarks Expanded/Compat/Anomaly</li>
     <li IfModActiveAll="VanillaExpanded.VExplorationE,Ludeon.RimWorld.Biotech">Mods/Vanilla Landmarks Expanded/Compat/Biotech</li>
     <li IfModActiveAll="VanillaExpanded.VExplorationE,Ludeon.RimWorld.Royalty">Mods/Vanilla Landmarks Expanded/Compat/Royalty</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActive="VanillaExpanded.VExplorationE">Mods/Vanilla Landmarks Expanded/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VExplorationE,VanillaExpanded.VanillaAnimalsExpanded">Mods/Vanilla Landmarks Expanded/Compat/Animals/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VExplorationE,VanillaExpanded.VAEWaste">Mods/Vanilla Landmarks Expanded/Compat/Waste/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VExplorationE,VanillaExpanded.VPsycastsE">Mods/Vanilla Landmarks Expanded/Compat/Psycasts/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VExplorationE,VanillaExpanded.HelixienGas">Mods/Vanilla Landmarks Expanded/Compat/HelixienGas/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VExplorationE,VanillaExpanded.VFEPower">Mods/Vanilla Landmarks Expanded/Compat/Power/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VExplorationE,VanillaExpanded.VCookE">Mods/Vanilla Landmarks Expanded/Compat/Cooking/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VExplorationE,VanillaExpanded.VPlantsEMore">Mods/Vanilla Landmarks Expanded/Compat/MorePlants/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VExplorationE,VanillaExpanded.VPlantsE">Mods/Vanilla Landmarks Expanded/Compat/Plants/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VExplorationE,VanillaExpanded.VPlantsESucculents">Mods/Vanilla Landmarks Expanded/Compat/Succulents/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Landmarks Expanded -->
 
     <!-- MOD_START: Vanilla Nutrient Paste Expanded -->
@@ -3259,6 +3366,9 @@
 
     <!-- Integrações -->
     <li IfModActiveAll="VanillaExpanded.VPlantsEMore,VanillaExpanded.VCookE">Mods/Vanilla Plants Expanded - More Plants/Compat/Cooking</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActiveAll="VanillaExpanded.VPlantsEMore,VanillaExpanded.VCookE,VanillaExpanded.VCookESushi">Mods/Vanilla Plants Expanded - More Plants/Compat/Cooking/Compat/Sushi/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VPlantsEMore,OskarPotocki.VFE.Medieval2">Mods/Vanilla Plants Expanded - More Plants/Compat/Medieval2/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Plants Expanded - More Plants -->
 
     <!-- MOD_START: Vanilla Plants Expanded - Mushrooms -->
@@ -3301,6 +3411,8 @@
     <!-- PACKAGE_ID: vanillaquestsexpanded.cryptoforge -->
     <!-- Principal -->
     <li IfModActive="vanillaquestsexpanded.cryptoforge">Mods/Vanilla Quests Expanded - Cryptoforge</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActive="vanillaquestsexpanded.cryptoforge">Mods/Vanilla Quests Expanded - Cryptoforge/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Quests Expanded - Cryptoforge -->
 
     <!-- MOD_START: Vanilla Quests Expanded - Deadlife -->
@@ -3373,12 +3485,17 @@
 
     <!-- Integrações -->
     <li IfModActiveAll="vanillaracesexpanded.insector,OskarPotocki.VFE.Insectoid2">Mods/Vanilla Races Expanded - Insector/Compat/VFEInsectoids</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActive="vanillaracesexpanded.insector">Mods/Vanilla Races Expanded - Insector/Versions/1.6-1.7</li>
+    <li IfModActiveAll="vanillaracesexpanded.insector,OskarPotocki.VFE.Insectoid2">Mods/Vanilla Races Expanded - Insector/Compat/VFEInsectoids/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Races Expanded - Insector -->
 
     <!-- MOD_START: Vanilla Races Expanded - Lycanthrope -->
     <!-- PACKAGE_ID: vanillaracesexpanded.lycanthrope -->
     <!-- Principal -->
     <li IfModActive="vanillaracesexpanded.lycanthrope">Mods/Vanilla Races Expanded - Lycanthrope</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActive="vanillaracesexpanded.lycanthrope">Mods/Vanilla Races Expanded - Lycanthrope/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Races Expanded - Lycanthrope -->
 
     <!-- MOD_START: Vanilla Races Expanded - Phytokin -->
@@ -3427,6 +3544,8 @@
     <!-- PACKAGE_ID: vanillaracesexpanded.waster -->
     <!-- Principal -->
     <li IfModActive="vanillaracesexpanded.waster">Mods/Vanilla Races Expanded - Waster</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActive="vanillaracesexpanded.waster" IfModNotActive="sarg.alphagenes">Mods/Vanilla Races Expanded - Waster/Compat/WithoutAlphaGenes/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Races Expanded - Waster -->
 
     <!-- MOD_START: Vanilla Recycling Expanded -->
@@ -3510,6 +3629,8 @@
 
     <!-- Integrações -->
     <li IfModActiveAll="OskarPotocki.VanillaVehiclesExpanded,Ludeon.RimWorld.Ideology">Mods/Vanilla Vehicles Expanded/Compat/Ideology</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActive="OskarPotocki.VanillaVehiclesExpanded">Mods/Vanilla Vehicles Expanded/Versions/1.7</li>
     <!-- MOD_END: Vanilla Vehicles Expanded -->
 
     <!-- MOD_START: Vanilla Vehicles Expanded - Tier 3 -->
@@ -3522,6 +3643,8 @@
     <!-- PACKAGE_ID: oskarpotocki.vanillavehiclesexpandedupgrades -->
     <!-- Principal -->
     <li IfModActive="oskarpotocki.vanillavehiclesexpandedupgrades">Mods/Vanilla Vehicles Expanded - Upgrades</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActive="OskarPotocki.VanillaVehiclesExpandedUpgrades">Mods/Vanilla Vehicles Expanded - Upgrades/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Vehicles Expanded - Upgrades -->
 
     <!-- MOD_START: Vanilla Weapons Expanded -->
@@ -3540,6 +3663,17 @@
     <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,OskarPotocki.VFE.Empire">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VFEEmpire</li>
     <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VWEFT</li>
     <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,VanillaExpanded.VWEMS">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VWEMS</li>
+    <!-- Listas de nomes e adjetivos: somente 1.6/1.7 -->
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Anomaly,Ludeon.RimWorld.Odyssey">Mods/Vanilla Weapons Expanded/Compat/Odyssey_Anomaly/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey">Mods/Vanilla Weapons Expanded/Compat/Odyssey/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,OskarPotocki.VFE.Empire">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VFEEmpire/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,OskarPotocki.VFE.Deserters">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VFEDeserters/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,OskarPotocki.VFE.Medieval2">Mods/Vanilla Weapons Expanded/Compat/Odyssey_Medieval2/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,VanillaExpanded.VWEFT">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VWEFT/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,VanillaExpanded.VWEMS">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VWEMS/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,vanillaquestsexpanded.deadlife">Mods/Vanilla Weapons Expanded/Compat/Odyssey_deadlife/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,vanillaquestsexpanded.cryptoforge">Mods/Vanilla Weapons Expanded/Compat/Odyssey_cryptoforge/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,VanillaExpanded.VAnomalyEInsanity">Mods/Vanilla Weapons Expanded/Compat/Odyssey_VAnomalyEInsanity/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Weapons Expanded -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Bioferrite -->
@@ -3558,6 +3692,8 @@
 
     <!-- Integrações -->
     <li IfModActiveAll="VanillaExpanded.VWEC,Ludeon.RimWorld.Odyssey">Mods/Vanilla Weapons Expanded - Coilguns/Compat/Odyssey</li>
+    <!-- Listas de nomes e adjetivos: somente 1.6/1.7 -->
+    <li IfModActiveAll="VanillaExpanded.VWEC,Ludeon.RimWorld.Odyssey">Mods/Vanilla Weapons Expanded - Coilguns/Compat/Odyssey/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Weapons Expanded - Coilguns -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Frontier -->
@@ -3576,6 +3712,11 @@
     <!-- PACKAGE_ID: VanillaExpanded.VWEG -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VWEG">Mods/Vanilla Weapons Expanded - Grenades</li>
+    <!-- Acréscimos de localização por versão -->
+    <li IfModActiveAll="VanillaExpanded.VWEG,Ludeon.RimWorld.Biotech">Mods/Vanilla Weapons Expanded - Grenades/Compat/Biotech/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWEG,OskarPotocki.VanillaFactionsExpanded.SettlersModule">Mods/Vanilla Weapons Expanded - Grenades/Compat/Settlers/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWEG,VanillaExpanded.VWENL">Mods/Vanilla Weapons Expanded - Grenades/Compat/NonLethal/Versions/1.6-1.7</li>
+    <li IfModActiveAll="VanillaExpanded.VWEG,VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded - Grenades/Compat/Weapons/Versions/1.6-1.7</li>
     <!-- MOD_END: Vanilla Weapons Expanded - Grenades -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Heavy Weapons -->
@@ -3606,6 +3747,8 @@
     <!-- PACKAGE_ID: VanillaExpanded.VWEQ -->
     <!-- Principal -->
     <li IfModActive="VanillaExpanded.VWEQ">Mods/Vanilla Weapons Expanded - QuickDrawn</li>
+    <!-- Integração Odyssey -->
+    <li IfModActiveAll="VanillaExpanded.VWEQ,Ludeon.RimWorld.Odyssey">Mods/Vanilla Weapons Expanded - QuickDrawn/Compat/Odyssey</li>
     <!-- MOD_END: Vanilla Weapons Expanded - QuickDrawn -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Tribal -->
@@ -3618,6 +3761,8 @@
     <!-- PACKAGE_ID: SmashPhil.VehicleFramework -->
     <!-- Principal -->
     <li IfModActive="SmashPhil.VehicleFramework">Mods/Vehicle Framework</li>
+    <!-- Chaves específicas da versão -->
+    <li IfModActive="SmashPhil.VehicleFramework">Mods/Vehicle Framework/Versions/1.7</li>
     <!-- MOD_END: Vehicle Framework -->
 
   </v1.7>

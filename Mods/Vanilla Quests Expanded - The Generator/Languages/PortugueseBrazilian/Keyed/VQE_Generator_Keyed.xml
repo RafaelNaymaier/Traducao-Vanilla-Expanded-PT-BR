@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
     <VQE_InstallWoodFiredGenetron>instalar núcleo de ARC aceso a madeira</VQE_InstallWoodFiredGenetron>
@@ -179,4 +179,11 @@
     <VQEG_ARCFuelMultiplier>Multiplicador de combustível de aprimoramento do ARC (menor é menos combustível)</VQEG_ARCFuelMultiplier>
     <VQEG_ARCFuelMultiplierTooltip>Define a quantidade de combustível que precisa ser queimada antes de permitir aprimoramentos. Números menores exigem menos combustível.</VQEG_ARCFuelMultiplierTooltip>
     <VQEG_Reset>Redefinir</VQEG_Reset>
+
+  <!-- EN: ARC power output multiplier -->
+  <VQEG_ARCOutputMultiplier>Multiplicador de geração de energia dos ARC</VQEG_ARCOutputMultiplier>
+
+  <!-- EN: This will scale the amount of power produced by the ARC reactors. -->
+  <VQEG_ARCOutputMultiplierTooltip>Ajusta a quantidade de energia produzida pelos reatores ARC.</VQEG_ARCOutputMultiplierTooltip>
 </LanguageData>
+

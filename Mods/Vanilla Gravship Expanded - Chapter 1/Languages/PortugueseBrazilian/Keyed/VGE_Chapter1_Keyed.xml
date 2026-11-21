@@ -29,11 +29,11 @@
     <!-- EN: Select a turret to link with. This targeting terminal will be used to operate that turret. -->
   <VGE_LinkWithTurretDesc>Selecionar uma torre para ligar. Este terminal de mira será usado para operar essa torre.</VGE_LinkWithTurretDesc>
     <!-- EN: Unlink {0} -->
-  <VGE_UnlinkWithTurret>Desligar torre</VGE_UnlinkWithTurret>
+  <VGE_UnlinkWithTurret>Desvincular {0}</VGE_UnlinkWithTurret>
     <!-- EN: Break the current link to a turret, allowing you to link with a different turret. -->
   <VGE_UnlinkWithTurretDesc>Quebrar a ligação atual a uma torre, permitindo ligar a uma torre diferente.</VGE_UnlinkWithTurretDesc>
     <!-- EN: Select linked {0} -->
-  <VGE_SelectLinkedTurret>Selecionar torre ligada</VGE_SelectLinkedTurret>
+  <VGE_SelectLinkedTurret>Selecionar {0} vinculado</VGE_SelectLinkedTurret>
     <!-- EN: Show the linked turret. -->
   <VGE_SelectLinkedTurretDesc>Mostrar a torre ligada.</VGE_SelectLinkedTurretDesc>
     <!-- EN: Gravship artillery needs to target a visible, explored map. -->

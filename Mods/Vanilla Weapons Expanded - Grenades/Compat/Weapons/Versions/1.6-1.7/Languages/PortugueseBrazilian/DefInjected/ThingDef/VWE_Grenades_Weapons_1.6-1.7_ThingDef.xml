@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: smoke grenade belt -->
+  <VWE_Apparel_GrenadeSmokeBelt.label>cinto de granadas de fumaça</VWE_Apparel_GrenadeSmokeBelt.label>
+
+  <!-- EN: Old school condensed smoke canisters that explodes into a smoke wall on impact, strapped to a belt. Can be reloaded using smoke grenades. -->
+  <VWE_Apparel_GrenadeSmokeBelt.description>Recipientes tradicionais de fumaça condensada, presos a um cinto, que explodem ao atingir o alvo e formam uma cortina de fumaça. Pode ser recarregado com granadas de fumaça.</VWE_Apparel_GrenadeSmokeBelt.description>
+
+  <!-- EN: smoke -->
+  <VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.chargeNoun>fumaça</VWE_Apparel_GrenadeSmokeBelt.comps.CompApparelReloadable.chargeNoun>
+
+  <!-- EN: throw smoke grenade -->
+  <VWE_Apparel_GrenadeSmokeBelt.verbs.throw_smoke_grenade.label>arremessar granada de fumaça</VWE_Apparel_GrenadeSmokeBelt.verbs.throw_smoke_grenade.label>
+
+  <!-- EN: flash grenade belt -->
+  <VWE_Apparel_GrenadeFlashBelt.label>cinto de granadas de luz</VWE_Apparel_GrenadeFlashBelt.label>
+
+  <!-- EN: A belt of flash grenades. Temporarily stuns organic enemies allowing users to close the distance. Can be reloaded using flash grenades. -->
+  <VWE_Apparel_GrenadeFlashBelt.description>Um cinto de granadas de luz. Atordoa temporariamente inimigos orgânicos, permitindo que o usuário se aproxime. Pode ser recarregado com granadas de luz.</VWE_Apparel_GrenadeFlashBelt.description>
+
+  <!-- EN: flash -->
+  <VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.chargeNoun>clarão</VWE_Apparel_GrenadeFlashBelt.comps.CompApparelReloadable.chargeNoun>
+
+  <!-- EN: throw flash grenade -->
+  <VWE_Apparel_GrenadeFlashBelt.verbs.throw_flash_grenade.label>arremessar granada de luz</VWE_Apparel_GrenadeFlashBelt.verbs.throw_flash_grenade.label>
+</LanguageData>
+

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <VFEM2_NeedTend>O apiário precisa de cuidados</VFEM2_NeedTend>
   <VFEM2_Resting>O apiário está em repouso porque a temperatura ambiente está abaixo de 10°C</VFEM2_Resting>
@@ -40,4 +40,10 @@
   <VFEM_MaynardMedievalResearchModifier>Devido à quantidade de projetos de pesquisa concluídos, o custo de pesquisa aumentou para: {0}</VFEM_MaynardMedievalResearchModifier>
   <VFEM_PillageRaidDesc>Um grupo de vikings de {0} chegou por perto.\nEles tentarão queimar sua colônia, roubando o que puderem antes de partirem.\nPrepare uma defesa ou ataque-os preventivamente.</VFEM_PillageRaidDesc>
 
+  <!-- EN: The apiary needs {0} more flower around it for bees to forage around. -->
+  <VFEM2_NeedFlower.One>O apiário precisa de mais {0} flor ao seu redor para que as abelhas possam coletar alimento.</VFEM2_NeedFlower.One>
+
+  <!-- EN: The apiary needs {0} more flowers around it for bees to forage around. -->
+  <VFEM2_NeedFlower.Many>O apiário precisa de mais {0} flores ao seu redor para que as abelhas possam coletar alimento.</VFEM2_NeedFlower.Many>
 </LanguageData>
+

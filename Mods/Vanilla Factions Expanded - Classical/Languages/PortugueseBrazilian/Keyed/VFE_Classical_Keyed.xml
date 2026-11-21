@@ -57,6 +57,11 @@
   <VFEC.UI.AlreadyQuest>Você já tem uma missão ativa para este senador.</VFEC.UI.AlreadyQuest>
   <VFEC.UI.ViewPerks>Ver Vantagens</VFEC.UI.ViewPerks>
   <VFEC.UI.ViewSenators>Ver Senadores</VFEC.UI.ViewSenators>
-  
+
+  <!-- EN: No quests available for this senator at the moment. -->
+  <VFEC.UI.NoQuestsAvailable>Nenhuma missão disponível para este senador no momento.</VFEC.UI.NoQuestsAvailable>
+
+  <!-- EN: A caravan must be present at this settlement to access the senate. -->
+  <VFEC.Senators.RequiresCaravan>Uma caravana deve estar presente neste assentamento para acessar o senado.</VFEC.Senators.RequiresCaravan>
 </LanguageData>
 

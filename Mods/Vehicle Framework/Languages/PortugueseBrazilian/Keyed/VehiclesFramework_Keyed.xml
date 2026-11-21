@@ -83,7 +83,6 @@
   <VF_Vehicles>Veículos</VF_Vehicles>
 
   <VF_LoadCargo>Carregar carga</VF_LoadCargo>
-  <VF_HaulPawnToVehicle>Carregar colonos</VF_HaulPawnToVehicle>
   <VF_DisembarkAllPawns>Desembarcar todos os colonos</VF_DisembarkAllPawns>
   <VF_DisembarkSinglePawn>Desembarcar {0}</VF_DisembarkSinglePawn>
   <VF_GearForward>Frente</VF_GearForward>
@@ -248,8 +247,6 @@
   <VF_UpgradeInProgress>Não é possível ligar a ignição enquanto {0_labelShort} está sendo aprimorado.</VF_UpgradeInProgress>
   <VF_NotEnoughCrew>Não há colonos suficientes em {0} para operar {1}.</VF_NotEnoughCrew>
 
-  <VF_CannotFit>Espaço insuficiente.</VF_CannotFit>
-  <VF_NoPathForVehicle>Não é possível traçar rota por aqui.</VF_NoPathForVehicle>
   <VF_IncapableStatusForRole>{0} é incapaz de cumprir esta função.</VF_IncapableStatusForRole>
   <VF_CannotAddToCargo>{0} não pode ser adicionado à carga.</VF_CannotAddToCargo>
 
@@ -633,3 +630,4 @@
   <VF_RemoveUpgrade>Remover</VF_RemoveUpgrade>
 
 </LanguageData>
+

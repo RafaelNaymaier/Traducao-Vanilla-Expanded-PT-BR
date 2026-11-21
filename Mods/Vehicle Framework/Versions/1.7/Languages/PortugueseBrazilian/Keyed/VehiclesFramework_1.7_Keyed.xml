@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: Load into {0_labelShort} -->
+  <VF_HaulPawnToVehicle>Carregar em {0_labelShort}</VF_HaulPawnToVehicle>
+
+  <!-- EN: {0_labelShort} cannot reach destination. Not enough space. -->
+  <VF_CannotFit>{0_labelShort} não consegue chegar ao destino. Espaço insuficiente.</VF_CannotFit>
+
+  <!-- EN: {0_labelShort} cannot reach destination. -->
+  <VF_NoPathForVehicle>{0_labelShort} não consegue chegar ao destino.</VF_NoPathForVehicle>
+
+  <!-- EN: Multiplier from road: {0} -->
+  <VF_MultiplierFromRoad>Multiplicador em estradas: {0}</VF_MultiplierFromRoad>
+
+  <!-- EN: Multiplier from off road: {0} -->
+  <VF_MultiplierFromOffRoad>Multiplicador fora de estradas: {0}</VF_MultiplierFromOffRoad>
+
+  <!-- EN: Unable to reach map edge. -->
+  <VF_CaravanCantReachExit>Não é possível alcançar a borda do mapa.</VF_CaravanCantReachExit>
+
+  <!-- EN: Carry {0_labelShort} to {1_labelShort} -->
+  <VF_CarryToVehicle>Levar {0_labelShort} até {1_labelShort}</VF_CarryToVehicle>
+
+  <!-- EN: Rescue {0_labelShort} to {1_labelShort} -->
+  <VF_RescueToVehicle>Resgatar {0_labelShort} para {1_labelShort}</VF_RescueToVehicle>
+
+  <!-- EN: Cannot load {0_labelShort} in {1_labelShort} -->
+  <VF_CantLoadInVehicle>Não é possível carregar {0_labelShort} em {1_labelShort}</VF_CantLoadInVehicle>
+
+  <!-- EN: No seat available. -->
+  <VF_NoRoleAvailable>Nenhum assento disponível.</VF_NoRoleAvailable>
+
+  <!-- EN: Not enough colonists in {0_labelShort} to operate {1}. -->
+  <VF_NotEnoughCrewFor>Não há colonos suficientes em {0_labelShort} para operar {1}.</VF_NotEnoughCrewFor>
+
+  <!-- EN: Use Hand Brakes -->
+  <VF_UseHandBrakes>Usar freios de mão</VF_UseHandBrakes>
+
+  <!-- EN: Vehicles will apply hand brakes when signaled to stop, decelerating faster at the cost of some health. -->
+  <VF_UseHandBrakesTooltip>Os veículos usarão os freios de mão ao receberem ordem de parar, desacelerando mais rápido ao custo de um pouco de durabilidade.</VF_UseHandBrakesTooltip>
+
+  <!-- EN: Use Burst -->
+  <VF_UseBurstLib>Usar Burst</VF_UseBurstLib>
+
+  <!-- EN: Load external burst library for better performance. -->
+  <VF_UseBurstLibTooltip>Carrega a biblioteca Burst externa para melhorar o desempenho.</VF_UseBurstLibTooltip>
+
+  <!-- EN: RimWorld crashed while attempting to load Vehicle Framework's external burst library.  It has been disabled to prevent further crashes, but can re-enabled from the mod settings.  This won't affect gameplay, the external burst library is only for performance. -->
+  <VF_BurstDisabledFromCrash>O RimWorld apresentou uma falha ao tentar carregar a biblioteca Burst externa do Vehicle Framework. Ela foi desativada para evitar novas falhas, mas pode ser reativada nas configurações do mod. Isso não afeta a jogabilidade; a biblioteca externa serve apenas para melhorar o desempenho.</VF_BurstDisabledFromCrash>
+
+  <!-- EN: Fishing from {0}. -->
+  <VF_FishingInVehicle>Pescando de {0}.</VF_FishingInVehicle>
+</LanguageData>
+

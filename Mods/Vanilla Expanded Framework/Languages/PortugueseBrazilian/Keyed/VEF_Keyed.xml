@@ -471,7 +471,8 @@
 	<VEF.HiringDesc>Você pode contratar {0} por qualquer período de tempo. Você só pode ter um contrato ativo por vez, e não pode misturar facções de onde contrata.\r\nSe {0} contratados morrerem em serviço, você terá um aumento adicional de 5% no preço do contrato por pirata morto em todos os contratos futuros por um ano inteiro.</VEF.HiringDesc>
 	<VEF.LongTerm>Contratos de longo prazo são significativamente mais caros</VEF.LongTerm>
 	<VEF.ContractInfo>Ver contrato com {0}</VEF.ContractInfo>
-	<VEF.DoorLockState>Bloqueio de porta atual:</VEF.DoorLockState>
+  <!-- EN: Current door lock policy "{0}" -->
+	<VEF.DoorLockState>Política atual de bloqueio da porta: "{0}"</VEF.DoorLockState>
 	<VEF.DoorLockStateDesc>Altere o estado de bloqueio de porta atual.</VEF.DoorLockStateDesc>
 	<VEF.DoorLockStatePowerOff>Energia desligada. Impossível mudar a política de bloqueio de porta.</VEF.DoorLockStatePowerOff>
 	<VEF.DraftHuntLabel>Caçar</VEF.DraftHuntLabel>
@@ -559,7 +560,8 @@
 	<VGE_EggPregnancyLabel>{0} fertilizado(a)!</VGE_EggPregnancyLabel>
 	
 	<VGE_EggLaid>{0} pôs um ovo fertilizado.</VGE_EggLaid>
-	<VGE_EggLaidLabel>Ovo fertilizado posto</VGE_EggLaidLabel>
+  <!-- EN: {0} laid an egg! -->
+	<VGE_EggLaidLabel>{0} pôs um ovo!</VGE_EggLaidLabel>
 
 <!-- Origem: VCE_Messages.xml -->
 	<VCE_SeaTilesNearby>{0} blocos marítimos próximos, fornecendo {1}% de bônus de crescimento</VCE_SeaTilesNearby>
@@ -1072,3 +1074,4 @@
   <VME_MessageNeedsThePairedMeme>{0} precisa que um dos seguintes memes seja escolhido também para funcionar: {1}</VME_MessageNeedsThePairedMeme>
 
 </LanguageData>
+

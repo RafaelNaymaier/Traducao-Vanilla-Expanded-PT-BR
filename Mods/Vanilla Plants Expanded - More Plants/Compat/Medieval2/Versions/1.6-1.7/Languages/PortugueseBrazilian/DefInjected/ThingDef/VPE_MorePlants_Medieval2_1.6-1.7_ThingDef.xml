@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: blueberries -->
+  <VCE_RawBlueberries.label>mirtilos</VCE_RawBlueberries.label>
+
+  <!-- EN: A sweet, edible fruit hailed as a "superfood", blueberries are commonly eaten fresh as a dessert fruit and can be baked in a variety of pastries. -->
+  <VCE_RawBlueberries.description>Frutos doces e comestíveis, considerados um "superalimento". Os mirtilos costumam ser consumidos frescos como sobremesa e podem ser usados em diversos doces assados.</VCE_RawBlueberries.description>
+
+  <!-- EN: blueberry plant -->
+  <VCE_Blueberry.label>pé de mirtilo</VCE_Blueberry.label>
+
+  <!-- EN: A shrub prized for its sweet edible fruits. Hailed as a "superfood", blueberries are commonly eaten fresh as a dessert fruit and can be baked in a variety of pastries.\n\n<color=#E5E54C>Gameplay effect:</color> Blueberries are pollinated by bees: they will receive a growth boost if an apiary is found in a radius of 6 tiles. To avoid lag this is only calculated once, when the plant is sown, so apiaries placed after sowing it will have no effect. If there are no apiaries it will behave as a slower strawberry plant. -->
+  <VCE_Blueberry.description>Um arbusto valorizado por seus frutos doces e comestíveis. Considerados um "superalimento", os mirtilos costumam ser consumidos frescos como sobremesa e podem ser usados em diversos doces assados.\n\n&lt;color=#E5E54C&gt;Efeito na jogabilidade:&lt;/color&gt; Os mirtilos são polinizados por abelhas: recebem um bônus de crescimento se houver um apiário em um raio de 6 células. Para evitar lentidão, isso é calculado apenas uma vez, no plantio. Portanto, apiários construídos depois não terão efeito. Sem apiários, a planta se comporta como um pé de morango de crescimento mais lento.</VCE_Blueberry.description>
+</LanguageData>
+

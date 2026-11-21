@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: crossbow -->
+  <VWE_Bow_Crossbow_Unique.comps.CompUniqueWeapon.namerLabels.0>besta</VWE_Bow_Crossbow_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: longbow -->
+  <VWE_Bow_Long_Unique.comps.CompUniqueWeapon.namerLabels.0>arco longo</VWE_Bow_Long_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: compound bow -->
+  <VWE_Bow_Compound_Unique.comps.CompUniqueWeapon.namerLabels.0>arco composto</VWE_Bow_Compound_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: revolver -->
+  <VWE_Gun_HandCannon_Unique.comps.CompUniqueWeapon.namerLabels.0>revólver</VWE_Gun_HandCannon_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: six-shooter -->
+  <VWE_Gun_HandCannon_Unique.comps.CompUniqueWeapon.namerLabels.1>seis-tiros</VWE_Gun_HandCannon_Unique.comps.CompUniqueWeapon.namerLabels.1>
+
+  <!-- EN: iron -->
+  <VWE_Gun_HandCannon_Unique.comps.CompUniqueWeapon.namerLabels.2>ferro</VWE_Gun_HandCannon_Unique.comps.CompUniqueWeapon.namerLabels.2>
+
+  <!-- EN: hammer -->
+  <VWE_Gun_HandCannon_Unique.comps.CompUniqueWeapon.namerLabels.3>martelo</VWE_Gun_HandCannon_Unique.comps.CompUniqueWeapon.namerLabels.3>
+
+  <!-- EN: combat handgun -->
+  <VWE_Gun_CombatHandgun_Unique.comps.CompUniqueWeapon.namerLabels.0>pistola de combate</VWE_Gun_CombatHandgun_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: sawed-off shotgun -->
+  <VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.0>espingarda de cano serrado</VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: shotgun -->
+  <VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.1>espingarda</VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.1>
+
+  <!-- EN: blaststick -->
+  <VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.2>bastão de estrondo</VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.2>
+
+  <!-- EN: sweeper -->
+  <VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.3>varredora</VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.3>
+
+  <!-- EN: gutspewer -->
+  <VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.4>espalha-tripas</VWE_Gun_SawedOffShotgun_Unique.comps.CompUniqueWeapon.namerLabels.4>
+
+  <!-- EN: semi-automatic rifle -->
+  <VWE_Gun_SemiAutomaticRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>fuzil semiautomático</VWE_Gun_SemiAutomaticRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: rifle -->
+  <VWE_Gun_SemiAutomaticRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>fuzil</VWE_Gun_SemiAutomaticRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+
+  <!-- EN: longshot -->
+  <VWE_Gun_SemiAutomaticRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>tiro longo</VWE_Gun_SemiAutomaticRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+
+  <!-- EN: longshooter -->
+  <VWE_Gun_SemiAutomaticRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>atirador de longa distância</VWE_Gun_SemiAutomaticRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+
+  <!-- EN: lever-action rifle -->
+  <VWE_Gun_LeverActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>fuzil de alavanca</VWE_Gun_LeverActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: rifle -->
+  <VWE_Gun_LeverActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>fuzil</VWE_Gun_LeverActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+
+  <!-- EN: longshot -->
+  <VWE_Gun_LeverActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>tiro longo</VWE_Gun_LeverActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+
+  <!-- EN: longshooter -->
+  <VWE_Gun_LeverActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>atirador de longa distância</VWE_Gun_LeverActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+
+  <!-- EN: trench gun -->
+  <VWE_Gun_TrenchGun_Unique.comps.CompUniqueWeapon.namerLabels.0>espingarda de trincheira</VWE_Gun_TrenchGun_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: blaststick -->
+  <VWE_Gun_TrenchGun_Unique.comps.CompUniqueWeapon.namerLabels.1>bastão de estrondo</VWE_Gun_TrenchGun_Unique.comps.CompUniqueWeapon.namerLabels.1>
+
+  <!-- EN: sweeper -->
+  <VWE_Gun_TrenchGun_Unique.comps.CompUniqueWeapon.namerLabels.2>varredora</VWE_Gun_TrenchGun_Unique.comps.CompUniqueWeapon.namerLabels.2>
+
+  <!-- EN: gutspewer -->
+  <VWE_Gun_TrenchGun_Unique.comps.CompUniqueWeapon.namerLabels.3>espalha-tripas</VWE_Gun_TrenchGun_Unique.comps.CompUniqueWeapon.namerLabels.3>
+
+  <!-- EN: light SMG -->
+  <VWE_Gun_LightSMG_Unique.comps.CompUniqueWeapon.namerLabels.0>SMG leve</VWE_Gun_LightSMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: SMG -->
+  <VWE_Gun_LightSMG_Unique.comps.CompUniqueWeapon.namerLabels.1>SMG</VWE_Gun_LightSMG_Unique.comps.CompUniqueWeapon.namerLabels.1>
+
+  <!-- EN: chugger -->
+  <VWE_Gun_LightSMG_Unique.comps.CompUniqueWeapon.namerLabels.2>matraqueadora</VWE_Gun_LightSMG_Unique.comps.CompUniqueWeapon.namerLabels.2>
+
+  <!-- EN: SMG -->
+  <VWE_Gun_SMG_Unique.comps.CompUniqueWeapon.namerLabels.0>SMG</VWE_Gun_SMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: chugger -->
+  <VWE_Gun_SMG_Unique.comps.CompUniqueWeapon.namerLabels.1>matraqueadora</VWE_Gun_SMG_Unique.comps.CompUniqueWeapon.namerLabels.1>
+
+  <!-- EN: HMG -->
+  <VWE_Gun_HMG_Unique.comps.CompUniqueWeapon.namerLabels.0>HMG</VWE_Gun_HMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: chugger -->
+  <VWE_Gun_HMG_Unique.comps.CompUniqueWeapon.namerLabels.1>matraqueadora</VWE_Gun_HMG_Unique.comps.CompUniqueWeapon.namerLabels.1>
+
+  <!-- EN: service rifle -->
+  <VWE_Gun_ServiceRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>fuzil de serviço</VWE_Gun_ServiceRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: war rifle -->
+  <VWE_Gun_ServiceRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>fuzil de guerra</VWE_Gun_ServiceRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+
+  <!-- EN: wargun -->
+  <VWE_Gun_ServiceRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>arma de guerra</VWE_Gun_ServiceRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+
+  <!-- EN: fusil -->
+  <VWE_Gun_ServiceRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>fuzil</VWE_Gun_ServiceRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+
+  <!-- EN: battle rifle -->
+  <VWE_Gun_BattleRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>fuzil de combate</VWE_Gun_BattleRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: war rifle -->
+  <VWE_Gun_BattleRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>fuzil de guerra</VWE_Gun_BattleRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+
+  <!-- EN: wargun -->
+  <VWE_Gun_BattleRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>arma de guerra</VWE_Gun_BattleRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+
+  <!-- EN: fusil -->
+  <VWE_Gun_BattleRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>fuzil</VWE_Gun_BattleRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+
+  <!-- EN: carbine -->
+  <VWE_Gun_Carbine_Unique.comps.CompUniqueWeapon.namerLabels.0>de carabina</VWE_Gun_Carbine_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: war rifle -->
+  <VWE_Gun_Carbine_Unique.comps.CompUniqueWeapon.namerLabels.1>fuzil de guerra</VWE_Gun_Carbine_Unique.comps.CompUniqueWeapon.namerLabels.1>
+
+  <!-- EN: wargun -->
+  <VWE_Gun_Carbine_Unique.comps.CompUniqueWeapon.namerLabels.2>arma de guerra</VWE_Gun_Carbine_Unique.comps.CompUniqueWeapon.namerLabels.2>
+
+  <!-- EN: fusil -->
+  <VWE_Gun_Carbine_Unique.comps.CompUniqueWeapon.namerLabels.3>fuzil</VWE_Gun_Carbine_Unique.comps.CompUniqueWeapon.namerLabels.3>
+
+  <!-- EN: precision rifle -->
+  <VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>fuzil de precisão</VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: marksman rifle -->
+  <VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>fuzil de atirador</VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+
+  <!-- EN: sniper -->
+  <VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>franco-atirador</VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+
+  <!-- EN: headshotter -->
+  <VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>racha-crânios</VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+
+  <!-- EN: snipegun -->
+  <VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>arma de precisão</VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+
+  <!-- EN: stalker -->
+  <VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>espreitadora</VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+
+  <!-- EN: assassinator -->
+  <VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.6>assassina</VWE_Gun_MarksmanRifle_Unique.comps.CompUniqueWeapon.namerLabels.6>
+
+  <!-- EN: precision rifle -->
+  <VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>fuzil de precisão</VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: anti-materiel rifle -->
+  <VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>fuzil antimaterial</VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+
+  <!-- EN: sniper -->
+  <VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>franco-atirador</VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+
+  <!-- EN: headshotter -->
+  <VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>racha-crânios</VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+
+  <!-- EN: snipegun -->
+  <VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>arma de precisão</VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+
+  <!-- EN: stalker -->
+  <VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>espreitadora</VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+
+  <!-- EN: assassinator -->
+  <VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.6>assassina</VWE_Gun_AntiMaterialRifle_Unique.comps.CompUniqueWeapon.namerLabels.6>
+
+  <!-- EN: charge pistol -->
+  <VWE_Gun_ChargePistol_Unique.comps.CompUniqueWeapon.namerLabels.0>pistola de carga</VWE_Gun_ChargePistol_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: charge shotgun -->
+  <VWE_Gun_ChargeShotgun_Unique.comps.CompUniqueWeapon.namerLabels.0>espingarda de carga</VWE_Gun_ChargeShotgun_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: charge SMG -->
+  <VWE_Gun_ChargeSMG_Unique.comps.CompUniqueWeapon.namerLabels.0>SMG de carga</VWE_Gun_ChargeSMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: charge blaster -->
+  <VWE_Gun_ChargeLMG_Unique.comps.CompUniqueWeapon.namerLabels.0>metralhadora de carga</VWE_Gun_ChargeLMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: heavy charge blaster -->
+  <VWE_Gun_ChargeMinigun_Unique.comps.CompUniqueWeapon.namerLabels.0>metralhadora de carga pesada</VWE_Gun_ChargeMinigun_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: charge sniper rifle -->
+  <VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>fuzil de precisão de carga</VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+
+  <!-- EN: sniper -->
+  <VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>franco-atirador</VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+
+  <!-- EN: headshotter -->
+  <VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>racha-crânios</VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+
+  <!-- EN: snipegun -->
+  <VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>arma de precisão</VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+
+  <!-- EN: stalker -->
+  <VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>espreitadora</VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+
+  <!-- EN: assassinator -->
+  <VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>assassina</VWE_Gun_ChargeSniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+</LanguageData>
+

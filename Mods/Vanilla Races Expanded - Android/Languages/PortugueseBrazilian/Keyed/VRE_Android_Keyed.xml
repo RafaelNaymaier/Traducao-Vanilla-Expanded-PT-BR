@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <VREA_ExtractNeutroamine>Extrair 20 neutroamina</VREA_ExtractNeutroamine>
@@ -180,4 +180,10 @@
 
   <VRE_ResourceStoredInNetwork>Total de {0} na rede: {1}</VRE_ResourceStoredInNetwork>
 
+  <!-- EN: Switches neutroamine flow on/off. -->
+  <VREA_NeutroValve>Ativa/desativa o fluxo de neutroamina.</VREA_NeutroValve>
+
+  <!-- EN: Switches neutroamine flow on/off. A pawn will come open/close the valve. -->
+  <VREA_NeutroValveDesc>Ativa/desativa o fluxo de neutroamina. Um colono virá abrir/fechar a válvula.</VREA_NeutroValveDesc>
 </LanguageData>
+

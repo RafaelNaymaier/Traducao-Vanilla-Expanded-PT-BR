@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: insect rostrum -->
+  <VRE_InsectRostrum.label>rostro de inseto</VRE_InsectRostrum.label>
+
+  <!-- EN: A large, sharp beak-like structure akin to that of bees that grants a powerful melee bite attack, dealing significant stab damage with a quick cooldown. -->
+  <VRE_InsectRostrum.description>Uma estrutura grande e afiada, semelhante a um bico, como a das abelhas. Permite um poderoso ataque corpo a corpo com mordida, causando dano perfurante considerável com um curto intervalo entre ataques.</VRE_InsectRostrum.description>
+
+  <!-- EN: insect rostrum -->
+  <VRE_InsectRostrum.comps.HediffComp_VerbGiver.tools.insect_rostrum.label>rostro de inseto</VRE_InsectRostrum.comps.HediffComp_VerbGiver.tools.insect_rostrum.label>
+
+  <!-- EN: microsized -->
+  <VRE_Microsized.label>microscópico</VRE_Microsized.label>
+
+  <!-- EN: The smaller genetic size causes a decrease in hunger rate. -->
+  <VRE_Microsized.description>O tamanho geneticamente reduzido diminui a taxa de fome.</VRE_Microsized.description>
+
+  <!-- EN: colossal -->
+  <VRE_Colossal.label>colossal</VRE_Colossal.label>
+
+  <!-- EN: The larger genetic size causes an increase in hunger rate. -->
+  <VRE_Colossal.description>O tamanho geneticamente aumentado eleva a taxa de fome.</VRE_Colossal.description>
+
+  <!-- EN: chemfuel sacks -->
+  <VRE_ChemfuelSacks.label>bolsas de combustível químico</VRE_ChemfuelSacks.label>
+
+  <!-- EN: Chemfuel sacks make this person very volatile. If set on fire, and the fire is at least 35 in size, they explode in a fire explosion. Upon fire explosion, they will not explode again for 24 hours.\n\nWill produce 30 chemfuel every 10 days. -->
+  <VRE_ChemfuelSacks.description>As bolsas de combustível químico tornam esta pessoa altamente inflamável. Se pegar fogo e o tamanho do fogo for de pelo menos 35, ela causará uma explosão incendiária. Após essa explosão, não poderá explodir novamente por 24 horas.\n\nProduz 30 unidades de combustível químico a cada 10 dias.</VRE_ChemfuelSacks.description>
+
+  <!-- EN: acid burstsack -->
+  <VRE_AcidBurstSack.label>bolsa de explosão ácida</VRE_AcidBurstSack.label>
+
+  <!-- EN: Upon taking large amounts of damage in a single instance, this person will undergo an acid explosion, covering everything and everyone in 4.9 tile radius in corrosive acid, damaging them over time. -->
+  <VRE_AcidBurstSack.description>Ao sofrer uma grande quantidade de dano de uma só vez, esta pessoa causará uma explosão ácida, cobrindo tudo e todos em um raio de 4.9 células com ácido corrosivo, que causa dano ao longo do tempo.</VRE_AcidBurstSack.description>
+
+  <!-- EN: mineral-rich insectskin -->
+  <VRE_MineralRichInsectskin.label>pele de inseto rica em minerais</VRE_MineralRichInsectskin.label>
+
+  <!-- EN: Mineral-rich insectskin forming thick, protective plating. This natural armor provides significant protection until enough damage is sustained to break it. -->
+  <VRE_MineralRichInsectskin.description>Uma pele de inseto rica em minerais que forma placas espessas e protetoras. Essa armadura natural oferece proteção considerável até sofrer dano suficiente para se romper.</VRE_MineralRichInsectskin.description>
+</LanguageData>
+

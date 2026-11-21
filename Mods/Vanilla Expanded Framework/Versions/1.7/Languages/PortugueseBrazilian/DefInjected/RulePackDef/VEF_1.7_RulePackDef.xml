@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: damage_source->A [charging] animal [crushed]
+destroyed_present(p=3)->tearing off
+charging->charging
+charging->passing
+crushed(p=8)->crushed
+crushed->pulverized
+crushed->squashed -->
+  <VEF_DamageEvent_Charge.rulePack.rulesStrings>
+    <li>damage_source-&gt;Um animal [charging] [crushed]</li>
+    <li>destroyed_present(p=3)-&gt;arrancando</li>
+    <li>charging-&gt;em investida</li>
+    <li>charging-&gt;de passagem</li>
+    <li>crushed(p=8)-&gt;esmagou</li>
+    <li>crushed-&gt;pulverizou</li>
+    <li>crushed-&gt;esmagou</li>
+  </VEF_DamageEvent_Charge.rulePack.rulesStrings>
+</LanguageData>
+

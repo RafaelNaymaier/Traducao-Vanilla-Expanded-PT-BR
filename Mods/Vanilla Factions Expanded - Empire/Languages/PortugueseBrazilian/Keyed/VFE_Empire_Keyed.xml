@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <VFEE.OR>OU</VFEE.OR>
   <VFEE.StartBestower.NoThrone>Não é possível iniciar porque {0} não possui um trono digno.</VFEE.StartBestower.NoThrone>
@@ -132,4 +132,70 @@
   <VFEEmpire.RoyalAddress.TitledGained>{PAWN} agora pode receber o título de {TITLE} de {FACTION}.</VFEEmpire.RoyalAddress.TitledGained>
   <VFEEmpire.BestowTitle.Finished>A cerimônia de outorga organizada por {ORGANIZER} terminou.</VFEEmpire.BestowTitle.Finished>
 
+  <!-- EN: {STELLARCH_nameDef} has ascended! -->
+  <VFEE.Parade.EndGame.Intro>{STELLARCH_nameDef} alcançou a ascensão!</VFEE.Parade.EndGame.Intro>
+
+  <!-- EN: The Imperial shuttle has carried {STELLARCH_nameDef} and everyone who ascended with {STELLARCH_objective} off this rimworld. From now on, {STELLARCH_pronoun} serves at the right hand of Emperor {EMPEROR_nameFull}.\n\nThe colony remains, and its story goes on. -->
+  <VFEE.Parade.EndGame.Ending>A nave imperial levou {STELLARCH_nameDef} e todos que ascenderam com {STELLARCH_objective} para fora deste mundo da orla. A partir de agora, {STELLARCH_pronoun} serve à direita do imperador {EMPEROR_nameFull}.\n\nA colônia permanece, e sua história continua.</VFEE.Parade.EndGame.Ending>
+
+  <!-- EN: Nobles arrive in {0} -->
+  <VFEE.Parade.NoblesArriveIn>Os nobres chegam em {0}</VFEE.Parade.NoblesArriveIn>
+
+  <!-- EN: The nobles land on {0}. -->
+  <VFEE.Parade.NoblesArriveOn>Os nobres pousam em {0}.</VFEE.Parade.NoblesArriveOn>
+
+  <!-- EN: The shuttle carrying the nobility for the ascension parade lands in {0}. Until then, the colony has time to prepare. The nobles will not land while the stellarch is away, the colony is under threat or a landing pad the colony has built cannot be used, and if that lasts a day, the parade is called off. -->
+  <VFEE.Parade.NoblesArriveInDesc>A nave que transporta a nobreza para o desfile de ascensão pousará em {0}. Até lá, a colônia tem tempo para se preparar. Os nobres não pousarão enquanto o estelarco estiver ausente, a colônia estiver sob ameaça ou uma plataforma de pouso construída pela colônia não puder ser utilizada. Se essa situação durar um dia, o desfile será cancelado.</VFEE.Parade.NoblesArriveInDesc>
+
+  <!-- EN: Parade nobles waiting -->
+  <VFEE.Parade.NoblesWaiting>Nobres do desfile aguardando</VFEE.Parade.NoblesWaiting>
+
+  <!-- EN: The nobles for the ascension parade will not land until {STELLARCH_nameDef} is at the colony to receive them. If {STELLARCH_pronoun} is not back within {TIME}, the parade is called off. -->
+  <VFEE.Parade.NoblesWaitingAwayDesc>Os nobres do desfile de ascensão não pousarão até que {STELLARCH_nameDef} esteja na colônia para recebê-los. Caso {STELLARCH_pronoun} não retorne em {TIME}, o desfile será cancelado.</VFEE.Parade.NoblesWaitingAwayDesc>
+
+  <!-- EN: The nobles for the ascension parade will not land while the colony is under threat. If the danger has not passed within {TIME}, the parade is called off. -->
+  <VFEE.Parade.NoblesWaitingThreatDesc>Os nobres do desfile de ascensão não pousarão enquanto a colônia estiver sob ameaça. Se o perigo não tiver passado em {TIME}, o desfile será cancelado.</VFEE.Parade.NoblesWaitingThreatDesc>
+
+  <!-- EN: The nobles for the ascension parade will not land until their shuttle can use your landing pad:\n\n{PROBLEMS}\n\nFix the pad, or deconstruct its beacons to have the nobles land near the colony instead. If the pad still cannot be used within {TIME}, the parade is called off. -->
+  <VFEE.Parade.NoblesWaitingPadDesc>Os nobres do desfile de ascensão não pousarão até que a nave deles possa usar sua plataforma de pouso:\n\n{PROBLEMS}\n\nResolva os problemas ou desmonte os sinalizadores da plataforma para que os nobres pousem perto da colônia. Se a plataforma ainda não puder ser utilizada em {TIME}, o desfile será cancelado.</VFEE.Parade.NoblesWaitingPadDesc>
+
+  <!-- EN: Their shuttle cannot use your landing pad either:\n\n{PROBLEMS} -->
+  <VFEE.Parade.NoblesWaitingPadToo>A nave deles também não pode usar sua plataforma de pouso:\n\n{PROBLEMS}</VFEE.Parade.NoblesWaitingPadToo>
+
+  <!-- EN: The nobles' shuttle will not land until your landing pad can be used: {0}. -->
+  <VFEE.Parade.PadUnusableMessage>A nave dos nobres só pousará quando sua plataforma de pouso puder ser utilizada: {0}.</VFEE.Parade.PadUnusableMessage>
+
+  <!-- EN: your ship landing beacons do not mark out a landing pad, which takes four of them at the corners of a rectangle with sides of {0} to {1} cells -->
+  <VFEE.Parade.PadUnformed>os sinalizadores de pouso de naves não delimitam uma plataforma de pouso, que requer quatro sinalizadores nos cantos de um retângulo com lados de {0} a {1} células</VFEE.Parade.PadUnformed>
+
+  <!-- EN: a beacon is unpowered -->
+  <VFEE.Parade.PadBeaconUnpowered>um sinalizador está sem energia</VFEE.Parade.PadBeaconUnpowered>
+
+  <!-- EN: {0} beacons are unpowered -->
+  <VFEE.Parade.PadBeaconsUnpowered>{0} sinalizadores estão sem energia</VFEE.Parade.PadBeaconsUnpowered>
+
+  <!-- EN: a roof covers {0} -->
+  <VFEE.Parade.PadRoofed>um teto cobre {0}</VFEE.Parade.PadRoofed>
+
+  <!-- EN: blocked by {0} -->
+  <VFEE.Parade.PadBlockedBy>bloqueada por {0}</VFEE.Parade.PadBlockedBy>
+
+  <!-- EN: {0} cannot support a landing -->
+  <VFEE.Parade.PadGround>{0} não permite um pouso</VFEE.Parade.PadGround>
+
+  <!-- EN: {0} of {1} -->
+  <VFEE.Parade.PadCellsOf>{0} de {1}</VFEE.Parade.PadCellsOf>
+
+  <!-- EN: cell -->
+  <VFEE.Parade.PadCell>célula</VFEE.Parade.PadCell>
+
+  <!-- EN: it cannot be used -->
+  <VFEE.Parade.PadUnusable>ela não pode ser utilizada</VFEE.Parade.PadUnusable>
+
+  <!-- EN: Called off in {0} -->
+  <VFEE.Parade.CalledOffIn>Cancelado em {0}</VFEE.Parade.CalledOffIn>
+
+  <!-- EN: Unless the nobles can land first, the parade is called off on {0}. -->
+  <VFEE.Parade.CalledOffOn>Se os nobres não pousarem antes, o desfile será cancelado em {0}.</VFEE.Parade.CalledOffOn>
 </LanguageData>
+

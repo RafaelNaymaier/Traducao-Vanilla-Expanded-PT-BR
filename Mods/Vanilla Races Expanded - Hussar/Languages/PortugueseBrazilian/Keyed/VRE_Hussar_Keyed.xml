@@ -1,6 +1,26 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <VREH_WeaponAptitude>Aptidão genética com armas</VREH_WeaponAptitude>
 
+  <!-- EN: Aptitudes are only for vanilla weapons -->
+  <VREH_Label_onlyVanillaWeapon>Aptidões apenas para armas do jogo base</VREH_Label_onlyVanillaWeapon>
+
+  <!-- EN: If enabled, weapon aptitudes genes will not be generated for mods.
+
+A restart is required. -->
+  <VREH_ToolTip_onlyVanillaWeapon>Se ativado, não serão gerados genes de aptidão com armas para conteúdo de mods.
+
+É necessário reiniciar o jogo.</VREH_ToolTip_onlyVanillaWeapon>
+
+  <!-- EN: Allow non-biocodable weapon -->
+  <VREH_Label_allowNonBiocodableWeapon>Permitir armas não biocodificáveis</VREH_Label_allowNonBiocodableWeapon>
+
+  <!-- EN: If disabled, genes will not be generated for non-biocodable weapons.
+
+A restart is required. -->
+  <VREH_ToolTip_allowNonBiocodableWeapon>Se desativado, não serão gerados genes para armas não biocodificáveis.
+
+É necessário reiniciar o jogo.</VREH_ToolTip_allowNonBiocodableWeapon>
 </LanguageData>
+

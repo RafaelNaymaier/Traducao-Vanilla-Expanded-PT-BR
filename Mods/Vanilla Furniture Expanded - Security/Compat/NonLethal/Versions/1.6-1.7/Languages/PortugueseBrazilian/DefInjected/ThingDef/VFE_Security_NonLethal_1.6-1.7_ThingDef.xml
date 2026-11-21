@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: non-lethal turret -->
+  <VFES_Turret_NonLethalTurret.label>torreta não letal</VFES_Turret_NonLethalTurret.label>
+
+  <!-- EN: A turret designed to fire rubber bullets at intruders or unruly colonists. It causes pain and blunt trauma with low chance of fatal injury, making it ideal for non-lethal suppression. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_NonLethalTurret.description>Uma torreta projetada para disparar balas de borracha contra intrusos ou colonos indisciplinados. Causa dor e trauma contundente com baixa chance de ferimentos fatais, sendo ideal para contenção não letal. Pode explodir quando danificada. Sua IA rudimentar não pode ser controlada diretamente, portanto cuidado com o fogo amigo.</VFES_Turret_NonLethalTurret.description>
+
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_NonLethalTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_NonLethalTurret.comps.CompRefuelable.fuelGizmoLabel>
+
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_NonLethalTurret.comps.CompRefuelable.fuelLabel>Disparos até a troca do cano</VFES_Turret_NonLethalTurret.comps.CompRefuelable.fuelLabel>
+
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_NonLethalTurret.comps.CompRefuelable.outOfFuelMessage>Precisa de um cano novo</VFES_Turret_NonLethalTurret.comps.CompRefuelable.outOfFuelMessage>
+
+  <!-- EN: non-lethal turret gun -->
+  <VFES_Gun_NonLethalTurret.label>arma de torreta não letal</VFES_Gun_NonLethalTurret.label>
+
+  <!-- EN: A non-lethal rubber bullet gun made to be mounted on a turret. -->
+  <VFES_Gun_NonLethalTurret.description>Uma arma não letal de balas de borracha feita para ser montada em uma torreta.</VFES_Gun_NonLethalTurret.description>
+</LanguageData>
+
