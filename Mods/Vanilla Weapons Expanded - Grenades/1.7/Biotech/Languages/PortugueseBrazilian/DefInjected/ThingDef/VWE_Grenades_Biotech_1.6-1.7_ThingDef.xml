@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: tox grenade belt -->
+  <VWE_Apparel_GrenadeToxicBelt.label>cinto de granadas tóxicas</VWE_Apparel_GrenadeToxicBelt.label>
+
+  <!-- EN: Charge powered lethal gas canister causing toxic buildup over a very short period of time, strapped to a belt. Can be reloaded using tox grenades. -->
+  <VWE_Apparel_GrenadeToxicBelt.description>Um recipiente de gás letal alimentado por carga, preso a um cinto, que causa acúmulo tóxico em pouquíssimo tempo. Pode ser recarregado com granadas tóxicas.</VWE_Apparel_GrenadeToxicBelt.description>
+
+  <!-- EN: gas -->
+  <VWE_Apparel_GrenadeToxicBelt.comps.CompApparelReloadable.chargeNoun>gás</VWE_Apparel_GrenadeToxicBelt.comps.CompApparelReloadable.chargeNoun>
+
+  <!-- EN: throw tox grenade -->
+  <VWE_Apparel_GrenadeToxicBelt.verbs.throw_tox_grenade.label>arremessar granada tóxica</VWE_Apparel_GrenadeToxicBelt.verbs.throw_tox_grenade.label>
+</LanguageData>
+

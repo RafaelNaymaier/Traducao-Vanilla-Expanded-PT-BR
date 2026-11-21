@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: tear gas grenade belt -->
+  <VWE_Apparel_GrenadeTearGasBelt.label>cinto de granadas de gás lacrimogêneo</VWE_Apparel_GrenadeTearGasBelt.label>
+
+  <!-- EN: Modern canister containing a special compound commonly referred to as tear gas, strapped to a belt. Can be reloaded using tear gas grenades. -->
+  <VWE_Apparel_GrenadeTearGasBelt.description>Um recipiente moderno com um composto especial conhecido como gás lacrimogêneo, preso a um cinto. Pode ser recarregado com granadas de gás lacrimogêneo.</VWE_Apparel_GrenadeTearGasBelt.description>
+
+  <!-- EN: tear gas -->
+  <VWE_Apparel_GrenadeTearGasBelt.comps.CompApparelReloadable.chargeNoun>gás lacrimogêneo</VWE_Apparel_GrenadeTearGasBelt.comps.CompApparelReloadable.chargeNoun>
+
+  <!-- EN: throw tear gas grenade -->
+  <VWE_Apparel_GrenadeTearGasBelt.verbs.throw_tear_gas_grenade.label>arremessar granada de gás lacrimogêneo</VWE_Apparel_GrenadeTearGasBelt.verbs.throw_tear_gas_grenade.label>
+</LanguageData>
+

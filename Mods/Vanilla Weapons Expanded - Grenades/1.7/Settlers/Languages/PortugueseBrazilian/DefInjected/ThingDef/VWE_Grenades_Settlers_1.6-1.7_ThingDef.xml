@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: dynamite belt -->
+  <VWE_Apparel_DynamiteBelt.label>cinto de dinamite</VWE_Apparel_DynamiteBelt.label>
+
+  <!-- EN: Makeshift explosive sticks of chemfuel strapped to a belt. They can be thrown a short distance, where they will explode after a random amount of time. Can be reloaded using dynamite. -->
+  <VWE_Apparel_DynamiteBelt.description>Bastões explosivos improvisados de combustível químico presos a um cinto. Podem ser arremessados a uma curta distância e explodem após um intervalo aleatório. Pode ser recarregado com dinamite.</VWE_Apparel_DynamiteBelt.description>
+
+  <!-- EN: dynamite -->
+  <VWE_Apparel_DynamiteBelt.comps.CompApparelReloadable.chargeNoun>dinamite</VWE_Apparel_DynamiteBelt.comps.CompApparelReloadable.chargeNoun>
+
+  <!-- EN: throw dynamite -->
+  <VWE_Apparel_DynamiteBelt.verbs.throw_dynamite.label>arremessar dinamite</VWE_Apparel_DynamiteBelt.verbs.throw_dynamite.label>
+</LanguageData>
+

@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: antlered quadruped -->
+  <AEXP_AntleredQuadruped.label>quadrúpede com galhadas</AEXP_AntleredQuadruped.label>
+
+  <!-- EN: left lung -->
+  <AEXP_AntleredQuadruped.corePart.parts.left_lung.customLabel>pulmão esquerdo</AEXP_AntleredQuadruped.corePart.parts.left_lung.customLabel>
+
+  <!-- EN: right lung -->
+  <AEXP_AntleredQuadruped.corePart.parts.right_lung.customLabel>pulmão direito</AEXP_AntleredQuadruped.corePart.parts.right_lung.customLabel>
+
+  <!-- EN: left kidney -->
+  <AEXP_AntleredQuadruped.corePart.parts.left_kidney.customLabel>rim esquerdo</AEXP_AntleredQuadruped.corePart.parts.left_kidney.customLabel>
+
+  <!-- EN: right kidney -->
+  <AEXP_AntleredQuadruped.corePart.parts.right_kidney.customLabel>rim direito</AEXP_AntleredQuadruped.corePart.parts.right_kidney.customLabel>
+
+  <!-- EN: left eye -->
+  <AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>olho esquerdo</AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+
+  <!-- EN: right eye -->
+  <AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>olho direito</AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+
+  <!-- EN: left ear -->
+  <AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>orelha esquerda</AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+
+  <!-- EN: right ear -->
+  <AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>orelha direita</AEXP_AntleredQuadruped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+
+  <!-- EN: front left leg -->
+  <AEXP_AntleredQuadruped.corePart.parts.front_left_leg.customLabel>perna dianteira esquerda</AEXP_AntleredQuadruped.corePart.parts.front_left_leg.customLabel>
+
+  <!-- EN: front left hoof -->
+  <AEXP_AntleredQuadruped.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>casco dianteiro esquerdo</AEXP_AntleredQuadruped.corePart.parts.front_left_leg.parts.front_left_hoof.customLabel>
+
+  <!-- EN: front right leg -->
+  <AEXP_AntleredQuadruped.corePart.parts.front_right_leg.customLabel>perna dianteira direita</AEXP_AntleredQuadruped.corePart.parts.front_right_leg.customLabel>
+
+  <!-- EN: front right hoof -->
+  <AEXP_AntleredQuadruped.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>casco dianteiro direito</AEXP_AntleredQuadruped.corePart.parts.front_right_leg.parts.front_right_hoof.customLabel>
+
+  <!-- EN: rear left leg -->
+  <AEXP_AntleredQuadruped.corePart.parts.rear_left_leg.customLabel>perna traseira esquerda</AEXP_AntleredQuadruped.corePart.parts.rear_left_leg.customLabel>
+
+  <!-- EN: rear left hoof -->
+  <AEXP_AntleredQuadruped.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>casco traseiro esquerdo</AEXP_AntleredQuadruped.corePart.parts.rear_left_leg.parts.rear_left_hoof.customLabel>
+
+  <!-- EN: rear right leg -->
+  <AEXP_AntleredQuadruped.corePart.parts.rear_right_leg.customLabel>perna traseira direita</AEXP_AntleredQuadruped.corePart.parts.rear_right_leg.customLabel>
+
+  <!-- EN: rear right hoof -->
+  <AEXP_AntleredQuadruped.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>casco traseiro direito</AEXP_AntleredQuadruped.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
+
+  <!-- EN: large lizardlike -->
+  <AEXP_LargeLizardlike.label>grande reptiliano</AEXP_LargeLizardlike.label>
+
+  <!-- EN: left lung -->
+  <AEXP_LargeLizardlike.corePart.parts.left_lung.customLabel>pulmão esquerdo</AEXP_LargeLizardlike.corePart.parts.left_lung.customLabel>
+
+  <!-- EN: right lung -->
+  <AEXP_LargeLizardlike.corePart.parts.right_lung.customLabel>pulmão direito</AEXP_LargeLizardlike.corePart.parts.right_lung.customLabel>
+
+  <!-- EN: left kidney -->
+  <AEXP_LargeLizardlike.corePart.parts.left_kidney.customLabel>rim esquerdo</AEXP_LargeLizardlike.corePart.parts.left_kidney.customLabel>
+
+  <!-- EN: right kidney -->
+  <AEXP_LargeLizardlike.corePart.parts.right_kidney.customLabel>rim direito</AEXP_LargeLizardlike.corePart.parts.right_kidney.customLabel>
+
+  <!-- EN: left eye -->
+  <AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>olho esquerdo</AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+
+  <!-- EN: right eye -->
+  <AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>olho direito</AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+
+  <!-- EN: front left leg -->
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.customLabel>perna dianteira esquerda</AEXP_LargeLizardlike.corePart.parts.front_left_leg.customLabel>
+
+  <!-- EN: front left leg first claw -->
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>primeira garra da perna dianteira esquerda</AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
+
+  <!-- EN: front left leg second claw -->
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>segunda garra da perna dianteira esquerda</AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>
+
+  <!-- EN: front left leg third claw -->
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>terceira garra da perna dianteira esquerda</AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>
+
+  <!-- EN: front right leg -->
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.customLabel>perna dianteira direita</AEXP_LargeLizardlike.corePart.parts.front_right_leg.customLabel>
+
+  <!-- EN: front right leg first claw -->
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>primeira garra da perna dianteira direita</AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
+
+  <!-- EN: front right leg second claw -->
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>segunda garra da perna dianteira direita</AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>
+
+  <!-- EN: front right leg third claw -->
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>terceira garra da perna dianteira direita</AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>
+
+  <!-- EN: rear left leg -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.customLabel>perna traseira esquerda</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.customLabel>
+
+  <!-- EN: rear left leg first claw -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>primeira garra da perna traseira esquerda</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
+
+  <!-- EN: rear left leg second claw -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>segunda garra da perna traseira esquerda</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>
+
+  <!-- EN: rear left leg third claw -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>terceira garra da perna traseira esquerda</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>
+
+  <!-- EN: rear right leg -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.customLabel>perna traseira direita</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.customLabel>
+
+  <!-- EN: rear right leg first claw -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>primeira garra da perna traseira direita</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
+
+  <!-- EN: rear right leg second claw -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>segunda garra da perna traseira direita</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>
+
+  <!-- EN: rear right leg third claw -->
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>terceira garra da perna traseira direita</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>
+
+  <!-- EN: simple pinniped -->
+  <AEXP_SimplePinniped.label>pinípede simples</AEXP_SimplePinniped.label>
+
+  <!-- EN: left lung -->
+  <AEXP_SimplePinniped.corePart.parts.left_lung.customLabel>pulmão esquerdo</AEXP_SimplePinniped.corePart.parts.left_lung.customLabel>
+
+  <!-- EN: right lung -->
+  <AEXP_SimplePinniped.corePart.parts.right_lung.customLabel>pulmão direito</AEXP_SimplePinniped.corePart.parts.right_lung.customLabel>
+
+  <!-- EN: left kidney -->
+  <AEXP_SimplePinniped.corePart.parts.left_kidney.customLabel>rim esquerdo</AEXP_SimplePinniped.corePart.parts.left_kidney.customLabel>
+
+  <!-- EN: right kidney -->
+  <AEXP_SimplePinniped.corePart.parts.right_kidney.customLabel>rim direito</AEXP_SimplePinniped.corePart.parts.right_kidney.customLabel>
+
+  <!-- EN: left eye -->
+  <AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>olho esquerdo</AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+
+  <!-- EN: right eye -->
+  <AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>olho direito</AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+
+  <!-- EN: left ear -->
+  <AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>orelha esquerda</AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+
+  <!-- EN: right ear -->
+  <AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>orelha direita</AEXP_SimplePinniped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+
+  <!-- EN: left fore-flipper -->
+  <AEXP_SimplePinniped.corePart.parts.left_foreflipper.customLabel>nadadeira anterior esquerda</AEXP_SimplePinniped.corePart.parts.left_foreflipper.customLabel>
+
+  <!-- EN: right fore-flipper -->
+  <AEXP_SimplePinniped.corePart.parts.right_foreflipper.customLabel>nadadeira anterior direita</AEXP_SimplePinniped.corePart.parts.right_foreflipper.customLabel>
+
+  <!-- EN: tusked pinniped -->
+  <AEXP_TuskedPinniped.label>pinípede com presas</AEXP_TuskedPinniped.label>
+
+  <!-- EN: left lung -->
+  <AEXP_TuskedPinniped.corePart.parts.left_lung.customLabel>pulmão esquerdo</AEXP_TuskedPinniped.corePart.parts.left_lung.customLabel>
+
+  <!-- EN: right lung -->
+  <AEXP_TuskedPinniped.corePart.parts.right_lung.customLabel>pulmão direito</AEXP_TuskedPinniped.corePart.parts.right_lung.customLabel>
+
+  <!-- EN: left kidney -->
+  <AEXP_TuskedPinniped.corePart.parts.left_kidney.customLabel>rim esquerdo</AEXP_TuskedPinniped.corePart.parts.left_kidney.customLabel>
+
+  <!-- EN: right kidney -->
+  <AEXP_TuskedPinniped.corePart.parts.right_kidney.customLabel>rim direito</AEXP_TuskedPinniped.corePart.parts.right_kidney.customLabel>
+
+  <!-- EN: left eye -->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>olho esquerdo</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+
+  <!-- EN: right eye -->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>olho direito</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+
+  <!-- EN: left ear -->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>orelha esquerda</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+
+  <!-- EN: right ear -->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>orelha direita</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+
+  <!-- EN: left tusk -->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>presa esquerda</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.left_tusk.customLabel>
+
+  <!-- EN: right tusk -->
+  <AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>presa direita</AEXP_TuskedPinniped.corePart.parts.Neck.parts.Head.parts.AnimalJaw.parts.right_tusk.customLabel>
+
+  <!-- EN: left fore-flipper -->
+  <AEXP_TuskedPinniped.corePart.parts.left_foreflipper.customLabel>nadadeira anterior esquerda</AEXP_TuskedPinniped.corePart.parts.left_foreflipper.customLabel>
+
+  <!-- EN: right fore-flipper -->
+  <AEXP_TuskedPinniped.corePart.parts.right_foreflipper.customLabel>nadadeira anterior direita</AEXP_TuskedPinniped.corePart.parts.right_foreflipper.customLabel>
+
+  <!-- EN: platypus -->
+  <AEXP_PlatypusBody.label>ornitorrinco</AEXP_PlatypusBody.label>
+
+  <!-- EN: left lung -->
+  <AEXP_PlatypusBody.corePart.parts.left_lung.customLabel>pulmão esquerdo</AEXP_PlatypusBody.corePart.parts.left_lung.customLabel>
+
+  <!-- EN: right lung -->
+  <AEXP_PlatypusBody.corePart.parts.right_lung.customLabel>pulmão direito</AEXP_PlatypusBody.corePart.parts.right_lung.customLabel>
+
+  <!-- EN: left kidney -->
+  <AEXP_PlatypusBody.corePart.parts.left_kidney.customLabel>rim esquerdo</AEXP_PlatypusBody.corePart.parts.left_kidney.customLabel>
+
+  <!-- EN: right kidney -->
+  <AEXP_PlatypusBody.corePart.parts.right_kidney.customLabel>rim direito</AEXP_PlatypusBody.corePart.parts.right_kidney.customLabel>
+
+  <!-- EN: left eye -->
+  <AEXP_PlatypusBody.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>olho esquerdo</AEXP_PlatypusBody.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+
+  <!-- EN: right eye -->
+  <AEXP_PlatypusBody.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>olho direito</AEXP_PlatypusBody.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+
+  <!-- EN: left ear -->
+  <AEXP_PlatypusBody.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>orelha esquerda</AEXP_PlatypusBody.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+
+  <!-- EN: right ear -->
+  <AEXP_PlatypusBody.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>orelha direita</AEXP_PlatypusBody.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+
+  <!-- EN: front left leg -->
+  <AEXP_PlatypusBody.corePart.parts.front_left_leg.customLabel>perna dianteira esquerda</AEXP_PlatypusBody.corePart.parts.front_left_leg.customLabel>
+
+  <!-- EN: front left paw -->
+  <AEXP_PlatypusBody.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>pata dianteira esquerda</AEXP_PlatypusBody.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+
+  <!-- EN: front right leg -->
+  <AEXP_PlatypusBody.corePart.parts.front_right_leg.customLabel>perna dianteira direita</AEXP_PlatypusBody.corePart.parts.front_right_leg.customLabel>
+
+  <!-- EN: front right paw -->
+  <AEXP_PlatypusBody.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>pata dianteira direita</AEXP_PlatypusBody.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+
+  <!-- EN: rear left leg -->
+  <AEXP_PlatypusBody.corePart.parts.rear_left_leg.customLabel>perna traseira esquerda</AEXP_PlatypusBody.corePart.parts.rear_left_leg.customLabel>
+
+  <!-- EN: rear left spur -->
+  <AEXP_PlatypusBody.corePart.parts.rear_left_leg.parts.rear_left_spur.customLabel>esporão traseiro esquerdo</AEXP_PlatypusBody.corePart.parts.rear_left_leg.parts.rear_left_spur.customLabel>
+
+  <!-- EN: rear right leg -->
+  <AEXP_PlatypusBody.corePart.parts.rear_right_leg.customLabel>perna traseira direita</AEXP_PlatypusBody.corePart.parts.rear_right_leg.customLabel>
+
+  <!-- EN: rear right spur -->
+  <AEXP_PlatypusBody.corePart.parts.rear_right_leg.parts.rear_right_spur.customLabel>esporão traseiro direito</AEXP_PlatypusBody.corePart.parts.rear_right_leg.parts.rear_right_spur.customLabel>
+
+  <!-- EN: great ape -->
+  <AEXP_GreatApe.label>grande símio</AEXP_GreatApe.label>
+
+  <!-- EN: left clavicle -->
+  <AEXP_GreatApe.corePart.parts.left_clavicle.customLabel>clavícula esquerda</AEXP_GreatApe.corePart.parts.left_clavicle.customLabel>
+
+  <!-- EN: right clavicle -->
+  <AEXP_GreatApe.corePart.parts.right_clavicle.customLabel>clavícula direita</AEXP_GreatApe.corePart.parts.right_clavicle.customLabel>
+
+  <!-- EN: left lung -->
+  <AEXP_GreatApe.corePart.parts.left_lung.customLabel>pulmão esquerdo</AEXP_GreatApe.corePart.parts.left_lung.customLabel>
+
+  <!-- EN: right lung -->
+  <AEXP_GreatApe.corePart.parts.right_lung.customLabel>pulmão direito</AEXP_GreatApe.corePart.parts.right_lung.customLabel>
+
+  <!-- EN: left kidney -->
+  <AEXP_GreatApe.corePart.parts.left_kidney.customLabel>rim esquerdo</AEXP_GreatApe.corePart.parts.left_kidney.customLabel>
+
+  <!-- EN: right kidney -->
+  <AEXP_GreatApe.corePart.parts.right_kidney.customLabel>rim direito</AEXP_GreatApe.corePart.parts.right_kidney.customLabel>
+
+  <!-- EN: left eye -->
+  <AEXP_GreatApe.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>olho esquerdo</AEXP_GreatApe.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+
+  <!-- EN: right eye -->
+  <AEXP_GreatApe.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>olho direito</AEXP_GreatApe.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+
+  <!-- EN: left ear -->
+  <AEXP_GreatApe.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>orelha esquerda</AEXP_GreatApe.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+
+  <!-- EN: right ear -->
+  <AEXP_GreatApe.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>orelha direita</AEXP_GreatApe.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+
+  <!-- EN: left shoulder -->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.customLabel>ombro esquerdo</AEXP_GreatApe.corePart.parts.left_shoulder.customLabel>
+
+  <!-- EN: left arm -->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.customLabel>braço esquerdo</AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+
+  <!-- EN: left humerus -->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>úmero esquerdo</AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+
+  <!-- EN: left radius -->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>rádio esquerdo</AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+
+  <!-- EN: left hand -->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>mão esquerda</AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+
+  <!-- EN: left pinky -->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>dedo mínimo esquerdo</AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+
+  <!-- EN: left ring finger -->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>dedo anelar esquerdo</AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+
+  <!-- EN: left middle finger -->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>dedo médio esquerdo</AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+
+  <!-- EN: left index finger -->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>dedo indicador esquerdo</AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+
+  <!-- EN: left thumb -->
+  <AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>polegar esquerdo</AEXP_GreatApe.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+
+  <!-- EN: right shoulder -->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.customLabel>ombro direito</AEXP_GreatApe.corePart.parts.right_shoulder.customLabel>
+
+  <!-- EN: right arm -->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.customLabel>braço direito</AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+
+  <!-- EN: right humerus -->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>úmero direito</AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+
+  <!-- EN: right radius -->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>rádio direito</AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+
+  <!-- EN: right hand -->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>mão direita</AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+
+  <!-- EN: right pinky -->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>dedo mínimo direito</AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+
+  <!-- EN: right ring finger -->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>dedo anelar direito</AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+
+  <!-- EN: right middle finger -->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>dedo médio direito</AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+
+  <!-- EN: right index finger -->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>dedo indicador direito</AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+
+  <!-- EN: right thumb -->
+  <AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>polegar direito</AEXP_GreatApe.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+
+  <!-- EN: left leg -->
+  <AEXP_GreatApe.corePart.parts.left_leg.customLabel>perna esquerda</AEXP_GreatApe.corePart.parts.left_leg.customLabel>
+
+  <!-- EN: left femur -->
+  <AEXP_GreatApe.corePart.parts.left_leg.parts.left_femur.customLabel>fêmur esquerdo</AEXP_GreatApe.corePart.parts.left_leg.parts.left_femur.customLabel>
+
+  <!-- EN: left tibia -->
+  <AEXP_GreatApe.corePart.parts.left_leg.parts.left_tibia.customLabel>tíbia esquerda</AEXP_GreatApe.corePart.parts.left_leg.parts.left_tibia.customLabel>
+
+  <!-- EN: left foot -->
+  <AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.customLabel>pé esquerdo</AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.customLabel>
+
+  <!-- EN: left little toe -->
+  <AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>dedo mínimo do pé esquerdo</AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+
+  <!-- EN: left fourth toe -->
+  <AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>quarto dedo do pé esquerdo</AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+
+  <!-- EN: left middle toe -->
+  <AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>dedo médio do pé esquerdo</AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+
+  <!-- EN: left second toe -->
+  <AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>segundo dedo do pé esquerdo</AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+
+  <!-- EN: left big toe -->
+  <AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>dedão do pé esquerdo</AEXP_GreatApe.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+
+  <!-- EN: right leg -->
+  <AEXP_GreatApe.corePart.parts.right_leg.customLabel>perna direita</AEXP_GreatApe.corePart.parts.right_leg.customLabel>
+
+  <!-- EN: right femur -->
+  <AEXP_GreatApe.corePart.parts.right_leg.parts.right_femur.customLabel>fêmur direito</AEXP_GreatApe.corePart.parts.right_leg.parts.right_femur.customLabel>
+
+  <!-- EN: right tibia -->
+  <AEXP_GreatApe.corePart.parts.right_leg.parts.right_tibia.customLabel>tíbia direita</AEXP_GreatApe.corePart.parts.right_leg.parts.right_tibia.customLabel>
+
+  <!-- EN: right foot -->
+  <AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.customLabel>pé direito</AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.customLabel>
+
+  <!-- EN: right little toe -->
+  <AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>dedo mínimo do pé direito</AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+
+  <!-- EN: right fourth toe -->
+  <AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>quarto dedo do pé direito</AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+
+  <!-- EN: right middle toe -->
+  <AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>dedo médio do pé direito</AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+
+  <!-- EN: right second toe -->
+  <AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>segundo dedo do pé direito</AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+
+  <!-- EN: right big toe -->
+  <AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>dedão do pé direito</AEXP_GreatApe.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+
+  <!-- EN: tailed biped -->
+  <AEXP_TailedBiped.label>bípede com cauda</AEXP_TailedBiped.label>
+
+  <!-- EN: left lung -->
+  <AEXP_TailedBiped.corePart.parts.left_lung.customLabel>pulmão esquerdo</AEXP_TailedBiped.corePart.parts.left_lung.customLabel>
+
+  <!-- EN: right lung -->
+  <AEXP_TailedBiped.corePart.parts.right_lung.customLabel>pulmão direito</AEXP_TailedBiped.corePart.parts.right_lung.customLabel>
+
+  <!-- EN: left kidney -->
+  <AEXP_TailedBiped.corePart.parts.left_kidney.customLabel>rim esquerdo</AEXP_TailedBiped.corePart.parts.left_kidney.customLabel>
+
+  <!-- EN: right kidney -->
+  <AEXP_TailedBiped.corePart.parts.right_kidney.customLabel>rim direito</AEXP_TailedBiped.corePart.parts.right_kidney.customLabel>
+
+  <!-- EN: left eye -->
+  <AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>olho esquerdo</AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+
+  <!-- EN: right eye -->
+  <AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>olho direito</AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+
+  <!-- EN: left ear -->
+  <AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>orelha esquerda</AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+
+  <!-- EN: right ear -->
+  <AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>orelha direita</AEXP_TailedBiped.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+
+  <!-- EN: left arm -->
+  <AEXP_TailedBiped.corePart.parts.left_arm.customLabel>braço esquerdo</AEXP_TailedBiped.corePart.parts.left_arm.customLabel>
+
+  <!-- EN: right arm -->
+  <AEXP_TailedBiped.corePart.parts.right_arm.customLabel>braço direito</AEXP_TailedBiped.corePart.parts.right_arm.customLabel>
+
+  <!-- EN: left leg -->
+  <AEXP_TailedBiped.corePart.parts.left_leg.customLabel>perna esquerda</AEXP_TailedBiped.corePart.parts.left_leg.customLabel>
+
+  <!-- EN: right leg -->
+  <AEXP_TailedBiped.corePart.parts.right_leg.customLabel>perna direita</AEXP_TailedBiped.corePart.parts.right_leg.customLabel>
+
+</LanguageData>
+
