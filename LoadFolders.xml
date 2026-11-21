@@ -914,6 +914,15 @@
     <li IfModActive="VanillaExpanded.VanillaAnimalsExpanded">Mods/Vanilla Animals Expanded/1.5</li>
     <!-- MOD_END: Vanilla Animals Expanded -->
 
+    <!-- MOD_START: Vanilla Animals Expanded - Endangered -->
+    <!-- PACKAGE_ID: VanillaExpanded.VAEEndAndExt -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VAEEndAndExt">Mods/Vanilla Animals Expanded - Endangered</li>
+    <li IfModActive="VanillaExpanded.VAEEndAndExt">Mods/Vanilla Animals Expanded - Endangered/1.5</li>
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VAEEndAndExt" IfModNotActive="VanillaExpanded.VanillaAnimalsExpanded">Mods/Vanilla Animals Expanded - Endangered/Mods/WithoutVanillaAnimals</li>
+    <!-- MOD_END: Vanilla Animals Expanded - Endangered -->
+
     <!-- MOD_START: Vanilla Anomaly Expanded - Insanity -->
     <!-- PACKAGE_ID: VanillaExpanded.VAnomalyEInsanity -->
     <!-- Principal -->
@@ -1835,6 +1844,17 @@
     <!-- Integrações -->
     <li IfModActive="VanillaExpanded.VanillaAnimalsExpanded" IfModNotActive="Ludeon.RimWorld.Odyssey">Mods/Vanilla Animals Expanded/1.6/NotOdyssey</li>
     <!-- MOD_END: Vanilla Animals Expanded -->
+
+    <!-- MOD_START: Vanilla Animals Expanded - Endangered -->
+    <!-- PACKAGE_ID: VanillaExpanded.VAEEndAndExt -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VAEEndAndExt">Mods/Vanilla Animals Expanded - Endangered</li>
+    <li IfModActive="VanillaExpanded.VAEEndAndExt">Mods/Vanilla Animals Expanded - Endangered/1.6</li>
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VAEEndAndExt" IfModNotActive="VanillaExpanded.VanillaAnimalsExpanded">Mods/Vanilla Animals Expanded - Endangered/Mods/WithoutVanillaAnimals</li>
+    <li IfModActive="VanillaExpanded.VAEEndAndExt" IfModNotActive="Ludeon.RimWorld.Odyssey">Mods/Vanilla Animals Expanded - Endangered/1.6/NotOdyssey</li>
+    <li IfModActiveAll="VanillaExpanded.VAEEndAndExt,VanillaExpanded.VanillaAnimalsExpanded,Ludeon.RimWorld.Odyssey">Mods/Vanilla Animals Expanded - Endangered/1.6/OdysseyWithVanillaAnimals</li>
+    <!-- MOD_END: Vanilla Animals Expanded - Endangered -->
 
     <!-- MOD_START: Vanilla Anomaly Expanded - Insanity -->
     <!-- PACKAGE_ID: VanillaExpanded.VAnomalyEInsanity -->
@@ -2811,6 +2831,17 @@
     <!-- Integrações -->
     <li IfModActive="VanillaExpanded.VanillaAnimalsExpanded" IfModNotActive="Ludeon.RimWorld.Odyssey">Mods/Vanilla Animals Expanded/1.7/NotOdyssey</li>
     <!-- MOD_END: Vanilla Animals Expanded -->
+
+    <!-- MOD_START: Vanilla Animals Expanded - Endangered -->
+    <!-- PACKAGE_ID: VanillaExpanded.VAEEndAndExt -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VAEEndAndExt">Mods/Vanilla Animals Expanded - Endangered</li>
+    <li IfModActive="VanillaExpanded.VAEEndAndExt">Mods/Vanilla Animals Expanded - Endangered/1.7</li>
+    <!-- Integrações -->
+    <li IfModActive="VanillaExpanded.VAEEndAndExt" IfModNotActive="VanillaExpanded.VanillaAnimalsExpanded">Mods/Vanilla Animals Expanded - Endangered/Mods/WithoutVanillaAnimals</li>
+    <li IfModActive="VanillaExpanded.VAEEndAndExt" IfModNotActive="Ludeon.RimWorld.Odyssey">Mods/Vanilla Animals Expanded - Endangered/1.7/NotOdyssey</li>
+    <li IfModActiveAll="VanillaExpanded.VAEEndAndExt,VanillaExpanded.VanillaAnimalsExpanded,Ludeon.RimWorld.Odyssey">Mods/Vanilla Animals Expanded - Endangered/1.7/OdysseyWithVanillaAnimals</li>
+    <!-- MOD_END: Vanilla Animals Expanded - Endangered -->
 
     <!-- MOD_START: Vanilla Anomaly Expanded - Insanity -->
     <!-- PACKAGE_ID: VanillaExpanded.VAnomalyEInsanity -->

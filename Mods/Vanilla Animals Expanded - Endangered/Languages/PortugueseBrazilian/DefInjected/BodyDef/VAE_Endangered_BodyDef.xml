@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: great ape -->
+  <AEXP_GreatApe_Bonobo.label>grande símio</AEXP_GreatApe_Bonobo.label>
+
+  <!-- EN: left clavicle -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_clavicle.customLabel>clavícula esquerda</AEXP_GreatApe_Bonobo.corePart.parts.left_clavicle.customLabel>
+
+  <!-- EN: right clavicle -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_clavicle.customLabel>clavícula direita</AEXP_GreatApe_Bonobo.corePart.parts.right_clavicle.customLabel>
+
+  <!-- EN: left lung -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_lung.customLabel>pulmão esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.left_lung.customLabel>
+
+  <!-- EN: right lung -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_lung.customLabel>pulmão direito</AEXP_GreatApe_Bonobo.corePart.parts.right_lung.customLabel>
+
+  <!-- EN: left kidney -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_kidney.customLabel>rim esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.left_kidney.customLabel>
+
+  <!-- EN: right kidney -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_kidney.customLabel>rim direito</AEXP_GreatApe_Bonobo.corePart.parts.right_kidney.customLabel>
+
+  <!-- EN: left eye -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>olho esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+
+  <!-- EN: right eye -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>olho direito</AEXP_GreatApe_Bonobo.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+
+  <!-- EN: left ear -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>orelha esquerda</AEXP_GreatApe_Bonobo.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+
+  <!-- EN: right ear -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>orelha direita</AEXP_GreatApe_Bonobo.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+
+  <!-- EN: left shoulder -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.customLabel>ombro esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.customLabel>
+
+  <!-- EN: left arm -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.customLabel>braço esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+
+  <!-- EN: left humerus -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>úmero esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+
+  <!-- EN: left radius -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>rádio esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+
+  <!-- EN: left hand -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>mão esquerda</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+
+  <!-- EN: left pinky -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>dedo mínimo esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+
+  <!-- EN: left ring finger -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>dedo anelar esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+
+  <!-- EN: left middle finger -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>dedo médio esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+
+  <!-- EN: left index finger -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>dedo indicador esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+
+  <!-- EN: left thumb -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>polegar esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+
+  <!-- EN: right shoulder -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.customLabel>ombro direito</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.customLabel>
+
+  <!-- EN: right arm -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.customLabel>braço direito</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+
+  <!-- EN: right humerus -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>úmero direito</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+
+  <!-- EN: right radius -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>rádio direito</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+
+  <!-- EN: right hand -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>mão direita</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+
+  <!-- EN: right pinky -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>dedo mínimo direito</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+
+  <!-- EN: right ring finger -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>dedo anelar direito</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+
+  <!-- EN: right middle finger -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>dedo médio direito</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+
+  <!-- EN: right index finger -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>dedo indicador direito</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+
+  <!-- EN: right thumb -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>polegar direito</AEXP_GreatApe_Bonobo.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+
+  <!-- EN: left leg -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_leg.customLabel>perna esquerda</AEXP_GreatApe_Bonobo.corePart.parts.left_leg.customLabel>
+
+  <!-- EN: left femur -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_femur.customLabel>fêmur esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_femur.customLabel>
+
+  <!-- EN: left tibia -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_tibia.customLabel>tíbia esquerda</AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_tibia.customLabel>
+
+  <!-- EN: left foot -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.customLabel>pé esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.customLabel>
+
+  <!-- EN: left little toe -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>dedo mínimo do pé esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+
+  <!-- EN: left fourth toe -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>quarto dedo do pé esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+
+  <!-- EN: left middle toe -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>dedo médio do pé esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+
+  <!-- EN: left second toe -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>segundo dedo do pé esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+
+  <!-- EN: left big toe -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>dedão do pé esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+
+  <!-- EN: right leg -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_leg.customLabel>perna direita</AEXP_GreatApe_Bonobo.corePart.parts.right_leg.customLabel>
+
+  <!-- EN: right femur -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_femur.customLabel>fêmur direito</AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_femur.customLabel>
+
+  <!-- EN: right tibia -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_tibia.customLabel>tíbia direita</AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_tibia.customLabel>
+
+  <!-- EN: right foot -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.customLabel>pé direito</AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.customLabel>
+
+  <!-- EN: right little toe -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>dedo mínimo do pé direito</AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+
+  <!-- EN: right fourth toe -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>quarto dedo do pé direito</AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+
+  <!-- EN: right middle toe -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>dedo médio do pé direito</AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+
+  <!-- EN: right second toe -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>segundo dedo do pé direito</AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+
+  <!-- EN: right big toe -->
+  <AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>dedão do pé direito</AEXP_GreatApe_Bonobo.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+
+</LanguageData>
+
+

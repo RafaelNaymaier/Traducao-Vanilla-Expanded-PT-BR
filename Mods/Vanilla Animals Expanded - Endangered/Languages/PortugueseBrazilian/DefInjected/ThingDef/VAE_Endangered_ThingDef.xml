@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: moa egg (fert.) -->
+  <AEXP_EggMoaFertilized.label>ovo de moa (fert.)</AEXP_EggMoaFertilized.label>
+
+  <!-- EN: A fertilized moa egg. If all goes well, it should hatch into a baby moa. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggMoaFertilized.description>Um ovo fertilizado de moa. Se tudo correr bem, dele nascerá um filhote de moa. Pode ser comido cru, mas fica muito melhor cozido.</AEXP_EggMoaFertilized.description>
+
+  <!-- EN: rockhopper penguin egg (fert.) -->
+  <AEXP_EggRockhopperPenguinFertilized.label>ovo de pinguim-saltador (fert.)</AEXP_EggRockhopperPenguinFertilized.label>
+
+  <!-- EN: A fertilized rockhopper penguin egg. If all goes well, it should hatch into a baby rockhopper penguin. It can be eaten raw, but it's much better cooked. -->
+  <AEXP_EggRockhopperPenguinFertilized.description>Um ovo fertilizado de pinguim-saltador. Se tudo correr bem, dele nascerá um filhote de pinguim-saltador. Pode ser comido cru, mas fica muito melhor cozido.</AEXP_EggRockhopperPenguinFertilized.description>
+
+  <!-- EN: black-footed ferret -->
+  <AEXP_BlackFootedFerret.label>furão-de-patas-negras</AEXP_BlackFootedFerret.label>
+
+  <!-- EN: A small, nocturnal member of the weasel family that feeds on other, smaller mammals. It has a long body and yellowish-brown fur with a blackish wash of fur on its back, and a black mask around its eyes.\n\n<color=#33d733>Real World Conservation Status:</color> Endangered. Black-footed ferrets are the most endangered mammals in North America, and they were thought extinct in 1976. A small group was rediscovered in 1981, bred in captivity and carefully released. As of 2020, fewer than 500 black-footed ferrets live in the wild at 17 reintroduction sites —a population well below the 3,000 needed to fully recover the species. -->
+  <AEXP_BlackFootedFerret.description>Um pequeno membro noturno da família das doninhas que se alimenta de outros mamíferos menores. Tem corpo longo, pelagem castanho-amarelada com pelos escurecidos no dorso e uma máscara preta ao redor dos olhos.\n\n&lt;color=#33d733&gt;Estado de conservação no mundo real:&lt;/color&gt; Em perigo. Os furões-de-patas-negras são os mamíferos mais ameaçados da América do Norte e foram considerados extintos em 1976. Um pequeno grupo foi redescoberto em 1981, criado em cativeiro e cuidadosamente devolvido à natureza. Em 2020, menos de 500 viviam em estado selvagem em 17 locais de reintrodução, uma população muito abaixo dos 3.000 necessários para a recuperação completa da espécie.</AEXP_BlackFootedFerret.description>
+
+  <!-- EN: left claw -->
+  <AEXP_BlackFootedFerret.tools.left_claw.label>garra esquerda</AEXP_BlackFootedFerret.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <AEXP_BlackFootedFerret.tools.right_claw.label>garra direita</AEXP_BlackFootedFerret.tools.right_claw.label>
+
+  <!-- EN: head -->
+  <AEXP_BlackFootedFerret.tools.head.label>cabeça</AEXP_BlackFootedFerret.tools.head.label>
+
+  <!-- EN: black rhinoceros -->
+  <AEXP_BlackRhino.label>rinoceronte-negro</AEXP_BlackRhino.label>
+
+  <!-- EN: A huge herbivorous mammal with a temperamental disposition. Black rhinos differ from their white relatives in their slightly smaller size and in lip shape. The black rhino has a pointed upper lip, while whites have a squared lip, a difference related to the animals' diets: Black rhinos are browsers that get most of their sustenance from eating from bushes.\n\n<color=#33d733>Real World Conservation Status:</color> Critically endangered. Three of the seven subspecies of black rhino have become extinct since 1850  and one is on the brink of extinction. As of 2020, thanks to the persistent efforts of conservation programmes across Africa, black rhino numbers have risen to a current population of between 5,366 and 5,627 individuals. -->
+  <AEXP_BlackRhino.description>Um enorme mamífero herbívoro de temperamento difícil. Os rinocerontes-negros se distinguem de seus parentes brancos pelo porte um pouco menor e pelo formato dos lábios. O rinoceronte-negro tem o lábio superior pontudo, enquanto o do branco é quadrado. Essa diferença está relacionada à alimentação: os rinocerontes-negros obtêm a maior parte de seu sustento consumindo arbustos.\n\n&lt;color=#33d733&gt;Estado de conservação no mundo real:&lt;/color&gt; Criticamente em perigo. Três das sete subespécies foram extintas desde 1850, e uma está à beira da extinção. Em 2020, graças aos esforços persistentes de programas de conservação em toda a África, sua população havia aumentado para um total entre 5.366 e 5.627 indivíduos.</AEXP_BlackRhino.description>
+
+  <!-- EN: horn -->
+  <AEXP_BlackRhino.tools.horn-0.label>chifre</AEXP_BlackRhino.tools.horn-0.label>
+
+  <!-- EN: horn -->
+  <AEXP_BlackRhino.tools.horn-1.label>chifre</AEXP_BlackRhino.tools.horn-1.label>
+
+  <!-- EN: head -->
+  <AEXP_BlackRhino.tools.head.label>cabeça</AEXP_BlackRhino.tools.head.label>
+
+  <!-- EN: bonobo -->
+  <AEXP_Bonobo.label>bonobo</AEXP_Bonobo.label>
+
+  <!-- EN: The bonobo is a great ape, a smaller relative of the chimpanzee with a rounder skull and flatter face. Bonobos have longer legs, shorter arms, and a narrower trunk. Bonobos exhibit remarkably different social behavior from chimpanzees, with an emphasis on peacemaking, and sex as a tool to manage and diffuse tension.\n\n<color=#33d733>Real World Conservation Status:</color> Endangered. Populations have declined rapidly over the last 30 years, but there are no reliable estimates for current bonobo numbers. Their habitat inside the Democratic Republic of the Congo is often threatened by political instability. -->
+  <AEXP_Bonobo.description>O bonobo é um grande símio, parente menor do chimpanzé, com crânio mais arredondado e rosto mais achatado. Tem pernas mais longas, braços mais curtos e tronco mais estreito. Seu comportamento social é muito diferente do dos chimpanzés, com ênfase na pacificação e no sexo como forma de administrar e aliviar tensões.\n\n&lt;color=#33d733&gt;Estado de conservação no mundo real:&lt;/color&gt; Em perigo. Suas populações diminuíram rapidamente nos últimos 30 anos, mas não há estimativas confiáveis para a quantidade atual de bonobos. Seu habitat na República Democrática do Congo é frequentemente ameaçado pela instabilidade política.</AEXP_Bonobo.description>
+
+  <!-- EN: left fist -->
+  <AEXP_Bonobo.tools.left_fist.label>punho esquerdo</AEXP_Bonobo.tools.left_fist.label>
+
+  <!-- EN: right fist -->
+  <AEXP_Bonobo.tools.right_fist.label>punho direito</AEXP_Bonobo.tools.right_fist.label>
+
+  <!-- EN: head -->
+  <AEXP_Bonobo.tools.head.label>cabeça</AEXP_Bonobo.tools.head.label>
+
+  <!-- EN: moa -->
+  <AEXP_Moa.label>moa</AEXP_Moa.label>
+
+  <!-- EN: A very large herbivore flightless bird native to the Old Earth islands of New Zealand. The moas lacked even the vestigial wings that all other ratites have. Moas feed on a range of plant species and plant parts, including fibrous twigs and leaves taken from low trees and shrubs.\n\n<color=#33d733>Real World Conservation Status:</color> Recently extinct. Moa were the dominant herbivore in New Zealand before the arrival of humans. Polynesians arrived sometime before 1300, and all moa genera were soon driven to extinction by hunting and, to a lesser extent, by habitat reduction due to forest clearance. By 1445, all moa had become extinct. -->
+  <AEXP_Moa.description>Uma ave herbívora muito grande que não voa, nativa das ilhas da Nova Zelândia na Terra antiga. As moas não possuíam sequer as asas vestigiais presentes nas demais ratitas. Alimentam-se de diversas espécies e partes de plantas, incluindo galhos fibrosos e folhas de árvores baixas e arbustos.\n\n&lt;color=#33d733&gt;Estado de conservação no mundo real:&lt;/color&gt; Extinta recentemente. As moas eram os herbívoros dominantes na Nova Zelândia antes da chegada dos humanos. Os polinésios chegaram em algum momento antes de 1300, e todos os gêneros de moa logo foram levados à extinção pela caça e, em menor grau, pela redução do habitat causada pelo desmatamento. Em 1445, todas as moas já estavam extintas.</AEXP_Moa.description>
+
+  <!-- EN: claws -->
+  <AEXP_Moa.tools.claws.label>garras</AEXP_Moa.tools.claws.label>
+
+  <!-- EN: beak -->
+  <AEXP_Moa.tools.beak.label>bico</AEXP_Moa.tools.beak.label>
+
+  <!-- EN: head -->
+  <AEXP_Moa.tools.head.label>cabeça</AEXP_Moa.tools.head.label>
+
+  <!-- EN: quagga -->
+  <AEXP_Quagga.label>quaga</AEXP_Quagga.label>
+
+  <!-- EN: The quagga is a subspecies of the plains zebra. It is distinguished from other zebras by its limited pattern of primarily brown and white stripes, mainly on the front part of the body. The rear is brown and without stripes, and appears more horse-like.\n\n<color=#33d733>Real World Conservation Status:</color> Recently Extinct. Quaggas became extinct late in the 19th century due to overhunting by Afrikaners. The Quagga Project was started in 1987 in South Africa to create a quagga-like zebra population by selectively breeding for a reduced stripe pattern from plains zebra stock, with the eventual aim of introducing them to the quagga's former range. -->
+  <AEXP_Quagga.description>O quaga é uma subespécie da zebra-das-planícies. Distingue-se das outras zebras por seu padrão limitado de listras, principalmente marrons e brancas, concentradas na parte dianteira do corpo. A parte traseira é marrom e sem listras, lembrando mais um cavalo.\n\n&lt;color=#33d733&gt;Estado de conservação no mundo real:&lt;/color&gt; Extinto recentemente. Os quagas foram extintos no fim do século XIX devido à caça excessiva por africâneres. O Quagga Project foi iniciado em 1987 na África do Sul para criar uma população de zebras semelhante ao quaga, por meio da reprodução seletiva de zebras-das-planícies com menos listras, com o objetivo final de introduzi-las na antiga área de distribuição do quaga.</AEXP_Quagga.description>
+
+  <!-- EN: head -->
+  <AEXP_Quagga.tools.head.label>cabeça</AEXP_Quagga.tools.head.label>
+
+  <!-- EN: left hoof -->
+  <AEXP_Quagga.tools.left_hoof.label>casco esquerdo</AEXP_Quagga.tools.left_hoof.label>
+
+  <!-- EN: right hoof -->
+  <AEXP_Quagga.tools.right_hoof.label>casco direito</AEXP_Quagga.tools.right_hoof.label>
+
+  <!-- EN: rockhopper penguin -->
+  <AEXP_RockhopperPenguin.label>pinguim-saltador</AEXP_RockhopperPenguin.label>
+
+  <!-- EN: Much smaller in size than the emperor penguin, rockhopper penguins weigh less than 10 pounds. They were named for their distinctive hopping movements over the rocky hills and cliffs where they live and breed.\n\n<color=#33d733>Real World Conservation Status:</color> Vulnerable. In the last 30 years, it is estimated that the population of rockhoppers has fallen by nearly 25%—and now climate change could place them at even greater risk. -->
+  <AEXP_RockhopperPenguin.description>Muito menores que o pinguim-imperador, os pinguins-saltadores pesam menos de 10 libras. Seu nome vem dos saltos característicos pelos morros rochosos e penhascos onde vivem e se reproduzem.\n\n&lt;color=#33d733&gt;Estado de conservação no mundo real:&lt;/color&gt; Vulnerável. Estima-se que sua população tenha diminuído quase 25% nos últimos 30 anos, e agora as mudanças climáticas podem colocá-los em risco ainda maior.</AEXP_RockhopperPenguin.description>
+
+  <!-- EN: claws -->
+  <AEXP_RockhopperPenguin.tools.claws.label>garras</AEXP_RockhopperPenguin.tools.claws.label>
+
+  <!-- EN: beak -->
+  <AEXP_RockhopperPenguin.tools.beak.label>bico</AEXP_RockhopperPenguin.tools.beak.label>
+
+  <!-- EN: head -->
+  <AEXP_RockhopperPenguin.tools.head.label>cabeça</AEXP_RockhopperPenguin.tools.head.label>
+
+  <!-- EN: tasmanian devil -->
+  <AEXP_TasmanianDevil.label>diabo-da-tasmânia</AEXP_TasmanianDevil.label>
+
+  <!-- EN: A carnivorous marsupial characterised by its stocky and muscular build, black fur, pungent odour, extremely loud and disturbing screech, keen sense of smell, and ferocity when feeding.\n\n<color=#33d733>Real World Conservation Status:</color> Endangered. Experts estimate that the devil has suffered a more than 80% decline in its population since the mid-1990s. It is estimated that fewer than 25,000 Tasmanian devils still live in the wild. -->
+  <AEXP_TasmanianDevil.description>Um marsupial carnívoro caracterizado pelo corpo robusto e musculoso, pelagem preta, odor forte, gritos extremamente altos e perturbadores, olfato apurado e ferocidade ao se alimentar.\n\n&lt;color=#33d733&gt;Estado de conservação no mundo real:&lt;/color&gt; Em perigo. Especialistas estimam que sua população tenha sofrido uma redução de mais de 80% desde meados da década de 1990. Estima-se que menos de 25.000 diabos-da-tasmânia ainda vivam em estado selvagem.</AEXP_TasmanianDevil.description>
+
+  <!-- EN: left claw -->
+  <AEXP_TasmanianDevil.tools.left_claw.label>garra esquerda</AEXP_TasmanianDevil.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <AEXP_TasmanianDevil.tools.right_claw.label>garra direita</AEXP_TasmanianDevil.tools.right_claw.label>
+
+  <!-- EN: head -->
+  <AEXP_TasmanianDevil.tools.head.label>cabeça</AEXP_TasmanianDevil.tools.head.label>
+
+  <!-- EN: thylacine -->
+  <AEXP_Thylacine.label>tilacino</AEXP_Thylacine.label>
+
+  <!-- EN: Commonly known as the Tasmanian tiger because of its striped lower back, the Thylacine is a shy and nocturnal carnivorous predator, with the general appearance of a medium-to-large-size dog, except for its stiff tail and abdominal pouch similar to a kangaroo's.\n\n<color=#33d733>Real World Conservation Status:</color> Recently Extinct. The last known thylacine died from exposure at the Beaumaris Zoo in Hobart in 1936. While it is estimated there were around 5000 thylacines in Tasmania at the time of European settlement, excessive hunting, combined with factors such as habitat destruction and introduced disease, led to the rapid extinction of the species. -->
+  <AEXP_Thylacine.description>Conhecido como tigre-da-tasmânia por causa das listras na parte inferior do dorso, o tilacino é um predador carnívoro tímido e noturno, com aparência geral de um cão de médio a grande porte, exceto pela cauda rígida e pela bolsa abdominal semelhante à de um canguru.\n\n&lt;color=#33d733&gt;Estado de conservação no mundo real:&lt;/color&gt; Extinto recentemente. O último tilacino conhecido morreu por exposição às intempéries no zoológico de Beaumaris, em Hobart, em 1936. Embora se estime que houvesse cerca de 5.000 tilacinos na Tasmânia na época da colonização europeia, a caça excessiva, combinada com fatores como a destruição do habitat e doenças introduzidas, levou à rápida extinção da espécie.</AEXP_Thylacine.description>
+
+  <!-- EN: left claw -->
+  <AEXP_Thylacine.tools.left_claw.label>garra esquerda</AEXP_Thylacine.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <AEXP_Thylacine.tools.right_claw.label>garra direita</AEXP_Thylacine.tools.right_claw.label>
+
+  <!-- EN: head -->
+  <AEXP_Thylacine.tools.head.label>cabeça</AEXP_Thylacine.tools.head.label>
+
+  <!-- EN: african wild dog -->
+  <AEXP_AfricanWildDog.label>cão-selvagem-africano</AEXP_AfricanWildDog.label>
+
+  <!-- EN: A large canine, distinguished from dogs and wolves by dentition highly specialised for a hypercarnivorous diet, and a lack of dewclaws. The African wild dog is a highly social animal, living in packs. Like most wild canines, they prefer to stay as far away from humans as possible.\n\n<color=#33d733>Real World Conservation Status:</color> Endangered. The African wild dog is primarily threatened by habitat fragmentation, which results in human–wildlife conflict, transmission of infectious diseases and high mortality rates. It is estimated that about 6,600 adults survive as of 2020. -->
+  <AEXP_AfricanWildDog.description>Um grande canídeo que se distingue dos cães e lobos pela dentição altamente especializada para uma dieta hipercarnívora e pela ausência de ergôs. O cão-selvagem-africano é um animal muito sociável que vive em matilhas. Como a maioria dos canídeos selvagens, prefere manter a maior distância possível dos humanos.\n\n&lt;color=#33d733&gt;Estado de conservação no mundo real:&lt;/color&gt; Em perigo. Sua principal ameaça é a fragmentação do habitat, que provoca conflitos entre humanos e animais selvagens, transmissão de doenças infecciosas e altas taxas de mortalidade. Em 2020, estimava-se que restavam cerca de 6.600 adultos.</AEXP_AfricanWildDog.description>
+
+  <!-- EN: left claw -->
+  <AEXP_AfricanWildDog.tools.left_claw.label>garra esquerda</AEXP_AfricanWildDog.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <AEXP_AfricanWildDog.tools.right_claw.label>garra direita</AEXP_AfricanWildDog.tools.right_claw.label>
+
+  <!-- EN: head -->
+  <AEXP_AfricanWildDog.tools.head.label>cabeça</AEXP_AfricanWildDog.tools.head.label>
+
+  <!-- EN: giant pangolin -->
+  <AEXP_Pangolin.label>pangolim-gigante</AEXP_Pangolin.label>
+
+  <!-- EN: Sometimes known as scaly anteaters, pangolins are mammals with large, protective keratin scales covering their skin. Pangolins are nocturnal, and their diet consists of mainly ants and termites, which they capture using their long tongues. They tend to be solitary animals, meeting only to mate.\n\n<color=#33d733>Real World Conservation Status:</color> Endangered. The giant pangolin is threatened by habitat destruction and deforestation, and hunting for the bushmeat trade. Pangolins have become the most heavily trafficked wild mammal in the world. -->
+  <AEXP_Pangolin.description>Às vezes chamados de tamanduás escamosos, os pangolins são mamíferos com grandes escamas protetoras de queratina cobrindo a pele. São noturnos e se alimentam principalmente de formigas e cupins, que capturam com suas longas línguas. Tendem a ser solitários, encontrando-se apenas para acasalar.\n\n&lt;color=#33d733&gt;Estado de conservação no mundo real:&lt;/color&gt; Em perigo. O pangolim-gigante é ameaçado pela destruição do habitat, pelo desmatamento e pela caça para o comércio de carne de animais selvagens. Os pangolins se tornaram os mamíferos selvagens mais traficados do mundo.</AEXP_Pangolin.description>
+
+  <!-- EN: left claw -->
+  <AEXP_Pangolin.tools.left_claw.label>garra esquerda</AEXP_Pangolin.tools.left_claw.label>
+
+  <!-- EN: right claw -->
+  <AEXP_Pangolin.tools.right_claw.label>garra direita</AEXP_Pangolin.tools.right_claw.label>
+
+  <!-- EN: head -->
+  <AEXP_Pangolin.tools.head.label>cabeça</AEXP_Pangolin.tools.head.label>
+
+</LanguageData>
+
+
