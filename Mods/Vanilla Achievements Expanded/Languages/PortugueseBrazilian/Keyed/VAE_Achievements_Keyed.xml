@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Vanilla Achievements Expanded -->
+  <VAE>Vanilla Achievements Expanded</VAE>
+
+  <!-- EN: Enable DebugWriter -->
+  <DebugWriter>Ativar DebugWriter</DebugWriter>
+
+  <!-- EN: Are you sure you want to enable the DebugWriter? This will significantly decrease performance in return for Achievement related data. This should only be enabled to track valuable information for debugging. -->
+  <DebugWriterConfirmation>Tem certeza de que deseja ativar o DebugWriter? Isso reduzirá significativamente o desempenho em troca de dados relacionados às conquistas. Ative apenas para coletar informações úteis à depuração.</DebugWriterConfirmation>
+
+  <!-- EN: Write to File -->
+  <GenerateLogInfo>Gravar em arquivo</GenerateLogInfo>
+
+  <!-- EN: Push achievement related logs to file. For debugging purposes only. -->
+  <GenerateLogInfoTooltip>Grava os registros das conquistas em um arquivo. Apenas para depuração.</GenerateLogInfoTooltip>
+
+  <!-- EN: Successfully pushed achievement logs to AchievementLog.txt -->
+  <SuccessfulWriteToFile>Registros das conquistas gravados com sucesso em AchievementLog.txt</SuccessfulWriteToFile>
+
+  <!-- EN: Unlock achievements and earn Storyteller points which you can redeem for various events. -->
+  <SideBarInfo>Desbloqueie conquistas e ganhe pontos do narrador que podem ser trocados por vários eventos.</SideBarInfo>
+
+  <!-- EN: Unlock achievements and earn Storyteller points to gauge your performance. -->
+  <VAE_SideBarInfoNoRedeem>Desbloqueie conquistas e ganhe pontos do narrador para avaliar seu desempenho.</VAE_SideBarInfoNoRedeem>
+
+  <!-- EN: Storyteller Points -->
+  <StorytellerPoints>Pontos do narrador</StorytellerPoints>
+
+  <!-- EN: Redeem Points -->
+  <PointsRedeem>Trocar pontos</PointsRedeem>
+
+  <!-- EN: Available: {0} -->
+  <PointsAvailable>Disponíveis: {0}</PointsAvailable>
+
+  <!-- EN: Total earnt: {0} -->
+  <PointsEarned>Total ganho: {0}</PointsEarned>
+
+  <!-- EN: Unlocked with DevMode -->
+  <UnlockedDevMode>Desbloqueada no modo de desenvolvedor</UnlockedDevMode>
+
+  <!-- EN: Locked -->
+  <AchievementLocked>Bloqueada</AchievementLocked>
+
+  <!-- EN: Achievements Unlocked: {0} -->
+  <AchievementsUnlocked>Conquistas desbloqueadas: {0}</AchievementsUnlocked>
+
+  <!-- EN: Total Achievements Unlocked: {0} -->
+  <AchievementsTotalUnlocked>Total de conquistas desbloqueadas: {0}</AchievementsTotalUnlocked>
+
+  <!-- EN: Achievement Unlocked! -->
+  <AchievementUnlocked>Conquista desbloqueada!</AchievementUnlocked>
+
+  <!-- EN: Failed to redeem reward {0} -->
+  <FailedRewardEvent>Não foi possível resgatar a recompensa {0}</FailedRewardEvent>
+
+  <!-- EN: Must have map loaded or IncidentTarget object selected on World Map -->
+  <FailedTargetFinder>É preciso ter um mapa carregado ou um objeto IncidentTarget selecionado no mapa-múndi</FailedTargetFinder>
+
+  <!-- EN: Must be purchased with PlayerHome map in view. -->
+  <NoValidMap>A compra exige que o mapa de uma colônia do jogador esteja sendo exibido.</NoValidMap>
+
+  <!-- EN: Incident not available right now. -->
+  <IncidentNotAvailable>O incidente não está disponível no momento.</IncidentNotAvailable>
+
+  <!-- EN: Not Enough Points -->
+  <NotEnoughPoints>Pontos insuficientes</NotEnoughPoints>
+
+  <!-- EN: Quest Item -->
+  <RandomQuestRewardItemLetter>Item de missão</RandomQuestRewardItemLetter>
+
+  <!-- EN: Random quest item dropped! -->
+  <RandomQuestRewardItem>Um item de missão aleatório foi entregue!</RandomQuestRewardItem>
+
+  <!-- EN: Use achievement points reward system -->
+  <VAE_UsePointsSystem>Usar sistema de recompensas por pontos de conquista</VAE_UsePointsSystem>
+
+  <!-- EN: By default, getting achievements rewards the player with points, which can be exchanged for trader caravans, events, raids, etc. Toggling this disables that system, with the points being there just as a tally count. -->
+  <VAE_UsePointsSystemDesc>Por padrão, desbloquear conquistas concede pontos ao jogador, que podem ser trocados por caravanas comerciais, eventos, invasões etc. Ao desativar esse sistema, os pontos passam a servir apenas como contagem.</VAE_UsePointsSystemDesc>
+
+  <!-- EN: Collate mod tabs -->
+  <VAE_CollateModTabs>Agrupar abas de mods</VAE_CollateModTabs>
+
+  <!-- EN: By checking this option all achievements from all mods will be joined into a single Mod tab. Use this if you have many achievement adding mods and your achievement window looks like a mess of infinite diminutive tabs -->
+  <VAE_CollateModTabsDesc>Ao marcar esta opção, todas as conquistas de todos os mods serão reunidas em uma única aba Mods. Use se você tiver muitos mods que adicionam conquistas e a janela parecer uma bagunça de incontáveis abas minúsculas</VAE_CollateModTabsDesc>
+
+  <!-- EN: Hidden until monolith level {0} -->
+  <VAE_AchievementHidden>Oculta até o nível {0} do monólito</VAE_AchievementHidden>
+
+</LanguageData>
+
+

@@ -907,6 +907,12 @@
   <v1.5>
     <li>/</li>
 
+    <!-- MOD_START: Vanilla Achievements Expanded -->
+    <!-- PACKAGE_ID: vanillaexpanded.achievements -->
+    <!-- Principal -->
+    <li IfModActive="vanillaexpanded.achievements">Mods/Vanilla Achievements Expanded</li>
+    <!-- MOD_END: Vanilla Achievements Expanded -->
+
     <!-- MOD_START: Vanilla Animals Expanded -->
     <!-- PACKAGE_ID: VanillaExpanded.VanillaAnimalsExpanded -->
     <!-- Principal -->
@@ -963,6 +969,7 @@
     <li IfModActive="VanillaExpanded.VARME" IfModNotActive="VanillaExpanded.VAPPE">Mods/Vanilla Armour Expanded/Mods/WithoutApparel</li>
 
     <li IfModActive="VanillaExpanded.VARME">Mods/Vanilla Armour Expanded/Mods/Royalty</li>
+    <li IfModActive="VanillaExpanded.VARME">Mods/Vanilla Armour Expanded/Mods/Achievements</li>
     <!-- MOD_END: Vanilla Armour Expanded -->
 
     <!-- MOD_START: Vanilla Aspirations Expanded -->
@@ -1051,6 +1058,7 @@
 
     <!-- Integrações -->
     <li IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Cooking Expanded/Mods/Plants</li>
+    <li IfModActive="VanillaExpanded.VCookE">Mods/Vanilla Cooking Expanded/Mods/Achievements</li>
     <!-- MOD_END: Vanilla Cooking Expanded -->
 
     <!-- MOD_START: Vanilla Cooking Expanded - Bakery -->
@@ -1123,6 +1131,8 @@
     <!-- PACKAGE_ID: OskarPotocki.VFE.Insectoid2 -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VFE.Insectoid2">Mods/Vanilla Factions Expanded - Insectoids 2</li>
+    <!-- Integrações -->
+    <li IfModActive="OskarPotocki.VFE.Insectoid2">Mods/Vanilla Factions Expanded - Insectoids 2/Mods/Achievements</li>
     <!-- MOD_END: Vanilla Factions Expanded - Insectoids 2 -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Medieval 2 -->
@@ -1172,6 +1182,7 @@
 
     <!-- Integrações -->
     <li IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Fishing Expanded/Mods/Odyssey</li>
+    <li IfModActive="VanillaExpanded.VCEF">Mods/Vanilla Fishing Expanded/Mods/Achievements</li>
     <!-- MOD_END: Vanilla Fishing Expanded -->
 
     <!-- MOD_START: Vanilla Food Variety Expanded -->
@@ -1760,6 +1771,8 @@
     <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Mods/Odyssey_VFEEmpire</li>
     <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Mods/Odyssey_VWEFT</li>
     <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Mods/Odyssey_VWEMS</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/Mods/Achievements</li>
+    <li IfModActive="VanillaExpanded.VWE">Mods/Vanilla Weapons Expanded/1.5/Achievements</li>
     <!-- MOD_END: Vanilla Weapons Expanded -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Bioferrite -->
@@ -1849,6 +1862,20 @@
   <v1.6>
     <li>/</li>
 
+    <!-- MOD_START: Vanilla Achievements Expanded -->
+    <!-- PACKAGE_ID: vanillaexpanded.achievements -->
+    <!-- Principal -->
+    <li IfModActive="vanillaexpanded.achievements">Mods/Vanilla Achievements Expanded</li>
+    <!-- Integrações -->
+    <li IfModActiveAll="vanillaexpanded.achievements,Ludeon.RimWorld.Anomaly">Mods/Vanilla Achievements Expanded/Mods/Anomaly</li>
+    <li IfModActiveAll="vanillaexpanded.achievements,Ludeon.RimWorld.Biotech">Mods/Vanilla Achievements Expanded/Mods/Biotech</li>
+    <li IfModActiveAll="vanillaexpanded.achievements,Ludeon.RimWorld.Ideology">Mods/Vanilla Achievements Expanded/Mods/Ideology</li>
+    <li IfModActiveAll="vanillaexpanded.achievements,Ludeon.RimWorld.Royalty">Mods/Vanilla Achievements Expanded/Mods/Royalty</li>
+    <li IfModActiveAll="vanillaexpanded.achievements,Ludeon.RimWorld.Anomaly,Ludeon.RimWorld.Ideology">Mods/Vanilla Achievements Expanded/Mods/Anomaly_Ideology</li>
+    <li IfModActiveAll="vanillaexpanded.achievements,Ludeon.RimWorld.Anomaly">Mods/Vanilla Achievements Expanded/1.6/Anomaly</li>
+    <li IfModActiveAll="vanillaexpanded.achievements,Ludeon.RimWorld.Odyssey">Mods/Vanilla Achievements Expanded/1.6/Odyssey</li>
+    <!-- MOD_END: Vanilla Achievements Expanded -->
+
     <!-- MOD_START: Vanilla Animals Expanded -->
     <!-- PACKAGE_ID: VanillaExpanded.VanillaAnimalsExpanded -->
     <!-- Principal -->
@@ -1913,6 +1940,7 @@
     <li IfModActive="VanillaExpanded.VARME" IfModNotActive="VanillaExpanded.VAPPE">Mods/Vanilla Armour Expanded/Mods/WithoutApparel</li>
 
     <li IfModActiveAll="VanillaExpanded.VARME,ludeon.rimworld.royalty">Mods/Vanilla Armour Expanded/Mods/Royalty</li>
+    <li IfModActiveAll="VanillaExpanded.VARME,vanillaexpanded.achievements">Mods/Vanilla Armour Expanded/Mods/Achievements</li>
     <!-- MOD_END: Vanilla Armour Expanded -->
 
     <!-- MOD_START: Vanilla Aspirations Expanded -->
@@ -2006,6 +2034,7 @@
     <li IfModActiveAll="VanillaExpanded.VCookE,VanillaExpanded.VCEF">Mods/Vanilla Cooking Expanded/1.6/Fishing</li>
     <li IfModActiveAll="VanillaExpanded.VCookE,VanillaExpanded.VGeneticsE">Mods/Vanilla Cooking Expanded/1.6/Genetics</li>
     <li IfModActiveAll="VanillaExpanded.VCookE,vanillaexpanded.skills">Mods/Vanilla Cooking Expanded/1.6/Skills</li>
+    <li IfModActiveAll="VanillaExpanded.VCookE,vanillaexpanded.achievements">Mods/Vanilla Cooking Expanded/Mods/Achievements</li>
     <!-- MOD_END: Vanilla Cooking Expanded -->
 
     <!-- MOD_START: Vanilla Cooking Expanded - Bakery -->
@@ -2078,6 +2107,8 @@
     <!-- PACKAGE_ID: OskarPotocki.VFE.Insectoid2 -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VFE.Insectoid2">Mods/Vanilla Factions Expanded - Insectoids 2</li>
+    <!-- Integrações -->
+    <li IfModActiveAll="OskarPotocki.VFE.Insectoid2,vanillaexpanded.achievements">Mods/Vanilla Factions Expanded - Insectoids 2/Mods/Achievements</li>
     <!-- MOD_END: Vanilla Factions Expanded - Insectoids 2 -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Medieval 2 -->
@@ -2132,6 +2163,7 @@
     <li IfModActiveAll="VanillaExpanded.VCEF,Ludeon.RimWorld.Odyssey">Mods/Vanilla Fishing Expanded/Mods/Odyssey</li>
     <!-- Acréscimos de localização por versão -->
     <li IfModActiveAll="VanillaExpanded.VCEF,vanillaexpanded.skills">Mods/Vanilla Fishing Expanded/1.6/Skills</li>
+    <li IfModActiveAll="VanillaExpanded.VCEF,vanillaexpanded.achievements">Mods/Vanilla Fishing Expanded/Mods/Achievements</li>
     <!-- MOD_END: Vanilla Fishing Expanded -->
 
     <!-- MOD_START: Vanilla Food Variety Expanded -->
@@ -2757,6 +2789,8 @@
     <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,vanillaquestsexpanded.deadlife">Mods/Vanilla Weapons Expanded/1.6/Odyssey_deadlife</li>
     <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,vanillaquestsexpanded.cryptoforge">Mods/Vanilla Weapons Expanded/1.6/Odyssey_cryptoforge</li>
     <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,VanillaExpanded.VAnomalyEInsanity">Mods/Vanilla Weapons Expanded/1.6/Odyssey_VAnomalyEInsanity</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,vanillaexpanded.achievements">Mods/Vanilla Weapons Expanded/Mods/Achievements</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,vanillaexpanded.achievements">Mods/Vanilla Weapons Expanded/1.6/Achievements</li>
     <!-- MOD_END: Vanilla Weapons Expanded -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Bioferrite -->
@@ -2853,6 +2887,20 @@
   <v1.7>
     <li>/</li>
 
+    <!-- MOD_START: Vanilla Achievements Expanded -->
+    <!-- PACKAGE_ID: vanillaexpanded.achievements -->
+    <!-- Principal -->
+    <li IfModActive="vanillaexpanded.achievements">Mods/Vanilla Achievements Expanded</li>
+    <!-- Integrações -->
+    <li IfModActiveAll="vanillaexpanded.achievements,Ludeon.RimWorld.Anomaly">Mods/Vanilla Achievements Expanded/Mods/Anomaly</li>
+    <li IfModActiveAll="vanillaexpanded.achievements,Ludeon.RimWorld.Biotech">Mods/Vanilla Achievements Expanded/Mods/Biotech</li>
+    <li IfModActiveAll="vanillaexpanded.achievements,Ludeon.RimWorld.Ideology">Mods/Vanilla Achievements Expanded/Mods/Ideology</li>
+    <li IfModActiveAll="vanillaexpanded.achievements,Ludeon.RimWorld.Royalty">Mods/Vanilla Achievements Expanded/Mods/Royalty</li>
+    <li IfModActiveAll="vanillaexpanded.achievements,Ludeon.RimWorld.Anomaly,Ludeon.RimWorld.Ideology">Mods/Vanilla Achievements Expanded/Mods/Anomaly_Ideology</li>
+    <li IfModActiveAll="vanillaexpanded.achievements,Ludeon.RimWorld.Anomaly">Mods/Vanilla Achievements Expanded/1.7/Anomaly</li>
+    <li IfModActiveAll="vanillaexpanded.achievements,Ludeon.RimWorld.Odyssey">Mods/Vanilla Achievements Expanded/1.7/Odyssey</li>
+    <!-- MOD_END: Vanilla Achievements Expanded -->
+
     <!-- MOD_START: Vanilla Animals Expanded -->
     <!-- PACKAGE_ID: VanillaExpanded.VanillaAnimalsExpanded -->
     <!-- Principal -->
@@ -2917,6 +2965,7 @@
     <li IfModActive="VanillaExpanded.VARME" IfModNotActive="VanillaExpanded.VAPPE">Mods/Vanilla Armour Expanded/Mods/WithoutApparel</li>
 
     <li IfModActiveAll="VanillaExpanded.VARME,ludeon.rimworld.royalty">Mods/Vanilla Armour Expanded/Mods/Royalty</li>
+    <li IfModActiveAll="VanillaExpanded.VARME,vanillaexpanded.achievements">Mods/Vanilla Armour Expanded/Mods/Achievements</li>
     <!-- MOD_END: Vanilla Armour Expanded -->
 
     <!-- MOD_START: Vanilla Aspirations Expanded -->
@@ -3010,6 +3059,7 @@
     <li IfModActiveAll="VanillaExpanded.VCookE,VanillaExpanded.VCEF">Mods/Vanilla Cooking Expanded/1.7/Fishing</li>
     <li IfModActiveAll="VanillaExpanded.VCookE,VanillaExpanded.VGeneticsE">Mods/Vanilla Cooking Expanded/1.7/Genetics</li>
     <li IfModActiveAll="VanillaExpanded.VCookE,vanillaexpanded.skills">Mods/Vanilla Cooking Expanded/1.7/Skills</li>
+    <li IfModActiveAll="VanillaExpanded.VCookE,vanillaexpanded.achievements">Mods/Vanilla Cooking Expanded/Mods/Achievements</li>
     <!-- MOD_END: Vanilla Cooking Expanded -->
 
     <!-- MOD_START: Vanilla Cooking Expanded - Bakery -->
@@ -3087,6 +3137,8 @@
     <!-- PACKAGE_ID: OskarPotocki.VFE.Insectoid2 -->
     <!-- Principal -->
     <li IfModActive="OskarPotocki.VFE.Insectoid2">Mods/Vanilla Factions Expanded - Insectoids 2</li>
+    <!-- Integrações -->
+    <li IfModActiveAll="OskarPotocki.VFE.Insectoid2,vanillaexpanded.achievements">Mods/Vanilla Factions Expanded - Insectoids 2/Mods/Achievements</li>
     <!-- MOD_END: Vanilla Factions Expanded - Insectoids 2 -->
 
     <!-- MOD_START: Vanilla Factions Expanded - Medieval 2 -->
@@ -3141,6 +3193,7 @@
     <li IfModActiveAll="VanillaExpanded.VCEF,Ludeon.RimWorld.Odyssey">Mods/Vanilla Fishing Expanded/Mods/Odyssey</li>
     <!-- Acréscimos de localização por versão -->
     <li IfModActiveAll="VanillaExpanded.VCEF,vanillaexpanded.skills">Mods/Vanilla Fishing Expanded/1.7/Skills</li>
+    <li IfModActiveAll="VanillaExpanded.VCEF,vanillaexpanded.achievements">Mods/Vanilla Fishing Expanded/Mods/Achievements</li>
     <!-- MOD_END: Vanilla Fishing Expanded -->
 
     <!-- MOD_START: Vanilla Food Variety Expanded -->
@@ -3774,6 +3827,8 @@
     <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,vanillaquestsexpanded.deadlife">Mods/Vanilla Weapons Expanded/1.7/Odyssey_deadlife</li>
     <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,vanillaquestsexpanded.cryptoforge">Mods/Vanilla Weapons Expanded/1.7/Odyssey_cryptoforge</li>
     <li IfModActiveAll="VanillaExpanded.VWE,Ludeon.RimWorld.Odyssey,VanillaExpanded.VAnomalyEInsanity">Mods/Vanilla Weapons Expanded/1.7/Odyssey_VAnomalyEInsanity</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,vanillaexpanded.achievements">Mods/Vanilla Weapons Expanded/Mods/Achievements</li>
+    <li IfModActiveAll="VanillaExpanded.VWE,vanillaexpanded.achievements">Mods/Vanilla Weapons Expanded/1.7/Achievements</li>
     <!-- MOD_END: Vanilla Weapons Expanded -->
 
     <!-- MOD_START: Vanilla Weapons Expanded - Bioferrite -->
