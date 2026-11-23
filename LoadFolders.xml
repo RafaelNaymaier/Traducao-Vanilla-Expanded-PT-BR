@@ -1303,6 +1303,12 @@
     <li IfModActive="VanillaExpanded.VGeneticsE" IfModNotActive="VanillaExpanded.VChemfuelE">Mods/Vanilla Genetics Expanded/Mods/WithoutChemfuel</li>
     <!-- MOD_END: Vanilla Genetics Expanded -->
 
+    <!-- MOD_START: Vanilla Genetics Expanded - More Lab Stuff -->
+    <!-- PACKAGE_ID: VanillaExpanded.VGeneticsEMoreLabStuff -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VGeneticsEMoreLabStuff">Mods/Vanilla Genetics Expanded - More Lab Stuff</li>
+    <!-- MOD_END: Vanilla Genetics Expanded - More Lab Stuff -->
+
     <!-- MOD_START: Vanilla Furniture Expanded - Props And Decor -->
     <!-- PACKAGE_ID: VanillaExpanded.VFEPropsandDecor -->
     <!-- Principal -->
@@ -2285,6 +2291,12 @@
     <li IfModActive="Spino.Megafauna,Spino.Megafauna_copy" IfModActiveAll="VanillaExpanded.VGeneticsE,VanillaExpanded.VCookE">Mods/Vanilla Genetics Expanded/Mods/Megafauna_Cooking</li>
     <li IfModActive="VanillaExpanded.VGeneticsE" IfModNotActive="VanillaExpanded.VChemfuelE">Mods/Vanilla Genetics Expanded/Mods/WithoutChemfuel</li>
     <!-- MOD_END: Vanilla Genetics Expanded -->
+
+    <!-- MOD_START: Vanilla Genetics Expanded - More Lab Stuff -->
+    <!-- PACKAGE_ID: VanillaExpanded.VGeneticsEMoreLabStuff -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VGeneticsEMoreLabStuff">Mods/Vanilla Genetics Expanded - More Lab Stuff</li>
+    <!-- MOD_END: Vanilla Genetics Expanded - More Lab Stuff -->
 
     <!-- MOD_START: Vanilla Furniture Expanded - Props And Decor -->
     <!-- PACKAGE_ID: VanillaExpanded.VFEPropsandDecor -->
@@ -3317,6 +3329,12 @@
     <!-- Acréscimos de localização por versão -->
     <li IfModActiveAll="VanillaExpanded.VGeneticsE,VanillaExpanded.VCookE,Ludeon.RimWorld.Anomaly">Mods/Vanilla Genetics Expanded/1.7/CosmicHorrors_Cooking</li>
     <!-- MOD_END: Vanilla Genetics Expanded -->
+
+    <!-- MOD_START: Vanilla Genetics Expanded - More Lab Stuff -->
+    <!-- PACKAGE_ID: VanillaExpanded.VGeneticsEMoreLabStuff -->
+    <!-- Principal -->
+    <li IfModActive="VanillaExpanded.VGeneticsEMoreLabStuff">Mods/Vanilla Genetics Expanded - More Lab Stuff</li>
+    <!-- MOD_END: Vanilla Genetics Expanded - More Lab Stuff -->
 
     <!-- MOD_START: Vanilla Furniture Expanded - Props And Decor -->
     <!-- PACKAGE_ID: VanillaExpanded.VFEPropsandDecor -->

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: age pills -->
+  <GR_AgePills.label>pílulas de envelhecimento</GR_AgePills.label>
+
+  <!-- EN: These capsules are filled with a mixture of chemicals and nanomachines, able to modify an organism's age by carefully manipulating its DNA. Every pill taken increases age by 1 year. Useful to make animals mature quickly.\n\nOnce consumed, the animal will be extremely dizzy for at least a day, and additional pills administered during that period won't be effective.\n\nOh, your colonists can also consume them... -->
+  <GR_AgePills.description>Estas cápsulas contêm uma mistura de substâncias químicas e nanomáquinas capaz de modificar a idade de um organismo por meio da manipulação cuidadosa de seu DNA. Cada pílula consumida aumenta a idade em 1 ano. São úteis para fazer os animais amadurecerem rapidamente.\n\nApós o consumo, o animal ficará extremamente tonto por pelo menos um dia, e outras pílulas administradas nesse período não terão efeito.\n\nAh, seus colonos também podem consumi-las...</GR_AgePills.description>
+
+  <!-- EN: Take {0} -->
+  <GR_AgePills.ingestible.ingestCommandString>Tomar {0}</GR_AgePills.ingestible.ingestCommandString>
+
+  <!-- EN: Taking {0}. -->
+  <GR_AgePills.ingestible.ingestReportString>Tomando {0}.</GR_AgePills.ingestible.ingestReportString>
+
+  <!-- EN: genetrainer bench -->
+  <GR_GenetrainerBench.label>bancada de genotreinadores</GR_GenetrainerBench.label>
+
+  <!-- EN: The Genetrainer bench allows jury rigging of mech serum neurotrainers, psytrainers, healers and resurrectors to craft genetrainers, single use artifacts that inject animal genetic material in a human being, acting as a powerful implant that doesn't take the place of any organ in the body. -->
+  <GR_GenetrainerBench.description>A bancada de genotreinadores permite adaptar de forma improvisada neurotreinadores, treinos psíquicos, soros de cura e soros de ressurreição à base de mecanitos para fabricar genotreinadores: artefatos de uso único que injetam material genético animal em um ser humano, funcionando como um poderoso implante que não substitui nenhum órgão do corpo.</GR_GenetrainerBench.description>
+
+  <!-- EN: animal Implant: animal mind controller -->
+  <GR_AnimalControlImplant.label>implante animal: controlador mental animal</GR_AnimalControlImplant.label>
+
+  <!-- EN: An animal mind controller implant. This implant will allow this creature to be drafted and controlled by the player. -->
+  <GR_AnimalControlImplant.description>Um implante de controle mental animal. Este implante permite que a criatura seja recrutada e controlada pelo jogador.</GR_AnimalControlImplant.description>
+
+  <!-- EN: avian genome genetrainer -->
+  <GR_AvianGenetrainer.label>genotreinador de genoma aviário</GR_AvianGenetrainer.label>
+
+  <!-- EN: Directly injects avian genes in an humanoid. This genetrainer gives the birdlike curiosity health state, increasing global learning speed.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects. -->
+  <GR_AvianGenetrainer.description>Injeta diretamente genes aviários em um humanoide. Este genotreinador concede a condição de curiosidade aviária, aumentando a velocidade global de aprendizado.\n\nGenotreinadores são implantes que não substituem nenhum órgão. Só é possível "instalar" um de cada vez. Usar um segundo genotreinador não terá efeito. Lembre-se de que um genotreinador modifica os genes do indivíduo humano, e somente a morte elimina seus efeitos.</GR_AvianGenetrainer.description>
+
+  <!-- EN: Using avian genome genetrainer -->
+  <GR_AvianGenetrainer.comps.CompUsable.useLabel>Usando genotreinador de genoma aviário</GR_AvianGenetrainer.comps.CompUsable.useLabel>
+
+  <!-- EN: boom genome genetrainer -->
+  <GR_BoomGenetrainer.label>genotreinador de genoma buma</GR_BoomGenetrainer.label>
+
+  <!-- EN: Directly injects boom genes in an humanoid. This genetrainer gives the ability to produce chemfuel like a boomalope.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects. -->
+  <GR_BoomGenetrainer.description>Injeta diretamente genes buma em um humanoide. Este genotreinador concede a capacidade de produzir combustível químico como um bumalope.\n\nGenotreinadores são implantes que não substituem nenhum órgão. Só é possível "instalar" um de cada vez. Usar um segundo genotreinador não terá efeito. Lembre-se de que um genotreinador modifica os genes do indivíduo humano, e somente a morte elimina seus efeitos.</GR_BoomGenetrainer.description>
+
+  <!-- EN: Using boom genome genetrainer -->
+  <GR_BoomGenetrainer.comps.CompUsable.useLabel>Usando genotreinador de genoma buma</GR_BoomGenetrainer.comps.CompUsable.useLabel>
+
+  <!-- EN: canine genome genetrainer -->
+  <GR_CanineGenetrainer.label>genotreinador de genoma canino</GR_CanineGenetrainer.label>
+
+  <!-- EN: Directly injects canine genes in an humanoid. This genetrainer gives the wolf speed health state, increasing movement speed, eating speed and immunity gain speed.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects. -->
+  <GR_CanineGenetrainer.description>Injeta diretamente genes caninos em um humanoide. Este genotreinador concede a condição de velocidade lupina, aumentando as velocidades de movimento, alimentação e ganho de imunidade.\n\nGenotreinadores são implantes que não substituem nenhum órgão. Só é possível "instalar" um de cada vez. Usar um segundo genotreinador não terá efeito. Lembre-se de que um genotreinador modifica os genes do indivíduo humano, e somente a morte elimina seus efeitos.</GR_CanineGenetrainer.description>
+
+  <!-- EN: Using canine genome genetrainer -->
+  <GR_CanineGenetrainer.comps.CompUsable.useLabel>Usando genotreinador de genoma canino</GR_CanineGenetrainer.comps.CompUsable.useLabel>
+
+  <!-- EN: colossal genome genetrainer -->
+  <GR_ColossalGenetrainer.label>genotreinador de genoma colossal</GR_ColossalGenetrainer.label>
+
+  <!-- EN: Directly injects colossal genes in an humanoid. This genetrainer gives the animal empathy health state, making the subject much more efficient when dealing with animals.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects. -->
+  <GR_ColossalGenetrainer.description>Injeta diretamente genes colossais em um humanoide. Este genotreinador concede a condição de empatia animal, tornando o indivíduo muito mais eficiente ao lidar com animais.\n\nGenotreinadores são implantes que não substituem nenhum órgão. Só é possível "instalar" um de cada vez. Usar um segundo genotreinador não terá efeito. Lembre-se de que um genotreinador modifica os genes do indivíduo humano, e somente a morte elimina seus efeitos.</GR_ColossalGenetrainer.description>
+
+  <!-- EN: Using colossal genome genetrainer -->
+  <GR_ColossalGenetrainer.comps.CompUsable.useLabel>Usando genotreinador de genoma colossal</GR_ColossalGenetrainer.comps.CompUsable.useLabel>
+
+  <!-- EN: equine genome genetrainer -->
+  <GR_EquineGenetrainer.label>genotreinador de genoma equino</GR_EquineGenetrainer.label>
+
+  <!-- EN: Directly injects equine genes in an humanoid. This genetrainer gives the tireless health state, making the subject need less rest.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects. -->
+  <GR_EquineGenetrainer.description>Injeta diretamente genes equinos em um humanoide. Este genotreinador torna o indivíduo incansável, reduzindo sua necessidade de descanso.\n\nGenotreinadores são implantes que não substituem nenhum órgão. Só é possível "instalar" um de cada vez. Usar um segundo genotreinador não terá efeito. Lembre-se de que um genotreinador modifica os genes do indivíduo humano, e somente a morte elimina seus efeitos.</GR_EquineGenetrainer.description>
+
+  <!-- EN: Using equine genome genetrainer -->
+  <GR_EquineGenetrainer.comps.CompUsable.useLabel>Usando genotreinador de genoma equino</GR_EquineGenetrainer.comps.CompUsable.useLabel>
+
+  <!-- EN: feline genome genetrainer -->
+  <GR_FelineGenetrainer.label>genotreinador de genoma felino</GR_FelineGenetrainer.label>
+
+  <!-- EN: Directly injects feline genes in an humanoid. This genetrainer gives the keen sight health state, increasing shooting accuracy.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects. -->
+  <GR_FelineGenetrainer.description>Injeta diretamente genes felinos em um humanoide. Este genotreinador concede a condição de visão aguçada, aumentando a precisão de tiro.\n\nGenotreinadores são implantes que não substituem nenhum órgão. Só é possível "instalar" um de cada vez. Usar um segundo genotreinador não terá efeito. Lembre-se de que um genotreinador modifica os genes do indivíduo humano, e somente a morte elimina seus efeitos.</GR_FelineGenetrainer.description>
+
+  <!-- EN: Using feline genome genetrainer -->
+  <GR_FelineGenetrainer.comps.CompUsable.useLabel>Usando genotreinador de genoma felino</GR_FelineGenetrainer.comps.CompUsable.useLabel>
+
+  <!-- EN: insectoid genome genetrainer -->
+  <GR_InsectoidGenetrainer.label>genotreinador de genoma insetoide</GR_InsectoidGenetrainer.label>
+
+  <!-- EN: Directly injects insectoid genes in an humanoid. This genetrainer gives the eusocial mind health state, making the subject specialized in construction and repair at the expense of plant and animal skills.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects. -->
+  <GR_InsectoidGenetrainer.description>Injeta diretamente genes insetoides em um humanoide. Este genotreinador concede a condição de mente eussocial, especializando o indivíduo em construção e reparos em detrimento das habilidades com plantas e animais.\n\nGenotreinadores são implantes que não substituem nenhum órgão. Só é possível "instalar" um de cada vez. Usar um segundo genotreinador não terá efeito. Lembre-se de que um genotreinador modifica os genes do indivíduo humano, e somente a morte elimina seus efeitos.</GR_InsectoidGenetrainer.description>
+
+  <!-- EN: Using insectoid genome genetrainer -->
+  <GR_InsectoidGenetrainer.comps.CompUsable.useLabel>Usando genotreinador de genoma insetoide</GR_InsectoidGenetrainer.comps.CompUsable.useLabel>
+
+  <!-- EN: muffalo genome genetrainer -->
+  <GR_MuffaloGenetrainer.label>genotreinador de genoma múfalo</GR_MuffaloGenetrainer.label>
+
+  <!-- EN: Directly injects muffalo genes in an humanoid. This genetrainer gives the wild attunement health state, increasing plant work speed, carrying capacity, foraging and... leather amount.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects. -->
+  <GR_MuffaloGenetrainer.description>Injeta diretamente genes de múfalo em um humanoide. Este genotreinador concede a condição de sintonia selvagem, aumentando a velocidade de trabalho com plantas, a capacidade de carga, a coleta de alimentos e... a quantidade de couro.\n\nGenotreinadores são implantes que não substituem nenhum órgão. Só é possível "instalar" um de cada vez. Usar um segundo genotreinador não terá efeito. Lembre-se de que um genotreinador modifica os genes do indivíduo humano, e somente a morte elimina seus efeitos.</GR_MuffaloGenetrainer.description>
+
+  <!-- EN: Using muffalo genome genetrainer -->
+  <GR_MuffaloGenetrainer.comps.CompUsable.useLabel>Usando genotreinador de genoma múfalo</GR_MuffaloGenetrainer.comps.CompUsable.useLabel>
+
+  <!-- EN: reptile genome genetrainer -->
+  <GR_ReptileGenetrainer.label>genotreinador de genoma reptiliano</GR_ReptileGenetrainer.label>
+
+  <!-- EN: Directly injects reptile genes in an humanoid. This genetrainer gives the cold blood health state, making the subject more stealthy and resistant to high temperatures.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects. -->
+  <GR_ReptileGenetrainer.description>Injeta diretamente genes reptilianos em um humanoide. Este genotreinador concede a condição de sangue frio, tornando o indivíduo mais furtivo e resistente a temperaturas elevadas.\n\nGenotreinadores são implantes que não substituem nenhum órgão. Só é possível "instalar" um de cada vez. Usar um segundo genotreinador não terá efeito. Lembre-se de que um genotreinador modifica os genes do indivíduo humano, e somente a morte elimina seus efeitos.</GR_ReptileGenetrainer.description>
+
+  <!-- EN: Using reptile genome genetrainer -->
+  <GR_ReptileGenetrainer.comps.CompUsable.useLabel>Usando genotreinador de genoma reptiliano</GR_ReptileGenetrainer.comps.CompUsable.useLabel>
+
+  <!-- EN: rodent genome genetrainer -->
+  <GR_RodentGenetrainer.label>genotreinador de genoma roedor</GR_RodentGenetrainer.label>
+
+  <!-- EN: Directly injects rodent genes in an humanoid. This genetrainer gives the gregarious health state, increasing all social capacities.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects. -->
+  <GR_RodentGenetrainer.description>Injeta diretamente genes de roedores em um humanoide. Este genotreinador torna o indivíduo gregário, aumentando todas as suas capacidades sociais.\n\nGenotreinadores são implantes que não substituem nenhum órgão. Só é possível "instalar" um de cada vez. Usar um segundo genotreinador não terá efeito. Lembre-se de que um genotreinador modifica os genes do indivíduo humano, e somente a morte elimina seus efeitos.</GR_RodentGenetrainer.description>
+
+  <!-- EN: Using rodent genome genetrainer -->
+  <GR_RodentGenetrainer.comps.CompUsable.useLabel>Usando genotreinador de genoma roedor</GR_RodentGenetrainer.comps.CompUsable.useLabel>
+
+  <!-- EN: ursine genome genetrainer -->
+  <GR_UrsineGenetrainer.label>genotreinador de genoma ursino</GR_UrsineGenetrainer.label>
+
+  <!-- EN: Directly injects ursine genes in an humanoid. This genetrainer gives a series of health states related to bear resilience.\n\nGenetrainers are implants that do not take the place of any given organ. Only one can be "installed" at a time. Using a second genetrainer will have no effect. Bear in mind that a genetrainer modifies the genes of the human subject, and only death will get rid of its effects. -->
+  <GR_UrsineGenetrainer.description>Injeta diretamente genes ursinos em um humanoide. Este genotreinador concede uma série de condições de saúde relacionadas à resiliência dos ursos.\n\nGenotreinadores são implantes que não substituem nenhum órgão. Só é possível "instalar" um de cada vez. Usar um segundo genotreinador não terá efeito. Lembre-se de que um genotreinador modifica os genes do indivíduo humano, e somente a morte elimina seus efeitos.</GR_UrsineGenetrainer.description>
+
+  <!-- EN: Using ursine genome genetrainer -->
+  <GR_UrsineGenetrainer.comps.CompUsable.useLabel>Usando genotreinador de genoma ursino</GR_UrsineGenetrainer.comps.CompUsable.useLabel>
+
+  <!-- EN: improved controller with attack module -->
+  <GR_ControllerAttackBooster.label>controlador aprimorado com módulo de ataque</GR_ControllerAttackBooster.label>
+
+  <!-- EN: Self-assembling machinery that fuses with the specimen’s nerve centers during the growth process. Allows hybrids to be drafted and causes sharp plasteel claws to grow from one of the creature's limbs.\n\nThis booster can't be crafted, only scavenged. -->
+  <GR_ControllerAttackBooster.description>Maquinaria automontável que se funde aos centros nervosos do espécime durante o crescimento. Permite recrutar híbridos e faz garras afiadas de plastaço crescerem em um dos membros da criatura.\n\nEste potencializador não pode ser fabricado, apenas encontrado.</GR_ControllerAttackBooster.description>
+
+  <!-- EN: improved controller with defend module -->
+  <GR_ControllerDefendBooster.label>controlador aprimorado com módulo de defesa</GR_ControllerDefendBooster.label>
+
+  <!-- EN: Self-assembling machinery that fuses with the specimen’s nerve centers during the growth process. Allows hybrids to be drafted and creates a strong mechanite skin that protects the animal from harm.\n\nThis booster can't be crafted, only scavenged. -->
+  <GR_ControllerDefendBooster.description>Maquinaria automontável que se funde aos centros nervosos do espécime durante o crescimento. Permite recrutar híbridos e cria uma pele resistente de mecanitos que protege o animal de danos.\n\nEste potencializador não pode ser fabricado, apenas encontrado.</GR_ControllerDefendBooster.description>
+
+  <!-- EN: gender selector: female -->
+  <GR_GenderSelector_Female.label>seletor de sexo: fêmea</GR_GenderSelector_Female.label>
+
+  <!-- EN: A fertility booster that also forces the produced embryo to develop female characteristics. Effectively allows hybrids to reproduce with the exact same species.\n\nNote: Insectoid hybrids are always incapable of reproducing. -->
+  <GR_GenderSelector_Female.description>Um potencializador de fertilidade que também força o embrião produzido a desenvolver características femininas. Permite que os híbridos se reproduzam com indivíduos exatamente da mesma espécie.\n\nNota: híbridos insetoides são sempre incapazes de se reproduzir.</GR_GenderSelector_Female.description>
+
+  <!-- EN: gender selector: male -->
+  <GR_GenderSelector_Male.label>seletor de sexo: macho</GR_GenderSelector_Male.label>
+
+  <!-- EN: A fertility booster that also forces the produced embryo to develop male characteristics. Effectively allows hybrids to reproduce with the exact same species.\n\nNote: Insectoid hybrids are always incapable of reproducing. -->
+  <GR_GenderSelector_Male.description>Um potencializador de fertilidade que também força o embrião produzido a desenvolver características masculinas. Permite que os híbridos se reproduzam com indivíduos exatamente da mesma espécie.\n\nNota: híbridos insetoides são sempre incapazes de se reproduzir.</GR_GenderSelector_Male.description>
+
+  <!-- EN: improved gender selector: female -->
+  <GR_GenderSelectorMajor_Female.label>seletor de sexo aprimorado: fêmea</GR_GenderSelectorMajor_Female.label>
+
+  <!-- EN: A fertility booster that also forces the produced embryo to develop female characteristics. Effectively allows hybrids to reproduce with the exact same species.\n\nThis booster can't be crafted, only scavenged.\n\nNote: Insectoid hybrids are always incapable of reproducing. -->
+  <GR_GenderSelectorMajor_Female.description>Um potencializador de fertilidade que também força o embrião produzido a desenvolver características femininas. Permite que os híbridos se reproduzam com indivíduos exatamente da mesma espécie.\n\nEste potencializador não pode ser fabricado, apenas encontrado.\n\nNota: híbridos insetoides são sempre incapazes de se reproduzir.</GR_GenderSelectorMajor_Female.description>
+
+  <!-- EN: improved gender selector: male -->
+  <GR_GenderSelectorMajor_Male.label>seletor de sexo aprimorado: macho</GR_GenderSelectorMajor_Male.label>
+
+  <!-- EN: A fertility booster that also forces the produced embryo to develop male characteristics. Effectively allows hybrids to reproduce with the exact same species.\n\nThis booster can't be crafted, only scavenged.\n\nNote: Insectoid hybrids are always incapable of reproducing. -->
+  <GR_GenderSelectorMajor_Male.description>Um potencializador de fertilidade que também força o embrião produzido a desenvolver características masculinas. Permite que os híbridos se reproduzam com indivíduos exatamente da mesma espécie.\n\nEste potencializador não pode ser fabricado, apenas encontrado.\n\nNota: híbridos insetoides são sempre incapazes de se reproduzir.</GR_GenderSelectorMajor_Male.description>
+</LanguageData>
+

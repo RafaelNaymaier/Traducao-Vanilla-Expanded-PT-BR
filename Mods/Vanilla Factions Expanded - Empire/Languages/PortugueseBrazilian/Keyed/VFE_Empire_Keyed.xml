@@ -117,7 +117,10 @@
   <VFEE.Honor.BestowPlural>Outorgar Honrarias</VFEE.Honor.BestowPlural>
   <VFEE.Honor.Bestow.Desc>Outorgar honrarias pendentes para este nobre. Concederá as seguintes honrarias:\n{0}</VFEE.Honor.Bestow.Desc>
   <VFEE.Successful>Bem-sucedido</VFEE.Successful>
-  <VFEE.Honor.Bestow.Success>{0} recebeu suas honrarias pendentes. Eles ganharam:\n{0}</VFEE.Honor.Bestow.Success>
+
+  <!-- EN: {0} has been bestowed with their pending honors. They have gained:\n{0} -->
+  <VFEE.Honor.Bestow.Success>{0} recebeu as seguintes honrarias:\n{1}</VFEE.Honor.Bestow.Success>
+
   <VFEE.Honor.NoHonors>Deve ter honrarias pendentes para outorgar.</VFEE.Honor.NoHonors>
 
   <VFEE.ForcedFaction.Empire.CannotDisable>{FACTION} não pode ser desativada, pois é exigida pelo Vanilla Factions Expanded - Empire.</VFEE.ForcedFaction.Empire.CannotDisable>
