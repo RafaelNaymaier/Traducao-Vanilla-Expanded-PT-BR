@@ -1,101 +1,64 @@
-# Tradução Brasileira (PT-BR) para Mods Vanilla Expanded
+# Tradução Vanilla Expanded (PT-BR)
 
-Olá! Bem-vindo ao meu projeto de tradução para a comunidade de RimWorld.
+Este projeto reúne em um único mod as traduções para português brasileiro de toda a série **Vanilla Expanded**. Procuro manter os termos utilizados na tradução oficial do RimWorld sempre que possível, para que os textos combinem com o restante do jogo.
 
-Este repositório contém os arquivos de tradução para o Português do Brasil (PT-BR) de uma seleção de *mods* da popular série Vanilla Expanded.
+*This mod provides Brazilian Portuguese translations for the Vanilla Expanded series. All credits for the original content belong to the Vanilla Expanded Team.*
 
-Esse é um projeto pessoal, queria fazer isso há muito tempo e agora reuni coragem pra fazer. 
-É também minha **primeira experiência com tradução e *modding***, e estou muito animado em contribuir para a comunidade brasileira!
+## 📖 Sobre o Projeto
 
----
+**Até 22 de novembro de 2026, todos os mods Vanilla Expanded que possuem textos dentro do jogo já foram traduzidos.** Alguns mods possuem apenas texturas, ícones ou outros conteúdos visuais, por isso não há nada para traduzir.
 
-## ✨ Mods Atualmente Traduzidos
+Com a chegada da **versão 1.0**, praticamente todas as traduções foram atualizadas e reorganizadas. Acredito que cerca de **99,9% dos textos já estejam traduzidos**, mas ainda pretendo corrigir possíveis erros e melhorar algumas traduções com o tempo.
 
-A tradução já abrange os seguintes módulos da série Vanilla Expanded (e dependências centrais). Para cada um, foi garantida a fidelidade à terminologia oficial do RimWorld.
+## ⚙️ Como Funciona
 
-* **Vanilla Expanded Framework**
-* **Vehicle Framework**
-* **Vanilla Races Expanded - Android**
-* **Vanilla Races Expanded - Archon**
-* **Vanilla Races Expanded - Fungoid**
-* **Vanilla Races Expanded - Genie**
-* **Vanilla Races Expanded - Highmate**
-* **Vanilla Races Expanded - Hussar**
-* **Vanilla Races Expanded - Insector**
-* **Vanilla Races Expanded - Lycanthrope**
-* **Vanilla Races Expanded - Phytokin**
-* **Vanilla Races Expanded - Pigskin**
-* **Vanilla Races Expanded - Sanguophage**
-* **Vanilla Races Expanded - Saurid**
-* **Vanilla Races Expanded - Starjack**
-* **Vanilla Races Expanded - Waster**
-* **Vanilla Genes Expanded - Chapter 2**
-* **Vanilla Factions Expanded - Insectoids 2**
-* **Vanilla Factions Expanded - Medieval 2**
-* **Vanilla Factions Expanded - Pirates**
-* **Vanilla Factions Expanded - Settlers**
-* **Vanilla Gravship Expanded - Chapter 1**
-* **Vanilla Gravship Expanded - Chapter 2**
-* **Vanilla Quests Expanded - Ancients**
-* **Vanilla Quests Expanded - Cryptoforge**
-* **Vanilla Quests Expanded - Deadlife**
-* **Vanilla Quests Expanded - The Generator**
-* **Vanilla Furniture Expanded**
-* **Vanilla Furniture Expanded - Architect**
-* **Vanilla Furniture Expanded - Art**
-* **Vanilla Furniture Expanded - Farming**
-* **Vanilla Furniture Expanded - Medical Module**
-* **Vanilla Furniture Expanded - Power**
-* **Vanilla Furniture Expanded - Production**
-* **Vanilla Furniture Expanded - Security**
-* **Vanilla Furniture Expanded - Spacer Module**
-* **Vanilla Plants Expanded**
-* **Vanilla Plants Expanded - More Plants**
-* **Vanilla Plants Expanded - Mushrooms**
-* **Vanilla Plants Expanded - Succulents**
-* **Vanilla Nutrient Paste Expanded**
-* **Vanilla Temperature Expanded**
-* **Vanilla Anomaly Expanded - Insanity**
-* **Vanilla Armour Expanded**
-* **Vanilla Landmarks Expanded**
-* **Vanilla Traits Expanded**
-* **Vanilla Social Interactions Expanded**
-* **Vanilla Vehicles Expanded**
+**Você não precisa instalar todos os mods Vanilla Expanded para usar a tradução.**
 
----
+O mod utiliza o `LoadFolders.xml` para carregar apenas as traduções dos mods e DLCs que você estiver usando, respeitando também a versão do RimWorld.
 
-## 📝 Sobre o Projeto
+Basta instalar os mods Vanilla Expanded que quiser e ativar a tradução junto com eles. Todo o conteúdo necessário será carregado automaticamente.
 
-Este é um esforço pessoal focado em:
-- Garantir que todas as descrições, *labels*, mensagens e a interface de usuário introduzidas por esses *mods* estejam em português.
-- Manter a **terminologia do jogo o mais fiel e consistente** possível.
+## 📚 Mods Suportados
 
-Qualquer feedback sobre a qualidade da tradução, termos que pareçam estranhos ou erros gramaticais é extremamente bem-vindo!
+A lista completa dos mods traduzidos está disponível na coleção da Steam Workshop:
 
----
+**[Steam Workshop — Mods Traduzidos (Lista Completa)](https://steamcommunity.com/sharedfiles/filedetails/?id=3645593433)**
 
-## 📥 Como Usar (Instalação Manual)
+A coleção serve para você conferir quais mods possuem tradução, não sendo necessário instalar todos eles.
 
-Para instalar manualmente a tradução:
+## 📥 Instalação
 
-1. Baixe a versão mais recente do mod em [🔗 Releases](https://github.com/RafaelNaymaier/Traducao-Vanilla-Expanded-PT-BR/releases/latest)
-2. Extraia o conteúdo.
-3. Copie a pasta resultante **`Tradução Vanilla Expanded PT-BR`** para o diretório de *mods* do RimWorld:
+### Steam Workshop (Recomendado)
 
-   > `...\Steam\steamapps\common\RimWorld\Mods\`
+A maneira mais fácil de instalar e receber atualizações é pela Steam Workshop:
 
----
+**[Tradução Vanilla Expanded (PT-BR) — Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3643091941)**
 
-## 📥 Instalação via Workshop
+Inscreva-se no mod e ative a tradução na lista de mods do RimWorld.
 
-Para a maneira mais fácil de instalar a tradução, inscreva-se no item da Steam Workshop:
+### Instalação Manual
 
-🔗 [Steam Workshop::Tradução Vanilla Expanded (PT-BR)](https://steamcommunity.com/sharedfiles/filedetails/?id=3643091941)
+1. Acesse a página de [Releases](https://github.com/RafaelNaymaier/Traducao-Vanilla-Expanded-PT-BR/releases/latest).
+2. Baixe a versão disponível e extraia os arquivos.
+3. Coloque a pasta da tradução no diretório de mods do RimWorld:
 
-## 🤝 Contribuições
+   `...\Steam\steamapps\common\RimWorld\Mods\`
 
-Como sou novo no *modding*, a contribuição e o *feedback* da comunidade são vitais!
+4. Ative a tradução no menu de mods do jogo.
 
-- Se encontrar algum erro de tradução, por favor, abra uma **`Issue`** detalhando o problema.
+**Observação:** as versões disponíveis no GitHub Releases podem não conter as alterações mais recentes. Para receber atualizações automaticamente, recomendo utilizar a Steam Workshop.
 
-Obrigado por apoiar e desfrute dos mods para o RimWorld em português!
+## 🐛 Problemas e Sugestões
+
+Encontrou algum texto sem tradução, erro de português ou termo que não faz sentido no contexto do jogo?
+
+Você pode deixar um comentário na Workshop ou abrir uma **[Issue no GitHub](https://github.com/RafaelNaymaier/Traducao-Vanilla-Expanded-PT-BR/issues)**.
+
+Se possível, informe qual mod está apresentando o problema e inclua uma captura de tela. Isso facilita bastante a correção.
+
+## 🤝 Créditos
+
+- **Tradução e manutenção:** Naymaier
+- **Mods originais:** Vanilla Expanded Team e respectivos criadores.
+
+Este é um projeto independente de tradução. Todos os créditos pelo conteúdo original pertencem aos seus autores.
